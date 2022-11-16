@@ -1,0 +1,1704 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>38</num>
+  <heading>Traffic Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38.01</num>
+    <heading>Civil Traffic Offenses and Penalties</heading>
+    <section>
+      <num>38.0100</num>
+      <heading>Introduction</heading>
+      <para>
+        <num>1.</num>
+        <text>Tribal Court Enforcement Authority. The Tribal Court will have full authority to enforce the "Civil Traffic Code" on lands within the jurisdiction of the Turtle Mountain Band of Chippewa Indians and defined in the Tribal Constitution. The civil code will apply equally to Indian members, non-member Indians and non-Indians. The Turtle Mountain Tribal Court will have the authority to enforce civil penalties over any driver who violates the civil code. Civil penalties include:</text>
+        <para>
+          <num>a.</num>
+          <text>Fines</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Court Cost</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>License Suspension</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>License Revocation</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>License Point Loss</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Civil Court Orders</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Contempt of Court</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Court will be authorized to issue civil contempt against any individual who fails to comply with an order of the court. Civil contempt may include incarceration and fines.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The commissioned Tribal, Federal, and Housing Authority Police Officers will initiate complaints using the Tribal complaint and summons created in accordance with Title 1, <cite path="1.06">Chapter 1.06</cite> and alternatively, Civil complaints may be signed by private citizens who have witnessed a Civil Code violation.</text>
+        <text>
+          <u>TRIBAL RECIPROCITY WITH STATE OF NORTH DAKOTA</u>
+        </text>
+        <text>The State of North Dakota will be authorized to enforce any Turtle Mountain Tribal Court orders made in accordance with this Civil Traffic Code. The State of North Dakota will have the authorization to enforce court orders from Tribal Court affecting an individual's driving privileges. (See NDCC Section 54-40.2-01 through 54-40.2-09.)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0101</num>
+      <heading>Display of Registration Plates</heading>
+      <para>
+        <num>1.</num>
+        <text>Whenever two registration plates are issued for a vehicle, one such plate shall be attached to the front and one to the rear of the vehicle.  Whenever only one registration plate is issued, the plate shall be attached to the rear.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Registration plates shall be attached firmly and rigidly in a horizontal position and in a conspicuous place. The plate shall at all times be maintained in a legible condition and shall be so displayed that they can be readily and distinctly seen and read. As far as is reasonably possible, the plates must at all times be kept free and clear of mud, ice or snow so as to lie clearly visible. Any peace officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by <cite path="38|38.01|38.0101">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A civil fine of seventy-five dollars ($75.00) may be imposed upon any of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>A person who operates a vehicle for which current registration plate or insert tag has been without such plate or tag being attached to the vehicle.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A person who operates a vehicle with a registration plate attached in a non-rigid or non-horizontal manner or in an inconspicuous place so as to make it difficult to see and read the plate.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>A person who operates a vehicle with registration plate in an illegible condition due to the accumulation of dirt or other foreign matter.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0102</num>
+      <heading>Driving Without a License</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall drive a motor vehicle on the public and/or state highways within the jurisdiction of the Turtle Mountain Tribal Court without a valid driver's or chauffeur's license.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person violating <cite path="38|38.01|38.0102">this section</cite> will be charged with an infraction and penalized civilly with a fine not to exceed sixty dollars ($60).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0103</num>
+      <heading>Permitting an Unauthorized Minor to Drive</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall permit a child or ward under the age of eighteen years to drive a motor vehicle on the public highways unless such minor is licensed to drive.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person convicted of violating <cite path="38|38.01|38.0103">this section</cite> shall be penalized to a fine not to exceed fifty dollars ($50).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0104</num>
+      <heading>Driving Without Required Registration or with Vehicle in Unsafe Condition</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall operate a motor vehicle on the roadways within the jurisdiction of the Turtle Mountain Tribal Court unless such vehicle is in safe condition and complies with registration laws of the Turtle Mountain Tribe and/or State of North Dakota.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person convicted of violating <cite path="38|38.01|38.0104">this Section</cite> shall be sentenced to a fine not to exceed one hundred fifty dollars ($150).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0105</num>
+      <heading>Starting, Turning and Stopping Without Regard to Safety</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall start a vehicle which is stopped, standing or parked unless and until such movement can be made with reasonable safety.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall turn a vehicle at an intersection unless the vehicle is in such position on the highway that such movement can be made with reasonable safety, and a signal of intention to turn right or left, when required, has been given continuously during not less than the last one hundred (100) feet traveled by the vehicle before turning.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall stop or suddenly decrease the speed of a vehicle without first giving an appropriate signal to the driver of any vehicle immediately to the rear when there is opportunity to give such signal.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The signals herein required shall be given either by means of the standard hand and arm signals device.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Every person driving a vehicle approaching an intersection with a stop sign, or a flashing red light, shall stop on the near side of the intersection, or railroad grade crossing at the point where he has a view of approaching traffic and shall not proceed until the intersection in clear.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>No person shall drive a vehicle through, over or within a safety zone. Any person who violates a provision within <cite path="38|38.01|38.0105">this section</cite> shall be penalized to a fine not to exceed fifty dollars ($50).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0106</num>
+      <heading>Speeding</heading>
+      <para>
+        <num>1.</num>
+        <text>Every person operating or driving a vehicle of any character on a highway within the jurisdiction of the Turtle Mountain Tribal Court shall drive in a careful and prudent manner and at a rate of speed no greater than is reasonable and proper under the conditions existing at the point of operation, taking into account the amount and character of traffic, condition of brakes, condition of surface, freedom from obstruction to  view ahead and the rights of any other person entitled to the use of the street or highway.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Where no special hazard exists that requires lower speed for compliance with paragraph.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any speed not in excess of the limits specified in <cite path="38|38.01|38.0106">this Section</cite> shall be lawful, but it is illegal for any person to drive at any speed in excess of the limits specified in <cite path="38|38.01|38.0106">this Section</cite>.</text>
+        <para>
+          <num>a.</num>
+          <text>Twenty-five	(25)	miles	per	hour	in	any	urban	district	unless	a</text>
+          <text>different speed is posted</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Twenty (20) miles per hour when passing a school during recess or when children are coming to or from school during opening and closing hours.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Twenty (20) miles per hour when approaching within fifty (50) feet of a railroad grade crossing or highway intersection or when the driver's view is obstructed within a distance of one hundred (100) feet;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Fifty-five (55) miles per hour under other conditions unless a maximum day time speed of sixty-five (65) miles per hour is permitted on special areas of the state highways.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The speed limits set forth above shall not apply to vehicles when operated with due regard for safety under the direction of the police in the chase or apprehension of violators of the law or of persons charged with or suspects of any such violation, nor to fire departments when traveling in response to a fire alarm, nor to public or private ambulances when traveling in emergencies, this exemption shall not, however, protect the driver of any such vehicle from the consequences of a reckless disregard  of the safety of others.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Any person who drives in excess of the maximum speed greater than is reasonable and proper under the conditions then existing is guilty of speeding and upon conviction thereof, shall be sentenced to a fine not to exceed twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0107</num>
+      <heading>Radar Evidence in Speed Violations</heading>
+      <text>The speed of any motor vehicle may be checked by the use of radio microwaves or other electrical device within the jurisdiction of the Turtle Mountain Tribal Court. The results of such checks shall be accepted as prima facie evidence of the speed of such motor vehicle where the speed of the motor vehicle is at issue. The driver of any such motor vehicle may be issued a traffic complaint and summons under <cite path="38|38.01|38.0107">this section</cite>, provided the officer is in uniform or displays his or her badge of authority and provided that such officer has observed the record of speed of such motor vehicle by the radio microwaves or other electrical device, or has received a radio message from the officer who observed the speed of the motor vehicle recorded by the radio microwaves or other electrical device.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0108</num>
+      <heading>Careless Driving, Care Required, and Due Care Basic Rule; Penalty for Violation</heading>
+      <para>
+        <num>1.</num>
+        <text>No person may drive a vehicle at a speed greater than is reasonable and prudent under the conditions and having regard to the actual and potential hazards then existing. Consistent with the foregoing, every person shall drive at a safe and appropriate speed when approaching and crossing an intersection or railroad grade crossing, when approaching and going around a curve, when approaching a hill crest, when traveling upon any narrow or winding roadway, and when special hazards exist with respect to pedestrians or other traffic or by reason of weather or highway conditions. Any person who drives a vehicle upon a highway or private or public property open to the public for the operation of motor vehicles without heed to the requirements or restrictions of <cite path="38|38.01|38.0108">this section</cite> has committed careless driving, and must be assessed a fee of one hundred twenty dollars ($120).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Care required in operating vehicle.</text>
+        <text>Any person driving a vehicle upon a highway shall drive the vehicle in a careful and prudent manner, having due regard to the traffic, surface, and width of the highway and other conditions then existing, and shall give such warnings as are reasonably necessary for safe operation under the circumstances. No person may drive any vehicle upon a highway in a manner to endanger the life, limb, or property of any person.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Driver to exercise due care.</text>
+        <text>Not withstanding other provisions of <cite path="38.01">this Chapter</cite> or the provisions of any local ordinance, every driver of a vehicle shall exercise due care to</text>
+        <text>avoid colliding with any pedestrian and shall give warning by sounding the horn when necessary and shall exercise proper precaution upon observing any child or any confused, incapacitated, or intoxicated person.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0109</num>
+      <heading>Garages to Report</heading>
+      <text>The person in charge of any garage or repair shop to which is brought any motor vehicle which shows evidence of having been involved in a reportable accident or of being struck by any bullet, shall report or cause a report to be made to a police officer, Turtle Mountain Agency, within twenty-four (24) hours after such motor vehicle is received, and before any repairs are made  to such vehicle, giving the registration number, and the name and address of the owner, operator, or person in control of such vehicle with a description of the location and type of damage to the vehicle or any missing parts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0110</num>
+      <heading>Failure to Drive on Right Side of Roadway</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon all highways of sufficient width, the driver of a vehicle shall drive upon the right half of the highway, except</text>
+        <para>
+          <num>a.</num>
+          <text>when overtaking and passing another vehicle proceeding in the same direction;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>when the right half of the roadway is closed to traffic while under construction or repair or sign posted for one-way traffic or other conditions.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall at any time drive a vehicle to the left side of the roadway</text>
+        <para>
+          <num>a.</num>
+          <text>when approaching the crest of a grade or upon a curve in the distance as to create a hazard in the event another vehicle might approach from the opposite direction,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>when approaching within one hundred (100) feet of or traversing any intersection or railroad grade crossing, or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>when the view is obstructed upon approaching within one hundred (100) feet of any bridge, viaduct, or tunnel.</text>
+          <text>Any driver failing to comply with <cite path="38|38.01|38.0110">this Section</cite> will be assessed a civil penalty of not more than fifty dollars ($50).</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0111</num>
+      <heading>Following Too Closely</heading>
+      <text>The driver of a motor vehicle shall not follow another vehicle more closely than is reasonable and prudent, having due regard to the speed of such vehicle and traffic upon and condition of the highway. Any driver who follows to close will be assessed a civil penalty of not more than thirty-five dollars ($35).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0112</num>
+      <heading>Overtaking a Vehicle Without Regard to Safety</heading>
+      <para>
+        <num>1.</num>
+        <text>The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass it at a safe distance to the left, and shall not again drive to the right side of the roadway until safely clear of the overtaken vehicle.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The driver of an overtaking vehicle on signal and shall not increase the speed of his vehicle until completely passed by the overtaking vehicle.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall drive a vehicle to the left side of the center line of a highway in overtaking another vehicle unless such left side is clearly visible and is free from oncoming traffic for a sufficient distance ahead to permit such overtaking to be made in safety. No driver shall overtake another vehicle in a no passing zone. A driver who overtakes a vehicle without regard to safety will be assessed a civil penalty of not more than sixty-five dollars ($65).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0113</num>
+      <heading>Failure to Stop for School Bus Flashing Lights</heading>
+      <para>
+        <num>1.</num>
+        <text>Every driver shall stop before reaching a school bus receiving or discharging school children, when flashing lights are in operation, and shall not proceed until the school bus resumes motion, or signaled by the</text>
+        <text>driver to proceed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any driver failing to stop and wait at such signal commits a violation and upon conviction thereof shall be sentenced to a fine not to exceed one hundred twenty dollars ($120).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0114</num>
+      <heading>Failure to Give Right of Way</heading>
+      <para>
+        <num>1.</num>
+        <text>The driver of a vehicle about to enter or cross a highway from a private drive or road shall yield the right of way to all vehicles approaching on the highway.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When two (2) vehicles from different highways enter an intersection at approximately the same time, the driver of the vehicle on the left shall yield the right of way to all vehicles approaching on the highway.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The driver of a vehicle within an intersection intending to turn left shall yield the right of way to any vehicle approaching from the opposite direction which is so close as to constitute an immediate hazard.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The driver of a vehicle approaching, but not having entered an intersection, shall yield the right of way to a vehicle already within such intersection and making a left turn, providing the driver of the vehicle turning left has given a plainly visible signal of intention to turn.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Upon the immediate approach of an authorized emergency vehicle making use of audible or flashing light signals, the driver of every other vehicle shall yield the right of way and shall immediately drive to a position as close as possible to the right hand edge of the road and stop until the emergency vehicle has passed. This provision shall not operate to relieve the driver of an authorized emergency vehicle from the duty to drive with due regard for the safety of all persons using the highways.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The driver of any vehicle upon a highway within a business or residence district shall yield the right of way to a pedestrian crossing at any marked or unmarked crosswalk at an intersection. Any driver who fails to give right of way will be penalized forty dollars ($40).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0115</num>
+      <heading>Stopping, Standing or Parking on a Highway</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall park or leave standing any vehicle, whether attended or unattended, upon the paved or unpaved or main traveled portion of any highway outside of a business or residence district within the  jurisdiction of the Turtle Mountain Tribal Court, when it is practicable  to part or leave such vehicle standing off of the paved or unpaved or main traveled portion of such highway; but in every event an unobstructed width of highway opposite the standing vehicle shall be left free for the  passage of other vehicles and the vehicle must be clearly visible for a distance of five hundred (500) feet to the driver of vehicles approaching from either direction.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When any duly authorized law officer finds a vehicle standing upon a highway within the jurisdiction of the Turtle Mountain Tribal Court in violation of this provision, he is hereby authorized to move such vehicle or require the driver or person in charge of such vehicle to move such vehicle to the nearest place of safety.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, effectively setting the brake, and, when standing upon any grade, turning the front wheels to the curb or side of the highway. Any driver who starts, stops or parks on a roadway in violation of <cite path="38|38.01|38.0115">this Section</cite> will be penalized thirty-five dollars ($35).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0116</num>
+      <heading>Coasting</heading>
+      <text>No driver of a motor vehicle when traveling upon a downgrade shall coast with the gears of the vehicle in neutral or with the clutch manually disengaged. Any driver who is coasting in violation of <cite path="38|38.01|38.0116">this section</cite> will be penalized twenty dollars ($20).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0117</num>
+      <heading>Obstruction to Driver's View or Driving Mechanism</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall drive a vehicle when it is so loaded, or when there are in the front seat such number of persons, exceeding three (3), as to obstruct the view of the driver to the front or sides of the vehicle or as to interfere with the driver's control over the driving mechanism of the vehicle.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No passenger in a vehicle shall ride in such position as to interfere with the driver's view ahead or to the sides, or to interfere with his control over the driver's mechanism of the vehicle. Any driver who violates <cite path="38|38.01|38.0117">this Section</cite> will be penalized twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0118</num>
+      <heading>Driving Without Liability Insurance Prohibited</heading>
+      <text>No person may drive a motor vehicle on the Turtle Mountain Indian Reservation without having a "Certificate of Approved Liability Insurance or other comparable Insurance" in his or her possession in the vehicle. The certificate will be issued by the "Turtle Mountain Highway Director" for a fee to be established by the Tribal Council. The Turtle Mountain Highway Director will have the authority to implement regulations in accordance with <cite path="38|38.01|38.0118">this section</cite>. Any person violating <cite path="38|38.01|38.0118">this Section</cite> shall be penalized to a fine not to exceed one hundred fifty dollars ($150) and/or suspension of driving privilege until the driver can present liability insurance.</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <th>38.0119</th>
+              <td proof="needed">
+                <p>
+                  <strong>
+                    <u>Riding on fenders, bumpers or running boards.</u>
+                  </strong>
+                </p>
+                <p>No	driver	shall	permit	passengers	to	ride	on	the	offenders,	bumpers</p>
+              </td>
+              <td>or</td>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <td>running boards nor shall any passenger ride on the fenders, bumpers  running boards of a vehicle. Any driver who violates <cite path="38|38.01|38.0118">this Section</cite> will penalized twenty-five dollars ($25).</td>
+              <td>or be</td>
+            </tr>
+            <tr>
+              <th>38.0120</th>
+              <th>
+                <u>Pedestrians on roadways without regard for safety.</u>
+              </th>
+              <td proof="needed"/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Every pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield right of way to all vehicles upon the roadway.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Where sidewalks are provided it is unlawful for any pedestrian to walk along or upon an adjacent roadway. Where sidewalks are not provided a pedestrian walking along a highway shall, when practical, walk only on the left side of the roadway or its shoulder facing traffic which may approach from the opposite direction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall stand in a roadway for the purpose of soliciting a ride, employment or business from the occupant of any care.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No person shall walk upon or along the highway while under the influence of intoxicating liquor. Any person who violates <cite path="38|38.01|38.0118">this section</cite> will be penalized thirty-five dollars ($35).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0121</num>
+      <heading>Garbage, Glass, Etc. on Highways</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall throw or deposit upon the highway any glass bottle, glass, nails, tacks, wire, cans, rubbish or any other thing likely to injure any person, animal or vehicle.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who drops or permits to be dropped or thrown, upon any highway, any destructive or injurious material shall immediately remove the same or cause it to be removed.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person removing a wrecked or damaged vehicle from the highway shall remove any glass or injurious substance dropped upon the highway from such vehicle. Any person who violates <cite path="38|38.01|38.0121">this section</cite> will be penalized fifty dollars ($50).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0122</num>
+      <heading>Open Bottle in Vehicle</heading>
+      <text>No person shall drink or consume alcoholic beverages in or on any motor vehicle when such vehicle is upon a public highway or in an area used principally for public parking. No person shall have in his possession on his</text>
+      <text>Page 6 of 33</text>
+      <text>December 2012</text>
+      <text>person while in or on a private vehicle upon a public highway or in an area used principally for public parking within the jurisdiction of the Turtle Mountain Tribal Court, any bottle or receptacle containing such alcoholic beverages which has been opened, or the seal broken, or the contents of which have been partially removed. It shall be unlawful for the owner of any  private motor vehicle or the driver, if the owner be not then present in or  on the motor vehicle, to keep or allow to be kept in a motor vehicle' when such vehicle is upon the public highway or in an area used principally for public parking within the jurisdiction of the Turtle Mountain Tribal Court, any bottle or receptacle containing such alcoholic beverages which has been opened, or the seal broken, or the contents of which have been partially removed except when such bottle or receptacle shall be kept in the trunk of the motor vehicle when such vehicle is equipped with a trunk, or kept in some other area of the vehicle not normally occupied by the driver of passengers  if the motor vehicle is not equipped with a trunk. A utility compartment or glove compartment shall be deemed to be within the area occupied by the drivers and passenger. Any person violating the provisions of <cite path="38|38.01|38.0122">this Section</cite> shall be penalized by a fine of not more than fifty dollars ($50).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0123</num>
+      <heading>Driving in Violation of an Order of the Court</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person whose right to operate a motor vehicle has been suspended by the Court and who, within the period fixed by the Court's order, drives or attempts to drive a motor vehicle upon a public highway is guilty of an offense.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Every person who is convicted of driving in violation of an order of the Court shall be sentenced to a fine not to exceed two hundred dollars ($200), and within the discretion of the Court may be further deprived of the right to operate a motor vehicle for an additional period of one (1) year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0124</num>
+      <heading>Duties in the Event of an Accident</heading>
+      <para>
+        <num>1.</num>
+        <text>The driver of any motor vehicle involved in an accident resulting in property damage to any vehicle which is driven or attended by any person, shall immediately stop such vehicle at the scene of such accident as close thereto as possible, and shall give his name, address, and if available, exhibit his driver's or chauffeur's license to the person struck or the driver or occupant of or person attending any vehicle collided with and shall render to any person injured in such accident reasonable assistance, including hospital and medical attention.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The driver of any vehicle which collides with any vehicle which is unattended shall immediately stop and shall then and there either locate and notify the operator or owner of such vehicle of the name and address of the driver and of the owner of such vehicle doing the striking and a statement of the circumstances thereof.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The driver of any vehicle involved in an accident resulting in damage of fixtures or other property legally upon or adjacent to a highway shall take reasonable steps to locate and notify the owner or person in charge of such property of the accident and of his name and address and of the registration number of the vehicle he is driving and shall upon request and if available, exhibit his operator's or chauffeur's license. Any driver who violates <cite path="38|38.01|38.0124">this Section</cite> will be penalized fifty dollars ($50).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0125</num>
+      <heading>Law Officers to Report Accidents</heading>
+      <text>Every Turtle Mountain Jurisdiction law enforcement officer, who, in the regular course of duty, investigates a motor vehicle accident either at the time of and at the scene of the accident or thereafter by interviewing the participants or witnesses shall, within twenty-four (24) hours after completing such investigation, forward a written report of the accident to the Captain of Police, Turtle Mountain Agency, Branch of Law Enforcement Services. Any officer who fails to comply with <cite path="38|38.01|38.0125">this Section</cite> will be   subject</text>
+      <text>Page 7 of 33</text>
+      <text>December 2012</text>
+      <text>to disciplinary action.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0126</num>
+      <heading>Crash Helmets Required for Operators of and Passengers on Motorcycles</heading>
+      <text>Every operator and passenger on a motorcycle shall at all times when such motorcycle is in motion be required to wear a crash helmet. Any operator or passenger who violates <cite path="38|38.01|38.0126">this Section</cite> penalized twenty-five dollars ($25).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0127</num>
+      <heading>Number of Riders on Motorcycles Limited</heading>
+      <text>No motorcycle, designed to travel with fewer than three (3) wheels in contact with the ground, shall be operated with more than one (1) person thereon except that a motorcycle may be operated with not more than two (2) persons riding thereon, if such motorcycle is designed specifically for the purpose  of carrying more than one (1) person, in which event a passenger may ride  upon the permanent and regular seat if designed for two (2) persons, or upon another seat attached firmly behind the operator. Any driver who violates <cite path="38|38.01|38.0127">this Section</cite> will be penalized fifty dollars ($50).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0128</num>
+      <heading>When Lighted Lamps Are Required</heading>
+      <text>Every vehicle upon a highway within the jurisdiction of the Turtle Mountain Tribal Court at any time from a half hour after sunset to a half hour before sunrise and at any time other than when, due to insufficient light or unfavorable atmospheric conditions, persons and vehicles on the highway are not clearly discernible at a distance of five hundred (500) feet ahead shall display lighted lamps and illuminating devices. Any driver who violates <cite path="38|38.01|38.0128">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0129</num>
+      <heading>Visibility Distance and Mounted Height of Lamps</heading>
+      <para>
+        <num>1.</num>
+        <text>Whenever requirement is hereinafter declared as to distance from which certain lamps and devices shall render objects visible or within which such lamps or devices shall be visible, said provisions shall apply during the times stated in <cite path="1|1.23|1.2331">Section 1.2331</cite> in respect to a vehicle without load when upon a straight, level, unlighted highway under normal atmospheric conditions unless a different time or condition is expressly stated.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Whenever requirement is hereinafter declared as to the mounted height of lamps or devices it shall mean from the center of such lamp or device to the level ground upon which the vehicle stands when such vehicle is without a load. Any driver who violates <cite path="38|38.01|38.0129">this Section</cite> will be penalized twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0130</num>
+      <heading>Head Lamps on Motor Vehicles</heading>
+      <para>
+        <num>1.</num>
+        <text>Every motor vehicle other than a motorcycle or motor driven cycle shall be equipped with at least two (2) head lamps with at least one (1) on each side of the front of the motor vehicle, which head lamps shall comply with the requirements and limitations set forth in <cite path="38.01">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Every motorcycle and every motor driven cycle shall be equipped with at least one (1) and nor more than two (2) head lamps which shall comply with the requirements and limitations of the chapter.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Every head lamp upon every motor vehicle, including every motorcycle and motor driven cycle shall be located at a height measured from the center or the head lamp of not more than fifty-four (54) inches nor less than twenty-four (24) inches to be measured as set out further in subsection 2 of <cite path="38|38.01|38.0129">section 38.0129</cite>. Any driver who violates <cite path="38|38.01|38.0130">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0131</num>
+      <heading>Tail Lamps</heading>
+      <para>
+        <num>1.</num>
+        <text>Every motor vehicle, trailer, semi-trailer, pole-trailer, and any other vehicle which is being drawn at the end of a train or vehicle, shall be equipped with at least one (1) tail lamp mounted on the rear, which, when lighted as hereinbefore required, shall emit a red light plainly visible from a distance of one thousand (1,000) feet to the rear provided that in</text>
+      </para>
+      <text>Page 8 of 33</text>
+      <text>December 2012</text>
+      <text>the case of a train of vehicles only the tail lamp on the rear most vehicle need actually be seen from the distance required. Every such above mentioned vehicle manufactured or assembled after January 1, 1964, shall be equipped with at least two (2) tail lamps mounted on the rear, on the same level and as widely spaced laterally as practicable, which when lighted as herein required shall comply with the provisions of <cite path="38|38.01|38.0131">this section</cite>.</text>
+      <para>
+        <num>2.</num>
+        <text>Every tail lamp upon every vehicle shall be located at a height of not more than seventy-two (72) inches and not less than twenty (20)    inches.</text>
+        <para>
+          <num>(3)</num>
+          <text>Either a tail lamp or a separate lamp shall be so constructed and placed as to illuminate with a white light the rear registration plate and render it clearly legible from a distance of fifty (50) feet to the rear. Any tail lamp or tail lamps together with any separate lamp for illuminating the rear registration plate shall be so wired as to be lighted whenever the headlamps or auxiliary driving lamps are lighted. Any driver who violates <cite path="38|38.01|38.0131">this section</cite> will be penalized twenty-five dollars ($25).</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0132</num>
+      <heading>Lamp of Flag on Projecting Load</heading>
+      <text>Whenever the load upon any vehicle extends to the rear four (4) feet or more beyond the bed or body of such vehicle there shall be displayed at the extreme rear end of the load at the time specified in <cite path="38|38.01|38.0131">Section 38.0131</cite>, a red light or lantern plainly visible from a distance of at least six hundred (600) feet to the sides and rear. The red light or lantern required under <cite path="38|38.01|38.0132">this section</cite> shall be in addition to the red rear light required upon every vehicle. At any other time there shall be displayed at the extreme rear ends of such load a red flag or cloth not less than twelve (12) inches square and so hung that the entire area is visible to the driver of a vehicle approaching from the rear, unless such vehicle is in safe condition. Any driver who violates <cite path="38|38.01|38.0132">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0133</num>
+      <heading>Brake Equipment Required</heading>
+      <para>
+        <num>1.</num>
+        <text>Every motor vehicle, other than a motorcycle or motor driven cycle, when operated upon a highway within the jurisdiction of the Turtle Mountain Tribal Court shall be equipped with brakes adequate to control the movement of and to stop and hold such vehicle, including two (2) separate means of applying the brakes, each of which means shall be effective to apply the brakes to at least two (2) wheels. If these two (2) separate means of applying brakes are connected in any way, they shall be so constructed that failure of anyone part of the operating mechanism shall not leave the motor vehicle without brakes on at least two (2) wheels.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Every farm tractor, motorcycle and motor driven cycle, when operated upon a highway within the jurisdiction of the Turtle Mountain Tribal Court shall be equipped with at least one (1) brake, which may be operated by hand or foot. (3) Every trailer or semi-trailer when operated upon a highway within the jurisdiction of the Turtle Mountain Tribal Court at a speed in excess of fifteen (15) miles per hour shall be equipped with safety chains or brakes adequate to control the movement of and to stop  and to hold such vehicle and so designed as to be applied by the driver of the towing motor vehicle from its cab, and said brakes shall be so  designed and connected that in case of an accidental break away of the towed vehicle the brakes shall be automatically applied. Any driver who violates <cite path="38|38.01|38.0133">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0134</num>
+      <heading>Horns and Warning Devices</heading>
+      <para>
+        <num>1.</num>
+        <text>Every motor vehicle when operating on a highway within the jurisdiction of the Turtle Mountain Tribal Court shall be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than two hundred (200) feet, but no horn or other warning device shall emit an unreasonably loud or harsh</text>
+      </para>
+      <text>Page 9 of 33</text>
+      <text>December 2012</text>
+      <text>sound or a whistle. The driver of a motor vehicle shall when reasonably necessary to insure safe operation give audible warning with his horn but shall not otherwise use such horn when upon a highway.</text>
+      <para>
+        <num>2.</num>
+        <text>No vehicle shall be equipped with nor shall any person use upon a vehicle any siren, whistle, or bell except as otherwise permitted in <cite path="38|38.01|38.0134">this section</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any commercial vehicle may be equipped with a theft alarm signal device which is so arranged that it cannot be used by the driver as an ordinary warning signal.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any authorized emergency vehicle may be equipped with a siren, whistle or bell, capable of emitting sound audible under normal conditions from a distance of not less than five hundred (500) feet and a type approved by the department of motor vehicles, State of North Dakota, but such siren shall not be used except when such vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law, in which said latter events the driver of such  vehicle shall sound said siren when reasonably necessary to warn pedestrians and other drivers of the approach thereof and to attract the attention of the pursued car thereby giving the driver of the pursued car an order to pull over to the side of the road and to stop. Any driver who violates <cite path="38|38.01|38.0134">this section</cite> shall be penalized twenty-five dollars ($25).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0135</num>
+      <heading>Mufflers, Prevention of Noise</heading>
+      <text>Every motor vehicle shall at all times be equipped with a muffler in good working order and in constant operation to prevent excessive or unusual noise and annoying smoke, and no person shall use a muffler cut out, bypass or similar device upon a motor vehicle. Any driver who violates <cite path="38|38.01|38.0135">this Section</cite> shall be penalized thirty dollars ($30).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0136</num>
+      <heading>Mirrors</heading>
+      <text>Every motor vehicle shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least two hundred</text>
+      <text>(200) feet to the rear of such motor vehicle. Any driver who violates <cite path="38|38.01|38.0136">this section</cite> shall be penalized ten dollars ($10).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0137</num>
+      <heading>Windshields Must Be Unobstructed and Equipped with Wipers</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall drive any motor vehicle with any sign, poster or other non-transparent material upon the front windshield, side wings of side or rear windows of such vehicle which obstructs the driver's clear view of the highway or any intersecting highway.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The windshield on every motor vehicle shall be equipped with a device for cleaning rain, snow or other moisture from the windshield which device shall be so constructed as to be controlled by the driver of the vehicle.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Every windshield wiper upon a motor vehicle be maintained in good working order. Any driver who violates <cite path="38|38.01|38.0137">this Section</cite> will be penalized ten dollars ($10).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0138</num>
+      <heading>Restrictions on Tire Equipment</heading>
+      <para>
+        <num>1.</num>
+        <text>Every solid rubber tire on a vehicle shall have rubber on its entire traction surface at least one (1) inch thick above the edge of the flange of the entire periphery.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall operate or move on any highway within the jurisdiction of the Turtle Mountain Tribal Court any motor vehicle trailer or semi-trailer having any metal tire in contact with the roadway.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No tire on a vehicle moved on a highway shall have on its periphery any block, stud, flange, cleat or spike or any other protuberance of any material other than rubber which projects beyond the tread of the traction surface of the tire, except that it shall be permissible to use farm machinery with tires which have protuberances which will not injure the highway, and except also that it shall be permissible to use tire chains of reasonable proportions. It shall also be permissible to use from</text>
+      </para>
+      <text>Page 10 of 33</text>
+      <text>December 2012</text>
+      <text>October 15th to April 15th, pneumatic tires which have metal studs which do not project more than one-sixteenth (1/16) of an inch beyond the tread of the traction surface of the tire. Any driver who violates <cite path="38|38.01|38.0138">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0139</num>
+      <heading>Vehicle to Be Constructed to Prevent Sifting or Leaking Loads</heading>
+      <text>No vehicle shall be driven or moved on any highway unless it is so constructed or loaded as to prevent its contents from dropping, sifting, leaking, or otherwise escaping there from, except that sand may be dropped for the purpose of securing traction, or water or other substance may be sprinkled on a roadway in cleaning or maintaining the roadway. No person shall operate on any highway any vehicle with any load unless the load and any covering thereon is securely fastened so as to prevent said covering or load from becoming loose, detached or in any manner be hazard to other users of the highway. Any driver who violates <cite path="38|38.01|38.0139">this section</cite> will be penalized twenty dollars ($20).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0140</num>
+      <heading>Special Lighting and Warning Equipment on School</heading>
+      <text>It shall be unlawful to operate any flashing warning signal light on any school bus except when said school bus is stopped on a highway for the purpose of permitting school children to board or alight from said school bus. Any driver who violates <cite path="38|38.01|38.0140">this section</cite> will be penalized twenty-five dollars ($25).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0141</num>
+      <heading>Duty of Drivers upon Approach of Police or Fire Department Vehicle</heading>
+      <text>Upon the approach of any police or fire department vehicle giving an audible signal by bell, siren or exhaust whistle. The driver of every other vehicle immediately shall drive the same to a position as near as possible and parallel to the right hand edge or curb of the highway, clear of any intersection of highways, and shall stop and remain in such position unless otherwise directed by a police or traffic officer until the police of fire department vehicle shall have passed. Any person found in violation of the above shall be deemed guilty of an offense and upon conviction thereof, shall be sentenced a fine not to exceed one hundred dollars ($100).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0142</num>
+      <heading>Penalties Not Otherwise Prescribed</heading>
+      <text>Any person convicted of an offense enumerated in <cite path="38.01">this chapter</cite> for which the penalty is not otherwise prescribed shall be sentenced under <cite path="38|38.01|38.0142">this Section</cite> to a fine of not more than one hundred dollars ($100) and the Court shall take into consideration any circumstances urged for the imposition of a lesser amount.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0143</num>
+      <heading>Parking Privileges for Mobility Impaired; Certification Revocations; Ongoing Appropriations; Penalties</heading>
+      <para>
+        <num>1.</num>
+        <text>Any mobility-impaired person who displays prominently upon an automobile parked by that person or under that person's direction and for that person's use, the distinguishing certificate specified in subsection two.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A mobility-impaired person as used in <cite path="38|38.01|38.0143">this section</cite> includes any person who uses portable oxygen, requires personal assistance or the use of crutches, a wheelchair, or a walker to walk two hundred feet without rest; is restricted by cardiac, pulmonary, or vascular disease from walking two hundred feet without rest, has a forced expiratory volume of less than on liter for one second or an arterial oxygen tension of less than sixty millimeters of mercury on room air while at rest and is classified III or IV by standards for cardiac disease set by the American Heart Association; or has an orthopedic, neurological or other medical condition that makes  it impossible for the person to walk two hundred feet without assistance  or rest.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Turtle Mountain Motor Vehicle Department may issue, for a fee per year or part of a year, a special identifying certificate to any mobility</text>
+      </para>
+      <text>Page 11 of 33</text>
+      <text>December 2012</text>
+      <text>impaired applicant upon submission by the applicant of a completed application and a written statement issued by a qualified physician to the Turtle Mountain Motor Vehicle Department that the applicant is a mobility- impaired person within the criteria of Subsection 2. The Turtle Mountain Motor Vehicle Department shall waive the requirement for a written statement from a qualified physician if the applicant has previously submitted an application containing certification that the impairment is not reversible. The application must include the information required by the Turtle Mountain Motor Vehicle Department. The physician's statement must describe how the impairment limits the applicant's mobility and daily life functions of the applicant. The certificate is valid for a period, not to exceed three years, as determined by the Turtle Mountain Motor Vehicle Department. A Physician who provides a false statement that a person is mobility impaired for the purpose of that person to obtain the certificate under this subsection is guilty of an infraction for which a minimum fine of one hundred dollars must be imposed. A certificate issued under this subsection must be 5 inches in height and 3.5 inches in width and must bear, in white (color) on blue (color), the internationally accepted symbol of access for the mobility impaired. The certificate must bear the expiration date and registration number assigned by the Turtle Mountain Motor Vehicle Department. This Department shall adopt rules governing the issuance of the certificate. A temporary certificate valid for an initial period not to exceed three (3) months may be issued by this Department for a fee of three dollars ($3) upon application supported by a physician's statement. One additional temporary certificate may be issued if lost, stolen or mutilated for a cost three dollars ($3). The temporary certificate may be extended an additional period, not to exceed three months, upon application supported by a physician's statement that the extension is warranted. Temporary certificates will measure 5 inches in height and 3.5 inches in width and white on blue (color).</text>
+      <para>
+        <num>4.</num>
+        <text>A certificate issued under <cite path="38|38.01|38.0143">this Section</cite> must be hung from the rearview mirror of the motor vehicle whenever the vehicle is occupying a space reserved for the mobility impaired and is being used by a mobility impaired or another person for the purposes of transporting the mobility- impaired person. No part of the certificate must be obscured. A fee of five dollars ($5) may be imposed for a violation of this Subsection.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>An applicant may appeal a decision denying issuance of the certificate to the Director of the Turtle Mountain Motor Vehicle Department. Written notice of the appeal must be received within ten business days following receipt by the applicant of notice of denial. The applicant has sixty (60) days to provide additional supportive materials to the Director for purposes of deciding the appeal. The Director shall affirm or reverse the decision to deny issuance of the certificate within thirty days after receipt of the supportive material. Written notice of the decision must be given to the applicant.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If a law enforcement officer finds that the certificate is being improperly used, the officer may report to the Turtle Mountain Motor Vehicle Department any such violation, and this Department may remove the privilege. Any person who is not mobility-impaired and who exercises the privilege granted a mobility-impaired person under subsection one is guilty of an infraction for which a fine of one hundred dollars ($100) must be imposed.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Whenever any public or private entity designates parking spaces for use by motor vehicles operated by mobility-impaired persons, those reserved spaces must comply with the requirements of the American with Disabilities Accessibility Guidelines for Buildings and Facilities as contained in the appendix to Title 28, Code of Federal Regulations, part 36 (28 CFR 36) and must be indicated by blue paint on the curb or edge of the paved portion of the street or parking lot adjacent to the space. In addition to blue paint, each reserved space must be indicated by an official sign   bearing</text>
+      </para>
+      <text>Page 12 of 33</text>
+      <text>December 2012</text>
+      <text>the internationally accepted symbol of access for the mobility-impaired. The sign must indicate that unauthorized use of the space is a non-moving violation for which a fee of one hundred dollars must be imposed. For particular events, a public or private entity may reserve additional parking spaces. In that case, each temporarily reserved space must be indicated by a sign or other suitable means. A sign indicating that a space is reserved for the mobility-impaired and blue paint on the curb or edge of the paved portion of the street or parking lot adjacent to the space, unless the space is a temporary mobility-impaired parking space, is sufficient basis for the enforcement of <cite path="38|38.01|38.0143">this section</cite>. A law enforcement officer shall enforce <cite path="38|38.01|38.0143">this section</cite> in any parking lot or parking facility, whether publicly or privately owned.</text>
+      <para>
+        <num>8.</num>
+        <text>A person may not stop, stand, or park any vehicle in any designated parking space that is reserved for the mobility-impaired unless the vehicle displays a identifiable certificate for that person. A mobility- impaired person may not permit the use of a certificate issued under <cite path="38|38.01|38.0143">this section</cite> by a person who is not mobility-impaired when that use is not in connection with the transport of the mobility-impaired person. The registered owner of a vehicle may not allow that vehicle to be used in a manner that violates this Subsection. Proof of intent is not required to prove a registered owner's violation of this Subsection.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Any motor vehicle licensed in another state or tribe which displays a special authorized vehicle designation issued by the licensing authority  of that state or tribe for vehicles used in the transportation of mobility-impaired persons must be accorded the same privilege provided in <cite path="38|38.01|38.0143">this Section</cite> for similar vehicles licensed on the Turtle Mountain Reservation if the laws of the other state provide the same privileges Turtle Mountain motor vehicles displaying the special identifying certificate authorized in <cite path="38|38.01|38.0143">this Section</cite> if the laws of the other state provide the same privileges Turtle Mountain motor vehicles displaying the special identifying certificate authorized in <cite path="38|38.01|38.0143">this section</cite>.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>An entity that violates the requirements of Subsection seven is guilty of an infraction if the entity does not comply with subsection seven within sixty days after receiving official notification of the violation.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Special plates and placard for mobility-impaired persons. The Director of the Turtle Mountain Motor Vehicle Department may issue, for a minimal fee upon application (including doctors statement) and regular license fee, with emblem displaying internationally accepted symbol of access for the mobility impaired to any motor vehicle owner who possesses a parking certificate issued under subsection two. However, this does not apply to applicants who possess more than one parking certificate issued under Subsection 2.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0144</num>
+      <heading>Exhibition Driving and Drag Racing; Definitions; Penalty</heading>
+      <para>
+        <num>1.</num>
+        <text>No person may engage in exhibition driving of any vehicle on a highway, street, alley, sidewalk, or any public or private parking lot or area, nor may any person engage in a race, a speed competition, drag race or acceleration contest, test of physical endurance, or exhibition of speed or acceleration. Any person who violates <cite path="38|38.01|38.0144">this Section</cite> by engaging in an act defined by Subdivision (b) of Subsection (2) must be assessed a fee of fifty dollars ($50). Any person who violates <cite path="38|38.01|38.0144">this Section</cite> by engaging in an act defined by Subdivision (a) or (c) of Subsection (2) must be assessed a fee of on</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>As used in <cite path="38|38.01|38.0144">this Section</cite>:</text>
+        <para>
+          <num>a.</num>
+          <text>"DRAG RACE" means the operation of two or more vehicles from a point side by side by accelerating rapidly in a competitive attempt to cause one vehicle to outdistance the other; or the operation of one or more vehicles over a common selected course from the same point to the same point for the purpose of comparing the relative speed or powers of acceleration of such vehicle or vehicles within a certain distance or time limit.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"EXHIBITION DRIVING" means driving a vehicle in a manner which disturbs the peace by creating or causing unnecessary engine noise, tire squeal, skid, or slide upon acceleration or braking; or driving and executing or attempting one or a series of unnecessarily abrupt turns.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>"RACE" means the use of one or more vehicles in an attempt to out gain, outdistance or to arrive at a given distance ahead of another vehicle or vehicles; or the use of one or more vehicles to willfully prevent another vehicle from passing the racing vehicle or vehicles, or to test the physical stamina or endurance of the persons driving the vehicles over a long distance driving route.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Nothing in <cite path="38|38.01|38.0144">this section</cite> shall be construed as prohibiting drag racing, exhibition driving, or similar events when carried out in an organized manner on a track or other privately owned area specifically set aside and used solely for such purposes by drivers of motor vehicles; including snowmobiles. Any driver who violates <cite path="38|38.01|38.0144">this Section</cite> will be penalized to one hundred dollars ($100).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0145</num>
+      <heading>The Use of Seat Belts in Passenger Vehicles</heading>
+      <text>The use of seat belts in passenger vehicles shall be a requirement and all vehicle occupants over the age seven (7) must have a safety belt properly fastened about his/her body at all times when the vehicle is in motion. Violators of <cite path="38|38.01|38.0145">this section</cite> are subject to a civil assessment fee of $25 first offense; $35 second offense, and $50 third offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0146</num>
+      <heading>Children Under the Age of Seven (7) Are Required to Ride in a Child Restraint</heading>
+      <text>
+        <strong>
+          <u>according to manufacturer's instructions.</u>
+        </strong>
+      </text>
+      <text>A seat belt may be substituted for children under age seven (7) who weigh at least eighty (80) pounds and who are at least fifty-seven (57) inches tall.   A lap belt may be used by children over forty (40) pounds who ride in vehicles with lap-only seat belts. (This is because booster seats require both a lap and shoulder belt for correct use). All children ages seven (7) through seventeen (17) must be properly secured in a seat belt or a child restraint. The law applies to all seating positions – front seat and back.  The driver is responsible for assuring that all occupants under age eighteen</text>
+      <para>
+        <num>(18)</num>
+        <text>are buckled up in the appropriate restraint. The penalty for this violation is $25.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0147</num>
+      <heading>Seat Belt Safety and Child Restraint</heading>
+      <para>
+        <num>1.</num>
+        <text>The use of seat belts in passenger vehicles shall be a requirement and all vehicle occupants must have a safety belt properly fastened about his/her body at all times when the vehicle is in motion.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violators of <cite path="38|38.01|38.0147">this section</cite> are subject to a civil assessment fee of $25 first offense; $35 second offense, and $50 third offense.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Children under the age of three (3) must be secured in a child restraint that meets safety standards adopted by the United States Department of Transportation and be used according to manufacturers instructions. While the motor vehicle is moving, each child of three (3) through ten (10) years of age must be in a child restraint system or buckled seatbelt. Violation is punishable by a fine not to exceed ($20) dollars.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0148</num>
+      <heading>Operating Motor Vehicles on Groomed Snowmobile Trails</heading>
+      <para>
+        <num>1.</num>
+        <text>It is unlawful for any operator to operate a motor vehicle, other than a snowmobile, on the groomed snowmobile trails;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who violates <cite path="38|38.01|38.0148">this section</cite> will be penalized a minimum fine   of</text>
+        <text>$25 or maximum fine of $100 with a minimum of one (1) day jail or maximum thirty (30) days in jail.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0149</num>
+      <heading>Operating Motor Vehicles on Groomed Snowmobile Trails, or Riding Horse, Operating an Atv, Snowmobile or Any Other Motorized Vehicles on the Bike</heading>
+      <text>
+        <strong>
+          <u>path.</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>It is unlawful for any operator to operate a motor vehicle on the groomed snowmobile trails or ride horse, operate an ATV, snowmobile or any other motorized vehicle on the bike path</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person found to be in violation shall be deemed guilty of an offense and upon conviction thereto, shall be sentenced to labor for a period not to exceed thirty (30) days or to a fine not to exceed one hundred dollars ($100) or to both such fine and imprisonment, with costs.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0150</num>
+      <heading>Operating a Motor Vehicle with Passenger(S) in Uncovered Pick-up Boxes</heading>
+      <para>
+        <num>1.</num>
+        <text>It is unlawful for any operator to operate a motor vehicle with passenger(s) in uncovered pick-up boxes in case of a vehicular accident or covered with toppers due to the possibility of carbon monoxide poisoning.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who violates <cite path="38|38.01|38.0150">this Section</cite> will be penalized a minimum fine   of</text>
+        <text>$25 or maximum fine of $100 with a minimum of one (1) day jail or maximum thirty (30) days in jail.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0151</num>
+      <heading>Use of Helmets When Operating Snowmobiles, Go Carts, Motor Bikes and Atv's</heading>
+      <para>
+        <num>1.</num>
+        <text>It is unlawful for any person riding or operating a motorized vehicle such as motorbikes, snowmobiles, go-carts or ATV's without use of helmets.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who violates <cite path="38|38.01|38.0151">this Section</cite> will be penalized a minimum fine   of</text>
+        <text>$25 or maximum fine of $100 with a minimum of one (1) day jail or maximum thirty (30) days in jail.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0152</num>
+      <heading>Age Requirement for Protective Headgear</heading>
+      <text>"No person under the age of eighteen (18) years may operate or ride upon a motorcycle, go cart, snowmobile or ATV    unless protective	headgear, which complies with standards established by the department, is being worn on the head of the operator and rider, except when participating in a lawful parade. If the operator of a motorcycle is required to wear protected headgear, any passenger must also wear protective headgear regardless of the age of the passenger.	<cite path="38|38.01|38.0152">This section</cite> does not apply to persons riding within an enclosed cab	or	on	a	golf	cart.	No	person	may	operate	a	motorcycle,	go	cart, snowmobile or ATV if a person under the age of eighteen (18) years is a passenger and is not wearing protective headgear." Any person who violates <cite path="38|38.01|38.0152">this section</cite> shall be penalized twenty-five dollars ($25)</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38.02</num>
+    <heading>Criminal Traffic Offenses and Penalties</heading>
+    <section>
+      <num>38.0201</num>
+      <heading>Definitions</heading>
+      <text>In <cite path="38|38.02|38.0201">this Section</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"AUTHORIZED EMERGENCY VEHICLES" shall mean</text>
+        <para>
+          <num>a.</num>
+          <text>Vehicles owned or leased by the United States Government or the Turtle Mountain Band of Chippewa Indians Tribe, used for law enforcement purposes;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Vehicles of a governmentally owned fire department;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Vehicles when operated by or under the control of a police officer having authority to enforce the provisions of <cite path="38">this Title</cite> pertaining to all motor vehicles or by a salaried employee of any municipal police department within the municipality or by any sheriff or deputy sheriff not to include special deputy sheriffs, or by the warden of the state penitentiary and his authorized agents;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Ambulances;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Vehicles operated by or under the control of the district deputy game warden of the North Dakota Game and Fish Department;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Vehicles designated for the use of the adjutant general and assistant adjutant general in cases of emergency;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Wreckers and such other emergency vehicles as are authorized by the local authorities; and</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Vehicles used by civil defense directors while in the performance of emergency duties;</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"BICYCLE" shall mean every device propelled by human power upon which any person may ride, having two tandem wheels either of which is more than twenty (20) inches in diameter;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"BUS" shall mean every motor vehicle designed for carrying more than   ten</text>
+        <para>
+          <num>(10)</num>
+          <text>passengers and used for the transportation of persons and every motor vehicle, other than a taxicab, designed and used for the transportation of persons for compensation;</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"BUSINESS DISTRICT" shall mean the territory contiguous to a highway when fifty percent (50%) or more of the frontage thereon for distance of three hundred (300) feet or more is occupied by buildings in use for business;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"CONTROLLED-ACCESS HIGHWAY" shall mean every highway, street, or roadway in respect to which owners or occupants of abutting lands and other persons have no legal right of access to or from the same except at such points only and in such points only and in such manner as may be determined by the public authority having jurisdiction over such highway, street, or roadway;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"CROSSWALK" shall mean that part of a roadway at an intersection included within the connections of the lateral lines of the sidewalks on opposite sides of the highway measured from the curbs, or, in the absence of curbs, from the edges of the traversable roadway; or any portion of a roadway at an intersection or elsewhere distinctly indicated for pedestrian crossing by lines or other markings on the surface;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"DEALER" shall mean every Indian person, partnership or corporation engaged in the business of buying, selling or exchanging motor vehicles, or who advertises or holds himself out to the public as engaged in the buying, selling or exchanging of motor vehicles, or who engages in the buying of motor vehicles for resale.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"ESSENTIAL PARTS" shall mean all integral and body parts of a vehicle of a type required to be registered hereunder, the removal, alteration or substitution of which would tend to conceal the identity of the vehicle or substantially alter its appearance, model, type or mode of operation;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"EXPLOSIVES" shall mean any chemical compound or mechanical mixture that  is commonly used or intended for the purpose of producing an explosion and which contains any oxidizing and combustive units or other ingredients in such proportions, quantities, or packing that an ignition by fire, by friction, by concussion, by percussion, or by detonator of any part of the compound or mixture may cause such a sudden generation or highly heated gases that the resultant gaseous pressures are capable of producing destructive effects on contiguous objects or by destroying life or limb;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"FARM TRACTOR" shall include every motor vehicle designed and used primarily as a farm implement for drawing plows, moving machines, and other implements of husbandry;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"FLAMMABLE LIQUID" shall mean any liquid which has a flash point of seventy (70) degrees Fahrenheit, or less, as determined by a Tagliabue or equivalent closed-cup test device;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"GUEST" shall mean and include a person who accepts a ride in any vehicle without giving compensation therefore;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"GROSS WEIGHT" shall mean the weight of a vehicle without load plus the weight of any load thereon;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"HIGHWAY" shall mean the entire width between the boundary lines of every way publicly maintained when any part thereof is open to the use of the public for purposes of vehicular travel;</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"HOUSE CAR" shall mean a motor vehicle which has been reconstructed or manufactured for private use as sleeping or living quarters;</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"IMPLEMENT OF HUSBANDRY" shall mean every vehicle designed and adapted exclusively for agricultural, horticultural or livestock raising operations or for lifting or carrying an implement of husbandry and in either case not subject to registration if used upon the highway;</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"INTERSECTION" shall mean the area embraced within the prolongation or connection of the lateral curb lines, or, if none, then the lateral boundary lines of the roadways of two highways which join one another at, or approximately at, right angles or the area within which vehicles traveling upon different highways joining at any other angle may come in conflict. Where a highway includes two (2) roadways thirty (30) feet or more apart, then every crossing of each roadway of such divided highway by an intersecting highway shall be regarded as a separate intersection. In the event such intersecting highway also includes two (2) roadways thirty</text>
+        <para>
+          <num>(30)</num>
+          <text>feet or more apart, then every crossing of two (2) roadways of such highways shall be regarded as a separate intersection;</text>
+        </para>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"INTOXICATING LIQUOR" shall mean and include any beverage containing alcohol;</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"JUDGMENT" shall mean any judgment which shall have become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal, rendered by a court of competent jurisdiction of any state of the United States, upon a cause of action arising out of ownership, maintenance, or use of any motor vehicle, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damages because of injury to or destruction of property, including the loss of use thereof, of upon  a cause of action on agreement of settlement for such damages;</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"LEGAL OWNER" shall mean a person who holds the legal title to a vehicle;</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"MAIL" shall mean to deposit mail properly addressed and with postage prepaid with the United States postal service;</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"MANUFACTURER" shall mean any person engaged in the business of manufacturing motor vehicles or trailers;</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"METAL TIRES" shall include all tires the surface of which in contact with the highway is wholly or partly of metal or other hard, non-resilient material except that this provision shall not apply to pneumatic tires;</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"MOTOR VEHICLE" shall include every vehicle which is self-propelled and every vehicle which is propelled by electric power obtained from overhead trolley wires, but not operated upon rails;</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"MOTORCYCLE" shall mean every motor vehicle having a seat or saddle for the use of the rider and designed to travel on not more than three (3) wheels in contact with the ground, but excluding implements of husbandry;</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"NONRESIDENT" shall mean any person who is not a resident of the Turtle Mountain Jurisdiction;</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"OFFICIAL TRAFFIC-CONTROL DEVICES" shall mean all signs, signals, markings, and devices not inconsistent with <cite path="38">this title</cite> placed or erected by authority of the Turtle Mountain Band of Chippewa Indians Tribe or official having jurisdiction, for the purpose of regulating, warning, of guiding traffic;</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"OPERATOR" shall mean every Indian person as defined in <cite path="1|1.03|1.0301">Section 1.0301</cite> (6) of this Code who drives or is in actual physical control of a motor vehicle upon a highway or who is exercising control over or steering a vehicle being towed by a motor vehicle;</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text>"OWNER" shall mean a person who holds the legal title of a vehicle, or of a vehicle is the subject of an agreement for the conditional sale or lease thereof with the right of purchase upon performance of the conditions stated in the agreement, and with an immediate right of possession vested in the conditional vendee or lessee, or if a mortgagor of a vehicle is entitled to possession, then such conditional vendee or lessee or mortgagor shall be deemed the owner for the purpose of <cite path="38">this title</cite>;</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text>"PEDESTRIAN" shall mean any person afoot;</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text>"PARK" when prohibited, shall mean the standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading;</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text>"PERSON" shall include every natural person, firm, co-partnership, association, or corporation;</text>
+      </para>
+      <text>Page 17 of 33</text>
+      <text>December 2012</text>
+      <para>
+        <num>33.</num>
+        <text>"PNEUMATIC TIRES" shall include all tires inflated with compressed air;</text>
+      </para>
+      <para>
+        <num>34.</num>
+        <text>"POLE TRAILER" shall mean every vehicle without motive power designed to be drawn by another vehicle and attached to the towing vehicle by means of a reach, or pole, or by being boomed or otherwise secured to the towing vehicle, and ordinarily used for transporting long or irregularly shaped loads such as poles, pipes, or structural members capable, generally, of sustaining themselves as beams between the supporting connections;</text>
+      </para>
+      <para>
+        <num>35.</num>
+        <text>"POLICE OFFICER" shall mean every officer authorized to direct or regulate traffic or to make arrests for violations of traffic regulations within the Turtle Mountain Jurisdiction;</text>
+      </para>
+      <para>
+        <num>36.</num>
+        <text>"PRIVATE ROAD OR DRIVEWAY" shall mean every way or place in private ownership and used for vehicular travel by the owner and those having express or implied permission from the owner, but not by other persons;</text>
+      </para>
+      <para>
+        <num>37.</num>
+        <text>"RAILROAD" shall mean a carrier of persons of property upon cars, other than streetcars, operated upon stationary rails;</text>
+      </para>
+      <para>
+        <num>38.</num>
+        <text>"RAILROAD SIGN OR SIGNAL" shall mean any sign, signal, or device erected by authority of a public body or official or by a railroad and intended to give notice of the presence of railroad tracks or the approach of a railroad train;</text>
+      </para>
+      <para>
+        <num>39.</num>
+        <text>"RECONSTRUCTED VEHICLE" shall mean every vehicle of a type required to be registered hereunder materially altered from its original construction by the removal, addition or substitution of essential parts new or used;</text>
+      </para>
+      <para>
+        <num>40.</num>
+        <text>"RESIDENCE DISTRICT" shall mean territory contiguous to a highway not comprising a business district, when the frontage on such highway for a distance of three hundred feet or more is occupied mainly by dwelling or by dwellings and buildings in use for business;</text>
+      </para>
+      <para>
+        <num>41.</num>
+        <text>"RIGHT OF WAY" shall mean the privilege of the immediate use of a roadway;</text>
+      </para>
+      <para>
+        <num>42.</num>
+        <text>"ROAD TRACTOR" shall mean every motor vehicle designed and used for drawing other vehicles and not so constructed as to carry any load thereon either independently or any part of the weight of a vehicle or load so drawn;</text>
+      </para>
+      <para>
+        <num>43.</num>
+        <text>"ROADWAY" shall mean that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder.  In the event a highway includes two (2) or more separate roadways the term "roadway" as used herein shall refer to any such roadway separately but not to all such roadways collectively;</text>
+      </para>
+      <para>
+        <num>44.</num>
+        <text>"SAFETY ZONE" shall mean the area or space officially set aside within a highway for the exclusive use of pedestrians and which is so plainly marked or indicated by proper signs as to be plainly visible at all times while set aside as a safety zone;</text>
+      </para>
+      <para>
+        <num>45.</num>
+        <text>"SCHOOL BUS" shall mean every motor vehicle owned by a public or governmental agency and operated for the transportation of children to or from school or privately owned and operated for compensation for the transportation of children to or from school;</text>
+      </para>
+      <para>
+        <num>46.</num>
+        <text>"SEMITRAILER" shall include every vehicle of the trailer type so designed and used in conjunction with a motor vehicle that some part of its own weight and that of its own load rests upon or is carried by a motor vehicle, except that it shall not include a "house trailer" or "mobile home" as defined in Subsection 59 or <cite path="38|38.02|38.0201">this Section</cite>;</text>
+      </para>
+      <para>
+        <num>47.</num>
+        <text>"SIDEWALK" shall mean that portion of a street between the curb lines, or the lateral lines of a roadway, and the adjacent property lines, intended for use of pedestrians;</text>
+      </para>
+      <para>
+        <num>48.</num>
+        <text>"SOLID TIRE" shall include every tire made of rubber or other resilient material other than a pneumatic tire;</text>
+      </para>
+      <para>
+        <num>49.</num>
+        <text>"SPECIALLY CONSTRUCTED VEHICLE" shall mean any vehicle under a distinctive name, make, model, or type by a generally recognized manufacturer of vehicles and not materially altered from its original construction;</text>
+      </para>
+      <para>
+        <num>50.</num>
+        <text>"STAND" or "STANDING" shall mean the halting of a vehicle whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in receiving or discharging passengers;</text>
+      </para>
+      <para>
+        <num>51.</num>
+        <text>"STATE" shall mean a state, territory or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico or a province of the Dominion of Canada;</text>
+      </para>
+      <para>
+        <num>52.</num>
+        <text>"STOP WHEN REQUIRED", shall mean complete cessation from movement;</text>
+      </para>
+      <para>
+        <num>53.</num>
+        <text>"STOP" or "STOPPING WHEN PROHIBITED", shall mean any halting, even momentarily of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or in compliance with the directions of a police officer or traffic control sign or signal;</text>
+      </para>
+      <para>
+        <num>54.</num>
+        <text>"STREET" shall mean the entire width between boundary lines of every way publicly maintained when any part thereof is open to the use of the public for purpose of vehicular travel;</text>
+      </para>
+      <para>
+        <num>55.</num>
+        <text>"THROUGH HIGHWAY" shall mean every highway or portion thereof on which vehicular traffic is given preferential right of way, and at the entrances to which vehicular traffic from intersecting highways is required by law to yield right of way to vehicles on such through highway and in obedience to either a stop sign or yield sign, when such signs are erected by law;</text>
+      </para>
+      <para>
+        <num>56.</num>
+        <text>"TRACKLESS TROLLEY COACH" shall mean every motor vehicle which is propelled by electric power obtained from overhead trolley wires but not operated upon rails;</text>
+      </para>
+      <para>
+        <num>57.</num>
+        <text>"TRAFFIC" shall mean pedestrians, ridden or herded animals, vehicles, streetcars, and other conveyances either singly or together while using any highway for purpose of travel;</text>
+      </para>
+      <para>
+        <num>58.</num>
+        <text>"TRAFFIC-CONTROL SIGNAL" shall mean any device, whether manually, electrically, or mechanically operated, by which traffic is alternately directed to stop and to proceed;</text>
+      </para>
+      <para>
+        <num>59.</num>
+        <text>"TRAILER" shall include every vehicle without motive power designed to carry property or passengers wholly on its own structure and to be drawn by a motor vehicle, except that it shall not include a "house trailer" or "mobile home", which terms shall mean a vehicle as defined in this subsection which is designed and intended for use as living or sleeping quarters for people and which is not used for commercial hauling of passengers;</text>
+      </para>
+      <para>
+        <num>60.</num>
+        <text>"TRUCK" shall include every motor vehicle designed, used or maintained primarily for transportation of property;</text>
+      </para>
+      <para>
+        <num>61.</num>
+        <text>"TRUCK TRACTOR" shall include every motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load other than a part of the weight of the vehicle and load so drawn;</text>
+      </para>
+      <para>
+        <num>62.</num>
+        <text>"TURTLE MOUNTAIN JURISDICTION" shall mean that territory as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code;</text>
+      </para>
+      <para>
+        <num>63.</num>
+        <text>"URBAN DISTRICT" shall mean the territory contiguous to and including any street which is built up with structures devoted to business, industry or dwelling houses situated at intervals of less than one hundred (100) feet for a distance of a mile or more; and</text>
+      </para>
+      <para>
+        <num>64.</num>
+        <text>"VEHICLE" shall include every device in, upon, or by which any person or property may be transported or drawn upon a public highway, except devices moved by human power or used exclusively upon stationary rails or tracks.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0202</num>
+      <heading>Arresting Person for Violating Traffic Regulations; Duty of Officer Arresting</heading>
+      <text>Whenever any Indian person is arrested for the violation of any of the provisions of Title 38, of this Code, the officer arresting such person, except as otherwise provided in <cite path="38|38.01|38.0109">Section 38.0109</cite> of this code shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Take the name and address of such person;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Take the license number of his motor vehicle;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Issue a summons or otherwise notify him in writing to appear at a time and place to be specified in such summons or notice.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0203</num>
+      <heading>Uniform Traffic Complaint and Summons</heading>
+      <text>There is hereby established a uniform complaint and summon which may be used in	cases	involving	violations	of	statutes	or	ordinances	relating	to	the</text>
+      <text>operation of use of motor vehicles.</text>
+      <text>Whenever the complaint and summons established by <cite path="38|38.02|38.0203">this section</cite> is used, the provisions of Title 1 <cite path="1|1.07|1.0705">Section 1.0705</cite> relating to arrests without warrants shall not apply, and the judges or prosecuting attorneys shall not be required to make another complaint of the offense charged in the uniform complaint and summons. The uniform complaint and summons established herein shall be in substantially the following form:</text>
+      <text>Turtle Mountain Jurisdiction        )     In the Turtle Mountain</text>
+      <text>)	Tribal Court City of Belcourt, North Dakota	)	Before Honorable</text>
+      <text>)</text>
+      <text>The undersigned, being duly sworn, upon his oath deposes and says that, on the 	day of 	,</text>
+      <text>(Name)	(Address)</text>
+      <text>did	unlawfully	operate	a	motor	vehicle	upon	a	public	highway,	namely</text>
+      <text>, 		, N E S W of and did    then</text>
+      <text>and there commit the following offense: 	MPH in 	MPH zone. TRAFFIC OFFENSE AND PENALTIES</text>
+      <text>All in violation of Sec.	of the Turtle Mountain Band of Chippewa Indians.</text>
+      <text>Officer		Let	a	Warrant	Issue	Herein	Sworn	to	and</text>
+      <text>subscribed to me this day of 	, 20 	.</text>
+      <text>(Judge)</text>
+      <text>Description of Defendant and Vehicle</text>
+      <text>Month 	Day 	Year	 (Birthdate)</text>
+      <text>Race 	Sex      Weight      Height        Hair         Drivers   License:   State         No. Motor Vehicle: Make 		Reg. No.            State          Year           PSC No.  	  ICC No.</text>
+      <text>Claimed Conditions of the Violation</text>
+      <text>Slippery Surface –- Rain       Snow       Ice Darkness  --  Night          Fog          Snow Other Traffic Present: Cross       Oncoming Pedestrian 	Same Direction  	  In Accident        Ped.       Same Direction        Intersection 		Right Angle  	  Head on        Rear End         Ran Off Road         Other				 Area –- School        Rural       Business         Industrial 		Residential	 Highway Type: 2 Lane 			4 Lane  	  Divided            Gravel           Dirt</text>
+      <text>The Turtle Mountain Jurisdiction to the above named defendant you are hereby summoned to appear at the time and place designated below to answer to the charge above indicated to be made against you</text>
+      <text>.</text>
+      <text>Appearance Before: Turtle Mountain Tribal Court</text>
+      <text>(Location)  (Month)  (Day)  (Year)  (Time) A.M. P.M.</text>
+      <text>Dated this 	day of 20 	. Officer 		.</text>
+      <text>Promise to Appear</text>
+      <text>I hereby consent and promise to appear at the time and place specified in the above summons, the receipt of a copy of which is hereby acknowledged, and I expressly waive earlier hearing, Dated this        day of 20    .</text>
+      <text>Defendant 	.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0204</num>
+      <heading>Failure to Appear; Hearing upon Arrest; Time Of; Promise of Defendant to Appear</heading>
+      <text>The time to be specified in the summons or notice provided for in <cite path="38|38.02|38.0203">Section 38.0203</cite> shall be at least five (5) days after such arrest unless the person arrested shall demand an earlier hearing, and, if the person arrested desires, he may have the right, at a convenient hour, to an immediate hearing or to a hearing within twenty-four (24) hours. Such hearing shall be before a judge of the Turtle Mountain Tribal Court. Upon receipt from the arrested person of a written promise to appear at the time and place mentioned in the summons or notice, such officer may release him from custody. Any person refusing to give such written promise to appear shall be taken immediately by the arresting officer before the nearest or most accessible judge. Any person willfully violating his written promise" to appear shall be subject to the penalty prescribed by <cite path="26|26.11|26.1102">Section 26.1102</cite> regardless of the disposition of the charge upon which he originally was arrested.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0205</num>
+      <heading>Offenses Under Which Person Arrested May Not Be Entitled to Release upon Promise to Appear</heading>
+      <text>The provisions of <cite path="38|38.02|38.0202">Section 38.0202</cite> of this Code shall not apply to an Indian person.</text>
+      <para>
+        <num>1.</num>
+        <text>The arresting officer shall have good reason to believe such person guilty of any felony or when such person is arrested and charged with either of the following offences:</text>
+        <para>
+          <num>a.</num>
+          <text>Causing or contributing to an accident resulting in injury or death of any person;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Driving while under the influence of intoxicating liquor or a narcotic drug;</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The arresting officer, acting within his discretion, deems it inadvisable to release such person upon his promise to appear when arrested and charged with either of the following offenses:</text>
+        <para>
+          <num>a.</num>
+          <text>Reckless Driving;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Driving in excess of speed limitations established by the Turtle Mountain Tribal Code. The arresting officer forthwith shall take any person not released upon his promise to appear before the nearest Turtle Mountain Tribal Court Judge.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0206</num>
+      <heading>Reckless Driving; Aggravated Reckless Driving; Penalty</heading>
+      <text>Any person shall be guilty of reckless driving if he drives a vehicle:</text>
+      <para>
+        <num>1.</num>
+        <text>Recklessly in disregard of the rights or safety of others; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Without due caution and circumspection and circumspection and at a speed or in a manner so as to endanger or be likely to endanger any person or the property of another.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0207</num>
+      <heading>All Dui Offenders</heading>
+      <text>Will be detained for a minimum of eight (8) hours, or until satisfactory results are read below the .10 level, before release.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0208</num>
+      <heading>Any Indian Persons Under the Influence of Intoxicating Liquor or Any Other</heading>
+      <text>
+        <strong>
+          <u>drugs or substances not to operate vehicle; Penalty.</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>An Indian may not drive or be in actual physical control of any vehicle upon a highway or upon public or private areas to which the public has a right of access for vehicular use in the Turtle Mountain Jurisdiction if any of the following apply:</text>
+        <para>
+          <num>a.</num>
+          <text>That person has a blood alcohol concentration of at least ten one- hundredths of one percent by weight at the time of the performance of a chemical test within two hours after the driving.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>That person is under the influence of intoxicating liquor.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>That person is under the influence of any drug or substances to a degree which renders that person incapable of safely driving.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>That person is under the combined influence of alcohol and any other drugs or substance to a degree which renders that person incapable of safely driving.</text>
+          <text>The fact that any person charged with violating <cite path="38|38.02|38.0208">this Section</cite> is or has been legally entitled to use alcohol or other drugs or substances is not a defense against any charge for violating <cite path="38|38.02|38.0208">this section</cite>, unless a drug which predominately caused impairment was used only as directed or cautioned by a practitioner who legally prescribed or dispensed the drug to that person.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon conviction, the court may order the motor vehicle number plates of the motor vehicle owned and operated by the offender at the time of the offense to be impounded by the Law Enforcement Officers, as is appropriate, for the duration of the period of suspension of  the offender's driver's license or driving privilege by the licensing authority. The impounded motor vehicle number plates may be released, upon the order of the court, to a bona fide purchaser of the offender's motor vehicle, if that purchaser produces a new certificate of title issued by the director.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person convicted of violating <cite path="38|38.02|38.0208">this Section</cite>, or an equivalent ordinance, must be sentenced in accordance with this Subsection.</text>
+        <para>
+          <num>a.</num>
+          <text>For a first offense, the sentence must include both a fine of at least two hundred fifty dollars ($250) and an order for addiction evaluation by an appropriate licensed addiction treatment program and three days imprisonment or ten days community service.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>For a second offense within five years, the sentence must include at least four days imprisonment of which forty-eight hours must be served consecutively, or ten days community service; a fine of at least five hundred ($500) dollars; and an order for addiction evaluation by an appropriate licensed addiction treatment program.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>For a third offense within five years, the sentence must include at least sixty days imprisonment of which forty-eight hours must be served consecutively; a fine of one thousand ($1,000) dollars, and an order for addiction evaluation by an appropriate licensed addiction treatment program.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>For a fourth offense within seven years, the sentence must include one hundred eighty days imprisonment, of which forty-eight hours must be served consecutively and a fine of one thousand ($1,000) dollars.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The execution or imposition of sentence under <cite path="38|38.02|38.0208">this Section</cite> may not be suspended or deferred except that a fine or a sentence of imprisonment may be suspended in any of the following instances:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Upon conviction of being in actual physical control of a motor vehicle in violation of <cite path="38|38.02|38.0208">this section</cite> or equivalent ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the defendant is under age eighteen when convicted except that if the defendant has, within the preceding five years, previously been convicted of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance, the sentence must include at least forty-eight consecutive hours imprisonment in a minimum security facility or at least ten days of community service. The execution of the sentence may not be suspended nor the imposition of sentence deferred.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>For purposes of <cite path="38|38.02|38.0208">this Section</cite>, conviction of an offense under a law   or</text>
+        </para>
+      </para>
+      <text>Page 22 of 33</text>
+      <text>December 2012</text>
+      <text>ordinance of the state of North Dakota For purposes of <cite path="38|38.02|38.0208">this section</cite>, conviction of an offense under a law or ordinance of the state of North Dakota which is equivalent <cite path="38|38.02|38.0208">this section</cite> must be considered a prior offense if such offense was committed within the time limitations specified in this Subsection.</text>
+      <para>
+        <num>g.</num>
+        <text>If the penalty mandated by <cite path="38|38.02|38.0208">this Section</cite> includes imprisonment upon conviction of a violation of <cite path="38|38.02|38.0208">this section</cite> or equivalent ordinance, and if an addiction evaluation has indicated that the defendant needs treatment, the court may order the defendant to undergo inpatient treatment at an appropriate licensed addiction treatment program and  the time spent by the defendant in the inpatient treatment must becredited as a portion of a sentence of imprisonment under <cite path="38|38.02|38.0208">this Section</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0209</num>
+      <heading>Alcohol-Related Traffic Offenses; Ignition Interlock Devices and the Seizure, Forfeiture, and Sale of Motor Vehicles</heading>
+      <text>A motor vehicle owned and operated by a person upon a highway or upon public or private areas to which the public has a right of access for vehicular use may be seized, forfeited, and sold or otherwise disposed of pursuant to an order of the court at the time of sentencing if the person is in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or an equivalent ordinance and has been convicted of violating <cite path="38|38.02|38.0208">Section 38.0208</cite> or an equivalent ordinance at least three times within the five years preceding the violation. The court may also require that an ignition interlock device be installed in the person's vehicle for a period of time that the court deems appropriate.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0210</num>
+      <heading>Implied Consent to Determine Alcohol and Drug Content of Blood</heading>
+      <text>Any person who operates a motor vehicle on a highway or on public or private areas to which the public has a right of access for vehicular use in this state is deemed to have consent, and shall consent, subject to the provisions of <cite path="38.02">this Chapter</cite>, to a chemical test, or tests, of the blood, breath, saliva, or urine for the purpose of determining the alcoholic, other drug, or combination thereof, content of the blood. As used in <cite path="38.02">this Chapter</cite> the word "drug" means any drug or substance or combination of drugs or substances which renders a person incapable of safely driving, and the words "chemical test" or chemical analysis" means any test to determine the alcoholic, or drug, or combination thereof, content of the blood, breath, or urine, approved by the state toxicologist under <cite path="38.02">this Chapter</cite>. The test or tests must be administered at the direction of a law enforcement officer only after placing the person, except persons mentioned in <cite path="38|38.02|38.0213">Section 38.0213</cite> under arrest and informing that the person is or will be charged with the offense of driving or being in actual physical control of a vehicle upon the public highways under the influence of intoxicating liquor, drugs, or a combination thereof. For the purposes of <cite path="38.02">this chapter</cite>, the taking of custody of a child as defined under <cite path="5|5.10|5.102">Section 5.102</cite>(1) satisfies the requirement of an arrest. The law enforcement officer shall also inform the charged that refusal of the person to submit to the test determined appropriate will result in a revocation for up to three of the person's driving privileges. The law enforcement officer shall determine which of the tests is to be used. When a child is taken into custody for violating <cite path="38|38.02|38.0208">Section 38.0208</cite> or an equivalent ordinance, the law enforcement officer shall diligently attempt to contact the child's parent or legal guardian to explain the cause for the custody and the implied consent chemical testing requirements. Neither the law enforcement officer's efforts to contact, nor any consultation with, a parent or legal guardian may be permitted to interfere with the administration of chemical testing requirements <cite path="38.02">this Chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0211</num>
+      <heading>Chemical Test of Driver in Serious Bodily Injury or Fatal Accidents</heading>
+      <text>When the driver of a vehicle is involved in an accident resulting in a death or serious bodily injury, of another person, and there is probable cause to believe that the driver is in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite>, the driver may be</text>
+      <text>Page 23 of 33</text>
+      <text>December 2012</text>
+      <text>compelled by a police officer to submit to a test or tests of the driver's blood, breath, saliva, or urine to determine the alcohol concentration or the presence of other drugs or substances.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0212</num>
+      <heading>Persons Qualified to Administer Test and Opportunity for Additional Test</heading>
+      <text>Only a physician, or a qualified technician, chemist, or registered nurse acting at the request of a law enforcement officer may withdraw blood for the purpose of determining the alcoholic, drug, or combination thereof, content therein. This limitation does not apply to the taking of breath, saliva, or urine specimen. The person tested may have a physician, or a qualified technician, chemist, registered nurse, or other qualified person of his own choosing administer a chemical test or tests in addition to any administered at the direction of a law enforcement officer with all costs of an additional test or tests to be the sole responsibility of the person charged. The failure of inability to obtain an additional test by a person does not preclude to admission of the test or tests taken at the direction of a law enforcement officer. Upon the request of the person who is tested, a copy of the operational checklist and test record of a breath sample test or analytical report of a blood, urine, or saliva sample test taken at the direction of the law enforcement agency which administered the test or tests.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0213</num>
+      <heading>Consent of Person Incapable of Refusal Not Withdrawn</heading>
+      <text>Any Indian person who is dead, unconscious, or otherwise in a condition rendering him incapable of refusal, must be deemed not to have withdrawn the consent provided by <cite path="38|38.02|38.0208">Section 38.0208</cite> and the test or tests may be given.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0214</num>
+      <heading>Action Following Test Result for a Resident Operator</heading>
+      <text>If a person submits to a test under <cite path="38|38.02|38.0210">Section 38.0210</cite>, 38.0211 and 38.0212 and the test shows that person to have a blood alcohol concentration of at least ten one-hundredths of one percent by weight at the time of the performance of a chemical test within two hours after the driving or being in actual physical control of a vehicle, the following procedures apply:</text>
+      <para>
+        <num>1.</num>
+        <text>The law enforcement officer shall immediately take possession of the person's operator's license if it is then available and shall immediately issue to that person a temporary operator's permit of the person then has valid operating privileges, extending driving privileges for the next twenty-five (25) days, or until earlier terminated by the decision of a hearing officer under <cite path="38|38.02|38.0218">Section 38.0218</cite>. The law enforcement officer shall sign and note the date on the temporary operator's permit. The temporary operator's permit serves as the commissioner's official notification to the person of the commissioner's intent to revoke, suspend, or deny driving privileges in this state and the Turtle Mountain Indian Reservation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If a test administered under <cite path="38|38.02|38.0211">Section 38.0211</cite> or 38.0213 was by saliva or urine sample or by drawing blood as provided in <cite path="38|38.02|38.0212">Section 38.0212</cite> and the person tested is not a resident of an area in which the law enforcement officer has jurisdiction, the law enforcement officer shall, on receiving the analysis of the saliva, urine, or blood from the state toxicologist  and if the analysis shows that person had a blood alcohol concentration of at least the one-hundredths of one percent by weight, either proceed in accordance with Subsection 1 during that person's reappearance within the officer's jurisdiction or notify a law enforcement agency having jurisdiction where the person lives. On that notification, that law enforcement agency shall immediately take possession of the person's North Dakota operator's license or permit if it is then available and, within twenty-four hours, forward the license and a copy of the temporary operator's permit to the law enforcement agency making the arrest or to the director. The law enforcement agency shall also, on taking possession of the person's operator's license, issue to that person a temporary</text>
+      </para>
+      <text>Page 24 of 33</text>
+      <text>December 2012</text>
+      <text>operator's permit as provided in <cite path="38|38.02|38.0214">this Section</cite>, and shall sign and date the permit as provided in Subsection 1. The temporary operator's permit serves as the director's official notification to the person of the director's intent to revoke, suspend, or deny driving privileges in this state and on this reservation.</text>
+      <para>
+        <num>3.</num>
+        <text>The law enforcement officer, within five days of the issuance of the temporary operator's permit, shall forward to the director a certified written report in the form required by the director and the person's operator's license taken under Subsection 1 or 2. If the person was issued a temporary operator's permit because of the results of a test, the report must show that the officer had reasonable grounds to believe the person  had been driving or was in actual physical control of a motor vehicle  while in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance, that the person was lawfully arrested, that the person was tested for blood alcohol concentration under <cite path="38.02">this chapter</cite>, and that the results of the test show that the person had a blood alcohol concentration of at least ten one- hundredths of one percent by weight. In addition to the operator's license and report, the law enforcement officer shall forward to the commissioner a certified copy of the operational checklist and test records of a breath test and a copy of the certified copy of the analytical report for a  blood, saliva, or urine test for all tests administered at the direction  of the officer.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0215</num>
+      <heading>Action Following Test Result or on Refusing Test by Nonresident Operator</heading>
+      <text>If a person licensed in another state refuses in this state to submit to a test provided under <cite path="38|38.02|38.0210">Section 38.0210</cite> or who submits to a test under <cite path="38|38.02|38.0210">Section 38.0210</cite>, 38.0212 or 38.0213 and the test results show the person to have a blood alcohol concentration of at least ten one-hundredths of one percent by weight at the time of performance of a test within two hours after driving or being in physical control of a motor vehicle, the following procedures apply:</text>
+      <para>
+        <num>1.</num>
+        <text>Without taking possession of the person's out-of-state operator's license, the law enforcement officer shall issue to the person a notification of the test results and a temporary operator's permit extending nonresident operating privileges in this state for twenty-five days from the date of issuance or until earlier terminated by the decision of a hearing officer under <cite path="38|38.02|38.0212">Section 38.0212</cite>. The temporary permit must be signed and dated by the officer and serves as the director's official notification to the person of the director's intent to revoke, suspend, or deny driving privileges in this state, and of the hearing procedures under <cite path="38.02">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the test was administered by saliva or urine sample or by drawing blood,' the law enforcement officer, on reviewing the blood alcohol concentration analysis showing the person had a blood alcohol  concentration of at least ten one-hundredths of one percent by weight, shall mail the person a notification of the test results, a temporary operator's permit extending nonresident operating privileges in this state for twenty-five days from the date of mailing or until earlier terminated by the decision of a hearing officer under <cite path="38|38.02|38.0218">Section 38.0218</cite>, and notice of the intent to revoke, suspend, or deny driving privileges in this state, together with the notice provided under section N.D.C.C. of the procedures available under <cite path="38.02">this chapter</cite>. The temporary operator's permit must be signed and dated by the officer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The law enforcement officer, within five days of issuing the temporary operator's permit, shall forward to the director certified written report in the form required by the director and a certified copy of the operational checklist and test records of a breath test and a copy of the certified copy of the analytical report for a blood, saliva, or urine test for all tests administered at the direction of the officer. If the person was issued a temporary operator's permit because of the person's refusal to submit to a test under Sections 38.0210 and 38.0216, the report must</text>
+      </para>
+      <text>Page 25 of 33</text>
+      <text>December 2012</text>
+      <text>include information as provided in <cite path="38|38.02|38.0216">Section 38.0216</cite>. If the person was issued a temporary operator's permit because of the results of a test, the report must show that the officer had reasonable grounds to believe the person had been driving or was in actual physical control of a motor vehicle while in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite>, or equivalent ordinance, that the person was lawfully arrested, that the person was tested for  blood alcohol concentration under <cite path="38.02">this chapter</cite>, and that the results of  the test show that the person had a blood alcohol concentration of at  least ten one-hundredths of one percent by weight.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0216</num>
+      <heading>Revocation of Privilege to Drive Motor Vehicle upon Refusal to Submit to Testing</heading>
+      <para>
+        <num>1.</num>
+        <text>If a person refuses to submit to testing under</text>
+        <text><cite path="38|38.02|38.0210">Section 38.0210</cite> or 38.0216, none may be given, but the law enforcement officer shall immediately take possession of the person's operator's license if it is then available and shall immediately issue to that person a temporary operator's permit, if the person then has valid operating privileges, extending driving privileges for the next twenty-five days or until earlier terminated by a decision of a hearing officer under <cite path="38|38.02|38.0218">Section 38.0218</cite>. The law enforcement officer shall sign and note the date on the temporary operator's permit. The temporary operator's permit serves as the director's official notification to the person of the director's intent to revoke driving privileges in this state and of the hearing procedures under <cite path="38.02">this chapter</cite>. The director, upon the receipt of that person's operator's license and a certified written report of the law enforcement officer in the form required by the commissioner, forwarded by the officer within five days after issuing the temporary operator's permit, showing that the officer had reasonable grounds to believe the person had been driving or was in actual physical control of a motor vehicle while in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance or, for purposes of <cite path="38|38.02|38.0226">Section 38.0226</cite>, had a reason to believe that the person committed a  moving traffic violation or was involved in traffic accident as a driver, and in conjunction with the violation or accident the officer has, through the officer's observations, formulated an opinion that the person's body contains alcohol, that the person was lawfully arrested if applicable, and that the person had refused to submit to the test or tests under <cite path="38|38.02|38.0210">Section 38.0210</cite> or 38.0226, shall revoke that person's license or permit to drive and any nonresident operating privilege for the appropriate period under <cite path="38|38.02|38.0216">this section</cite>, or if the person is a resident without a license or a permit to operate a motor vehicle in this state, the commissioner shall deny to the person the issuance of a license of permit for the appropriate period under the section after the date of the alleged violation, subject to the opportunity for a pre-revocation hearing and post-revocation review as provided in <cite path="38.02">this chapter</cite>. In the revocation of the person's operator's license the commissioner shall give credit for time in which the person was without an operator's license after the day of the person's refusal to submit to the test except that the commissioner may not give credit for time in which the person retained driving privileges through a temporary operator's permit issued under this <cite path="38|38.02|38.0215">Section 38.0215</cite>. The period of revocation of denial of issuance of a license or permit under <cite path="38|38.02|38.0216">this section</cite> is:</text>
+        <para>
+          <num>a.</num>
+          <text>One year if the person's driving record shows that within the five years preceding the most recent violation of <cite path="38|38.02|38.0216">this section</cite>, the person's operator's license has not previously been suspended, revoked, or issuance denied for a violation of <cite path="38.02">this chapter</cite> or <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Two years if the person's driving record shows that within the five' years preceding the most recent violation of <cite path="38|38.02|38.0216">this section</cite>, the person's operator's license has been once previously suspended, revoked, or issuance denied for a violation of <cite path="38.02">this chapter</cite> or <cite path="38|38.02|38.0208">Section 38.0208</cite>   or</text>
+        </para>
+      </para>
+      <text>Page 26 of 33</text>
+      <text>December 2012</text>
+      <text>equivalent ordinance.</text>
+      <para>
+        <num>c.</num>
+        <text>Three years if the person's driving record shows that within the five years preceding the most recent violation of <cite path="38|38.02|38.0216">this section</cite>, the person's operator's license has at least twice previously been suspended, revoked, or issuance denied under <cite path="38.02">this chapter</cite>, or for a violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance, or any combination thereof, and the suspensions, revocations, or denials resulted from at least two separate arrests.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person's driving privileges are not subject to revocation under <cite path="38|38.02|38.0216">this section</cite> if all of the following criteria are met:</text>
+        <para>
+          <num>a.</num>
+          <text>No administrative hearing request is made under <cite path="38|38.02|38.0218">Section 38.0218</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The person mails an affidavit to the director within ten days after the temporary operator's permit is issued. The affidavit must state that the person:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Intends to voluntarily plead guilty to violating <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance within twenty-five days after the temporary operator's permit is issued;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Acknowledges the right to a <cite path="38|38.02|38.0218">Section 38.0218</cite> administrative hearing and <cite path="38|38.02|38.0219">Section 38.0219</cite> judicial review and voluntarily and knowingly waives these rights; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Agrees that the person's driving privileges must be revoked as provided under this judicial review, if the person does not plead guilty within twenty-five (25) days after the temporary operator's permit is issued or the court does not accept the guilty plea, or the guilty plea is withdrawn.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The person pleads guilty to violating <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance within twenty-five (25) days after the temporary operator's permit is issued;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The court accepts the person's guilty plea and a notice of that fact is mailed to the director within twenty-five days after the temporary operator's permit is issued; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>A copy of the final order or judgment of conviction evidencing the acceptance of the person's guilty plea is received by the director prior to the return or reinstatement of the person's driving privileges.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The court must mail a copy of an order granting a withdrawal of guilty plea to violating <cite path="38|38.02|38.0208">Section 38.0208</cite>, or equivalent ordinance, to the director within ten days after it is ordered. Upon receipt of the order, the director shall immediately revoke the person's driving privileges as provided under <cite path="38|38.02|38.0216">this section</cite> without providing an administrative hearing.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0217</num>
+      <heading>Administrative Sanction for Driving or Being in Physical Control of a Vehicle While Having Certain Blood Alcohol Concentration</heading>
+      <para>
+        <num>1.</num>
+        <text>After the receipt of a person's operator's license, if taken under <cite path="38|38.02|38.0214">Section 38.0214</cite> or 38.0215 and the certified report of a law enforcement officer and if no written request for hearing has been received from the arrested person under <cite path="38|38.02|38.0218">Section 38.0218</cite>, or if that hearing is requested and the findings, conclusion, and decision from the hearing confirm that the law enforcement officer had reasonable grounds to arrest the person and test results show that the arrested person was driving or in physical control  of a vehicle while having a blood alcohol concentration of at least ten one-hundredths of one percent by weight at the time of the performance of  a test within two hours after driving or being in physical control of a motor vehicle, the director shall suspend the person's operator's license as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>For ninety-one days if the person's driving record shows that, within the five years preceding the date of the arrest, the person has not previously, violated <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance or the person's operator's license has not previously been suspended or revoked under <cite path="38.02">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>For three hundred sixty-four days if the person's driving record shows that within the five years preceding the date of the arrest, the person has once previously violated <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance or the person's operator's license has once previously been suspended or revoked under <cite path="38.02">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>For two years if the person's driving record shows that within the five years preceding the date of the arrest, the person's operator's license has at least twice previously been suspended, revoked or issuance denied under <cite path="38.02">this chapter</cite>, or for a violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance, or any combination thereof, and the suspensions, revocations, or denials resulted from at least two separate arrests.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the suspension of the person's operator's license the director shall give credit for the time the person was without an operator's license after the day of the offense, except that the director may not give credit for the time the person retained driving privileges through a temporary operator's permit issued under <cite path="38|38.02|38.0214">Section 38.0214</cite> or 38.0215</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0218</num>
+      <heading>Administrative Hearing on Request</heading>
+      <para>
+        <num>1.</num>
+        <text>Before issuing an order of suspension, revocation, or denial under <cite path="38|38.02|38.0216">Section 38.0216</cite> or 38.0217, the commissioner shall afford that person an opportunity for a hearing if the person mails a request for the hearing to the director within ten days after the date of issuance of the temporary operator's permit. The hearing must be held within twenty-five (25) days after the date of issuance of the temporary operator's permit, but the hearing officer may extend the hearing to within thirty-five days after the issuance of the temporary operator's permit if good cause is shown. If the hearing date is extended beyond twenty-five (25) days from the issuance of the temporary operator's permit, the commissioner shall provide extended temporary operator's privileges to the date of the hearing. If no hearing is requested within the time limits in <cite path="38|38.02|38.0218">this section</cite>, and no affidavit is submitted within the time limits under subsection 2 of <cite path="38|38.02|38.0216">Section 38.0216</cite> the expiration of the temporary operator's permit serves as the director's official notification to the person of the revocation, suspension, or denial of driving privileges in this state.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the issue to be determined by the hearing concerns license suspension for operating a motor vehicle while having a blood alcohol concentration of at least ten one-hundredths of one percent by weight, the hearing must be before a hearing officer assigned by the director and at a time and place designated by the director. The hearing must be recorded and its scope may cover only the issues of whether the arresting officer had reasonable grounds to believe the person had been driving or was in actual physical control of a vehicle in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite>  or equivalent ordinance; whether the person was placed under arrest; whether the person was tested in accordance with <cite path="38|38.02|38.0210">Section 38.0210</cite> or 38.0213 and,  if applicable, <cite path="38|38.02|38.0212">Section 38.0212</cite>; and whether the test results show the person had a blood alcohol concentration of at least ten one-hundredths of one percent by weight. For purposes of <cite path="38|38.02|38.0218">this section</cite>, a copy of a certified copy of an analytical report of a blood, urine, or saliva sample from the office of the state toxicologist, or a certified copy of the checklist and test records from a certified breath test operator establish prima facie the blood alcohol concentration shown therein. Whether the person was informed that the privilege to drive might be suspended based on the results of the test is not an issue.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the issue to be determined by the hearing concerns license revocation for refusing to submit to a test under <cite path="38|38.02|38.0210">Section 38.0210</cite> or 38.0226, the hearing must be before a hearing officer assigned by the director at a time and place designated by the director, the hearing must be recorded. The scope of a hearing for refusing to submit to a test under <cite path="38|38.02|38.0210">Section 38.0210</cite> may cover only the issues of whether a law enforcement officer had reasonable grounds to believe the person had been driving or was in actual</text>
+        <text>physical control of a vehicle in violation of <cite path="38|38.02|38.0208">Section 38.0208</cite> or equivalent ordinance; whether the person was placed under arrest; and. whether that person refused to submit to a test or tests. The scope of a hearing for refusing to submit to a test under <cite path="38|38.02|38.0226">Section 38.0226</cite> may cover only the issues of whether the law enforcement officer had reason to believe the person committed a moving traffic violation or was involved in a traffic accident as a driver, whether in conjunction with the violation or the accident the officer has, through the officer's observations, formulated an opinion that the person's body contains alcohol and, whether a person refused to submit to the onsite screening test. Whether the person was informed that the privilege to drive would be revoked or denied for refusal to submit to the test or tests is not an issue.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>At a hearing under <cite path="38|38.02|38.0218">this Section</cite>, the regularly kept records of the commissioner may be introduced. Those records establish prima facie their contents without further foundation. For purpose of <cite path="38.02">this Chapter</cite>, any copy of a certified copy of an analytical report of a blood, urine, of saliva sample received by the director from the office of the state toxicologist or a law enforcement officer, a certified copy of the checklist and test records received by the director from a certified breath test operator,  and any copy of a certified copy of a certificate of the office of the state toxicologist relating to approved methods, devices, operators, materials, and checklists used for testing for blood alcohol concentration received by the director from the office of the state toxicologist or the court, are regularly kept records of the director.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>At the close of the hearing, the hearing officer shall notify the person of the hearing officer's findings of fact, conclusions of law, and decision based on the findings and conclusions and shall immediately deliver to the person a copy of the decision. If the hearing officer does not find in favor of the person, the copy of the decision serves as the director's official notification to the person of the revocation, suspension, or denial of driving privileges in this state. If the hearing officer finds, based on a preponderance of the evidence, that the person had a blood alcohol concentration of at least ten one-hundredths of one percent by weight, the hearing officer shall immediately take possession of the person's temporary operator's permit issued under <cite path="38.02">this chapter</cite>. If the hearing officer does not find against the person, the hearing officer shall sign, date, and mark on the person's permit an extension of driving privileges for the next twenty (20) days and shall return the permit to the person. The hearing officer shall report the findings, conclusions, and decisions to the director within ten (10) days of the conclusion of the hearing. If the hearing officer has determined in favor of the person, the director shall return the person's operator's license by regular mail to the address on fill with the director.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the person who requested a hearing under <cite path="38|38.02|38.0218">this Section</cite> fails to appear at the hearing without justification, the right to the hearing is waived, and the hearing officer's determination on license revocation, suspension, or denial will be based on the written request for hearing, law enforcement officer's report, and other evidence as may be available. The hearing officer shall, on the date for which the hearing is scheduled, mail to the person, by regular mail, at the address on file with the director, or at any other address for the person or the person's legal representative supplied in the request for hearing, a copy of the decision which serves as the director's official notification to the person of the revocation, suspension, or denial of driving privileges in this state.  Even if the person for whom the hearing is scheduled fails to appear at the hearing, the hearing is deemed to have been held on the date for which it is scheduled for purposes of appeal under <cite path="38|38.02|38.0219">Section 38.0219</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0219</num>
+      <heading>Judicial Review</heading>
+      <text>Any person whose operator's license or privilege has been suspended, revoked,</text>
+      <text>Page 29 of 33</text>
+      <text>December 2012</text>
+      <text>or denied by the decision of the hearing officer under <cite path="38|38.02|38.0218">Section 38.0218</cite> may appeal within seven days after the date of the hearing under <cite path="38|38.02|38.0218">Section 38.0218</cite> as shown by the date of the hearing officer's decision, section notwithstanding, by serving on the director and filing a notice of appeal and specifications of error in the Tribal Appeals court where the events occurred for which the demand for a test was made. The court shall set the matter for hearing, and the petitioner shall give twenty days notice of the hearing to the director and to the hearing officer who rendered the decision. Neither the director nor the court may stay the decision pending decision on appeal. Within fifteen days after receipt of the notice of appeal, the director or the hearing officer who rendered the decision shall file in the office of the clerk of court to which the appeal is taken a certified transcript of the testimony and all additional evidence may be heard. The court shall affirm the decision of the director or hearing officer unless it finds the evidence insufficient to warrant the conclusion reached by the director or hearing officer. The court may direct that the matter be returned to the director or hearing officer for rehearing and the presentation of additional evidence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0220</num>
+      <heading>Interpretation of Chemical Tests</heading>
+      <text>Upon the trial of any civil or criminal action or proceeding arising out of acts alleged to have been committed by any person while driving or in actual physical control of a motor vehicle while under the influence of intoxicating liquor, drugs, or a combination thereof, evidence of the amount of alcohol, drugs, or a combination thereof in the person's blood at the time of the act alleged as shown by a chemical analysis of the blood, breath, saliva, or urine is admissible. For the purpose of <cite path="38|38.02|38.0220">this Section</cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>A person having, at that time, an alcohol concentration of not more than five one-hundredths of one percent by weight is presumed not to be under the influence of intoxicating liquor.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Evidence that there was at that time more than five one-hundredths of one percent by weight alcohol concentration in a person is relevant evidence, but it is not to be given prima facie effect in indicating whether the person was under the influence of intoxicating liquor.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person having an alcohol concentration of at least ten one-hundredths of one percent by weight at the time of the performance of a chemical test within two hours after driving or being in physical control of a vehicle is under the influence of intoxicating liquor at the time of driving or being in physical control of a vehicle.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Alcohol concentration is based upon grams of alcohol per one hundredth cubic centimeters of blood or grams of alcohol per two hundred ten liters of alveolar air or grams of alcohol per sixty-seven (67) cubic centimeters of urine.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The results of the chemical analysis must be received in evidence when it is shown that the sample was properly obtained and the test was fairly administered, and if the test is shown to have been performed according to methods and with devices approved by the state toxicologist, and by an individual possessing a certificate of qualification to administer the test issued by the state toxicologist. The state toxicologist is authorized to approve satisfactory devices and methods of chemical analysis and determine the qualifications of individuals to conduct such analysis, and shall issue a certificate to all qualified operators who exhibit the certificate upon demand of the person requested to take the chemical test.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The state toxicologist may appoint, train, certify, and supervise field inspectors of breath testing equipment and its operation, and the inspectors shall report the findings of any inspection to the state toxicologist for appropriate action. Upon approval of the methods or devices, or both, required to perform the tests and the persons qualified to administer them, the state toxicologist shall prepare and file written record of the approval with the director and the clerk of the Tribal Court</text>
+        <text>shall include in the record:</text>
+        <para>
+          <num>a.</num>
+          <text>An annual register of the specific testing devices currently approved, including serial number, location, and the date and the results of last inspection.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>An annual register of currently qualified and certified operators of the devices, stating the date of certification and its expiration.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The operational checklist and forms prescribing the methods currently approved by the state toxicologist in using the devices during the administration of the tests. The material filed under <cite path="38|38.02|38.0220">this section</cite> may be supplemented when the state toxicologist determines it to be necessary and any supplemental material has the same force and effect as the material that it supplements.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Copies of the records referred to in Subsections 5 and 6, certified by the clerk of the Tribal Court, must be admitted as prima facie evidence of the matters stated in the records.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>A certified copy of the analytical report of a Blood, urine, or saliva analysis issued by the office of the state toxicologist must be accepted as prima facie evidence of the results of a chemical analysis performed under <cite path="38.02">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Notwithstanding any statute or rule to the contrary, the defendant in any criminal proceeding may subpoena, without cost to the defendant, the person who conducted the chemical analysis referred to in <cite path="38|38.02|38.0220">this section</cite> to testify at the trial on the issue of the amount of alcohol, drugs, or a combination thereof in the defendant's blood, breath, saliva, or urine at the time of the alleged act.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>A signed statement from the nurse or medical technician drawing the blood sample for testing as set forth in Subsection 5 is prima facie evidence that the blood sample was properly drawn and no further foundation for the admission of such evidence may be required.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0221</num>
+      <heading>Proof of Refusal Admissible in Any Civil or Criminal Action or Proceeding</heading>
+      <text>If the person under arrest refuses to submit to the test or tests, proof of refusal is admissible in any civil or criminal action or proceeding arising out of acts alleged to have been committed while the person was driving or in actual physical control of a vehicle upon the public highways while under the influence of intoxicating liquor, drugs, or a combination thereof.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0222</num>
+      <heading>Effect of Evidence of Chemical Test</heading>
+      <text>The provisions of <cite path="38.02">this Chapter</cite> do not limit the introduction of any other competent evidence bearing on the question of whether the person was under  the influence of intoxicating liquor, drugs, or a combination thereof, but,  if the test results show a blood alcohol concentration of at least ten one- hundredths of one percent, the purpose of such evidence must be limited to  the issues of probable cause, whether an arrest was made prior to the administering of the test, and the validity of the results.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0223</num>
+      <heading>Notice to Other States</heading>
+      <text>When it has been finally determined under the procedures of <cite path="38.02">this chapter</cite> that a nonresident's privilege to operate a motor vehicle in this state has been revoked or denied, the director shall give information in writing of the action taken to the official in charge of traffic control or public safety of the state of the person's residence and of any state in which he has a license.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0224</num>
+      <heading>Liability</heading>
+      <text>Any licensed physician, nurse, technician, or an employee of a hospital who draws blood from any person pursuant to a request of any arresting officer is not liable in any civil action for damages arising out of said act except for gross negligence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0225</num>
+      <heading>State Toxicologist to Examine Specimens of Fatalities in Accidental Deaths Involving a Motor Vehicle; Record Use</heading>
+      <text>In cases of death resulting from a motor vehicle accident or other unnatural death occurring in a motor vehicle, the coroner shall require that specimens of blood, urine, and vitreous humor be withdrawn from the body of the decedent within twenty-four hours after his death by a coroner, coroner's physician, or other qualified person, prior to embalming. The specimens must be collected and preserved by methods and techniques established by the state toxicologist. The specimens so drawn must be sent to the state toxicologist for analysis for alcohol, carbon monoxide, and other drug content. The state toxicologist shall keep a record of all such examinations to be used for statistical purposes. The records must be made available to the director for use by the national highway traffic safety administration in analyzing fatal accidents. The information in the possession of the director may be obtained from the state toxicologist only as provided in <cite path="38|38.02|38.0225">this Section</cite>. Except as provided, the results of the examinations referred to in <cite path="38|38.02|38.0225">this section</cite> must be used only for statistical purposes, except that the results must be released upon the issuance of a subpoena duces tecum by a court of competent jurisdiction in any civil or criminal action. The cumulative results of the examinations, without identifying the individuals involved, must be disseminated to interested state and local officials and made public by the state toxicologist. Any person drawing the specimens and any person making any examination under the terms of <cite path="38|38.02|38.0225">this section</cite> are immune from  all liability, civil or criminal, that might otherwise be incurred or imposed.  The individual drawing the specimens must be paid a fee of five dollars by the state toxicologist for each acceptable specimen submitted for analysis under the requirements of <cite path="38|38.02|38.0225">this Section</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0226</num>
+      <heading>Screening Test</heading>
+      <text>Any person who operates a motor vehicle upon the public highways of the  Turtle Mountain Reservation is deemed to have given consent to submit to an onsite screening test or tests of the person's breath for the purpose of estimating the alcohol content of the person's blood upon the request of a  law enforcement officer who has reason to believe that the person committed a moving traffic violation or was involved in a traffic accident as a driver, and in conjunction with the violation or the accident the officer has,  through the officer's observation, formulated an opinion that the person's body contains alcohol. A person may not be required to submit to a screening test or tests of breath while at a hospital as a patient if the medical practitioner in immediate charge of the person's case is not first notified of the proposal to make the requirement, or objects to the test or tests on the ground that such would be prejudicial to the proper care of treatment of the patient. The screening test or tests must be performed by an enforcement officer certified as a chemical test operator by the state toxicologist and according to methods and with devices approved by the state toxicologist. The results of such screening test must be used only for determining whether or not a further test shall be given under the provisions of <cite path="38|38.02|38.0210">Section 38.0210</cite>.  The officer shall inform the person that refusal of the person to submit to a screening test will result in a revocation for up to three years of that person's driving privileges. If such person refuses to submit to such screening test or tests, none may be given, but such refusal is sufficient cause to revoke such person's license or permit to drive in the same manner as provided in <cite path="38|38.02|38.0216">Section 38.0216</cite> and a hearing as provided in <cite path="38|38.02|38.0218">Section 38.0218</cite> and a judicial review as provided in <cite path="38|38.02|38.0219">Section38.0219</cite> must be available. However, the commissioner must not revoke a person's driving privileges for refusing to submit to a screening test requested under <cite path="38|38.02|38.0226">this section</cite> if the person provides a sufficient breath, blood, or urine sample for a chemical test requested under <cite path="38|38.02|38.0210">Section 38.0210</cite> for the same incident. No provisions of <cite path="38|38.02|38.0226">this Section</cite> may supercede any provisions of <cite path="38.02">this Chapter</cite>, nor may any provision of <cite path="38.02">this chapter</cite> be construed to supersede <cite path="38|38.02|38.0226">this section</cite> except as</text>
+      <text>provided herein. For the purposes of <cite path="38|38.02|38.0226">this section</cite>, "Chemical test operator" means a person. certified by the state toxicologist as qualified to perform analysis for alcohol in a person's blood, breath, saliva, or urine.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0227</num>
+      <heading>Failure to Drive on Right Side of Roadway</heading>
+      <text>Upon all highways of sufficient width, the Indian driver of a vehicle shall drive upon the right half of the highway, except:</text>
+      <para>
+        <num>1.</num>
+        <text>when overtaking and passing another vehicle proceeding in the same direction,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>when the right half of the roadway is closed to traffic while under construction or repair or sign posted for one-way traffic or other conditions.</text>
+        <para>
+          <num>a.</num>
+          <text>No Indian shall at any time drive a vehicle to the left side of the roadway</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>when approaching the crest of a grade or upon a curve in the distance as to create a hazard in the event another vehicle might approach from the opposite direction,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>when approaching within one hundred (100) feet of or traversing any intersection or railroad grade crossing, or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>when the view is obstructed upon approaching within one hundred</text>
+          <text>(100) feet of any bridge, viaduct, or tunnel.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0228</num>
+      <heading>Fleeing or Attempting to Elude a Peace Officer</heading>
+      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop, is guilty of a class A misdemeanor. A signal complies with <cite path="38|38.02|38.0228">this section</cite> if the signal is perceptible to the driver and:</text>
+      <para>
+        <num>1.</num>
+        <text>If given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the stopping vehicle is appropriately marked showing it to be an official police vehicle; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If not given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the officer is in uniform and prominently displays the officer's badge of office.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>38.0229</num>
+      <heading>Driving While Operator's License Is Suspended or Revoked</heading>
+      <text>It is a violation for any person to drive a motor vehicle on a highway or on public or private areas to which the public has a right of access for vehicular use within the jurisdiction of the Tribe while that person's license or privilege to do so has been suspended by the tribe, state or any other jurisdiction having authority to issue drivers licenses.</text>
+      <text>The penalty for <cite path="38|38.02|38.0229">this Section</cite> would be a Class 2 offense listed under <cite path="26|26.06|26.0601">Section 26.0601</cite> of the 'Classification of Offenses' Section of Title 26, Turtle Mountain Tribal Code.</text>
+      <text><cite path="38|38.02|38.0229">This Section</cite> would also fall within <cite path="26|26.06|26.0602">Section 26.0602</cite> whereby repeated convictions of the same violation shall cause a graduated penalty of sentencing.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,1405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>36</num>
+  <heading>Elder Abuse Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>36.0100</num>
+      <heading>Authority</heading>
+      <text>Article IX, Section (a) of the Turtle Mountain Band of Chippewa Constitution grants the "legislature the power to govern the conduct of the members of the band and Indians from other tribes on the reservation providing for the maintenance of law and order and the administration of justice". The jurisdiction in this matter will include territory and membership found in Article II and III. TMBCI Tribal Constitution-October, 2015.  <em>Adopted by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0101</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this code is to establish and promulgate Tribal law for protecting, preserving, serving and honoring the physical health, mental health, and wellness of Elders within the jurisdiction of the Turtle Mountain Band of Chippewa. The Elders possess irreplaceable knowledge, skills, and experience which are vital to the enrichment of the Tribe. Tribal interests are, now and in the future, advanced when the Elders are protected from abuse, neglect, self-neglect and exploitation. Therefore, the Tribe recognizes the need to protect, preserve, and provide services to our Elders through the enforcement of this code, along with the establishment of the Elders Protection Team, which is a protective service administered under the Tribe and created by this code. This code shall be liberally interpreted in order to achieve its purpose.                                                                                                                                          <em>Adopted Resolution No. 475-08-11 repealed and replaced by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0102</num>
+      <heading>Definitions</heading>
+      <text>As used in this Code, unless the context clearly indicates otherwise, the following definitions shall apply:</text>
+      <para>
+        <num>1.</num>
+        <text>"<strong>ABUSE</strong>" means the willful infliction of physical injury or pain, oral assaults, sexual abuse, mental anguish, unreasonable confinement, intimidation, financial exploitation, the willful deprivation by a caregiver of the basic necessities of life – such as, but not limited to food, shelter, clothing, medical and personal care – which are necessary to avoid physical harm, mental anguish, or mental illness. However, no person shall be deemed to be abused for the sole reason they are being furnished nonmedical remedial treatment by spiritual means through prayer alone in accordance with a recognized religious method of healing in lieu of medical treatment against the Elder's free will. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><strong>"ADVOCATE" </strong>means an employee or volunteer for a program for victims of Elder abuse who renders advocacy, counseling or assistance to the victim.</text>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><em>"</em><strong>BODILY HARM</strong>" means willfully and knowingly causing bodily injury, substantial bodily injury or attempting to inflict serious injury to another person with a weapon. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"<strong>CAREGIVER</strong>" means an individual who has the responsibility for the care, services and/or resources of an Elder by relationship either voluntarily, by contact, receipt of payment for care as a result of a family relationship, or by an order of a court of legally competent jurisdiction. Adopted Resolution No. 475-08-11 amended by <em>Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"E<strong>LDER PERSON</strong>" or "<strong>ELDERLY</strong>" means any person who is at least fifty-five (55) years of age.  <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"<strong>ELDER PROTECTION TEAM</strong>" <strong>(EPT)</strong> shall mean a resource group created by this Code whose objective is to ensure service to the Elderly population within the jurisdiction of the Turtle Mountain Indian Reservation are protected and properly cared for. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"<strong>EXPLOITATION</strong>" means the act or process of using an Elder person or their resources for another person's profit, advantage, gain for monetary or personal benefit without legal entitlement to do so. Adopted Resolution No. 475-08-11</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"<strong>FACILITY</strong>" means a hospital, nursing home, daycare facility, home health agency or any facility with responsibility for the care and safety of Tribal Elders. <em>Adopted by Resolution No. TMBC1360-10-20</em></text>
+        <para>
+          <num>a.</num>
+          <text>"<strong>LONG TERM CARE FACILITY</strong>" means a facility or part thereof which provides skilled nursing care or intermediate nursing care to a total of two or more persons or personal care to more than four persons who are not related to the owner or administrator by blood or marriage. <em>Adopted Resolution No. 475-08-11</em></text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"<strong>SKILLED NURSING CARE</strong>" means the provision of nursing care services, health-related services, and social services under the supervision of a licensed registered nurse on a 24-hour basis.  <em>Adopted Resolution No. 475-08-11</em></text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>"<strong>HOSPITAL</strong>" means any facility where medical, emergency or otherwise is administered to Tribal Elders by either registered nurses or physicians. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>"<strong>DAYCARE FACILITY</strong>" means any nonresidential facility which promotes the social activity of elders. This facility may be a professional or lay facility administering care and are responsible for an Elder's daily activity<em>.  Added by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>"<strong>HOME HEALTH AGENCY</strong>" means a public or private agency or organization that offers home care services including skilled nursing care and therapeutic service in the Elder's residence. This includes but is not limited to, physicians, nurses, therapists, social workers and homemakers who are supervised by the Home Health Agency. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"<strong>GOOD FAITH REPORTING</strong>" means any Elder who believes wrongdoing or abuse has been committed against them, shall have the right to report the wrongdoing with an assurance of sincere belief in their report. And any Law Enforcement, Prosecutor or Advocate taking action because of the good faith report as defined by this code, will have an assurance of sincere belief in their report.   <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"<strong>GREAT BODILY HARM</strong>" means an assault which causes serious injury that creates a substantial risk of death, or causes serious permanent disfigurement, coma, a permanent or protracted condition causing extreme pain, permanent or protracted loss or impairment of the function of any bodily member or organ, or results in prolonged hospitalization.                                                                                                         <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"<strong>MENTAL ANGUISH" OR "MENTAL INJURY</strong>" means an identifiable and substantial impairment of an Elder person's intellectual or psychological functioning or well-being by either willfully or unintentionally subjecting an elder person to fear, grief, anguish, humiliation, fury, confusion, severe depression, or other forms of serious emotional distress, through threats, harassment, or other forms of intimidating behavior. <em>Adopted Resolution No. 475-08-11 amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text><em>"</em><strong>NEGLECT</strong>" means the willful, negligent or reckless failure of a guardian legally or voluntarily responsible, an employee of a public or private residential institution, home or agency, or any other person legally responsible in a residential setting for an Elder person's welfare to provide food, shelter, clothing, or any services necessary to maintain the physical or mental well-being of the Elder person.</text>
+        <para>
+          <num>a.</num>
+          <text>"<strong>Primary neglect</strong>" means purposeful neglect with intent to abuse, deprive or cause harm to an Elder.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"<strong>Secondary neglect</strong>" means unintentional neglect which results in deprivation of basic necessities.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>"<strong>Abandonment</strong>" means leaving an Elder, who is incapable of caring for themselves, for a prolonged period of time without the legal guardian making proper arrangements for the Elder's care or desertion of an Elder by the legal guardian.</text>
+          <text>
+            <em>Adopted Resolution No. 475-08-11 Added (a)(b)(c) by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"<strong>PERSONAL CARE</strong>" means the provision of services and care that does not require nursing skills to residents needing some assistance in performing activities of daily living. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"<strong>PHYSICAL INJURY</strong>" means bodily pain, harm, or impairment caused either intentionally, negligently or recklessly.  <em>Adopted Resolution No. 475-08-11 revised through Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"<strong>RESIDENT</strong>" means any Elderly person who lives within the jurisdiction of the Turtle Mountain Band of Chippewa, pursuant to jurisdiction as defined within Articles II and III of the Tribal Constitution. <em>Adopted Resolution No. 475-08-11 revised through Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text><strong>Sexual Abuse – </strong>means any person who commits abusive sexual contact by touching, fondling of genitals, for sexual arousal by means of forcing, threatening, intimidating, coercing an Elder or causing an Elder to engage in any sexually explicit conduct without consent.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0103</num>
+      <heading>Severability</heading>
+      <text>If any of the provisions of this Code are found to be unconstitutional or illegal, the remaining provisions of this Code shall be proper and applicable and continue to have full legal effect. <em>Adopted Resolution No. 475-08-11</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0104</num>
+      <heading>Immunity</heading>
+      <text>Any Law Enforcement Officer, Tribal Prosecutor, Court Official and any Advocate acting in good faith, in accordance with the Turtle Mountain Elders Code shall have immunity from any civil or criminal liability. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0105</num>
+      <heading>Repeal</heading>
+      <text>To the extent that they are inconsistent with this ordinance, all prior Elder Abuse ordinances are hereby repealed. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0106</num>
+      <heading>Effective Date</heading>
+      <text>This ordinance shall take effect immediately upon its approval by the council.   <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0107</num>
+      <heading>Budgeting of Funds</heading>
+      <text>The Tribe shall budget the necessary funds to effectuate <cite path="36">this Title</cite>.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.02</num>
+    <heading>Rights of Elders</heading>
+    <section>
+      <num>36.0201</num>
+      <heading>Elder's Rights</heading>
+      <text>The dignity and need for self-reliance of the Tribe's Elders shall be acknowledged and respected by the family and tribal community. The rights of each Elder shall be recognized and protected by the tribe.</text>
+      <para>
+        <num>1.</num>
+        <text>An Elder has the right to be treated with dignity and respect;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An elder has the right to make their own choices regarding personal affairs, care, benefits, and services;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An Elder has the right to be free from abuse, neglect, exploitation, and retaliation;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>An Elder has the right to protective services of the Elder Protection Team and if protective measures are required the Elder has the right to designate a guardian or representative;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Elder shall receive notice of and have the right to attend, either in person or by electronic means, any court hearings to which he or she is a party.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Elder shall have the right to refuse services from the Elder Protective Services provided that the Elder is able to care for himself/herself and/or has the capacity to understand the nature of the services offered unless court ordered. <em>Adopted by resolution RES TMBC???-??-??</em></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.03</num>
+    <heading>Elder Abuse Crimes</heading>
+    <section>
+      <num>36.0301</num>
+      <heading>Crimes Involving "Elder Abuse"</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of the Turtle Mountain Elder Abuse Code is to establish Elder Abuse as an act punishable separately from underlying crime(s). When there is a finding where Elder Abuse was committed against an Elder with the purpose of or having the effect of, inflicting physical harm, bodily injury, mental anguish, or exploitation following offenses apply:</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0302</num>
+      <heading>Aiding and Abetting. Penalty-</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully aids, abets, or otherwise assists, physically or passively by non-disclosure, an individual who purposely or knowingly abuses, neglects or exploits an Elder shall be guilty of Aiding and Abetting and punished according to this code. <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Aiding and Abetting shall be sentenced in the same manner as the principal crime. Complete Mandatory Requirements (1-4) <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any person convicted of a second offense of Aiding and Abetting the sentence shall be doubled.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Any person convicted of a third offense of Aiding and Abetting the sentence shall be tripled.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0303</num>
+      <heading>Destruction of Property. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully and maliciously destroys and Elders property or renders the property unusable with the intent to cause distress to the Elder shall be guilty of Destruction of Property and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Destruction of Property shall be imprisoned for a term of not less than fifteen (15) days, not to exceed ninety (90) days and shall be fined an amount not less than two hundred dollars ($200.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Destruction of Property, the sentence shall be doubled.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Destruction of Property, the sentence shall be tripled.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0304</num>
+      <heading>Elder Abandonment. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any legal guardian who is legally and/or voluntarily responsible for an Elder and willfully desserts that Elder, as defined in this code, is guilty of Elder Abandonment and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Elder Abandonment shall be imprisoned for a term of no less than fifteen (15) days, not to exceed ninety (90) days and shall be fined an amount not less than two hundred dollars ($200.00), not to exceed five hundred ($500.00) dollars. Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Elder Abandonment, the sentence shall be doubled.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Elder Abandonment, the sentence shall be tripled.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0305</num>
+      <heading>Elder Exploitation Stealing Assets. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully acts or uses an Elder or their resources for another person's profit, advantage, gain or for monetary, or personal benefit without legal entitlement including, but not limited to, forging an Elder's signature to cash a check or take money, using their ATM card to take money, or taking any cash on hand without the Elders consent or knowledge will be guilty of Elder Exploitation Stealing Assets and may be punished according to this code by amount stolen:  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Less than $100.00 shall be imprisoned for a term of not less than fifteen (15) days, not to exceed ninety (90) days and shall be fined an amount not less than two hundred fifty dollars ($250.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>More than $100.00 shall be imprisoned for a term of not less than thirty (30) days, not to exceed one hundred eighty (180) days and shall be fined an amount not less than five hundred dollars ($500.00), not to exceed one thousand dollars ($1000.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>More than $1000.00 shall be imprisoned for a term of not less than forty-five (45) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than one thousand dollars ($1000.00), not to exceed two thousand five hundred dollars ($2500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Per the second offense of Elder Exploitation Stealing Assets, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Per the third offense of Elder Exploitation Stealing Assets, the sentence shall triple.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0306</num>
+      <heading>Elder Exploitation Taking Control. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully acts or uses an Elder or their resources for another person's profit, advantage, gain, or for monetary or personal benefit without legal entitlement including, but not limited to, gaining control over deeds to property, identity theft, accessing and spending down an inheritance, trust or Elder's monies without Elder consent or knowledge will be guilty of Elder Exploitation Taking Control and may be punished according to this code.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Elder Exploitation Taking Control shall be imprisoned for a term of not less than thirty (30) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than five hundred dollars ($500.00), not to exceed two thousand five hundred dollars ($2500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Elder Exploitation Taking control, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Elder Exploitation Taking Control, the sentence shall triple.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0307</num>
+      <heading>Elder Exploitation Coercion. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully acts or uses an Elder or their resources for another person's profit, advantage, gain, for monetary or personal benefit without legal entitlement by either intimidation, threat, Elder under impairment, or undue influence in order to get an Elder to change a will or enter into a complex financial contract or transaction they do not understand or wish to engage in, so that one may take advantage of that Elder shall be guilty of Elder Exploitation Coercion and may be punished according to this code, classified by amounts:  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Less than $100.00 shall be imprisoned for a term of not less than fifteen (15) days, not to exceed ninety (90) days and shall be fined an amount not less than two hundred fifty dollars ($250.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>More than $100.00 shall be imprisoned for a term of not less than thirty (30) days, not to exceed one hundred eighty (180) days and shall be fined an amount not less than five hundred dollars ($500.00), not to exceed one thousand dollars ($1000.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>More than $1000.00 shall be imprisoned for a term of not less than forty-five (45) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than one thousand dollars ($1000.00), not to exceed two thousand five hundred dollars ($2500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Per the second offense of Elder Exploitation Coercion, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Per the third offense of Elder Exploitation Coercion, the sentence shall triple.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0308</num>
+      <heading>Mental Anguish or Injury Verbal Abuse. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who substantially impairs an Elder person's intellectual or psychological functioning or well-being by willfully subjecting an Elder to serious emotional distress as defined in this code including, but not limited to, yelling, insulting, belittling, humiliating, harassing or verbally threatening/verbally threatening with a weapon toward an Elder, shall be guilty of Mental Anguish or Injury Verbal Abuse and may be punished according to this code. <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Mental Anguish or Injury Verbal Abuse against an Elder shall be imprisoned for a term of not less than ten (10) days, not to exceed one hundred eighty (180) days and shall be fined in the amount not less than one hundred dollars ($100.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Mental Anguish and Injury Verbal Abuse, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Mental Anguish and Injury Verbal Abuse, the sentence shall triple.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0309</num>
+      <heading>Mental Anguish or Injury Threats. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who substantially impairs an Elder person's intellectual or psychological functioning or well-being by willfully subjecting an Elder to serious emotional distress as defined in this code including, but not limited to, harassment, threatening physical harm, threatening institutionalization or threaten to withhold critical necessities and support shall be guilty of Mental Anguish or Injury Threats and may be punished according to this code.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Mental Anguish or Injury Threats against an Elder shall be imprisoned or a term of not less than ten (10) days, not to exceed one hundred eighty (180) days and shall be fined in the amount not less than one hundred dollars ($100.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Mental Anguish and Injury Threats, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Mental Anguish and Injury Threats, the sentence shall triple.</text>
+          <text>Added by Resolution No. TMBC1360-10-20</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0310</num>
+      <heading>Mental Anguish or Injury Isolation. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who substantially impairs an Elder person's intellectual or psychological functioning or well-being by willfully subjecting an Elder to serious emotional distress as defined in this code by means of isolating an Elder from friends, family or any social activities shall be guilty of Mental Anguish or Injury Isolation and may be punished according to this code.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Mental Anguish and Injury Isolation against an Elder shall be imprisoned for a term of not less than ten (10) days, not to exceed forty-five (45) days and shall be fined an amount not less than one hundred dollars ($100.00), not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Mental Anguish and Injury Isolation, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Mental Anguish and Injury Isolation, the sentence shall triple.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0311</num>
+      <heading>Mental Anguish or Injury Disorderly Conduct. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who substantially impairs an Elder person's intellectual or psychological functioning or well-being by willfully subjecting an Elder to serious emotional distress as defined in this code including but not limited to, purposely causing an Elder inconvenience, annoyance or alarm or recklessly creating a risk by: threatening in a violent behavior, displaying visual aggression; making unreasonable noise, offensive gesture, display abusive language; create a hazardous or physically offensive condition by any act with serves no legitimate purpose; taking control of a home without authorization or refusal to vacate the home after being ordered to do so. Shall be guilty of Mental Anguish or Injury Disorderly Conduct and may be punished according to this code.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Mental Anguish and Injury Disorderly Conduct shall be imprisoned for a term of not less than fifteen (15) days, not to exceed ninety (90) days and shall be fined an amount not less than three hundred dollars ($300.00) not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Mental Anguish and Injury Disorderly Conduct, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Mental Anguish and Injury Disorderly Conduct, the sentence shall triple.</text>
+          <text>Added by Resolution No. TMBC1360-10-20</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0312</num>
+      <heading>Physical Abuse Great Bodily Harm. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully inflicts bodily pain, harm, impairment physical injury pain, and/or unreasonable confinement which results in intentionally causes great bodily harm to an Elder is guilty of Physical Abuse Great Bodily Harm and may be punished according to this code.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>A person convicted of Physical Abuse Great Bodily Harm shall be imprisoned for a term of not less than sixty (60) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than five hundred dollars ($500.00) not to exceed two thousand five hundred dollars ($2500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Physical Abuse Great Bodily Harm, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Physical Abuse Great Bodily Harm, the sentence shall triple.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0313</num>
+      <heading>Physical Abuse Bodily Harm. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully inflicts bodily pain, harm, impairment physical injury or pain, and/or unreasonable confinement which results in intentionally causes bodily harm to an Elder is guilty of Physical Abuse Bodily Harm and may be punished according to this code.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Penalty</u>.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Physical Abuse Bodily Harm shall be imprisoned for a term of not less than ten (10) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than three hundred dollars ($300.00), not to exceed one thousand dollars ($1000.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Physical Abuse Bodily Harm, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Physical Abuse Bodily Harm, the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0314</num>
+      <heading>Physical Abuse Sexual Assault. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Whoever engages in sexual assault/abuse of an Elder as defined in this code, is guilty of Physical Abuse Sexual Assault and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Physical Abuse Sexual Assault shall be imprisoned for a term of not less than (60) days, not to exceed three hundred sixty-five (365) days and shall be fined an amount not less than five hundred dollars ($500.00) not to exceed two thousand five hundred dollars ($2500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Physical Abuse Sexual Assault, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Physical Abuse Sexual Assault, the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0315</num>
+      <heading>Physical Injury. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who negligently or recklessly inflicts bodily pain, harm or impairment upon an Elder, is guilty of physical injury and may be punished according to this code.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Physical Injury against an Elder shall be imprisoned for a term of not less than ten (10) days, not to exceed one hundred eighty (180) days and shall be fined an amount not less than two hundred dollars ($200.00) not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Physical Injury, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Physical Injury, the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0316</num>
+      <heading>Primary Neglect. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully fails, as a guardian who is legally and/or voluntarily responsible for an Elder's welfare to provide food, shelter, clothing, or services necessary to maintain the physical and mental well-being of the Elder, as defined in this code, is guilty of primary neglect and may be punished according to this code. <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Primary Neglect against an Elder shall be imprisoned for a term of not less than fifteen (15) days, not to exceed one hundred eighty (180) days and shall be fined an amount not less than three hundred dollars ($300.00), not to exceed seven hundred dollars ($700.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Primary Neglect, the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Primary Neglect, the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0317</num>
+      <heading>Protection of Advocates. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who harasses, annoys, intimidates or causes bodily harm to an Elder advocate shall be guilty of Protection of an Advocate and may be punished according to this code.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>Penalty.</u>
+        </text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Protection of an Advocate shall be imprisoned for a term of not less than ten (10) days, not to exceed one hundred eighty (180) days and shall be fined an amount not less than three hundred dollars ($300.00), not to exceed seven hundred dollars ($700.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Protection of an Advocate the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Protection of an Advocate the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0318</num>
+      <heading>Secondary Neglect. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who unintentionally fails as a guardian who is legally and/or voluntarily responsible for an Elder's welfare to provide food, shelter, clothing, or services necessary to maintain the physical and mental well-being of the Elder, as defined in this code, is guilty of Secondary Neglect and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Penalty</u>.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Secondary Neglect shall be referred to the Elder Protection Team to complete any recommendations and follow up with any referrals the team deems necessary.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0319</num>
+      <heading>Vandalism of Property. Penalty -</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who willfully and maliciously vandalizes an Elders property with the intent to cause distress to the Elder shall be guilty of Vandalism of Property and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of Vandalism of Property shall be imprisoned for a term of not less than ten (10) days, not to exceed ninety (90) days and shall be fined an amount not less than two hundred dollars ($200.00) not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) in <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of Vandalism of Property the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of Vandalism of Property the sentence shall triple.</text>
+        </para>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0320</num>
+      <heading>Violation of Protection Orders. Penalty –</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who knowingly violates or a person who aids and abets another person to knowingly violate a Protection Order in any way shall be guilty of Violation of Protection Orders and may be punished according to this code. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Penalty.</text>
+        <para>
+          <num>a.</num>
+          <text>Any person convicted of violating a Protection Order or aiding and abetting the violation of Protection Orders shall be imprisoned for a term of not less than fifteen (15) days not to exceed forty-five (45) days and shall be fined an amount not less than two hundred fifty dollars ($250.00) not to exceed five hundred dollars ($500.00). Complete Mandatory Requirements (1-4) of <cite path="36|36.04|36.0404">Section 36.0404</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Per the second offense of violating a Protection Order or aiding and abetting the violation of a Protection Order the sentence shall double.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Per the third offense of violating a Protection Order or aiding and abetting the violation of a Protection Order the sentence shall triple. <em>Adopted by Resolution No. TMBC475-08-11 amended by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.04</num>
+    <heading>Penalties and Rehabilitation</heading>
+    <section>
+      <num>36.0401</num>
+      <heading>Failure to Comply with Court Orders</heading>
+      <para>
+        <num>1.</num>
+        <text>In cases involving failure to comply with the courts orders of counseling, the violation of a protection order the commission of any crime during the protection order period or violation of any other condition of sentencing, the court shall find the person in contempt of court and shall impose all or part of the suspended sentence; in addition, the court may charge and sentence another crime punishable in the same manner as the principal. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0402</num>
+      <heading>Other Sanctions</heading>
+      <para>
+        <num>1.</num>
+        <text>Prosecution for the offense of Elder Abuse shall not preclude prosecution for any other offense arising from the same circumstances.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person convicted of Elder Abuse shall not be released from custody for community service.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person convicted of Elder Abuse shall not be released from custody to attend funeral or wake services unless said services are for a member of the person's immediate family and shall be at the discretion and condition of the Turtle Mountain Tribal Court. Immediate family shall mean husband, wife, son, daughter, brother, sister, father, mother, aunt, uncle or grandparent.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A person convicted of Elder Abuse shall not be released from custody for the holidays.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A person convicted of Elder Abuse may be released for employment at the discretion and condition of the Turtle Mountain Tribal court.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A person found guilty of the crime of Elder Abuse may also be ordered to pay the reasonable costs of the person's prosecution.</text>
+        <text>
+          <em>Added by Resolution No. TMBC1360-10-20</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0403</num>
+      <heading>Alternative Sentences</heading>
+      <text>The court may or may not employ alternative sentencing in the following cases:</text>
+      <para>
+        <num>1.</num>
+        <text>Suspend, only, the term of imprisonment for a first offense:</text>
+        <para>
+          <num>a.</num>
+          <text>Exploitation: 36.0305, 36.0306, 36.0307, for damage under one thousand ($1000.00);</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Mental anguish or injury: 36.0308, 36.0309, 36.0310 and 36.0311;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Aiding and Abetting;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Destruction of property;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Vandalism of property;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Elder Abandonment;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Protection of an Advocate;</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The deferred imposition of a sentence shall not be allowed for any violent crime as described in this code:</text>
+        <para>
+          <num>a.</num>
+          <text>Abuse: 36.0312, 36.0313 and 36.0314;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Physical Injury;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Primary Neglect which results in physical injury;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Violation of a Protection Order.</text>
+          <text>
+            <em>Added by Resolution No. TMBC1360-10-20</em>
+          </text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0404</num>
+      <heading>Mandatory Requirements</heading>
+      <text>The commission of one or more of the above-listed crimes shall trigger the application of the Turtle Mountain Elder Abuse Code. Additionally, to the offenses set forth in <cite path="36|36.04|36.0404">this section</cite>, an individual who is found guilty of an Elder Abuse Crime(s) shall be ordered to:</text>
+      <para>
+        <num>1.</num>
+        <text>Alcohol and/or drug evaluation and follow-through, if the event involves alcohol or drugs. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Domestic Violence or Anger Management programming, with a minimum of fifteen (15) hours with proof of enrollment in the program within fourteen (14) days of sentencing. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Restitution – if the event involves financial exploitation, vandalism and/or destruction of property. <em>Adopted Resolution No. 475-08-11 revised by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Order for Protection or Restraint, as required under this code.</text>
+        <text>
+          <em>Adopted Resolution No. 475-08-11 amended by Resolution No. TMBC1360-10-20</em>
+        </text>
+        <text>The offender shall submit a record of attendance to evaluations or programming to the clerk of court and the probation officer, who shall maintain a record of attendance. Failure to comply with any provision set by the Court shall result in contempt of court. Failure to attend counseling, violation of an order for protection, or commission of a crime of violence during the order for protection period or during the probationary period, after proper written notification and/or motion, will result in an immediate review of the case by the court.</text>
+        <text>
+          <em>Adopted Resolution No. 475-08-11</em>
+        </text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0405</num>
+      <heading>Civil Penalties</heading>
+      <para>
+        <num>1.</num>
+        <text>A person convicted of Elder Abuse may be held liable for civil penalty.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Restitution shall be ordered when deemed appropriate by the Turtle Mountain Tribal Court. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person who is convicted of financial exploitation of an Elder shall be ordered by the Turtle Mountain Tribal Court to reimburse the Elder in full as a consequence of any plea bargain, guilty plea, finding of guilty by a judge or jury or nolo contendere pleas. If the person has exploited resources other than money from the Elder, then the court shall order the offender to return the resources immediately or to sign the necessary documents returning the resources to the Elder or to reimburse the monetary value of the resources exploited. <em>Adopted Resolution No. TMBC475-08-11</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Upon conviction for the crime of Elder Abuse, the Turtle Mountain Tribal Court may order the removal of any weapons from the defendant's possession for a period of five to ten (5-10) years. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0406</num>
+      <heading>Elder Protection Team</heading>
+      <text>The Turtle Mountain Tribal Council shall establish a Turtle Mountain Elder Protection Team upon the Turtle Mountain Reservation, which shall serve the entire Turtle Mountain Indian Reservation. The Elder Protection Team shall consist of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Two (2) Social Service Representatives;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An Elder Advocate/Victim of Crime worker;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Five (5) Elders who are enrolled members from the Turtle Mountain Band of Chippewa; <em>Adopted Resolution No. TMBC475-08-11</em></text>
+        <text>The duties of the Elder Protection Team shall consist of the following:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>To coordinate services, outreach, referrals and procure necessary resources for Elders;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To coordinate public awareness and education of Elder Abuse;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Develop and implement policies and procedures dedicated to the protection of Elders, provisions of resources and the prevention of Elder Abuse;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Elders team will serve in the capacity of an advisory committee, offering guidance and suggestions in cases.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Provide advocacy, case management, protection, and Maintain strict confidentiality, with exceptions, as outlined in <cite path="36.05">Chapter 36.05</cite> of this code. <em>Adopted Resolution No. 475-08-11 added duties section "1", "2", "3", "4", and "5" Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.05</num>
+    <heading>Reports</heading>
+    <section>
+      <num>36.0501</num>
+      <heading>Reporting Duties</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person or who has reasonable cause to suspect or who witnesses the abuse of an Elder shall report the abuse or suspected abuse to any Law Enforcement Official immediately.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Professionals and any person(s) who know or have reasonable cause to suspect that an Elder person, known to them in their professional or official capacities has been subject to abuse, exploitation, or neglect shall be required to make a report shall include, but not limited to:</text>
+        <para>
+          <num>a.</num>
+          <text>A physician, resident, intern professional(s) and person(s), professional or practical nurse, physician's assistant, or member of a hospital staff engaged in the admission, examination, care or treatment of an Elder;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>an ambulance attendant;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>a social worker or other employee(s) of the Tribal, State, County, or Federal agency;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>a person who maintains or is employed by a rooming house, a retirement home, nursing home, group home, or adult foster care home;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>an attorney, unless he/she acquires knowledge of the facts required to be reported from a client and the attorney-client privilege applies;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>religious pastors;</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>All persons are required to report abuse, neglect or exploitation of an <br/>Elder person under <cite path="36|36.05|36.0501">this section</cite> shall make their report within three (3) working days of their observation of an incident of abuse, neglect or exploitation of an Elder unless the Elder's immediate well-being is threatened, in which case the report shall be made at the earliest time possible, but no later than twenty-four (24) hours after the incident.                 <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0502</num>
+      <heading>Content of Report</heading>
+      <para>
+        <num>1.</num>
+        <text>The report required by <cite path="36|36.50|36.501">section 36.501</cite> may be made in writing or orally, by telephone or in-person. A person who receives an oral report must prepare it in writing as soon as possible</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The report referred to under <cite path="36|36.05|36.0502">this Section</cite> shall contain:</text>
+        <para>
+          <num>a.</num>
+          <text>Name, age and address of the Elder person;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>name and address of the person with legal responsibility for the Elder that is the subject of the report if it is other than the said Elder;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>name and address, if available, of the person who is alleged to have abused, neglected, or exploited the older person;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>nature and extent of the abuse, neglect, or exploitation, including any evidence of previous injuries sustained by the older person; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>date(s) and location(s) of when and where the alleged abuse occurred;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>the name and address of the person making the report; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>any other pertinent information known to the person making the report. <em>Adopted Resolution No. TMBC475-08-11</em></text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0503</num>
+      <heading>Community in Good Faith</heading>
+      <para>
+        <num>1.</num>
+        <text>A person, not a party to the abuse, participating in good faith when making of a report pursuant to their ordinance shall have immunity from any liability, civil or criminal, that might otherwise be incurred or imposed, and shall have the same immunity with respect to participation in any court proceedings resulting from such a report. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any Elder who reports they are being abused will have their report received in good faith. The Elder shall have immunity from any liability, civil or criminal, that might otherwise be incurred or imposed, and shall have the same immunity with respect to participation in any court proceedings resulting from such report.  <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0504</num>
+      <heading>Confidentiality</heading>
+      <para>
+        <num>1.</num>
+        <text>The case records of the filed reports and the Court concerning actions taken under this part shall be kept confidential except as provided by <cite path="36|36.05|36.0504">this section</cite>.</text>
+        <para>
+          <num>a.</num>
+          <text>Where Law Enforcement officials or Tribal Prosecutors who require the information in connection with an investigation of a violation of this code; and/or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Where a court of legal jurisdiction has determined that public disclosure of the report, data, information or record is necessary for the persecution of an abuse report; to prevent further Elder abuse or to convict those accused of Elderly abuse. <em>Adopted Resolution No. 475-08-11 revised by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the person who is reported to have abused, neglected, or exploited an Elderly person is the holder of a license, permit, or certificate issued by any agency of federal, tribal or state government, the records and reports may be submitted to the agency that issued the license, permit or certificate. If convicted of Elder abuse, a report and disposition shall be reported to an agency of federal, tribal, or state government regarding possible termination of the license, permit, or certification.                                                                                         <em>Adopted Resolution No. TMBC475-08-11 Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0505</num>
+      <heading>Penalty</heading>
+      <para>
+        <num>1.</num>
+        <text>A person who purposely or knowingly fails to make a report as required in <cite path="36|36.05|36.0501">Section 36.0501</cite> or fails to disclose the contents of a case record to report in violation of <cite path="36|36.05|36.0504">Section 36.0504</cite> may be fined an amount not to exceed less than one hundred dollars ($100.00) but not to exceed two hundred fifty dollars ($250.00), plus court costs.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person who aids, abets or otherwise assists, physically or passively by non-disclosure, an individual who purposely or knowingly abuses, neglects or exploits an Elder person shall be treated as if said individual committed the offenses himself or herself. <em>Adopted Resolution No. TMBC475-08-11</em></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.06</num>
+    <heading>Arrest Provisions and Duties of Tribal Officers</heading>
+    <section>
+      <num>36.0601</num>
+      <heading>Arrest Provisions</heading>
+      <para>
+        <num>1.</num>
+        <text>A Law Enforcement Official shall arrest and taken into custody any person(s) who the officer has probable cause to believe assaulted or neglected an Elderly person with whom he/she is residing or has formerly resided. No warrant is required to make an arrest under this provision.</text>
+        <para>
+          <num>a.</num>
+          <heading>NOTE:</heading>
+          <text>Probable cause is defined as follows: Based on the Law Enforcement Official's observations and statements made by the parties involved and witnesses (if any) the officer using reasonable judgment believes an assault did occur and the person to be arrested committed the assault. The officer's observation can be but is not limited to, obvious distress of the Elder, visible wounds, vandalism or destroyed property, or visible aggression of the accused. This arrest provision means that the victim need not sign a complaint for an arrest to occur. Further, under provisions above, a Law Enforcement Official shall arrest under probable cause even though it may be against the expressed wishes of the victim. <em>Adopted Resolution No. 475-08-11 amended by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Law Enforcement Official and shall take into custody a person whom the Law Enforcement Official has probable cause to believe has violated an order for protection, restraining the person or excluding the person from the residence if the existence of the order can be verified by the Law Enforcement Official.</text>
+        <para>
+          <num>a.</num>
+          <heading>NOTE:</heading>
+          <text>Regardless of whether or not the person violating the order was invited back into the home, an arrest shall be made. Thus, when the court issues such an order it shall inform the excluded party that the petitioning party must make a motion for the court to formally change the order for protection, in order for the excluded party to return to the residence. <em>Adopted Resolution No. 475-08-11 Amended by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A Law Enforcement Official shall make an arrest if there was a threat with a dangerous weapon, including a gun, knife or other object used as a weapon.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A Law Enforcement Official may arrest when responding to a call if the Law Enforcement Official has probable cause to believe that the alleged assailant has within the past twenty-four (24) hours placed the alleged victim in imminent fear of bodily harm.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Whenever a Law Enforcement Official investigates an allegation of an incident described in 1-4 above, whether or not an arrest is made, the officer shall make a written report of the alleged incident and submit that report to the Tribal Prosecutor and his/her supervisor. The Tribal Prosecutor shall forward copies of all written reports to the Elder Protection Team within two (2) regular working days with receipt of Elderly abuse reports. <em>Adopted Resolution No. 475-08-11 Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Law Enforcement Official shall receive the Elders statement and claim of abuse in good faith and is all that is needed by Law Enforcement to justify a probable cause arrest. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0602</num>
+      <heading>Duties of Tribal Officers</heading>
+      <para>
+        <num>1.</num>
+        <text>When responding to an Elder abuse situation, the primary duty of the Officer is to enforce the laws and ensure victim safety.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the victim is present when the officer arrests a person for Elder abuse, the officer shall advise the victim of reasonable means to prevent further abuse, the availability of a shelter, the availability of the Elder Protection Team and give the victim notice of any legal rights and remedies available.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Whether or not the victim signs a complaint and whether or not the arrest is against the expressed wishes of the victim if probable cause exists that Elder abuse was committed the Officer shall arrest the perpetrator with or without a warrant.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Whenever a law enforcement officer makes an arrest for Elder abuse, he/she shall complete and sign a complaint against the alleged abuser on behalf of the Turtle Mountain Tribe. He/she shall submit a detailed report of the circumstances of the arrest, along with statements from the victim and other witnesses.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When the officer has probable cause to believe a crime of Elder abuse is occurring or has just occurred, a law enforcement officer need not obtain a search warrant in order to enter a residence or seize property.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The victim shall be furnished with a copy of the following statement:</text>
+        <text>If you are the victim of Elder abuse and you believe that Law Enforcement protection is needed for your physical safety, you have the right to request that the officer assist you in obtaining your essential personal effects, locate or take you to a safe place, including but not limited to a shelter, a family member or friend's residence or a similar place of safety. If you are in need of medical treatment, you have the right to request that the officer assist you in obtaining medical treatment. You may request a copy of the report at no cost from Law Enforcement.</text>
+        <text>The office of Tribal Prosecution will be notified of the incident and they shall determine whether to file charges against your abuser. An emergency order of protection will be issued against your abuser at the time of arrest or at your request. You also have the right to go to Court and file a petition requesting any or all of the following temporary orders for relief</text>
+        <para>
+          <num>a.</num>
+          <text>An order restraining your abuser from abusing, harassing, stalking, threatening, annoying, telephoning or otherwise contacting you and committing other acts of abuse;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>An order removing your abuser from the residence regardless of ownership and to stay away with no contact;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>An order preventing your abuser from the residence regardless of ownership and to stay away with no contact;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>An order protecting other family and household members;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>An order directing your abuser to stay away from your or any other household members place of residence, school, place of employment, or any other specified place frequented by you;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>An order prohibiting your abuser from using or possessing any firearm or other weapon specified by the court;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>An order requiring your abuser to pay certain costs and fees, such as rent or mortgage payments, medical expenses, shelter expenses, court costs, and attorney fees.</text>
+          <text>The forms you need to obtain an order for protection are available from Victims of Crime Assistance and/or Clerk of Court. Victims of Crime Assistance is available to assist you in obtaining information relating to abuse, treatment of injuries and places of safety. You also have the right to seek reimbursement for losses suffered because of the abuse, including medical and moving expenses, loss of earnings, and other expenses for injuries sustained and damage to property. This can be done through Tribal Court. The written notice must not include the addresses or locations of shelters.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>A Law Enforcement Officer responding to an allegation of Elder abuse shall use all reasonable means to protect the victim and prevent further abuse, including but not limited to:</text>
+        <para>
+          <num>a.</num>
+          <text>Taking action necessary to provide for the safety of the Elder and any family or household member;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Transporting or obtaining transportation for the victim to temporary shelter;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Assisting the victim in obtaining immediate medical treatment, including transportation to a medical facility.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Removal of any weapons from the perpetrator's immediate possession;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Assisting the Elder in removing essential personal effects; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Giving the victim immediate and adequate notice of the victim's rights and the services available.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>When a perpetrator is scheduled to be released from custody or escapes from custody, the Police Department and/or Tribal Prosecutor shall make reasonable efforts to notify the victim prior to the release of the perpetrator.</text>
+        <text>Added by Resolution No. TMBC1360-10-20</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0603</num>
+      <heading>Role of the Court in Regards to Arrest Provisions</heading>
+      <para>
+        <num>1.</num>
+        <text>A person arrested under this ordinance shall be held until arraignment.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The court will arraign the defendant.  <em>Adopted Resolution No. 475-08-11 repealed and replaced with Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If a person enters a plea other than guilty, an advocate for the victim will assist the Elderly person in the preparation of an order for protection temporarily excluding the defendant from the home and restraining the defendant from any contact with the victim. If the person pleads guilty, a presentence investigation is ordered and the victim, either personally or through the Adult Services Worker, will communicate his/her concerns to the court. <em>Adopted by Resolution No. TMBC475-08-11</em></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>36.07</num>
+    <heading>Protection Orders</heading>
+    <section>
+      <num>36.0701</num>
+      <heading>Order for Protection</heading>
+      <text>There will exist an order for protection in cases of Elder abuse.</text>
+      <para>
+        <num>1.</num>
+        <text>A petition for protection under <cite path="36|36.07|36.0701">this section</cite> may be made by any family or household member or other interested parties on behalf of himself/herself or on behalf of a minor family or household member. <em>Adopted by Resolution No. TMBC475-08-11</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A petition for protection under <cite path="36|36.07|36.0701">this section</cite> may be made by a Law Enforcement Officer, a Victim Advocate or Tribal Prosecutor. <em>Added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A petition for protection shall allege the existence of Elder abuse, and shall be accompanied by an affidavit made under oath stating the specific facts and circumstances for which protection relief is sought.                               <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A petition for protection may be made regardless of whether or not there is a pending lawsuit complaint, petition or other action between the parties. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The court shall provide simplified forms. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A petitioner has the right to file a motion and affidavit and to pursue without cost. <em>Adopted Resolution No. 475-08-11 amended by Resolution No.</em> TMBC1360-10-20</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0702</num>
+      <heading>Temporary Emergency Ex Parte Protection Orders</heading>
+      <para>
+        <num>1.</num>
+        <text>Where an application under <cite path="36|36.07|36.0702">this section</cite> alleges an immediate and present danger of Elder abuse, the court may grant an order for protection, pending a full hearing, and granting protection as the court deems proper, including an order:</text>
+        <para>
+          <num>a.</num>
+          <text>Restraining the abusing party from committing acts of abuse.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Excluding the abusing party from the dwelling they share or from the residence of the party seeking protection, and from any contact with the alleged victim except by further order of the court. <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A temporary order for protection shall be effective for a period not to exceed fourteen (14) days, except for good cause as provided under paragraph (3) below. A full hearing, as provided by <cite path="36|36.07|36.0702">this section</cite>, shall be set for no later than fourteen (14) days from the issuance of the temporary order along with a copy of the petition and notice of the date set for the hearing.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When service is made by published notice, as provided under <cite path="36|36.07|36.0703">Section 36.0703</cite> (2) below, the petitioner may apply for an extension of the period of an order at the same time the petitioner files the affidavit required under that section. <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The period shall not exceed fourteen (14) days. The respondent shall be served forthwith a copy of the modified temporary order along with a copy of the notice of the new date set for the hearing.                                                                <em>Adopted Resolution No. 475-08-11 Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0703</num>
+      <heading>Order for Protection Hearing; Notice</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon receipt of the petition, the court shall order a hearing, which shall be held no later than 14 days from the date of the order. Personal services or certified mail service shall be made upon the respondent no less than five (5) days prior to the hearing. In the event that personal services cannot be completed in time to give the respondent the minimum notice required under <cite path="36|36.07|36.0703">this section</cite>; the court may extend a new hearing date.  <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notwithstanding the provisions of paragraph (1) above, service may be made in two weeks through a published notice provided the petitioner files with the court. This provision may be used if official personal service was unsuccessful and if a copy of the petition and notice of hearing has been unsuccessfully mailed to the respondent at the respondent's last known residence or if the residence is not known to the petitioner. Service under <cite path="36|36.07|36.0703">this section</cite> is complete fourteen (14) days after publication. The court shall set a new hearing date if necessary, to allow the respondent the five (5) day minimum notice required under paragraph (1) above. <em>Adopted Resolution No. 475-08-11</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0704</num>
+      <heading>Relief by the Court</heading>
+      <text>Upon notice and hearing, the court may provide protection as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Restrain the abusing party from committing acts of Elder abuse.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Exclude the abusing party from the dwelling which the parties share or from the residence of the petitioner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Award temporary use and possession of property and restrain both parties from transferring, encumbering, concealing, or disposing of property except in the usual course of business or for the necessities of life, and to account to the court for all such transfers, encumbrances, dispositions, and expenditures made after the order is served or communicated to the party restrained in open court.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Order other lawful relief as the Court deems necessary for the protection of the victim of Elder abuse, including orders or directives to Law Enforcement Officials or other appropriate departments and programs.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A person's right to apply for protection shall not be affected by his/her leaving the residence or household to avoid abuse.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Upon application notice to all parties, and hearing, the court may modify the terms of an existing order for protection.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>An order for protection granted pursuant to the ordinance shall be forwarded by the clerk of court within twenty-four (24) hours to the Tribal Police or Law Enforcement with jurisdiction over the residence of the applicant.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>When an order for protection is used, upon request of the petitioner, the court shall order a Law Enforcement Official to accompany the petitioner and to assist in placing the petitioner in possession of the dwelling or residence or otherwise assist in execution or service of the order of protection. <em>Adopted Resolution No. TMBC475-08-11 added by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0705</num>
+      <heading>Service for Order for Protection</heading>
+      <text>Orders are to be served personally upon the respondent by a Law Enforcement Official. If the respondent cannot be located the order for protection will be mailed by certified mail to the respondent's last known address.                                                            <em>Adopted Resolution No. TMBC475-08-11</em></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>36.0706</num>
+      <heading>Violation of an Order for Protection</heading>
+      <para>
+        <num>1.</num>
+        <text>Violation of an order by the respondent who has had notice of the order for protection is a crime.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Law Enforcement Official shall arrest without a warrant and take into custody a person whom the Law Enforcement Official has probable cause to believe an order for protection has been violated when the existence of the order can be verified by the Law Enforcement Official.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A violation of an Order for protection shall also constitute contempt of court and be subject to penalties.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In the event of a violation of a protection order the arrest provision above applies and the respondent may be punished according to 36.0320 of this code.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A person who knowingly violates or a person who aids and abets another person to knowingly violate a Protection Order is guilty of an offense and may be punished as provided in <cite path="36.0320">Chapter 36.0320</cite>.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Any act violating protection orders committed outside the boundaries of the Turtle Mountain Indian Reservation and completed inside the Turtle Mountain Reservation are crimes subject to the jurisdiction of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Interference with an emergency call to Law Enforcement shall be considered a violation of a Protection Order and may be punished as provided in <cite path="36.0320">Chapter 36.0320</cite>.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Any person granted a Protection Order from the Tribal Court or any other court of competent jurisdiction cannot be punished for a violation of that Protection Order.</text>
+        <text>Adopted Resolution No. TMBC475-08-11 <em>Amended by Resolution No. TMBC1360-10-20</em></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

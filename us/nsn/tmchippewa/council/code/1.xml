@@ -1,0 +1,2326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>1</num>
+  <heading>Criminal Procedure</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.01</num>
+    <heading>Purpose Statement</heading>
+    <section>
+      <num>1.0101</num>
+      <text>The purpose of <cite path="1">this Title</cite> is to regulate the formal steps in an action or other judicial proceeding, and includes the judicial process for enforcing rights and duties recognized by substantive law and for justly administering redress for infraction of them<strong><em>.</em></strong></text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.02</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>1.0201</num>
+      <heading>Applicability of Code Provisions Restricted: Offenses Committed Before Adoption</heading>
+      <text>The provisions of this code shall not apply nor extend to any act done or offense committed prior to the taking effect of this Code, except as to matters of procedure and as to provisions alleviating the punishment to be imposed upon conviction in any case. An act or omission which was a crime prior to adoption of this Code and is a crime under this Code shall continue to be a punishable offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0202</num>
+      <heading>Words Used in Present Tense</heading>
+      <text>Unless otherwise provided, words used in this Code in the present tense include the future as well as the present. Words used in the masculine gender include the feminine and the neuter, and plural includes the singular and vice-versa.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0203</num>
+      <heading>Specific Provisions Control General Provisions</heading>
+      <para>
+        <num>1.</num>
+        <text>In construing this Code, each general provision shall be controlled by a specific provision on the same subject if there is a conflict.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Earlier provisions of this Code are controlled by later provisions on the same subject where a conflict exists.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0204</num>
+      <heading>Construed According to the Plain Import of Its Language</heading>
+      <text>This Code, together with any additions hereto which may be enacted, is to be construed according to the plain import of its language. No person shall be punished for an offense which is not made penal by the plain import of the words upon pretext that such person has offended against its spirit. Words not specifically defined herein are to be understood according to their ordinary meaning.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0205</num>
+      <heading>Probable Cause</heading>
+      <text>The finding of probable cause may be based upon hearsay evidence in whole or in part.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.03</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>1.0301</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>A Turtle Mountain Tribal Court Judge is an officer who is authorized to exercise powers vested in the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Officers of the Turtle Mountain Tribal Court shall include all judges and clerks of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Law enforcement officer or peace/police officer is a public servant authorized to enforce the law and to conduct or engage in investigations for violations of law.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Probation means allowing a person convicted of a crime, delinquent act or unruliness to go at large, generally under the supervision of a probation officer.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Seven Teachings means the seven gifts from the seven grandfathers:</text>
+        <para>
+          <num>a.</num>
+          <text>to cherish knowledge is to know wisdom,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>to know love is to know peace,</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>to honor all creation is to have respect,</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>bravery is to face the foe with integrity,</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>honesty in facing a situation is to be honorable,</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>humility is to know yourself as a sacred part of creation, and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>truth is to know all of these things.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Indian" means any person of Indian descent who is a member of a federally recognized Indian tribe according to the laws of that Tribe, and any other person recognized by federal law as Indian for any purpose, and denotes both the singular and the plural.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.04</num>
+    <heading>Statute of Limitations</heading>
+    <section>
+      <num>1.0401</num>
+      <heading>Statute of Limitations</heading>
+      <text>No prosecution shall be maintained under this Code unless the action has been commenced within one (1) year after the commission of the offense for class 1 and 2 offenses and five (5) years for Class 3 and 4 offenses. There is no limitation on the time within which a prosecution for murder must be commenced. It may be commenced at any time after the death of the victim.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0402</num>
+      <heading>Concealed Crime</heading>
+      <text>The statue of limitations otherwise applicable to a criminal act is tolled until the violation is discovered where:</text>
+      <para>
+        <num>1.</num>
+        <text>the criminal act is concealed; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the victim is under the influence of a person in a position of trust.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0403</num>
+      <heading>Speedy Trial</heading>
+      <text>Trial must be commenced within one (1) year after the arraignment.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.05</num>
+    <heading>Creation, Jurisdiction and Powers</heading>
+    <section>
+      <num>1.0501</num>
+      <heading>Judicial Powers</heading>
+      <text>All judicial powers of the Turtle Mountain Band of Chippewa Indians are vested in the Judicial Branch of Government.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0502</num>
+      <heading>Jurisdiction</heading>
+      <text>For the purpose of enforcement of this Code, the Turtle Mountain Jurisdiction shall be deemed to include all territory within the boundaries of the Turtle Mountain Indian Reservation, including fee patented lands, roads, waters, bridges and lands used for Bureau of Indian Affairs purposes, and shall also include all Indian trust and restricted lands, specifically located within Townships 161N, 162N, 163N, and 164N and Ranges 70W, 71W, 72W, and 73W except lands located within incorporated cities of Rolette County, North Dakota.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0503</num>
+      <heading>Power and Authority of Tribal Prosecutor or Any Special Prosecutor Appointed by the Council</heading>
+      <text>In all criminal proceedings in the Turtle Mountain Courts, the Tribal Prosecutor, or any person appointed by the Tribal Council to act as such, shall have the power and authority to sign, file, and present complaints, subpoenas, affidavits, motions, processes and papers of any kind, and to appear before all court commissions, or tribunals in any criminal proceedings within the Turtle Mountain jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0504</num>
+      <heading>Composition of the Court</heading>
+      <text>The Turtle Mountain Tribal Court includes the trial court and appellate court and shall consist of: a Chief Judge, such Associate Judge(s) needed to serve the court as determined by the Judicial Board prior to the election of Judge(s); and such Trial and/or Special Judges as are appointed pursuant to §1.0506.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0505</num>
+      <heading>Appointment of Trial And/Or Special Judges</heading>
+      <para>
+        <num>1.</num>
+        <text>Trial Judges shall be appointed by the Tribal Council. Appointment of a Special Judge shall be made by the Tribal Council upon the request of the Chief Judge of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A vacancy in the office of the Associate Judge shall be filled through appointment by the Tribal Council.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0506</num>
+      <heading>Term of Office</heading>
+      <para>
+        <num>1.</num>
+        <text>Term of office for the Chief Judge and Associate Judge(s) pursuant to Article XIV section 4(e), of the Turtle Mountain Band of Chippewa Constitution, shall be four (4) years.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Trial Judges shall be appointed for a two (2) year term of office.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Special Judges shall be appointed for the specific time necessary to fully adjudicate the assigned case.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0507</num>
+      <heading>Oath of Office</heading>
+      <text>Before taking office, each judge shall take an oath as follows:</text>
+      <text>I, _______________ do solemnly swear that I will administer justice and do equal right with respect to all persons, and faithfully and impartially discharge and perform all the duties incumbent upon me as Judge to the best of my ability and the Judicial Code of Ethics.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0508</num>
+      <heading>Qualifications of Trial/Special Judges</heading>
+      <text>In order to be eligible to serve as a trial and/or special judge of the Turtle Mountain Tribal Court, a person must meet the following qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>be twenty-five (25) years of age or older;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>has not, within five (5) years previous to appointment, been convicted of a misdemeanor type offense excluding minor traffic offenses;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>has never been convicted of a felony type offense;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>possess character and integrity acceptable under the Seven Teachings;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>graduated from an accredited law school and be a member in good standing with a state bar association;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>be capable of preparing documents and reports incidental to the office of judge;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>be familiar with, and able to read and interpret the Turtle Mountain Tribal Code as well as having an understanding of Federal and State law and court procedures; and</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>read, write, understand and speak the English language fluently.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0509</num>
+      <heading>Qualifications of Special Judges</heading>
+      <text>In addition to the qualifications of judges as defined in section <s>1.0509</s> 1.0508 of this Code, a Special Judge shall have demonstrated an experience in an area of legal specialization specific to the case to be assigned.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0510</num>
+      <heading>Disqualification of Judges</heading>
+      <text>Any judge shall be disqualified to act in any case in which he or she:</text>
+      <para>
+        <num>1.</num>
+        <text>Has an interest or bias; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Is or has been a material witness; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Is related to any party or a party's attorney by marriage or blood in the first or second degree.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0511</num>
+      <heading>Disqualification of Judges; Procedure</heading>
+      <text>A judge shall be disqualified on his or her own motion or by the filing of an affidavit of prejudice by either party to the action.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0512</num>
+      <heading>Rules of Court</heading>
+      <text>The time and place of court sessions, and all other details of judicial procedure not prescribed by this Code, shall be set forth in the rules of court.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.06</num>
+    <heading>Commencement of Criminal Proceeding</heading>
+    <section>
+      <num>1.0601</num>
+      <heading>Commencement of Criminal Action</heading>
+      <text>No action shall be maintained without the filing of a written complaint.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0602</num>
+      <heading>Definition</heading>
+      <text>A complaint is a written charge stating that a person has committed a specified offense. The complaint shall offer to prove the fact, to the end, that a prosecution may be instituted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0603</num>
+      <heading>Contents of Complaint; a Complaint Must Contain</heading>
+      <para>
+        <num>1.</num>
+        <text>the name of the jurisdiction where it is filed;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the names of the person(s) complained of, if the defendant(s) name is known, and if not, then such name(s) as may be given by the complainant;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>a statement signed by the complainant attesting to the facts constituting the offense, in plain and concise language; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>the time and place of the commission of the offense, as near as may be ascertained.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0604</num>
+      <heading>Filing of Complaint</heading>
+      <text>The completed complaint must be filed by the Prosecutor with the Clerk of Court who shall mark thereon the date and time of the filing.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.07</num>
+    <heading>Arrest, Extradition and Fresh Pursuit</heading>
+    <section>
+      <num>1.0701</num>
+      <heading>Arrest Defined; Persons Qualified to Make; Aid May Be Required</heading>
+      <text>Arrest is the taking of an Indian person in custody that he may be held to answer for a Tribal offense. An arrest may be made by:</text>
+      <para>
+        <num>1.</num>
+        <text>A duly authorized police officer under a warrant;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A duly authorized police officer without a warrant; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An Indian, as defined in <cite path="1|1.01|1.0103">Section 1.0103</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0702</num>
+      <heading>Arrest; Under a Warrant</heading>
+      <text>A warrant of arrest is an order in writing signed by a Tribal Court judge commanding the arrest of the defendant. The warrant must specify the name of the Indian defendant; or if the name of the defendant is unknown, the Indian defendant may be designated by any name if the warrant also contains a description by which the Indian defendant can be identified with reasonable certainty. It must also state the offense or offenses charged and the date of issuing it. A warrant for arrest shall be void outside the limits of the Turtle Mountain jurisdiction as defined in <cite path="1|1.05|1.0501">Section 1.0501</cite> of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0703</num>
+      <heading>Direction to Peace Officer; Execution</heading>
+      <text>The warrant may be directed to the Bureau of Indian Affairs police or Tribal police officer, or other authorized peace officer in the Turtle Mountain jurisdiction, and may be executed by any such officer to whom it may be delivered.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0704</num>
+      <heading>Execution of Warrant</heading>
+      <text>The warrant shall be executed by the arrest of the Indian defendant. The peach officer need not have the warrant in his possession at the time of the arrest; but upon request shall, as soon as possible, show it to the defendant. At the time of making the arrest, the arresting officer must inform the defendant that he has the right to remain silent and seek the aid of legal counsel.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0705</num>
+      <heading>Arrest; Without a Warrant</heading>
+      <text>A peace officer may, without a warrant, arrest an Indian person:</text>
+      <para>
+        <num>1.</num>
+        <text>For a Tribal offense committed or attempted in his presence;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When he has reasonable cause for believing the Indian person arrested has committed any offense. He is justified in making the arrest though it afterwards is found that the offense had not been committed by the party arrested. When an Indian person is arrested without a warrant, the officer must inform him of his authority and the cause of the arrest, except when he is in the cause of the arrest, except when he is in the actual commission of a Tribal offense, or is pursued immediately after said commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0706</num>
+      <heading>Arrest; by an Indian</heading>
+      <text>An Indian may, without a warrant, arrest an Indian for a Tribal offense when committed in his presence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0707</num>
+      <heading>Breaking into Dwelling House or Other Structure to Make Arrest; Demand for Admittance Required</heading>
+      <text>Any police officer having authority to make an arrest may break open an outer or inner door or window of a dwelling house or other structure for the purpose of making the arrest if, after notice of his intention, he is refused admittance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0708</num>
+      <heading>Prompt Appearance of Defendant Before a Tribal Court Judge</heading>
+      <text>An officer making an arrest shall take such Indian defendant, without undue delay, before a presiding judge of the Turtle Mountain Tribal Court for arraignment as provided herein: When an Indian defendant arrested without a warrant is brought before the Court; a complaint shall be filed forthwith. The Indian defendant arrested shall be arraigned at the next regularly scheduled session of Court or within forty-eight (48) hours, whichever occurs first, excluding Saturdays, Sundays and legal holidays. The Court may, at its discretion, provide for temporary commitment of persons who, for reasons beyond their control, are unable to appear in Court at the scheduled session or within the forty-eight (48) hour period.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0709</num>
+      <heading>Return of Warrant</heading>
+      <text>Upon service of the warrant or upon failure to find and apprehend the accused, the officer to whom the warrant is directed shall endorse and return it to the Turtle Mountain Tribal Court for filing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0710</num>
+      <heading>Extradition</heading>
+      <text>Any Indian found within the boundaries of the Turtle Mountain Indian reservation who is wanted by State authorities for a violation of State law committed outside the jurisdiction of the Turtle Mountain Tribal Court, and a warrant of arrest having been issued from a State court, may be arrested and taken into custody by Bureau of Indian Affairs or Tribal law enforcement personnel for prompt transfer to the appropriate enforcement agency. The arrest and removal of the fugitive will be accomplished in accordance with the procedure set forth herein: Copies of State warrants may be presented to the Agency Branch of Law and Order whereupon they will be recorded as to date and time received. The warrant will be promptly presented to the Tribal or Trial Court Judge of the Turtle Mountain Tribal Court for a review as to date, charge, and person named thereon, to determine its apparent validity. The Judge, after satisfying himself or herself as to the apparent validity of the warrant, will issue an order for the arrest of the alleged fugitive from justice.</text>
+      <text>All Indians being taken into custody as provided in the preceding paragraph shall be taken by the police officer to the Turtle Mountain Tribal Court where the Judge shall hold a hearing to determine only whether the Indian person in custody and before the Court is the same person charged on the face of the warrant. An Indian may waive such hearing by executing a waiver of removal hearing and he will be promptly turned over to the custody of the appropriate State official. Where a State warrant is issued from a State other than the State wherein the Indian Court is located, the warrant should be presented to the Tribal Court by the Sheriff of the County in which the local sheriff of the out-of-state agency will extradite the wanted subject, the procedure governing the arrest of the wanted fugitive may be completed as in other cases. After a hearing, as provided in paragraph (2) above, if the Judge is named in the State warrant, the Tribal Court Judge shall issue an appropriate order to that effect which will authorize the State official to remove the fugitive from the Turtle Mountain Indian reservation. In all cases wherein Indians are arrested by reservation law and order personnel the requesting agency supplying the warrant shall be immediately notified that the subject is in custody and will be delivered to a proper official within a reasonable time to transfer the fugitive to their particular jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0711</num>
+      <heading>Fresh Pursuit; Defined</heading>
+      <text>As used in <cite path="1|1.07|1.0712">Section 1.0712</cite> of this Code, the term "fresh pursuit" shall include fresh pursuit as defined by the common law, and also the pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, who has committed a felony or misdemeanor or who is reasonably suspected of having committed a supposed felony, though no felony has been actually committed, if there is reasonable ground for believing that a felony has been committed. Fresh pursuit, as the term is used in <cite path="1.07">this Chapter</cite>, shall not necessarily imply instant pursuit, but pursuit without unreasonable delay.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0712</num>
+      <heading>State, County or Municipal Peace Officer in Fresh Pursuit May Arrest Within Turtle Mountain Indian Reservation</heading>
+      <text>Any member of a duly organized state, county or municipal peace unit who enters the Turtle Mountain Indian Reservation in fresh pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, in order to arrest him on the ground that he is believed to have committed a felony or known to have committed a misdemeanor in an off-reservation jurisdiction, shall have the same authority to arrest and hold in custody said Indian person on the ground that he is believed to have committed a felony or known to have committed a misdemeanor within this reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0713</num>
+      <heading>Removal Procedure</heading>
+      <text>If an arrest is made within the Turtle Mountain Indian jurisdiction by an officer of an off-reservation jurisdiction in accordance with the provisions of <cite path="1|1.07|1.0712">Section 1.0712</cite> of this Code, he, without unnecessary delay, shall take the Indian person arrested to the Turtle Mountain Agency Branch of Law and Order in Belcourt, North Dakota, where the arrested Indian person will be permitted to either sign a waiver of removal hearing of alleged fugitive form, or taken before a Tribal Court Judge of the Turtle Mountain Tribal Court, for the purpose of determining only the lawfulness of the arrest.</text>
+      <text>If, in the event a hearing is held, the Judge determines that the arrest was lawful, he or she shall commit the Indian person arrested to await for a reasonable time the issuance of an arrest warrant by the off-reservation jurisdiction in which the offense was allegedly committed. If the Judge determines that the arrest was unlawful, he or she shall discharge the Indian person arrested.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.08</num>
+    <heading>Search and Seizure</heading>
+    <section>
+      <num>1.0801</num>
+      <heading>Definition</heading>
+      <text>Search warrant is a written order, signed by a Tribal Court Judge, authorizing a law enforcement officer to search within a defined area for items or articles designated in the search warrant that constitute evidence of the commission of a crime, or things otherwise criminally possessed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0802</num>
+      <heading>Search Without a Warrant</heading>
+      <text>A search without a warrant, but incidental to an arrest, is permitted if it does not extend beyond the person of the accused and the area into which the accused might reach in order to grab a weapon or other evidentiary items.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0803</num>
+      <heading>Search Warrant; Issuance</heading>
+      <text>Issuance of a search warrant must be based upon probable cause, supported by oath or affirmation. The warrant must be signed by a Tribal Court Judge and directed to any law enforcement officer.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0804</num>
+      <heading>Search Warrant; Contents</heading>
+      <text>The search warrant must include;</text>
+      <para>
+        <num>1.</num>
+        <text>the name or description of the person; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>particular description(s) of the item(s) or article(s) to be seized; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the name or description(s) of the place(s) to be searched; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>the reason(s) for its issuance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0805</num>
+      <heading>Search Warrant; Execution of</heading>
+      <text>A search warrant shall be served by any duly authorized law enforcement officer during any time of the day or night, unless the court finds sufficient reason to limit the time in which the warrant may be served and so endorses the warrant. The officer may, where circumstances so require, break open any building, structure, or container described in the warrant while in execution of the search warrant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0806</num>
+      <heading>Search Warrant; Return of</heading>
+      <text>A search warrant must be returned, together with a complete inventory of the item(s) or article(s) taken from the person(s) or location(s), with description(s) and dispossession of the property seized, to a Tribal Court Judge after it has been executed, or within ten (10) days after its issuance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0807</num>
+      <heading>Search Warrant; Void</heading>
+      <text>The search warrant is. void ten (10) days after issuance, unless the time is extended at the discretion of a Tribal Court Judge, by endorsement upon the warrant prior to its expiration.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0808</num>
+      <heading>Valid Search and Seizures</heading>
+      <text>All reasonable searches and seizures which are incidental to a legal arrest are valid.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0809</num>
+      <heading>Search Warrant; Denial</heading>
+      <text>If the request for a search warrant is denied, the Tribal Judge must proceed to take testimony in relation thereto, and transmit a written record of the proceeding to the Tribal Appellate Court, who shall determine the issuance of the search warrant.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.09</num>
+    <heading>Bail</heading>
+    <section>
+      <num>1.0901</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context otherwise requires, "bail bond agent" means any person who has been licensed by the commissioner and appointed by an insurer, by power of attorney, to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges and receives money for the services.</text>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context Otherwise requires, "Commissioner" means Tribal Employment Rights Director.</text>
+      <para>
+        <num>1.</num>
+        <text>Bail is to obtain release of a person charged with an offense by insuring future attendance in Turtle Mountain Tribal Court through security being taken and compelling the accused to remain within the jurisdiction of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Bail Bond is a written undertaking, executed by the defendant or one or more sureties, that the defendant will render himself amenable to the processes of the Turtle Mountain Tribal Court, and that in the event he fails to do so, the signers of the bond will pay to the Turtle Mountain Tribal Court the amount of money specified in the order fixing bail.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0902</num>
+      <heading>Licensing and Continuing Education Requirements</heading>
+      <text>Licensing and continuing education requirements apply to bail bond agents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0903</num>
+      <heading>Persons Disqualified as Bail Bond Agent; Penalty</heading>
+      <text>The following persons or classes may not be bail bond agents and may not directly or indirectly receive any benefits from the execution of any bail bond: jailers, police officers, committing magistrates, magistrate court judges, sheriffs, deputy sheriffs and constables, or any person having the power to arrest, or having anything to do with the control of federal, state, county, or municipal prisoners.  A violation of <cite path="1|1.09|1.0903">this section</cite> is a class B misdemeanor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0904</num>
+      <heading>Bail; Eligibility for</heading>
+      <text>Any person charged with a criminal offense may be eligible for bail by the Turtle Mountain Tribal Court, at any time prior to final judgment or pending appeal to the Court of Appeals, in accordance with the provisions of <cite path="1.09">this Chapter</cite>.  If bail is not met, the Defendant shall be confined pending the final outcome of the criminal proceedings.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0905</num>
+      <heading>Bail Hearing</heading>
+      <text>A bail hearing must be held by a Judge, to include all Special Judges if a regular Tribal Court Judge is unavailable or is recused from the case, of the Turtle Mountain Tribal Court when the person is charged with a Class 3 or 4 offense.  If the person is charged with a Class 1 or 2 offense the bail will be set through a Tribal Bonding Schedule, to be set by the Chief Judge and Chief of Police with review and approval authority by the Judicial Board.  The Tribal Bonding Schedule shall be reviewed annually and made available to the public.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0906</num>
+      <heading>Taking of Bail</heading>
+      <text>The taking of bail consists in the acceptance by the Tribal Court of sufficient cash in the form of a money order, or cashier's check or surety bond to ensure the appearance of the defendant.  Bond may be posted with the Law Enforcement Agency by means of depositing one hundred percent (100%) of the bond in the form of a money order or cashier's check, or using the services of a licensed bondsman. The Law Enforcement Agency shall forward such money order, or cashier's check or notice of bond to the Tribal Court.  Individuals licensed in this jurisdiction to be bondsmen shall be notified by the court clerk, in writing by certified mail, return receipt requested, within ten (10) days of the client's appearance or failure to appear in court. Should said Bondsmen's client fail to appear, then said bondsmen shall have no more than sixty (60) calendar days to submit one hundred percent (100%) of the established bond schedule amount to the court.  However, should the bondsmen locate and physically bring or cause to be brought to the court a client who had failed to appear within the sixty (60) calendar day period, the bondsmen may petition the court for a return of the forfeited bond for said clients, but shall be responsible for paying five percent (5%) of the bail amount for court costs.  Upon filing, the clerk shall enter in the register of actions the date and amounts of the bond, and name or names of the surety or surety thereon for the amount of the bond.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0907</num>
+      <heading>Bail Set; Maximum Amount</heading>
+      <para>
+        <num>1.</num>
+        <text>Bail shall be fixed in such amount and in such form as, in the judgment of the Turtle Mountain Tribal Court, will insure the presence of the defendant in court at the time of trial. When setting the bail, the judge shall take into consideration:</text>
+        <para>
+          <num>a.</num>
+          <text>The nature and circumstances of the offense charged;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The character and reputation of the defendant;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The previous criminal record of the defendant;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The probability of the defendant appearing at the hearing or trial of the case; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The safety of tribal members and general public.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In no case shall the bail exceed four (4) times the maximum money order or cashier's check penalty for each offense for which the defendant has been charged. This also includes collateral security which cannot exceed four (4) times the maximum money order or cashier's check value for the collateral security offered to cover the penalty for each offense for which the defendant has been charged.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0908</num>
+      <heading>Release of Defendant</heading>
+      <text>Upon the execution of the requisite recognizance or bail bond, the Turtle Mountain Tribal Court shall issue an order for release of the defendant. Upon the delivery of such an order to a law enforcement officer, the defendant shall be released upon the terms and conditions contained in the court order.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0909</num>
+      <heading>Forfeiture of Bail</heading>
+      <text>If the defendant fails to appear for trial, judgment or when his/her appearance in court is lawfully required, the court shall direct an entry of such failure and forfeiture of bond to be made on the record, without further proceedings.  The court shall thereafter issue a warrant for the arrest of the Defendant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0910</num>
+      <heading>Return of Cash or Surety Bond</heading>
+      <text>Any security, given by the surety or the defendant, must be returned within ten (10) working days of a dismissal, not guilty verdict or upon sentencing, unless sentence is appealed, then upon ten (10) days of appellate decision.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0911</num>
+      <heading>Release on Recognizance</heading>
+      <text>At an arraignment, the court at its discretion, may release a defendant upon the defendant's own recognizance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0912</num>
+      <heading>No Reducing of Bond Without Hearing</heading>
+      <text>No Judge, to include all Special Judges, of the Turtle Mountain Tribal Court may reduce the amount of bond established on the Tribal Bonding Schedule prior to the physical preliminary hearing for such arrested individual.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0913</num>
+      <heading>Qualification and License as Bail Bond Agent; Pledge of Property as Security; Penalty</heading>
+      <text>A person may not act in the capacity of a bail bond agent or perform any of the functions, duties, or powers prescribed for a bail bond agent under <cite path="1.09">this chapter</cite>, unless that person is qualified and licensed as provided in <cite path="1.09">this chapter</cite>. However, <cite path="1|1.09|1.0913">this section</cite> does not prohibit any individual from pledging real or other property as security for a bail bond in judicial proceedings if the individual does not receive, or is not promised, money or other things of value therefore. Violation of <cite path="1|1.09|1.0913">this section</cite> is a class B misdemeanor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0914</num>
+      <heading>Violations; Penalties</heading>
+      <para>
+        <num>1.</num>
+        <text>The commissioner may suspend, revoke, or refuse to continue, issue, or renew any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+        <para>
+          <num>a.</num>
+          <text>Recommending any particular attorney at law to handle the case in which the bail bond agent has caused a bond to be issued under <cite path="1.09">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Forging the name of another to a bond or application for bond.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Soliciting business in or about any place for prisoners or persons confined, arraigned, or in custody.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Paying a fee or rebate, or giving or promising anything of value to a jailer, trustee, police officer or officer of the law, or any other person who has power to arrest or hold in custody, or to any public official or public employee in order to secure a settlement, compromise, remission, or reduction of the amount of any bail bond or entreatment thereof, or to secure, delay, or other advantage. This subdivision does not apply to a jailer, police officer, or officer of the law who is not on duty and who assists in the apprehension of a defendant.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Paying a fee or rebating or giving anything of value to an attorney in bail bond matters, except in defense of any action on a bond.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Accepting anything of value from a principal other than a premium, provided the bail bond agent may accept collateral security or other indemnity from the principal which must be returned immediately upon final termination of liability on the bond. Such collateral security or other indemnity required by the bail bond agent must be reasonable in relation to the amount of the bond. In other words, in no case shall the bail exceed four (4) times the maximum money order or cashier's check penalty for each offense for which the defendant has been charged. This also includes collateral security which cannot exceed four (4) times the maximum money order or cashier's check value for the collateral security offered to cover the penalty for each offense for which the defendant has been charged.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Willfully failing to return collateral security to the principal when the principal is entitled to the security.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Knowingly employing a person whose insurance producer license has been revoked, suspended, or denied in this or any other state.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Knowingly or intentionally executing a bail bond without collecting in full a premium for the bond, at the premium rate as filed with and approved by the commissioner.</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Failing to pay any forfeiture as directed by a court and as required by <cite path="1.09">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A bail bond agent or bail bond agency may not advertise as, or hold itself out to be a surety company.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A bail bond agent may not sign nor countersign any blank in any bond, nor give up power of attorney to or otherwise authorize anyone to countersign the bail bond agent's name to bonds.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>When a bail bond agent accepts collateral, the bail bond agent shall give a written receipt for the collateral and this receipt must contain a full description of the collateral received in the terms of redemption. The bail bond agent shall keep copies of all receipts of the bonds to be placed in business to be available to the commissioner for the commissioner's review.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The provisions and penalties under <cite path="1|1.09|1.0914">this section</cite> are in addition to those provided under <cite path="1.09">this chapter</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0915</num>
+      <heading>Access to Jails</heading>
+      <text>Every person who holds a valid bail bond agent license issued by the insurance commissioner is entitled to equal access to the jails of the judge for the purpose of making bond, subject to the provisions of <cite path="1.09">this chapter</cite> and the rules adopted in the manner provided by law. Jail personnel, law enforcement officers, and court personnel may not suggest, recommend, advise, or promote a particular bail bond agent. Each jail shall furnish a space convenient to the telephones in the booking area to be used to hold business cards of bail bond agents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0916</num>
+      <heading>Surrender of Defendant Prior to Breach</heading>
+      <text>At any time before there has been a breach of the undertaking in any type of bail provided herein, the surety or bail bond agent may surrender the defendant, or the defendant may surrender to the official to whose custody the defendant would have been given had the defendant been committed. The defendant may be surrendered without the return of premium for the bond if the defendant has been guilty of nonpayment of premium, changing address without notifying the bail bond agent, self­concealment, or leaving the jurisdiction of the court without the permission of the bail bond agent, or of violating the defendant's contract with the bail bond agent, or of violating the defendant's contract with the bail bond agent in any way that does harm to the bail bond agent, or the surety, or violates the obligation to the court.  For the purpose of surrendering the defendant, the surety may arrest the defendant before the forfeiture of the undertaking, or by written authority endorsed on a certified copy of the undertaking, may empower any peace officer to make arrest, first paying the lawful fees therefore.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0917</num>
+      <heading>Maximum Commission or Fee</heading>
+      <text>A bail bond agent may not charge a premium, commission, or fee for a bond in an amount more than ten percent (10%) of the amount of bail furnished by the bail bond agent, or seventy-five dollars ($75), whichever is greater.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0918</num>
+      <heading>Failure to Appear</heading>
+      <text>If a defendant fails to appear for a scheduled court appearance, the clerk of court shall notify the bail bond agent. If the bail bond agent returns the defendant to the jurisdiction of the court, the bail bond agent may petition the court for a return of the forfeiture. If the bail bond agent returns the defendant to the jurisdiction of the court within sixty (60) calendar days of receiving notice of the failure to appear, the court shall return at least fifty (50%) percent of the forfeiture upon petition by the bail bond agent. If the bail bond agent returns the defendant to the jurisdiction of the court beyond sixty (60) calendar days of receiving notice of the failure to appear, the court may return the forfeiture upon receipt of a petition from the bail bond agent, less five (5%) percent for court costs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0919</num>
+      <heading>Rules</heading>
+      <text>The commissioner may adopt reasonable rules for implementation and administration of <cite path="1.09">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0920</num>
+      <heading>Tero License Required</heading>
+      <text>No individual, partnership, corporation or limited liability company may engage in the provision of any bail bond without</text>
+      <para>
+        <num>1.</num>
+        <text>obtaining a license to conduct business on the Turtle Mountain Indian Reservation from the TERO Office of the Turtle Mountain Band of Chippewa Indians;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>submitting proof, as part of the TERO licensing process, of appointment by an insurer, by power of attorney to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges,</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>submits proof of authority to receive money for such insurer for the extension of bail bond services.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0921</num>
+      <heading>Orders and Modifications</heading>
+      <para>
+        <num>1.</num>
+        <text>If, after hearing, the commissioner determines that the person charged has engaged in an unfair method of competition, or an unfair or deceptive act or practice, the commissioner shall order the person to cease and desist from engaging in the method of competition, act, or practice. If the person charged is found to have willfully engaged in a method of competition, act, or practice in violation of <cite path="1|1.09|1.0921">this section</cite>, the commissioner may order any one or more of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Payment of a monetary penalty of not more than one thousand ($1,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of ten thousand ($10,000) dollars unless the person knew or reasonably should have known that person was in violation of <cite path="1|1.09|1.0921">this section</cite>, in which case the penalty must be not more than five thousand ($5,000) dollars for each and every act or violation, but not to exceed an aggregate penalty of fifty thousand ($50,000) dollars in any six (6) month period.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Suspension or revocation of the person's license if the person knew, or reasonably should have known that person was in violation of <cite path="1|1.09|1.0921">this section</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Until the expiration of the time allowed for an appeal, if no appeal has been duly filed or, if an appeal has been filed, then until the transcript of the record in the proceeding has been filed in the district court, the commissioner may modify or set aside in whole or in part any order issued under <cite path="1|1.09|1.0921">this section</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>After the expiration of the time allowed for filing an appeal, if no appeal has been duly filed, the commissioner may, after notice and opportunity for hearing, reopen and alter, modify, or set aside, in whole or in part, any order issued under <cite path="1|1.09|1.0921">this section</cite>, whenever in the commissioner's opinion conditions of fact or of law have so changed as to require the action, or if the public interest shall so require.</text>
+        <text>The commissioner may suspend, revoke, place on probation, or refuse to continue or issue any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>A materially untrue statement in the license application.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An acquisition or attempt to acquire a license through misrepresentation or fraud.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The applicant has been found to have been cheating on an examination for an insurance license.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any cause for which issuance of the license could have been refused had it then existed and been known to the commissioner at the time of issuance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The applicant or licensee has been convicted of a felony, or convicted of an offense, as defined by <cite path="1|1.09|1.0913">section 1.0913</cite> (subsection 19), determined by the commissioner to have a direct bearing upon a person's ability to serve the public as an insurance producer, insurance consultant or surplus lines insurance producer, or the commissioner finds, after conviction of an offense, that the person is not sufficiently rehabilitated.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>In the conduct of affairs under the license, the licensee has used fraudulent, coercive or dishonest practices, or has shown oneself to be incompetent, untrustworthy, or financially irresponsible.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>A misrepresentation of the terms of any actual or proposed insurance contract.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The licensee has been found to have knowingly solicited, procured, or sold unnecessary or excessive insurance coverage to any person.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The licensee has forged another's name to an application for insurance.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>An improper withholding of, misappropriating of, or converting to one's own use any moneys belonging to policyholders, insurers, beneficiaries, or others received in the course of one's insurance business.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>The licensee has been found guilty of any unfair trade practice defined in <cite path="1">this title</cite> or fraud.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>A violation of or noncompliance with any insurance laws of this state, or a violation of or noncompliance with any lawful rules or orders of the commissioner or of a commissioner of another state.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>The licensee's license has been suspended or revoked in any other state, province, district, or territory for any reason or purpose other than noncompliance with continuing education programs, or noncompliance with mandatory filing requirements imposed upon a licensee by the state, province, district, or territory provided the filing does not directly affect the public interest, safety, or welfare.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>The applicant or licensee has refused to respond within twenty (20) days to a written request by the commissioner for information regarding any potential violation of <cite path="1|1.09|1.0921">this section</cite>.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>Without express prior written approval from the commissioner, the licensee communicates with a person who the licensee knows has contacted the department regarding an alleged violation committed by the licensee in an attempt to have the complainant dismiss the complaint.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>The licensee knowingly accepts insurance business from an individual who is not licensed.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>The applicant or licensee knowingly fails to comply with a court order imposing child support obligation.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>The applicant or licensee knowingly fails to pay state income tax or comply with a court order directing payment of state income tax.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>Under the federal definition Crimes and Criminal Procedure 18 USC Section 1153: A person convicted of a felony involving heinous crimes cannot be a bail bondsman.  Heinous crimes involve crimes that "shock the conscience of the court" pursuant to 18 USC § 1153 Offenses committed within Indian Country which reads as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under Chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of <cite path="1">this title</cite>), an assault against an individual who has not attained the age of sixteen (16) years, arson, burglary, robbery, and a felony under Section 661 of <cite path="1">this title</cite> within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any offense referred to in subsection (a) of <cite path="1|1.09|1.0921">this section</cite> that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>The applicant knowingly fails to provide adequate insurance in an amount sufficient to cover any losses that may occur under <cite path="1">this title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0923</num>
+      <heading>Revocation of Nonresident License</heading>
+      <text>Notwithstanding the provisions of <cite path="1|1.09|1.0923">this section</cite>, any nonresident license issued pursuant to <cite path="1.09">this chapter</cite> may be suspended or revoked without notice and hearing to the licensee, and without proceeding in conformity with <cite path="1.09">this chapter</cite>, upon evidence in the form of a certified copy that the authority which issued the resident license to the North Dakota nonresident licensee has revoked or suspended the resident license.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0924</num>
+      <heading>License Suspension, Revocation, or Refusal; Business Entity; Additional Ground</heading>
+      <text>The license of a business entity may be suspended, revoked, or refused if the commissioner finds, after the hearing, that an individual licensee's violation was known or should have been known by one or more of the partners, officers, or managers acting on behalf of the business entity, and the violation was not reported to the commissioner nor corrective action taken in relation to the violation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0925</num>
+      <heading>Notification of Suspension, Revocation, or Refusal; Duty of Commissioner</heading>
+      <text>The commissioner shall promptly notify all appointing insurers, when applicable, and the licensee regarding any suspension, revocation, or refusal of a license by the commissioner.  Upon suspension, revocation, or refusal of the license of a resident of this state, the commissioner shall notify the central office of the national association of insurance commissioners.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0926</num>
+      <heading>Fraudulent Insurance Acts, Interference, and Participation of Convicted Felons Prohibited</heading>
+      <para>
+        <num>1.</num>
+        <text>A person may not commit a fraudulent insurance act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person may not knowingly or intentionally interfere with the enforcement of the provisions of <cite path="1.09">this chapter</cite> or investigations of suspected or actual violations of <cite path="1.09">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person convicted of a felony involving dishonesty or breach of trust may not participate in the business of insurance.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A person in the business of insurance may not knowingly or intentionally permit a person convicted of a felony involving dishonesty or breach of trust to participate in the business of insurance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Under the federal definition Crimes and Criminal Procedure 18 USC § 1153:  A person convicted of a felony involving heinous crimes cannot be a bail bondsman.  Heinous crimes involve crimes that "shock the conscience of the court" pursuant to 18 USC § 1153 Offenses committed within Indian Country which reads as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>Any Indian who commits against the person or property of another Indian or other person any of the following offenses: namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of <cite path="1">this title</cite>), and assault against an individual who has not attained the age of 16 years, arson, burglary, robbery, and a felony under section 661 of <cite path="1">this title</cite> within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses within the exclusive jurisdiction of the United States.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any offense referred to in subsection (a) of <cite path="1|1.09|1.0926">this section</cite> that is not defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.			(18 USC § 1153.)</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0927</num>
+      <heading>Immunity</heading>
+      <para>
+        <num>1.</num>
+        <text>A person when acting without malice is not subject to liability by virtue of filing reports, or furnishing orally or in writing other information concerning any suspected, anticipated, or completed fraudulent insurance act, when the reports or information are provided to or received from the commissioner, federal, state, or local law enforcement or regulatory officials, the national association of insurance commissioners, or any other not-for-profit organization established to detect and prevent insurance fraud and any employee or agent of any of these entities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Except in prosecution for perjury or insurance fraud, and in the absence of malice, an insurer, or any officer, employee, or agent thereof, or any licensed insurance producer or private person who cooperates with, furnishes evidence, or provides or receives information regarding any suspected fraudulent insurance act to or from the commissioner, federal, state, or local law enforcement or regulatory officials, the national association of insurance commissioners, or any not-for-profit organization established to detect and prevent fraudulent insurance acts and any employee or agent of any of these entities who complies with an order issued by a court of competent jurisdiction acting in response to a request by any of these entities to provide evidence or testimony is not subject to a criminal proceeding or to a civil penalty with respect to any act concerning which the person testifies to or produces relevant matter.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In the absence of malice, an insurer, or any officer, employee, or agent thereof, or any licensed insurance producer or private person who cooperates with, furnishes evidence or provides information regarding any suspected fraudulent insurance act to the federal, state, or local law enforcement or regulatory officials, or any not-for-profit organization established to detect and prevent fraudulent insurance acts, and any employee or agent of any of these entities who complies with an order issued by a court of competent jurisdiction acting in response to a request by any of these entities to furnish evidence or provide testimony, is not subject to civil liability for libel, slander, or any other relevant tort, and no civil cause of action of any nature exists against the person for filing reports, providing information, or otherwise cooperating with an investigation or examination of any of these entities.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The commissioner, federal, state, or local law enforcement or regulatory officials, the national association of insurance commissioners, or any not-for-profit organization established to detect and prevent fraudulent insurance acts, and any employee or agent of any of these entities, when acting without malice, is not subject to civil liability for libel, slander, or any other relevant tort, and no civil cause of action of any nature will lie against the person by virtue of the execution of official activities or duties of the entity by virtue of the publication of any report or bulletin related to the official activities or duties of the entity.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><cite path="1|1.09|1.0927">This section</cite> does not abrogate or modify in any way common law or statutory privilege or immunity heretofore enjoyed by any person or entity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.0928</num>
+      <heading>Penalties; Restitution</heading>
+      <para>
+        <num>1.</num>
+        <text>A violation of <cite path="1|1.09|1.0928">this section</cite> is a Class C felony if the value of any property or services retained exceeds five thousand ($5000) dollars and a Class A misdemeanor in all other cases.  For purposes of <cite path="1|1.09|1.0928">this section</cite>, the value of any property and services must be determined.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the event that a practitioner is adjudicated guilty of a violation of <cite path="1|1.09|1.0928">this section</cite>, the court shall notify the appropriate licensing authorities of the Tribe and state of the adjudication.  The appropriate licensing authority shall hold an administrative hearing to consider the imposition of administrative sanctions as provided by law against the practitioner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In addition to any other punishment, a person who violates <cite path="1|1.09|1.0928">this section</cite> must be ordered to make restitution to the insurer or to any other person for any financial loss sustained as a result of the violation of <cite path="1|1.09|1.0928">this section</cite>.  The court shall determine the extent and method of restitution.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.10</num>
+    <heading>Arraignment</heading>
+    <section>
+      <num>1.1001</num>
+      <heading>Definition</heading>
+      <text>"Arraignment" is a procedure whereby the accused is brought before the Tribal Court to plead to the criminal charge. The charge is read to the accused and he is asked to plead guilty or not guilty.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1002</num>
+      <heading>Prompt Appearance of Defendant Before a Tribal Court Judge</heading>
+      <text>The defendant arrested and incarcerated shall be arraigned at the next regularly scheduled session of court or within seventy-two (72) hours, whichever occurs first, excluding Saturdays, Sundays, and legal holidays.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1003</num>
+      <heading>Arraignment; Procedure</heading>
+      <text>Arraignment shall be conducted in open court and shall consist of:</text>
+      <para>
+        <num>1.</num>
+        <text>reading the complaint and delivering a copy to the accused;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>stating to him the substance of the charges and the language of the law establishing the offense and fixing the penalty;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>advising him of his rights to counsel; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>calling on him to plead to the charges.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.11</num>
+    <heading>Pleas</heading>
+    <section>
+      <num>1.1101</num>
+      <heading>Pleas</heading>
+      <text>A defendant may plead guilty or not guilty. If a defendant refuses to plead or if a defendant corporation fails to appear, the court shall enter a plea of not guilty.</text>
+      <para>
+        <num>1.</num>
+        <text>Not guilty plea.</text>
+        <text>If the defendant wishes to plead "not guilty", he may demand a jury trial. After a plea of "not guilty", the court shall set a date for trial which shall allow sufficient time for the defendant to prepare his defense. In no case shall the time be less than seven (7) days, unless requested by the defendant, and the tribal court finds that the prosecution would not be prejudiced by a short setting. The defendant can plead not guilty by reason of insanity or mental defect. If a defendant pleads not guilty by reason of insanity or mental defect, a psychological evaluation shall be ordered by the court within thirty (30) days.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Guilty plea.</text>
+        <text>If the defendant wishes to plead "guilty", he may be sentenced immediately or within a reasonable time thereafter. Any plea made to the court must be made in open court with the defendant present. At any time before final sentencing, a defendant may bring a motion before the tribal court to withdraw his guilty plea. A guilty plea will only be withdrawn upon a showing of constitutional violation, misrepresentation, or coercion.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1102</num>
+      <heading>Advice to Defendant</heading>
+      <text>Before accepting a plea of guilty, the court must address the defendant personally in open court and inform him of, and determine that he understands, the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The nature of the charge to which the plea is offered, the mandatory minimum penalty and the maximum possible penalty provided by law, including the effect of any special probation term and, when applicable, that the court may also order the defendant to make restitution to any victim of the offense; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the defendant is not presented by an attorney, that he has the right to be represented by an attorney at every stage of the proceeding against him; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>He has the right to be tried by a jury and, at that trial, has the right to the assistance of counsel at his own expense, the right to confront and cross-examine witnesses against him, the right to produce witnesses on his own behalf, and the right not to be compelled to incriminate himself; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>That if his plea of guilty is accepted by the court there will be no further trial on the matter so that by pleading guilty he waives the right to a trial; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If the court intends to question the defendant under oath, on the record, and in the presence of counsel about the offense to which he has pleaded, that his answers may later be used against him in a subsequent prosecution including perjury or false statement.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1103</num>
+      <heading>Insuring That the Plea Is Voluntary</heading>
+      <text>The court shall not accept a plea of guilty without first, by addressing the defendant personally in open court, determining that the plea is voluntary and not the result of force, or threats, or of promises apart from a plea agreement. The court shall also inquire as to whether the defendant's willingness to plead guilty results from prior discussions between the prosecutor and the defendant or his attorney.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1104</num>
+      <heading>Plea Agreement Procedure</heading>
+      <para>
+        <num>1.</num>
+        <text>In general.</text>
+        <text>The prosecutor and the defense attorney, or the defendant when acting pro se, may engage in discussions with a view toward reaching an agreement that, upon the entering of a plea of guilty to a charged offense, or to a lesser or related offense, the prosecutor will do any of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Move for dismissal of other charges; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Make a recommendation or agree not to oppose the defendant's request for a particular sentence, with the understanding that such recommendation or request shall not be binding upon the court; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Agree that a specific sentence is the appropriate disposition of the case.</text>
+          <text>The court shall not participate in any plea agreement discussions.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notice of such agreement.</text>
+        <text>If a plea agreement has been reached by the parties, the court shall, on the record, require the disclosure of the agreement in open court or, on a showing of good cause, in camera, at the time the plea is offered. If the Court rejects the plea agreement as presented, the defendant may withdraw his guilty plea and proceed to trial.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Acceptance of a plea agreement.</text>
+        <text>If the court accepts the plea agreement, the court shall inform the defendant that it will include in the judgment and sentence the disposition provided for in the plea agreement.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Rejection of a plea agreement.</text>
+        <text>If the court rejects the plea agreement, the court shall, on the record, inform the parties of this fact, advise the defendant personally in open court or, on a showing of good cause, in camera, that the court is not bound by the plea agreement, afford the defendant the opportunity to then withdraw his plea, and advise the defendant that if he persists in his guilty plea the disposition of the case may be less favorable to the defendant than that contemplated by the plea agreement.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Time of plea agreement procedure.</text>
+        <text>Notification to the court of the existence of a plea agreement shall be given at the arraignment or at such other time as may be fixed by the court.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Inadmissibility of pleas, plea discussions, and related statements.</text>
+        <text>Except as otherwise provided in this paragraph, any statement made in the course of plea discussions with the prosecutor which does not result in a plea of guilty or which results in a plea of guilty later withdrawn, is not, in any civil or criminal proceeding, admissible against the defendant who made the plea or was a participant in the plea discussions. However, such a statement is admissible:</text>
+        <para>
+          <num>a.</num>
+          <text>In any proceeding wherein another statement made in the course of the same plea or plea discussions has been introduced and the statement ought in fairness be considered contemporaneously with it; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>In a criminal proceeding for perjury or false statement if the statement was made by the defendant under oath, on the record, and in the presence of counsel.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1105</num>
+      <heading>Determining Accuracy of Plea</heading>
+      <text>Notwithstanding the acceptance of a plea of guilty, the court should not enter a judgment upon such plea without making such inquiry as shall satisfy the Court that there is a factual basis for the plea.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1106</num>
+      <heading>Record of Proceedings</heading>
+      <text>A verbatim record of the proceedings at which the defendant enters a plea shall be made and, if there is a plea of guilty, the record shall include, without limitation, the court's advice to the defendant, the inquiry into the voluntariness of the plea including any plea agreement and the inquiry into the factual basis of a guilty plea.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1107</num>
+      <heading>Harmless Error</heading>
+      <text>Any variance from the procedures required by <cite path="1.11">this chapter</cite>, which does not affect substantial rights of the accused, shall be regarded as harmless error.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.12</num>
+    <heading>Pre-Trial Motions</heading>
+    <section>
+      <num>1.1201</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Bill of particulars" is a form of discovery in which the prosecution sets forth the time, place, manner and means of the commission of the crime as alleged in the complaint.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A "motion" is a pleading in which a party submits a proposed measure for the consideration and action of the court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1202</num>
+      <heading>Motion to Dismiss</heading>
+      <text>The complaint must be displayed without prejudice by the Tribal Court upon the defendant's motion in the following cases:</text>
+      <para>
+        <num>1.</num>
+        <text>Where it is found not to comply with the requirements of Contents of Complaint as stated in <cite path="1|1.06|1.0602">Section 1.0602</cite>;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>That the defendant has been charged without reasonable or probable cause; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon a determination that the Court has no jurisdiction over the person or the offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1203</num>
+      <heading>Future Prosecution of Complaint Dismissed Without Prejudice</heading>
+      <text>An order to dismiss the complaint, as provided for in <cite path="1.12">this chapter</cite>, does not bar the future prosecution for the same offense, except in the case wherein the Tribal Court has no jurisdiction over the person or the offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1204</num>
+      <heading>Motion Waived by Failure to Move to Dismiss a Complaint</heading>
+      <text>If the motion to dismiss the complaint is not made before the defendant pleads, the defendant is precluded from afterward making the motion, except in the case where the court has no jurisdiction over either the person or the offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1205</num>
+      <heading>Motion for a Bill of Particulars</heading>
+      <text>The defendant may, in order to obtain facts other than those specified in the complaint, make a motion for a bill of particulars. The court may direct the filing of a bill of particulars may be made before arraignment or within ten days after arraignment or at such later time as the court may permit. A bill of particulars may be amended at any time subject to such conditions as justice requires.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1206</num>
+      <heading>Motion to Suppress Evidence</heading>
+      <text>A defendant has the right to file with the Tribal Court a motion to suppress evidence which he contends has been obtained from him in an unlawful manner. The evidence in question may be either tangible or intangible item(s). If the Tribal Court is satisfied that the evidence has been unlawfully obtained, it shall order the evidence suppressed. If the Tribal Court decides that the evidence was lawfully obtained, the evidence may be used against the defendant if it is otherwise admissible. Unless otherwise ordered or agreed, motions must be filed and served at least ten (10) days prior to the date set for the hearing. All papers opposing the motion must be filed or served at least five (5) calendar days and all reply papers at least two (2) court days before the date for hearing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1207</num>
+      <heading>Motion in Limine</heading>
+      <text>A motion in Limine "<em>at the outset</em>" for a protective order against prejudicial questions and statements should be filed and served three (3) days before the beginning of trial. A motion in Limine may be made after the beginning of a trial if a finding of good cause is made by the judge.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.13</num>
+    <heading>Trial, General Provisions</heading>
+    <section>
+      <num>1.1301</num>
+      <heading>Definition</heading>
+      <text>"Criminal action" is a legal proceeding where a person charged with a Tribal offense will be prosecuted and punished as provided by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1302</num>
+      <heading>Definition</heading>
+      <text>"Criminal action" is a legal proceeding where a person charged with a Tribal offense will be prosecuted and punished as provided by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1303</num>
+      <heading>Irregularities, Mistakes, and Omissions</heading>
+      <text>Neither a departure from the form or mode prescribed in <cite path="1.13">this chapter</cite> in respect to any pleading or proceedings, nor an error or mistake therein, renders a trial invalid, unless it has prejudiced the defendant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1304</num>
+      <heading>Summoning Witnesses</heading>
+      <text>The Tribal Court shall have the power to issue a summons, on behalf of the prosecution or defense, to any person within its jurisdiction to compel their presence in court as a witness. The commons must contain the reason for summoning the person and the number of days the person will be required to be present. If the witness is summoned to attend and testify, he shall be allowed mileage and stipend as provided in the Turtle Mountain Tribal Court Rules of Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1305</num>
+      <heading>Trial by Jury or by the Court</heading>
+      <text>Cases shall be tried by the Court unless the defendant demands a jury trial.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1306</num>
+      <heading>Rights of Accused</heading>
+      <text>In all criminal prosecutions, the accused shall have the right to:</text>
+      <para>
+        <num>1.</num>
+        <text>defend himself or through counsel at his own expense;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>demand the nature and cause of the accusation against him and have a copy thereof;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>confront the witnesses against him and have the right to cross examine testimony offered by such witnesses;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>have compulsory process served for obtaining witnesses in his behalf;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>a speedy public trial by an impartial judge or jury; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>not incriminate himself.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1307</num>
+      <heading>Presence of the Defendant</heading>
+      <text>The defendant in a criminal case shall be present in court at every stage of the proceedings.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1308</num>
+      <heading>Setting Date for Trial</heading>
+      <text>Following the entry of the plea at arraignment, the clerk of court shall set a date for trial.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1309</num>
+      <heading>Continuance of Trial</heading>
+      <text>Continuance of the trial shall be granted upon affirmative proof, with reasonable notice, that justice cannot be served without a continuance. The continuance shall not exceed thirty (30) days, unless good cause can be shown why a longer continuance should be granted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1310</num>
+      <heading>Mistrial Due to Death or Illness of Judge</heading>
+      <text>If, after the commencement of the trial in a criminal action or proceeding, the presiding judge at such trial shall die, become ill, or for any other reason is unable to proceed with the trial, a mistrial shall be declared.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.14</num>
+    <heading>Formation of the Jury</heading>
+    <section>
+      <num>1.1401</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Challenge" is an objection made to a potential juror to disqualify that juror from serving in the case.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Challenge to the panel" is an objection in writing    made to all the jurors returned.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Panel" is a list of jurors returned by the board of jury selectors.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Peremptory challenge" is an objection to a potential juror for which no reason need be given.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1402</num>
+      <heading>Jury Trial; Right</heading>
+      <text>Any person charged with an offense punishable by imprisonment may request a trial by jury.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1403</num>
+      <heading>Jury Trial; Expenses</heading>
+      <text>The expense of a jury may not be assessed as costs in a criminal case.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1404</num>
+      <heading>Jury Trial; Time to Request</heading>
+      <text>The request for a jury trial must be made at arraignment or within ten days following arraignment if the defendant is unrepresented by counsel at arraignment.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1405</num>
+      <heading>Jury Trial, Waiver</heading>
+      <text>The failure of a party to demand a jury trial constitutes a waiver by him of a right to trial by jury.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1406</num>
+      <heading>Number of Jurors</heading>
+      <text>A jury shall consist of six (6) persons, chosen in the manner prescribed in Turtle Mountain Rules of Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1407</num>
+      <heading>Reserved</heading>
+      <text>
+        <strong>1.1408</strong>
+        <strong>
+          <u>Who May Challenge.</u>
+        </strong>
+      </text>
+      <text>A challenge to a potential juror may be made by either party.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1409</num>
+      <heading>Reason for Panel Challenge</heading>
+      <text>The panel may be challenged when:</text>
+      <para>
+        <num>1.</num>
+        <text>there is an error in the procedure used in summoning the jurors; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>bias can be shown in the impaneling process.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1410</num>
+      <heading>Challenges to Individual Jurors</heading>
+      <text>A challenge to an individual juror is an objection which may be made orally, and is either for cause or may be peremptory.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1411</num>
+      <heading>Order for Exercising Challenges for Cause</heading>
+      <text>All challenges for cause mast be made first by the defendant and then by the prosecutor. Peremptory challenges may be taken by either party at any time during the seating of the jury and before the jury is sworn.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1412</num>
+      <heading>Challenge for Cause</heading>
+      <text>A challenge for cause may be made by the Tribal Prosecutor or by the defendant or his counsel, and must specify the facts constituting the causes thereof. It may be made for any of the following causes:</text>
+      <para>
+        <num>1.</num>
+        <text>a previous conviction of a felony;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>a lack of any of the qualifications set out in <cite path="2|2.09|2.0903">Section 2.0903</cite> (Qualification of Jurors) of the Civil Procedure;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>unsoundness of mind, or such defects in the faculties of the mind or the organs of the body as to render him incapable of performing the duties of a juror;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>having served as a juror in a civil or criminal action brought against the defendant for the act charged as an offense;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>being a party adverse to the defendant in a civil action, or having complained against or been accused by him in a criminal action;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>having formed or expressed such an opinion as to the guilt or innocence of the defendant as would prevent him from rendering a fair verdict upon the evidence submitted at the trial;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>having served in the Tribal Court as a juror during the last month;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>standing in the relation of guardian and ward, attorney or client, master and servant employee, employer or landlord and tenant; or being a member of the family, or a relative of the first or second degree of the defendant, or of the person alleged to be injured by the offense charged, or on whose complaint, or at whose instance the prosecution was instituted, or in his employ for wages.</text>
+        <text>Failure to challenge for cause shall constitute a waiver of the basis for challenge.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1413</num>
+      <heading>Peremptory Challenges</heading>
+      <text>A peremptory challenge can be made by either party and may be oral. If an objection is made the court must exclude the juror.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1414</num>
+      <heading>Peremptory Challenge; Number; Joint Defendants</heading>
+      <text>Each party is entitled to peremptorily excuse two (2) jurors. If two (2) or more defendants are jointly tried for any public offense, the prosecutor and the defendants shall each be entitled to two (2) peremptory challenges. The defendants must exercise their two (2) challenges jointly.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1415</num>
+      <heading>Vacancy Filled</heading>
+      <text>After each challenge, sustained for cause or made peremptorily, another juror shall be called, who may also be subject to remaining challenges.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1416</num>
+      <heading>Jurors Sworn</heading>
+      <text>When the jury has been accepted they shall be sworn by the clerk of court to try the facts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1417</num>
+      <heading>Alternate Jurors; Selection</heading>
+      <text>Whenever, in the opinion of a judge about to try a criminal action, the trial is likely to be a protracted one, or upon stipulation of the parties, the court may after the jury is impaneled and sworn, direct the calling of one or more additional jurors, in its discretion, to be known as "alternate jurors."</text>
+      <text>These alternate jurors shall be drawn from the same source, in the same manner, have the same qualifications as the jurors already sworn, and shall be subject to the same examination and challenges. However, each party is only entitled to peremptorily excuse one (1) potential alternate juror.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.15</num>
+    <heading>Jury Trial Procedure</heading>
+    <section>
+      <num>1.1501</num>
+      <heading>Order of Procedure</heading>
+      <text>The jury having been impaneled and sworn, the trial must proceed in the following order:</text>
+      <para>
+        <num>1.</num>
+        <text>The clerk or the Tribal Court Judge must read the complaint, and state the plea of the defendant to the jury.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Opening statements shall be given by the Tribal Prosecutor followed by opening statements from the defendant or his counsel. Defendant or his counsel may reserve opening statements until the beginning of the defendant's presentation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal Prosecutor must open the case and offer evidence in support of the charge. The defendant or his counsel shall have the right to cross-examine any witness called to the stand by the Tribal Prosecutor.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The defendant or his counsel may then open the defense and offer evidence in support thereof. The Tribal Prosecutor shall have the right to cross-examine any witness called to the stand by the defendant or his counsel.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The parties may then respectively offer rebutting testimony only, unless the Court, in furtherance of justice, permits them to offer evidence upon their case in chief.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>When the evidence is concluded the Tribal Prosecutor and the defendant or his counsel may argue the case to the court and jury. The Tribal Prosecutor may open the argument, followed by defendant or his counsel. The Tribal Prosecutor may offer closing arguments to the court and the jury.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Upon the conclusion of the arguments, the Court shall charge the jury orally or in writing, stating the law of the case. However, at the beginning of the trial or from time to time during the trial and without any request from either party, the judge may give the jury such instructions on the law applicable to the case as he may deem necessary for their guidance on hearing the case.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1502</num>
+      <heading>Presumption of Innocence; Effect; Reasonable Doubt; Defendant's Refusal to Testify</heading>
+      <text>A defendant in a criminal action need not testify. He is presumed to be innocent until the contrary is proved. The effect of this presumption is only to place upon the Tribe the burden of proving him guilty beyond a reasonable doubt. The defendant's failure to testify on his own behalf shall in no way be construed against him nor commented upon by the prosecutor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1503</num>
+      <heading>Defendants Tried Jointly; Court May Direct Separate Trials</heading>
+      <text>When two (2) or more defendants are jointly charged with a tribal offense, they shall be prosecuted jointly. The Court may determine that there should be separate trials upon application by either defendant prior to trial.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1504</num>
+      <heading>View of Premises by Jury</heading>
+      <text>When the Court is of the opinion that it is proper for the jury to view the place in which the offense is charged to have been committed, or in which any other material fact occurred, it may order the jury to be conducted in a body in the custody of proper officers to the place which shall be shown them by a person appointed by the Court for that purpose. Defendant and his counsel have the right to be present at any such viewing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1505</num>
+      <heading>Discharge of Juror for Illness or Disability; New Jury</heading>
+      <text>If, before the jury has returned its verdict to the court, a juror becomes sick, or upon good cause shown to the Court is found to be unable to perform his duty, the Court may order the juror to be discharged. If any alternate jurors have been selected, one of them shall then be designated by the court to take the place of the juror so discharged. If there is no alternate juror, the Court may, upon stipulation by the defendant or his counsel, proceed in the absence of said juror. In the absence of such stipulation, the jury shall be discharged and a new jury shall be impaneled to hear the case.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1506</num>
+      <heading>Questions of Law and Fact</heading>
+      <text>Questions of law are to be decided by the Court, questions of fact by the jury.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1507</num>
+      <heading>Instructions to Jury</heading>
+      <text>At the close of evidence or at such time during the trial as the judge directs, counsel for each party may file with the Tribal Judge written instructions on the law which the party requests the judge to deliver to the jury. At the same time, copies of such requests shall be furnished to opposing counsel. The judge shall inform counsel of his proposed action upon each request prior to the arguments to the jury. The judge shall deliver his instructions to the jury after arguments are completed. No party may assign as error any portion of the judge's charge or omission there from unless he makes objection before the jury retires to consider its verdict. Objections to jury instructions must be made without the jury present.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1508</num>
+      <heading>Direction of Verdict of Acquittal</heading>
+      <text>At any time after the evidence on either side is closed, the Tribal Court may, upon motion of the defendant or upon its own motion, direct a verdict of acquittal, or direct the jury to return a verdict of acquittal; and in the event of the failure of the jury to return such a verdict of acquittal, the Court may refuse to receive any other verdict and may discharge the jury and enter a judgment of acquittal. The denial of the motion by the defendant for a directed verdict may be reviewed upon appeal to the Tribal Court of Appeals. A directed verdict of acquittal must be based upon the determination that there is no material fact to be determined by the jury, or even if there is any fact to be determined, that no reasonable person could conclude upon the evidence presented that the defendant is guilty.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.16</num>
+    <heading>Submission to the Jury and Verdict</heading>
+    <section>
+      <num>1.1601</num>
+      <heading>Deliberation</heading>
+      <text>After hearing the charge, all the testimony offered, and the instructions from the judge, and after the court has inquired whether either party has any objection to the charge, the jury shall retire for deliberation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1602</num>
+      <heading>Papers Taken by Jury</heading>
+      <text>Upon retiring for deliberation, the jury may take with them all instructions, exhibits and papers which have been received as evidence. Also any notes of the testimony taken in the trial by the jurors may be taken.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1603</num>
+      <heading>Information on Any Point of Law</heading>
+      <text>After the jury has retired for deliberation, if they have any disagreement as to any part of the testimony or if they desire a clarification on any point of law arising in the case, they may require an officer to bring the request to the judge. The judge shall then notify all attorneys to the action of the request, but after a conversation with them, he may, at his discretion, provide the requested information. Any attorney disagreeing with the court's decision will be allowed to put his objections on the record. The jury must base their verdict on the testimony and evidence presented during the trial.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1604</num>
+      <heading>Jury Kept Together</heading>
+      <text>The jury shall be under the charge of the bailiff or other officer appointed by the court. The jury must be kept together after the cause is submitted to them by the clerk of court until they have agreed upon and rendered a verdict, unless, for good cause, the judge sooner discharges them.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1605</num>
+      <heading>Verdict</heading>
+      <text>The jury must render a verdict of "guilty" or "not guilty", which imports a conviction or acquittal on every material allegation in the complaint. The verdict in all criminal actions must be unanimous.</text>
+      <text>The jury cannot be discharged after the case is submitted to them until they have agreed upon their verdict and rendered it in open court, unless, at the expiration of such time as the court may deem proper, it satisfactorily appears that there is no reasonable possibility that the jury can agree.</text>
+      <text>In cases where a jury is discharged in this manner, the case may be again tried.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1606</num>
+      <heading>Poll of Jury Before Recording Verdict; Either Party Authorized; Dissenting Juror; Further Deliberation, Dismissal of Jury</heading>
+      <text>When a verdict is rendered and before it is recorded, the jury may be polled on the request of either party or the Court, in which case each juror must be asked whether it is his verdict. If any juror answers in the negative, the jury must be sent out for further deliberation. If upon returning after further deliberation, the jury is polled again and a juror answers that the verdict is not his own, then the judge shall dismiss the jury and a new trial will be ordered.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.17</num>
+    <heading>Judgment</heading>
+    <section>
+      <num>1.1701</num>
+      <heading>Definition</heading>
+      <text>"Judgment" is a final decision of the court resolving the dispute and determining the rights and obligations of the parties.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1702</num>
+      <heading>Entry of Judgment</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon a plea of guilty or a verdict of guilty, the Tribal Court must fix a time for pronouncing judgment rendered. Prior to pronouncing judgment the court shall make a pre-sentence investigation, unless the court finds that there is in the record information sufficient to enable the meaningful exercise of sentencing discretion, and the court enters this finding on the record.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the defendant is found not guilty or for any other reason is entitled to be discharged, judgment shall be entered accordingly. The judgment shall be signed by the judge and entered by the clerk.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1703</num>
+      <heading>Notification of Right to Appeal</heading>
+      <text>After imposing sentence in a case which has gone to trial on a plea of not guilty, with a subsequent determination of guilty by a judge or jury, the Court shall advise the defendant of his right to appeal. There shall be no duty on the Court to advise the defendant of any right of appeal after sentence is imposed following a plea of guilty.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1704</num>
+      <heading>Stay of Imposition of Sentence</heading>
+      <text>A sentence of fine, imprisonment, or both may be stayed pending appeal provided the Court is sufficiently satisfied that;</text>
+      <para>
+        <num>1.</num>
+        <text>the appeal is not frivolous,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the appeal is not taken for the purpose of delay,</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>conditions of release reasonably assure the defendant will not flee, and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>the defendant does not pose a danger to any person or the community.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1705</num>
+      <heading>Execution of Judgment; Imprisonment; Fine; Record</heading>
+      <text>When judgment of imprisonment is entered, a signed copy thereof must be delivered to a law enforcement officer. This delivered copy shall suffice as a warrant for the execution of judgment.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1706</num>
+      <heading>Presence of Defendant</heading>
+      <text>When judgment is pronounced the defendant must be personally present.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1707</num>
+      <heading>Withdrawal of Plea of Guilty</heading>
+      <text>A motion to withdraw a plea of guilty may be made only before sentence is imposed, but to correct manifest injustice the court after sentence may set aside the judgment of conviction and permit the defendant to withdraw his plea.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1708</num>
+      <heading>Court Cost</heading>
+      <text>The judgment of conviction in criminal cases shall include costs of court, not to exceed one hundred dollars ($100).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1709</num>
+      <heading>Deferred Payment of Fine And/Or Court Costs</heading>
+      <text>Where fines and court costs are imposed in criminal cases, the court may defer payment to a date agreed upon by the defendant.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.18</num>
+    <heading>New Trial</heading>
+    <section>
+      <num>1.1801</num>
+      <heading>Definition</heading>
+      <text>A new trial is a re-examination of an issue of fact in the same court before another jury.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1802</num>
+      <heading>New Trial Grounds</heading>
+      <text>The court, on application from the defendant, may grant a new trial based on the following cause or causes:</text>
+      <para>
+        <num>1.</num>
+        <text>When it has been proven to the court that the jury has received unauthorized evidence, which the court determines was not harmless error and materially prejudiced the outcome of the verdict.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When the verdict has been decided by lot or by means other than a fair expression of opinion on the part of all the jurors.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When the Tribal Court has refused to instruct the jury properly about the law.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>When for any other cause the defendant has not received a fair and impartial trial.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Newly discovered evidence not unavailable at the time of the first trial. This newly discovered evidence must be material, and which the defendant could not, with reasonable diligence, have discovered and produced at trial.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1803</num>
+      <heading>Application</heading>
+      <text>Application for a new trial may be made only by the defendant or his attorney. Application must be made to the same court in which the case was tried.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1804</num>
+      <heading>Effect of a New Trial</heading>
+      <text>The granting of a new trial places the parties in the same position as if no trial has been held; all testimony must be reproduced and the former verdict cannot be used or referred to either in the evidence or in argument. Prior testimony of the previous trial can be used in accordance with the applicable Rules of Evidence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1805</num>
+      <heading>Status of the Accused Pending New Trial</heading>
+      <text>Pending a new trial, the accused shall be entitled to bail the same as before the trial.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.19</num>
+    <heading>Re-Opening Case</heading>
+    <section>
+      <num>1.1901</num>
+      <heading>Re-Opening of a Case</heading>
+      <text>A tribal judge has discretion to allow either party to re-open their case before final submission to the jury. The basis for the motion to re-open the case shall be limited to newly discovered evidence or proof of false testimony.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.20</num>
+    <heading>Criminal Appeals</heading>
+    <section>
+      <num>1.2001</num>
+      <heading>Court of Last Resort</heading>
+      <text>The Turtle Mountain Appellate Court is the Court of last resort for which appeals may be taken within this jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2002</num>
+      <heading>Appeal, How Taken</heading>
+      <text>To affect an appeal, the appellant file a notice of the appeal to the Turtle Mountain Tribal Court within 30 days following sentencing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2003</num>
+      <heading>Notice of Appeal</heading>
+      <text>Every notice of appeal, except as provided in <cite path="1|1.20|1.2003">Section 1.2003</cite> below, is sufficient if it designates:</text>
+      <para>
+        <num>1.</num>
+        <text>the party who appeals;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the order or decree from which the appeal is taken;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the intermediate orders, if any, upon which the appellant desires a review.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2004</num>
+      <heading>Appeal on Question of Law</heading>
+      <text>For the purpose of taking an appeal from a conviction in Tribal Court on questions of law alone, the notice must also contain:</text>
+      <para>
+        <num>1.</num>
+        <text>a statement that the appeal is based upon a question of law; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>a specification of the errors in law on which the appellant intends to rely.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.21</num>
+    <heading>Boating Regulations and Penalties</heading>
+    <section>
+      <num>1.2101</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="1.21">this chapter</cite>, unless the context clearly requires a different meaning.</text>
+      <para>
+        <num>1.</num>
+        <text>"Vessel" means every description of watercraft, other than a seaplane on the water, used or capable of being used as a means of transportation on water.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Motorboat" means any vessel propelled by machinery, whether or not such machinery is the principal source of propulsion, but shall not include a vessel which has a valid marine document issued by the Bureau of Customs of the United States Government or any federal agency successor thereto.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Owner" means an Indian, other than a lien holder, having the property in or title to a motorboat. The term includes an Indian entitled to the use or possession of a motorboat subject to an interest in another Indian, reserved or created by agreement and securing payment or performance of an obligation, but the term excludes an Indian lessee under a lease not intended as security.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Waters of the Turtle Mountain Jurisdiction" means any waters within the jurisdiction of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Indian Person" means Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Operate" means to navigate or otherwise use a motorboat or a vessel.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Department" means the State Game and Fish Department of the State of North Dakota.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2102</num>
+      <heading>Operation of Unnumbered Motorboats Prohibited</heading>
+      <text>Every motorboat propelled by a motor having ten (10) horsepower or more on the waters of the Turtle Mountain Jurisdiction shall be numbered. No Indian shall operate or give permission for the operation of any motorboat on such waters unless the motorboat is numbered in accordance with <cite path="1.21">this chapter</cite>, or in accordance with applicable federal law, or in accordance with a federally approved numbering system of another state, and unless (1) the certificate of number awarded to such motorboat is in full force and effect, and (2) the identifying number set forth in the certificate of number is displayed on each side of the bow of such motorboat.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2103</num>
+      <heading>Identification Number</heading>
+      <para>
+        <num>1.</num>
+        <text>The Indian owner of each motorboat requiring numbering by the State of North Dakota shall file an application for number with the department on forms approved by it. The application shall be signed by the Indian owner of the motorboat and shall be accompanied by a fee of three dollars ($3). Upon receipt of the application in approved form, the department shall enter the same upon the records of its office and issue the Indian applicant a certificate of number stating the number awarded to the motorboat and the name and address of the owner. The Game and Fish Department shall pay all funds collected hereunder to the North Dakota State Treasurer who shall credit funds thereof to the State Game and Fish fund to pay for the costs of administering <cite path="1.21">this chapter</cite>. The Indian owner shall attach to each side of the bow of the motorboat the identification number in such manner as may be prescribed by rules and regulations of the department in order that it may be clearly visible. The number shall be maintained in legible condition. The certificate of number shall be available at all times for inspection on the motorboat for which issued, whenever such motorboat is in operation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The owner of any motorboat already covered by a number in full force and effect which has been awarded to it pursuant to then operative federal law or a federally approved numbering system of another state shall record the number prior to operating the motorboat on the waters of the Turtle Mountain Jurisdiction in excess of the ninety (90) day reciprocity period provided for in <cite path="1|1.24|1.2405">Section 1.2405</cite>. Such recordation shall be in the manner and pursuant to the procedure required for the award of a number under subsection 1 of <cite path="1|1.21|1.2103">this section</cite>, except that no additional or substitute number shall be issued.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Should the Indian ownership of a motorboat change; a new application form with fee prorated on a yearly basis shall be filed with the department and a new certificate of number shall be awarded in the same manner as provided for in an original award of number.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In the event that an agency of the United States Government shall have in force an over all system of identification numbering for motorboats within the United States, the numbering system employed pursuant to <cite path="1.21">this chapter</cite> by the department shall be in conformity therewith.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The department may award any certificate of number directly or may authorize any Indian person to act as agent for the awarding thereof. In the event that an Indian person accepts such authorization, he may be assigned a block of numbers and certificates therefore which upon award, in conformity with <cite path="1.21">this chapter</cite> and with any rules and regulations of the department, shall be valid as if awarded directly by the department.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All records of the department made or kept pursuant to <cite path="1|1.21|1.2103">this section</cite> shall be public records.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Every certificate of number awarded pursuant to <cite path="1.21">this chapter</cite> shall continue in full force and effect for a period of three (3) years unless sooner terminated or discontinued in accordance with the provisions of <cite path="1.21">this chapter</cite>. Certificates of number may be renewed by the owner in the same manner provided for in the initial securing of the same.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The department shall fix a day and month of the year on which certificates of number due to expire during the calendar year shall lapse and no longer be of any force and effect unless renewed pursuant to <cite path="1.21">this Chapter</cite>.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The owner shall furnish the department notice of the transfer of all or any part of his interest other than the creation of a security interest in a motorboat numbered in this state pursuant to Subsections (1) and (2) of <cite path="1|1.21|1.2103">this section</cite> or of the destruction or abandonment of such motorboat, within fifteen (15) days thereof. Such transfer, destruction, or abandonment shall terminate the certificate of number for such motorboat except, that in the case of a transfer of a part interest which does not affect the Indian owner's right to operate such motorboat; such transfer shall not terminate the certificate of number.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Any Indian holder of a certificate of number shall notify the department within fifteen (15) days if his address no longer conforms to the address appearing on the certificate and shall, as a part of such notification, furnish the department with his new address. The department may provide in its rules and regulations for the surrender of the certificate bearing the former address and its replacement with a certificate bearing the new address or for the alteration of an outstanding certificate to show the new address of the Indian holder.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>No number other than the number awarded to a motorboat or granted reciprocity pursuant to, <cite path="1.21">this Chapter</cite> shall be painted, attached or otherwise displayed on either side of the bow of such motorboat.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2104</num>
+      <heading>Equipment</heading>
+      <text>Every vessel shall have aboard:</text>
+      <para>
+        <num>1.</num>
+        <text>One (1) life preserver, buoyant vest, ring buoy or buoyant cushion of the type approved by the department in good and serviceable condition for each person on-board.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When in operation during hours of darkness, a light sufficient to make the motorboat's presence and location known to any and all other vessels within a reasonable distance.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If carrying or using any inflammable or toxic fluid in any enclosure for any purpose, and if not an entirely open motorboat, an efficient natural or mechanical ventilation system which shall be capable of removing resulting gases prior to, and during, the time such motorboat is occupied by any person.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Such additional equipment designed to promote the safety of navigation and of persons as the Turtle Mountain Tribal Council may find to be appropriate and for which it has provided in its rules and regulations.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>No Indian person shall operate or give permission for the operation of a vessel which not equipped as required by <cite path="1|1.21|1.2104">this Section</cite> or modification thereof.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2105</num>
+      <heading>Exemption from Numbering Provisions of This Chapter</heading>
+      <text>A motorboat shall not be required to be numbered under <cite path="1.21">this chapter</cite> if it is:</text>
+      <para>
+        <num>1.</num>
+        <text>Already covered by a number in full force and effect which has been awarded to it pursuant to federal law or a federally approved numbering system of another state; provided that such boat shall not have been within this state for a period in excess of ninety (90) consecutive days.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A motorboat from a country other than the United States temporarily using the waters of the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A motorboat whose owner is the United States, a state or the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A ship's lifeboat.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A motorboat belonging to a class of boats which has been exempted from numbering by the department after said agency has found that the numbering of motorboats of such class will not materially Aid in their identification: and, if an agency of the federal government has a numbering system applicable to the class of motorboats to which the motorboat in question belongs, after the department has further found that the motorboat would also be exempt from numbering if it were subject to the federal law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2106</num>
+      <heading>Prohibited Operation</heading>
+      <text>No Indian person shall operate any motorboat or vessel, or manipulate any water skis, surfboard, or similar device in a reckless or negligent manner so as to endanger the life, limb or property of another person.</text>
+      <text>No Indian person shall operate any motorboat or vessel, or manipulate any water skis, surfboard, or similar device while intoxicated or under the influence of any narcotic drug, barbiturate or marijuana.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2107</num>
+      <heading>Collisions, Accidents and Casualties</heading>
+      <text>It shall be the duty of the operator of a vessel involved in a collision, accident, or other casualty, so far as he can do so without serious danger to his own vessel, crew and passengers, to render to other persons affected by the collision, accident, or other casualty such assistance as may be practicable and as may be necessary in order to save them from or minimize any danger caused by the collision, accident, or other casualty; also to give his name, address and identification of his vessel in writing to any person injured and to the owner of any property damaged in the collision, accident, or other casualty.</text>
+      <text>In the case of collision, accident, or other casualty involving a vessel, the operator thereof, if the collision, accident, or other casualty results in death or injury to a person or damage to property in excess of one hundred dollars ($100), shall file with the department of the Branch of Law and Order, a full description of the collision, accident, or other casualty, including such information as said agency may, by regulation, require.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2108</num>
+      <heading>Transmittal of Information</heading>
+      <text>In accordance with any request duly made by an authorized official or agency of the United States, any information compiled or otherwise available to the department pursuant to <cite path="1|1.24|1.2407">Section 1.2407</cite> shall be transmitted to said official or agency of the United States.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2109</num>
+      <heading>Water Skis and Surfboard</heading>
+      <para>
+        <num>1.</num>
+        <text>No Indian person shall manipulate any water skis, surfboard or similar device, without wearing a life preserver of a type approved by the department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No Indian person shall operate a vessel on any waters of the Turtle Mountain Jurisdiction towing a person or persons on water skis, a surfboard, or similar device, nor shall any person engage in water skiing, surfboarding I or similar activity at any time between the hours from one (1) hour after sunset to one (1) hour before sunrise.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The provisions of Subsections (1) and (2) of <cite path="1|1.21|1.2109">this Section</cite> does not apply to a performer engaged in a professional exhibition or a person or persons engaged in an activity authorized under <cite path="1|1.24|1.2410">Section 1.2410</cite>.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No Indian person shall operate or manipulate any vessel, tow rope or other device by which the direction or location of water skis, a surfboard, or similar device may be affected or controlled in such a way as to cause the water skis, surfboard, or similar device, or any person thereon to collide with or strike against any object or person.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2110</num>
+      <heading>Regattas, Races, Marine _Parades, Tournaments, Fishing Derbies or Exhibitions</heading>
+      <para>
+        <num>1.</num>
+        <text>The Turtle Mountain Tribal Council may authorize the holding of regattas, motorboat, or other boat races, marine parades, tournaments or exhibitions on any waters of this state. It shall adopt and may, from time to time, amend regulations concerning the safety of motorboats and other vessels and persons thereon, either observers or participants. Whenever a regatta, motorboat, or other boat race, marine parade, tournament or exhibition is proposed to be held, the person in charge thereof, shall, at least ten (10) days prior thereto, file an application with the Tribal Council for permission to hold such regatta, motorboat or other boat race, marine parade, tournament or exhibition. The application shall set forth the date, time and location where it is proposed to hold such regatta, motorboat or other boat race, marine parade, tournament or exhibition, and it shall not be conducted without authorization of the tribal council.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The provisions of <cite path="1|1.21|1.2110">this section</cite> shall not exempt any Indian person from compliance with applicable federal law or regulation, but nothing contained herein shall be construed to require the securing of a state permit pursuant to <cite path="1|1.21|1.2110">this section</cite> if a permit therefore has been obtained from an authorized agency of the United States.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2111</num>
+      <heading>Owner's Civil Liability</heading>
+      <text>The Indian owner of a vessel shall be liable for any injury or damage occasioned by the negligent operation of such vessel, whether such negligence consists of a violation of the provisions of the statutes of the Turtle Mountain Jurisdiction, or neglecting to observe such ordinary care and such operation as the rules of the common law require. The Indian owner shall not be liable, however, unless such vessel is being used with his or her express or implied consent. It shall be presumed that such vessel is being operated with the knowledge and consent of the Indian owner, if at the time of the injury or damage, it is under the control of his or her spouse, father, mother, brother, sister, son, daughter, or other immediate member of the owner's family. Nothing contained herein shall be construed to relieve any other Indian person from any liability which he would otherwise have, but nothing contained herein shall be construed to authorize or permit any recovery in excess of injury or damage actually incurred.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2112</num>
+      <heading>Enforcement of Boating Regulations</heading>
+      <text>Boating regulations contained in this Code and those prescribed by the Tribal Council pursuant thereto by resolution shall be enforced by the Bureau of Indian Affairs law enforcement officers, tribal police, and tribal game wardens. Any employee of the State of North Dakota who has been duly authorized to enforce boating and fishing laws of the State shall also be authorized to enter upon any restricted Indian land and waters of the Turtle Mountain Band of Chippewa Indians and to make arrests of non-Indians for boating law violations in the same manner as on unrestricted waters of the State. Indian violators shall be prosecuted in the Turtle Mountain Tribal Court and non-Indians prosecuted in State or Federal Court as the case may require.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2113</num>
+      <heading>Penalty</heading>
+      <text>Any Indian violating any of the provisions of <cite path="1.21">this Chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred dollars ($100) or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.22</num>
+    <heading>Fishing Regulations and Penalties</heading>
+    <section>
+      <num>1.2201</num>
+      <heading>Definitions</heading>
+      <text>In <cite path="1.22">this Chapter</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"Indian Person" means Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Non-Indian" means any person other than an Indian person as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Tribal Council" means the Turtle Mountain Band of Chippewa Indians Tribal Council.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Fish" means an animal which inhabits the water, breathes by means of gills, swims by the aid of fins and is oviparous.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Possession" shall mean control, actual possession, and constructive possession of the article or thing specified.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Waters of the Turtle Mountain Jurisdiction" means any waters within the jurisdiction of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Confiscate" or "Confiscated" shall mean to hold subject to the order of a court of competent jurisdiction.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Tribal Game Warden" shall mean any person duly authorized and commissioned by the Tribal Council to enforce the Game and Fish regulations of this Code and the regulations issued pursuant thereto.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2202</num>
+      <heading>Ownership and Control of Fish Is in the Tribal Council</heading>
+      <text>The ownership of and title to all fish within the Turtle Mountain Jurisdiction shall be in the Turtle Mountain Tribal Council for the purpose of regulating the enjoyment, use, possession, disposition, and conservation thereof. Any Indian or non-Indian catching, taking or having in his possession any fish protected by law at any time or in any manner shall be deemed to have consented that the title thereto shall remain in the Tribal Council for the purpose of regulating the taking, use, possession and disposition thereof.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2203</num>
+      <heading>Enforcement of Fishing Regulations</heading>
+      <text>Fishing regulations contained in this Code and those prescribed by the Tribal Council pursuant thereto by resolution shall be enforced by the Bureau of Indian Affairs law enforcement officers, tribal police and tribal game wardens. Any employees of the State of North Dakota who has been duly authorized to enforce fishing laws of the State shall also be authorized to enter upon any restricted Indian land and waters of the Turtle Band of Chippewa Indians and to make arrests of non-Indians for fishing law violations in the same manner as on unrestricted waters of the State. Indian violators shall be prosecuted in Turtle Mountain Tribal Court and non-Indians prosecuted in State or Federal Court as the case may require.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2204</num>
+      <heading>All Non-Indians to Be Licensed</heading>
+      <text>No non-Indian over the age of fifteen (15) years shall fish in waters of the Turtle Mountain Jurisdiction unless duly licensed by the Tribal Council in accordance with this Code and the regulation issued pursuant thereto.</text>
+      <text>A non-Indian over the age of fifteen (15) years who shall violate the provisions of <cite path="1|1.22|1.2204">this Section</cite> may be proceeded against for violation of Chapter 12-41 of the North Dakota Century Code or of Section 1165, Title 18 of the United States Code as the case may warrant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2205</num>
+      <heading>Non-Indians Not Eligible for Tribal Fishing License Unless Licensed by the State of North Dakota</heading>
+      <text>Non-Indians who do not have a valid fishing license issued by the State of North Dakota in their possession shall not be eligible for a Tribal fishing license under the provisions of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2206</num>
+      <heading>Fees for Tribal Fishing License</heading>
+      <text>Fees for Tribal fishing license issued to non-Indians shall be as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Two dollars ($2) for individual non-Indian, persons over the age of fifteen (15) years;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Four dollars ($4) for non-Indian families.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2207</num>
+      <heading>Who to Issue Tribal Fishing License</heading>
+      <text>The Secretary-Treasurer of the Tribal Council and all du1y commissioned Tribal Game Wardens are hereby authorized to issue Tribal fishing licenses and to collect license fees as specified in <cite path="1|1.25|1.2506">Section 1.2506</cite> of this Code.</text>
+      <text>The Tribal Council may, by resolution, authorize any other person or persons to issue Tribal fishing licenses and collect fees as it deems necessary.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2208</num>
+      <heading>Disposition of Moneys from Sale of Fishing Licenses</heading>
+      <text>All fees or moneys collected from sales of Tribal fishing licenses by persons designated in <cite path="1|1.25|1.2507">Section 1.2507</cite> of this Code shall, on the first day of each month, excluding Saturdays, Sundays and legal holidays, be transferred to the Secretary-Treasurer of the Tribal Council for deposit in the Tribal Council's general fund.</text>
+      <text>Any Indian Tribal Game Warden who shall violate the provisions of <cite path="1|1.22|1.2208">this Section</cite> shall be deemed guilty of an offense and upon conviction thereof, shall be sentenced to labor for a period not to exceed three (3) months or to a fine not to exceed one hundred eighty dollars ($180), or to both such imprisonment and fine, with costs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2209</num>
+      <heading>Taking Fish for Bait</heading>
+      <text>No person shall take fish, other than the minnows for bait from waters of the Turtle Mountain Jurisdiction except by use of hook and line only.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2210</num>
+      <heading>Illegal to Set or Use Nets, Set Lines or Fish Traps; Exceptions</heading>
+      <text>No person except those specifically authorized by the Tribal Council shall set or use any nets, set lines, or fish traps in waters of the Turtle Mountain Jurisdiction and such nets, set lines or fish traps shall be seized by authorized enforcement officers as defined in <cite path="1|1.25|1.2503">Section 1.2503</cite> of this Code and held subject to the order of a court of competent jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2211</num>
+      <heading>Fish Houses; Requirements; Removal</heading>
+      <text>No non-Indian person shall erect, have or maintain any fish house used or to be used to protect one while engaged in fishing through the ice, or on the ice in any waters of the waters of the Turtle Mountain Jurisdiction without first obtaining and having in their immediate possession a valid Turtle Mountain Band of Chippewa Indians Tribal fishing license. Fish houses shall be permitted on the ice for the period between December fifteenth and March first and shall be subject to such rules and regulations as the Tribal Council and the North Dakota State Game and Fish Commissioner may adopt governing the construction, maintenance and use of such fish houses. Each fish house shall have inscribed on the exterior thereof, in readily distinguishable characters, at least six (6) inches high, the Tribal fishing license number and the name of the owner of the fish house. Failure to remove the fish house by March fifteenth shall be deemed an abandonment and a Tribal Court Judge may issue a court order to remove or destroy such abandoned fish houses.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2212</num>
+      <heading>Tribal Council May Prescribe Additional Regulations for Fishing</heading>
+      <text>The Tribal Council may, as it deems necessary for good fish management practices, prescribe additional fishing regulations establishing seasons, daily and possession limits, creel limits, bait, and methods of fishing, by resolution to be effective until rescinded.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2213</num>
+      <heading>Penalties Not Otherwise_Prescribed</heading>
+      <text>Any Indian who is convicted of an offense enumerated in <cite path="1.22">this Chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall be sentenced under <cite path="1|1.22|1.2213">this section</cite> to a fine of not more than one hundred dollars ($100) or to labor for a period not to exceed thirty (30) days or to both such fine and imprisonment, with costs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2214</num>
+      <heading>Penalties Applicable to Non-Indians</heading>
+      <text>Any non-Indian who violates any provision of <cite path="1.22">this Chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall forfeit his Tribal fishing license and may be proceeded against for violation of Section 1165, Title 18, of the United States Code.</text>
+      <text>Should the non-Indian violate any provision of <cite path="1.22">this Chapter</cite> which is also a violation of Title 20 of the North Dakota Century Code or any order or proclamation issued by the Governor of North Dakota pursuant thereto, may be delivered to the custody of a duly commissioned State or County law enforcement officer for prosecution under State law to the extent applicable.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.23</num>
+    <heading>Regulation and Registration of Snowmobiles</heading>
+    <section>
+      <num>1.2301</num>
+      <heading>Definitions</heading>
+      <text>In <cite path="1.23">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"Indian Person" means an Indian as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Snowmobile" means a self-propelled vehicle designed for travel on snow, ice, or a natural terrain and steered by wheels, skis, or runners.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Owner" means an Indian person, other than a lien holder, having the property in or title to a snowmobile entitled to the use or possession thereof.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Operate" means to ride in or on and control the operation of a snowmobile.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Operator" means every Indian person who operates or is in actual physical control of a snowmobile.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Register" means the act of assigning a  registration number of a snowmobile.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Roadway" means that portion of a highway, improved, designed, or ordinarily used for vehicular travel.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Dealer" means every Indian person, partnership, or corporation engaged in the business of buying, selling, or exchanging snowmobiles, or who advertises, or holds himself out to the public as engaged in the buying, selling, or exchanging of snowmobiles, or who engages in the buying of snowmobiles for resale.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2302</num>
+      <heading>Snowmobile Registration; General Requirements</heading>
+      <text>Except as hereafter provided, no Indian person shall operate a snowmobile on easements, trails, accesses, lands, lakes, rivers, or streams, within the Turtle Mountain Jurisdiction, as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code, unless such snowmobile shall: have a current distinctive number assigned to it by a motor vehicle registration department. Such registration number shall be:</text>
+      <para>
+        <num>1.</num>
+        <text>At least two (2) inches in height and of a reflective material; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Securely affixed on each side of the forward half of the snowmobile in such position as to provide clear legibility and identification. Such certificate of registration shall include information regarding the manufacturer, model, year and serial number, if such information is available; the address of the owner and the address of the former owner or the dealer, as the case may be; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>As far as is reasonably possible, such numbers shall at all times be kept free and clear of mud, ice or snow, so as to be clearly visible.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2303</num>
+      <heading>Exemption from Registration</heading>
+      <text>No registration or fees shall be required of:</text>
+      <para>
+        <num>1.</num>
+        <text>Snowmobiles owned and used by the United States, Turtle Mountain Band of Chippewa Indian Tribe, a state or its political subdivisions.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Snowmobiles registered in a country other than the United States and temporarily used within the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Snowmobiles validly licensed in another state.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2304</num>
+      <heading>Rules for Operation of Snowmobiles</heading>
+      <para>
+        <num>1.</num>
+        <text>No Indian person shall operate a snowmobile upon the roadway, shoulder or inside bank or slope of any road, street, or highway in Turtle Mountain Jurisdiction except as provided pursuant to <cite path="1.23">this Chapter</cite>. No snowmobile shall be operated at any time within the right of way of any interstate highway within the Turtle Mountain Jurisdiction except for emergency purposes.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A snowmobile may make a direct crossing of a street or highway provided:</text>
+        <para>
+          <num>a.</num>
+          <text>The crossing is made at an angle of approximately ninety (90) degrees to the direction of the highway and at a place where no obstruction prevents a quick and safe crossing; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The snowmobile is brought to a complete stop before crossing the shoulder of main traveled way of the highway; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The driver yields the right of way to all incoming traffic which constitutes an immediate hazard; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>In crossing a divided highway, the crossing is made only at an intersection of such highway with another public street or highway.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No snowmobile shall be operated unless it is equipped with at least one (1) headlamp, one (1) tail lamp, and brakes, all in working order, which conform to standards prescribed by rule of the highway commissioner pursuant to the authority vested in him by this Code and <cite path="1.23">this Chapter</cite>.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The emergency conditions under which a snowmobile may be operated other than as provided by <cite path="1.23">this Chapter</cite> shall be such as to render the use of an</text>
+        <text>automobile impractical under such conditions at such period of time and location.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>It shall be unlawful for any Indian person to drive or operate any snowmobile in the following ways which are declared to be unsafe and a public nuisance:</text>
+      </para>
+      <para>
+        <num>a.</num>
+        <text>At a rate of speed greater than reasonable or proper under all the surrounding circumstances.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>In a care1ess, reckless, or negligent manner so as to endanger the person or property of another or to cause injury or damage to such person or property.</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>While under the influence of intoxicating liquor or a controlled substance.</text>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>Without a lighted head lamp and tail lamp when required for safety.</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>In any tree nursery or planting in a manner which damages or destroys growing stock.</text>
+      </para>
+      <para>
+        <num>f.</num>
+        <text>Without a manufacturer-installed or equivalent muffler in good working order and connected to the snowmobile exhaust system.</text>
+      </para>
+      <para>
+        <num>g.</num>
+        <text>Upon any private land where the private land is posted by the owner or tenant prohibiting trespassing. The name and address of the person posting the land and the date of posting shall appear on each sign in legible characters. The posted signs shall be readable from the outside of the land and shall be placed conspicuously at a d1stance of not more than eighty rods apart, provided further that as to land entirely enclosed by a fence or other enclosure, posting of such signs at or on all gates through such fence or enclosure, shall be construed to be a posting of all such enclosed lands.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>When snowmobiles are operated within the right of way of any road, street, or highway of this state pursuant to <cite path="1.23">this Chapter</cite>, during times or conditions that warrant the use of lights, such snowmobiles shall travel in the same direction as the direction of motor vehicles traveling on the side of the roadway immediately adjacent to the side of the right of way traveled by the snowmobile.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>It shall be unlawful for any Indian person to operate a snowmobile within a highway right of way as defined in Subsection 37 of <cite path="1|1.26|1.2602">Section 1.2602</cite> between April first and November first of any year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2305</num>
+      <heading>Rules for Operation of Snowmobiles in Belcourt, North Dakota or Other Unorganized Town or Settlement Within the Turtle Mountain Jurisdiction</heading>
+      <text>No person shall operate a snowmobile on the street or alleys of Belcourt, North Dakota or other unorganized town or settlement within the Turtle Mountain Jurisdiction except as provided by <cite path="1|1.23|1.2305">this Section</cite>.</text>
+      <para>
+        <num>1.</num>
+        <text>Indian operators of snowmobiles may use streets and alleys to leave the town limits and/or to return to their places of residences, by the most direct route only.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Snowmobiles shall not be operated in excess of fifteen (15) miles per hour and shall yield to all automobile traffic and shall observe all traffic controls.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Snowmobiles shall not be operated unless equipped with standard factory muffler that meets the J-192 SAE noise standard of 90 db on the A scale, at least one head lamp, one tail lamp, and brakes, all in working order.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Snowmobiles may be used on the streets in case of an emergency and when weather and street conditions make the use of automobiles impractical.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Snowmobiles shall not be operated so as to trespass upon any private property or public grounds without consent of the owner, and shall not be operated as to run over any tree, shrub or nursery planting in any park, berm, vacant lot, private property or public property.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Snowmobiles shall not be operated in a careless manner as likely to endanger any person or any property.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Snowmobiles shall not be operated in a reckless manner as to cause injury or damage to any person or any property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2306</num>
+      <heading>Crash Helmets Required for Operators of and Passengers on Snowmobiles</heading>
+      <text>Every Indian operator and Indian passenger on a snowmobile shall at all times when such snowmobile is in motion be required to wear on their head, a crash helmet of a type and meeting the standards approved and established by the North Dakota motor vehicle registrar.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2307</num>
+      <heading>Owner's Civil Liability</heading>
+      <text>The Indian owner of a snowmobile shall be liable for any injury or damage occasioned by the negligent operation of such snowmobile whether such negligence consists of a violation of the provisions of the statutes of the Turtle Mountain Jurisdiction, or neglecting to observe such ordinary care and such operation as the rules of the common law require. The Indian owner shall not be liable, however, unless such snowmobile is being used with his or her express or implied consent. It shall be presumed that such snowmobile is being operated with the knowledge and consent of the Indian owner, if at the time of the injury or damage, it is under the control of his or her spouse, father, mother, brother, sister, son, daughter, or other immediate member of the owner's family. Nothing contained herein shall be construed to relieve any other Indian person from any liability which he would otherwise have, but nothing contained herein shall be construed to authorize or permit any recovery in excess of injury or damage actually incurred.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2308</num>
+      <heading>Enforcement of Snowmobile Regulations</heading>
+      <text>Snowmobile regulations contained in this Code and those prescribed by the Tribal Council pursuant thereto by resolution shall be enforced by the Bureau of Indian Affairs law enforcement officers, tribal police, and tribal game wardens. Any employee of the State of North Dakota who has been duly authorized to enforce snowmobile regulations or laws of the State shall also be authorized to enter upon any restricted Indian land and waters of the Turtle Mountain Band of Chippewa Indians and make arrest of non-Indians for snowmobile law violations in the same manner as on unrestricted lands or waters of the State. Indian violators shall be prosecuted in the Turtle Mountain Tribal Court and non-Indians prosecuted in State or Federal Court as the case may require.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.2309</num>
+      <heading>Penalty</heading>
+      <text>Any Indian violating any of the provisions of <cite path="1.23">this Chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred ($100) dollars or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

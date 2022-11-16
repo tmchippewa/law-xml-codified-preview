@@ -1,0 +1,1539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>56</num>
+  <heading>Medical Marijuana Control Act</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>56.0101</num>
+      <heading>Short Title</heading>
+      <text><cite path="56">This Title</cite> may be cited as the Medical Marijuana Control Act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0102</num>
+      <heading>Findings and Purpose</heading>
+      <text>The Turtle Mountain Band of Chippewa ("Tribe") hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The United States recognizes the Indian tribes as sovereigns retaining jurisdiction over their members and territories.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Preamble and Article IX, Section 3 of the Turtle Mountain Band of Chippewa Tribe Constitution authorizes the governing body of the Tribe to engage in business activities which promote the economic well-being of the Tribe and its members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On August 29, 2013, U.S. Department of Justice Deputy Attorney General James M.  Cole issued a memorandum to all United States Attorneys providing updated guidance to federal prosecutors concerning Marijuana enforcement under the federal Controlled Substances Act. The guidance memorandum applies to all of the Department of Justice's federal enforcement activity, including civil enforcement and criminal investigations and prosecutions, concerning Marijuana in all states. The guidance memorandum reiterates Congress's determination that Marijuana is a dangerous drug and that the illegal distribution and sale of Marijuana is a serious crime that provides a significant source of revenue to large-scale criminal enterprises, gangs, and cartels. The guidance memorandum notes that the Department of Justice is committed to enforcement of the Controlled Substances Act consistent with those determinations. It also notes, in representing that Congress has not pre-empted the field of legalizing or regulating Marijuana, that the Department of Justice is committed to using its investigative and prosecutorial resources to address the most significant threats in the most effective, consistent, and rational way. In furtherance of those objectives, the guidance memorandum provides guidance to the Department of Justice attorneys and law enforcement to focus their enforcement resources on persons or organizations whose conduct interferes with any one or more of the following important priorities:(a) preventing the distribution of Marijuana to minors; (b) preventing revenue from the sale of Marijuana from going to criminal enterprises, gangs, and cartels; (c) preventing the diversion of Marijuana from states where it is legal under state law in some form to other states; (d) preventing state-authorized Marijuana activity from being used as a cover or pretext for the trafficking of other illegal drugs or other illegal activity; (e) preventing violence and the use of firearms in the cultivation and distribution of Marijuana; (f) preventing drugged driving and the exacerbation of other adverse public health consequences associated with Marijuana use; (g) preventing the growing of Marijuana on public lands and the attendant public safety and environmental dangers posed by Marijuana production on public lands; and (h) preventing Marijuana possession or use on federal property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>On October 28, 2014 the United States Department of Justice, Executive Office for United States Attorneys Director Monty Wilkinson issued a memorandum to all United States Attorneys entitled "Policy Statement Regarding Marijuana Issues in Indian Country." This memorandum states that the eight priorities in the August 29, 2013 guidance memorandum will also guide United States Attorneys' Marijuana enforcement efforts in Indian Country, including in the event that sovereign Indian Nations seek to legalize the cultivation or use of Marijuana in Indian Country. This memorandum states each United States Attorney should consult with the affected tribes on a government-to- government basis when evaluating Marijuana enforcement activities in Indian Country.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On November 8, 2016, the citizens of the State of North Dakota, which neighbors the Tribe on all sides, passed an Initiative measure which shall become effective on December 8, 2016, legalizing Marijuana for medical and health related purposes in the State.  Due to the complex patterns of jurisdiction imposed on the Tribe by the United States and the State of North Dakota, the use of Marijuana under federal and State laws will be nearly impossible to control or regulate by the Tribe.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Turtle Mountain Band of Chippewa has decided to make the medical use of Marijuana legal and lawful within its jurisdiction as an internal tribal matter for purposes of use, possession, consumption, cultivation, processing, distribution and research by enacting <cite path="56">this Title</cite> to the TMBCI Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0103</num>
+      <heading>Control of Marijuana</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="56">This Title</cite> shall govern the cultivation, processing, and distribution of Marijuana on the reservation, will increase the ability of Tribe to control the possession and consumption of Marijuana on the reservation, and will provide an additional source of revenue for regulating and controlling Marijuana and drug related activity.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal regulation of the possession, consumption, cultivation, processing, distribution, and research of Marijuana on the reservation is necessary to protect the health, security, and general welfare of the Tribal community, and to address tribal concerns relating to use of Marijuana on the reservation. In order to further these goals and to provide an additional source of governmental revenue, the Tribe has adopted <cite path="56">this Title</cite>, which shall be liberally construed to fulfill the purposes for which it has been adopted.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in <cite path="56">this Title</cite> shall be deemed by the Tribe Judiciary or law enforcement to be in positive conflict with the federal Controlled Substances Act, 21 U.S.C. section 801 <em>et seq</em>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in <cite path="56">this Title</cite> shall be deemed to legalize or create a right to use, grow, harvest, process, or distribute Marijuana for recreational purposes.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0104</num>
+      <heading>Sovereign Immunity</heading>
+      <text>Nothing in <cite path="56">this Title</cite> shall be construed to limit the jurisdiction of the Tribe, the Court or law enforcement personnel and nothing herein shall limit or constitute a waiver of the sovereign immunity of the Tribe or its officers, instrumentalities, employees, elected officials, and agents or authorize any form a prospective waiver of such sovereign immunity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0105</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="56">this Title</cite>, the following words shall have the following meanings unless the context clearly requires otherwise:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Critical fluid extraction Marijuana concentrate" means a Marijuana concentrate that was produced by extracting cannabinoids from Marijuana through the use of a hydrocarbon solvent, such as butane or propane, Carbon Dioxide, or substantially similar process.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Cultivation" means the preparing and growing of the plant Cannabis, commonly known as Marijuana.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Cultivation facility" means any business under the jurisdiction of the Tribe that acquires, possesses, cultivates, delivers, transfers, transports, supplies or sells Marijuana and related supplies to another cultivation facility, a processing facility or distribution facility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Distribution facility" means any business under the jurisdiction of the Tribe that acquires, possesses, delivers, transfers, transports, supplies, sells or dispenses Marijuana or related supplies and educational materials to the holder of a valid Registration card.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Fat-based Marijuana concentrate" means a Marijuana concentrate that was produced by extracting cannabinoids from Marijuana through the use of butter, olive oil or other typical cooking fats as a solvent.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Foreign cultivation facility" means a cultivation facility that is not under the jurisdiction the Tribe.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Inventory control" means a process that monitors the chain of custody of Marijuana from the point of cultivation to the consumer.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Licensed" means holding a valid license issued by the Commission.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Management employees" means those employees who serve in a supervisory role of some nature and are at least 25 years old.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Marijuana" refers to the plant Cannabis, including constituents of the plant, the preparation of the plant, and the final primary product of the plant for use or consumption.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>cultivating or harvesting, processing, or distributing Marijuana or Marijuana Product.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Marijuana concentrate" means specific subset of Marijuana that was produced by extracting cannabinoids from Marijuana. Types of Marijuana concentrates include water- based Marijuana concentrates, solvent-based Marijuana concentrates, critical fluid extraction Marijuana concentrates and fat-based Marijuana concentrates.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Marijuana Employee License" means a license issued by the Marijuana Control Commission and required prior to working in a Marijuana Business.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Marijuana product" means a product that contains Marijuana or an extract thereof and is intended for use or consumption other than by smoke inhalation, including but not limited to foodstuffs, extracts, oils, tinctures and other similar products.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Processing" means the harvesting of the plant Cannabis or the use of any process or equipment, including but not limited to dehydrators or humidifiers that may be necessary to convert raw Marijuana plants or plant parts into a consumable product.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Processing facility" means any business under the jurisdiction of the Tribe at which Marijuana is processed for supply to a distribution Facility.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Registration card" means a document issued by the Commission or by a licensed medical provider that identifies a person as having registered to consume Marijuana. Such registrant will also be exempt from prosecution by the Tribe for engaging in the use of Marijuana.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Reservation" means all lands described or referenced in the Tribe's Constitution; all lands over which the Tribe retains jurisdiction; all lands held by the United States of America in trust for the Tribe; and any lands which may in the future come within the jurisdiction of the Tribe by any lawful means.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Shipping container" means any container or wrapping used solely for the transport of Marijuana product to a distribution facility.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Solvent-based Marijuana concentrate" means a Marijuana Concentrate that was produced by extracting cannabinoids from Marijuana through the use of glycerin, isopropyl alcohol, ethanol, or propylene glycol as a solvent.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"State" means the State of North Dakota.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Tribe" means the Turtle Mountain band of Chippewa, and "Tribal" means of that Tribe.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Tribal Court" means the Judiciary or tribal courts of the Tribe as established pursuant to the Constitution and Code.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Use of Marijuana" means personal use of Marijuana.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Water-based Marijuana concentrate" means a Marijuana Concentrate that was produced by extracting cannabinoids from Marijuana through the use of only water or ice.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.02</num>
+    <heading>Prohibited Acts and Affirmative Defenses</heading>
+    <section>
+      <num>56.0201</num>
+      <heading>Exemption from Prosecution for Certain Acts</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who holds a valid Registration card is exempt from prosecution or civil penalty imposed by the Commission or in the Tribal Court for:</text>
+        <para>
+          <num>(1)</num>
+          <text>Use of Marijuana, planting or seeding, cultivating or harvesting, possession, delivery, production, or conducting licensed research and development of Marijuana.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Aiding and abetting another holder of a valid Registration card in the personal use of Marijuana, or in the licensed possession, delivery, or production of Marijuana.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any other criminal offense in which the use, possession, delivery, or production of Marijuana is an element.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person may be subject to prosecution or civil penalty imposed by the Commission or by the Tribal Court for constructive possession, conspiracy, or any other criminal offense solely for being in the presence or vicinity of the use of Marijuana in accordance with the provisions of <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No employee of a Marijuana Business shall be subject to prosecution or civil penalty in the Tribal Court for the cultivation, production or distribution of Marijuana in accordance with <cite path="56">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0202</num>
+      <heading>No Exemption from Prosecution for Certain Acts</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who holds a valid Registration card is not exempt from prosecution or civil penalty imposed by the Commission or by the Tribal Court for:</text>
+        <para>
+          <num>(1)</num>
+          <text>Driving, operating or being in actual physical control of a vehicle under power while under the influence of Marijuana.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Knowingly delivering Marijuana to another person who does not lawfully hold a valid Registration card.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Delivering Marijuana in exchange for money or for consideration to any person, regardless of whether the recipient lawfully holds a valid Registration card.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0203</num>
+      <heading>Minors</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be unlawful for any marijuana cultivation facility, distribution facility or processing facility to employ any person who is not at least twenty (21) years of age.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Persons under the age of eighteen (18) years shall not be allowed on the premises of any Marijuana cultivation facility, distribution facility, or processing facility.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Minors who have a medical physician' written recommendation may consume Marijuana under the supervision of a parent or guardian with legal custody of the minor.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0204</num>
+      <heading>Deleterious Outcomes</heading>
+      <text>The Tribe, including its officers, employees, agents, representatives, successors, and assigns, shall not be held responsible for any deleterious outcomes from the use of Marijuana by any person.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.03</num>
+    <heading>Licensing</heading>
+    <section>
+      <num>56.0301</num>
+      <heading>Marijuana Businesses; Operating Fee</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each Marijuana Business under the jurisdiction of the Tribe shall be organized under tribal law, licensed by the Tribe, and subject to Commission regulations and enforcement actions.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission shall determine by formally adopted regulation the appropriate number of Marijuana Businesses, subject to law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A Marijuana Business shall meet all licensing requirements under <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Every Marijuana Business shall pay quarterly to the Commission an operating fee equal to 6% percent of its total income from all sources derived from licensed activities as a Marijuana Business.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The operating fee assessed under <cite path="56|56.03|56.0301">this section</cite> shall be due and payable on the fifteenth day following the close of the fiscal quarter and shall be subject to interest and applicable penalties.  A penalty of 20% percent of the amount of any underpayment shall be added to the fee. For purposes of <cite path="56|56.03|56.0301">this section</cite>, the underpayment amount shall be equal to the difference between the total amount of the operating fee imposed by <cite path="56|56.03|56.0301">this section</cite> less the amount paid.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>All operating fees shall be remitted to the Commission, which shall keep accurate records of all such receipts, and the Commission shall then deposit all such fees into the Tribe's General Account for Commission operating expenses, Judiciary, and drug-related law enforcement.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0302</num>
+      <heading>Licensure Requirement</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every employee of a Marijuana Business shall be required to obtain from the Commission a Marijuana Employee License as a prerequisite to such employment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The application for a Marijuana Employee License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, email address, social security number and date of birth of the applicant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof that the applicant is at least twenty-one (21) years of age.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A current photograph of the applicant;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Documentation establishing that the applicant has not been convicted of any felony offense or within the past ten (10) years of a misdemeanor involving a drug related offense or embezzlement from the Tribe.  A conviction within the meaning of this subsection means a plea or verdict of guilty or a conviction following a plea of nolo contendere;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Currently and for the previous five (5) years: business and employment positions held, ownership interests in those businesses, business and residence addresses, and driver's license numbers;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A complete set of the applicant's fingerprints and written permission of the applicant authorizing the Commission or its designee to forward the fingerprints to the Federal Bureau of Investigation for its report;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The names, telephone numbers, email address and current physical address of at least three (3) references, including at least one (1) professional reference;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Written permission of the applicant authorizing the Commission or its designee to seek verification of the information contained within the application;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>A statement in writing that the applicant pledges to not dispense or otherwise divert Marijuana to any person or entity that is not allowed to lawfully possess Marijuana;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>A statement in writing that the applicant has read <cite path="56">this Title</cite>, Commission regulations, and certifies under penalty of perjury that all the information contained in the application is true and correct; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Any other information the Commission deems relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each Marijuana Employee License shall include the following printed statement and the application for the license shall require the individual applicant to acknowledge in writing the following warning:</text>
+      </para>
+      <text>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0303</num>
+      <heading>Term, Renewals and Fees</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise sooner suspended or revoked, a Marijuana Employee License shall expire three (3) years following its issuance. A person may re-apply for a Marijuana Employee License for subsequent periods of three (3) years.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>application for a Marijuana Employee License or renewal shall be accompanied by a nonrefundable license fee, as established by law by the Council or adopted by the Commission from time to time.  The initial license fee shall be $40.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All license fees shall be remitted to the Commission, which shall keep accurate records of all such receipts, and which shall be deposited into the Tribe general account for use by the Commission, Judiciary, or drug-related law enforcement.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The license fee shall not include fingerprinting, photographing or background check costs and shall be in addition to any other actual costs or fees imposed by the Commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0304</num>
+      <heading>Eligibility Determination</heading>
+      <text>The Commission shall review an applicant's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility for employment in a cultivation facility, distribution facility or processing facility.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0305</num>
+      <heading>Grounds for Denial of Marijuana Employee License</heading>
+      <text>The grounds for denial of a Marijuana Employee License shall be one or more of the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>The applicant, within the past three (3) years, has violated <cite path="56">this Title</cite> or any state law, statute, rule or regulation relating to the cultivation, processing or distribution of Marijuana.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The applicant has knowingly made a false statement of material fact or has knowingly omitted to state a material fact in the application for a Marijuana Employee License.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The applicant has been convicted of a felony offense or within the past three (10) years of a misdemeanor involving embezzlement against the Tribe or a drug related offense. A conviction within the meaning of this subsection means a plea or verdict of guilty or a conviction following a plea of nolo contendere.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A determination by the Commission that employment of the applicant poses a threat to the public interest or to the effective regulation of Marijuana.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The applicant is under twenty-one (21) years of age.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The required application or renewal fees have not been paid within a reasonable time.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0306</num>
+      <heading>Reconsideration of Denial</heading>
+      <para>
+        <num>(a)</num>
+        <text>An applicant denied a Marijuana Employee License following normal Commission procedures may seek reconsideration of such decision to the full Commission by filing a written petition for reconsideration with the Commission Chairman, and copying the Tribal Chairman, within thirty (30) calendar days of service of the written notice of decision.  If a petition for reconsideration is not filed within such time, the Commission's decision shall be final.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Following review of the petition for reconsideration, the Council may issue the Marijuana Employee License subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Tribe and its tribal members or it may deny the issuance of the Marijuana Employee License for any of the grounds specified in <cite path="56">this Title</cite>. The decision of the Council shall be final and not subject to judicial review.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0307</num>
+      <heading>License Suspension or Revocation</heading>
+      <para>
+        <num>(a)</num>
+        <text>If, after the issuance of a Marijuana Employee License, the Commission receives credible and reliable information indicating that an employee is not or is no longer eligible for employment under subsection 29-3-40 above, the Commission shall suspend such license and shall notify in writing the licensee of the suspension and pending revocation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person whose Marijuana Employee License has been suspended shall notify the licensee of a time and a place for a hearing on the suspension and pending revocation of a license.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After a suspension and pending revocation hearing, the Commission shall decide to revoke or to reinstate a Marijuana Employee License. The decision of the Commission shall be final for purposes of judicial review.  The Court shall not have the power to impose an injunction upon the effect of a suspension or revocation but may, after a full hearing on the merits of a revocation, order dissolution of the revocation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0308</num>
+      <heading>Reinstatement</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person who has had a Marijuana Employee License revoked may have the license restored or receive a new license but upon order of the Court or of the Commission after the filing of a petition for reinstatement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person may petition for reinstatement until the expiration of at least one (1) year from the effective date of the revocation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The petitioner will have the burden of proving by clear, cogent, and convincing evidence that,</text>
+        <para>
+          <num>(1)</num>
+          <text>the petitioner meets the criteria requirements of <cite path="56.03">Chapter 56.03</cite> of <cite path="56">this title</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the petitioner has reformed, rehabilitated or otherwise overcome the issue or issues underpinning the revocation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>permitting the petitioner to resume employment will not be detrimental to the integrity of the Tribe or to the public interest; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the petitioner paid all fees required under <cite path="56|56.03|56.0303">Section 56.0303</cite> of <cite path="56">this title</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.04</num>
+    <heading>Cultivating Marijuana</heading>
+    <section>
+      <num>56.0401</num>
+      <heading>Cultivation Facility Operating Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each cultivation facility shall establish written operating procedures for the cultivation of Marijuana. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The manner in which all pesticide and other agricultural chemicals are to be applied during its cultivation process;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The equipment and methods employed in the cultivation of the Marijuana;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>How the cultivated Marijuana will be transported to a processing facility or distribution facility;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The measures taken to minimize or offset energy use from the cultivation of Marijuana;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The manner in which chemicals will be stored and used at the premises;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The type and quantity of all effluent discharged into the Tribe's wastewater or storm-water system;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The hours and days of the week the cultivation facility will be open;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The number of persons per shift who will be working at the cultivation facility;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The security measures that will be employed at the premises, including but not limited to licensed and uniformed guards, lighting, alarms, surveillance, and automatic law enforcement notification; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any other information required by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A copy of all operating procedures must be maintained and be publicly available at every cultivation facility.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0402</num>
+      <heading>On-Site Consumption</heading>
+      <text>The use or consumption of Marijuana shall be prohibited at each cultivation facility.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0403</num>
+      <heading>Quality Assurance; Adulteration Prohibited</heading>
+      <text>Within twelve months of the establishment of this ordinance, all Marijuana cultivated must be tested for safety and quality assurance. A cultivation facility may not treat or otherwise adulterate Marijuana with any chemical or other compound whatsoever to alter its color, appearance, weight, or smell.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0404</num>
+      <heading>Research and Development</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except for research and development conducted by the Turtle Mountain Community College, all facilities or operations that cultivate Marijuana for research, testing or distribution to patients or primary caregivers shall be considered a commercial cultivation facility and shall be subject to all applicable regulations and limitations for a cultivation facility.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All research and development shall be registered with the Turtle Mountain Office of Tribal Nation's Research Group.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The cultivation of locally-grown and organic Marijuana is encouraged.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0405</num>
+      <heading>Precautions and Specific Requirements</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every cultivation facility shall take all reasonable measures and precautions to ensure that the following requirements are met:</text>
+        <para>
+          <num>(1)</num>
+          <text>All cultivation of Marijuana that a cultivations facility carries out or causes to be carried out must take place in an enclosed, locked structure or building.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other abnormal source of microbial contamination for whom there is a reasonable possibility of contact with Marijuana shall be excluded from any operations which may be expected to result in such contamination until the condition is corrected.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All persons working in direct contact with Marijuana shall conform to hygienic practices while on duty, including but not limited to, maintaining sufficient personal cleanliness.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Litter and waste shall be properly removed and the operating systems for waste disposal shall be maintained in an adequate manner so that they do not constitute a source of contamination in areas where Marijuana is exposed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>All floors, walls, and ceilings shall be constructed in such a manner that they may be adequately cleaned and kept clean and kept in good repair.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adequate lighting shall be required in all areas where Marijuana is stored.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Adequate screening or other protection against the entry of pests shall be made. Rubbish shall be disposed of so as to minimize the development of odor and minimize the potential for the waste becoming an attractant, harborage, or breeding place for pests.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All buildings, fixtures, and other facilities shall be maintained in a sanitary condition.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Pesticide chemicals shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this Title</cite> and any applicable tribal or federal law, rule, or regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Cultivation facilities shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>The display or sale of paraphernalia employed in the use or consumption of Marijuana or any implement that may be used to administer, use, inhale, consume, smoke or ingest Marijuana, is prohibited at the cultivation facility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The cultivation of Marijuana shall not adversely affect the health or safety of the employees, or the facility in which it is cultivated or processed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The cultivation area shall occur only within a self-contained structure that is adequately ventilated.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The cultivation facility shall comply with storm-water, wastewater, and other requirements of the Tribe.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The water supply shall be sufficient for the operations intended and shall be derived from a source that is a regulated water system. Private water supplies shall be derived from a water source that is capable of providing a safe, potable, and adequate supply of water to meet the facility's needs.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The plumbing shall be of adequate size and design and adequately installed and maintained to carry sufficient quantities of water and that shall properly convey sewage and liquid disposable waste from the cultivation facility. There shall be no cross-connections between the potable and waste water lines.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging, and storing of Marijuana or Marijuana product shall be conducted in accordance with adequate sanitation principles.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Every cultivation facility shall provide its employees with adequate and readily accessible toilet facilities that are maintained in a sanitary condition and good repair.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>All hand-washing facilities shall be adequate and convenient and be furnished with running water at a suitable temperature. Hand-washing facilities shall be located in the cultivation facility and where good sanitary practices require employees to wash and/or sanitize their hands, and provide effective hand- cleaning and sanitizing preparations and sanitary towel service or suitable drying devices.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Marijuana that can support the rapid growth of undesirable microorganisms shall be held in a manner that prevents the growth of these microorganisms.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.05</num>
+    <heading>Processing Marijuana</heading>
+    <section>
+      <num>56.0501</num>
+      <heading>Processing Facility Operating Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each processing facility shall establish written operating procedures for the processing of Marijuana. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>All applicable provisions contained in Section 29-4-10.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>How the Marijuana will be transported from a processing facility to a distribution facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The procedure and documentation process for determining patient dosage including testing for the major active agents in the Marijuana product (e.g., cannabinoids Tetrahydrocannabinol (THC), Cannabinol (CBD) and Cannabinol (CBN)).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Require standards for the processing Marijuana into food and other edibles by cooking, baking, infusing, or grinding. Such standards shall be no less stringent than the standards adopted or use of the United States Public Health Service, if any.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Require standards for the packaging of edibles and other similar products. Such packaging shall be nondescript and shall not mimic, resemble or be representational of candy, cookies or other food products that might attract or entice children.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0502</num>
+      <heading>Food Safety Course</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who processes Marijuana into food and other edibles shall be required to provide evidence of completion of a food safety course offered at the Turtle Mountain Community College or other accredited institution that includes basic food handling training and is comparable to a course offered by a state or county public health agency.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any course taken pursuant to this rule must last at least two hours and cover the following subjects:</text>
+        <para>
+          <num>(1)</num>
+          <text>Causes of foodborne illness, highly susceptible populations and worker illness;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personal hygiene and food handling practices;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Approved sources of food;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Potentially hazardous foods and food temperatures;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Sanitization and chemical use; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Emergency procedures (fire, flood, sewer backup).</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0503</num>
+      <heading>Quality Assurance</heading>
+      <text>Within twelve months of the establishment of this ordinance, Marijuana processed and each Marijuana product must be tested for safety and quality assurance, including but limited to, potency testing, residual solvents testing, microbial testing, aflatoxin testing, pesticide testing, and heavy metal testing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0504</num>
+      <heading>Precautions and Specific Requirements</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every processing facility shall take all reasonable measures and precautions to ensure that the following requirements are met:</text>
+        <para>
+          <num>(1)</num>
+          <text>All processing of Marijuana that a processing facility carries out or causes to be carried out must take place in an enclosed, locked structure or building.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other abnormal source of microbial contamination for whom there is a reasonable possibility of contact with Marijuana shall be excluded from any operations which may be expected to result in such contamination until the condition is corrected.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All persons working in direct contact with Marijuana shall conform to hygienic practices while on duty, including but not limited to, maintaining sufficient personal cleanliness.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Litter and waste shall be properly removed and the operating systems for waste disposal shall be maintained in an adequate manner so that they do not constitute a source of contamination in areas where Marijuana is exposed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>All floors, walls, and ceilings shall be constructed in such a manner that they may be adequately cleaned and kept clean and kept in good repair.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adequate lighting shall be required in all areas where Marijuana is stored.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Adequate screening or other protection against the entry of pests shall be made. Rubbish shall be disposed of so as to minimize the development of odor and minimize the potential for the waste becoming an attractant, harborage, or breeding place for pests.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All buildings, fixtures, and other facilities shall be maintained in a sanitary condition.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Toxic cleaning compounds, sanitizing agents, solvents used in the production of Marijuana concentrates shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this Title</cite> and any applicable tribal, state, or federal law, rule, or regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Processing facilities shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>There shall be no on-site use or consumption of Marijuana;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The display or sale of paraphernalia employed in the use or consumption of Marijuana or any implement that may be used to administer, use, inhale, consume, smoke or ingest Marijuana, is prohibited at the processing facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The processing of Marijuana shall not adversely affect the health or safety of the employees, or the facility in which it is cultivated or processed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The processing area shall occur only within a self-contained structure that is adequately ventilated.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The processing facility shall comply with storm-water, wastewater, and other requirements of the Tribe.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The water supply shall be sufficient for the operations intended and shall be derived from a source that is a regulated water system. Private water supplies shall be derived from a water source that is capable of providing a safe, potable, and adequate supply of water to meet the facility's needs.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The plumbing shall be of adequate size and design and adequately installed and maintained to carry sufficient quantities of water and that shall properly convey sewage and liquid disposable waste from the processing facility. There shall be no cross-connections between the potable and waste water lines.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging, and storing of Marijuana or Marijuana product shall be conducted in accordance with adequate sanitation principles.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Every processing facility shall provide its employees with adequate and readily accessible toilet facilities that are maintained in a sanitary condition and good repair.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>All hand-washing facilities shall be adequate and convenient and be furnished with running water at a suitable temperature. Hand-washing facilities shall be located in the cultivation facility and where good sanitary practices require employees to wash and/or sanitize their hands, and provide effective hand- cleaning and sanitizing preparations and sanitary towel service or suitable drying devices.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>All contact surfaces, including utensils and equipment used for the preparation of a Marijuana product, shall be cleaned and sanitized as frequently as necessary to protect against contamination. Equipment and utensils shall be so designed and of such material and workmanship as to be adequately cleanable, and shall be properly maintained.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0505</num>
+      <heading>Marijuana Concentrates</heading>
+      <para>
+        <num>(a)</num>
+        <text>A processing facility may produce the following concentrates:</text>
+        <para>
+          <num>(1)</num>
+          <text>Water-Based Marijuana Concentrates;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fat-Based Marijuana Concentrates;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Solvent-Based Marijuana Concentrate; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Critical Fluid Extraction Marijuana Concentrates, provided the solvents used in this process only include N-Butane, Iso-Butane, Propane, Heptane, or Carbon Dioxide.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A processing facility that engages in the production of Marijuana concentrates, regardless of the method of extraction or type of concentrate being produced, must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Ensure that the space in which any Marijuana Concentrate is to be produced is a fully enclosed room and clearly designated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Establish a standard operating procedure for each method used to produce a Marijuana concentrate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Establish written quality control procedures designed to minimize any potential risks to employees or contamination of Marijuana products.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Ensure that all equipment used in the production of a Marijuana concentrate is food-grade, including ensuring that all counters and surface areas were constructed in such a manner that it reduces the potential for the development of microbials and mold and can be easily cleaned.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Ensure that all equipment, counters, and surfaces used in the production of a Marijuana concentrate is thoroughly cleaned after the completion of each production of a Marijuana concentrate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Have a comprehensive training manual that provides step-by-step instructions for each method used to produce a Marijuana concentrate. The training manual must include, but need not be limited to, all standard operating procedures, quality control procedures and safety procedures for each method of production, instructions on the appropriate use and maintenance of all equipment involved in each process, and any cleaning required to comply with all applicable sanitary rules.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Provide adequate training prior to individual engaging the production of a Marijuana Concentrate. Adequate training must include, but need not be limited to, providing the appropriated employee or volunteer with the training manual and live, in-person instruction detailing safety procedures for each method of production, instructions on the appropriate use and maintenance of all equipment involved in the process, and any cleaning required to maintain compliance with all applicable sanitary rules.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Maintain clear and comprehensive records that document every phase of each step in the production of the Marijuana concentrate, which must include the name and license number of every employee or volunteer that worked on the production of that Marijuana concentrate.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Ensure that the room in which Marijuana concentrate shall be produced contains an emergency eye-wash station.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>With respect to Critical Fluid Extraction Marijuana Concentrates, the processing facility must also ensure that the facility and all equipment used in production of the Critical Fluid Extraction Marijuana Concentrate meets the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>A professional grade, closed-loop extraction system capable of recovering the solvent used.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a pressurized extraction system is utilized, then every vessel in the system must be rated to a minimum of nine hundred pounds per square inch.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A sufficient fume hood and exhaust system is installed in the room in which a Critical Fluid Extraction Marijuana Concentrate shall be produced and that the system is fully functioning prior to the production a Critical Fluid Extraction Marijuana Concentrate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All flammable material used in the production of a Critical Fluid Extraction Marijuana Concentrate are stored in a storage-tank designed to hold flammable material and is outside of the room in which the concentrates are to be produced.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A sufficient fire-suppression system is installed in the room in which a Critical Fluid Extraction Marijuana Concentrate shall be produced and that the system is fully functioning prior to the production a Critical Fluid Extraction Marijuana Concentrate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A hydro-carbon gas monitoring system, a CO2 Gas monitoring system or both, depending on the type of Marijuana Concentrate to be produced, with emergency shutdown relays is installed in the room in which a Critical Fluid Extraction Marijuana Concentrate shall be produced and that the system is fully functioning prior to the production a Critical Fluid Extraction Marijuana Concentrate.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The room in which a Critical Fluid Extraction Marijuana Concentrate shall be produced is a spark-free environment.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The room in which a Critical Fluid Extraction Marijuana Concentrate shall be produced contains an emergency shower.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Ensure that all fluids used in the extraction process are food-grade and 99% pure.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Establish a standard operating procedure for each type of Critical Fluid Extraction Marijuana Concentrate to be produced that is designed to maximize employee safety and minimize potential contamination of products with residual solvents or microbials and mold.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.06</num>
+    <heading>Distributing Marijuana</heading>
+    <section>
+      <num>56.0601</num>
+      <heading>Distribution Facility Operating Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each distribution facility shall establish written operating procedures for the distribution of Marijuana. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>All applicable provisions contained in Sections 29-4-10 and 29-5-10.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the screening, registration, and validation process for consumers.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A description of consumer records acquisition and retention procedures.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The process for tracking Marijuana quantities and inventory controls.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The procedure and documentation process for assuring the safety and quality of all Marijuana and Marijuana products (including, but not limited to, testing for bacteria, mold, pesticides and other contaminants).</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The procedure and documentation process for determining patient dosage including testing for the major active agents in the Marijuana (e.g., cannabinoids Tetrahydrocannabinol (THC), Cannabidiol (CBD) and Cannabinol (CBN).</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0602</num>
+      <heading>Access</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only distribution facility employees, holders of a valid Registration card and persons with bona fide purposes for visiting the premises shall be permitted access into a distribution facility.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Potential customers shall not visit any distribution facility without first having obtained a valid Registration card.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All other visitors shall remain in a designated waiting area in the distribution facility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Notwithstanding these requirements, nothing shall prohibit tribal law enforcement from entering any area of the facility upon presentation of official credentials identifying them as such.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0603</num>
+      <heading>Duties of Distribution Facility</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each distribution facility shall ensure all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The weight, concentration, and content of THC in all Marijuana, edible Marijuana products that the distribution facility sells is clearly and accurately stated on the product sold.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the distribution facility does not sell to a person, in any one 2 hour period, an amount of Marijuana that exceeds 1 gram of usable Marijuana, 1 gram of Marijuana product, or 1/10 gram of Marijuana concentrate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That, posted clearly and conspicuously within the distribution facility, are the limits on the possession of Marijuana, as set forth in subsection (2).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each distribution facility shall be staffed with at least one person during hours of operation who shall not be responsible for dispensing Marijuana. The distribution facility shall have a responsible person who shall be at least twenty-one (21) years of age and shall be on the premises to act as manager at all times during which the distribution facility is open to the public or any portion thereof.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0604</num>
+      <heading>Precautions and Specific Requirements</heading>
+      <para>
+        <num>(a)</num>
+        <text>The distribution facility shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>The distribution facility shall only distribute Marijuana or Marijuana products to holder of a valid Registration card.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The distribution facility shall display rules and regulations in a conspicuous place that is readily seen by all persons entering the distribution facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There shall be no on-site use or consumption of Marijuana, except in a designated area. Each building entrance to the distribution facility shall be clearly and legibly posted with a notice indicating that smoking, ingesting or consuming Marijuana on the premises or in the vicinity of the distribution facility is prohibited, except in a designated area.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Holders of a valid Registration card shall not be permitted to take Marijuana or Marijuana products from the distribution facility. Such persons may have any amounts purchased from a distribution facility stored in a secure location by the distribution facility.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Each building entrance to the distribution facility shall be clearly and legibly posted with a notice indicating that persons under the age of twenty-one (21) are precluded from entering the premises.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The distribution facility shall only distribute Marijuana or Marijuana products during normal business hours.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The distribution facility shall strongly discourage and avoid daily or weekly visits by consumers as a routine practice and shall not distribute Marijuana to any person more than twice a day.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The on-site display of Marijuana plants visible from the outside shall be prohibited, including live plants or graphic representations of the Marijuana plant.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The distribution of Marijuana shall not adversely affect the health or safety of the employees, volunteers or the facility in which it is distributed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0605</num>
+      <heading>Packaging</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every package or unit of Marijuana or Marijuana product, distributed shall have a label or labels that state the following, as may be applicable:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the product.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An identification and tracking number for the specific package or unit of Marijuana, or Marijuana product.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The species or strain of the Marijuana.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of the strength and dosage of the Marijuana (within twelve months of the passage of this ordinance).</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A statement that the Marijuana or Marijuana product has been tested for safety and quality assurance and that the testing results, and chain of custody information is available by contacting the distribution facility (within twelve months of the passage of this ordinance).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following warning placed in a conspicuous location on the package:</text>
+        <text>"Smoking may be hazardous to the health of the user, and smoking by pregnant women may result in fetal injury, premature birth, and low birth weight. Further, ingestion of Marijuana in any form may be hazardous to the health of the user and may impair the judgment of the user."</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The following specific requirements for edible Marijuana products:</text>
+        <para>
+          <num>(1)</num>
+          <text>List of all ingredients used to manufacture the edible Marijuana product; which may include a list of any potential allergens contained within, or used in the manufacture of, the product.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A statement that the Marijuana product, if perishable, must be refrigerated.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A product expiration date, for perishable Marijuana products, upon which the product will no longer be fit for consumption, or a use-by-date, upon which the product will no longer be optimally fresh. Once a label with a use-by or expiration date has been affixed to a container of a Marijuana product, it may not be altered in any way or have a new label affixed with a later use-by or expiration date.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0606</num>
+      <heading>Electronic Verification System</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each distribution facility shall maintain an electronic verification system.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The electronic verification system must be able to monitor and report information, including, without limitation:</text>
+        <para>
+          <num>(1)</num>
+          <text>For each person who holds a valid Registration card and who purchased Marijuana from the distribution facility in the immediately preceding 60-day period;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The number of the card;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The date on which the card was issued;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date on which the card will expire;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Verification of the identity of a person to whom Marijuana or Marijuana products are sold or otherwise distributed; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Such other information as the Commission may require by regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in <cite path="56|56.06|56.0606">this section</cite> prohibits more than one distribution facility from co-owning an electronic verification system in cooperation with another distribution facility, or sharing the information obtained therefrom.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A distribution facility must exercise reasonable care to ensure that the personal identifying information of persons who hold valid Registration cards, which is contained in an electronic verification system is encrypted, protected and not divulged for any purpose not specifically authorized by law.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.07</num>
+    <heading>Transportation of Marijuana</heading>
+    <section>
+      <num>56.0701</num>
+      <heading>Transportation</heading>
+      <para>
+        <num>(a)</num>
+        <text>Provided that appropriate in-transit security measures are taken; the delivery or transportation of Marijuana or Marijuana products between facilities and laboratories within the boundaries of the reservation is permitted.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person who while transporting or delivering Marijuana or Marijuana products shall not possess or carry on his person or in his vehicle (a) an excessive amount of Marijuana, (b) an excessive amount of cash, (c) one or more weapons, or (d) illicit drugs.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0702</num>
+      <heading>Shipping Containers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every Marijuana Business shall be responsible for sealing all shipping containers of Marijuana or Marijuana products immediately upon the conclusion of the safe and secure stuffing process and must keep a record of each seal number.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Only management employees at a receiving facility or government officials having custody of a shipping container of Marijuana or Marijuana products, may break the seal for legitimate reasons.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0703</num>
+      <heading>Transportation Security Program</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every Marijuana Business shall establish a detailed Transportation Security Program, approved by the Council, which shall include at a minimum the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Standards and procedures to enhance the physical security of shipping containers, including standards for seals and locks.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Standards and procedures for screening and evaluating shipping containers prior to transportation and upon delivery at the distribution facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Standards and procedures for securing shipping containers and monitoring that security while in transit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Standards and procedures for allowing government officials to ensure and validate compliance with this program.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any other measures the Commission promulgates by regulation to ensure the security and integrity of transporting Marijuana or Marijuana products.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0704</num>
+      <heading>Transportation Outside the Reservation</heading>
+      <text>Delivery or transportation of Marijuana or Marijuana products beyond the exterior boundaries of the reservation is prohibited.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.08</num>
+    <heading>Security, Site Management and Inventory Control</heading>
+    <section>
+      <num>56.0801</num>
+      <heading>Security and Site Management</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every Marijuana Business shall provide adequate security for all facilities and laboratories, which shall include at a minimum the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>All employees shall be required to hold and properly display a current identification badge issued by the Tribe at all times. Proper display of the license badge shall consist of wearing the badge in a plainly visible manner, at or above the waist, and with the photo of the holder visible. The holder shall not alter, obscure, damage, or deface the badge in any manner.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Security surveillance cameras shall be installed and maintained in good working condition to monitor the main entrance and exterior of all facilities and laboratories to discourage loitering, crime, illegal or nuisance activities. Security video shall be maintained for a minimum of seventy-two (72) hours.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Professionally monitored robbery alarm and burglary alarm systems shall be installed and maintained in good working condition.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Professionally monitored fire alarm and fire suppression systems shall be installed and maintained in good working condition.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>At all times, there shall be at least one licensed, uniformed security guard or a tribal police officer present and visible on the premises of all facilities and laboratories.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>All points of ingress and egress shall have commercial-grade, nonresidential door locks.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0802</num>
+      <heading>Disturbances of the Peace</heading>
+      <text>Every Marijuana Business shall take all reasonable steps to discourage and correct disturbances of peace, open public consumption of Marijuana or alcohol, excessive pedestrian or vehicular traffic, illegal drug activity, harassment of passersby, excessive littering, excessive loitering, illegal parking, excessive loud noises, especially late at night or early in the morning hours, lewd conduct or police detentions and arrests.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0803</num>
+      <heading>Inventory Control System</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every Marijuana Business shall maintain an inventory control system.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The inventory control system must be able to monitor and report information, including, without limitation:</text>
+        <para>
+          <num>(1)</num>
+          <text>Insofar as is practicable, the chain of custody and current whereabouts, in real time, of Marijuana from the point that it is harvested at a cultivation facility until it is sold at a distribution facility and, if applicable, if it is processed at a facility for the production of Marijuana products;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A real-time accounting of the total amount of product sold; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Such other information as the Commission may require by regulation.</text>
+        </para>
+        <text>Nothing in <cite path="56|56.08|56.0803">this section</cite> prohibits a cultivation facility, processing facility, or distribution facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0804</num>
+      <heading>Audits</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each Marijuana Business shall cause to be prepared an annual financial statement of every cultivation facility, processing facility and distribution facility using generally accepted accounting principles that are audited by an independent certified public accountant in conformity with generally accepted auditing standards.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every Marijuana Business shall undergo an annual health and sanitary audit of any facility by an independent consultant. The scope of the audit may include, but not limited to, whether each facility and laboratory is in compliance with the requirements set forth in <cite path="56">this Title</cite> and other applicable health, sanitary or food handling laws, rules and regulations. Failure to perform to the independent audit may result in suspension of operations until the completion of the independent audit and the implementation of any required remedial measures is made.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0805</num>
+      <heading>Training</heading>
+      <text>All employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding Marijuana in compliance with <cite path="56">this Title</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.09</num>
+    <heading>Marijuana Control Commission</heading>
+    <section>
+      <num>56.0901</num>
+      <heading>Commission Establishment; Duration; Attributes</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is hereby established the "Marijuana Control Commission" and will here-in be referred to as "the Commission."</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission is hereby authorized to carry out its purposes and responsibilities under this act and Title.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In carrying out its purposes under <cite path="56">this Title</cite>, the Commission shall function as an arm of the Tribe.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Composition; term of office.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission shall have five members, with one member being the Commission Chairperson.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each Commission member shall be appointed by the Council and the Tribal Chairman shall appoint the Chairman of the Commission.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The terms of office of Commissioners, including the Chairman of the Commission, shall be staggered, with each Commissioner serving a four-year term, but with two Commissioners serving an initial two-year term as determined by the Council.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All members of Commission must be members of the Tribe.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No Commissioner shall be eligible for appointment to the Commission who has been convicted of a felony or a drug-related misdemeanor within the last ten years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Removal; Due Process; and Vacancies</text>
+        <para>
+          <num>(1)</num>
+          <text>The Council may remove a Commissioner from office before the expiration of the term of office for any reason.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the Council fails to fill a vacancy on the Commission within the first thirty (30) days, then the Chairman shall fill the vacancy within an additional thirty days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A quorum of the Commission shall require the Chairman of the Commission and at least two members.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Commission shall meet at the call of the Chairman of the Commission, the Chairman of the Tribe, or by motion of the Council at a scheduled meeting.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0902</num>
+      <heading>Sovereign Immunity</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commission shall enjoy all of the privileges and immunities of the Tribe, except as specifically limited by <cite path="56">this Title</cite>, including sovereign immunity from suit in any state, federal, or tribal court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission shall have no authority to waive the sovereign immunity of the Tribe, of the Commission, or of any other Tribal entity.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in <cite path="56">this Title</cite> shall be deemed or construed to be a waiver of the Commission's sovereign immunity from suit except in equity to enforce licensing decisions.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in <cite path="56">this Title</cite> shall be deemed or construed as consent of the Commission to the jurisdiction of the United States, any state, or any other Tribe with regard to the business or affairs of the Commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0903</num>
+      <heading>Specific Powers of the Commission</heading>
+      <text>The Commission shall have the power and responsibility to:</text>
+      <para>
+        <num>(a)</num>
+        <text>Enforce <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Promulgate regulations governing any purpose or function delegated to it in <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Accept, review, approve, or disapprove any application for a license pursuant to <cite path="56">this Title</cite>, including Marijuana Employee Licenses and licenses for Marijuana Businesses for cultivating, processing, and distribution of Marijuana grown in accordance with <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Assess and evaluate the potential environmental impact of a Marijuana Business's proposed operations, as may be necessary.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Impose any fees necessary to the regulation of the cultivation, processing, and distribution of Marijuana grown, and to collect any fees imposed by <cite path="56">this Title</cite> or the Commission.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Conduct or arrange for audits of any Marijuana Business, as may be necessary.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Conduct or arrange for background checks on applicants for employee licenses and determine their eligibility to be employed by licensed businesses operating.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Adopt regulations to implement the provisions of <cite path="56">this Title</cite>, including for the assessment and collection of civil fines against any person(s) in violation of <cite path="56">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>To issue an order of temporary closure of a Marijuana Business in the event the Commission determines that immediate closure is necessary to protect public safety.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0904</num>
+      <heading>Duties of Commission</heading>
+      <text>The Commission:</text>
+      <para>
+        <num>(a)</num>
+        <text>Shall monitor the cultivation, processing, and distribution of Marijuana grown within the boundaries of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Shall inspect and examine all premises located within the boundaries of the Tribe on which the cultivation, processing, and distribution of Marijuana grown, where necessary.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Keep accurate records of all applications for licensure, grants or denials of licenses, receipts of fees, distribution of fees and revenues to the Tribe, and other matters within the responsibility of the Commission.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>May demand access to and inspect, examine, photocopy, and audit all papers, books, and records respecting gross revenues of the cultivation, processing, and distribution of Marijuana, conducted within the boundaries of the Tribe and any other matters necessary to carry out the duties of the Commission under <cite path="56">this Title</cite>;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Shall promulgate such regulations and guidelines as it deems appropriate to implement the provisions of <cite path="56">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0905</num>
+      <heading>Limitation of Commission Powers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commission shall not regulate the Tribe or any entities except with respect to the activities of cultivating, processing, and distributing Marijuana.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission shall not regulate the revenues or funds derived from fees or costs of the cultivation, processing, and distribution of Marijuana once such revenues have been distributed to the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0906</num>
+      <heading>Compensation of the Commission</heading>
+      <text>The members of the Commission shall each be paid an equal amount out of the Commission's operating budget at the rate set by the Council, except the Chairman may be paid reasonable supplemental amount to account for time attributable to administrative duties. If no action is taken by the Council, the compensation for Commission members shall remain the same as the previous year.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.0907</num>
+      <heading>Quarterly Reports</heading>
+      <text>The Commission shall provide a quarterly report to the Council summarizing the Commission's official actions, activities, investigative reports, and reports received from any Marijuana Business as it deems necessary to keep the Council fully informed as to the status of the Commission's activities.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.10</num>
+    <heading>Marijuana and Hemp Research and Development</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>56.11</num>
+    <heading>Miscellaneous Provisions</heading>
+    <section>
+      <num>56.1101</num>
+      <heading>Severability</heading>
+      <text>The provisions of <cite path="56">this Title</cite> are declared to be separate and severable. If the Tribal Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <cite path="56">this Title</cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <cite path="56">this Title</cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or chapter of <cite path="56">this Title</cite> as adjudged to be invalid or unconstitutional.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.1102</num>
+      <heading>Interpretation and Applicability</heading>
+      <para>
+        <num>(a)</num>
+        <text>No part of <cite path="56">this Title</cite> shall be deemed to be in positive conflict with federal law as contained in the Controlled Substances Act, 21 U.S.C. section 800 <em>et seq</em>., nor to otherwise permit any activity that is prohibited under that Act or any other tribal, state or federal law, statute, rule or regulation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in <cite path="56">this Title</cite> is intended, nor shall it be construed, to burden any defense to criminal prosecution otherwise afforded by tribal law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing is <cite path="56">this Title</cite> is intended, nor shall it be construed, to make legal any cultivation, transportation, sale, or other use of Marijuana that is otherwise prohibited under tribal law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.1103</num>
+      <heading>Renumbering and Re-Designation</heading>
+      <text>Authority is given to the Records Office of the Tribe to renumber, re-designate, or to cite the provisions of <cite path="56">this Title</cite> as necessary for uniformity and accessibility.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.1104</num>
+      <heading>Effective Date</heading>
+      <text><cite path="56">This Title</cite> shall be in full force and effect immediately according to its terms upon full passage.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>56.1105</num>
+      <heading>Violations</heading>
+      <text>Any violation of <cite path="56">this Title</cite> is subject to administrative, civil, or criminal penalties, in addition to being subject to other remedies provided by law, including but not limited to injunctive relief and revocation of the Marijuana Employee License.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

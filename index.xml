@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Turtle Mountain Band of Chippewa Indians Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/tmchippewa/law-xml</xml-bulk>
+      <html-bulk>https://github.com/tmchippewa/law-html</html-bulk>
+      <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
+      <html/>
+    </canonical-urls>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="tmchippewa/law-xml" commit="7857b806905e2059e066ec8c39e93c0b0bf07eeb"/>
+      </repositories>
+      <platform version="2.6.4" reproducible="false"/>
+      <build-date>2022-11-15</build-date>
+      <codified-date>0001-01-01</codified-date>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/tmchippewa/council/code/index.xml"/>
+  <collection name="us/nsn/tmchippewa/council/policies">
+    <heading>Turtle Mountain Band of Chippewa Indians Administrative Policies</heading>
+    <xi:include href="./us/nsn/tmchippewa/council/policies/personnel_policy.xml"/>
+  </collection>
+</library>

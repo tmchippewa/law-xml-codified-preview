@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>63</num>
+  <heading>Tobacco Products User Fee Ordinance</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.01</num>
+    <heading>Definitions, Tribal Licensing and Revocation</heading>
+    <section>
+      <num>63.0101</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="63">this title</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>(1)</num>
+        <text>"Authorized agent" means a designated agent of the Tax Commissioner.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Chewing tobacco" means any commercially packaged leaf tobacco that is intended to be placed in the mouth.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Cigar" means any roll of tobacco wrapped in tobacco.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Cigarette" means any roll for smoking made wholly or in part of tobacco and encased in any material except tobacco.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Consumer" means any person who has title to or possession of cigarettes, cigars, pipe tobacco, or other tobacco products in storage, for use or other consumption within the territory and jurisdiction of the Tribe.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Dealer" includes any person other than a distributor who is engaged in the business of selling cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Distributor" includes any person engaged in the business of producing or manufacturing cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products, or importing into this state cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products, for the purpose of distribution and sale thereof to dealers and retailers.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Licensed dealer" means a dealer licensed by the tribe under the provisions of <cite path="63">this title</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Licensed distributor" means a distributor licensed by the tribe under the provisions of <cite path="63">this title</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Other tobacco products" means snuff and chewing tobacco.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Person" means any individual, firm, fiduciary, partnership, corporation, limited liability company, trust, or association however formed.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Pipe tobacco" means any tobacco that, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco to be smoked in a pipe.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Reservation" means all lands within the exterior boundaries of the Turtle Mountain Chippewa Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Sale" or "sell" applies to gifts, exchanges, and barter.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Snuff" means any finely cut, ground, or powdered tobacco that is intended to be placed in the mouth.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Storage" means any keeping or retention of cigarettes, cigars, pipe tobacco, or other tobacco products for use or consumption on this reservation.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Tax Commissioner" means the tax commissioner of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Territory and jurisdiction of the Tribe is that territory as defined in Article II, Jurisdiction, of the Turtle Mountain Band of Chippewa Indians' Constitution.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Use" means the exercise of any right or power incidental to the ownership or possession of cigarettes, cigars, pipe tobacco, or other tobacco products.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0102</num>
+      <heading>Distributors and Dealers to Be Licensed by State and Tribe</heading>
+      <text>Each person engaged in the business of selling cigarettes, cigarette papers, snuff, cigars, or tobacco within the territory of jurisdiction of the Tribe, including any distributor or dealer, must secure licenses from the Tax Commissioner under this ordinance before engaging or continuing to engage in business. A separate application and license is required for each distributor at each outlet or place of business within the reservation, and a separate dealer's license is required for each retail outlet when a person owns or controls more than one place of business dealing in cigarettes, cigarette papers, snuff, cigars, or tobacco. No retailer will be granted a distributor's license except a retailer who, in the usual course of business, performed a distributor's or wholesaler's function for at least one year prior to filing the license application. Each application for a wholesale or distributor's outlet license must be accompanied by a fee of twenty-five dollars. Each application for a dealer's outlet license must be accompanied by a fee of fifteen dollars. A reinstatement fee of fifty dollars is required in addition to the annual license fee for each license renewal applied for after the thirtieth day of June. The total reinstatement fee may not exceed five hundred dollars for any one licensee in any fiscal year. A distributor's license does not authorize the holder to make retail sales. A retail license does not authorize the holder to make distribution sales. Each license issued must be prominently displayed on the premises covered by the license.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0103</num>
+      <heading>Tribal Licenses</heading>
+      <text>Each license issued under the provisions of <cite path="63">this title</cite> is valid until the first day of July subsequent to the date of issuance unless sooner revoked by the Tax Commissioner pursuant to the TAPA or unless the business with respect to which such license was issued is transferred, in either of which cases the holder of the license shall return it immediately to the Tax Commissioner. The license issued is annual and runs from July first of each year to thirtieth day of June thirtieth of the following year.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0104</num>
+      <heading>Revocation of Tribal License - Penalty</heading>
+      <text>The Tax Commissioner may revoke the license of any dealer or distributor for failure to comply with any of the provisions of <cite path="63">this Title</cite>, or any of the rules or regulations prescribed by the Tax Commissioner. When a license has been legally revoked, no license may be issued again to the licensee for a period of one year thereafter. A person may not sell any cigarettes, cigarette papers, snuff, cigars, or tobacco after that person's tribal license has been revoked as provided in <cite path="63">this Title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0105</num>
+      <heading>Unlawful to Sell Without License</heading>
+      <text>A dealer or distributor may not sell cigarettes, cigarette papers, snuff, cigars, or tobacco within the territory and jurisdiction of the Tribe at wholesale or at retail unless a license has been issued to that dealer or distributor under <cite path="63">this Title</cite>, and a person may not sell, offer for sale, or possess with the intent to sell, any cigarettes, cigarette papers, snuff, cigars, or tobacco without such license.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0106</num>
+      <heading>Sale of Imported Cigarettes - When Prohibited</heading>
+      <text>A dealer, distributor, or other person may not sell or distribute within the territory or jurisdiction of the Tribe any tobacco product previously exported from the United States.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0107</num>
+      <heading>Sale of Noncompliant Tobacco Products</heading>
+      <text>A dealer, distributor, or other person may not knowingly sell or distribute within the territory or jurisdiction of the Tribe any tobacco product manufactured by a tobacco product manufacturer.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.02</num>
+    <heading>Amounts, Packaging and Distributors</heading>
+    <section>
+      <num>63.0201</num>
+      <heading>Cigarettes - Amount of Tribal Excise Fee</heading>
+      <text>There are hereby levied and assessed, upon all cigarettes sold within the territory and jurisdiction of the Tribe to all persons, the following excise fees, payment thereof to be made prior to the time of the sale and delivery thereof:</text>
+      <para>
+        <num>1.</num>
+        <text>Class A. On cigarettes weighing not more than three pounds [1360.78 grams] per thousand, five cents (5c) on each package.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Class B. On cigarettes weighing more than three pounds [1360.78 grams] per thousand, five cents (5c) on each package.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0202</num>
+      <heading>Packaging - Presumption from Possession</heading>
+      <text>Cigarettes must be packaged as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>All cigarettes sold or distributed within the territory and jurisdiction of the Tribe must be in packages containing twenty or more cigarettes each.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each package of cigarettes displayed, exhibited, stored, or possessed in original cartons or containers upon the premises where consumer sales are made is conclusively presumed to be for sale to consumers.</text>
+      </para>
+      <text>All packages of roll-your-own tobacco sold or distributed within the territory and jurisdiction of the Tribe must be in packages containing at least 0.60 ounces [17 grams] of tobacco.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0203</num>
+      <heading>Records to Be Kept by Distributors and Reports Made - Penalty</heading>
+      <text>Distributors shall keep records and make reports relating to purchases and sales of cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products made by them, and failure so to do shall be punishable, as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Each licensed distributor who shall dispose of cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products shall keep and preserve for one year all invoices of cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products purchased by the distributor and shall permit the Tax Commissioner, and assistants, authorized agents, or representatives of the Tax Commissioner, to inspect and examine all merchandise subject to the fee, invoices, receipts, books, papers, and memoranda as may be deemed necessary by the Tax Commissioner, and assistants, authorized agents, or representatives in determining the amount of the fee as may be yet due. Each person selling or otherwise disposing of cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products as a distributor shall keep a record of all sales made within the territory or jurisdiction of the Tribe showing the name and address of the purchaser and the date of sale. For sales of other tobacco products, the records must also include the net weight in ounces, as listed by the manufacturer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>On or before the fifteenth day of each month, each licensed distributor, on such form as the Tax Commissioner shall prescribe, shall report to the Tax Commissioner all purchases and sales of cigarettes, cigarette papers, cigars, pipe tobacco, or Other Tobacco Products made from or to any persons during the preceding month. For sales of Other Tobacco Products, each licensed distributor shall also report to the Tax Commissioner the net weight in ounces, as listed by the manufacturer. The fee levied by <cite path="63">this title</cite> is payable monthly and must be remitted to the Tax Commissioner by each licensed distributor on or before the fifteenth day of the month following the monthly period.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person failing to file any prescribed form or return or to pay any fee within the time required or permitted by <cite path="63|63.02|63.0203">this section</cite> is subject to a penalty of five percent of the amount of fee due or five dollars, whichever is greater, plus interest of one percent of the fee per month or fraction of a month of delay except the first month after the return or the fee became due. The Tax Commissioner, if satisfied that the delay was excusable, may waive all or any part of the penalty. The penalty must be paid to the Tax Commissioner and disposed of in the same manner as are other receipts under <cite path="63">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0204</num>
+      <heading>Warehouse - Record of Deliveries and Shipments</heading>
+      <text>Records of all deliveries of shipments of cigarettes and snuff from a licensed public warehouse to persons within the territory and jurisdiction of the Tribe must be kept by the warehouse and be available to the Tax Commissioner for inspection. They must show the name and address of the consignee, the date, the quantity of cigarettes, snuff, cigars, or other tobacco products delivered, and such other information as the Tax Commissioner may require. These records must be preserved for one year from the date of delivery of the cigarettes, snuff, cigars, or other tobacco products.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0205</num>
+      <heading>Examination and Correction of Returns - Collection of Taxes</heading>
+      <para>
+        <num>1.</num>
+        <text>The tribal tax commissioner may recover the amount of any fee due and unpaid, interest, and any penalty in a civil action.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0206</num>
+      <heading>Corporate Officer Liability</heading>
+      <para>
+        <num>1.</num>
+        <text>If a corporation holding a license issued under <cite path="63">this Title</cite> fails for any reason to file the required returns or to pay the fees due, the president, vice president, secretary, or treasurer, jointly or severally, having control or supervision of, or charged with the responsibility for making such returns and payments, is personally liable for the failure. The dissolution of a corporation does not discharge an officer's liability for a prior failure of the corporation to make a return or remit the fees due. The sum due for such a liability may be assessed and collected under the provisions of <cite path="63">this Title</cite> for the assessment and collection of other liabilities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the corporate officers elect not to be personally liable for the failure to file the required returns or to pay the fees due, the corporation must be required to make a cash deposit or post with the Tax Commissioner a bond or undertaking executed by a surety company authorized to do business within the territory or jurisdiction of the Tribe. The cash deposit, bond, or undertaking provided for in <cite path="63|63.02|63.0206">this section</cite> must be in an amount equal to the estimated annual tobacco products fees liability of the corporation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0207</num>
+      <heading>Governor and Manager Liability</heading>
+      <para>
+        <num>1.</num>
+        <text>If a limited liability. The cash deposit, bond, or undertaking provided for in <cite path="63|63.02|63.0207">this section</cite> must be in an amount equal to the estimated annual tobacco products fees liability of the limited liability company.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.03</num>
+    <heading>Collection and Judgment</heading>
+    <section>
+      <num>63.0301</num>
+      <heading>Lien of Fee - Collection - Action Authorized</heading>
+      <para>
+        <num>1.</num>
+        <text>When a taxpayer liable to pay a fee or penalty imposed refuses or neglects to pay the fee, the amount, including any interest, penalty, or addition to the fee, together with the costs that may accrue in addition to the fee, is a lien in favor of the Tribe upon all property and rights to property, whether real or personal, belonging to the taxpayer, and in the case of property in which a deceased taxpayer held an interest as joint tenant or otherwise with right of survivorship at the time of death, the lien continues as a lien against the property in the hands of the survivors to the extent of the deceased fee- payer's interest therein, which interest is determined by dividing the value of the entire property at the time of the fee payer's death by the number of joint tenants or persons interested therein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The lien attaches at the time the fee becomes due and payable and continues until the liability for the amount is satisfied. For the purposes of <cite path="63|63.03|63.0301">this section</cite>, the words "due" and "due and payable" mean the first instance at which the fee becomes due.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Nothing in <cite path="63">this Title</cite> constitutes a waiver of the Sovereign Immunity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0302</num>
+      <heading>Procedure in Case of Seizure - Determination - Judgment</heading>
+      <text>The procedure in case of seizure of cigarettes, equipment, or any other product subject to the fees under <cite path="63">this Title</cite> must be as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Upon the seizure of any cigarettes and within two days thereafter, the authorized agent making such seizure shall deliver an inventory of the property seized to the person from whom such seizure was made, if known, and shall file a copy thereof with the Office of the Tax Commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Within ten days after the date of the service of such inventory, the person from whom the seizure was made, or any other person claiming an interest in the property seized, may file a demand for a judicial determination of the question as to whether such property was, or lawfully is, subject to seizure and forfeiture. Thereupon the Tax Commissioner shall, within thirty days, institute an action in the Turtle Mountain Tribal Court to determine the issue of forfeiture. Such action must be brought in the name of the tribe and must be prosecuted by a representative of the tribe. The Tribal court shall hear such action as a court case and shall try and determine the issues of law and fact involved.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In case a judgment of forfeiture is entered, the authorized agent shall, unless the judgment is stayed pending an appeal to the Turtle Mountain Court of Appeals, when the period for requesting a stay has expired, destroy the forfeited property.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In case a demand for a judicial determination is made and no action is commenced as provided in <cite path="63|63.03|63.0302">this section</cite>, such property must be released by the authorized agent and redelivered to the person entitled thereto.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In the event that no demand for judicial determination is made, the seized property must be deemed forfeited to the Tax Commissioner by operation of this ordinance, and the Tax Commissioner shall destroy the same.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>In case of the seizure of an automobile, truck, boat, airplane, conveyance, vehicle, or other means of transportation pursuant to the provisions of <cite path="63">this Title</cite>, the authorized agent making the seizure shall file an inventory, and upon a demand for a judicial determination as provided in <cite path="63|63.03|63.0302">this section</cite>, the Tax Commissioner, within thirty days thereafter, shall commence an action in the Turtle Mountain Tribal Court to declare a forfeiture of such vehicle or other means of transportation, and such action must be heard and determined as other forfeiture actions instituted under <cite path="63">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Whenever the Tax Commissioner is satisfied that any person from whom property is seized was acting in good faith and without intent to evade the revenue provisions of <cite path="63">this title</cite>, the Tax Commissioner shall release the property seized without further legal proceedings.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.04</num>
+    <heading>Inventory by Retailers and Failure to File</heading>
+    <section>
+      <num>63.0401</num>
+      <heading>Inventory of Existing Supply of Tobacco by Retailers</heading>
+      <text>At 12:01am Central time on the effective date of this ordinance, each retailer on the Turtle Mountain Reservation who is a licensed tobacco retailer shall take an inventory, subject to inspection by the Tribe-appointed authorized agent, of all tobacco available for sale. The retailer shall be subject to the provisions of this ordinance at that exact time and must remit to the Tax Commissioner, on a form and in a manner prescribed by the Tax Commissioner, the appropriate fees due by the next regular remittance period.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0402</num>
+      <heading>Cigars and Pipe Tobacco – Tribal Excise Fee on Wholesale Purchase Price – Other Tobacco Products – Tribal Excise Fee on Weight- Penalty - Reports - Collection - Allocation of Revenue</heading>
+      <para>
+        <num>1.</num>
+        <text>There is hereby levied and assessed upon all cigars and pipe tobacco sold to any person within the territory and jurisdiction of the Tribe an excise fee at the rate of twenty-eight percent of the wholesale purchase price at which such cigars and pipe tobacco are purchased by distributors. For the purposes of <cite path="63|63.04|63.0402">this section</cite>, the term "wholesale purchase price" shall mean the established price for which a manufacturer sells cigars or pipe tobacco to a distributor exclusive of any discount or other reduction.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>There is levied and assessed upon all other tobacco products sold to any person within the territory and jurisdiction of the Tribe an excise fee at the following rates:</text>
+        <para>
+          <num>a.</num>
+          <text>Upon each can or package of snuff, sixty cents per ounce and a proportionate fee at the like rate on all fractional parts of an ounce.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>On chewing tobacco, sixteen cents per ounce and a proportionate fee at the like rate on all fractional parts of an ounce.</text>
+          <text>For purposes of this subsection, the fee on other tobacco products is computed based on the net weight as listed by the manufacturer.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person failing to file any prescribed form or return or to pay any fee within the time required or permitted by <cite path="63|63.04|63.0402">this section</cite> is subject to a penalty of five percent of the amount of fee due or five dollars, whichever is greater, plus interest of one percent of the fee per month or fraction of a month of delay except the first month after the return or the fee became due. The Tax Commissioner, if satisfied that the delay was excusable, may waive all or any part of the penalty. The penalty must be paid to the tribe and disposed of in the same manner as are other receipts under <cite path="63">this title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0403</num>
+      <heading>Deduction to Reimburse Licensed Distributor for Administrative Expenses</heading>
+      <para>
+        <num>1.</num>
+        <text>A licensed distributor who pays the fees due under <cite path="63">this Title</cite> within the time limitations prescribed may deduct and retain one and one-half percent of the fees due to reimburse the distributor for expenses incurred in keeping records, preparing and filing returns, remitting the fee, and supplying information requested by the tax commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The total deduction allowed by <cite path="63|63.04|63.0403">this section</cite> may not exceed one hundred dollars per month for each tribally-licensed distributor.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0404</num>
+      <heading>Cigars, Pipe Tobacco, and Other Tobacco Products – Tribal Excise Fee Payable by Dealers - Reports - Penalties - Collection - Allocation of Revenue</heading>
+      <para>
+        <num>1.</num>
+        <text>There is levied and assessed, upon all cigars and pipe tobacco purchased in another state and brought onto this reservation by an enrolled member of the Turtle Mountain Band of Chippewa Indians dealer for the purpose of sale at retail, a tribal excise fee at the rate of twenty-eight percent of the wholesale purchase price and, upon all other tobacco products purchased off of the reservation and brought onto this reservation by a dealer for the purpose of sale at retail, an excise fee at the rates indicated in <cite path="63|63.04|63.0402">section 63.0402</cite>, at the time the products were brought into the territory or jurisdiction of the Tribe. For the purposes of <cite path="63|63.04|63.0404">this section</cite>, the term "wholesale purchase price" means the established price for which a manufacturer sells cigars or pipe tobacco to a distributor exclusive of any discount or other reduction. However, the dealer may elect to report and remit the fee on the cost price of the products to the dealer rather than on the wholesale purchase price. The proceeds of the fee, together with the forms of return and in accordance with any rules and regulations the tribe may prescribe, must be remitted to the tribe by the dealer on a monthly basis on or before the fifteenth day of the month following the monthly period for which it is paid. The Tax Commissioner shall have the authority to place any dealer on an annual remittance basis when in the judgment of the Tax Commissioner the operations of the dealer merit that remittance period. In addition, the Tax Commissioner shall have the authority to permit the consolidation of the filing of a dealer's return when the dealer has more than one location and thereby would be required to file more than one return.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If cigars, pipe tobacco, or other tobacco products have been subjected already to a tax or fee by any jurisdiction outside the reservation in respect to their sale in an amount less than the tribal fee imposed by <cite path="63|63.04|63.0404">this section</cite>, the provisions of <cite path="63|63.04|63.0404">this section</cite> apply, but at a rate measured by the difference only between the rate fixed in <cite path="63|63.04|63.0404">this section</cite> and the rate by which the previous tax or fee upon the sale was computed. If the tax or fee imposed off of the reservation is twenty percent of the wholesale purchase price or more, then no tribal fee is due on the article. The provisions of this subsection apply only if the other jurisdiction allows a tax credit with respect to the excise tax on cigars, pipe tobacco, or other tobacco products imposed by this tribal fee which is substantially similar in effect to the credit allowed by this subsection.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person failing to file any prescribed forms of return or to pay any tribal fee within the time required by <cite path="63|63.04|63.0404">this section</cite> is subject to a penalty of five dollars or a sum equal to five percent of the fee due, whichever is greater, plus one percent of the fee for each month of delay or fraction thereof excepting the month within which the return was required to be filed or the fee became due. The tribe, if satisfied that the delay was excusable, may waive all or any part of the penalty. The penalty must be paid to the tribe, through the Tax Commissioner and disposed of in the same manner as are other receipts under <cite path="63">this title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.05</num>
+    <heading>Consumer Use Fees, Reports and Transfer of Revenues</heading>
+    <section>
+      <num>63.0501</num>
+      <heading>Consumer's Use Fee - Cigarettes - Reports - Remittances</heading>
+      <para>
+        <num>1.</num>
+        <text>A tribal fee is hereby imposed upon the use or storage by consumers of cigarettes on within the territory and jurisdiction by enrolled members of the Turtle Mountain Band of Chippewa Indians, and upon such consumers, at the following rates:</text>
+        <para>
+          <num>a.</num>
+          <text>On cigarettes weighing not more than three pounds [1360.78 grams] per thousand, five cents (5c) on each package.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>On cigarettes weighing more than three pounds [1360.78 grams] per thousand, five cents (5c) on each package.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>This fee does not apply if the fee imposed by <cite path="63|63.02|63.0201">section 63.0201</cite> has been paid.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>On or before the tenth day of each calendar quarter, every consumer who during the preceding calendar quarter has acquired title or possession of cigarettes for use or storage within the territory and jurisdiction, upon which cigarettes the fee imposed by <cite path="63|63.02|63.0201">section 63.0201</cite> has not been paid, shall file a return with the Tax Commissioner showing the quantity of cigarettes so acquired. The return must be made upon a form furnished and prescribed by the Tax Commissioner and must contain such other information as the Tax Commissioner may require. The return must be accompanied by a remittance for the full unpaid fee liability shown by it.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>As soon as practicable after any return is filed, the Tax Commissioner shall examine the return and correct it, if necessary, according to the Tax Commissioner's best judgment and information.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In case any consumer required to pay the tribal fee levied by <cite path="63|63.05|63.0501">this section</cite> fails to file a return or remit the fee as herein required, the state Tax Commissioner has the authority to make an assessment of the tribal fee against the consumer according to the state tax commissioner's best judgment and information.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All of the provisions of <cite path="63">this title</cite> relating to corrections of returns, deficiency assessments, protests thereto, hearings thereon, interest and penalties, and collections of fees are applicable to consumers under <cite path="63|63.05|63.0501">this section</cite> in like manner as though set out in full herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0502</num>
+      <heading>Consumer's Use Fee - Cigars, Pipe Tobacco, and Other Tobacco Products - Reports - Remittances</heading>
+      <para>
+        <num>1.</num>
+        <text>A tribal fee is imposed upon the use or storage by enrolled members of the Turtle Mountain Band of Chippewa Indians who are consumers of cigars, pipe tobacco, and other tobacco products within the territory and jurisdiction, and upon those consumers, at the rates indicated in <cite path="63|63.04|63.0402">section 63.0402</cite></text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>This fee does not apply if the fee imposed by <cite path="63|63.04|63.0402">section 63.0402</cite> or 63.0404 has been paid.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>On or before the tenth day of each calendar quarter, every consumer who, during the preceding calendar quarter, has acquired title to or possession of cigars, pipe tobacco, or other tobacco products for use or storage within the territory and jurisdiction, upon which products the tribal fee imposed by either <cite path="63|63.04|63.0402">section 63.0402</cite> or 63.0404 has not been paid, shall file a return with the Tax Commissioner showing the quantity of such products so acquired. For sales of other tobacco products, the return must also include the net weight in ounces, as listed by the manufacturer. The return must be made upon a form furnished and prescribed by the Tax Commissioner and must contain such other information as Tax Commissioner may require. The return must be accompanied by a remittance for the full unpaid fee liability shown by it.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>As soon as practicable after any return is filed, the Tax Commissioner shall examine the return and correct it, if necessary, according to the Tax Commissioner's best judgment and information.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If any consumer required to pay the tribal fee levied by <cite path="63|63.05|63.0502">this section</cite> fails to file a return or remit the fee as required, the Tax Commissioner shall make an assessment of the tribal fee against the consumer according to the Tax Commissioner's best judgment and information.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All of the provisions of <cite path="63">this title</cite> relating to corrections of returns, deficiency assessments, protests, hearings, interest and penalties, and collections of fees apply to consumers under <cite path="63|63.05|63.0502">this section</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0503</num>
+      <heading>Correction of Errors</heading>
+      <para>
+        <num>1.</num>
+        <text>If it appears that as a result of a mistake an amount of fee, penalty, or interest has been paid which was not due under the provisions of <cite path="63">this title</cite>, then such amount becomes due under <cite path="63">this title</cite>, and the amount must be credited or refunded to such person or firm by the Tax Commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Whenever a distributor destroys cigarettes, cigars, pipe tobacco, or other tobacco products accidentally, or intentionally, because of staleness or other unfitness for sale, a credit or refund must be given to the wholesaler under the terms and conditions prescribed by the Tax Commissioner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0504</num>
+      <heading>Issuance of Credit or Refund</heading>
+      <text>Whenever by any provisions of <cite path="63">this title</cite> a credit or refund is authorized, the Tax Commissioner shall issue a credit applicable to future obligations under <cite path="63">this title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0505</num>
+      <heading>Transfer and Allocation of Revenues</heading>
+      <para>
+        <num>1.</num>
+        <text>All moneys received by the Tax Commissioner under the provisions of <cite path="63">this title</cite> must be transmitted to the State of North Dakota at the end of each month.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All moneys received from the levy and assessment of the fees imposed under this ordinance as provided in <cite path="63">this title</cite> must be distributed to the State of North Dakota according to the duly-authorized cigarette fee collection and administration agreement by and between the Turtle Mountain Band of Chippewa Indians and the State of North Dakota.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0506</num>
+      <heading>Separate and Additional Fee on the Sale of Cigarettes - Collection – Allocation of Revenue - Tax Avoidance Prohibited</heading>
+      <text>There is hereby levied and assessed and there shall be collected by the Tax Commissioner and paid to the treasurer, upon all cigarettes sold on this within the territory and jurisdiction, an additional tax, separate and apart from all other taxes, of seventeen mills on each cigarette, to be collected as existing taxes on cigarettes sold are, or hereafter may be, collected, by use of appropriate stamps and under similar accounting procedures. No person, firm, corporation, or limited liability company shall transport or bring or cause to be shipped onto the Turtle Mountain Indian Reservation any cigarettes as provided herein, other than for delivery to wholesalers in this state, without first paying the tax thereon to the state tax commissioner. All of the moneys collected by the state treasurer under <cite path="63|63.05|63.0506">this section</cite> shall be distributed to the Turtle Mountain Tribe in accordance with the Cigarette Tax Agreement.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0507</num>
+      <heading>Penalties for Violation of Chapter</heading>
+      <text>Except as otherwise provided in <cite path="63.05">this Chapter</cite>, any person who violates any provision of <cite path="63.05">this chapter</cite> is guilty of a class A misdemeanor. All cigarettes, cigarette papers, cigars, pipe tobacco, or other tobacco products in the possession of the person or in the place of business of the person must be confiscated and forfeited to the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0508</num>
+      <heading>Exemption for the Traditionally Ceremonial Use of Tobacco</heading>
+      <text>The ceremonial use of tobacco in traditional exercises shall not be deemed governed or regulated by <cite path="63.05">this Chapter</cite> and no person shall be punished or fined for such ceremonial use of tobacco.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>63.06</num>
+    <heading>Rules, Budgeting of Funds and Repeal</heading>
+    <section>
+      <num>63.0601</num>
+      <heading>Rules and Regulations</heading>
+      <text>The Tax Commissioner shall adopt rules, regulations, and forms to effectuate the purpose of <cite path="63">this Title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0602</num>
+      <heading>Severability</heading>
+      <text>If any provision of this code is deemed unconstitutional under the Laws of the Turtle Mountain Band of Chippewa Indians, it shall be stricken and the remaining provisions shall remain in full force and effect.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0603</num>
+      <heading>Budgeting of Funds</heading>
+      <text>The Tribe shall annually budget funds to effectuate the purpose of this code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0604</num>
+      <heading>Repeal</heading>
+      <text>If any Tribe Title or Code provision is inconsistent with <cite path="63">this Title</cite> it shall be deemed repealed by the enactment of <cite path="63">this Title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>63.0605</num>
+      <heading>Effective Date</heading>
+      <text><cite path="63">This Title</cite> shall be deemed effective upon passage of <cite path="63">this Title</cite> and when the Compact with the State of North Dakota is adopted.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

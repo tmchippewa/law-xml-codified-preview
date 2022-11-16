@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>6</num>
+  <heading>Obligations Imposed by Law</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>6.0101</num>
+      <heading>Rights and Obligations of All Persons</heading>
+      <text>Every person who invades the interest of another, as provided in this Code, shall be liable to the injured person in accordance with the provisions of this code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0102</num>
+      <heading>Personal Relation; Offenses Against</heading>
+      <text>The rights of personal relation forbid:</text>
+      <para>
+        <num>1.</num>
+        <text>The abduction of a husband from his wife or a parent from his child;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The abduction or enticement of a wife from her husband, of a child from a parent, or from a guardian entitled to its custody;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The seduction of a wife, daughter, orphan, sister or ward.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0103</num>
+      <heading>Use of Force to Protect Personal Rights</heading>
+      <text>Any necessary force may be used to protect from wrongful injury the person or property of one's self, or of a wife, husband, child, parent, or other relative, or member of one's family, or of a ward, servant, master, or guest.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0104</num>
+      <heading>Responsibility for Willful and Negligent Acts</heading>
+      <text>Every person is responsible for injury to the person, property, or rights of another caused by his willful acts, or caused by his want of ordinary care or skill.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0105</num>
+      <heading>Obligation to Restore Things Improperly Obtained</heading>
+      <text>One who obtains a thing without the consent of its owner, or by a consent afterwards rescinded, or by an unlawful seizure which the owner could not at the time prudently refuse, must restore it to the person from whom it was thus obtained, unless he has acquired a title thereto superior to that of such other person.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0106</num>
+      <heading>Restoration Without Demand; When</heading>
+      <text>The restoration required by <cite path="6|6.01|6.0105">Section 6.0105</cite> must be made without demand except where a thing is obtained by mutual mistake, in which case the party obtaining the thing is not bound to return it until he has notice of the mistake.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.02</num>
+    <heading>Defamation</heading>
+    <section>
+      <num>6.0201</num>
+      <heading>Deceit</heading>
+      <text>One who willfully deceives another, with intent to induce him to alter his position to his injury or risk, is liable for any damage which he thereby suffers.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0202</num>
+      <heading>Classification of Deceit</heading>
+      <text>A deceit within the meaning of the last section is either:</text>
+      <para>
+        <num>1.</num>
+        <text>The suggestion, as a fact, of that which is not true, by one who does not believe it to be true;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The assertion, as a fact, of that which is not true, by one who has no reasonable ground for believing it to be true;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The suppression of a fact by one who is bound to disclose it or who gives information of other facts which are likely to mislead for want of communication of that fact; or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A promise made without any intention of performing.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0203</num>
+      <heading>Deceit upon Tribe; Presumption</heading>
+      <text>One who practices deceit, with intent to defraud the public or a particular class of persons, is deemed to have intended to defraud every individual in that class who is actually misled by the deceit.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.03</num>
+    <heading>Consent</heading>
+    <section>
+      <num>6.0301</num>
+      <heading>Obligation to Refrain from</heading>
+      <text>Every person is obligated to refrain from infringing upon the rights others not to be defamed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0302</num>
+      <heading>Defamation Classified and Defined</heading>
+      <text>Defamation is effected by:</text>
+      <para>
+        <num>1.</num>
+        <text>Libel or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Slander per se</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Slander. Libel is a false and unprivileged publication by writing, printing, picture, effigy, or other fixed presentation to the eye which exposes any person to hatred, contempt, ridicule or exposure to abuse, or which causes him to be shunned or avoided, or which has a tendency to injure him in his occupation. Slander per se is a false and unprivileged oral publication, other than libel, which:</text>
+        <para>
+          <num>a.</num>
+          <text>Charges any person with a crime or with having been indicted, convicted, or punished for a crime;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Imputes to him the present existence of an infectious, contagious or repulsive disease;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Tends directly to injure him in respect to his office, profession, trade, or business, either by imputing to him general disqualification in those respects which the office or other occupation peculiarly requires or by imputing something with reference to his office, profession, trade, or business that has a natural tendency to lessen its profit;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Imputes to him impotence or lack of chastity;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Slander is a false and unprivileged oral publication, other than libel, which requires the plaintiff to plead and prove special damage caused by the slander.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0303</num>
+      <heading>Privileged Communications</heading>
+      <text>A privileged communication is one made:</text>
+      <para>
+        <num>1.</num>
+        <text>In proper discharge of an official duty;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In any legislative or judicial proceeding, or in any other official proceeding authorized by law;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In a communication, without malice, to a person interested, or by one who stands in such relation to the person interested as to afford a reasonable ground for supposing the motive for the communication innocent or who is requested by the person interested to give the information;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>By a fair and true report, without malice, of a judicial, legislative, or other public official proceeding or of anything said in the course thereof. In the cases provided for in (3) and (4) above, malice is not inferred from the communication or publication.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0304</num>
+      <heading>Notice and Demand Before Certain Actions for Libel</heading>
+      <text>Before any action for libel can be brought against a newspaper or the publisher, editor, or manager thereof, other than libel of or concerning a female, the party aggrieved must, at least three (3) days before the commencement of such action, serve a notice on the person or persons against whom said action is to be brought, specifying particularly the statement or statements claimed to be false and defamatory. If, at the trial, it appears that such statement or statements were published in good faith and with the belief founded upon reasonable grounds that the same were true, a full and fair retraction of the erroneous matter correcting any and all misstatements of fact therein contained was published in the next issue of the paper, or in the case of a daily newspaper within three (3) days after the mistake was brought to the attention of the publisher, editor, or manager, in as conspicuous type as the original statement and the same position in the paper, the plaintiff will be entitled to recover no punitive damages. But if the libel is against a candidate for office, the retraction must also be made editorially in the case of a daily paper at least three (3) days and in the cast of a weekly, biweekly or monthly paper at least ten (10) days before the election.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0305</num>
+      <heading>Retraction Rebuts Presumption of Malice</heading>
+      <text>The publication of a full and fair retraction of the alleged defamatory statement as provided in <cite path="6|6.03|6.0304">Section 6.0304</cite> of the Code shall, on the trial of an action for such libel, be held and considered a rebuttal of any and all presumption of malice attached to and growing out of such alleged libel.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0306</num>
+      <heading>Malice Defined</heading>
+      <text>Malice, as used in <cite path="6.03">this Chapter</cite>, shall mean the absence of legal excuse.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.04</num>
+    <heading>Seduction</heading>
+    <section>
+      <num>6.0401</num>
+      <heading>Definition</heading>
+      <text>Seduction is the carnal knowledge of a man of an unmarried woman or child of previously chaste character, accomplished by means of some false promise, trickery, flattery, or deception. It is not sufficient by itself that the plaintiff show that the defendant had sexual intercourse with her. Where a woman submits to intercourse with a man on the strength of a promise of marriage, it is seduction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0402</num>
+      <heading>Unmarried Woman; Right of Action for Own Seduction; Actual and Punitive Damages</heading>
+      <text>In all cases of seduction, an unmarried woman may maintain an action against her seducer for all actual damages sustained and for punitive damages.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0403</num>
+      <heading>Parties Plaintiff</heading>
+      <text>In all cases of seduction, except where the female seduced is over twenty-one (21) years of age, the father or mother, or any person acting in place of the father or mother, may maintain an action against the seducer. The commencement of a suit and recovery by judgment or by a settlement by one of such persons with the defendant shall be a bar to a suit brought by another. The burden of proof of such settlement shall be on the defendant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0404</num>
+      <heading>Marriage of Parties to a Seduction; Wife's Action Against Abandoning Husband; Support of Children</heading>
+      <text>In all cases of marriage between the parties to the seduction, where it shall appear that the seducer has abandoned his wife or family, or entered into such marriage relation for the purpose of avoiding a prosecution under the laws of the Tribe where the seduction took place, the wife may maintain an action against her husband for all damages sustained by her as well as exemplary damages. In all actions brought under the provisions of <cite path="6|6.04|6.0404">this Section</cite>, the plaintiff shall have the right to recover for the support, education, and maintenance of her child.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0405</num>
+      <heading>Wife Competent Witness Against Her Husband in Action Against Him for Her Seduction</heading>
+      <text>In all actions brought under the provisions of <cite path="6.04">this Chapter</cite>, where it shall appear that the defendant married the person seduced, the wife shall be a competent witness against her husband.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.05</num>
+    <heading>Damages for Death by Wrongful Act</heading>
+    <section>
+      <num>6.0501</num>
+      <heading>Death by Wrongful Act</heading>
+      <text>Whenever the death shall be caused by a wrongful act, neglect or default, and the act, neglect or default is such as would have entitled the party injured to maintain an action and recover damages in respect thereto, if death had not ensued, then in every such case the corporation which or the person who would have been liable, if death has not ensued, or the executor or administrator of the estate of such person as such administrator or executor, shall be liable to an action for damages, notwithstanding the death of the person injured and although the death shall have been caused under such circumstances as amount in law to a felony; and when the action is against such administrator or executor, the damages recovered shall be a valid claim against the estate of such deceased person. Actions for wrongful death or personal injury shall survive the death of the wrongdoer whether or not the death of the wrongdoer occurred before or after the death or injury of the injured person.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0502</num>
+      <heading>Parties; Measure of Damage; Limitation of Action; Settlement; Apportionment Among Beneficiaries</heading>
+      <text>Every action for wrongful death shall be for the exclusive benefit of the wife or husband and children, or if there be neither of them, then of the parents and next of kin of the person whose death shall be so caused; and it shall be brought in the name of the executor or regular or special administrator of the deceased person; and in every such action the jury may give such damages as they may think proportionate to the pecuniary injury resulting from such death to the persons respectively for whose benefit such action shall be brought. Every such action shall be commenced within three (3) years after the death of such deceased person. Such personal representative may at any time before or after the commencement of a suit settle with the defendant the amount to be paid to him as damages for the wrongful death of the decedent. If settlement is made before the commencement of a suit, such settlement must have the approval of the Court of the representative's appointment. If settlement is made at any time after commencement of the action, such settlement must have the consent and approval of the Court wherein the action is pending.</text>
+      <text>If all the statutory beneficiaries are of full age and competent, and consent in writing to the proposed settlement, the same may be made at any time, before or after suit, without consent of the Court. The amount received by such personal representative, whether by settlement or otherwise, shall be apportioned among the beneficiaries unless adjusted between themselves, by the Court making the appointment in such manner as shall be fair and equitable, having reference to the age and condition of such beneficiaries and the laws of descent and distribution of personal estates left by persons dying intestate.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0503</num>
+      <heading>Actions Survive Brought by or Against Legal Representatives</heading>
+      <text>All cases of action shall survive and be brought, notwithstanding the death of the person entitled or liable to the same. Any such actions may be brought by or against the executor or administrator or successors in interest of the deceased.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0504</num>
+      <heading>Malicious Prosecution</heading>
+      <text>A cause of action for malicious prosecution exists when a criminal or civil proceeding has been instituted in the Turtle Mountain Tribal Court or is continued by the defendant against the plaintiff and has terminated in favor of the accused. The proceedings must have been instituted without probable cause and with malice.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0505</num>
+      <heading>Abuse of Process</heading>
+      <text>A cause of action for abuse of process exists when legal process, whether civil or criminal, is used against another to accomplish a purpose for which it is not designed. The essential elements of action for abuse of process are existence of an ulterior purpose and use of process to accomplish a result not within the scope of proceedings in which issued, whether such result might otherwise be lawfully obtained or not.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.06</num>
+    <heading>Intentional Torts</heading>
+    <section>
+      <num>6.0601</num>
+      <heading>Battery</heading>
+      <text>A battery is any willful and unlawful use of force or violence upon the person of another. Person includes any part of the body or anything so closely attached thereto that it is customarily regarded as a part thereof.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0602</num>
+      <heading>Assault</heading>
+      <text>An assault is any willful and unlawful attempt or offer, with force or violence, to hurt the person of another. It is any act of such a nature as to create an apprehension of a battery. Words alone are not enough to constitute an assault. The apprehension must be one which would normally be aroused in the mind of a reasonable person. Assault or battery is justifiable in the following cases.</text>
+      <para>
+        <num>1.</num>
+        <text>When necessarily committed by a police officer in the performance of any legal duty, or by any other person assisting him or acting by his direction;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When necessarily committed by a person in arresting one who has committed any felony and delivering him to a public officer competent to receive him in custody;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When committed either by the party about to be injured, or by any other person in his aid or defense in preventing or attempting to prevent an offense against his person, or any trespass or other unlawful interference with real or personal property in his lawful possession, provided the force or violence used is not more than sufficient to prevent such offense;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>When committed by a parent or the authorized agency of any parent, or by an guardian or teacher in the exercise of a lawful authority to restrain or correct the child, ward, or scholar, provided restraint or correction has been rendered necessary by the refusal to obey the lawful command of such parent, and the force or violence used is reasonable in manner and moderate in degree;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When committed by any person in preventing an idiot, lunatic, insane person, or other person of unsound mind, including persons temporarily or partially deprived of reason, from committing an act dangerous to himself or to another, or enforcing such restraint as is necessary for the protection of his person or for his restoration to health, during such period only as shall be necessary to obtain legal authority for the restraint or custody of his person.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0603</num>
+      <heading>Infliction of Mental Distress</heading>
+      <text>A cause of action shall exist for the infliction of mental distress. Infliction of mental distress is an act which goes beyond the limits of accepted conduct in the community. The actor must intend that the person injured will suffer mental distress of a very serious kind. The mental distress must in fact exist and result from the act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0604</num>
+      <heading>False Imprisonment</heading>
+      <text>False imprisonment shall consist of conduct whereby a person's freedom of movement has been intentionally and unlawfully restrained. A cause of action for false imprisonment or detention occurs as the result of a valid process issued by a court having jurisdiction.</text>
+      <para>
+        <num>1.</num>
+        <text>An Indian is subject to liability to another Indian for false imprisonment if:</text>
+        <para>
+          <num>a.</num>
+          <text>He acts intending to confine the other or a third person within boundaries fixed by the actor; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>His act directly or indirectly results in such a confinement of the other; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The other is conscious of the confinement or is harmed by it.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0605</num>
+      <heading>Willfully Concealing Unpurchased Merchandise; Exoneration from False Imprisonment</heading>
+      <text>Any Indian willfully concealing unpurchased goods or merchandise of any store or other mercantile establishment either on the premises or outside the premises of such store, shall be presumed to have so concealed such article with the intention of converting the same to his own use without paying the purchase price, and the finding of such unpurchased goods or merchandise concealed upon the person or among the belongings of such Indian shall be evidence of willful concealment. Persons so concealing such goods may be detained in a reasonable manner, and for a reasonable length of time by a merchant or a merchant's employee until arrival of the police or other duly authorized law enforcement authorities who shall have been promptly notified of the fact of such detention. Such detention by a merchant or merchant's employee shall not render such merchant or merchant's employee criminally or civilly liable for false arrest or false imprisonment, provided that said exemption shall not apply if the merchant or merchant's employee shall fail to sign a complaint and testify at a legal proceeding, if requested to do so by the prosecuting attorney.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0606</num>
+      <heading>Intentional Interference with Property; Trespass to Personal Property</heading>
+      <text>A trespass to a personal property may be committed by intentionally and unlawfully:</text>
+      <para>
+        <num>1.</num>
+        <text>Dispossessing another of the personal property; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Using or interfering with the use of personal property in the possession of another where</text>
+        <para>
+          <num>a.</num>
+          <text>the personal property is impaired as to its condition, quality or value; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the possessor is deprived of the use of the personal property for a substantial time; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>bodily harm is caused to the possessor, or harm is caused to some person or thing in which the possessor has a legally protected interest.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0607</num>
+      <heading>Definition of Personal Property</heading>
+      <text>Personal property includes any kind of property not amounting to an interest in real estate. Leases shall be considered as personal property for the purposes of <cite path="6|6.06|6.0605">Section 6.0605</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0608</num>
+      <heading>Trespass to Land</heading>
+      <para>
+        <num>1.</num>
+        <text>One is subject to liability to another for trespass, irrespective of whether he thereby causes harm to any legally protected interest of the other, if he intentionally and unlawfully:</text>
+        <para>
+          <num>a.</num>
+          <text>enters land in possession of the other, or causes a thing or third person to do so; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>remains on the land; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>fails to remove from the land a thing which he is under a duty to remove.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Extent of liability. A trespass on land subjects the trespasser to liability for physical harm to the possessor of the land at the time of the trespass, or to the land, or to his personal property, or to persons who are lawfully on the premises or to their personal property, caused by any act done, activity carried on or resulting from the trespasser.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0609</num>
+      <heading>Conversion</heading>
+      <para>
+        <num>1.</num>
+        <text>Conversion is an intentional exercise of control or control over personal property which so seriously interferes with the right of another to control it that the actor may justly be required to pay the other the full value of the personal property.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In determining whether a conversion has been committed, the following factors shall be considered:</text>
+        <para>
+          <num>a.</num>
+          <text>the extent and duration of the actor's exercise of control;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the actor's intent to assert a right, in fact, inconsistent with the owner's right of control;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>the actor's good faith;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>the extent and duration of the resulting interference with the owner's right of control;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>the harm done to the personal property;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>the inconvenience and expense caused to the owner.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0610</num>
+      <heading>Ways of Committing Conversion</heading>
+      <text>A conversion may be committed by intentionally:</text>
+      <para>
+        <num>1.</num>
+        <text>Dispossessing another of personal property;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Destroying or altering personal property;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Unlawfully using personal property;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Receiving personal property with intent to dispossess;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Disposing of personal property entrusted to actor;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Misdelivering personal property;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Refusing to surrender personal property.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.07</num>
+    <heading>Nuisance</heading>
+    <section>
+      <num>6.0701</num>
+      <heading>Nuisance Defined</heading>
+      <text>A nuisance consists in unlawfully doing an act or omitting to perform a duty, which act or omission either:</text>
+      <para>
+        <num>1.</num>
+        <text>Annoys, injures, or endangers the comfort, repose, health or safety of others;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Offends decency;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Unlawfully interferes with, obstructs, or tends to obstruct, or renders dangerous for passage, any lake or navigable stream, bay, canal, or basin, or any public park, square, street, or highway;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In any way renders other persons insecure in life or in the use of property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0702</num>
+      <heading>Nuisance Classified; Public; Private; Defined</heading>
+      <text>A public nuisance is one which at the same time affects an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon the individuals may be unequal.  Every other nuisance is private.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0703</num>
+      <heading>Time; Effect on Public Nuisance</heading>
+      <text>No lapse of time can legalize a public nuisance, amounting to an actual obstruction of public right.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0704</num>
+      <heading>Remedies Against Nuisance; Public or Private; Parties; Procedure; Notice Required in Certain Cases</heading>
+      <text>Remedies against any nuisance are:</text>
+      <para>
+        <num>1.</num>
+        <text>A civil action; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Abatement. The remedy by civil action against public nuisance may be maintained by any public body or officer authorized thereto by law or official duty, or by any private person if it is especially injurious to his self. Such remedy also may be used by any person whose property is injuriously affected, or whose personal enjoyment is lessened by any nuisance public or private. In all such actions the nuisance public or private. In all such actions the nuisance may be enjoined, or ordered abated, and damages recovered in addition.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0705</num>
+      <heading>When Forcible Detainer or Eviction Maintain</heading>
+      <text>An action of forcible detainer or eviction to recover the possession of land, buildings or possessions, may be commenced in the Turtle Mountain Tribal Court against any Indian person subject to the jurisdiction of said Turtle Mountain Tribal Court when:</text>
+      <para>
+        <num>1.</num>
+        <text>An Indian party, by force, intimidation, fraud, or stealth, has entered upon the prior actual possession of real property of another party and detains the same;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An Indian party, after entering peaceably upon real property turns out by force, threats, or menacing conduct the party in possession;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An Indian party, by force or by menaces and threats of violence, unlawfully holds and keeps the possession of any real property, whether the same was acquired peaceably or otherwise;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>An Indian lessee, in person or by subtenant, holds over after the termination of his lease or expiration of his term, or fails to pay his rent for ten (10) days after the same shall be due;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>An Indian party continues in possession after a sales of the real property under mortgage, execution, order, or any judicial process, and after the expiration of the time fixed by law for redemption, or after the execution and delivery of a deed, or after the cancellation and termination of any contract for deed, bond for deed, or other instrument for the future conveyance of real property or equity therein; or</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>An Indian party wrongfully in possession after a judgment in partition or after a sale under an order or decree of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0706</num>
+      <heading>Notice to Quit; When Required; When and How Served</heading>
+      <text>In all cases arising under subsections (4), (5), and (6) of <cite path="6|6.07|6.0705">Section 6.0705</cite>, a ten (10) day written notice to quit must be given to the Indian Lessee, Indian subtenant or Indian party in possession before proceedings can be instituted. Such notice may be served and returned as a summons is served and returned.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0707</num>
+      <heading>Forcible Detainer or Eviction</heading>
+      <text>Any Indian person who fails to comply with the judgment or order of the Turtle Mountain Tribal Court shall be charged with a violation of <cite path="26.0602">Chapter 26.0602</cite> of this Code and, in addition, shall be forcibly ejected from the land, building or other possessions listed in the judgment or order of the Court, by Police Officers of the Branch of Law and Order or by persons designated by the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0708</num>
+      <heading>When Lawful to Set Lands on Fire</heading>
+      <text>An Indian person may set any grass or stubble lands on fire at the time he commences to break or plow such lands, if, at the time the fire is set, there is a strip at least fifty (50) feet wide of well-plowed or burned land completely encompassing the land where the fire is set. The burning of leased Trust land(s) must be by written permission of the Superintendent, Turtle Mountain Agency, or his designated representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.0709</num>
+      <heading>Accidental Damage from Lawfully Set Fire; Liability</heading>
+      <text>If a fire which is lawfully set to burn grass or stubble land accidentally, and without any negligency on the part of the Indian person setting the fire gets beyond his control, he shall be liable only in a civil action to the person damaged for the amount of the damage.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>10</num>
+  <heading>Animal and Rabies Control</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.01</num>
+    <heading>Definitions and General Provisions</heading>
+    <section>
+      <num>10.0101</num>
+      <heading>Animal Defined</heading>
+      <text>"Animal" means any animal other than dogs which may be affected by rabies.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0102</num>
+      <heading>Dog and Puppy Defined</heading>
+      <para>
+        <num>1.</num>
+        <text>"Dog" shall mean any canine animal three (3) months of age and over; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Puppy" shall be defined as any canine animal three (3) months and younger;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For purposes of <cite path="10">this Title</cite> Dog and Puppy shall have the same meaning and shall be reference throughout as Dog. (Amended Resolution No. TMBC1413-08-18)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0103</num>
+      <heading>Owner Defined</heading>
+      <text>"Owner" means any Indian having a right to property in, or who keeps or harbors, or who has in his or her care, or acts as custodian, or who knowingly permits a dog or animal to remain on or about any premises occupied by him or her.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0104</num>
+      <heading>At Large Defined</heading>
+      <text>Any dog shall be deemed to be at large when it is off the property of its owner and not under restraint by a competent person.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0105</num>
+      <heading>Restrained Defined</heading>
+      <text>A dog is under restraint within the meaning of <cite path="10">this Title</cite> 10 and Code if it is controlled by at least a "heel" command beside a competent person, and obedient to that person's voice command, or within the property limits of the owner or keeper.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0106</num>
+      <heading>Stray Defined</heading>
+      <text>"Stray" shall mean any dog not having a known owner.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0107</num>
+      <heading>Rabies Vaccination Defined</heading>
+      <text>"Rabies vaccination" shall mean the injection subcutaneously or otherwise of canine antirabic vaccine approved by the North Dakota State Department of agriculture or by the Department of Health, Education and Welfare, Public Health Service, received from a licensed veterinarian or at a public clinic which may be established for this purpose by the Turtle Mountain Tribal Council and approved by the Service Unit Director, United States Public Health Service, Division of Indian Health, Belcourt, North Dakota.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0108</num>
+      <heading>Service Unit Director Defined</heading>
+      <text>"Service Unit Director" shall mean the Medical Officer in Charge of the United States Public Health Service, Division of Indian Health, Belcourt, North Dakota.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0109</num>
+      <heading>Dog Pound Defined</heading>
+      <text>A premise and shelter for the purpose of impounding and caring for all animals found running at large in violation of <cite path="10">this Title</cite> 10 and Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0110</num>
+      <heading>Keeping of Pit Bull, Rottweiler and Doberman Pinscher Dogs Within the Boundaries of the Turtle Mountain Indian Reservation</heading>
+      <para>
+        <num>1.</num>
+        <text>Purpose: In order to protect the health, safety and welfare of members of the Turtle Mountain Band of Chippewa, the Tribe does hereby enact the following provisions under Title 10, Animal and Rabies Control, <cite path="10.01">Chapter 10.01</cite>;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Pit Bull, Rottweiler, Doberman Pinscher dogs: Keeping prohibited. It shall be unlawful to keep, harbor, own or in any way possess within the boundaries of the Turtle Mountain Indian Reservation any Pit Bull, Rottweiler, Doberman Pinscher dog unless Pit Bull, Rottweiler, and Doberman Pinscher dogs are registered with the Tribal Vector's Office, then may be kept within the boundaries of the reservation subject to the standards and requirements set forth in Section 2 and 3 of this ordinance.</text>
+        <para>
+          <num>a.</num>
+          <text>"Pit Bull Dog" is defined as follows:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The bull terrier breed of dog;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Staffordshire Bull Terrier breed of dog;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The American Pit Bull Terrier breed of dog;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The American Staffordshire Terrier breed of dog;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Dogs of mixed breed or of other breeds than above listed which breed and mixed breed is known as pit bulls, pit bull dogs or pit bull terriers;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any dog which has the appearance or characteristics of being predominantly of the breeds of Bull Terriers, Staffordshire Bull Terrier, American Pit Bull Terrier, American Staffordshire Terrier, any other breed commonly known as Pit Bull Terriers; or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A combination of any of these breeds.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"Rottweiler dog" is defined as follows:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Dogs of mixed breed or of other breeds than above listed, which breed or mixed breed is known as a Rottweiler,</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any dog which has the appearance or characteristics of being predominantly of the breeds of Rottweiler dogs, or a combination of any of breeds related to Rottweiler dogs,</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>"Doberman Pinscher Dog" is defined as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Dogs of mixed breed or of other breeds than above listed, which breed or mixed breed is known as a Doberman Pinscher,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any dog which has the appearance or characteristics of being predominantly of the breeds of Doberman Pinscher dogs, or combination of any of the breeds related to Doberman Pinscher dogs.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Keeping of registered Pit Bulls, Rottweilers or Doberman Pinschers.  The provisions of Section 2 of this ordinance are not applicable to owners, keepers or harborers of Pit Bull, Rottweiler and Doberman Pinscher dogs registered with the Tribal Vector's Office.  The keeping of such dogs, however, shall be subject to the following standards:</text>
+        <para>
+          <num>a.</num>
+          <text>Leash and muzzle. No person shall permit a registered Pit Bull, Rottweiler or Doberman Pinscher dog to go outside its kennel or pen unless such dog is securely leashed with a leash no longer than four (4) feet in length.  No person shall permit a Pit Bull, Rottweiler or Doberman Pinscher dog to be kept on a chain, rope or other type of leash outside its kennel or pen unless a person is in physical control of the leash.  Such dogs may not be leashed to inanimate objects such as trees, posts, buildings, etc.  In addition, all Pit Bull, Rottweiler or Doberman Pinscher dogs on a leash outside the animal's kennel must be muzzled by a muzzling device sufficient to prevent such dog from biting persons or other animals.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Confinement. All registered Pit Bull, Rottweiler and Doberman Pinscher dogs shall be securely confined indoors, or in a securely enclosed and locked pen or kennel, except when leashed and muzzled as above provided. Such pen, kennel or structure must have secure sides and a secure top attached to the sides. All structures used to confine registered Pit Bull, Rottweiler or Doberman Pinscher dogs must be locked with a key or combination lock when such animals are within the structure. Such structure must have a secure bottom or floor attached to the sides of the pen, or the sides of the pen must be embedded in the ground no less than two (2) feet. All structures erected to house Pit Bull, Rottweiler or Doberman Pinscher dogs must comply with all zoning and building regulations of the reservation. All such structures must be adequately lighted and ventilated, and kept in a clean and sanitary condition.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Confinement indoors. No Pit Bull, Rottweiler or Doberman Pinscher dog may be kept on a porch, patio or in any part of a house or structure that would allow the dog to exit such building on its own volition. In addition, no such animal may be kept in a house or structure when the windows are open, or when screen windows or screen doors are the only obstacles preventing the dog from exiting the structure.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Signs. All owners, keepers or harborers of registered Pit Bull, Rottweiler or Doberman Pinscher dogs within the reservation boundaries shall within ten (10) days of the effective date of this ordinance display in a prominent place on their premises a sign easily readable by the public using the words "BEWARE OF DOG." In addition, a similar sign is required to be posted on the kennel or pen of such animal.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Insurance. All owners, keepers or harborers of registered Pit Bull, Rottweiler or Doberman Pinscher dogs must within ten (10) days of the effective date of this ordinance provide proof to the Tribal Vector's Office of public liability insurance in a single incident amount of fifty thousand dollars ($50,000.00) for bodily injury to or death of any person or persons, or for damage to property owned by any persons which may result from the ownership, keeping or maintenance of such animal. Such insurance policy shall provide that no cancellation of the policy will be made unless ten (10) days written notice is first given to the Tribal Vector's Office.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Identification photographs. All owners, keepers or harborers of registered Pit Bull, Rottweiler or Doberman Pinscher dogs must within ten (10) days of the effective date of this ordinance provide to the Tribal Vector's Office two (2) color photographs of the registered animal clearly showing the color and approximate size of the animal.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Reporting requirements. All owners, keepers or harborers of registered Pit Bull, Rottweiler or Doberman Pinscher dogs must within ten (10) days of the incident, report the following information in writing to the Tribal Vector's Office as required hereinafter:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>the removal from the reservation or death of registered Pit Bull, Rottweiler or Doberman   Pinscher dog;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the birth of offspring of registered Pit Bull, Rottweiler or Doberman Pinscher dog;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the new address of registered Pit Bull, Rottweiler or Doberman Pinscher dog owner should the owner move within the reservation boundaries.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Sale or transfer of ownership prohibited. No person shall sell, barter or in any other way dispose of a Pit Bull, Rottweiler or Doberman Pinscher registered with the Tribal Vector's Office to any person within the reservation, unless the recipient person resides permanently in the same household and on the same premises as the registered owner of such dog provided that the registered owner of a Pit Bull, Rottweiler or Doberman Pinscher may sell or otherwise dispose of a registered dog or the offspring of such dog to persons who do not reside within the reservation boundaries.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Animals born of registered dogs. All offspring born of Pit Bull, Rottweiler or Doberman Pinscher dogs registered with the Tribal Vector's Office must be removed from the reservation within six (6) weeks of the birth of such animal.</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Irrebuttable presumptions. There shall be an irrebuttable presumption that any dog registered with the Tribal Vector's Office as a Pit Bull, Rottweiler or Doberman Pinscher dog, or any of these breeds prohibited by Section 2 of this ordinance is in fact a dog subject to the requirements of this ordinance.</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Failure to comply. It shall be unlawful for the owner, keeper or harborer of a Pit Bull, Rottweiler or Doberman Pinscher dog registered with the Tribal Vector's Office to fail to comply with the requirements and conditions set forth in this ordinance.  Any dog found to be the subject of a violation of this ordinance shall be subject to immediate seizure and impoundment. In addition, failure to comply will result in the revocation of the license of such animal resulting in the immediate removal of the animal from the reservation.</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Violations and penalties. Any person violating or permitting the violation of any provision of this ordinance shall, upon conviction in Tribal Court, be fined a sum not more than five hundred dollars ($500). In addition to the fine imposed, the Court may sentence the defendant to imprisonment for a period not to exceed thirty (30) days.  In addition, the Court shall order the registration of the subject Pit Bull, Rottweiler or Doberman Pinscher revoked and the dog removed from the reservation. Should the defendant refuse to remove the dog from the reservation, the Tribal Judge shall find the defendant owner in contempt and order the immediate confiscation and impoundment of the animal. Each day that a violation of this ordinance continues shall be deemed a SEPARATE OFFENSE. In addition to the foregoing penalties, any person who violates this ordinance shall pay all expenses, including shelter, food, handling, veterinary care and testimony necessitated by the enforcement of this ordinance.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.02</num>
+    <heading>Registration of Dogs</heading>
+    <section>
+      <num>10.0201</num>
+      <heading>Dogs to Be Registered</heading>
+      <text>No dogs shall be kept, harbored or maintained within the boundaries of the Turtle Mountain Jurisdiction unless such dog has been registered by the owner with the Secretary-Treasurer of the Turtle Mountain Tribal Council at Belcourt, North Dakota.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0202</num>
+      <heading>Rabies Certificate of Vaccination Required</heading>
+      <text>The Tribal Secretary-Treasurer shall issue a Certificate of Registration and registration tag for each dog within the Turtle Mountain Jurisdiction, provided that the owner exhibits a certificate signed by a licensed veterinarian evidencing that the dog described in the registration application has been vaccinated against rabies within a period of one (1) year preceding the date of the application, and provided further that the owner shall pay to the Tribal Secretary-Treasurer a registration fee of one dollar ($1) for each dog registered.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0203</num>
+      <heading>Information Required on Certificate of Registration; Registration, Tags Issued and Disposition of Fees</heading>
+      <text>Each certificate of registration shall set forth the name and address of the owner, the dog's name, color, breed and sex, the date of rabies vaccination, the name and address of the licensed veterinarian, and the registration number. Each registration tag shall set forth the registration and registration tags issued and shall deposit and maintain a separate record of all fees collected thereof in a special "Rabies Control Program" Tribal account for use in the defrayment of the expenses connected with the administration of <cite path="10">this Title</cite> 10 and Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0204</num>
+      <heading>Expiration of Registration Certificate and Tags</heading>
+      <text>Registration certificates and tags issued under <cite path="10">this Title</cite> 10 and Code shall expire at midnight on the last day of the registration year. For the purpose of <cite path="10">this Title</cite> 10 and Code, the registration year shall begin September 1 and end on August 31. Applications for renewals may be made for the ensuing registration year during the months of July and August and upon payment of the fee required in <cite path="10|10.02|10.0202">Section 10.0202</cite> of <cite path="10">this Title</cite> 10 and Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0205</num>
+      <heading>Attaching Registration Tag Without Proper Registering</heading>
+      <text>No Indian person shall attach registration tags to a dog unless such dog has been properly registered with the Secretary-Treasurer of the Turtle Mountain Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0206</num>
+      <heading>Refusal or Failure to Register or Pay Impoundment Fee</heading>
+      <text>The refusal or failure of the owner of any dog to pay the registration fee or any impoundment expenses within three (3) days after written notice thereof, by the Tribal Secretary-Treasurer shall be deemed an abandonment of such dog by the Court. Written notice shall be by certified mail, return receipt requested.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.03</num>
+    <heading>Impoundment and Destruction of Dogs</heading>
+    <section>
+      <num>10.0301</num>
+      <heading>Dogs to Be Seized and Impounded; Notification of Owner; Unclaimed Dogs</heading>
+      <para>
+        <num>1.</num>
+        <text>No dog without a current registration tag, no dog of a fierce, dangerous or vicious nature, no female dog in heat, and no dog which becomes a nuisance to others when trespassing upon streets, public places or premises of others shall be permitted to run at large within the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The police or any persons specifically appointed for such purposes are hereby authorized to seize and impound such dogs in a tribally designated and maintained impoundment, and the owner, if known, shall be promptly notified. Unless a dog is redeemed by its owner within three (3) days after such notice, or, if the owner is unknown, within three (3) days after its impoundment, it shall be considered unclaimed.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If a dog is surrendered to Turtle Mountain Animal Rescue (TMAR), Turtle Mountain Animal Rescue is authorized to accept the surrendered stray dog(s) from the tribal land and hold such stray dog for five days. (amended Resolution No. TMBC1413-08-18)</text>
+      </para>
+      <para>
+        <num>a.</num>
+        <text>If the surrendered stray was on premises for more than two days. Turtle Mountain Animal Rescue will hold for an additional three days before finding appropriate placement.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>If the animal was surrendered on the day of arrival, Turtle Mountain Animal Rescue will hold the dog for five days before the animal is considered unclaimed.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Unclaimed dog" shall mean no responsible individual or family presented themselves to TMAR or the Tribal Animal Control as the register owner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0302</num>
+      <heading>Requirement Before Release; Disposition of Service Fees</heading>
+      <text>No dog will be released from impoundment to its owner without payment of a service fee of three dollars ($3) and presentation of a registration certificate for the current registration year. Service fees shall be deposited in a special "Rabies Control Program" Tribal account and shall be used to defray the expenses connected with the administration of <cite path="10">this Title</cite> 10.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0303</num>
+      <heading>Dogs to Be Destroyed in Humane and Sanitary Manner</heading>
+      <text>All unclaimed dogs will be destroyed in a humane and sanitary manner by the police or by a person designated for such purpose by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0304</num>
+      <heading>Designating Tribal Employees and Law Enforcement to Be Authorized to Destroy Any Unclaimed Dog</heading>
+      <text>Tribal employees specifically appointed to such purpose and certified in use of firearms by the Chief of Police and Law Enforcement Officials shall be authorized to destroy any unclaimed dog or known to be of vicious nature, within the city limits by shooting said animal with a firearm, with the stipulation that the firing of a firearm is only in extreme emergencies and is a life threatening situation.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.04</num>
+    <heading>Control of Rabies Infected Domestic Animals</heading>
+    <section>
+      <num>10.0401</num>
+      <heading>Care and Control of Dog or Animal Known to Have Bitten a Person</heading>
+      <text>Any dog or other animal known to have bitten a person so as to cause abrasion of the skin or which appears to be infected by rabies, shall be closely confined by the owner by means of a substantial metal chain for a period of ten (10) days or as may be recommended by the Service Unit Director. During the ten (10) days confinement period, the dog or other animal shall be placed under the observation of the Sanitarian of the Public Health Service.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0402</num>
+      <heading>Failure of Owner to Confine Dog or Other Animal</heading>
+      <text>If the owner fails to confine such dog or other animal, or if the owner is not known, the Public Health Service Sanitarian, the police, or other tribally designated person shall remove the dog to a veterinary hospital or other location as designated by the Service Unit Director, and placed under observation. The owner shall in such cases be required to reimburse the special Tribal "Rabies Control Program" account for necessary expenses connected with the confinement. Confinement expenses for stray dogs shall be paid out of the same special Tribal account.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0403</num>
+      <heading>Quarantine of Animals; Authority to Establish Period and Location</heading>
+      <text>Whenever a diagnosis of rabies is confirmed in any animal from the Turtle Mountain Jurisdiction, the Chairman of the Tribal Council may establish a quarantine of domestic animals and shall define the area under quarantine. Unless sooner rescinded by the Chairman of the Tribal Council, such quarantine shall remain in effect for a minimum of sixty (60) days after the diagnosis of the last known case of animal rabies within the quarantine area.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0404</num>
+      <heading>Animals to Be Confined; Responsibility of Owners</heading>
+      <text>No animal subject to the quarantine shall be removed from the quarantine area without written permission of the Chairman of the Tribal Council. Owners of domestic animals within a quarantine area shall confine the animals to the owner's premises or maintain them under leash.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>10.0405</num>
+      <heading>Requirement for Vaccination of Animals</heading>
+      <text>The Chairman of the Tribal Council may, on recommendations of the Service Unit Director, require the vaccination of any or all domestic animals within the Turtle Mountain Jurisdiction during the period of quarantine.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10.05</num>
+    <heading>Penalties</heading>
+    <section>
+      <num>10.0501</num>
+      <heading>Penalties for Violation of This Title 10</heading>
+      <text>Any person who willfully or knowingly violates any provision of Title 10 of this Code shall be deemed guilty of an offense and upon conviction thereof, shall be sentenced to pay a fine not to exceed fifty dollars ($50), or sentenced to labor not to exceed twenty-five (25) days or to both such fine and imprisonment with costs.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

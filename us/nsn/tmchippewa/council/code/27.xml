@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>27</num>
+  <heading>Leasehold Mortgage of Tribal Trust Land</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.01</num>
+    <heading>General Purpose Statement</heading>
+    <section>
+      <num>27.0101</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="27">this title</cite> is to assist Tribal members in obtaining mortgage financing for the purchase of one-family, owner-occupied principal residences on certain Leasehold Estates, by prescribing procedures relating to recordation, foreclosure and evictions in connection with Leasehold Mortgages given to secure loans made by Mortgages pursuant to the Native American Housing Pilot Initiative (the "Initiative") offered by the Federal National Mortgage Association ("Fannie Mae") and Leasehold Mortgages given to secure loans made by the Department of Veterans Affairs under the Native American Veteran Direct Loan Program authorized under Title 38 U.S. Code § 3761, et seq. ("VA Program") and any other leasehold mortgages or liens authorized and valid pursuant to federal law.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.02</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>27.0201</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Lease" shall mean the residential ground lease or other agreement for use of Tribal Trust Land on which a Leasehold Mortgage has or will be given.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Leasehold Estate" shall mean a leasehold estate established pursuant to a Lease between the Tribe, as Lessor, and a member of the Tribe, as Tenant.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Leasehold Mortgage" shall mean the first-lien mortgage of a Leasehold Estate given to secure a mortgage loan made by a Mortgagee pursuant to the Fannie Mae Initiative, VA program, or any other program authorized by federal law.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Leasehold Mortgage Foreclosure Proceeding" shall mean a proceeding in the Tribal Court</text>
+        <para>
+          <num>a.</num>
+          <text>to foreclose the interest of the Mortgagor(s), and each person or entity claiming through the Mortgagor(s), in a Leasehold Estate on which a Leasehold Mortgage has been made by the Mortgagee pursuant to the Fannie Mae Initiative, the VA program or any other program authorized by federal law; and/or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>to assign such leasehold Estate to the Mortgagee or the Mortgagee's successors or assigns.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Lessor" shall mean the Tribe.	The Tribe shall be the beneficial or equitable owner of certain Tribal Trust land underlying a leasehold Estate on which a leasehold Mortgage has been given. The lessor shall include the successor(s) or assign(s) of such lessor.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Tri-Party Agreement" shall mean that certain Agreement evidencing the Initiative by and among Fannie Mae, the Mortgagee and the Tribe, and approved by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Mortgagor" shall mean any member of the Tribe who has executed a leasehold Mortgage, including any heir(s), successor(s), executor(s), administrator(s) or assign(s) of such member.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Mortgagee" shall mean the lender under any leasehold Mortgage as prescribed in <cite path="27">this title</cite> or the successors or assigns of any such lender, including Fannie Mae or the Secretary.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Nuisance" shall mean maintenance on the leasehold Estate of a condition which:</text>
+        <para>
+          <num>a.</num>
+          <text>Unreasonably threatens the health or safety of the public or neighboring land users; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Unreasonably and substantially interferes with the ability of neighboring real property users to enjoy the reasonable use and occupancy of their property.</text>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Subordinate lien holder" shall mean the holder of any lien, including a mortgage, perfected subsequent to the recording of a leasehold Mortgage under <cite path="27">this title</cite>; provided, however, such terms shall not include the Tribe with respect to a claim for a Tribal leasehold tax.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Tenant" shall mean any person who occupies Tribal Trust land under a leasehold Estate with a lessor.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Tribal Court" shall mean</text>
+        <para>
+          <num>a.</num>
+          <text>the tribal court authorized by the Secretary of the Interior (a Court of Indian Offenses),</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the tribal court established by the laws of the Tribe, or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
+        </para>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Tribe" shall refer to the Turtle Mountain Band of Chippewa Indians of the Turtle Mountain Reservation as defined in the Tribal Constitution.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Tribal Trust land" shall mean land, title to which is held by the United States for the benefit of the Tribe and/or which may be subject to a restriction against alienation imposed by federal treaty, statute or Executive Order.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Unlawful Detainer Action" shall be a suit brought before the Tribal Court to terminate a tenant's interest in a leasehold Estate and/or to evict any person from occupancy of such leasehold Estate.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Waste" shall mean spoil or destruction of land, buildings, gardens, trees or other improvements on the leasehold Estate which result in substantial injury to the lessor's interest in the leasehold Estate.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Writ of Restitution" is an order of the Tribal Court:</text>
+        <para>
+          <num>a.</num>
+          <text>Restoring an owner, lessor, Mortgagee (or other successor in interest) to possession of a Leasehold Estate subject to a leasehold Mortgage; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Evicting a Tenant or other occupant from such property.</text>
+        </para>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Secretary" shall mean the Secretary of the United States Department of Veterans Affairs or designee.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.03</num>
+    <heading>Priority</heading>
+    <section>
+      <num>27.0301</num>
+      <heading>Priority</heading>
+      <text>A leasehold Mortgage recorded in accordance with the recording procedures set forth in <cite path="27">this title</cite> shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim (except a lien or claim arising from a Tribal tax assessed against a leasehold Estate subject to the leasehold Mortgage).</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.04</num>
+    <heading>Recording</heading>
+    <section>
+      <num>27.0401</num>
+      <heading>Recording</heading>
+      <text>The Tribe recognizes that the appropriate office for recording Leases and Leasehold Mortgages is the Bureau of Indian Affairs Area Land Titles and Records Office, and the Tribe agrees that all Leases and Leasehold Mortgages subject to <cite path="27">this title</cite> will be recorded in the county recorder's office in the state in which the Leasehold Estates are located.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.05</num>
+    <heading>Leasehold Mortgage Foreclosure Proceedings</heading>
+    <section>
+      <num>27.0501</num>
+      <heading>Leasehold Mortgage Foreclosure Proceedings</heading>
+      <text>Upon the default of the Mortgagor(s), and upon expiration of any applicable cure periods, under a Leasehold Mortgage, the Mortgagee or its successors and assigns may commence a Leasehold Mortgage foreclosure proceeding in the Tribal Court as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>By filing a verified complaint:</text>
+        <para>
+          <num>a.</num>
+          <text>Citing authority for jurisdiction of the Tribal Court;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Naming the Mortgagor(s) and each record owner claiming through the Mortgagor(s) subsequent to the recording of the Leasehold Mortgage, including each Subordinate Lienholder (except the Tribe with respect to a claim for a Tribal tax on the Leasehold Estate subject to the Leasehold Mortgage), as a defendant;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Describing the Leasehold Estate subject to the Leasehold Mortgage;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Stating the facts concerning</text>
+          <para>
+            <num>(1)</num>
+            <text>the execution the Lease and the Leasehold Mortgage;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the recording of the Leasehold Mortgage; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the alleged default(s) of the Mortgagor(s) (and any other facts as may be necessary to constitute a cause of action);</text>
+          </para>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Having appended as exhibits true and correct copies of each promissory note, Lease, Leasehold Mortgage and, if applicable, assignment thereof relating to such Leasehold Estate;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Including an allegation that all relevant requirements and conditions prescribed in the Initiative, the VA program or any other program authorized by federal law, the agreements between parties and the Lease have been complied with by the Mortgagee or its successors or assigns; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Otherwise satisfying the requirements of the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>By obtaining a summons, issued as in other cases, requiring the Mortgagor(s) and each other person or entity claiming through the Mortgagor, as defendants to appear for a trial upon the complaint on a date and time specified in the summons, and filing a copy of such summons with the Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0502</num>
+      <heading>Service of Process and Procedures</heading>
+      <text>The laws of the Tribe governing service of process and all other matters relating to the conduct of Tribal Court proceedings shall apply to any leasehold Mortgage Foreclosure Proceeding pursuant to <cite path="27">this title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0503</num>
+      <heading>Cure of Default by Subordinate Lienholder</heading>
+      <text>Prior to the entry of a judgment of foreclosure of a leasehold Mortgage pursuant to <cite path="27">this title</cite>, any Mortgagor or any Subordinate Lienholder may cure the default(s) under the leasehold Mortgage. Any Subordinate Lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such Subordinate Lienholder to cure such default(s), plus interest on such amounts at the rate stated in the promissory note evidencing the subordinate lien.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0504</num>
+      <heading>Power of the Tribal Court</heading>
+      <text>If the alleged default(s) have not been cured, and if the Tribal Court should find for the Mortgagee or its successors or assigns, the Tribal Court shall enter judgment:</text>
+      <para>
+        <num>1.</num>
+        <text>Foreclosing the leasehold Estate of the Mortgagor(s) and each other defendant named in the complaint upon whom proper and timely service has been made, including each such Subordinate Lienholder; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Assigning such leasehold Estate to the Mortgagee or the Mortgagee's assignee.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0505</num>
+      <heading>Injunction to Restrain Injury to Property</heading>
+      <text>The court may, by injunction, on good cause shown, restrain the tenant of the leasehold estate or the mortgagor of the leasehold mortgage, or any of their successors or assigns from doing any act to the injury of the leasehold estate during the existence of the leasehold mortgage lien, foreclosure proceedings, or unlawful detainer actions.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.06</num>
+    <heading>Leasehold Mortgage Eviction Procedures</heading>
+    <section>
+      <num>27.0601</num>
+      <heading>Jurisdiction</heading>
+      <text>The provisions of <cite path="27.06">this chapter</cite> shall apply to all persons and property subject to the governing authority of the Tribe as established by the constitution and bylaws of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0602</num>
+      <heading>Unlawful Detainer</heading>
+      <text>A Tenant or other occupier of a leasehold Estate subject to a leasehold Mortgage shall be guilty of unlawful detainer if such person shall continue in occupancy of such leasehold Estate under any of the following situations:</text>
+      <para>
+        <num>1.</num>
+        <text>Without the requirement of any notice by the lessor:</text>
+        <para>
+          <num>a.</num>
+          <text>After the expiration of the term of the lease;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>If such person has entered onto or remains on   the real property of another without the permission of the owner and without having any substantial claim under a lease or title to such property;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>After the lessor has terminated such person's tenancy pursuant to procedures providing such person a hearing before such lessor involved; or</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>After such person's leasehold Estate has been foreclosed in leasehold Mortgage Foreclosure Proceeding in the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>After having received thirty (30) days notice, the Tenant or occupier shall remain in possession of such property contrary to the terms of the notice as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>When such person has received notice: (1) that he or she is in default in the payment of ground rent; and (2) requiring him or her to either pay such rent or surrender possession of the occupied property and such person has not either surrendered possession of such property or paid the rent within the (thirty) 30-day period provided in such notice;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>When such person shall continue to fail to keep or perform any condition or covenant of the lease or other use agreement under which the property is held after he or she has been given notice to comply with such condition or covenant or else to surrender the property; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>When such person continues to commit or to permit Waste upon or maintain a Nuisance upon the occupied property after having been given notice to either cease such Waste or maintenance of Nuisance or to surrender the property.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0603</num>
+      <heading>Procedures for Service of Notice</heading>
+      <text>Notices required or authorized in the immediately preceding section shall be given in accordance with established Tribal Court rules and procedures. In the absence of such rules and procedures, notices shall be given in writing by either:</text>
+      <para>
+        <num>1.</num>
+        <text>Delivering a copy personally to the Tenant or occupier or to any adult members of his or her family residing on the leasehold Estate; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Posting said notice in a conspicuous place near the entrance to said leasehold Estate, and by sending an additional copy to the Tenant or occupier by certified mail, return receipt requested, properly addressed, postage prepaid.</text>
+        <text>Proof of service by either of the above methods may be made by affidavit of any adult person stating that he or she has complied fully with the requirements of either of these two methods of service.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0604</num>
+      <heading>Complaint and Summons</heading>
+      <text>The Lessor or the Mortgagee (including its successors or assigns) shall commence an action for unlawful detainer by filing with the Tribal Court, in writing, the following documents:</text>
+      <para>
+        <num>1.</num>
+        <text>A complaint, signed by the Lessor, the Mortgagee (or its successors or assigns), or an agent or attorney on their behalf including the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Citing authority for jurisdiction of the Tribal Court;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Naming the Mortgagor{s) and each record owner claiming through the Mortgagor(s) subsequent to the recording of the Leasehold Mortgage, including each Subordinate Lienholder (except the Tribe with respect to a claim for a Tribal tax on the Leasehold Estate subject to the Leasehold Mortgage), as a defendant;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Describing the Leasehold Estate subject to the Leasehold Mortgage;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Stating the facts concerning</text>
+          <para>
+            <num>(1)</num>
+            <text>the execution of the Lease and the Leasehold Mortgage;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the recording of the Leasehold Mortgage; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the facts upon which he or she seeks to recover;</text>
+          </para>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Stating any claim for damages or compensation due from the persons to be evicted; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Otherwise satisfying the requirements of the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A copy of the summons, issued in accordance with established Tribal Court rules and procedures. In the absence of such rules and procedures for the issuance of a summons, the summons shall require defendants to appear for trial upon the complaint on a date and time specified in the summons. The trial date specified in the summons shall be no less than six (6) or more than thirty (30) days from the date of service of the summons and complaint. The summons must notify the defendants that judgment will be taken against them in accordance with the terms of the complaint unless they file with the court an answer and appear for trial at the time, date and place specified in the summons.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0605</num>
+      <heading>Service of Summons and Complaint</heading>
+      <text>A copy of the summons and complaint shall be served upon the defendants in the manner provided by the Tribal Court rules for service of process in civil matters. In the absence of such Tribal Court rules, the summons and complaint shall be served by one of</text>
+      <text>the two methods provided in Article II Section 3 above.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0606</num>
+      <heading>Power of the Tribal Court</heading>
+      <text>The Tribal Court shall enter a Writ of Restitution if:</text>
+      <para>
+        <num>1.</num>
+        <text>Notice of suit and trial is given by service of summons and complaint in accordance with the procedures provided herein; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Court shall find that the occupier of the Leasehold Estate subject to the Leasehold Mortgage is guilty of an act of unlawful detainer.</text>
+        <text>Upon issuance of a Writ of Restitution, the Tribal Court shall have the authority to enter against the defendants a judgment for the following:</text>
+        <para>
+          <num>a.</num>
+          <text>back rent, unpaid utilities, and any charges due the Tribe or Lessor under any lease or occupancy agreement;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>any and all amounts secured by the Leasehold Mortgage that are due the Mortgagee (or its successors or assigns); and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>damages caused by the defendants to the property other than ordinary wear and tear.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal Court shall have the authority to award costs and reasonable attorney's fees in bringing suit to the prevailing party.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0607</num>
+      <heading>Enforcement</heading>
+      <text>Upon issuance of a Writ of Restitution by the Tribal Court, Tribal law enforcement officers shall enforce the Writ of Restitution by evicting the defendants and their property from the Leasehold Estate which is unlawfully occupied. In all cases involving the Mortgagee (or its successors or assigns), the Writ of Restitution shall be enforced no later than sixty (60) days after the date of service of the summons and complaint, subject to Section 8 below.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0608</num>
+      <heading>Continuances in Cases Involving the Mortgagee</heading>
+      <text>Except by agreement of all parties, there shall be no continuances in cases involving the Mortgagee (or its successors or assigns) which will interfere with the requirement that the Writ of Restitution be enforced not later than sixty (60) days from the date of service of the summons and complaint.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>27.0609</num>
+      <heading>Alternative Remedies</heading>
+      <text>In those cases in which the persons or property are subject to the jurisdiction of the courts of the State of North Dakota or the United States, the remedies and procedures provided by <cite path="27">this title</cite> are in the alternative to the remedies and procedures provided by the laws of the State of North Dakota or the United States.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.07</num>
+    <heading>Limited Waiver of Immunity</heading>
+    <text>Only with regard to loans made by Mortgagees pursuant to the "Initiative" offered by "Fannie Mae", the Tribe hereby authorizes a limited waiver of immunity from suit that the Tribe may enjoy with respect to any and all controversies or claims arising out of or related to the obligations of the Tribe under the Tri-Party Agreement and the Leases described herein, and in connection with such waiver, the Tribe hereby consents and attorns to the personal jurisdiction of any court of competent jurisdiction with respect to any action to enforce any obligations owed by it to any other party or to enforce any of the other party's rights and/or remedies under such Tri-Party Agreement or Leases. The authority provided herein is not intended to nor shall it be construed to waive the immunity of the Tribe for any other purpose or with respect to any claim or other matter not specifically mentioned herein, and is not intended to, nor shall it extend to the benefit of, any person other than the parties to such agreements or their successors or assigns and Fannie Mae.</text>
+  </container>
+</container>

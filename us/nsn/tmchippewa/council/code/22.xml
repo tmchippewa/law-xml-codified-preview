@@ -1,0 +1,1003 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>22</num>
+  <heading>Administrative Procedures Act</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>22.0101</num>
+      <heading>Policy and Purpose</heading>
+      <text>It is the policy of the Turtle Mountain Band of Chippewa Indians (hereafter, "the Tribe") to provide fair, open and equitable procedures consistent with common sense and justice in the administration of the powers of the agencies of the Tribal government.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0102</num>
+      <heading>Short Title</heading>
+      <text>This ordinance may be referred to as the Administrative Procedure Act (APA).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0103</num>
+      <heading>Rules Have the Same Force as Law</heading>
+      <text>Each rule adopted in accordance with this ordinance to implement or interpret a Tribal law authorizing rulemaking has the force of law and when not so adopted is invalid.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.02</num>
+    <heading>Findings</heading>
+    <section>
+      <num>22.0201</num>
+      <heading>Findings</heading>
+      <text>The Tribal Council finds as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Council has, pursuant to the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians, the authority to adopt and implement procedures for the orderly administration of the business of the Tribe, the protection of the rights of those who transact business with the Tribe, and for the provision of direction concerning the manner and duties to which the employees and officers of the Tribe must adhere in the fulfillment to tribal responsibilities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Turtle Mountain Tribe has jurisdiction to enforce the Turtle Mountain Administrative Procedures Act and to insure that all persons, whether residing upon the Turtle Mountain Reservation or conducting business of other activities within the Tribe's Jurisdiction are provided with due process of law.  Tribal Jurisdiction of all such persons and lands is necessary, to protect the economy, health, safety and welfare of the Reservation population.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Turtle Mountain Chippewa Tribe will be strengthened and enhanced by the establishment of administrative procedures for rulemaking and for contested cases involving the granting, denial, or revocation of licenses, permits, benefits, or privileges.  TAPA will also assist in assuring the protection of the health, safety, and welfare of Tribal members and of all persons residing or doing business within the Tribes' jurisdiction by formalizing Tribal guarantees that no person within Tribal jurisdiction shall be deprived of liberty or property by Tribal governmental action without due process of law.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.03</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>22.0301</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>For the purpose of <cite path="22">this Title</cite>:</text>
+        <para>
+          <num>a.</num>
+          <text><strong>Agency</strong> means any board, bureau, commission, department, or officer of the Turtle Mountain Band of Chippewa Tribe, whether or not it or such person is subject to review by another Tribal agency which is authorized by law to confer or deny a benefit, to exact a penalty or sanction, to determine contested cases, or to enter into contracts, provided that the provisions of this ordinance do not apply to the following:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Court.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text><strong>Agency action</strong> includes the whole or a part of an agency rule, order, license, sanction, relief, or the equivalent or denial thereof, or the failure to act.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text><strong>Adjudication</strong> means administrative process for the formulation of an order.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text><strong>Contested case </strong>means any administrative proceeding which a determination of legal rights, duties, or privileges of a party is made after adequate notice and an opportunity to be heard.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text><strong>Ex parte communication </strong>means an oral or written communication not on the public record with respect to which reasonable prior notice is not given to all parties, but it shall not include requests for status reports on any matter or proceeding covered by this Ordinance.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text><strong>License</strong> includes the whole or any part of an agency permit, certificate, approval, registration, or other form of permission required by law.  "Licensing" includes the agency process respecting the grant, renewal, denial, revocation, suspension, annulment, withdrawal, limitation, modification, of conditioning of a license.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text><strong>Order</strong> means the whole or part of a final administrative disposition whether in affirmative, negative, injunctive, or declaratory for or in a matter other than rulemaking.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text><strong>Party</strong> includes a person or agency named or admitted as a party or properly seeking and entitled as of right to be admitted as a party in an administrative proceeding.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text><strong>Person </strong>includes an individual, partnership, corporation, association or public or private organization other than an agency, without regard to the Tribal affiliation, if any, of the individual or entity.  "Public" includes all persons residing of doing business within the Turtle Mountain Reservation.</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text><strong>Relief</strong> includes the whole or part of an agency action which includes:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>A grant of money, assistance, license, authority, exemption, privilege or remedy;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The recognition of a claim, a right, immunity, privilege, exemption, variance, or exception; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The taking of other action on the application or petition of , and beneficial to a person.</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text><strong>Rule</strong> means each regulation, standard, or statement of general applicability that implements, interprets, or prescribes law or policy or describes the procedures of an agency.  The term includes amendment or repeal of a prior rule.</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text><strong>Sanction</strong> includes the whole or any part of an agency action:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Withholding relief;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Imposing a penalty or fine;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Seizing or withholding personal property;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Assessment of damages, reimbursement, restitution, costs, compensation, charges, or fees;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Revocation or suspension of a license; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Taking other compulsory or restrictive action</text>
+        </para>
+        <para>
+          <num>a.</num>
+          <text><strong>Substantive rule </strong>creates a right, duty or obligation.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.04</num>
+    <heading>Information and Privacy</heading>
+    <section>
+      <num>22.0401</num>
+      <heading>Public Information</heading>
+      <text>Unless otherwise required by Federal or Tribal law, each agency shall separately state and make available to the public information as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>A description of its organization, the method by which its functions are channeled, the nature of the requirements of its formal and informal procedures, and the places at which, from whom, and the methods whereby, the public may obtain information, make requests, or obtain decisions;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Rules of procedure, insofar as such rules may supplement the provisions of this ordinance, and descriptions of forms available;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Substantive rules or general applicability adopted as authorized by this ordinance; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Each amendment, revision, or repeal of the foregoing.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0402</num>
+      <heading>Publication of Changes</heading>
+      <text>Upon adoption, amendment, or repeal of a rule and the filing of the same with the Tribal Secretary, each agency shall cause to be published in a newspaper of regular publication and general circulation within the Tribe's jurisdiction;</text>
+      <para>
+        <num>1.</num>
+        <text>A notice of the adoption, amendment or repeal of a rule;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The effective date;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A brief explanation of the substance of such rule adopted, amended, or repeal adopted;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The name and mailing address of the Tribal employee from whom it complete text of the rule or amendment may be obtained; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A schedule of fees, if any, required by the agency for costs of reproduction and mailing of the requested materials.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0403</num>
+      <heading>Requirement of Publication and Notice</heading>
+      <text>Except to the extent that a person has actual and timely notice of the terms of any adopted rule or amendment, a person may not be adversely affected by a rule or amendment which is required to be published and was not so published.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0404</num>
+      <heading>Right to Inspect; Exceptions</heading>
+      <text>Each agency shall make available for public inspection and copying final orders made in the administrative adjudication of cases, except matters that are:</text>
+      <para>
+        <num>1.</num>
+        <text>Trade secrets and commercial, financial, or industrial information obtained from a person and privileged confidential;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Investigatory records compiled for law enforcement purposes that the production of such records would;</text>
+        <para>
+          <num>a.</num>
+          <text>Interfere with enforcement proceedings;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tend to deprive a person of a fair trial or an impartial adjudication;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Constitute an unwarranted invasion of personal privacy;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Disclose the identity of a confidential source; or</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Endanger the physical safety of law enforcement personnel;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Contained in or related to the files, documents, or work product of an attorney, paralegal, or court advocate employed by or retained by the Tribe;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Contained in or related to examination, condition, or operating reports prepared by, on behalf of, or for the use of any financial institution affiliated with or doing business with the Tribe;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Geological, geophysical, or hydrological information and data, including maps, with respect to any resource or potential resource in which the Tribe has or may have an interest; PROVIDED, however, that this subsection does not apply to information collected, or to plans, reports, licenses, or orders prepared or issued pursuant to Tribal law protecting the reservation environment or providing for Reservation-wide management of any natural resource;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>A record about an individual that is maintained by an agency, including, but not limited to the individual's Tribal enrollment, education, financial transactions, medical history, and criminal or employment history, and that contains their name or any identifying symbol, which record is kept in an agency system or records, unless such record is:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Requested by the individual or disclosure is made with his prior written consent</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Requested by another agency for a purpose compatible with the purpose for which the record was collected</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Requested by another agency or by an instrumentality of the United States Government for a civil or criminal law enforcement</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Disclosure to a requesting person upon a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Pursuant to the order of a court of competent jurisdiction.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0405</num>
+      <heading>Right to Access Parts of Document</heading>
+      <text>Any portion of a record which may be reasonably segregated shall be provided to any person requesting such record after deletion of the portions which are exempt under 22.0404.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0406</num>
+      <heading>Amendment of a Record</heading>
+      <para>
+        <num>1.</num>
+        <text>Any individual may, upon request, gain access to and a copy of any information about them contained in an agency system of records, and may further request amendment of a record pertaining to him/her.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon receipt of such request for amendment of a record, an agency shall either make the requested correction or, within 15 days of the request, inform the individual of the agency's refusal to amend the record, together with the grounds therefore</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0407</num>
+      <heading>Withholding Information Not Authorized</heading>
+      <text>The section does not authorize withholding of information or limit the availability of records to the public except as specifically stated in <cite path="22.04">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0408</num>
+      <heading>Order for Production of Records</heading>
+      <text>On the properly filed complaint of an aggrieved person, the Tribal Court has jurisdiction to enjoin an agency from improperly withholding or refusing to amend agency records and to order the production or amendment of such records.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.05</num>
+    <heading>Rulemaking</heading>
+    <section>
+      <num>22.0501</num>
+      <heading>Roles of Agencies and of the Tribal Council</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as provided in section 22.07, nothing in <cite path="22">this Title</cite> confers authority upon, or augments the authority of any Tribal agency to adopt administer, or enforce any rule.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The authority to adopt, amend, or repeal a substantive rule of any agency implementing any ordinance authorizing the adoption of rule resides wholly with the Tribal Council, provided, however, no proposed rule shall be adopted, amended, or repealed unless:</text>
+        <para>
+          <num>a.</num>
+          <text>The agency affected has recommended the change and the Tribal Council has considered the recommendation and determined by majority vote that the interests of the Tribe and of its members would best be served by acceptance, modification or rejection of the agency recommendation; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>In the absence of agency recommendation, the Tribal Council may determine by a majority vote that the interests of the Tribe and of its members would best be served by the proposal of a rule, and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The Chairperson of the Tribal Council has notified the affected agency in writing of the Council determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal Council may delegate all or part of its rulemaking authority hereunder to an affected agency by adopting an appropriate ordinance or amendment so providing. In the event of such a delegation, all rulemaking procedures prescribed in <cite path="22">this title</cite> for the Tribal Council shall be binding on the agency.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0502</num>
+      <heading>Notice and Publication</heading>
+      <para>
+        <num>1.</num>
+        <text>Prior to adopting any substantive rule of general applicability, which is not a rule relating to internal procedures or management practices or an emergency rule, as provided in sub<cite path="22|22.05|22.0503">section 22.0503</cite> of <cite path="22|22.05|22.0502">this section</cite>, the Tribal Council, or the affected agency to which the Tribal Council has properly delegated authority, shall conduct a public hearing thereon.  At such hearing, written comment on the proposed rule may be submitted by any interested person and oral comment shall be received from any persons submitting a Notice of Intent to comment not later than 3 days prior to the date of the hearing.  The Tribal Council or its properly authorized agency may fix a time limit for the duration of each oral comment.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notice of the proposed rule and the hearing thereon shall be prepared and distributed as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>Not later than thirty (30) days prior to the date set for public hearing, the affected agency shall prepare the number of copies of a proposed rule requested by interested persons, in no case fewer that ten (10) copies, and an equal number of copies of a brief written explanation of the intent of the proposal, its effect if adopted, and the date, time and place of the hearing.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Not later than 25 days before the date set for the public hearing, the agency shall cause notice of the proposed rule and of the hearing thereon to be published once each week for two consecutive weeks in a newspaper of regular publication and general circulation within the Tribe's jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Such notice shall include:</text>
+        <para>
+          <num>a.</num>
+          <text>The subject of the proposed rule;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The date, time, and place of the public hearing to be conducted thereon;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The mailing address of the person and place from which a copy of the full text of the proposal and the explanation thereof may be obtained by any interested person; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The date and place for submission of written comment and for submission of a request to make an oral comment at the hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Persons making oral comments at the hearing shall be subject to questioning relevant to their testimony by the Tribal Council or its designated representative.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A rule promulgated pursuant to <cite path="22|22.05|22.0502">this section</cite> shall become effective 30 days after it is adopted and filed with the Tribal Council Secretary.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Immediately upon adoption and filing of a rule the affected agency shall publish a notice of the adoption, and filing, the effective date of the rule, and the mailing address from which a complete test of the rule may be obtained.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.0503</num>
+      <heading>Emergency Rule</heading>
+      <text>If the Tribal Council finds that an imminent peril to the Tribal health, safety, or welfare requires adoption of a rule upon less notice than provided in <cite path="22.05">this chapter</cite> and states in writing its reasons for that finding, it may proceed, without prior notice or hearing or upon any abbreviated notice and hearing it deems practicable, to adopt an emergency rule.  The rule will take effect immediately upon adoption and may last for a period not longer than one hundred twenty (120) days, from the date of its filing with the Tribal Council Secretary but the adoption of an identical rule pursuant to the procedures provided in <cite path="22|22.05|22.0503">this Section</cite> is not precluded.  Authority to promulgate an emergency rule will not be delegated by the Tribal Council to an agency.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.06</num>
+    <heading>Requisites for Validity</heading>
+    <section>
+      <num>22.0601</num>
+      <heading>Written and Oral Submission</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Council or an authorized agency shall fully consider written and oral submissions made with regards to a proposed rule.  Upon adoption of a rule the affected agency shall issue a concise statement of the principal reason for and against it adoption, including the reasons given by the Tribal Council or the authorized agency for overruling the considerations urged against its adoption, which statement shall be provided without charge to any person requesting the same.  When no written or oral submissions have been received the statement or reasons may be omitted.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To be effective, each substantive rule adopted must implement a Tribal Ordinance and be in accordance with standards prescribed by the Tribal Constitution and applicable Federal law.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No rule is valid unless adopted in compliance with the notice and publication provisions of <cite path="22">this Title</cite>, with the exception as stated for "Emergency Rules" in <cite path="22|22.05|22.0503">section 22.0503</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.07</num>
+    <heading>Petition for Adoption</heading>
+    <section>
+      <num>22.0701</num>
+      <heading>Amendment, or Repeal of a Rule</heading>
+      <text>Any interested person who is a member of the public as defined in Sub<cite path="22|22.03|22.0301">section 22.0301</cite> (i) of this Ordinance may petition the Tribal Council requesting the promulgation, amendment, or repeal of a rule.  Within 30 days after submission of a petition, the Tribal Council shall either secure from the affected agency a recommendation respecting the disposition of the request of shall deny the petition in writing, stating the reasons for the denial, or shall initiate rulemaking proceedings in accordance with <cite path="22">this Title</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.08</num>
+    <heading>Filing and Dissemination</heading>
+    <section>
+      <num>22.0801</num>
+      <heading>Filing; Maintainingg Permanent Records; Payment of Reasonable Costs</heading>
+      <para>
+        <num>1.</num>
+        <text>Each agency shall file with the Tribal Council Secretary, and the Tribal Court a copy of each authorized rule adopted by the Tribal Council or by the agency, affecting the activities of that agency.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Council Secretary shall keep and maintain a permanent register or file of all rules filed, including superseded and repealed rules, which shall be open to public inspection and shall provide copies of any rule upon request of any person.  Unless otherwise provided by Ordinance, the Tribal Council Secretary may require payment of reasonable costs of providing such copies.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.09</num>
+    <heading>Tribal Council Review of a Rule</heading>
+    <section>
+      <num>22.0901</num>
+      <heading>Recommended by an Affected Agency</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon the filing by an affected agency of a recommended rule with the Tribal Council Secretary, the Tribal Council shall review such recommendation and direct the recommending agency to:</text>
+        <para>
+          <num>a.</num>
+          <text>Prepare proposed rules;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Delay or withdraw the recommendation in whole or in part;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Amend its recommendation; or</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Recommend a substitute or additional rule, as provided in <cite path="22.05">chapter 22.05</cite></text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon request of the Tribal Council, a recommending agency shall prepare a statement of the estimated economic impact of the adoption, amendment, or repeal of a rule as proposed.  The statement must include an estimate of:</text>
+        <para>
+          <num>a.</num>
+          <text>The cost to the Tribe of administering and enforcing the rule; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any estimated benefit or detriment of compliance to affected persons.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.10</num>
+    <heading>Hearing Officers</heading>
+    <section>
+      <num>22.1001</num>
+      <heading>Appointment of Hearing Officer; Term</heading>
+      <text>The Tribal Council shall appoint one employee to be the Senior Hearing Officer and another employee to be Alternate Hearing officer, each to serve for a term of two years.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1002</num>
+      <heading>Qualifications</heading>
+      <text>In making the appointments, the Tribal Council shall consider the following qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>education or experience in the application of administrative law and procedures;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>education or experience in conducting contested case hearings.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>writing skills and ability to summarize findings of fact and conclusions of law;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>substantive knowledge or experience in a discipline or field or expertise related to activities licenses by an agency; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>familiarity with the Tribal administrative structure and laws.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1003</num>
+      <heading>Compensation and Reimbursement</heading>
+      <text>Hearing Officers may receive such additional compensation or other benefits for services rendered as the Tribal Council may provide at the time of their appointment, and shall be entitled to reimbursement for travel and per diem expenses incurred by reason of attendance at meetings, conferences, training sessions or seminars related to the hearing of contested cases or to administrative law and procedures.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1004</num>
+      <heading>Vacancies and Removal</heading>
+      <para>
+        <num>1.</num>
+        <text>A vacancy occurring in the position of Senior Hearing Officer or Alternate Hearing officer, other than by expiration of a term, shall be filled by appointment for the remainder of the unexpired term.  The Tribal Council shall appoint the replacement in accordance with <cite path="22|22.10|22.1002">section 22.1002</cite> of <cite path="22.10">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Hearing Officer may be removed by the Tribal Council for cause after due notice to the Officer and an adequate opportunity to be heard.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1005</num>
+      <heading>Temporary Hearing Officer</heading>
+      <text>In the event of the disqualification or unavoidable absence of both Hearing Officers, the Tribal Council may appoint a Temporary Hearing Officer to hear a contested case.  Such appointment shall expire upon the issuance of a final order or decisions in the contested case unless the Tribal Court remands the case to the Temporary Hearing Officer for further findings or conclusions.  The appointment of a Temporary Hearing Officer shall be made upon such qualifications and conditions as the Council determines.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1006</num>
+      <heading>Duties of the Senior Hearing Officer</heading>
+      <text>The Senior Hearing Officer shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Promulgate rules of practice for contested case hearings;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Receive all applications for hearing of contested cases made pursuant to procedures set forth in <cite path="22">this Title</cite> and to administrative rules of practice, set times and places for hearings, and assign the Alternate Hearing Officer to preside over a Hearing in the event of disqualifications or unavoidable absence of the Senior Hearing Officer;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>On or before the third day of January of each year, report to the Tribal Council:</text>
+        <para>
+          <num>a.</num>
+          <text>the numbers, types, and disposition of contested cases heard, together with the costs associated with such hearings; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>any recommendations the Hearing Officers may have for amendments to Tribal Law or improvement of the administrative procedures of a Tribal agency.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1007</num>
+      <heading>Powers and Duties of Hearing Officers</heading>
+      <para>
+        <num>1.</num>
+        <text>A Hearing Officer shall:</text>
+        <para>
+          <num>a.</num>
+          <text>Conduct any hearing on the record and in accordance with the procedures contained in <cite path="22">this Title</cite> and prescribed by the rules of practice promulgated pursuant to sub<cite path="22|22.10|22.1006">section 22.1006</cite> (a), and determine by final order or decision any contested matter so heard; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Make complete and accurate records of all proceedings associated with the hearing and disposition of contested cases.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Hearing Officer may:</text>
+        <para>
+          <num>a.</num>
+          <text>Require an agency, who is a party to the contested case, to provide secretarial services and supplies for purposes of conducting and recording the hearing on the contested case to which such agency is a named party;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Utilize the services of the support staff of the Tribal Council for routine clerical activities;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Take judicial notice of the files, documents, records, and maps of any agency and of files, document records, and maps in the custody of the Bureau of Indian Affairs; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Exercise all powers necessarily incidental to the Officer's authority to conduct hearings of contested cases and determine their disposition, including the power to issue notice, to issue subpoenas requiring the attendance of persons and the production of documents, to administer oaths, and to take testimony.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1008</num>
+      <heading>Disqualifications</heading>
+      <para>
+        <num>1.</num>
+        <text>No Hearing Officer is qualified to hear or decide a contested case involving the personal interests of the Officer or of a person in the immediate family of the Officer. Immediate family in this context shall mean a spouse or former spouse or any person related by blood, marriage or adoption to the officer in the first or second degree.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>On the filing by a party in good faith of a timely and sufficient affidavit of personal bias, disqualification by law, or other disqualification of the Senior Hearing Officer, the Alternate Hearing officer shall fill the place and duties of the Senior Hearing Officer at a Hearing. The affidavit must state the facts and reasons for the belief that the Senior Hearing Officer should be disqualified and must be filed with the Senior Hearing Officer not less than 10 days before the first Hearing in a contested case.  The Alternate Hearing officer may be similarly disqualified.  If both Hearing Officers are disqualified, the Tribal Council shall appoint a Temporary Hearing Officer as provided in <cite path="22|22.10|22.1005">Section 22.1005</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.11</num>
+    <heading>Adjudications</heading>
+    <section>
+      <num>22.1101</num>
+      <heading>Application</heading>
+      <text><cite path="22.11">This chapter</cite> applies in every case of adjudication arising from a claim or protest of a person aggrieved by an agency action, except to the extent that there is involved a matter subject to subsequent trial of the law and the facts de novo in the Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1102</num>
+      <heading>Notice</heading>
+      <text>Persons entitled to notice of the: hearing of a contested case shall be timely informed of:</text>
+      <para>
+        <num>1.</num>
+        <text>The time, place, and nature of the hearing; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The matters of a fact and law asserted, not less than fourteen (14) days prior to the hearing</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1103</num>
+      <heading>Ancillary Matters</heading>
+      <para>
+        <num>1.</num>
+        <text>A person compelled to appear in person before a Hearing Officer may be accompanied, represented and advised by, legal counsel or other authorized representative, provided that such counsel, or representative is employed by said person at his or her own costs.  A party is entitled to appear in person or by or with counsel or other authorized representative in a proceeding before a Hearing Officer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Subpoenas shall be issued by a Hearing Officer to a party on request or when required by a Hearing Officer on a showing of general relevance and reasonable scope of the evidence sought.  The Tribal Court shall sustain a Hearing Officer's subpoena or similar process or demand to the extent that it is found to be in accordance with law.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When private persons are the moving parties, other parties to the proceeding shall give prompt notice of issues that are controversial in fact or law; and in other instances the Hearing Officer may require a responsive pleading.  In fixing the time and place for Hearing, due regard shall be had for the convenience and necessity of the parties or their representatives.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A Hearing Officer may, in the Hearing Officer's sound discretion, issue a declaratory order to terminate a, controversy or remove uncertainty, with like effect as in the case of other final orders.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Disposition may be made of any contested case by stipulation, agreed settlement, consent order, or default.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1104</num>
+      <heading>Ex Parte Consultations</heading>
+      <text>Unless required for the dispositions of ex parte matters authorized by law, no Hearing Officer, after receipt of a petition from an aggrieved person, shall communicate with any party or their representative in connection with any issue of fact or law in such case except upon notice and opportunity for all parties to participate. Upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of <cite path="22|22.11|22.1104">this Section</cite>, the Hearing Officer may, to the extent consistent with the interests of justice and the policy of the underlying laws, require the party to show cause why their claim or interest in the proceeding should not be dismissed, denied, disregarded or otherwise adversely affected as a result of such violation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1105</num>
+      <heading>Initial Decisions</heading>
+      <para>
+        <num>1.</num>
+        <text>A person aggrieved by an adverse or restrictive determination, decision, or order of an agency employee other than the chief executive officer of the agency may apply to the chief executive officer of the agency for an initial review and decision.  Before the chief executive officer of the agency undertakes an initial review or reaches an initial decision, the parties are entitled to a reasonable opportunity to submit, in writing, for the consideration of the chief executive officer.</text>
+        <para>
+          <num>a.</num>
+          <text>proposed findings and conclusions; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>exceptions to the decision or order of the subordinate employee or employees; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>supporting reasons for the exceptions or proposed findings and conclusions.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>After due consideration of any submissions so made, and within 15 calendar days of the receipt of such submissions, the chief executive officer of an agency shall issue a written decision in the matter. Such decisions are a part of the record and shall include a statement of:</text>
+        <para>
+          <num>a.</num>
+          <text>Findings and conclusions, and the reasons or basis therefore, on all the material issues of fact and law, or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The ruling on each finding, conclusion or exception proposed or submitted by any party; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>An order, granting or denying relief in whole or in part.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Such written decisions, issued by the chief executive officer of an agency, shall be provided immediately to the parties and shall be made available for public inspection, and upon such provision and availability becomes an agency action appealable to a Hearing Officer. No other agency activity, tentative determination, plan, proposal, or decision, shall be deemed to be an agency action so appealable.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1106</num>
+      <heading>Petition for Administrative Hearing</heading>
+      <para>
+        <num>1.</num>
+        <text>A person adversely affected by a decision or order of a Chief Executive Officer of an agency m ay, within 30 days or receipt of the decision or order, file a petition for hearing with the Chief Executive Officer of the agency and with the Tribal Council Secretary.  Upon receipt of a petition for Hearing, the Chief Executive Officer of the agency shall transmit to the Senior Hearing Officer the petition and the administrative record of the matter including, but not limited to, the order or decision of the Chief Executive Officer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No later than 10 calendar days after the receipt of the petition by the Senior Hearing Officer, the assigned Hearing Officer shall set a schedule for Hearing and notify interested persons or parties of the same by certified or registered mail, return receipt requested.  The notice to petitioner shall include a copy of the administrative record transmitted to the assigned Hearing Officer.  The hearing shall be held within 30 days of the date of notice of schedule unless the time is extended by the Hearing Officer for good cause shown and shall be expedited if required by law or for good cause shown by the petitioner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At a minimum, a petition for hearing shall contain:</text>
+        <para>
+          <num>a.</num>
+          <text>the name, mailing address, and telephone number of the petitioner and of the petitioner's authorized representative, if any;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>if the petitioner is a business or other organization, the location of organization and the principal place of business;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>a statement of the facts constituting the alleged injury to the petitioner's interests; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>the relief requested.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1107</num>
+      <heading>Conduct of Hearings</heading>
+      <para>
+        <num>1.</num>
+        <text>The record of a Hearing before a Hearing Officer shall include:</text>
+        <para>
+          <num>a.</num>
+          <text>The record of the decision of the Chief Executive Officer of the agency;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All notices in the matter given to interested persons and parties, together with evidence of timely receipt of such notices by parties;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>All pleadings, motions, and intermediate rulings;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>All evidence received or considered, including a transcript of oral proceedings when demanded by a party;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>A statement of matters officially noticed;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Proposed findings and exceptions;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>All staff memoranda or date submitted to the Hearing Officer as evidence in connection with consideration of the case; and</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>The final order of the Hearing Officer imposing a sanction or granting or denying relief.  Costs of the transcription of oral proceedings shall be paid by the requesting party.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Hearing Officer may, within the scope of their power;</text>
+        <para>
+          <num>a.</num>
+          <text>Administer oaths and affirmations;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Issue subpoenas as provided in <cite path="22">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Rule of the relevancy, materiality and redundancy of evidence;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Regulate the course of the hearing;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Call conferences for the settlement or simplification of the issues by consent of the parties;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Cause depositions to be taken on the Officer's own motion or at the request of a party; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Dispose of procedural requests or similar matters.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The proponent of an order has the burden of proof.  Any oral or documentary evidence may be received, but the Hearing Officer as a matter of policy, shall provide for the exclusion of irrelevant, immaterial or unduly repetitious evidence. Hearsay evidence may be used for the purpose of supplementing or explaining other evidence, but is not sufficient in itself to support a finding unless it is admissible over objection under the Federal Rules of Evidence.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A sanction may not be imposed or order issued except on consideration of the whole record of those parts thereof cited by a party and supported by and in accordance with the reliable, probative and substantial evidence.  A party is entitled to conduct such cross-examination as may be required for a full and true disclosure of the facts.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1108</num>
+      <heading>Final Orders</heading>
+      <para>
+        <num>1.</num>
+        <text>A final order or decision shall include findings of fact and conclusion of law, separately stated.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Findings of facts shall be based exclusively on the evidence and on matters officially noticed.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Each conclusion of law shall be supported by authority or by a reasoned opinion.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If a party submitted proposed findings of facts, the decision shall include a ruling upon each proposed finding.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Parties shall be noticed either personally or by mail of any decision or order. Upon request, a copy of the decision or order shall be delivered or mailed forthwith to each party and to their attorney or record.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Senior Hearing Officer shall index and file with the Tribal Council Secretary all final decisions and orders, including declaratory rulings.  No decision or order of a Hearing Officer is valid or effective against any person or party nor may it be invoked by any agency for any purpose until it has been so filed and made available for public inspection.  This provision is not applicable in favor of any person or party who has actual knowledge of a decision or order or when public disclosure of a decision or order is prohibited by law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1109</num>
+      <heading>Judicial Review</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon the propose filing and availability for public inspection of a final order or decision of a Hearing Officer, any person aggrieved by such decision or order shall be conclusively presumed to have exhausted all the administrative remedies made available to aggrieved persons by the Turtle Mountain Band of Chippewa Tribe, and such aggrieved person is entitled to judicial review in Tribal Court.  <cite path="22|22.11|22.1109">This section</cite> does not limit utilization of, or the scope of, judicial review available under other means of review, redress, relief or trial de novo provided by Tribal law.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A party who proceeds before a Hearing Officer under the terms of a particular Tribal Law or implementing rule shall not be precluded, from questioning on judicial review the validity of the law or rule in Tribal Court, but such party may not raise any other question not raised before the Hearing Officer unless it is shown to the satisfaction of the court that there was good cause for failure to raise the question before the Hearing Officer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Proceedings for review in Tribal Court shall be initiated by:</text>
+        <para>
+          <num>a.</num>
+          <text>Filing a Notice of Appeal with the Hearing Officer within 20 days after service of the final decision or order, and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Filing a petition for review with the court within 30 days after service of the final order or decision of the Hearing Officer.  Copies of the petition shall be promptly served upon the agency affected and upon all parties of record.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Unless otherwise provided by law, the filing of a Notice of Appeal or of a petition shall not stay enforcement of the decision or order of the Hearing Officer.  The affected agency may grant or the reviewing court may order a stay upon terms which it considers proper.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A petition for Tribal Court review shall include a statement of the manner in which petitioner is aggrieved, and the ground or grounds upon which petitioner contends he is entitled to relief.  The petition shall demand the relief to which the petitioner believes he is entitled and the demand for relieve may be in the alternative.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Within 15 days after receipt of a notice of appeal, the Hearings Officer shall transmit to the reviewing court the original or a certified copy of the entire record of the proceedings under review.  By stipulation of all parties to the review proceeding, the record may be shortened.  A party unreasonably refusing to stipulate to limit the record may be taxed by the court for the additional costs.  The court may require or permit subsequent corrections or additions to the record.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>If application is made to the court within 10 days prior to the date set for court hearing on review, for leave to present additional evidence, alleging that the additional evidence is material and that there were good reasons for failure to present it in the proceeding before the Hearing Officer, the court may order that the additional evidence be taken before the Hearing Officer.  The Hearing Officer may modify the findings and conclusions by reason of the additional evidence and shall file that evidence and any modifications, new findings, or decisions with the reviewing court.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The review shall be conducted by the court and shall be confined to the record.  In cases of alleged irregularities of procedure before the Hearing Officer not shown in the record proof thereof may be taken in the court.  The court, upon request, shall hear oral argument and receive written briefs.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The Tribal Court may not substitute its judgment for that of the Hearing Officer unless substantial rights of the petitioner have been prejudiced because the administrative findings, inferences, conclusions or decisions are:</text>
+        <para>
+          <num>a.</num>
+          <text>In violation of applicable constitutional or statutory law;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>In excess of the delegated authority of the affected agency; made upon unlawful procedure;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Made upon unlawful procedure;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Substantially affected or prejudiced by other error of law;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Clearly erroneous in review of the reliable, probative, and substantial evidence on the whole record;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Arbitrary or capricious or characterized by abuse of discretion or clearly unwarranted exercise of discretion; or</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Because findings of fact, upon issues essential to the decision were not made although requested.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>22.1110</num>
+      <heading>Imposition of Sanctions</heading>
+      <para>
+        <num>1.</num>
+        <text><cite path="22|22.11|22.1110">This Section</cite> applies, except as otherwise provided in <cite path="22">this title</cite>, to the exercise of executive or management power or authority by any employee, officer, director, or manager, of the government of the Turtle Mountain Band of Chippewa Indians when acting in his or her executive or managerial capacity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A sanction may not be imposed or a substantive rule or order issued except within the authority delegated to the agency or to the individual executive and as authorized by law.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Except in cases in which the public health, interest, or safety requires otherwise, the withdrawal, suspension, revocation or annulment of a license or of a benefit or entitlement is lawful only if, before the institution of administrative proceedings therefore, the licensee or beneficiary has been given:</text>
+        <para>
+          <num>a.</num>
+          <text>Timely notice by the agency in writing of the facts or conduct which may warrant the action; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Opportunity to demonstrate or achieve compliance with all lawful requirements.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>When a licensee has made timely and sufficient application for a renewal or new license in accordance with agency rules, a license with reference to an activity of a continuing nature does not expire until the application has been finally determined by the agency.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22.12</num>
+    <heading>Severability</heading>
+    <section>
+      <num>22.1201</num>
+      <heading>Severability</heading>
+      <text>In the event of a court finding of invalidity of any word, phrase, paragraph, or section of <cite path="22">this Title</cite>, such invalid word, phrase, paragraph, or section shall be severed from the remaining body of the Title, and the remainder of the Title shall remain in full force and effect.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

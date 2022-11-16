@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>41</num>
+  <heading>Motor Vehicle Fuels</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>41.01</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>41.0101</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="41.01">this chapter</cite>, unless the context otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"AGRICULTURAL PURPOSE" means the science, art, and business of farming. It includes raising crops, ranching, beekeeping, tree nurseries, agricultural units of colleges and universities, custom combining, manure spreading, and stack moving operations. Fuel used for an agricultural purpose includes fuel used in a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion. It does not include fuel used to operate a licensed motor vehicle.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"COMMISSIONER" means the Tribal Tax Commissioner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"CONSUMER" means any person importing motor vehicle fuel onto this reservation or purchasing motor vehicle fuel on this reservation for use a heating fuel or for an agricultural, industrial, or railroad purpose; or any person purchasing motor vehicle fuel on this reservation for use in recreational or any other types of motor vehicles.  A user of motor vehicle fuel including any person purchasing motor vehicle fuel in the jurisdiction of the Turtle Mountain Reservation for use in a licensed motor vehicle. It does not include a person importing or purchasing motor vehicle fuel for resale.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"DISTRIBUTOR" means a person, other than a retailer, who acquires motor vehicle fuel from a supplier for subsequent wholesale distribution in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"EXPORTER" means a refiner, supplier, or distributor who exports motor vehicle fuel out of the jurisdiction of the Turtle Mountain Reservation in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"GALLON" means a United States gallon [3.791iters] measured on a gross volume basis.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"GROSS VOLUME" means measurement in United States gallons [3.791iters] without temperature or barometric adjustments.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"IMPORTER" means a refiner, supplier, or distributor who imports motor vehicle fuel into the jurisdiction of the Turtle Mountain Reservation in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"INDUSTRIAL PURPOSE" means:</text>
+        <para>
+          <num>a.</num>
+          <text>A manufacturing, warehousing, or loading dock operation;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Construction;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Sand and gravel processing;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Well drilling, well testing, or well servicing;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Maintenance of business premises, golf courses, or cemeteries;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>A commercial or contract painting operation;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Electrical services;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>A refrigeration unit on a truck;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>A power-take-off unit; and</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Other similar business activity.</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Fuel used for an industrial purpose includes fuel used in a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion. It does not include heating fuel, fuel used for an agricultural purpose, fuel used for a railroad purpose, or fuel used to operate a licensed motor vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"LICENSED MOTOR VEHICLE" means any motor vehicle licensed for operation upon public roads or highways, but does not include a vehicle with a permanently mounted manure spreader or stack moving unit.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"MOTOR VEHICLE" means a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion using one or more of the motor vehicle fuels defined in <cite path="41.01">this chapter</cite>, but does not include aircraft.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"MOTOR VEHICLE FUEL" means all products commonly or commercially known or sold as gasoline, including casinghead and absorption or natural gasoline, regardless of their classifications or uses, and any liquid which, when subjected to distillation in accordance with the standard method of test for distillation of gasoline, naphtha, kerosene, and similar petroleum products (American society for testing materials designation 0-86), shows not less than ten percent distilled (recovered) below three hundred forty-seven degrees Fahrenheit [175 degrees Celsius] and not less than ninety-five percent distilled (recovered) below four hundred sixty­ four degrees Fahrenheit [240 degrees Celsius] but does not include aviation fuel. It includes agriculturally derived alcohol blended with gasoline, used in a pure state, or if blended with another agriculturally derived liquid.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"PERSON" means every individual, partnership, firm, association, joint venture, corporation, limited liability company, estate, business trust, receiver, or any other group or combination acting as a unit.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"PUBLIC ROAD OR HIGHWAY" means every way or place generally open to the use of the public as a matter of right, for the purpose of motor vehicle travel, notwithstanding that it may be temporarily closed or subject to restricted travel due to construction, reconstruction, repair, or maintenance.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"RACK" means a mechanism used to dispense motor vehicle fuel from a terminal.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"REFINER" means a person who produces, manufactures, or refines motor vehicle fuel in the jurisdiction of the Turtle Mountain Reservation or a person who produces alcohol, or alcohol derivative substances in the jurisdiction of the Turtle Mountain Reservation for blending with motor vehicle fuel.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"RETAIL LOCATION" means a site at which motor vehicle fuel is dispensed through a pump from an underground or aboveground storage tank into the supply tank of a motor vehicle.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"RETAILER" means a person who acquires motor vehicle fuel from a supplier or distributor for resale to a consumer at a retail location.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"SALE" means, with respect to motor vehicle fuel, the transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means for a consideration.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"SUPPLIER" means a refiner who distributes motor vehicle fuel from a terminal in the jurisdiction of the Tribe, or a person who acquires motor vehicle fuel by pipeline from a state, territory, or possession of the United States or from a foreign country, for storage at and distribution from a terminal in the jurisdiction of the Tribe or a person who acquires motor vehicle fuel by truck or railcar for storage at and distribution from a terminal.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"TAXPAYER" means a refiner, supplier, distributor, importer, exporter, terminal operator, or retailer.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"RESERVATION" for purposes of this statute means all lands within the Turtle Mountain Indian Reservation.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"TERMINAL" means a motor vehicle fuel storage and distribution facility that is supplied by a refinery or pipeline and from which the motor vehicle fuel may be removed from the rack.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"TERMINAL OPERATOR" means a person who by ownership or contractual agreement is charged with the responsibility for, or physical control over, and operation of a terminal. If a terminal is owned by coventurers, ''terminal operator'' means the person appointed to exercise the responsibility for, or physical control over, and operation of the terminal.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"TRIBE" means the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"WHOLESALE DISTRIBUTION" means the sale of motor vehicle fuel by a supplier or distributor.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"COMMON CARRIER" or "CONTRACT CARRIER" means a carrier that is required by law to convey passengers or freight, without refusal, if the approved fare or charge is paid.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"DESTINATION STATE" means any state, territory, foreign county, or sovereign nation to which motor vehicle fuel is directed for delivery into a storage facility, receptacle, container, or any type of transportation equipment, for purposes of resale or use.</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text>"EXPORT" means the delivery of motor vehicle fuel across the boundaries of this tribe from a place or origin in this tribe by or for a refiner, supplier or distributor.</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text>"IMPORT" means the delivery of motor vehicle fuel across the boundaries of this tribe from a place of origin outside this tribe by a refiner, supplier or distributor.</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text>"INTERSTATE MOTOR CARRIER" means any person importing motor vehicle fuel into this state in the fuel supply tank or tanks of any motor vehicle or combination of vehicles used, designed, or maintained for transportation of persons or property and; having two axles and a gross weight exceeding twenty-six thousand pounds [1179.3401 kilograms];or having three or more axles regardless of weight; or is used in combination when the weight of such combination exceeds twenty-six thousand pounds [1179.3401 kilograms] gross vehicle weight.  In the case of motor vehicles that are leased or rented, the interstate motor carrier means the lessee or renter unless the director has designated the lessor, renter, or some other person as the interstate motor carrier.</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text>"PHYSICAL INVENTORY READING" means a measurement of motor vehicle fuel available for distribution in a terminal, an underground storage tank, an aboveground storage tank, or in a tank wagon, bulk delivery vehicle, railcar, barrel, drum or other receptacle.</text>
+      </para>
+      <para>
+        <num>33.</num>
+        <text>"POSITION HOLDER" means a person holding an inventory position of motor vehicle fuel in a terminal as reflected on the records of the terminal operator, a person holding the inventory position when that person has a contractual agreement with the terminal operator for the use of storage facilities or terminaling services at a terminal, and a terminal operator who owns motor vehicle fuel in a terminal.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0102</num>
+      <heading>Tax Imposed on Motor Vehicle Fuels</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise provided in <cite path="41|41.01|41.0102">this section</cite>, a tax of twenty-three cents per gallon [g.79 liters] is imposed on all motor vehicle fuel sold or used within the Turtle Mountain Reservation, or whatever greater rate is charged by the State of North Dakota.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A supplier or distributor shall remit the tax imposed by <cite path="41|41.01|41.0102">this section</cite> on motor vehicle fuel used; on the wholesale distribution of motor vehicle fuel to a retailer, and on direct sales of motor vehicle fuel to a consumer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The tax imposed by <cite path="41|41.01|41.0102">this section</cite> does not apply on a sale by a supplier to another supplier, on a sale by a supplier to a distributor. on a sale by a distributor to another distributor, on an export, or on a sale to an exempt consumer.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The person required to remit the tax imposed by <cite path="41|41.01|41.0102">this section</cite> shall pass the tax on to the retailer and to the consumer. A retailer who paid the tax to the supplier or distributor shall pass the tax on to the consumer.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The person required to remit the tax imposed by <cite path="41|41.01|41.0102">this section</cite> shall pay the tax to the commissioner by the twenty-fifth day of the calendar month after the month during which the motor vehicle fuel was sold or used by the person. When the twenty-fifth day of the calendar month falls on a Saturday, Sunday, or legal holiday,the due date is the first working day after the Saturday, Sunday, or legal holiday.When the payment is made by mail, the payment is timely if the envelope containing the payment is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0103</num>
+      <heading>Form of Claim for Refund</heading>
+      <text>A refund claim must be on a form furnished by the commissioner and must have a "written declaration" by the claimant that it is made under the penalties of perjury. The commissioner may prescribe alternate methods for signing, subscribing, or verifying a return filed by electronic means including telecommunications that shall have the same validity and consequence as the actual signature and written declaration for a paper return. The refund claim must state that the motor vehicle fuel was used or is to be used by the claimant other than in a licensed motor vehicle, the purpose of type of project for which the motor vehicle fuel was used, and such other information as is required.  The original invoices or sales tickets proving the purchase of motor vehicle fuel on which the refund is claimed must be attached to the refund claim.  The invoices or sales tickets must include the seller's name and address, the date the fuel was purchased, the type of product, the number of gallons [liters} of motor vehicle fuel purchased and the name of the claimant. If the original invoices or sales tickets are lost, the claimant may substitute duplicate invoices or sales tickets plus a separate affidavit on forms prescribed by the commission. A certified history of purchases detailing required information may be accepted by the commissioner in lieu of original sales invoices or sales tickets.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0104</num>
+      <heading>Claim for Refund; Limitation on Filing</heading>
+      <text>A refund claim must be filed, for all motor vehicle fuel purchases during a calendar year, on or after January first and before July first of the next year following the year during which the purchase was made, or the claim for refund is barred unless the commissioner grants an extension of time for cause.  However, any claim for refund may be filed in the calendar year of motor vehicle fuel purchase when:</text>
+      <para>
+        <num>1.</num>
+        <text>The business is being discontinued;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No further purchases subject to fuel tax refund will be made in the remainder of the calendar year; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The claim for refund exceeds four hundred dollars.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Such limitation shall not apply to the government of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>No claim for refund may be made or approved unless the amount of the claim is in excess of five dollars.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0105</num>
+      <heading>Refund to Tribe or Political Subdivision</heading>
+      <text>When any construction, reconstruction, or maintenance of a public road, highway, street, or airport is undertaken by the tribe or any political subdivision of the tribe and where public funds of the tribe or any political subdivision are directly used for the purchasing of motor vehicle fuel to be used in publicly owned vehicles for such construction, reconstruction, or maintenance, such motor vehicle fuel is subject to a refund of the tax paid on the fuel as provided for in <cite path="41.01">this chapter</cite> and under the same terms and conditions except as stated.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0106</num>
+      <heading>Refiner, Supplier, Distributor, Importer, Exporter, Retailer, and Terminal Operator Required to Secure License; License Fees</heading>
+      <para>
+        <num>1.</num>
+        <text>A person may not engage in business on the Turtle Mountain Reservation as a refiner, supplier, distributor, importer, exporter, retailer, or terminal operator of motor vehicle fuel unless that person holds an unrevoked license issued by the commissioner.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The person shall file an application for a license with the commissioner providing such information as required by the commissioner and on a form or in a format as required by the commissioner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0107</num>
+      <heading>Application for License; Issuance of License; Denial of License</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon receipt and approval of an application for a license, the license fee, and the required security, the commissioner shall issue a license which shall be valid until it is suspended, revoked for cause, or otherwise canceled. The license is not transferable.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A multiple license must be issued to a person who applies and qualifies for more than one type of license.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The commissioner may refuse to issue a license to a person who has not provided the required security, who failed to provide the information requested on the application, who previously held a license which was revoked by the commissioner, who is a subterfuge for the real party in interest who previously held a license that was revoked by the commissioner, or upon other sufficient cause being shown. The commissioner shall grant the person the right to a hearing in accordance with the administrative code of the Turtle Mountain Band of Chippewa Indians. Written notice of the hearing must be served on the person at least ten days prior to the date established for the hearing.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0108</num>
+      <heading>Revocation of License; Hearing to Show Cause; Reinstatement</heading>
+      <para>
+        <num>1.</num>
+        <text>The commissioner may revoke a license for reasonable cause. Before revoking a license, the commissioner shall grant a hearing in accordance with the provisions of the Turtle Mountain Administrative Code to allow the person to show cause why the license should not be revoked. Written notice of a hearing must be served on the person at least ten days prior to the date established for the hearing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Before a new license may be issued to a person who is obligated to remit the tax imposed by <cite path="41.01">this chapter</cite> and whose license was revoked, the person shall pay to the commissioner the amount of any delinquent tax, penalties, and interest remaining unpaid and must file with the commissioner a surety bond upon which the person is the principal. The bond must be in an amount determined by the commissioner but not less than one thousand dollars. The bond must be payable to the commissioner and be conditioned upon the timely filing of correct tax reports and timely payment of the full amount of the tax due as required under <cite path="41.01">this chapter</cite>. If the person fails to file the required report or to timely pay the full amount of tax due, the commissioner may require an increase in the amount of the surety bond conditioned to secure at all times the payment of any tax due to the tribe under <cite path="41.01">this chapter</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0109</num>
+      <heading>Bond or Letter of Credit Required</heading>
+      <text>As a condition precedent to the issuance of a single or multiple license, a supplier, distributor, or importer shall furnish a surety bond, a cash bond, or an approved letter of credit as security to guarantee the payment of the motor vehicle fuel tax liabilities imposed by <cite path="41.01">this chapter</cite>. A refiner, terminal operator, or an exporter who is not also licensed as a supplier or distributor is exempt from this requirement.</text>
+      <para>
+        <num>1.</num>
+        <text>The surety bond, cash bond, or letter of credit must be in an amount prescribed by the commissioner but not less than one thousand dollars.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The surety bond, cash bond, or letter of credit is subject to approval by the commissioner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>After a single or multiple license has been in effect for five or more years, the commissioner may review the person's records and may waive the requirement for a security. The requirement for a security may be reinstated at the discretion of the commissioner.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A surety bond or letter of credit provided as security must be kept in the custody of the commissioner and may be used by the commissioner, 'without notice to the principal, if it becomes necessary to cover the motor vehicle fuel tax, penalties, and interest due.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Money deposited with the commissioner as a cash bond must be made in the form of a cashier's check or bank money order payable to the commissioner. The money deposited may be used by the commissioner, without notice to the depositor, if it becomes necessary to cover tax, penalties, and interest due. If the money deposited is used to cover unpaid liabilities, the commissioner shall certify the information to the director of the office of management and budget.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0110</num>
+      <heading>Monthly Report by Refiner, Supplier, Distributor, Importer, or Exporter Required</heading>
+      <para>
+        <num>1.</num>
+        <text>A refiner, supplier, distributor, importer, or exporter shall file a monthly report with the commissioner no later than the twenty-fifth day of each calendar month covering motor vehicle fuel sold and used during the preceding calendar month. When the twenty-fifth day of the calendar month falls on a Saturday, Sunday, or legal holiday, the due date is the first working day after the Saturday, Sunday, or legal holiday. When the report is filed by mail, the report is timely if the envelope containing the report is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The report to the commissioner must be on a form prescribed and furnished by the commissioner. The commissioner may require that all or part of the report be submitted in an electronic format approved by the commissioner, provided the person required to file the report is able to use an electronic format. The report must contain the information as required by the commissioner including:</text>
+        <para>
+          <num>a.</num>
+          <text>A detailed schedule of motor vehicle fuel refined, purchased, imported, and exported.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A detailed schedule of motor vehicle fuel sold to a person eligible to purchase the motor vehicle fuel without the tax imposed by <cite path="41.01">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>A detailed schedule of motor vehicle fuel sold tax-paid for resale, including a list of persons who purchased the motor vehicle fuel for resale.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The total number of gallons of motor vehicle fuel sold and used subject to the tax imposed by <cite path="41.01">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The number of gallons of motor vehicle fuel sold tax-exempt to a qualified consumer.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The number of gallons of motor vehicle fuel in physical inventory at the beginning of the calendar month, the number of gallons in physical inventory at the close of the calendar month, and any gains or losses experienced.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>The report must be signed by the taxpayer to be valid and must contain a written declaration that it is made and subscribed under penalties of perjury.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The commissioner may prescribe alternative methods for signing, subscribing, or verifying a return filed by electronic means, including telecommunications that shall have the same validity and consequence as the actual signature and written declaration for a paper return.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0111</num>
+      <heading>Report by Terminal Operator Required</heading>
+      <para>
+        <num>1.</num>
+        <text>A terminal operator shall file a monthly report with the commissioner no     later than the twenty-fifth day of each calendar month covering motor vehicle fuel received into and removed from the terminal during the preceding calendar month. When the twenty-fifth day of the calendar month falls on a Saturday, Sunday, or legal holiday, the due date is the first working day after the Saturday, Sunday, or legal holiday. When the report is filed by mail, the report is timely if the envelope containing the report is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The report to the commissioner must be on a form prescribed and furnished by the commissioner or in a format approved by the commissioner. The commissioner may require that all or part of the report be submitted in an electronic format approved by the commissioner, provided the person required to file the report is able to use an electronic format. The report must contain such information as required by the commissioner and may include:</text>
+        <para>
+          <num>a.</num>
+          <text>A detailed schedule of motor vehicle fuel received into then         terminal for or on behalf of the position holder.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A detailed schedule of motor vehicle fuel removed from the terminal by or on behalf of a position holder.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The number of gallons of motor vehicle fuel in physical inventory at the beginning of the calendar month and the number of gallons in physical inventory at the close of the calendar month for each position holder. The report must be signed by the taxpayer to be valid and must contain a written declaration that it is made under penalties of perjury.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>The commissioner may prescribe alternative methods for signing, subscribing, or verifying a return filed by electronic means, including telecommunications, which have the same validity and consequence as the actual signature and written declaration for a paper return.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0112</num>
+      <heading>Commissioner to Audit Report and Assess Tax</heading>
+      <text>The commissioner, or an authorized representative, may audit the records, books, and papers, and examine fuel and any equipment used to store, transport, or dispense fuel, of a refiner, supplier, distributor, importer, exporter, terminal operator, or retailer. For a person required to file a report, the examination and audit shall be done no later than three years after the due date of a report, or three years after the report was filed, whichever period expires later. The commissioner is authorized to make assessments of tax, plus penalty and interest, or to issue credits or refunds as determined on the basis of the examination and audit.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0113</num>
+      <heading>Determination If No Return Made</heading>
+      <text>If a person fails, neglects, or refuses to file a motor vehicle fuel tax report  when due, the commissioner shall, on the basis of available information, determine the tax liability for the period during which no report was filed, and to the tax thus determined the commissioner shall add the penalty and interest as provided in section.  An assessment made by the commissioner is presumed to be correct, and in any case where the validity of the assessment is in question, the burden is on the person who challenges the assessment to establish by fair preponderance of evidence that it is erroneous or excessive.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0114</num>
+      <heading>Lien of Tax; Collection; Action Authorized</heading>
+      <para>
+        <num>1.</num>
+        <text>When a taxpayer liable to pay a tax or penalty imposed refuses or neglects to pay the tax, the amount, including any interest, penalty, or addition to the tax, together with the costs that may accrue in addition to the tax, is a lien in favor of the Turtle Mountain Band of Chippewa Indians upon all property and rights to property, whether real or personal, belonging to the taxpayer, and in the case of property in which a deceased taxpayer held an interest as joint tenant or otherwise with right of survivorship at the time of death, the lien continues as a lien against the property in the hands of the survivors to the extent of the deceased taxpayer's interest therein, which interest is determined by dividing the value of the entire property at the time of the taxpayer's death by the number of joint tenants or persons interested therein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The lien attaches at the time the tax becomes due and payable and continues until the liability for the amount is satisfied. For the purposes of <cite path="41|41.01|41.0114">this section</cite>, the words "due" and "due and payable" mean the first instant at which the tax becomes due.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any mortgagee, purchaser, judgment creditor, or lien claimant acquiring any interest in, or lien on, any property situated in the state, prior to the commissioner filing in the central indexing system maintained by the secretary of state, a notice of the lien provided for in <cite path="41|41.01|41.0114">this section</cite>, takes free of, or has priority over, the lien.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The commissioner shall index in the central indexing system the fol1owing data:</text>
+        <para>
+          <num>a.</num>
+          <text>The name of the taxpayer.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The tax identification number or social security number or enrollment number of the taxpayer.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The name "Turtle Mountain Band of Chippewa Indians" as claimant.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The date and time the notice of lien was indexed.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The amount of the lien. The notice of lien is effective as of eight a.m. next following the indexing of the notice. Any notice of lien filed by the commissioner with a recorder may be indexed in the central indexing system without changing its original priority as to property in the county where the lien was filed.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>The commissioner is exempt from the payment of the filing fees as otherwise provided by law for the filing of a lien or the satisfaction of a lien.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon payment of the tax as to which the commissioner has indexed notice in the central indexing system, the commissioner shall index a satisfaction of the lien in the central indexing system.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon the request of the commissioner, the Tribe shall bring an action at law or in equity, as the facts may justify, without bond to enforce payment of any taxes and any penalties, or to foreclose the lien in the manner provided for mortgages on real or personal property.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The foregoing remedies of the Tribe are cumulative and no action taken by the commissioner or Tribe may be construed to be an election on the part of the Tribe or any of its officers to pursue any remedy hereunder to the exclusion of any other remedy provided by law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0115</num>
+      <heading>Corporate Officer Liability</heading>
+      <text>If a corporation holding a license issued under <cite path="41.01">this chapter</cite> fails for any reason to file the required returns or to pay the tax due, any of its officers having control or supervision of, or charged with the responsibility for making such returns and payments is personally liable for the failure .The dissolution of a corporation does not discharge an officer's liability for a prior failure of the corporation to make a return or remit the tax due. The sum due for such a liability may be assessed and collected under the provisions of <cite path="41.01">this chapter</cite> for the assessment and collection of other liabilities.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0116</num>
+      <heading>Governor and Manager Liability</heading>
+      <text>If a limited liability company holding a license issued under <cite path="41.01">this chapter</cite> fails for any reason to file the required returns or to pay the taxes due under <cite path="41.01">this chapter</cite>, the governors or managers, jointly or severally, charged with the responsibility of supervising the preparation of such returns and payments are personally liable for such failure. The dissolution of a limited liability company does not discharge a governor's or manager's liability for a prior failure of the limited liability company to file a return or remit the tax due. The taxes, penalty, and interest may be assessed and collected under the provisions of <cite path="41.01">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0117</num>
+      <heading>Tax Collection Allowance</heading>
+      <text>The person required to remit the tax imposed by <cite path="41.01">this chapter</cite> shall retain two percent of the amount of tax due to cover the cost of collecting the tax and transmitting it to the commissioner. This provision does not apply to tax on excess inventory losses and does not apply to additional tax assessed during an audit.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0118</num>
+      <heading>Inventory Gains; Losses</heading>
+      <para>
+        <num>1.</num>
+        <text>A supplier or distributor shall take a physical inventory reading of all motor vehicle fuel located in a terminal, underground tank, aboveground tank, railcar, storage tank of a truck, and the storage tank of a bulk delivery truck on a monthly basis and shall report the physical readings, inventory gains, and inventory losses to the commissioner .The inventory reconciliation must include motor vehicle fuel at retail locations and motor vehicle fuel stored in a barrel; drum, or other receptacle.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When sold or used by a supplier or distributor, a gain in motor vehicle fuel inventories is subject to the tax imposed by <cite path="41.01">this chapter</cite> in the same manner as motor vehicle fuel purchased, imported, or otherwise acquired.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A supplier or distributor who experiences an actual physical inventory loss due to shrinkage or evaporation is responsible for the tax imposed by <cite path="41.01">this chapter</cite> on any such loss that is in excess of one-half of one percent of the motor vehicle fuel received during the period covered by the inventory reconciliation.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For purposes of <cite path="41.01">this chapter</cite>, it is presumed that all motor vehicle fuel received above the one-half of one percent allowance, except that gallonage shown as inventory based on physical inventory readings at the end of the time period covered by the inventory reconciliation, and other allowances provided in <cite path="41.01">this chapter</cite>, has been sold, delivered, or used, and the supplier or distributor is liable for the amount of the motor vehicle fuel tax on each gallon [liter] of motor vehicle fuel not accounted for.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The commissioner may allow a tax credit to a supplier or distributor for actual inventory losses due to a casualty loss, based on proof of the loss as required by the commissioner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0119</num>
+      <heading>Assignment of Refund Claims</heading>
+      <text>A consumer eligible for a motor vehicle fuel tax refund under <cite path="41.01">this chapter</cite>,                      who purchased the fuel on open account, may assign the refund to the seller by attaching an assignment agreement, on a form prescribed by the commissioner, to the refund claim submitted in accordance with <cite path="41">this title</cite>. If an assignment of a refund is made, the refund check or warrant issued shall be made payable to both the claimant and the assignee.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0120</num>
+      <heading>Credit for Taxes Paid on Worthless Accounts and Refunds</heading>
+      <text>Taxes paid on motor vehicle fuel represented by accounts found to be worthless, and actually charged off, may be taken as a credit against subsequent taxes due provided the accounts charged off included the cost of the fuel as well as the taxes due. If the worthless account is subsequently collected, the tax must be remitted on the amount collected. If in any case the credit or any part of it cannot be utilized because of a discontinuance of a business or for other valid reason, the amount may be refunded.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0121</num>
+      <heading>Retention of Records; Subject to Inspection</heading>
+      <text>A refiner, supplier, distributor, importer, exporter, terminal operator, and retailer shall maintain and retain records of all motor vehicle fuel refined, purchased, imported, or otherwise acquired; of all motor vehicle fuel exported, sold, distributed, and used; and of all inventory records, for a period of not less than three years. Inventory records include physical readings, metered readings of sales, delivery tickets, and delivery readings.</text>
+      <text>The records are open to inspection by the commissioner or by any agent or employee authorized by the commissioner during business hours.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0122</num>
+      <heading>Exemptions</heading>
+      <text>The tax levied under <cite path="41.01">this chapter</cite> does not apply to fuel purchased for use on the Turtle Mountain Reservation in operating vehicles of the government of the United States, or the Tribe or any of its agencies or political subdivisions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0123</num>
+      <heading>Penalty and Interest; Violations</heading>
+      <text>If a person fails to file the required report or to pay the full amount of the tax as required by <cite path="41.01">this chapter</cite>, there is imposed a penalty of five dollars, or a sum equal to five percent of the tax due, whichever is greater, with interest at the rate of one percent per month on the tax due, for each calendar month or fraction of a month during which the delinquency continues, excepting the month within which the report was required to be filed or the tax became due. The commissioner, for good cause shown, may waive all or any part of the penalty or interest provided by this subsection.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0124</num>
+      <heading>Enforcement and Administration</heading>
+      <text>The Turtle Mountain Tribe Tribal Tax Commissioner is charged with enforcement and administration of the provisions of <cite path="41.01">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0125</num>
+      <heading>Civil Action for Tax, Penalties and Interest</heading>
+      <text>In any case of the failure of a taxpayer to pay taxes imposed by <cite path="41.01">this chapter</cite>, or penalties or interest due under <cite path="41.01">this chapter</cite>, the amount due may be recovered in a civil action brought by the Tribal tax commission in Tribal court, or any other court of competent jurisdiction.  In any such action, if the Tribe prevails in whole or in part, the Tribe shall be entitled to recover its reasonable costs of bringing suit, including attorney's fees.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0126</num>
+      <heading>Erroneously or Illegally Collected Taxes</heading>
+      <text>If any taxes, penalties, or interest imposed by <cite path="41.01">this chapter</cite> have been erroneously or illegally collected from any person, the commissioner may permit that person to take credit against a subsequent tax return for the amount of the erroneous or illegal overpayment. In the alternative, the commissioner may issue a refund, by check, out of undistributed funds payable to that person. The refund must be paid to the person from undistributed funds received from the tax imposed by <cite path="41.01">this chapter</cite> and any credit or refund may not be approved or paid unless it is an amount which is in excess of five dollars.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0127</num>
+      <heading>Criminal Sanctions</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who sells fuel covered by <cite path="41.01">this chapter</cite> without paying the tax imposed by <cite path="41.01">this chapter</cite> shall be guilty of theft, a misdemeanor. Any person subject to the Tribe's criminal jurisdiction shall be charged with theft of property as per Chapter 26 under the laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who fails to make reports or provide records as required by <cite path="41.01">this chapter</cite> shall be guilty of a Any person subject to the Tribes criminal jurisdiction shall be charged with a under the laws of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>41.0128</num>
+      <heading>Construction</heading>
+      <text>The provisions of <cite path="41.01">this chapter</cite> shall be construed, where possible, to be consistent with the corresponding provisions of North Dakota's motor vehicle fuel tax law if a motor fuel tax agreement is in place between the Tribe and the State of North Dakota.   Sections 41.0101 and 41.0102 of this Ordinance shall not apply if the Turtle Mountain Band of Chippewa Indians enters into a Tax Agreement with the State of North Dakota for the collection, administration and distribution of this tax.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

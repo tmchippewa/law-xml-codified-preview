@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>34</num>
+  <heading>Tribal Bond Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>34.01</num>
+    <heading>Tribal Bond Code</heading>
+    <section>
+      <num>34.0101</num>
+      <heading>Definitions</heading>
+      <text>In this Bond Code, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"Governing body" means the Turtle Mountain Tribal Council, or any of its duly elected or appointed Boards or Authorities, and political subdivisions, including as such, each of the wholly owned Tribal corporate bodies either Chartered by the Tribe or on behalf of the Tribe, Chartered by the U.S. Department of the Interior pursuant to the Indian Reorganization Act provisions for the granting of a corporate charter of the United States under the 1. R.A., unless said charter shall prohibit the issuance of bonds.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Initial resolution" means any resolution or ordinance adopted pursuant to this Bond Code, by which a proceeding is instituted for the purpose of authorizing the Tribe or any of its political subdivisions or wholly owned corporate entities to borrow money and issue bonds for essential governmental purposes as herein defined.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Recorded" means copied at length in the record book required by this Bond Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0102</num>
+      <heading>Provisions Not Applicable to Certain Issues</heading>
+      <text><cite path="34.01">This chapter</cite> is not applicable:</text>
+      <para>
+        <num>1.</num>
+        <text>To issue of bonds, warrants, or other forms of public securities issued on account of public improvements and for the payment of which special assessments are or shall be levied upon and against property benefited thereby which do not constitute, at the time of their issuance, a general obligation or fixed liability of the governing body issuing the same, nor the portion of any such issue payable by general taxation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To borrowing of money in anticipation of tax collections by means of certificates of indebtedness or other like instruments.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0103</num>
+      <heading>Irregularities Do Not Vitiate Bonds</heading>
+      <text>Defects and irregularities in any proceeding had in substantial compliance with this Bond Code, where the issue is for a lawful purpose, and is unaffected by fraud, and does not exceed any constitutional or statutory limitation of amount, do not invalidate the bonds issued nor the indebtedness incurred after the bonds have been sold and the proceeds thereof received by the Governing Body, nor after the performance of a contract has been entered upon by a party who is to receive the said bonds or the proceeds thereof as consideration for said contract.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0104</num>
+      <heading>Grant of Power to Borrow</heading>
+      <text>General limitations of indebtedness. Every Governing Body may borrow money and issue Tribal obligations thereof for the purposes specified and by the procedure provided in this Bond Code, and for no other purpose and in no other manner. No issuing entity may incur indebtedness in any manner or for any purpose in an amount which, with all other outstanding indebtedness of that Governing Body, exceeds Fifty Million Dollars, except:</text>
+      <para>
+        <num>1.</num>
+        <text>Any issuing entity, by a majority vote of the qua1ified voters of the Turtle Mountain Indian Reservation voting upon said question at a general or special election, may increase such limit of indebtedness for a specific bonding request.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any issuing entity, when authorized by a unanimous vote of the membership of both the governing body of the issuing entity and the Tribal Council voting upon said question, may issue bonds upon any revenue-producing utility owned, or to be acquired, by such body, for the operation, purchase or acquisition of such utility, or the building or establishment thereof, in amounts not exceeding the fair market value of such utility, industry, or enterprise, without regard to bonding limits set forth herein.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any governing body, if authorized by a unanimous vote of the membership of both the governing body and the Tribal Council voting upon said question, may become indebted in any amount without regard to the existing indebtedness of said body, for the purpose of constructing or purchasing waterworks for furnishing a supply of water to the inhabitants of the Reservation and Trust Lands or for the purpose of constructing sewers, and for no other purposes whatever.</text>
+        <text>All bonds or obligations in excess of the amount of indebtedness permitted by this Bond Code, given by any Governing Body as herein defined, are void.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0105</num>
+      <heading>Purposes and Specific Limitations of Bond Issues</heading>
+      <text>Tribal entities defined in this Tribal Bond Code are empowered to borrow money, subject to the general limitations of amounts prescribed herein, to issue bonds thereof for the purposes enumerated in this Bond Code. Such bonds may be issued:</text>
+      <para>
+        <num>1.</num>
+        <text>For the erection, purchase, construction, enlargement, or repair of Tribal buildings for the following purposes: public halls, fire protection buildings, waterworks buildings, police stations, city markets, hospitals, libraries, museums, auditoriums, armories, gymnasiums, and music halls; and to purchase and acquire sites for such buildings, and for the equipment and furnishing thereof.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the purchase of fire engines and other equipment and materials for fire protection and for the purchase, construction, and installation of pumps, water mains, reservoirs, and other necessary facilities for fire protection.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For the construction and extension of water plants or the purchase of existing plants; the construction and improvement of water mains, sewers, and drains; or for the joint construction and establishment of a water and sewer system; or for the erection, planning, construction, and establishment of a sewage disposal plant or system; or for the erection, construction, and enlargement of garbage disposal plants and to purchase sites and grounds, either within or without the limits of the Reservation, for the disposal of sewage, garbage, and other refuse; or for the leasing or purchase of lands, either within or without the limits of the 'Reservation, for the purpose of providing airports or landing fields or for the construction of buildings thereon or the procuring of equipment therefor; and other like essential Tribal governmental purposes.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>To construct, acquire, enlarge, extend, or maintain any plant or equipment, or any part of a plant or equipment, for the production, transmission, delivery or furnishing of heat, light, or power, either directly or indirectly, to or for the public, or to enlarge and extend such plants or equipment or any part thereof.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>To purchase, acquire, or establish any public utility, including any telecommunication system, mass media distribution system, or data transmission system within and without the immediate geographic area of the Turtle Mountain Indian Reservation and the Trust Lands of the Turtle Mountain Jurisdiction, and to purchase or acquire a public transportation system.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>To provide for acquiring, laying out, and improving parks, parkways, park buildings, public drives, boulevards, highways, streets, state highways, and cemeteries, and to acquire land for these purposes.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>To provide money for the payment of any deficiency in the fund of any special improvement district whenever the special assessment or taxes levied and collected for the specific improvements are then insufficient to pay the principal or interest of any special improvement warrants issued for such improvement and then due and unpaid, but only to the extent of such deficiency.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>For the purchase of automobiles, trucks, tractors, flushers, sprinklers, street sweepers, graders, rollers, loaders, plows, conveyors and other machinery, equipment and materials for the cleaning, flushing, and sweeping of any street, highway, avenue, alley, or public place within the Turtle Mountain jurisdiction, the removal of snow and ice therefrom, and other like Tribal purposes.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>For the purchase of trucks, garbage collectors, and other vehicles, equipment and materials for the collection, removal, and disposal of garbage, rubbish, ashes, refuse, and other wastes within the Reservation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0106</num>
+      <heading>Election Required; Exceptions</heading>
+      <text>No Governing Body, and no governing board thereof, may issue bonds without being first authorized by a unanimous vote of the membership of both the governing body of the issuing entity and the Tribal Council voting upon said question. However, pursuant to a vote of greater than fifty percent of all the qualified voters of the Turtle Mountain Tribe voting upon the question at any general election or special election may authorize such indebtedness in the absence of such unanimous consent.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0107</num>
+      <heading>Maximum Interest Rate, Maturity, and Denominations</heading>
+      <text>No bonds issued under the provisions of this Bond Code may bear interest at a rate or rates and be sold privately at a price resulting in an average net interest cost higher than twelve percent per annum. There is no interest rate ceiling on those issues sold at public sale. No bonds issued under this Bond Code may run for a longer period than thirty years from their date. The bonds may not bear a date earlier than the date of the authorization of their issuance election if required, nor earlier than the date of the adoption of the resolution of the governing body determining to issue bonds for which no election is required.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0108</num>
+      <heading>Initial Resolution; Form</heading>
+      <text>Proceedings for the issuance of bonds under the authority, of this Bond Code must be instituted by the adoption of an initial resolution therefor by the governing body of the entity seeking to issue such bonds. Such initial resolution must state:</text>
+      <para>
+        <num>1.</num>
+        <text>The maximum amount of bonds proposed to be issued.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The purpose for which they are proposed to be issued.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The total amount of bonded indebtedness of the Governing Body.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The amount of outstanding bonds of the Governing Body issued for a similar purpose.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Any other statement of fact deemed advisable by the governing body or voters proposing the same.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0109</num>
+      <heading>Initial Resolution; How Adopted</heading>
+      <text>The initial resolution may be:</text>
+      <para>
+        <num>1.</num>
+        <text>Adopted by a majority vote of the governing body of the issuing entity at any regular meeting thereof or at any special meeting of which notice has been given as required by law, without any previous action thereon or request therefore.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Proposed by filing a copy thereof in the office of the secretary of the Governing Body of the proposed issuing entity, together with a petition signed by qualified electors of the Turtle Mountain jurisdiction aggregating in number two percent of the number of qualified electors actually voting as shown by the poll book for the last preceding general election held. Upon the filing of such proposed initial resolution and petition, the governing body shall seek approval as provided for herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0110</num>
+      <heading>Bonds Issued Without an Election</heading>
+      <text>Proceedings for the issuance of bonds under this Bond Code, if no election is required, must be instituted by a resolution of the governing body containing the facts required for an initial resolution as prescribed. At or after the adoption of the resolution, the governing body, when thereafter authorized by a unanimous vote of the membership of both the governing body and the Tribal Council voting upon said question, may proceed to sell, issue, and deliver the bonds as hereinafter provided for the sale, issuance, and delivery <em>of </em>bonds. Said unanimous votes must be conducted at a joint public meeting with the Tribal Council, called and noticed for the purpose of the approval of issuance of a public indebtedness of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0111</num>
+      <heading>Direct, Annual, Non-Repealable Tax or Assessment</heading>
+      <text>The governing body of every Tribal entity issuing bonds under the authority of this Bond Code, before the delivery thereof, shall levy by recorded resolution or ordinance a direct, annual tax or bind an identifiable revenue stream over which it does or will exercise control, which, together with any other moneys provided by, or sources of revenue authorized by, the body, shall be sufficient in amount to pay, and for the express purpose of paying, the interest on such bonds as it falls due, and also to pay and discharge the principal thereof at maturity. The Governing Body shall be and continue to be without power to repeal such levy or assignments or to obstruct the col1ection of any such revenues until such payments have been made or provided for, except that if the governing body in any year makes an irrevocable appropriation to the sinking fund of moneys actually on hand, or if there is on hand in the sinking fund an excess amount, the governing body may cause its recording officer to certify the fact and amount to the Tribal Council with the direction that it should reduce by the amount so certified the amount otherwise to he included in the collection of the revenues for the next year thereafter. A copy of such resolution or ordinance must be certified to and filed with the Tribal Council. No further annual levy for that purpose is necessary. The governing body may, in its discretion and in anticipation of the sale of bonds, at any time after the issuance of bonds has been authorized by the electors or by resolution of the governing body where no election is required, levy and certify to the Tribal Council for collection a portion of the funds herein required, which must be credited against the amount otherwise required to be collected after the bonds have been sold. Any other tax or source of revenue authorized by the Tribal Council for such purposes and imposed or pledged by the Governing Body for those purposes is likewise irrepealable and subject to the same conditions and limitations as any taxes levied on property for the same purposes. When insufficient funds are available to pay the matured bonds, the Tribal Council thereupon may levy a direct tax pay said deficiency and interest thereon, or it may rely upon its other resources.</text>
+      <text>When such bonds are further sustained by revenue of a revenue-producing utility, industry, or enterprise, said resolution or ordinance may provide that the tax or assessment to be levied and assessed may be reduced by such amount and under such conditions as must be determined in said resolution or ordinance so long as adequate provision is always made for the payment of such bonds and interest thereon.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0112</num>
+      <heading>Authority to Borrow and Issue Bonds; When Complete</heading>
+      <text>Every Governing Body which has first complied with all requirements prescribed for and made applicable to it by this Bond Code, but not otherwise, may borrow money and issue and sell its Tribal Bonds for the amount and for the purpose or purposes specified in the initial resolution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0113</num>
+      <heading>Record of Proceedings</heading>
+      <text>Every Governing Body issuing bonds shall provide and keep a record book in which its auditor or secretary shall record a fu1l and correct statement of every step or proceeding had or taken in the course of authorizing and issuing Tribal Bonds, including a statement of the affirmative and negative votes cast by its governing body, the Tribal Council, or the electors voting thereon.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0114</num>
+      <heading>Form and Contents of Bonds</heading>
+      <text>Every Tribal bond must be a negotiable instrument payable to the registered owner, with or without interest coupons attached, interest to be payable annually or semiannually at the rate or rates specified in the accepted bid for the purchase of said bonds. Each bond must specify the time and place for payment of the principal and interest, and must be numbered consecutively with the other bonds of the same issue, which must begin with number one and continue upward, or if so directed by the governing body, must begin with any other number and continue upward. Each bond must bear upon its face a name indicative of the purpose of the issue specified in said initial resolution and must contain a certificate or recital of any direct, annual, irrepealable tax, assessment or appropriation of income source which has been levied by the Governing Body of the issuing entity, together with any other tax or source of revenue which the Governing Body may be authorized to impose or pledge and any annual or periodic payments or distributions appropriated or allocated by the Tribal Council, sufficient to pay the interest when it falls due, and also to pay and discharge the principal of such bond at maturity, and may contain any other statement of fact not in conflict with said initial resolution. The entire issue may be composed of a bond or bonds of a single denomination or of two or more denominations.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0115</num>
+      <heading>Bonds; Terms</heading>
+      <text>Bonds issued under this Bond Code must be authorized by resolution, bear such date or dates, be in such denomination or denominations, be in such form, be subject to redemption with or without premium, and be subject to such other terms or conditions as in the judgment of the Tribal Council are in the pub1ic interest of the Turtle Mountain Band of Chippewa Indians, and must provide that the last installment of principal falls due not more than thirty (30) years from the date of the bonds. The requirements of <cite path="34|34.01|34.0115">this section</cite> apply to each new issue of bonds, or if so determined by the governing body, to the bonds of a new issue combined with all of the outstanding bonds of one or more designated issues of bonds previously issued and similarly payable from taxes or other sources of revenues, or both, as the case may be.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0116</num>
+      <heading>Interest; Ceases at Maturity Unless Presented for Payment</heading>
+      <text>All bonds issued pursuant to the provisions of this Bond Code must contain a provision that interest thereon ceases at maturity unless the holder thereof presents the same for payment and payment is refused.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0117</num>
+      <heading>Execution of Bonds</heading>
+      <text>Tribal Bonds must be executed in the name of and for the Turtle Mountain Band of Chippewa Indians, acting by and through the Tribal Council and such other issuing governing body, by its qualified officers, who for that purpose shall sign the same in their official capacities, as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>For a Board or an Authority of the Tribe, the chairman of the board of the Authority and the Tribal Council.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For a Tribal Corporation, the chairman of the board of the corporation and the Tribal Council.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For any other governing body of a political subdivision of the Tribe, the executive officer of such political subdivision and the Chairman of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For the Tribal Council, the Chairman of the Tribal Council and attested to by its Secretary.</text>
+        <text>The interest coupons attached to such bonds may be executed by the lithographed or engraved facsimile signature of such officers. The validity of every bond so executed remains unimpaired by the fact that any subscribing officer has ceased to be such officer before delivery to the purchaser. Every bond issued by a Governing Body having an official seal must be sealed with such seal.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0118</num>
+      <heading>Tribal Attorney to Give Opinion on Legal Sufficiency of Investments</heading>
+      <text>The general legal counsel retained by the Tribe shall render an opinion on the legal sufficiency of bond issues of political subdivisions, boards, authorities and Tribally owned corporations of the Tribe if the total of such issue is in excess of one hundred thousand dol1ars.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0119</num>
+      <heading>Recording of Bonds</heading>
+      <text>After the bonds have been executed, they must be delivered to the Tribal Council. When the bonds are delivered to the Tribal Council, there must be delivered therewith a certified copy of the resolution of the governing body showing their sale. The Tribal Council, or its auditor, business manager, clerk, or secretary, upon receipt of the bonds, shall record, in a separate book provided for the purpose, an accurate description of every bond so issued. In all cases where the recording officer is not an officer of the governing body of the Tribal entity issuing the bonds, there also must be filed a certified copy of all proceedings of the governing body of the Tribal entity issuing the bonds relating to the issue. When the transaction relating to the sale of the bonds is to be consummated, there must be delivered to the recording officer of the governing body of the Tribal entity issuing the bonds a detailed financial statement of the given by the auditor, business manager, clerk, or secretary of the Tribal Council under oath. When the bonds have been recorded as required by <cite path="34|34.01|34.0119">this section</cite>, and when the recording officer has received the detailed financial statement of the Governing Body, the recording officer shall sign an endorsement on the back of each bond certifying that the bond is recorded in that office, and, that the bond is issued in accordance with law and is within the debt limit of the Tribal entity issuing the bond. No bond is valid without the certificate endorsed thereon.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0120</num>
+      <heading>Bond Record</heading>
+      <text>The Tribal Council shall keep a bond record in which must be entered, as to each issue of bonds issued, a record of the date of issuance, the aggregate amount issued, the date of maturity of each bond, the rate of interest, the amount levied on any other object of taxation by that Tribal entity, the amount pledged or allocated from other sources of revenue of the Tribal entity, and the amount of any annual or periodic payments or distributions appropriated or allocated by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0121</num>
+      <heading>Bonds; Advertised for Bids; Exception</heading>
+      <text>No Governing Body may sell or enter into any contract for the sale of any issue of its bonds authorized by this Bond Code in an amount exceeding one hundred thousand dollars, for whatever purpose issued, without first advertising for bids.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0122</num>
+      <heading>Bonds; Call for Bids; How Advertised; Copy to Council</heading>
+      <text>In cases where bonds are sold on public bids, a notice calling for bids for each proposed issue of Tribal Bonds must be published at least once in newspaper of general circulation on the Turtle Mountain Indian Reservation, not less than ten days nor more than thirty days before the date specified therein for the receiving of such bids. Such notice may be in any form but must specify the amount of bonds offered for sale and the date of the maturity thereof. A copy of such notice must be filed with the Tribal Council not less than ten days before the date specified for the opening bids.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0123</num>
+      <heading>Bids; Where Received; Record</heading>
+      <text>The notice must specify the time and place at which bids will be received, the place must be the Tribal Council's office. At the time and place specified, the governing board of the issuing entity must be represented by one of its officials, or by the Tribal Councilor some other person acting at the request of the board, who shall receive competitive bids, whether submitted orally or in writing. When the bids are received, the Tribal Council shall enter in a permanent record the amount and rate of interest of each bid and the name and address of the bidder.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0124</num>
+      <heading>Sealed Bids</heading>
+      <text>The governing body of the entity calling for bids for the purchase of Tribal bonds, may in its discretion determine, and may state in the notice calling for such bids, that only sealed bids shall be received and considered.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0125</num>
+      <heading>Bids; Accompanied by Draft; Sale to Best Bidder; Rejection of All Bids</heading>
+      <text>All bids must be accompanied by a certified check, cashier's check, or bank draft, in the amount of not less than two percent of the bid. After all bids have been received, they must be delivered forthwith to the governing body of the issuing entity, which shall award the sale of such bonds to the bidder who agrees to purchase them upon the terms most favorable to the Tribe, unless the governing body determines to reject all bids. The governing body has the right to reject any and all bids. If no bids are received or if all bids received are rejected, the governing body may, without re-advertising the bonds for sale, negotiate the sale of an of the bonds to any person upon terms complying with those specified in the notice of sale theretofore published, and if bids were rejected, more favorable to the Tribe than those specified in a rejected bid. No sale may be for less than ninety-eight percent of the par value of such bonds plus the interest accrued on the bonds to the date of the delivery thereof.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0126</num>
+      <heading>Unlawful for Official to Accept Compensation from Bidder</heading>
+      <text>No auditor, secretary, or other official of a Governing Body of any issuing entity may accept from a bidder or prospective bidder at a sale of bonds, a commission or any other compensation for his services rendered or to be rendered in connection with the issuance, sale, or delivery of such bonds.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0127</num>
+      <heading>Tribal Bonds; Private Sale to United States or State Agencies</heading>
+      <text>The procedure prescribed in this Bond Code relative to calling for bids upon the sale of Tribal bonds is not required in the case of bonds sold to:</text>
+      <para>
+        <num>1.</num>
+        <text>The Bank of North Dakota.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Trust funds administered by public officials.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The United States of America, or any agency or instrumentality thereof.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Pre-negotiated bond vendors for rates approved by the Tribal Council and the issuing entity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0128</num>
+      <heading>Registration of Ownership of Bonds; How Made</heading>
+      <text>The holder of any bond payable to "registered owner", issued by any issuing entity, may have the ownership thereof registered as to the principal thereof by an officer designated by the Tribal Council to perform such function. Registration by such officers must be made in the bond register and must be noted on the bond.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0129</num>
+      <heading>Effect of Registration</heading>
+      <text>After registration of a Tribal bond, no transfer hereof is valid unless made on the records kept by the Tribal Council by the registered owner in person, or by his duly authorized attorney, and similarly noted on the bond. Such registration, however, does not affect the negotiability of the appurtenant coupons, but every such coupon continues to be transferable by delivery only and must remain payable to bearer.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0130</num>
+      <heading>Appointment of Fiscal Agents</heading>
+      <text>The Tribal Counsel is authorized in its discretion to appoint a fiscal agent. Every such fiscal agent must be an incorporated bank or trust company authorized by the laws of the United States or of the state in which it is located to do a banking or trust company business. The custodian of the sinking funds of the Governing Body, when necessary, shall deposit with such fiscal agent such sums of money as are required for the payment of the principal or interest of Tribal bonds.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0131</num>
+      <heading>Bond Proceeds; Kept in Separate Fund; Protection of Purchaser</heading>
+      <text>All borrowed money must be paid into the treasury of the Governing Body borrowing it, must be kept there until used, in a fund separate and distinct from all other funds, to be used for the purpose for which it was borrowed and for no other purpose except that such funds may be temporarily invested in securities as are approved by the governing board, and may be withdrawn only upon order or warrants made payable out of said fund and expressing the purpose for which they were drawn. The purchaser of any bonds issued pursuant to this Bond Code is not obliged to see to the application of the purchase price thereof, but is protected fully in paying for such bonds by the receipt of the Tribal Councilor of the officer delivering such bonds. Income from the temporary investing of receipts from bond issues must be available for use for such purpose as such bond issue was approved or upon.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0132</num>
+      <heading>Sinking Funds; Custodian</heading>
+      <text>The fiscal officer of the issuing entity must be custodian of each sinking fund for the payment of bonds issued.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0133</num>
+      <heading>Sinking Funds; Duty of Fiscal Officer</heading>
+      <text>The custodian of any sinking fund may not remit to the treasurer, or any other officer of the entity issuing the bonds any other moneys received for the purpose of paying the interest on or retiring the principal of bonds issued, but he shall retain the same in a separate special fund maintained as a sinking and interest fund for the bonds. The fiscal officer shall make quarterly reports to the Board of Directors of the issuing entity whose sinking fund he has in his possession, showing all collections and amounts added to each such fund, all payments made from such fund, and the net balance in each such fund from time to time. The fiscal officer shall keep the sinking funds on deposit in such public depository as may have furnished proper bond therefore and as may have been designated by the Tribal Council. When a sinking fund is so deposited, the fiscal officer is relieved of personal responsibility for its safekeeping.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0134</num>
+      <heading>Sinking Fund; Sources and Uses</heading>
+      <text>The sinking fund must be disbursed by the fiscal officer or treasurer of the issuing entity, as the case may be, upon the directions therefore by resolution of the governing body of the Tribal entity issuing such bonds. As such bonds mature, the fiscal officer, upon warrant drawn upon him by the Tribal Council, shall apply such sinking fund in retirement thereof, and also in payment of the interest thereon as it becomes payable. The Tribal Council shall draw such warrants so as to pay the interest and retire the bonds at as early a date as possible. The fiscal officer or treasurer of the Tribal entity may not disburse any of such fund contrary to the provisions of this Bond Code, even though so directed by such governing body. The fiscal officer or treasurer of the issuing entity may disburse such fund for the purpose of paying the principal and interest, or cither, of the bonds for which such fund was created without any authorization therefore by the governing body.</text>
+      <text>The sinking fund of each bond issue must be kept separate and must be designated by a name indicative of the issue of bonds on account of which it was created. The sources of such fund must be:</text>
+      <para>
+        <num>1.</num>
+        <text>All moneys accruing to the borrowed money fund which at any stage are not needed for the purpose for which the money was borrowed, and any moneys becoming applicable to the sinking fund must be transmitted by the fiscal officer of the Tribal entity to the Tribal Council.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All moneys raised by taxation or received from other sources for the purpose of paying said bond.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Moneys derived from licenses or other sources, the expenditure of which is not otherwise provided for by law, as the Tribal Council may elect to place in the sinking fund.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The premium, if any, for which the bonds have been sold over and above the par value and accrued interest.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>34.0135</num>
+      <heading>Limitation of Action</heading>
+      <text>No action may be brought or maintained in any court questioning the validity of any bonds issued pursuant to this Bond Code, or of any tax or assessment levied pursuant hereto, unless such action has been commenced within thirty days after the adoption of the resolution of the governing body awarding the sale of such bonds.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

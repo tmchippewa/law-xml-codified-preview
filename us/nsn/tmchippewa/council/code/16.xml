@@ -1,0 +1,1369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>16</num>
+  <heading>Sanitation</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.01</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>16.0101</num>
+      <heading>"Health Board Official" Shall Mean the Turtle Mountain Health Board or Its Authorized Representative</heading>
+      <text><strong>16.0102	"Individual sewage disposal system"</strong> shall mean a sewage disposal system, other than a public or community system, which receives either human excreta or liquid waste or both from one (1) premises. Included within the scope of this definition are septic tanks, soil absorption systems, privies and chemical type toilets and such other types as may be prescribed in regulations by the Turtle Mountain Tribal Health Board, and this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0103</num>
+      <heading>"Refuse Disposal System" Shall Mean a Sanitary Landfill Refuse Disposal System Which Receives All Forms of Refuse from One (1) Premises, or from the Public or Community</heading>
+      <text><strong>16.0104	"Refuse"</strong> as used in <cite path="16">this Title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0105</num>
+      <heading>"Refuse Containers" Shall Be Made of Metal, Be Water Tight, Have Close-Fitting Covers, and Adequate Handles to Facilitate Collection. Such Refuse Containers Shall Be Not Less than Fifteen (15) Gallons nor More than Thirty (30) Gallons in Capacity</heading>
+      <text><strong>16.0106	"Permit</strong>" shall mean a written permit issued by the Health Board official permitting construction of an individual sewage disposal system, or a permit issued for the collection, transportation or disposal of refuse within the Turtle Mountain Jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0107</num>
+      <heading>"Person" Shall Mean Any Indian as Defined by Section 1.0301(6) of the Turtle Mountain Tribal Code</heading>
+      <text>
+        <strong>
+          <cite path="16.02">CHAPTER 16.02</cite>
+        </strong>
+      </text>
+      <text>
+        <strong>Requirements for Sewage Disposal Systems</strong>
+      </text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0201</num>
+      <heading>Health Board to Establish Minimum Standards</heading>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indians, in order to protect the health and safety of residents of the Turtle Mountain Jurisdiction as defined by Section 1.O50l.l of the Turtle Mountain Tribal Code and general public, is authorized and directed to promulgate the following regulations by establishing minimum standards governing the design, construction, installation and operation of individual sewage disposal systems and to protect the public health, control water pollution, and abate nuisance and odor conditions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0202</num>
+      <heading>Drainage Requirements</heading>
+      <text>All septic tank systems must be provided with adequate drainage fields, seepage pits or similar methods by which all liquid wastes will be discharged into the soil as determined by soil percolation test. There should be no discharge or overflow to the adjacent ground surface, lake, river or stream, from either the septic tank or the drainage field.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0203</num>
+      <heading>Location of Septic Tanks and Drainage Fields</heading>
+      <text>All septic tanks and drainage fields must be located one hundred (100) feet from the high water level of any lake, river or stream and no pumping or discharge of liquid waste, either from a septic tank overflow or from any portion of the drainage field or absorption area will be permitted to enter any lake or any contributory streams in the watershed area.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0204</num>
+      <heading>Pumping of Drainage Fields or Septic Tanks</heading>
+      <text>Pumping of drainage fields or septic tanks to adjacent ground surface where it will be permitted to seep away or evaporate will not be permitted in watershed areas as this creates a serious public health hazard in this area.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0205</num>
+      <heading>Lot Sizes for Individual Water and Waste Disposal Systems</heading>
+      <text>Lot sizes in any developed areas where individual water and waste disposal systems are contemplated must be at least twenty thousand (20,000) square feet. This area is required to have a satisfactory waste disposal system that will not endanger the facilities of nearby residents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0206</num>
+      <heading>Location of Water Wells from Septic Tanks and Disposal Fields</heading>
+      <text>Water supply wells must be located at least fifty (50) feet from septic tanks and disposal fields. Consideration must also be given to these facilities on adjacent lots.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.03</num>
+    <heading>Permits for Individual Sewage Disposal Systems</heading>
+    <section>
+      <num>16.0301</num>
+      <heading>Construct, Alter or Extending Sewage Systems</heading>
+      <text>It shall be unlawful for any Indian person to construct, alter or extend individual sewage disposal systems within the watershed area of the Turtle Mountain Indian Jurisdiction unless he holds a valid permit issued by the health officer in the name of such person for the specific construction, alteration or extension proposed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0302</num>
+      <heading>Applications for Permits; to Whom Made</heading>
+      <text>All applications for permits shall be made to the health board who shall issue a permit upon compliance by the applicant with provisions of this ordinance and any regulations adopted hereunder.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0303</num>
+      <heading>Permit May Be Refused; When</heading>
+      <text>The health board may refuse to grant a permit for construction of individual sewage disposal system where public or community sewage systems are reasonably available.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0304</num>
+      <heading>Information to Be Included in Application</heading>
+      <text>Application for permits shall be in writing, shall be signed by the applicant and shall include the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Name and address of applicant. Exact location of property on which construction, alteration or extension is proposed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Complete plan of the proposed disposal facility, with substantiating data, if necessary, attesting to its compliance with the minimum standards to the health officer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Such further information as may be required by the health board to substantiate that the proposed construction, alteration or extension complies with regulations promulgated by the health officer.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0305</num>
+      <heading>Plan to Be Issued by Health Board</heading>
+      <text>A complete plan for the purpose of obtaining a permit to be issued by the health officer shall include:</text>
+      <para>
+        <num>1.</num>
+        <text>The number, location and size of all sewage disposal facilities to be constructed, altered, or extended.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The location of water supplies, water supply piping, existing sewage disposal facilities, buildings, dwellings and adjacent lot lines.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Plans for the proposed sewage disposal facility to be constructed, altered or extended.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.04</num>
+    <heading>Requirements for Waste Disposal Systems</heading>
+    <section>
+      <num>16.0401</num>
+      <heading>Health Board to Promulgate Regulations for Refuse Systems</heading>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indian Tribe or its authorized representative, in order to protect the health and safety of the residents of the Turtle Mountain Jurisdiction as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of the Turtle Mountain Tribal Code of 1968, and general public, is authorized and directed to promulgate the following regulations establishing minimum standards governing design construction and installation of individual, public or community sanitary landfill refuse, systems to protect the public health, control water pollution and abate nuisance and odor conditions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0402</num>
+      <heading>Utility Established</heading>
+      <text>There is herewith created a Public Utility of the Turtle Mountain Jurisdiction to be known as Waste Collection and Disposal Utility. Such utility shall be responsible to carry out the provisions of <cite path="16">this Title</cite> and shall supervise and arrange for a refuse collection system, disposal ground, and landfill disposal system within the Turtle Mountain Jurisdiction. Such utility shall require that all existing waste collection and disposal systems which are in operation on the Turtle Mountain Jurisdiction are in compliance with <cite path="16">this Title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0403</num>
+      <heading>Collection of Refuse</heading>
+      <text>No person, firm or corporation shall collect, transport or dispose of refuse within the Turtle Mountain Jurisdiction who does not possess a permit issued by the Turtle Mountain Tribal Health Board. Said permit shall be issued only after Tribal Health Board delegated official(s) have satisfied themselves that the applicant for permit has the necessary equipment and is capable of complying with the requirements of <cite path="16.04">this Chapter</cite>; and that the collection vehicles and equipment proposed for use by the applicant are of such construction as to be readily cleanable and to prevent the spillage or scattering of refuse. The permit may be revoked or suspended by the Turtle Mountain Tribal Health Board for such a period of time deemed appropriate when the permittee has been convicted by the Turtle Mountain Tribal Court of violating any of the provisions of <cite path="16.04">this Chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0404</num>
+      <heading>Storage of Refuse</heading>
+      <text>Each property owner or occupant of any building or premises located within a community of the Turtle Mountain Jurisdiction used for business purposes, shall store all refuse in covered metal containers, refuse as defined by <cite path="16|16.01|16.0105">Section 16.0105</cite> of this Code, on a concrete platform or elevated rack at least eighteen (18) inches above ground level. In the case of residential property, refuse cans shall be placed on racks or stands not less than twelve (12) inches or more than sixteen (16) inches, which are so designed to prevent access thereto by dogs, rats, flies, and vermin. In either event, such cans shall be conveniently located and readily accessible to refuse collectors at all times.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0405</num>
+      <heading>Hauling_And Disposing of Refuse</heading>
+      <text>No refuse shall be hauled on the streets of any community or on the roads and highway of the Turtle Mountain Jurisdiction unless the same is contained in metal receptacles as hereinbefore described, with covers tightly fitted thereon or unless hauled in trucks, trailers or vehicles which are covered in such manner as to prevent the scattering of such refuse upon the streets, roads, and highways on the Turtle Mountain Jurisdiction. All refuse shall be disposed of by an approved method of sanitary landfill, said methods and sites to be approved by the Turtle Mountain Health Board or their designated representative(s).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0406</num>
+      <heading>Require Services of Waste Collection and Disposal Utility</heading>
+      <text>Al permanent Indian residents living in the Turtle Mountain Jurisdiction shall dispose of all refuse, barnyard waste or other waste material as defined in <cite path="16|16.01|16.0104">Section 16.0104</cite> of this Code, by methods approved by the health board or its authorized representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0407</num>
+      <heading>Requirements for Sanitary Landfills</heading>
+      <text>All temporary Indian residents or cabin owners living in the Turtle Mountain Jurisdiction shall provide a sanitary landfill. Said landfill, type of construction and location to be approved by the health officer.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0408</num>
+      <heading>Throwing of Refuse in Streets, Roads and Highways, Etc. Prohibited</heading>
+      <text>It shall be unlawful for any Indian person, firm, corporation or corporations to throw, place, or deposit or permit to be thrown, placed, or deposited, any refuse defined in <cite path="16|16.01|16.0104">Section 16.0104</cite> of this Code, hereof upon the ground within any community of the Turtle Mountain Jurisdiction or on the Turtle Mountain Jurisdiction area, except in places hereinafter provided.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.05</num>
+    <heading>Inspections</heading>
+    <section>
+      <num>16.0501</num>
+      <heading>Who to Make Inspections</heading>
+      <text>The health board or its authorized representative is hereby authorized and directed to make such inspections as are necessary to determine satisfactory compliance with Title l6 of this Code and regulations promulgated hereunder.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0502</num>
+      <heading>Owner or Occupant to Give Access</heading>
+      <text>It shall be the duty of the Indian owner or Indian occupant of a property to give the health officer free access to property at reasonable times for the purpose of making such inspections as are necessary to determine compliance with the requirements of Title 16 and regulations promulgated hereunder.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.06</num>
+    <heading>Penalties</heading>
+    <section>
+      <num>16.0601</num>
+      <heading>Penalties for Violation of Title 16 of This Code</heading>
+      <text>Any person who violates any provision of Title 16</text>
+      <text>of this Code, or any provision of any regulation adopted by the health board pursuant to authority granted by the Turtle Mountain Tribal Council shall be deemed guilty of an offense and upon conviction thereof shall be sentenced to pay a fine of not to exceed fifty dollars, ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.07</num>
+    <heading>Food Service Sanitation</heading>
+    <section>
+      <num>16.0701</num>
+      <heading>Purpose</heading>
+      <text>To provide, within the Turtle Mountain Jurisdiction, for the sale of only unadulterated, wholesome, properly branded food; regulating the sources of food; establishing sanitation standards for food, food protection, food service personnel, food service operations, food equipment and utensils, sanitary facilities and controls, and other facilities; requiring permits for the operation of permanent and temporary food service establishments; regulating the inspection, grading, regrading and placarding of such establishments; providing for the examination and condemnation of food; and providing for the enforcement of Chapters 16.06 and 16.14 of this Code.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.08</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>16.0801</num>
+      <heading>Definitions</heading>
+      <text>The following definitions shall apply in the interpretation and the enforcement of this ordinance:</text>
+      <para>
+        <num>1.</num>
+        <text>"Adulterated" shall mean the condition of a food:</text>
+        <para>
+          <num>a.</num>
+          <text>if it bears or contains any poisonous or deleterious substance in a quantity which may render it injurious to health;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>if it bears or contains any added poisonous or deleterious substance for which no safe tolerance has been established by regulation, or in excess of such tolerance if one has been established;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>if it consists in whole or in part of any filthy or decomposed substance, or if it is otherwise unfit for human consumption;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>if it has been processed, prepared, packed or held under unsanitary conditions, whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>if it is in whole or in part the product of a diseased animal, or an animal which has died otherwise than by slaughter; or</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>if its container is composed in whole or in part of any poisonous or deleterious substance which may render the contents injurious to health.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Approved" shall mean acceptable to the health authority based on its determination as to conformance with appropriate standards and good health practice.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Closed" shall mean fitted together snugly leaving no openings large enough to permit the entrance of vermin.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Corrosion-resistant material" shall mean a material which maintains its original surface characteristics under prolonged influence of the food, cleaning compounds, and sanitizing solutions which may contact it.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Easily cleanable" shall mean readily accessible and of such material and finish, and so fabricated that residue may be completely removed by normal cleaning methods.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Employee" shall mean any person working in a food-service establishment who transports food or food containers, who engages in food preparation or service, or who comes in contact with any food utensils or equipment.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Equipment" shall mean all stoves, ranges, hoods, meat blocks, tables, counters, refrigerator, sinks, dishwashing machines, steam tables, and similar items, other than utensils, used in the operation of a food-service establishment.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Food" shall mean any raw, cooked, or processed edible substances, beverage or ingredient used or intended for use or for sale in whole or in part for human consumption.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Food-contact surfaces" shall mean those surfaces of equipment and utensils with which food normally comes in contact, and those surfaces with which food may come in contact and drain back onto surfaces normally in contact with food.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Food-processing establishment" shall mean a commercial establishment in which food is processed or otherwise prepared and packaged for human consumption.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Food-service establishment" shall mean any fixed or mobile restaurant; coffee shop; cafeteria; short-order cafe; luncheonette; grill; tearoom; sandwich shop; soda-fountain; tavern; bar; cocktail lounge; nightclub; roadside stand; industrial feeding establishment; private, public, or nonprofit organization or institution routinely serving food; catering kitchen; commissary or similar place in which food or drink is prepared for sale or for service on the premises or elsewhere; and any other eating or drinking establishment or operation where food is served or provided for the public with or without charge.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Health authority" shall mean the Turtle Mountain Health Board of the Turtle Mountain Jurisdiction, or his designated representative.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Kitchenware" shall mean all multiuse utensils other than tableware used in the storage, preparation, conveying, or serving of food.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Misbranded" shall mean the presence of any written, printed, or graphic matter, upon or accompanying food or containers of food, which is false or misleading, or which violates any applicable State or local labeling requirements.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Perishable food" shall mean any food of such type or in such condition as may spoil.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Person" shall mean any Indian individual, or an Indian firm, Indian partnership, Indian company, Indian corporation, Indian trustee, Indian association, or any public or private entity.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Potentially hazardous food" shall mean any perishable food which consists in whole or in part of milk or milk products, eggs, meat, poultry, fish, shellfish, or other ingredients capable of supporting rapid and progressive growth of infectious or toxigenic microorganisms.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Safe temperatures" as applied to potentially hazardous food, shall mean temperatures of 45 degrees F. or below, and 140 degrees F. or above.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Sanitize" shall mean effective bactericidal treatment of clean surfaces of equipment and utensils by a process which has been approved by the health authority as being effective in destroying microorganisms, including pathogens.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Sealed" shall mean free of cracks or other openings which permit the entry or passage of moisture.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Single-service articles" shall mean cups, containers, lids or closures, plates, knives, forks, spoons, stirrers, paddles, straws, place mats, napkins, doilies, wrapping materials, and all similar articles which are constructed wholly or in part from paper, paperboard, molded pulp, foil, wood, plastic, synthetic, or other readily destructible materials, and which are intended by the manufacturers and generally recognized by the public as for one usage only, then to be discarded.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Tableware" shall mean all multiuse eating and drinking utensils, including flatware (knives, forks, and spoons).</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Temporary food-service establishment" shall mean any food-service establishment which operates at a fixed location for a temporary period of time, not to exceed two (2) weeks, in connection with a pow-wow, fair, carnival, circus, public exhibition, or similar transitory gathering.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"Utensil" shall mean any tableware and kitchenware used in the storage, preparation, conveying, or serving of food.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"Wholesome" shall mean in sound condition, clean, free from adulteration, and otherwise suitable for use as human food.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.09</num>
+    <heading>Food</heading>
+    <section>
+      <num>16.0901</num>
+      <heading>Food Supplies</heading>
+      <text>All food in food-service establishments shall be from sources approved or considered satisfactory by the health authority, and shall be clean, wholesome, free from spoilage, free from adulteration and misbranding, and safe for human consumption. No hermetically sealed, nonacid, and low-acid food which has been processed in a place other than a commercial food-processing establishment shall be used.</text>
+      <text>Reason: To control food-borne illness and food spoilage, which may result from improperly processed or handled food, the food-service establishment must be concerned with the sources of food which are to be used. The safety and wholesomeness of food is a basic requirement for the protection of the consumer's health. Accordingly, the provisions listed under "Compliance" are intended to insure that food in general, as well as certain food which may be potentially hazardous, is obtained from sources which have been approved or are considered satisfactory by the health authority.</text>
+      <text>The use of non-commercially processed, hermetically sealed, nonacid, and low-acid food, i.e., food with a pH of more than 4.5, is prohibited because of the history of such food in causing botulism, a type of food poisoning which is frequently fatal. For this reason, such food is required to be obtained only from sources where the conditions and methods of preparation are subject to official regulations or surveillance by State or local governmental authorities.</text>
+      <text>Compliance: This subsection shall be deemed to have been satisfied when the following requirements are met:</text>
+      <para>
+        <num>1.</num>
+        <text>General:</text>
+        <para>
+          <num>a.</num>
+          <text>Food in the food-service establishment shall be from a source approved, or considered satisfactory, by the health authority, and which is in compliance with applicable State and local laws. and regulations. Food from such sources shall have been protected from contamination, and spoilage during subsequent handling, packaging, and storage, and while in transit.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All food in the food-service establishment shall be wholesome and free from spoilage, adulteration, and misbranding.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Milk and Milk Products:</text>
+        <para>
+          <num>a.</num>
+          <text>All milk and milk products, including fluid milk, other fluid dairy products and manufactured milk products, shall meet the standards of quality established for such products by applicable State and local laws and regulations.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Only pasteurized fluid milk and fluid-milk products shall be used or served. Dry milk and milk products may be reconstituted in the establishment if used for cooking purposes only.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>All milk and fluid-milk products for drinking purposes shall be purchased and served in the original container in which they were packaged at the milk plant, or shall be served from an approved bulk milk dispenser; Provided, that cream, whipped cream or half and half, which is to be consumed on the premises, may be served from the original container if no more than one-half gallon capacity or from a dispenser approved by the health authority for such service, and for mixed drinks requiring less than one-half pint of milk, milk may be poured from one quart or one-half gallon containers packaged at a milk plant.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Frozen Desserts:</text>
+        <para>
+          <num>a.</num>
+          <text>A11 frozen desserts such as ice cream, soft frozen desserts, ice milk, sherbets, ice, and mix shall meet the standards of quality established for such products by applicable State and local laws and regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Shellfish:</text>
+        <para>
+          <num>a.</num>
+          <text>All oysters, clams, and mussels shall be from sources approved by the State shellfish authority: Provided, that if the source is outside the State, it shall be one which is certified by the State of origin.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Shell stock shall be identified with an official tag giving the name and certificate number of the original shell-stock shipper and the kind and quantity of shell stock. Fresh and frozen shucked oysters, clams, and mussels, shall be packed in nonreturnable containers identified with the name and address of the packer, re-packer, or distributor, and the certificate number of the packer or re-packer preceded by the abbreviated name of the State.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Shucked shellfish shall be kept in the original container until used.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Meat and Meat Products:</text>
+        <para>
+          <num>a.</num>
+          <text>All meat and meat products shall have been inspected for wholesomeness under an official regulatory program: provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Poultry and poultry Meat Products:</text>
+        <para>
+          <num>a.</num>
+          <text>All poultry and poultry meat products shall have been inspected for wholesomeness under an official regulatory program: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Bakery, Products:</text>
+        <para>
+          <num>a.</num>
+          <text>All bakery products shall have been prepared in the food-service establishment or in a food-processing establishment: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations. All cream-filled and custard filled pastries shall have been prepared and handled in accordance with the requirements of <cite path="16|16.09|16.0902">Section 16.0902</cite> of this Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Nonacid and Low-Acid Hermetically Sealed Food:</text>
+        <para>
+          <num>a.</num>
+          <text>All nonacid and low-acid hermetically sealed food shall have been processed in food processing establishments.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0902</num>
+      <heading>Food Protection</heading>
+      <text>All food while being stored, prepared, displayed, served, or sold at food-service establishments, or during transportation between such establishments, shall be protected from contamination. All perishable food shall be stored at such temperatures as will protect against spoilage. All potentially hazardous food shall be maintained at safe temperatures (45 degrees F. or below, or 140 degrees F. or above), except during necessary periods of preparation and service. Raw fruits and vegetables shall be washed before use. Stuffings, poultry, stuffed meats and poultry and pork and pork products shall be thoroughly cooked before being served. Individual portions of food once served to the customer shall not be served again provided: that wrapped food which has not been unwrapped and which is wholesome may be re-served.</text>
+      <text>Only such poisonous and toxic materials as are required to maintain sanitary conditions and for sanitization purposes may be used or stored in food-service establishments. Poisonous and toxic materials shall be identified, and shall be used only in such manner and under such conditions as will not contaminate food or constitute a hazard to employees or customers.</text>
+      <text>Reason: Wholesome food, if mishandled, can become contaminated from a number of sources. Food protection measures are designed to eliminate the contamination of food from any source within the establishment, and to prevent the growth of disease-producing organisms, and the production of bacterial toxins, in the event that pathogens are present in the food.</text>
+      <text>Proper food-protection measures should include:</text>
+      <para>
+        <num>1.</num>
+        <text>strict observation of personal hygiene by all food-service employees;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>keeping potentially hazardous food refrigerated or heated at all times to temperatures which preclude the growth of any pathogenic organisms which may be present;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>application of good sanitation practices in the storage, preparation, display, and service of food;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>adequate cooking of certain food of animal origin to assure destruction of pathogenic organisms which may be present;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>thorough washing of fruits and vegetables; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>the provision of adequate equipment and facilities for the proper conduct of operations. In addition, food must be protected against accidental contamination with any toxic substance.</text>
+        <text>Compliance: This subsection shall be deemed to have been satisfied when the following requirements are met:</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>General:</text>
+        <para>
+          <num>a.</num>
+          <text>All food, while being stored, prepared, displayed, served, or sold in food service establishments, or transported between such establishments, shall be protected against contamination from dust, flies, rodents, and other vermin; unclean utensils and work surfaces; unnecessary handling; coughs and sneezes; flooding, drainage, and overhead leakage; and any other source.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Conveniently located refrigeration facilities, hot food storage and display facilities, and effective insulated facilities, shall be provided as needed to assure the maintenance of all food at required temperatures during storage, preparation, display, and service. Each cold-storage facility used for the storage of perishable food in nonfrozen state shall be provided with an indicating thermometer accurate to +2 degrees F., located in the warmest part of the facility in which food is stored, and of such type and so situated that the thermometer can be easily and readily observed for reading.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Temperatures:</text>
+        <para>
+          <num>a.</num>
+          <text>All perishable food shall be stored at such temperatures as will protect against spoilage.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All potentially hazardous food shall, except when being prepared and served, and when being displayed for service, be kept at 45 degrees F. or below, or 140 degrees F. or above.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>All potentially hazardous food, when placed on display for service, shall be kept hot or cold as required hereafter:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>If served hot, the temperature of such food shall be kept at 140 degrees F. or above;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If served cold, such food shall be:</text>
+          <para>
+            <num>(a)</num>
+            <text>Displayed in or on a refrigerated facility which can reduce or maintain the product temperature at 45 degrees F. or below; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Pre-chilled to a temperature of 45 degrees F. or below, when placed on display for service, and the food temperature shall at no time during the display period exceed 55 degrees F.</text>
+          </para>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Following preparation, hollandaise and other sauces which, pending service, must be held in the temperature range of 45 degrees F. to 140 degrees F., may be exempt from the temperature requirements of this subsection, if they are prepared from fresh ingredients and are discarded as waste within three (3) hours after preparation. Where such sauces require eggs as an ingredient, only shell eggs shall be used.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Frozen food shall be kept at such temperatures as to remain frozen, except when being thawed for preparation or use. Potentially hazardous frozen food shall be thawed at refrigeration temperatures of 45 degrees F. or below; or under cool, potable running water (70 degrees F. or below); or quick-thawed as part of the cooking process; or by any other method satisfactory to the health authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Preparation:</text>
+        <para>
+          <num>a.</num>
+          <text>Convenient and suitable utensils, such as forks, knives, tongs, spoons, or scoops, shall be provided and used to minimize handling of food at all points where food is prepared.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All raw fruits and vegetables shall be washed thoroughly before being cooked or served.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Stuffings, poultry, and stuffed meats and poultry, shall be heated, throughout, to a minimum temperature of 165 degrees F., with no interruption of the initial cooking process.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Pork and pork products which have not been specially treated to destroy trichinae shall be thoroughly cooked to heat all parts of the meat to at least 150 degrees F.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Meat salads, poultry salads, potato salad, egg salad, cream-filled pastries, and other potentially hazardous prepared food shall be prepared (preferably from chilled products) with a minimum of manual contact, and on surfaces and with utensils which are clean and which, prior to use, have been sanitized.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Custards, cream fillings, or similar products which are prepared by hot or cold processes, and which are used as puddings or pastry fillings, shall be kept at safe temperatures, except during necessary periods of preparation and service, and shall meet the following requirements as applicable:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Pastry fillings shall be placed in shells, crusts, or other baked goods either while hot (not less than 140 degrees F.) or immediately following preparation, if a cold process is used; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such fillings and puddings shall be refrigerated at 45 degrees F. or below in shallow pans, immediately after cooking or preparation, and held thereat until combined into pastries, or served.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All completed custard-filled and cream-filled pastries shall, unless served immediately following filling, be refrigerated at 45 degrees F. or below promptly after preparation, and held thereat pending service.</text>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Storage:</text>
+        <para>
+          <num>a.</num>
+          <text>Containers of food shall be stored above the floor, on clean racks, dollies, or other clean surfaces, in such a manner as to be protected from splash and other contamination.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Food not subject to further washing or cooking before serving shall be stored in such a manner as to be protected against contamination from food requiring washing or cooking.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Wet storage of packaged food shall be prohibited.</text>
+        </para>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Display and Service:</text>
+        <para>
+          <num>a.</num>
+          <text>Where unwrapped food is placed on display in all types of food-service operations, including protected against contamination from customers and other sources by effective, easily cleanable, counter-protector devices, cabinets, display cases, containers, or other similar type of protective equipment. Self-service openings in counter guards shall be so designed and arranged as to protect food from manual contact by customers.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tongs, forks, spoons, picks, cylinders, spatulas, scoops, and other suitable utensils shall be provided and shall be used by employees to reduce manual contact with food to a minimum. For self-service by customers, similar implements shall be provided.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Dispensing scoops, spoons, and dippers, used in serving frozen desserts, shall be stored, between uses; either in an approved running water dipper well, or in a manner approved by the health authority.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Sugar shall be provided only in closed dispensers or in individual packages.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Individual portions of food once served to a customer, shall not be served again; Provided, that wrapped food, other than potentially hazardous food, which is still wholesome and has not been unwrapped, may be reserved.</text>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Transportation:</text>
+        <para>
+          <num>a.</num>
+          <text>The requirements for storage, display, and general protection against contamination, as contained in this subsection, shall apply in the transporting of all food from a foodservice establishment to another location for service or catering operations, and all potentially hazardous food shall be kept at 45 degrees F. or below, or 140 degrees F. or above, during transportation.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>During the transportation of food from a food-service establishment, all food shall be in covered containers or completely wrapped or packaged so as to be protected from contamination.</text>
+        </para>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Poisonous and Toxic Materials:</text>
+        <para>
+          <num>a.</num>
+          <text>Only those poisonous and toxic materials required to maintain the establishment in a sanitary condition, and for sanitization of equipment and utensils, shall be present in any area used in connection with food-service establishments.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All containers of poisonous and toxic materials shall be prominently and distinctively marked or labeled for easy identification as to contents.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>When not in use, poisonous and toxic materials shall be stored in cabinets which are used for no other purpose, or in a place which is outside the food-storage, food-preparation, and cleaned equipment and utensil storage rooms. Bactericides and cleaning compounds shall not be stored in the same cabinet or area of the room with insecticides, rodenticides, or other poisonous materials.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Bactericides, cleaning compounds, or other compounds intended for use on food-contact surfaces, shall not be used in such a manner as to leave a toxic residue on such surfaces, nor to constitute a hazard to employees or customers.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Poisonous polishing materials shall not be used on equipment or utensils, or stored in the establishment.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Poisonous compounds, such as insecticides and rodenticides, in powdered form, shall have a distinctive color so as not to be mistaken for food.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Poisonous materials shall not be used in any way as to contaminate food, equipment, or utensils, or to constitute other hazards to employees or customers.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.10</num>
+    <heading>Personnel</heading>
+    <section>
+      <num>16.1001</num>
+      <heading>Health and Disease Control</heading>
+      <text>No person while affected with any disease in a communicable form, or while a carrier of such disease, or while afflicted with boils, infected wounds, sores, or an acute respiratory infection, shall work in any area of a food-service establishment in any capacity in which there is a likelihood of such person contaminating food or food-contact surfaces with pathogenic organisms, or transmitting disease to other individuals; and no person known or suspected of being affected with any such disease or condition shall be employed in such an area or capacity. If the manager or person in charge of the establishment has reason to suspect that any employee has contracted any disease in a communicable form or has become a carrier of such disease, he shall notify the health authority immediately.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1002</num>
+      <heading>Cleanliness</heading>
+      <text>All employees shall wear clean outer garments, maintain a high degree of personal cleanliness, and conform to hygienic practices while on duty. They shall wash their hands thoroughly in an approved hand-washing facility before starting work, and as often as may be necessary to remove soil and contamination. No employee shall resume work after visiting the toilet room without first washing his hands.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.11</num>
+    <heading>Food Equipment and Utensils</heading>
+    <section>
+      <num>16.1101</num>
+      <heading>Sanitary Design, Construction and Installation of Equipment and Utensils</heading>
+      <text>All equipment and utensils shall be so designed and of such material and workmanship as to be smooth, easily cleanable, and durable, and shall be in good repair; and the food contact surfaces of such equipment and utensils shall, in addition, be easily accessible for cleaning, nontoxic, corrosion resistant and relatively nonabsorbent; Provided, that, when approved by the health authority, exceptions may be made to the above materials' requirements for equipment such as cutting boards, blocks, and bakers' tables. All equipment: shall be so installed and maintained as to facilitate the cleaning thereof, and of all adjacent areas.</text>
+      <text>Equipment in use at the time of adoption of this ordinance which does not meet fully the above requirements, may be continued in use if it is in good repair, capable of being maintained in a sanitary condition and the food-contact surfaces are nontoxic.</text>
+      <text>Single-service articles shall be made from nontoxic materials.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1102</num>
+      <heading>Cleanliness of Equipment and Utensils</heading>
+      <para>
+        <num>1.</num>
+        <text>All eating and drinking utensils shall be thoroughly cleaned and sanitized after each usage.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All kitchenware and food-contact surfaces of equipment, exclusive of cooking surfaces of equipment, used in the preparation or serving of food or drink, and all food-storage utensils, shall be thoroughly cleaned after each use.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Cooking surfaces of equipment shall be cleaned at least once a day.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>All utensils and food contact surfaces of equipment used in the preparation, service, display, or storage of potentially hazardous food shall be thoroughly cleaned and sanitized prior to such use.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Non-food-contact surfaces of equipment shall be cleaned at such intervals as to keep them in a clean and sanitary condition.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>After cleaning and until use, all food-contact surfaces of equipment and utensils shall be so stored and handled as to be protected from contamination.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>All single-service articles shall be stored, handled, and dispensed in a sanitary manner, and shall be used only once.</text>
+      </para>
+      <text>Food-service establishments which do not have adequate and effective facilities for cleaning and sanitizing utensils shall use single-service articles.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.12</num>
+    <heading>Sanitary Facilities and Controls</heading>
+    <section>
+      <num>16.1201</num>
+      <heading>Water Supply</heading>
+      <text>The water supply shall be adequate, of a safe, sanitary quality and from an approved source. Hot and cold running water under pressure shall be provided in all areas where food is prepared, or equipment, utensils, or containers are washed.</text>
+      <text>Water, if not piped into the establishment, shall be transported and stored in approved containers and shall be handled and dispensed in a sanitary manner.</text>
+      <text>Ice used for any purpose shall be made from water which comes from an approved source, and shall be used only if it has been manufactured, stored, transported, and handled in a sanitary manner.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1202</num>
+      <heading>Sewage Disposal</heading>
+      <text>All sewage shall be disposed of in a public sewerage system or, in the absence thereof, in a manner approved by the health authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1203</num>
+      <heading>Plumbing</heading>
+      <text>Plumbing shall be so sized, installed, and maintained as to carry adequate quantities of water to required locations throughout the establishment; as to prevent contamination of the water supply; as to properly convey sewage and liquid wastes from the establishment to the sewerage or sewage-disposal system; and so that it does not constitute a source of contamination of food, equipment, or utensils, or create an unsanitary condition or nuisance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1204</num>
+      <heading>Toilet Facilities</heading>
+      <text>Each food-service establishment shall be provided with adequate, conveniently located toilet facilities for its employees. Toilet fixtures shall be of sanitary design and readily cleanable. Toilet facilities, including rooms and fixtures, shall be kept in a clean condition and in good repair. The doors of all toilet rooms shall be self-closing. Toilet tissue shall be provided. Easily cleanable receptacles shall be provided for waste materials, and such receptacles in toilet rooms for women shall be covered. Where the use of non-water-carried sewage disposal facilities have been approved by the health authority, such facilities shall be separate from the establishment. When toilet facilities are provided for patrons, such facilities shall meet the requirements of this subsection.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1205</num>
+      <heading>Hand-Washing Facilities</heading>
+      <text>Each food-service establishment shall be provided with adequate, conveniently located hand-washing facilities for its employees, including a lavatory or lavatories equipped with hot and cold or tempered running water, hand-cleansing soap or detergent, and approved sanitary towels or other approved hand-drying devices. Such facilities shall be kept clean and in good repair.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1206</num>
+      <heading>Garbage and Rubbish Disposal</heading>
+      <text>All garbage and rubbish containing food wastes shall, prior to disposal, be kept in leak-proof, nonabsorbent containers which shall be kept covered with tight-fitting lids when filled or stored, or not in continuous use: Provided, that such containers need not be covered when stored in a special vermin-proofed room or enclosure, or in a food-waste refrigerator. All other rubbish shall be stored in containers, rooms or areas in an approved manner. The rooms, enclosures, areas and container used shall be adequate for the storage of all food waste and rubbish accumulating on the premises. Adequate cleaning facilities shall be provided, and each container, room or area shall be thoroughly cleaned after the emptying or removal of garbage and rubbish. Food-waste grinders, if used, shall be installed in compliance with State and local standards and shall be of suitable construction. All garbage and rubbish shall be disposed of with sufficient frequency and in such a manner as to prevent a nuisance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1207</num>
+      <heading>Vermin Control</heading>
+      <text>Effective measures shall be taken to protect against the entrance into the establishment and the breeding or presence or the premises of vermin.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.13</num>
+    <heading>Other Facilities and Operations</heading>
+    <section>
+      <num>16.1301</num>
+      <heading>Floors, Walls and Ceilings</heading>
+      <text>The floor surfaces in kitchens, in all other rooms and areas in which food is stored or prepared and in which utensils are washed, and in walk-in refrigerators, dressing or locker rooms and toilet rooms, shall be of smooth, nonabsorbent materials, and so constructed as to be easily cleanable: Provided, that the floors of non-refrigerated, dry-food storage areas need not be nonabsorbent.	All floors shall be kept clean and in good repair. Floor drains shall be provided in all rooms where floors are subjected to flooding-type cleaning or where normal operations release or discharge water or other liquid waste on the floor. All exterior areas where food is served shall be kept clean and properly drained, and surfaces in such areas shall be finished so as to facilitate maintenance and minimize dust.</text>
+      <text>The walls and ceilings of all rooms shall be kept clean and in good repair. All walls of rooms or areas in which food is prepared, or utensils or hands are washed, shall be easily cleanable, smooth, and light-colored, and shall have washable surfaces up to the highest level reached by splash or spray.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1302</num>
+      <heading>Lighting</heading>
+      <text>All areas in which food is prepared or stored or utensils are washed, hand-washing areas, dressing or locker rooms, toilet rooms, and garbage and rubbish storage areas shall be well lighted. During all cleanup activities, adequate light shall be provided in the area being cleaned, and upon or around equipment being cleaned.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1303</num>
+      <heading>Ventilation</heading>
+      <text>All rooms in which food is prepared or served or utensils are washed, dressing or locker rooms, toilet rooms, and garbage and rubbish storage areas shall be well ventilated. Ventilation hoods and devices shall be designed to prevent grease or condensate from dripping into food or onto food preparation surfaces. Filters, where used, shall be readily removable for cleaning or replacement. Ventilation systems shall comply with applicable State and local fire-prevention requirements and shall, when vented to the outside air, discharge in such manner as not to create a nuisance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1304</num>
+      <heading>Dressing Rooms and Lockers</heading>
+      <text>Adequate facilities shall be provided for the orderly storage of employees' clothing and personal belongings. Where employees routinely change clothes within the establishment, one (1) or more dressing rooms or designated areas shall be provided for this purpose. Such designated areas shall be located outside of the food preparation, storage, and serving areas, and the utensil washing and storage areas; Provided, that, when approved by the health authority, such an area may be located in a storage room where only completely packaged food is stored. Designated areas shall be equipped with adequate lockers, and lockers or other suitable facilities shall be provided in dressing rooms. Dressing rooms and lockers shall be kept clean.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1305</num>
+      <heading>Housekeeping</heading>
+      <text>All parts of the establishment and its premises shall be kept neat, clean, and free of litter and rubbish. Cleaning operations shall be conducted in such a manner as to minimize contamination of food and food-contact surfaces. None of the operations connected with a food-service establishment shall be conducted in any room used as living or sleeping quarters. Soiled linens, coats, and aprons shall be kept in suitable containers until removed for laundering. No live birds or animals shall be allowed in any area used for the conduct of food-service establishment operations; Provided, that guide dogs accompanying blind persons may be permitted in dining areas.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.14</num>
+    <heading>Temporary Food Service Establishments</heading>
+    <section>
+      <num>16.1401</num>
+      <heading>Compliance</heading>
+      <text>A temporary food-service establishment shall comply with all provisions of Chapters 16.06 through 16.14 of <cite path="16">this Title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.15</num>
+    <heading>Enforcement Provisions</heading>
+    <section>
+      <num>16.1501</num>
+      <heading>Permit</heading>
+      <text>It shall be unlawful for any Indian person to operate a food-service establishment within the Turtle Mountain Jurisdiction who does not possess a valid permit issued to him by the health authority. Only a person who complies with the requirements of <cite path="16">this Title</cite> shall be entitled to receive and retain such a permit. Permits shall not be transferable from one Indian person to another person or place. A valid permit shall be posted in every food-service establishment. Permits for temporary food-service establishments shall be issued for a period of time not to exceed fourteen (14) days.</text>
+      <para>
+        <num>1.</num>
+        <text>Issuance of permits. Any person desiring to operate a food-service establishment shall make written application for a permit on forms provided by the health authority. Such application shall include: the applicant's full name and post office address and whether such applicant is an individual, firm, or corporation, and, if a partnership the names of the partners, together with their addresses, shall be included; the location and type of the proposed food-service establishment; and the signature of the applicant or applicants. If the application is for a temporary food-service establishment, it shall also include the inclusive dates of the proposed operation.</text>
+        <text>Upon receipt of such an application, the health authority shall make an inspection of the foodservice establishment to determine compliance with the provisions of <cite path="16">this Title</cite>. When inspection reveals that the applicable requirements of <cite path="16">this Title</cite> have been met, a permit shall be issued to the applicant by the health authority.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Suspension of permits. Permits may be suspended temporarily by the health authority for failure of the holder to comply with the requirements of his Title.</text>
+        <text>Whenever a permit holder or operator has failed to comply with any notice issued under the provisions of <cite path="16.15">Chapter 16.15</cite> of <cite path="16">this Title</cite>, the permit holder or operator shall be notified in writing that the permit is, upon service of the notice, immediately suspended (or the establishment downgraded), and that an opportunity for a hearing will be provided if a written request for a hearing is filed with the health authority by the permit holder.</text>
+        <text>Notwithstanding the other provisions of <cite path="16">this Title</cite>, whenever the health authority finds unsanitary or other conditions in the operation of a food-service establishment which, in his judgment, constitute a substantial hazard to the public health, he may without warning, notice or hearing, issue a written notice to the permit holder or operator citing such condition, specifying the corrective action to be taken, and specifying the time period within which such action shall be taken; and if deemed necessary, such order shall state that the permit is immediately suspended, and al1 foodservice operations are to be immediately discontinued. Any person to whom such an order is issued shall comply immediately therewith, but upon written petition to the health authority, shall be afforded a hearing as soon as possible.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reinstatement of suspended permits. Any person whose permit has been suspended may, at any time, make application for a re-inspection for the purpose of reinstatement of the permit. Within ten (10) days following receipt of a written request, including a statement signed by the applicant that in his opinion the conditions causing suspension of the permit have been corrected, the health authority shall make a re-inspection. If the applicant is complying with the requirements of <cite path="16">this Title</cite>, the permit shall be reinstated.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Revocation of permits. For serious or repeated violations of any of the requirements of <cite path="16">this Title</cite>, or for interference with the health authority in the performance of his duties, the permit may be permanently revoked after an opportunity for a hearing has been provided by the health authority. Prior to such action the health authority shall notify the permit holder in writing, stating the reasons for which the permit is subject to revocation and advising that the permit shall be permanently revoked at the end of five (5) days following service of such notice, unless a request for a hearing is filed with the health authority, by the permit holder, within such five (5) day period. A permit may be suspended for cause pending its revocation or a hearing relative thereto.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Hearings. The hearings provided for in <cite path="16|16.15|16.1501">this section</cite> shall be conducted by the health authority at a time and place designated by him. Based upon the record of such hearing, the health authority shall make a finding and shall sustain, modify, or rescind any official notice or order considered in the hearing. A written report of the hearing decision shall be furnished to the permit holder by the health authority.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1502</num>
+      <heading>Inspection of Food-Service Establishments</heading>
+      <text>At least once every six (6) months, the health authority shall inspect each food-service establishment located within the Turtle Mountain Jurisdiction and shall make as many additional inspections and re-inspections as are necessary for the enforcement of <cite path="16">this Title</cite>.</text>
+      <para>
+        <num>1.</num>
+        <text>Access to establishments. The health authority, after proper identification, shall be permitted to enter, at any reasonable time, any foodservice establishment within the Turtle Mountain Jurisdiction for the purpose of making inspections to determine compliance with <cite path="16">this Title</cite>. He shall be permitted to examine the records of the establishment to obtain pertinent information pertaining to food and supplies purchased, received, or used, and persons employed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of Chapters 16.09 through 16.14 of <cite path="16">this Title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="16|16.15|16.1502">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of Chapters 16.09 through 16.14 of <cite path="16">this Title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
+        <para>
+          <num>a.</num>
+          <text>Set forth the specific violation found, together with the demerit score of the establishment.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Establish a specific and reasonable period of time for the correction of the violations found, in accordance with the following provisions:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>When the demerit score of the establishment is 20 or less, all violations of 2 or 4 demerit points must be corrected by the time of the next routine inspection; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When the demerit score of the establishment is more than 20 but not more than 40, all items of 2 or 4 demerit points must be corrected within a period of time not to exceed thirty (30) days; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When one (l) or more 6 demerit point items are in violation, regardless of demerit score, such items must be corrected within a period of time not to exceed ten (10) days.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>When the demerit score of the establishment is more than 40, the permit is immediately suspended.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In the case of temporary food-service establishments, violations must be corrected within a specified period of time not to exceed twenty-four (24) hours. Failure to comply with such notice shall result in immediate suspension of the permit.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>State that failure to comply with any' notice issued in accordance with the provisions of <cite path="16">this Title</cite> may result in immediate suspension of the permit (or the establishment downgraded).</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>State that an opportunity for appeal from any notice or inspection findings will be provided if a written request for a hearing is filed with the health authority within the period of time established in the notice for correction.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Service of notices. Notices provided for under <cite path="16|16.15|16.1502">this section</cite> shall be deemed to have been properly served when the original of the inspection report form or other notice has been delivered personally to the permit holder or person in charge, or such notice has been sent by registered or certified mail, return receipt requested, to the last known address of the permit holder. A copy of such notice shall be filed with the records of the health authority.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Grading of food-service establishments. Every food-service establishment within the Turtle Mountain Jurisdiction shall display, in a place designated by the health authority, a placard approved by the health authority stating the grade received at the time of the most recent inspection of the establishment: Provided, that temporary food-service establishments shall not be subject to grading.</text>
+        <para>
+          <num>a.</num>
+          <text>Grades of establishments shall be as follows:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Grade A. An establishment having a demerit score of not more than 10.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Grade B. An establishment having a demerit score of more than 10 but not more than 20.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Grade C. An establishment having of more than 20 but not more than a demerit score 40.</text>
+          <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (<cite path="16|16.15|16.1501">Section 16.1501</cite>(2) or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
+          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="16|16.15|16.1502">section 16.1502</cite>(3)(b)(3) of <cite path="16">this Title</cite>.</text>
+          <text>The permit holder or operator of any establishment, the grade of which has been lowered, may at any time request an inspection for the purpose of re-grading the establishment. Within ten (10) days following receipt of a request including a signed statement that the conditions responsible for the lowering of the grade have, in the applicant's opinion, been corrected, the health authority shall make an inspection and thereafter as many additional inspections as he may deem necessary to assure himself that the applicant is complying with the higher grade requirements; and, if the findings indicate compliance, shall award the higher grade.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1503</num>
+      <heading>Examination and Condemnation of Food</heading>
+      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="16|16.15|16.1502">section 16.1502</cite> (3)(d), and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this Title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0504</num>
+      <heading>Food-Service Establishments Outside Jurisdiction of the Health Authority</heading>
+      <text>Food from food-service establishments outside the jurisdiction of the health authority of the Turtle Mountain Jurisdiction may be sold within the Turtle Mountain Jurisdiction if such food-service establishments conform to the provisions of this Code or to substantial1y equivalent provisions. To determine the extent of compliance with such provisions, the health authority may accept reports from responsible authorities in other jurisdictions where such food-service establishments are located.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1505</num>
+      <heading>Plan Review of Future Construction</heading>
+      <text>When a foodservice establishment is hereafter constructed or extensively remodeled, or when an existing structure is converted for use as a food-service establishment, properly prepared plans and specifications for such construction, remodeling, or alteration, showing layout, arrangement, and construction materials of work areas, and the location, size, and type of fixed equipment and facilities, shall be submitted to the health authority for approval before such work is begun.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1506</num>
+      <heading>Procedure When Infection Is Suspected</heading>
+      <text>When the health authority has reasonable cause to suspect possibility of disease transmission from any foodservice establishment employee, the health authority shall secure a morbidity history of the suspected employee, or make such other investigations as may be indicated, and take appropriate action. The health authority may require any or all of the following measures:</text>
+      <para>
+        <num>1.</num>
+        <text>the immediate exclusion of the employee from all food-service establishments;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the immediate closure of the food-service establishment concerned until, in the opinion of the health authority, no further danger of disease outbreak exists;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>restriction of the employee's services to some area of the establishment where there would be no danger of transmitting disease; and (d) adequate medical and laboratory examinations of the employee, of other employees and of his and their body discharges.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1507</num>
+      <heading>Enforcement Interpretation</heading>
+      <text><cite path="16">This Title</cite> shall be enforced by the health authority in accordance with the interpretations thereof contained in the compliance provisions of the 1962 Edition of the "United States Public Health Service Food Service Sanitation Ordinance and Code", three (3) certified copies of which shall be on file in the Indian Health Service Office, Belcourt, North Dakota.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.16</num>
+    <heading>Penalties</heading>
+    <section>
+      <num>16.1601</num>
+      <heading>Penalties for Violations</heading>
+      <text>Any Indian person who violates any provision of Chapters 16.06 through 16.14 of this Code or any provision of any regulation adopted by the Turtle Mountain Health Board pursuant to authority granted by the Turtle Mountain Tribal Code sha11 be deemed gui1ty of an offense and upon conviction thereof shall be sentenced to pay a fine or not to exceed fifty dollars ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1602</num>
+      <heading>Unconstitutionality Clause</heading>
+      <text>Should any section, paragraph, sentence, clause, or phrase of this ordinance be declared unconstitutional or invalid for any reason, the remainder of said ordinance shall not be affected thereby.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.17</num>
+    <heading>Turtle Mountain Health Board</heading>
+    <section>
+      <num>16.1701</num>
+      <heading>Name</heading>
+      <text>The name of this committee shall be the Turtle Mountain Health Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1702</num>
+      <heading>Authority</heading>
+      <text>The Turtle Mountain Health Board is an integral part of the Turtle Mountain Overall Economic Development Plan adopted June 16, 1969, by the Tribal Council of the Turtle Mountain Band of Chippewa Indians. The Tribal Council has also recognized this health board in Resolution No. 429-7-70 of the duly elected certified Council on June 20, 1970. The Turtle Mountain Health Board is recognized by the Tribal Council as the authoritative body to assist in improving health conditions within the Turtle Mountain Jurisdiction through the alleviation of immediate and felt health problems of the people of the Turtle Mountains.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.1703</num>
+      <heading>Purpose and Objectives</heading>
+      <text>The purpose of the Turtle Mountain Health Board is to assist in improving the health conditions within the Turtle Mountain Jurisdiction. The Turtle Mountain Health Board is established to provide the people of the Turtle Mountains with a means of communication and participation with the Indian Health Service of the United States Public Health Service and other agencies, i.e., state, county, and local, on health matters. The Board's objectives are, but not limited to:</text>
+      <para>
+        <num>1.</num>
+        <text>To Represent the Indian interest and desires concerning health matters to all agencies and groups.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To improve the effectiveness of the Indian Health Program through responsible participation in making decisions about their health services in order to improve the health status of the people within the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>To make and authorize investigations of health, sanitation, and public safety conditions of the Turtle Mountain Jurisdiction and report their findings to the Board and the Tribal Council.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>To make and authorize inspections in compliance with the applicable health, sanitation, and public safety laws, and to take appropriate action against violators of such laws.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>To develop and operate within a Health Board budget as approved by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>To act as a grievance board to hear, investigate, and assist in finding immediate solutions to complaints of the people concerning health within the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>To act in an advisory capacity to the Indian Health Service concerning needed program changes in establishing priorities, distributing resources, and assisting in developing long range program plans.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>To promote through health education the development of Indian responsibility for community activities affecting health.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>To cooperate and communicate with all committees as set forth in the Tribal Council's Overall Economic Development Plan.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>To establish lines of communication between all other boards of health including, but not limited to, the Aberdeen Area Indian Health Advisory Board.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>To attend conferences, workshops, and seminars concerning health, community development, and community organization, for the purpose of keeping aware of new developments in Indian affairs.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>To take all necessary and appropriate action to carry out its responsibilities towards the fulfillment of its overall purpose.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.18</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>16.1801</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Belcourt" shall mean the community of South Belcourt which is located immediately south of U.S. Highway #28l and North Dakota State Highway #5. Belcourt shall include LaBelle Court, the one hundred (100) units of low rent housing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Board" as used in these by-laws shall mean the Turtle Mountain Health Board.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Tribal Council" shall mean the Tribal Council of the Turtle Mountain Band of Chippewa Indians, which is the governing body of the people who are enrolled members of the Turtle Mountain Band of Chippewa Indians and which is the sponsoring body of the Turtle Mountain Health Board.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Districts I, II, III, and IV" are those districts of the Turtle Mountain Jurisdiction as defined by the Tribal Council's Constitution and By-Laws, specifically Article V, Section 6.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The term "just cause" shall mean, as defined in Black's Law Dictionary, (Revised 4th Ed. 1968), "A cause outside legal cause which must be based on reasonable grounds, and there must be a fair and honest cause or reason, regulated by good faith".</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The term "Turtle Mountain Jurisdiction" shall mean the same as specifically defined in <cite path="1|1.05|1.0502">section 1.0502</cite> of The Turtle Mountain Tribal Code.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.19</num>
+    <heading>Composition of the Board</heading>
+    <section>
+      <num>16.1901</num>
+      <heading>Composition of the Board</heading>
+      <text>The Turtle Mountain Health Board shall be composed of eleven (11) members, as follows:</text>
+      <text>Two (2) representatives from Belcourt</text>
+      <text>Two (2) representatives from District I</text>
+      <text>Two (2) representatives from District II</text>
+      <text>Two (2) representatives from District III</text>
+      <text>Two (2) representatives from District IV</text>
+      <text>One (1) Director, Community Action Agency Health &amp; Nutrition Aides/Community Health Representatives.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.20</num>
+    <heading>Membership</heading>
+    <section>
+      <num>16.2001</num>
+      <heading>Membership</heading>
+      <text>There shall be two (2) classes of membership, namely:</text>
+      <para>
+        <num>1.</num>
+        <text>Permanent membership. Permanent membership shall include one (1) Health &amp; Nutrition Aide/Community Health Representative from each district and Belcourt of the Turtle Mountain Jurisdiction (See Article V). Permanent membership shall include the Director of the Health &amp; Nutrition Aides/ Community Health Representatives.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Appointed membership. Appointed membership shall include one (1) representative from each district and Belcourt from the Turtle Mountain Jurisdiction (See Article V). Appointed membership shall mean that this person is a resident of the district he represents and is not employed by an agency that would present a problem of a conflict of interest.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2002</num>
+      <heading>Permanent or Appointed Members Allowed to Vote</heading>
+      <text>Only people designated as either a permanent member or an appointed member shall be allowed to vote on the business of this Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2003</num>
+      <heading>Resignation</heading>
+      <text>Any member may resign by filing a written resignation with the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2004</num>
+      <heading>Removal for Cause</heading>
+      <text>Permanent or appointed members may be removed for cause by the Tribal Council upon recommendation by the Board. There must be two-thirds majority in favor of removal by the Tribal Council before this action is valid.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2005</num>
+      <heading>Membership Not Transferable or Assignable</heading>
+      <text>Membership on this Board either permanent or appointed is not transferable or assignable.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2006</num>
+      <heading>Term</heading>
+      <text>Permanent members shall serve on the Board for a term of an indefinite period or until removal for cause by the Tribal Council (See Article VI, Section 4), upon recommendation from the Board or by resignation, or by death.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2007</num>
+      <heading>One-Year Term</heading>
+      <text>Appointed members shall serve a term of one (1) year.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2008</num>
+      <heading>Vacancies by Resignation, Removal for Cause, or Death of Permanent Member</heading>
+      <text>Vacancies left on the Board by resignation, removal for cause, or death of a permanent member shall be filled by the appointment of another Health and Nutrition Aide/Community Health Representative from the same district of the Turtle Mountain Jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2009</num>
+      <heading>Vacancies by Resignation, Removal for Cause, or Death of Appointed Member</heading>
+      <text>Vacancies left on the Board by resignation, removal for cause, or death of an appointed member shall be filled by the appointment of another resident and representative of the district. This appointment will be made by the Tribal Council. The Tribal Council when making this appointment will also hear recommendations from the Board. This newly appointed Board member shall serve only the unexpired term left by the leaving appointed member. Appointed Board members are subject to reappointment from year to year.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2010</num>
+      <heading>Vacancy of Director</heading>
+      <text>Vacancy left by the resignations, removal for cause, or death of the Director of the Community Action Agency Health &amp; Nutrition Aides/Community Health Representatives shall be filled by the new director or another Health &amp; Nutrition Aide/ Community Health Representative.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.21</num>
+    <heading>Meetings</heading>
+    <section>
+      <num>16.2101</num>
+      <heading>Regular Meetings</heading>
+      <text>Regular meetings of the Board shall be held on the last Monday of every month at 9:00 a.m. unless otherwise specified by and agreed to by the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2102</num>
+      <heading>Special Meetings</heading>
+      <text>Special meetings of the Board shall be upon the call of the Chairman at the time and place specified. Upon failure or refusal of the Chairman to call meetings as may be necessary, a special meeting may be called upon three (3) days notice to all members signed by any four (4) members of the	Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2103</num>
+      <heading>Quorum Necessary</heading>
+      <text>Seven (7) members shall constitute a quorum at any meeting of the Board. No selection of officers nor business of the Board shall be done without a quorum being present.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2104</num>
+      <heading>Vote by Six Members Necessary</heading>
+      <text>A uniform vote of at least six (6) members of the Board shall be required for any action of the Board to be effective.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2105</num>
+      <heading>Written Notice of Meeting</heading>
+      <text>Written notice stating the place, day, and hour of any meeting of members shall be delivered either personally or by mail, to each member entitled to vote at such meeting, not less than three (3) or more than thirty (30) days before the date of such meeting, by or at the direction of the Chairman, or the officers or persons calling the meeting. In the case of a special meeting or when required by these by-laws, the purposes or purpose for which the meeting is called shall be stated in the notice. If mailed, the notice of meeting shall be deemed to be delivered when deposited in the United States mail addressed to the member at his address as it, appears on the records of the Board, with postage thereon paid.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2106</num>
+      <heading>Voting by Proxy</heading>
+      <text>Voting by proxy shall not be allowed at any meeting.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2107</num>
+      <heading>Members Subject to Removal; Cause</heading>
+      <text>Any member of the Board either permanent or appointed who misses two (2) consecutive meetings without just cause in writing to the Board will be subject to removal. This notification can be given to any other member of the Board at any time before the meeting, either for special or regular meetings.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.22</num>
+    <heading>Officers</heading>
+    <section>
+      <num>16.2201</num>
+      <heading>Election of Officers</heading>
+      <text>A Chairman, Vice-Chairman, Secretary, and Treasurer, shall be elected by a majority of those members of the Board who are present at a duly called meeting providing there is a quorum present.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2202</num>
+      <heading>Chairman to Preside</heading>
+      <text>The Chairman shall preside at all Board meetings and in his absence, the Vice-Chairman shall preside. If neither the Chairman nor Vice-Chairman is present, a temporary Chairman shall be selected by those members present. The Chairman or his substitute shall vote only in the case of a tie.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2203</num>
+      <heading>Chairman to Report</heading>
+      <text>The Chairman shall report monthly to the Tribal Council at their regular meeting concerning recommendations and progress of the Board. If he cannot report for just cause, the Vice-Chairman will report. If neither the Chairman nor Vice-Chairman can report because of just cause, then a temporary reporter shall be selected by the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2204</num>
+      <heading>Secretary's Duties</heading>
+      <text>The Secretary shall keep the minutes of every meeting held and shall conduct such correspondence as the Board deems necessary. The Secretary will notify members of the Board of all meetings, special and regular; in accordance with these by-laws (See Article VII, Section 5).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2205</num>
+      <heading>Treasurer's Duties</heading>
+      <text>The Treasurer shall maintain the records of receipts and expenditures under a system approved by the Tribal Council. The Treasurer shall be bonded for an amount not less than one thousand dollars ($1,000).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2206</num>
+      <heading>Treasurer to Report</heading>
+      <text>The Treasurer of the Board shall make a monthly financial report to the Board at the Board's regular monthly meeting.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2207</num>
+      <heading>Terms of Office</heading>
+      <text>The Chairman, Vice-Chairman, Secretary, and Treasurer, shall each serve a term of one (1) fiscal year.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2208</num>
+      <heading>Election of Officers; When</heading>
+      <text>Election of officers shall take place during the first meeting of each fiscal year.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.23</num>
+    <heading>Special Committees</heading>
+    <section>
+      <num>16.2301</num>
+      <heading>Special Committees</heading>
+      <text>The majority of the Board shall have the power to create any special committees when necessary and establish guidelines therefore.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.24</num>
+    <heading>Fiscal Year</heading>
+    <section>
+      <num>16.2401</num>
+      <heading>Fiscal Year</heading>
+      <text>The fiscal year of the Board shall begin on the first day of July and end on the last day of June of each year.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.25</num>
+    <heading>Per Diem and Travel</heading>
+    <section>
+      <num>16.2501</num>
+      <heading>Per Diem and Travel</heading>
+      <text>The Board shall fix the rate of per diem and travel expenses for members of the Board.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.26</num>
+    <heading>Finance</heading>
+    <section>
+      <num>16.2601</num>
+      <heading>Qperation from Funds Raised or Donated</heading>
+      <text>The Board shall operate from funds raised by the Board or donations from interested groups and organizations. These moneys will be disbursed by the Board with their approval by a majority vote in accordance with a budget drawn up by the Board and approved by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2602</num>
+      <heading>Disbursements; Checking Account</heading>
+      <text>All disbursements shall be by and through a checking account set up especially for the Turtle Mountain Health Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.2603</num>
+      <heading>Checks Require Two Signatures</heading>
+      <text>Two (2) signatures are required, the Chairman's and the Treasurer's before money of the Board can be disbursed. If the Chairman is absent then his official representative will do his business.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.27</num>
+    <heading>Advisory Committee</heading>
+    <section>
+      <num>16.2701</num>
+      <heading>Advisory Committee</heading>
+      <text>The Board shall be served by an Advisory Committee composed of Indian Health, Bureau of Indian Affairs, as well as such as may be interested and appointed by the Board from time to time, including representatives of the state, county, and non-Indian governing bodies. Members of the Advisory Committee shall have no voting rights. The Advisory Committee will serve as a resource committee and will serve only in an advisory capacity.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

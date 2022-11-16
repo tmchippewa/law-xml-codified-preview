@@ -1,0 +1,1594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>2</num>
+  <heading>Judicial Procedure, Civil</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.01</num>
+    <heading>Creation and Jurisdiction</heading>
+    <section>
+      <num>2.0101</num>
+      <heading>Tribal Court</heading>
+      <text>The Turtle Mountain Tribal Court is created and exists by virtue of Article IX, Section 5, under (a), of the Turtle Mountain Tribal Constitution and other Tribal organizational documents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0102</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Court shall have general jurisdiction in all civil actions to the extent permitted by the Tribal constitution and by the laws of the United States. Such jurisdiction shall include, but not be limited to, jurisdiction over the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in <cite path="2|2.01|2.0102">Section 2.0102</cite>(3) of this Code; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Contracts to be performed within the Court's territorial jurisdiction, including contracts to insure any person, property, or risk, located within the Court's territorial jurisdiction; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Ownership, leasehold, use, or possession of any property, or interest therein, located within the Court's territorial jurisdiction; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Tortious acts committed within the Court's territorial jurisdiction; or injury affected within the Court's territorial jurisdiction by tortious acts committed elsewhere.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Court, except as it may be limited by the Tribal laws or law of the United States, has all inherent power of any Court including, but not limited to:</text>
+        <para>
+          <num>a.</num>
+          <text>The power to make rules for the conduct of its business;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The power to issue orders, decrees, subpoenas or writs necessary to implement its decisions;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The power to punish for contempt;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The power to administer oaths or affirmations;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The power to issue separation agreements;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The power to enforce its decisions by either a personal command to the party or parties or by a declaration that relief is granted, regardless of the nature of the matter before the Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The territorial jurisdiction of the Court extends to all territory within the exterior boundaries of the Turtle Mountain Jurisdiction as defined by <cite path="1|1.05|1.0502">Section 1.0502</cite> of this Code unless otherwise provided.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Court shall not have jurisdiction over any suit brought against the Tribe without the consent of the Tribe. Nothing in this Code shall be construed as consent by the Tribe to be sued.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.02</num>
+    <heading>Actions, Decisions, Enforcement</heading>
+    <section>
+      <num>2.0201</num>
+      <heading>Form of Complaint</heading>
+      <text>One form of complaint shall be used in all cases, regardless of the relief sought or the relief or remedy granted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0202</num>
+      <heading>Enforcing Its Decisions</heading>
+      <text>In enforcing its decisions, the Court may either command a party to perform that which the decision requires him to do or it may command an officer of the Court or a police officer to take such action as is necessary to enforce the decision.  The method of enforcing the decision shall be at the option of the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0203</num>
+      <heading>Action Defined</heading>
+      <text>An action is a proceeding in Court in which a party sues another party to enforce, determine or protect a right, or seeks compensation for or prevention of a wrong.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0204</num>
+      <heading>No Merger of Civil and Criminal Liabilities</heading>
+      <text>Where the violation of a right gives rise to both a civil remedy and a criminal prosecution a separate action may be brought for either.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.03</num>
+    <heading>Commencement of Actions</heading>
+    <section>
+      <num>2.0301</num>
+      <heading>General Limitations</heading>
+      <text>An action can only be commenced within the time stated in <cite path="2">this Title</cite> unless a different time is specified by law. The time within which the action may be commenced starts at the time the act complained of was discovered, unless by law otherwise provided.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0302</num>
+      <heading>Statute of Limitations</heading>
+      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years  in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="2|2.03|2.0302">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0303</num>
+      <heading>Waiver of Limitation</heading>
+      <text>A defense of the running of the statute of limitations can be waived by the party able to assert such a defense. Such a defense must be pleaded and  proved to be effective.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0304</num>
+      <heading>Terms Identifying Parties</heading>
+      <text>The person starting an action shall be known as the plaintiff. The person against whom the action is brought shall be known as the defendant. In a situation where the person bringing or defending an action is a guardian ad litem, he shall also be known as the plaintiff or defendant as the case may be, but shall further be identified as guardian or guardian ad litem of the true party in the title of the action.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.04</num>
+    <heading>Commencing Civil Actions</heading>
+    <section>
+      <num>2.0401</num>
+      <heading>Civil Case</heading>
+      <text>A civil case is started by filing a written complaint or service of a summons on the defendant or defendants. Such summons must state where the complaint is, or is to be, filed. Upon the demand of the defendant at the place named in the summons, the plaintiff shall file the complaint within twenty (20) days.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0402</num>
+      <heading>Complaint. (Amended Resolution No. Tmbc Tmbc1722-08-22)</heading>
+      <para>
+        <num>1.</num>
+        <text>The complaint shall be filed with a Clerk of the Tribal Court, who shall mark thereon the date of the filing or the date of service of the summons.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The action shall be deemed to have started as of the time the complaint is so filed and marked or at the time of service of the summons.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The case shall be deemed pending until judgment or dismissal.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The complaints shall be captioned, "In the Turtle Mountain Tribal Court of the Turtle Mountain Jurisdiction". It shall state the name of the plaintiff and of the defendant and be further identified as a "complaint".</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If the defendant's true name be unknown, he may be designated by any name until his true name be ascertained, at which time the complaint shall be corrected accordingly.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The complaint shall state clearly and briefly in plain language the grievance for which relief is sought and shall further state the relief desired.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>When the filing of the complaint is used to start the cause of action, it must be served with the summons.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"In rem" actions may be commenced without regarding to subparagraph "4" in the event a party seeks a determination on the status of condition of property, included in the bundle of rights associated with property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0403</num>
+      <heading>Guardians</heading>
+      <para>
+        <num>1.</num>
+        <text>When by reason of incompetency or legal disability it is necessary to have a guardian to the action, it shall be the duty of the Court to appoint a suitable adult to act as guardian. Such person must give written consent to act as guardian and may, at the Court's discretion, be required to give suitable security.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If no suitable person can be found to act as guardian, the Court may then appoint the clerk or another judge as guardian, except where such persons are employed by the Bureau of Indian Affairs, but no security shall be required of such clerk or judge.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When a guardian is necessary to the action, it shall be the duty of the Court to appoint a guardian within a reasonable time after the filing of the complaint, but in no instance shall trial commence without the appointment of a guardian.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0404</num>
+      <heading>Summons</heading>
+      <text>A summons is issued by the Clerk of Court to the defendant. The summons shall:</text>
+      <para>
+        <num>1.</num>
+        <text>be dated as of the day of its issue;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>be signed by the party or his agent and the Clerk of Court;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>name the place where the complaint is filed;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>be directed to a police officer or disinterested third party with a command that he serve it.</text>
+        <text>The summons shall further state the name of the plaintiff and that of the defendant, if known. If the defendant's name be unknown, it must give a reasonable description of him. It shall state generally the nature of the plaintiff's claim against the defendant, with the amount claimed, if any.  When the summons is issued after the complaint, it shall further state the date of appearance and that, in case of his failure to answer or appear as commanded, he will lose by default.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0405</num>
+      <heading>Service of Summons and Complaint</heading>
+      <para>
+        <num>1.</num>
+        <text>A copy of the summons, together with a copy of the complaint as required under <cite path="2|2.04|2.0402">Section 2.0402</cite> may be served by certified mail, return receipt requested, or may be served personally upon an individual defendant. Service may be made by leaving a copy of the summons and complaint at the defendant's usual abode with a resident of the household above the age of fourteen (14) years, if the defendant cannot be conveniently found.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the defendant be a minor, service shall be made upon his guardian, if a guardian has been appointed. If no guardian has been appointed, then service may be made upon either the father or the mother of such minor. If the minor be more than fourteen (14) years of age and neither father, mother nor guardian can be found, then service may be made upon such minor the same as in the case of adults.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the defendant be an unincorporated association, or corporation, service shall be made by either delivering a true copy of the summons and complaint to any officer or chief clerk thereof.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In all cases, the defendant's signed acknowledgment of service on the summons or his voluntary appearance in Court is equivalent to service as herein before required.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0406</num>
+      <heading>Long-Arm Statute</heading>
+      <text>Any person subject to the jurisdiction of the Tribal Court and doing any of the following acts:</text>
+      <para>
+        <num>1.</num>
+        <text>the transaction of any business of the Turtle Mountain Jurisdiction;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the commission of any act which results in accrual of a tort action within the reservation;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>the ownership, use or possession of any property, or any interest therein, situated within the Turtle Mountain Jurisdiction;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>contracting to insure any person, property or risk located within this reservation at the time of contracting; or</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>entering into a contract for services to be rendered or for materials to be furnished in the Turtle Mountain Jurisdiction by such person, shall be, in a civil action arising out of any of the above enumerated acts, subject to service of process outside the reservation in the same manner provided for service within the reservation with the same force and effect as though service had been made within the Turtle Mountain Jurisdiction.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0407</num>
+      <heading>Return of Summons</heading>
+      <text>The "return" of the summons is the police officer's or third party's signed statement on the summons that he served a true copy thereof by personal service as directed or that he was unable to serve it. The date of service, if any and date of return and method of service must be stated on the return by the officer or third party; and when returned, the summons shall be dated and filed with the complaint by the clerk. Should the summons be served by certified mail, return receipt requested, the receipt shall constitute proof of service and shall be filed with the complaint by the clerk.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0408</num>
+      <heading>Definition of Defendant or Respondent.(Amended Resolution No. Tmbc1722-08-22)</heading>
+      <text>As used in this rule, "defendant or respondent", whether or not a citizen or domiciliary of this Tribe and whether or not organized under the laws of this Tribe, includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>an individual, executor, administrator or other personal representative;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>any other fiduciary;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>any two or more persons having a joint or common interest;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>a partnership;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>an association;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>a corporation; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>any other legal or commercial entity.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.05</num>
+    <heading>Appearance, Defaults, Postponements</heading>
+    <section>
+      <num>2.0501</num>
+      <heading>General Appearance</heading>
+      <text>A general appearance is the method by which the defendant in an action submits himself to the jurisdiction of the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0502</num>
+      <heading>Special Appearance</heading>
+      <text>A special appearance is the method or proceeding by which the defendant seeks to test the sufficiency of the service or the jurisdiction of the Court. A special appearance does not confer jurisdiction upon the Court except for the purpose of determining sufficiency of the service or jurisdiction, nor does it waive defects of service.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0503</num>
+      <heading>Method of Appearance</heading>
+      <text>An appearance, general or special, may be made in person or by an agent, and includes either the physical presence in Court of the defendant or his attorney of the filing of a written answer, motion or other pleading in response to the complaint.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0504</num>
+      <heading>Appearance; Time Allowed Parties; Default Decisions. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <para>
+        <num>1.</num>
+        <text>Non-Appearance.</text>
+        <para>
+          <num>A.</num>
+          <text>If the defendant fails to answer the complaint within forty (40) days or otherwise defend, plaintiff is entitled to default judgment upon motion.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A natural person may appear pro se (represent himself or herself), but all other entities must appear by a licensed attorney.</text>
+        </para>
+        <text>Attorney herein means state licensed attorney or advocate.</text>
+        <para>
+          <num>C.</num>
+          <text>An appearance or answer by an attorney who is not admitted under Title 2 and licensed properly as set forth by the Constitution. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Time to Answer</text>
+        <para>
+          <num>A.</num>
+          <text>In all regular civil proceedings, except foreclosure, the defendant shall have 40 days to answer a complaint after lawful service of summons.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>In a foreclosure action a defendant shall have 20 days to answer a complaint after lawful service of summons.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any action against the Turtle Mountain Band of Chippewa or one of its subsidiaries the Tribe or the entity shall have 60 days to answer after lawful service of summons.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Appearance.</text>
+        <para>
+          <num>A.</num>
+          <text>If the defendant has appeared by answer or otherwise, the Defendant must be given at least eight (8) days notice of hearing.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No default may be entered against an infant or incompetent person unless represented by a guardian or licensed attorney.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The fault rules apply to counter-claims, cross-claims and third-party plaintiffs' suits.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Hearing. Upon request of a party or attorney, the clerk shall secure a hearing date.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When an appearance has been made, notice of hearing shall be given by the clerk or attorney.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The court, before entering default, may:</text>
+        <para>
+          <num>A.</num>
+          <text>Set damages when a claim is sum certain;</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Hold a hearing on the evidence and assess damages; or</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Submit an issue of fact to a jury.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Setting aside default.</text>
+        <para>
+          <num>A.</num>
+          <text>The court may on such terms as may be just and upon payment of costs by defendant, relieve a party from a default decision taken because of inadvertence or excusable neglect by a defendant or attorney.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The defendant's motion must be made within thirty (30) days after entry of default and supported by good cause.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The failure of an attorney to get timely licensed is not excusable neglect or good cause to set aside a default.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>This rule does not limit the power of a court to consider relief from the judgment upon other grounds (new evidence, fraud, satisfied judgment).</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Judgment against Tribe.</text>
+        <para>
+          <num>A.</num>
+          <text>No default judgment may be entered against the Tribe, agency or official acting within the scope of their duties.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Tribe, agency or official sued in their official and individual capacity shall have sixty (60) days to answer, unless time shortened by the Court.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Tribe's General Counsel shall be served a copy of the summons and complaint in all actions against the Tribe or any of its entities or agencies.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Attorney's fees for baseless claims.</text>
+        <text>A claim against a party, including the Tribe, agency or official, that is not supported by facts or law shall entitle the opposing party to attorney's fee and costs under Rule 11 standards which are:</text>
+        <text>Sanctions.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text><em>In General.</em> If, after notice and a reasonable opportunity to respond, the court determines that <u>Rule 11(b)</u> has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><em>Motion for Sanctions.</em> A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates <u>Rule 11(b)</u>. The motion must be served under <u>Rule 5</u>, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><em>On the Court's Initiative.</em> On its own, the court may order an attorney, law firm, or party to show cause why conduct specifically described in the order has not violated <u>Rule 11(b)</u>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><em>Nature of a Sanction.</em> A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated. The sanction may include nonmonetary directives; an order to pay a penalty into court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation." Fed. R. Civ. Pro. 11.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Continuance.</text>
+        <para>
+          <num>A.</num>
+          <text>A case may be postponed or continued upon motion with good cause shown.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A party must first contact the opposing party or attorney on whether the party objects to the motion or agrees.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The motion must state the attempt or result of talking with the opposing party, or reason why contact should not be made.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0505</num>
+      <heading>Special Time Limits in Foreclosure Actions. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <text>The Court shall schedule any matters in a foreclosure action to be completed within ninety (90) days of the filing of the answer or date of default.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0506</num>
+      <heading>Time. (Amended Resolution No. Tmbc1722-08-22))</heading>
+      <text><u>801.15(1)</u>(1)  Definitions for Court deadlines.</text>
+      <text><u>801.15(1)(a)</u>(a) 	In this subsection, "holiday" means any day that is a holiday provided by the Tribe's government or a federal legal holiday or both, and a full day on Good Friday.</text>
+      <text><u>801.15(1)(b)</u>(b) 	When the period of time prescribed or allowed is less than 11 days, Saturdays, Sundays and holidays shall be excluded in the computation. Notwithstanding any specific rule in computing any period of time prescribed or allowed by Title 1 and 2, by any other statute governing actions and special proceedings, or by order of court, the day of the act, event or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a day the clerk of courts office is closed.</text>
+      <text><u>801.15(2)</u>(2) 	When time limits are imposed the following rules shall apply:</text>
+      <text><u>801.15(2)(a)</u>(a) 	When an act is required to be done at or within a specified time, the court may order the period enlarged but only on motion for cause shown and upon just terms.</text>
+      <text><u>801.15(2)(b)</u>(b) 	The time within which a motion challenging the sufficiency of the evidence or for a new trial must be decided shall not be enlarged except for good cause. The order of extension must be made prior to the expiration of the initial decision period.</text>
+      <text><u>801.15(2)(c)</u>(c) The time for initiating any appeal may not be enlarged.</text>
+      <text><u>801.15(4)</u>(3) 	A written motion, other than one which may be heard ex parte, and notice of the hearing thereof shall be served not later than 10 days before the time specified for the hearing, unless a different period is fixed by statute or by order of the court. Such an order may for cause shown be made on ex parte motion. When a motion is supported by affidavit, the affidavit shall be served with the motion; and opposing affidavits may be served not later than one day before the hearing, unless the court permits them to be served at some other time. All written motions shall be heard on notice unless a statute or rule permits the motion to be heard ex parte.</text>
+      <text><u>801.15(5)</u>(4) 	Whenever a party has the right or is required to do some act or take some proceedings within a prescribed period after the service of a notice or other paper upon the party:</text>
+      <text><u>801.15(5)(a)</u>(a) 	If the notice or paper is served by mail, 3 days shall be added to the prescribed period.</text>
+      <text><u>801.15(5)(b)</u>(b) 	If the notice or paper is served by facsimile transmission or by the email and such transmission is completed between 5 p.m. and midnight, 1 day shall be added to the prescribed period.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0507</num>
+      <heading>Restraining Orders and Injunctions. (Amended Tmbc1722-08-22))</heading>
+      <para>
+        <num>1.</num>
+        <text>The Court may issue temporary restraining orders, preliminary injunctions, and permanent injunctions upon motion by the parties.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The party seeking a harassment injunction may file for temporary restraining order and injunction with a motion.</text>
+        <para>
+          <num>A.</num>
+          <text>A temporary ex parte restraining order may issue on affidavit setting forth the immediacy of harm impending</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Such temporary ex parte restraining order shall only be valid for 21 days.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A party seeking a restraining order against the enforcement of a government action must file a motion for restraining order and injunction and a complaint setting forth the facts.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>This shall not amend or affect the restraining order provisions set forth in Title 37, "Domestic Violence."</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0510</num>
+      <heading>Special Rules Related to Real Estate. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <para>
+        <num>1.</num>
+        <text>Applicability of other rules.  These rules govern proceedings to condemn real and personal property by eminent domain, except as this rule provides otherwise.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Joinder of properties.  The plaintiff may join separate pieces of property in a single action, no matter whether they are owned by the same persons or sought for the same use.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Complaint.</text>
+        <para>
+          <num>a.</num>
+          <text><em>Caption.</em> the complaint must contain a caption as provided in rule 10(a). the plaintiff must, however, name as defendants both the property—designated generally by kind, quantity, and location—and at least one owner of some part of or interest in the property.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text><em>Contents.</em> the complaint must contain a short and plain statement of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>the authority for the taking;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the uses for which the property is to be taken;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a description sufficient to identify the property;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the interests to be acquired; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>for each piece of property, a designation of each defendant who has been joined as an owner or owner of an interest in it.</text>
+          </para>
+        </para>
+        <para>
+          <num>c.</num>
+          <text><em>Parties.</em> When the action commences, the plaintiff need join as defendants only those persons who have or claim an interest in the property and whose names are then known. But before any hearing on compensation, the plaintiff must add as defendants all those persons who have or claim an interest and whose names have become known or can be found by a reasonably diligent search of the records, considering both the property's character and value and the interests to be acquired. All others may be made defendants under the designation "Unknown Owners."</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text><em>Procedure.</em> Notice must be served on all defendants as provided in Rule 71.1(d), whether they were named as defendants when the action commenced or were added later. A defendant may answer as provided in Rule 71.1(e). The court, meanwhile, may order any distribution of a deposit that the facts warrant.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text><em>Filing; Additional Copies.</em> In addition to filing the complaint, the plaintiff must give the clerk at least one copy for the defendants' use and additional copies at the request of the clerk or a defendant.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Process.</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text><em>Delivering Notice to the Clerk.</em> On filing a complaint, the plaintiff must promptly deliver to the clerk joint or several notices directed to the named defendants. When adding defendants, the plaintiff must deliver to the clerk additional notices directed to the new defendants.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>
+          <em>Contents of the Notice.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text><em>Main Contents.</em> Each notice must name the court, the title of the action, and the defendant to whom it is directed. It must describe the property sufficiently to identify it, but need not describe any property other than that to be taken from the named defendant. The notice must also state:</text>
+          <para>
+            <num>(i)</num>
+            <text>that the action is to condemn property;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the interest to be taken;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the authority for the taking;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the uses for which the property is to be taken;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>that the defendant may serve an answer on the plaintiff's attorney within 21 days after being served with the notice;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>that the failure to so serve an answer constitutes consent to the taking and to the court's authority to proceed with the action and fix the compensation; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>that a defendant who does not serve an answer may file a notice of appearance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><em>Conclusion.</em> The notice must conclude with the name, telephone number, and e-mail address of the plaintiff's attorney and an address within the district in which the action is brought where the attorney may be served.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>
+          <em>Serving the Notice.</em>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text><em>Personal Service.</em> When a defendant whose address is known resides within the United States or a territory subject to the administrative or judicial jurisdiction of the United States, personal service of the notice (without a copy of the complaint) must be made in accordance with Rule 4.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Service by Publication.</em>
+          </text>
+          <para>
+            <num>(i)</num>
+            <text>A defendant may be served by publication only when the plaintiff's attorney files a certificate stating that the attorney believes the defendant cannot be personally served, because after diligent inquiry within the state where the complaint is filed, the defendant's place of residence is still unknown or, if known, that it is beyond the territorial limits of personal service. Service is then made by publishing the notice—once a week for at least 3 successive weeks—in a newspaper published in the county where the property is located or, if there is no such newspaper, in a newspaper with general circulation where the property is located. Before the last publication, a copy of the notice must also be mailed to every defendant who cannot be personally served but whose place of residence is then known. Unknown owners may be served by publication in the same manner by a notice addressed to "Unknown Owners."</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Service by publication is complete on the date of the last publication. The plaintiff's attorney must prove publication and mailing by a certificate, attach a printed copy of the published notice, and mark on the copy the newspaper's name and the dates of publication.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text><em>Effect of Delivery and Service.</em> Delivering the notice to the clerk and serving it have the same effect as serving a summons under Rule 4.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text><em>Amending the Notice; Proof of Service and Amending the Proof.</em> Rule 4(a)(2) governs amending the notice. Rule 4(<em>l</em>) governs proof of service and amending it.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Appearance or Answer.</text>
+        <para>
+          <num>A.</num>
+          <text><em>Notice of Appearance.</em> A defendant that has no objection or defense to the taking of its property may serve a notice of appearance designating the property in which it claims an interest. The defendant must then be given notice of all later proceedings affecting the defendant.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text><em>Answer.</em> A defendant that has an objection or defense to the taking must serve an answer within 21 days after being served with the notice. The answer must:</text>
+          <para>
+            <num>(1)</num>
+            <text>identify the property in which the defendant claims an interest;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>state the nature and extent of the interest; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>state all the defendant's objections and defenses to the taking.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text><em>Waiver of Other Objections and Defenses; Evidence on Compensation.</em> A defendant waives all objections and defenses not stated in its answer. No other pleading or motion asserting an additional objection or defense is allowed. But at the trial on compensation, a defendant—whether or not it has previously appeared or answered—may present evidence on the amount of compensation to be paid and may share in the award.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Amending Pleadings. Without leave of court, the plaintiff may—as often as it wants—amend the complaint at any time before the trial on compensation. But no amendment may be made if it would result in a dismissal inconsistent with the Rules herein. The plaintiff need not serve a copy of an amendment, but must serve notice of the filing, as provided in within Title 2, on every affected party who has appeared on every affected party who has not appeared. In addition, the plaintiff must give the clerk at least one copy of each amendment for the defendants' use, and additional copies at the request of the clerk or a defendant. A defendant may appear or answer in the time and manner.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Substituting Parties. If a defendant dies, becomes incompetent, or transfers an interest after being joined, the court may, on motion and notice of hearing, order that the proper party be substituted. Service of the motion and notice on a nonparty must be made as provided herein.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Trial of the Issues.</text>
+        <para>
+          <num>(1)</num>
+          <text><em>Issues Other Than Compensation; Compensation.</em> In an action involving eminent domain under the Tribe's law the court tries all issues.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Court shall appoint an Expert Witness to assess the value of the property at the Cost of the party seeking condemnation.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Dismissal of the Action or a Defendant.</text>
+        <para>
+          <num>(A)</num>
+          <text>
+            <em>Dismissing the Action.</em>
+          </text>
+          <para>
+            <num>(1)</num>
+            <text><em>By the Plaintiff.</em> If no compensation hearing on a piece of property has begun, and if the plaintiff has not acquired title or a lesser interest or taken possession, the plaintiff may, without a court order, dismiss the action as to that property by filing a notice of dismissal briefly describing the property.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><em>By Stipulation.</em> Before a judgment is entered vesting the plaintiff with title or a lesser interest in or possession of property, the plaintiff and affected defendants may, without a court order, dismiss the action in whole or in part by filing a stipulation of dismissal. And if the parties so stipulate, the court may vacate a judgment already entered.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><em>By Court Order.</em> At any time before compensation has been determined and paid, the court may, after a motion and hearing, dismiss the action as to a piece of property. But if the plaintiff has already taken title, a lesser interest, or possession as to any part of it, the court must award compensation for the title, lesser interest, or possession taken.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text><em>Dismissing a Defendant.</em> The court may at any time dismiss a defendant who was unnecessarily or improperly joined.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text><em>Effect.</em> A dismissal is without prejudice unless otherwise stated in the notice, stipulation, or court order.</text>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Deposit and Its Distribution.</text>
+        <para>
+          <num>A.</num>
+          <text><em>Deposit.</em> The plaintiff must deposit with the court any money required by law as a condition to the exercise of eminent domain and may make a deposit when allowed by statute.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text><em>Distribution; Adjusting Distribution.</em> After a deposit, the court and attorneys must expedite the proceedings so as to distribute the deposit and to determine and pay compensation. If the compensation finally awarded to a defendant exceeds the amount distributed to that defendant, the court must enter judgment against the plaintiff for the deficiency. If the compensation awarded to a defendant is less than the amount distributed to that defendant, the court must enter judgment against that defendant for the overpayment.</text>
+        </para>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Costs may be awarded.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.06</num>
+    <heading>Venue</heading>
+    <section>
+      <num>2.0601</num>
+      <heading>Location of Action</heading>
+      <text>All actions shall be brought within the jurisdiction where the act or omission complained of arose, or where the subject matter or any part thereof is located, or where the Indian defendant resides.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.07</num>
+    <heading>Pleadings</heading>
+    <section>
+      <num>2.0701</num>
+      <heading>Definition</heading>
+      <text>A pleading is the way in which the parties alternately present their claims or contentions to the Court so as to point out or focus on the issue or point in dispute.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0702</num>
+      <heading>Complaint</heading>
+      <text>A written complaint must be filed with the clerk by the plaintiff or his attorney. This complaint must set out in plain and direct language the facts on which the claim is based. The evidence at the trial must be confined to the allegations made in the complaint.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0703</num>
+      <heading>Motions</heading>
+      <text>In all actions in the Court, motions shall be allowed, except as to motions</text>
+      <text>made at the trial, all such motions shall be filed at least six (6) days before the date on which the trial is held.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0704</num>
+      <heading>Answer</heading>
+      <text>An answer is the defendant's written statement made in reply to the complaint and must set out the defense intended to be made by the defendant as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>If the defendant denies all the facts alleged by the plaintiff in the complaint, he shall so state. This is termed a general denial and permits the defendant to defend or counterclaim any and all allegations made in  the complaint.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the defendant denies but a part of the allegations made in the complaint, he shall so state, specifying those allegations he denies. Upon trial, the defendant can contest only those allegations he specifically denies in his answer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the defendant admits the truth of the allegations in the complaint but has a defense thereto, he shall set out his defense in his written answer and a failure so to set out his defense prevents his raising such defense at the trial, unless, at the Court's discretion, the ends of justice require that he be permitted to raise the defense. A failure to deny is an admission of the truth of the allegation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0705</num>
+      <heading>Counterclaims</heading>
+      <para>
+        <num>1.</num>
+        <text>Compulsory counterclaims. The defendant's written answer shall state as a counterclaim any claim which, at the time of the answer, the defendant has against the opposing party, if it arises out of the same act or omission that is the basis of the opposing party's claim and does not require for its adjudication the presence of third parties over whom the Court cannot acquire jurisdiction. Failure to state a compulsory counterclaim  in writing, shall bar a subsequent suit on such claim.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Permissive counterclaim. The defendant's written answer may state as a counterclaim any claim against the opposing party not arising out of the same act or omission that is the basis of the opposing party's claim.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0706</num>
+      <heading>Pleadings; Amendments</heading>
+      <para>
+        <num>1.</num>
+        <text>Any pleading may be amended with the Court's permission at any time before trial, or during the trial, or upon appeal for the purpose of supplying any omission or deficiencies in the claim when by such amendment substantial justice will be promoted.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When the amendment is requested at or during the trial and the Court is satisfied that a postponement is necessary and just for the other party, a postponement may be granted. Such postponement, however, must not exceed seven (7) days, and the party seeking such postponement may, if justice so requires be ordered to pay the additional costs.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.08</num>
+    <heading>Subpoena and Discovery Procedure</heading>
+    <section>
+      <num>2.0801</num>
+      <heading>Subpoenas and Orders Issued</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Court shall have the power to subpoena parties and witnesses for trial and discovery purposes.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon motion of any party showing good cause, the Tribal Court shall have the power to subpoena the records or any other party, which are not privileged.</text>
+        <text>The Tribal Court shall have the power to order any party to permit any other party to inspect any real property in his possession that is material to the action. The subpoena or order shall state the name of the Court, the title of the action and the name of the person to whom it is directed. The subpoena or order shall state the reason for which it was given and the date and time of the appearance or inspection. It shall state the name of the person or party for whom the testimony of the wit- ness is required.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0802</num>
+      <heading>Subpoenas and Orders Served</heading>
+      <text>The subpoena or order may be served by any officer or person qualified to make service of summons. The subpoena shall be served in the same manner as a summons is served. The subpoena must be served reasonably in advance of the date set for the appearance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0803</num>
+      <heading>Discovery</heading>
+      <text>Discovery may be had by the use of depositions and interrogatories.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0804</num>
+      <heading>Depositions</heading>
+      <text>Depositions may be taken from any party or witness and may be oral or written.</text>
+      <para>
+        <num>1.</num>
+        <text>Oral depositions may be taken before any person qualified to take oaths in the jurisdiction in which the witness or party is located. Oral depositions must be recorded and signed by the witness or party. Notice must be given to all parties to the action of the time and place the deposition is to be taken so that such parties may cross-examine the deponent.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A written deposition shall consist of written questions and answers. It shall be signed by the person giving the deposition in the presence of any person qualified to take oaths in the jurisdiction in which the witness or party is located. Such persons shall attest to the deposition. Answers to deposition questions to which objections are made shall be deferred until the objection is ruled upon by the Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0805</num>
+      <heading>Interrogatories</heading>
+      <text>Interrogatories may be served upon any party by any other party. The interrogatories shall be answered under oath. Answers to interrogatories to which objection is made shall be deferred until the objection is ruled upon  by the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0806</num>
+      <heading>Admissibility</heading>
+      <text>Depositions and interrogatories are admissible according to the laws of evidence set out in this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0807</num>
+      <heading>Admissions in a Civil Action; Either Party May Request: Admissions of Fact, Admissions of Genuineness of Documents; Failure to Admit or Explain Deemed Admittance</heading>
+      <text>At any time after the civil action or proceeding is commenced, a party may serve upon any other party a written request for the admission by the latter of the genuineness of any relevant documents described in and exhibited with the request or of the truth of any relevant matter of fact set forth therein. Copies of the documents shall be delivered with the request. Each of the matters of which an admission is requested shall be deemed admitted unless within a period designated by the Tribal Court.  The party to whom the request is directed serves upon the party requesting the admission a sworn statement either denying specifically the matters of which an admission is requested or setting forth truthfully either admitting or denying those matters. Any admission made by a party pursuant to such request is for the purpose of the pending action only and neither constitutes an admission by him for any other purpose nor may it be used against him in any other proceeding.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0808</num>
+      <heading>Refusal to Admit Requested Facts or Documents; Expense of Proof Charged to Party Refusing</heading>
+      <text>If a party serves a sworn denial to a request for admission of fact or genuineness of documents and the requesting party thereafter proves such fact or the genuineness of such document, the requesting party may apply to the Court for an order requiring the denying party to pay the reasonable expenses incurred in making such proof, including reasonable agents or attorney's fees. The Court shall grant such order unless it finds that there were good reasons for the denial or that the admissions sought were of no substantial importance.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.09</num>
+    <heading>Jury Trials</heading>
+    <section>
+      <num>2.0901</num>
+      <heading>Jury Trial; Right Time for Request</heading>
+      <para>
+        <num>1.</num>
+        <text>The right to trial by jury shall exist in all cases where the plaintiff's claim exceeds two hundred dollars ($200). In all other cases the use of a jury shall be at the discretion of the Court.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Time for request of jury trial. In cases in which a jury may be had, the request for a jury must be made in writing to the clerk and may be made by either party at any time after commencement of the action, but not later than five (5) days after the filing of the last pleading. The request for a jury trial by either party must be accompanied by a cash or surety bond in the amount of one hundred dollars ($100) to cover the costs or the jury trial.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The failure of a party to demand a jury, as required by Subsection (2) of <cite path="2|2.09|2.0901">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0902</num>
+      <heading>Number of Jurors</heading>
+      <text>A jury shall consist of six (6) persons, chosen in the manner hereinafter provided.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0903</num>
+      <heading>Qualification of Jurors</heading>
+      <text>All enrolled Indians, who are residents of Rolette County, North Dakota, of the Turtle Mountain Band of Chippewa Indian Tribe, having the qualification  of electors and being of sound mind, and who are able to read, write and understand the English language, and not judges or clerks of any Court or licensed attorneys engaged in practice, or police officers or jailers or ministers or members of the National Guard, and not subject to any bodily infirmity amounting to disability, and who have not been convicted of any felony, and who are not subject to disability by the commission of any  offense which does or shall disqualify them and who have not been  dishonorably discharged from the Armed Services, are and shall be competent persons to serve on juries within the Turtle Mountain Jurisdiction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0904</num>
+      <heading>Jury Selectors</heading>
+      <text>The Chairman of the Tribe, the Agency Superintendent and the Clerk of Court, or their designated representatives, shall constitute the board of jury selectors for the Turtle Mountain Jurisdiction. It shall be the duty of the board of jury selectors to select eligible and competent persons for jury service. If any jury selector be unable to serve by reason of absence, interest in the case pending, relationship to a party in a pending case or for other good cause, then the Tribal Court Judge shall appoint a substitute jury selector.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0905</num>
+      <heading>Jury List</heading>
+      <text>The jury list shall contain the names of the eligible jurors within Rolette County, North Dakota, selected by the board of jury selectors. The jury list shall be compiled annually. Upon completion of the jury list, the board of jury selectors shall sign such list and file it with the Clerk of Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0906</num>
+      <heading>Annual Drawing of Prospective Jurors</heading>
+      <text>The Clerk of the Tribal Court shall prepare separate name tickets for each person named in the list furnished by the jury selectors. The jury selectors shall meet at the office of the Clerk of the Tribal Court not later than January 10th of each year. The tickets shall be placed in a drawing box or jury wheel, shall be thoroughly mixed, and the Chairman of the Tribal Council and Clerk, or their designated representatives, shall in rotation, draw at least fifty (50) names. These names shall be recorded on the Clerk's permanent record of the jury list. The names not drawn shall be placed in a reserve envelope. This list shall constitute the jury list, which shall be signed by the officers drawing the names. If such list proves to be inadequate, additional drawings may be made from the reserve envelope, by order of the Tribal Judge.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0907</num>
+      <heading>Jury Panel</heading>
+      <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in <cite path="2|2.09|2.0906">Section 2.0906</cite> shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0908</num>
+      <heading>Summons</heading>
+      <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in <cite path="2|2.04|2.0405">Section 2.0405</cite> of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0909</num>
+      <heading>Extra Jurors</heading>
+      <text>Where an insufficient number of jurors respond when summoned, or where by challenge the number of jurors is reduced below the number required for that case, the judge shall command the police to summon and return forthwith with  a sufficient number of eligible jurors to complete the panel.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0910</num>
+      <heading>Selection of Jury</heading>
+      <text>In selecting the members of the jury for trial from the list of prospective jurors on the panel, challenges may be made as provided herein:</text>
+      <para>
+        <num>1.</num>
+        <text>A challenge is an objection made to the trial jurors, and is of two (2) kinds:</text>
+        <para>
+          <num>a.</num>
+          <text>to the panel</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>to an individual juror.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A challenge to the panel is an objection in writing made to all the jurors returned and may be taken by either party. The panel may be challenged when:</text>
+        <para>
+          <num>a.</num>
+          <text>there is an error in the procedure used in summoning the jurors;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>bias can be shown; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>there was an omission to summon one (1) or more of the jurors drawn.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A challenge to an individual juror is an objection which may be taken orally and is either for cause or peremptory.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>All challenges for cause must be taken first by the defendant and then by the plaintiff. Peremptory challenges may be taken by either party at any time during the seating of the jury and before the jury is sworn.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A challenge for cause may be made by the plaintiff or by the defendant and must specify the facts constituting the causes thereof. It may be made for any of the following causes:</text>
+        <para>
+          <num>a.</num>
+          <text>A previous conviction of a felony;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A lack of the qualifications set out in <cite path="2|2.09|2.0903">Section 2.0903</cite> of this Code;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Unsoundness of mind, or the faculties of the mind or body has rendered him incapable of performing the duties of a juror;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Having served as a juror in a criminal action brought against a party involved in this case;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Being a party adverse to any party in any other action, or having complained against or been accused by either party in a criminal action;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Having formed or expressed such an opinion as to the disposition of this case as would prevent him from rendering a fair verdict upon the evidence submitted in this trial;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Having served in the Tribal Court as a juror during the last month;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Standing in the relation of guardian and ward, attorney and client, master and servant, or landlord and tenant, or being a member of the family, or a relative of a party or in his employ.</text>
+          <text>Failure to challenge for cause shall constitute a waiver of the basis for challenge.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A peremptory challenge can be taken by either party and may be oral. It is an objection to a juror for which no reason need be given, but upon which the Court must exclude him.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>After each challenge, sustained for cause or made peremptorily, another juror shall be called, may be challenged for cause and shall be subject to peremptory challenge.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0911</num>
+      <heading>Peremptory Challenge; Number; Joint Defendants</heading>
+      <text>Each party is entitled to two (2) peremptory challenges. If two (2) or more defendants are sued jointly, the plaintiff and defendants shall be entitled to two (2) peremptory challenges and these challenges on the part of the defendants must be exercised jointly.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0912</num>
+      <heading>Jury Oath</heading>
+      <text>When the jury has been selected, the judge shall administer to the jurors the following oath: "You and each of you do solemnly swear or affirm that you will well and truly try the issues relative to the cause now on trial accord- ing to the law and the evidence under the pains and penalties of perjury."</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0913</num>
+      <heading>Continuance</heading>
+      <text>If a case be continued, the jury shall then be notified of the new date for trial and no further notice to them of such date is required. The penalty for failure to appear at the time to which the trial is continued is contempt of court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0914</num>
+      <heading>Case and Verdict</heading>
+      <text>After the jury shall have been sworn, they shall sit together and hear the case. Upon the close of the evidence, the judge shall give oral or written instructions to the jury to the law applicable to the case.</text>
+      <text>Upon receipt of the instructions the jury shall be kept together in a convenient place and be in the charge of some officer designated by the judge. They will so remain until a verdict has been reached or shall be discharged by the judge. In order to reach a verdict, at least five (5) of the jurors must agree upon the verdict.</text>
+      <text>In all cases, the Tribal Judge shall have the power to direct a verdict before the matter is submitted to the jury, or to order a new trial if he deems the verdict inconsistent with the evidence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0915</num>
+      <heading>Informed on Any Point of Law</heading>
+      <text>After the jury has retired for deliberation, if there be any disagreement as to any part of the testimony or if it desires to be informed on any point of law arising in the case, it must require the officer to conduct it into court and, upon its being brought in, the information required may be given at the discretion of the Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0916</num>
+      <heading>Delivery of Verdict</heading>
+      <text>When the jury has agreed upon a verdict, they shall deliver it to the judge, publicly, and he shall enter it upon his docket.</text>
+      <text>If either party desires and shall so request, a poll of the jurors may be taken at the time the verdict is returned and if the verdict be not as reported, the jury shall return for further deliberation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0917</num>
+      <heading>Jury's Failure to Agree</heading>
+      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2.09">this chapter</cite>.</text>
+      <text>The case shall be continued to such time as the Court thinks reasonable unless the parties or their attorneys agree on a longer or shorter time or unless they agree that the judge may render a decision on the evidence already before him.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.0918</num>
+      <heading>Jury Fees</heading>
+      <text>Upon the verdicts being delivered to the judge, each juror shall be paid from the Tribal Court Fund the sum of five dollars ($5) per day and seven cents (7¢) per mile while traveling to and from their place of residence to the place of trial, which shall be taxed against the losing party. If the jury is unable to reach a decision or is dismissed for any other cause, then the parties shall share the costs of the jury equally.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.10</num>
+    <heading>Contempt of Court</heading>
+    <section>
+      <num>2.1001</num>
+      <heading>Reasons for Charge</heading>
+      <text>A judge may punish as for contempt persons guilty of the following acts:</text>
+      <para>
+        <num>1.</num>
+        <text>Disorderly, contemptuous or insolent behavior toward the judge while holding court, tending to interrupt the due course of a trial or other judicial proceeding;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A breach of the peace, boisterous conduct or violent disturbance in the presence of the judge, or in the immediate vicinity of the Court held by him, tending to interrupt the due course of a trial or other judicial proceedings;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Disobedience or resistance to the carrying out of a lawful order or process made or issued by the judge;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Disobedience to a subpoena duly served or refusing to be sworn or to answer as a witness;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Rescuing or interfering with any person or property in the custody of a police officer acting under an order of the Court or process of the Court;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Failure to appear for jury duty when properly notified.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1002</num>
+      <heading>Contempt Committed in Presence of</heading>
+      <text>When contempt is committed in the immediate view and presence of a judge, it may be punished summarily. The judge must make an order reciting the facts as they occurred, and that the person proceeded against is guilty of contempt and that he be punished as therein prescribed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1003</num>
+      <heading>Contempt Committed Not in Presence of Judge</heading>
+      <text>When the contempt is not committed in the immediate view and presence of the judge, a warrant of arrest may be issued by such judge and the person so guilty may be arrested and brought before the judge immediately. The judge must give the arrested person an opportunity to make his defense or excuse. The judge may then discharge him or may convict him of the offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1004</num>
+      <heading>Punishment</heading>
+      <text>A judge may punish for contempt by fine or imprisonment or both such fine not to exceed one hundred dollars ($100) or imprisonment not to exceed forty-five</text>
+      <para>
+        <num>(45)</num>
+        <text>days plus court costs.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1005</num>
+      <heading>Enter Conviction on Docket</heading>
+      <text>The judge must enter on his docket the conviction specifying the offense and judgment thereon.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.11</num>
+    <heading>Dockets</heading>
+    <section>
+      <num>2.1101</num>
+      <heading>Material Entered on Docket</heading>
+      <text>Every judge or clerk of court must keep a book, denominated a docket, in which must be entered by him:</text>
+      <para>
+        <num>1.</num>
+        <text>The title of every action in which a summons and complaint are filed or in which the parties voluntarily appear;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The date of the complaint and summons and time and date of their service and return and if an order to attach the property was made, such fact must be stated together with the affidavit upon which such order was made;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Which of the parties appeared at the trial;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Every continuance, stating on whose application, whether on motion or consent, and to what time;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When trial by jury is demanded, the demand must be stated, and by whom made, the names of the jurors selected, and the time and date appointed for trial and notation that cash or surety bond to cover costs of the jury trial has been posted;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The names of the jurors who appear and are sworn and the names of all witness sworn and at whose request;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>In the absence of a complete transcript of the trial or hearing, the exceptions to the ruling of the judge, on questions raised by either party;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The verdict of the jury and when received and whether the jury disagrees and is discharged;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The judgment or decree of the judge specifying the items of cost included and the time when rendered;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>A statement of any bond or money deposited with the Court and by whom;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>A record of when a transcript of the proceedings is filed with the Tribal Clerk of Court;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>If appeal is taken, the time of entering into the appeal and by whom appeal is made;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>The undertaking for stay of completion of the judgment and the time for giving same;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>The satisfaction of the judgment and time of satisfying the same.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1102</num>
+      <heading>Arrangement of Docket</heading>
+      <text>A judge or the Clerk of Court shall keep an alphabetical cross-index file to his docket in which must be entered alphabetically the names of the parties to each judgment or decision, with reference to the page of entry. The names of the plaintiffs and the defendants must be entered in the alphabetical order of the first letter of the family name. He shall number the cases progressively upon his docket and shall correspondingly number the papers in each case, and he shall keep the entire papers of each action together, and in packages of a convenient size, and in the order in which the cases are numbered on his docket.</text>
+      <text>It is the duty of every judge, upon expiration of his term of office, to deposit with his successor his docket, as well as those of his predecessors, together with all files and papers, there to be kept as public records and property. If no successor is appointed he shall turn the records over to the Clerk of the Tribal Court on the reservation to be kept for the successor when he is appointed. A receipt shall be given by the Clerk receiving the docket and records.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1103</num>
+      <heading>Responsibility for Maintaining Docket and Other Court Records</heading>
+      <text>It shall be the responsibi1ity of the Chief Tribal Court judge to insure that accurate and legible dockets and other court records are maintained by the Clerk of Court. Failure to fulfill these responsibilities shall be grounds for the removal of said Chief Judge and the Clerk of Court.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.12</num>
+    <heading>Competency</heading>
+    <section>
+      <num>2.1201</num>
+      <heading>Plea of Incompetency</heading>
+      <text>When incompetency, as defined in <cite path="2|2.15|2.1501">Section 2.1501</cite>(4) is an issue, such com- petency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
+      <text>Upon the filing of a complaint, the Chief Tribal Judge shall order a hearing by the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1202</num>
+      <heading>Board of Competency</heading>
+      <text>This Board shall consist of the Chief Tribal Judge, the prosecuting attorney of the Tribe and a reputable practicing physician appointed by the Tribal Council. In the event a prosecuting attorney has not been appointed by the Tribe, the Chairman of the Tribal Council shall serve as a member of the Board.</text>
+      <text>The function of this Board shall be to determine the competency or incompetency of any Indian. In no case shall the Board act without all  three</text>
+      <para>
+        <num>(3)</num>
+        <text>members present. The Chief Tribal Judge shall be the Chairman of such Board and the prosecuting attorney shall be the clerk. In the case of the temporary absence or inability of either of such members to act, the chairman or the prosecuting attorney shall call to his aid a reputable practicing physician or licensed attorney who may act in the same capacity. The record  in such cases must show the fact of the absence.</text>
+        <text>Before entering upon the duties of his office, each of the persons constituting such Board shall take and subscribe an oath or affirmation to support the Constitution of the United States and of the reservation, and to discharge faithfully his official duties according to law, which oath shall be filed in the office of the Clerk of Courts of the Turtle Mountain Tribal Court.</text>
+        <text>The Board shall hold the hearing in the Tribal Court room unless for good reason it shall select some other place. If it deems necessary or advisable, it may hold sessions at such times as it may fix or upon notice of the Chairman of the Board. The meeting shall not be open to the public.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1203</num>
+      <heading>Jurisdiction and Powers</heading>
+      <text>This Board shall have Jurisdiction over all actions to determine competency or incompetency of Indians on the reservation for the purpose of guardianship. This Board shall have the power to issue subpoenas and compel obedience thereto and do any act of a Court necessary and proper for the purpose of discharging the duties required of it.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1204</num>
+      <heading>Powers and Duties of the Chairman</heading>
+      <text>The Chairman of the Board shall sign and issue all notices, subpoenas, or other process required to be given or issued by the Board. The notices, reports and communications required to be given, may be sent by certified mail unless another method is necessary to insure the appearance of any party and the fact and date of such sending or reception must be noted on the record of the Board. The Chairman shall file all papers, notices, reports and other communications connected with any action of the Board in the office of the Clerk of Court of the Turtle Mountain Tribal Court. The Clerk of Court shall file the record of the proceedings of the Board. This record shall show the papers filed and shall contain a complete record of the findings, order and transactions of the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1205</num>
+      <heading>Notice of Hearing</heading>
+      <text>Notice of any hearing shall be posted on the Tribal bulletin board at least one (1) day prior to the hearing.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.13</num>
+    <heading>Appeals</heading>
+    <section>
+      <num>2.1301</num>
+      <heading>Tribal Court of Appeals</heading>
+      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2.13">this chapter</cite> in the Tribal Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1302</num>
+      <heading>Composition; Appointment</heading>
+      <text>The Turtle Mountain Tribal Court of Appeals shall consist of three (3)  judges, at least one (1) of whom shall be a licensed attorney under the laws of North Dakota and he shall be the presiding judge. They shall all be assigned to hear cases by the Chief Judge of the Turtle Mountain Tribal Court as occasion warrants. The Clerk of the Tribal Court shall also serve as the Clerk of the Tribal Court of Appeals.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1303</num>
+      <heading>Jurisdiction</heading>
+      <text>The jurisdiction of the Court of Appeals shall be coextensive with that of  the Tribal Court. All parties and property that are under the jurisdiction of the Tribal Court shall be within the jurisdiction of the Court of Appeals until the statutory time limit for appeal has expired. The Court of Appeals shall have power to issue any writs or orders necessary and proper to the complete exercise of its jurisdiction and to increase or decrease the award  of damages when it is found that the verdict was inadequate or excessive.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1304</num>
+      <heading>Right to Appeal</heading>
+      <text>Any party to a civil action or a defendant in a criminal action who is dissatisfied with any final judgment, writ or order of the Tribal Court shall have the right to appeal therefrom to the Tribal Court of Appeals.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1305</num>
+      <heading>New Trial</heading>
+      <text>The Tribal Court of Appeals must try the case anew based upon the papers  filed in the Tribal Court unless it appears as a matter of law from such papers that the case should be reversed and judgment entered by the  appellant. A new trial shall be granted only upon the same substantive issue or issues that were tried in Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1306</num>
+      <heading>Permission to Appeal</heading>
+      <text>Any party aggrieved by any final judgment or other final order of the Tribal Court, shall, within thirty (30) days after the day such judgment or order  was rendered, file with the Clerk of the Court of Appeals, a request in writing asking for permission to take an appeal from such judgment or order, together with a filing fee of five dollars ($5). Such request shall set forth the reasons for the appeal, which may include but need not be limited to the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Irregularity in the proceedings of the Court, jury, or adverse party or  any order of the Court or abuse of discretion by which either party was prevented from having a fair trial;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Misconduct of the jury, and whenever anyone (1) or more of the jurors have been induced to assent to any general or special verdict or to a finding  on any question submitted to them by the Court;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Surprise which ordinary foresight could not have guarded against;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Newly discovered evidence which could not, with reasonable care, have been discovered and produced at the trial;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Excessive or inadequate damages appearing to have been given under the influence of passion or prejudice;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Insufficiency of the evidence to justify the verdict or other decision, or that which is against the law;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Error of law occurring at the trial as in ruling on the admission of evidence or in charging the jury.</text>
+        <text>The Clerk of Court shall enter such request on the docket and forward the request, together with a copy of the docket, to the Chief Judge. The Chief Judge shall then assign the case to the presiding judge and forward the request, together with a copy of the docket, to the presiding judge. If the presiding judge thinks the reasons stated show just cause for review of the decision of the Tribal Court, he shall permit the appeal and the Chief Judge shall assign the other judges. The presiding judge of the Appellate Court shall set the case for trial at the next term of court. If there are less  than thirty (30) days between the granting of permission to appeal and the next term of court, such trial shall be set for the succeeding term of court. Within five (5) days after the date of the trial has been set, the Clerk of the Court of Appeals shall, by registered letter, give notice to all parties to the litigation in the Tribal Court of the pending appeal, the date of  trial and any orders of the judge pertaining to such appeal.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1307</num>
+      <heading>Denial of Appeal</heading>
+      <text>In the event permission for appeal is denied he presiding judge of the Court of Appeals shall state his reasons for refusal, and in the same writing order the judge of the Tribal Court to release all bonds and to carry out the judgment of the Tribal Court. The Clerk of the Court of Appeals shall have such order entered on the docket of the Tribal Court and shall, within   five</text>
+      <para>
+        <num>(5)</num>
+        <text>days of receipt of such order, send by registered mail, a copy of the order to the petitioner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1308</num>
+      <heading>Parties Not Appearing at Trial</heading>
+      <text>When one of the parties does not appear on the day set for trial, a default judgment shall be entered against him. Any party not appearing at the trial shall have ten (10) days from the date set for trial to show cause why a default judgment should not be entered against him.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1309</num>
+      <heading>Pre-Trial Hearing</heading>
+      <text>There may be, at the Appellate Court's discretion, a pre-trial hearing  wherein the Appellate Court can meet with the petitioner and/or his counsel, and the respondent and/or his counsel for the purpose of resolving issues prior to trial. The Clerk of the Court of Appeals shall give notice to all parties who are to be present at the hearing. Such notices shall be given at least ten (10) days before the date of such hearing and shall include the time, date and place of the hearing and the reason for such hearing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1310</num>
+      <heading>Term of Court</heading>
+      <text>The term of the Court of Appeals may be held four (4) times a year, once each quarter, dates to be set by the Chief Tribal Judge. Such term of court shall be held at the Tribal Court house, and the trial procedures shall be the same</text>
+      <text>as those which are prescribed in this Code for Tribal Court, except that no jury trial may be held in Appellate Court. Decision shall be by a majority of the Appellate Judges and shall constitute a final determination of the case.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1311</num>
+      <heading>Memorandum of the Court</heading>
+      <text>The presiding judge of the Court of Appeals shall write and file a memorandum of his decision in every case. Such memorandum shall state:</text>
+      <para>
+        <num>1.</num>
+        <text>Action;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Facts of the case;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Statute if applicable;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Issue;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Rule of law;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Reasoning of the case.</text>
+      </para>
+      <text>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.14</num>
+    <heading>Attorneys</heading>
+    <section>
+      <num>2.1401</num>
+      <heading>Qualifications to Admission</heading>
+      <text>No person may practice as an attorney before the Tribal Court or the Tribal Court of Appeals unless admitted to practice and enrolled as an attorney of the Tribal Court upon written application. Any attorney-at-law, who is a member in good standing of the bar of any state or federal court, shall be eligible for admission to practice before the Tribal Court. Any Indian of the reservation shall be admitted to practice before the court upon application accompanied by proof satisfactory to the Court:</text>
+      <para>
+        <num>1.</num>
+        <text>that he is at least twenty-one (2l) years of age;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>that he is a person of good moral character and integrity;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>that he has successfully completed at least two (2) years of high school work or its equivalent;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>that he has never been convicted of a felony for which he has not received a pardon or restoration of civil rights;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>that he is not a member of the Tribal Council, an employee of the Tribe or of the United States.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1402</num>
+      <heading>Filing Fee</heading>
+      <text>A filing fee of five dollars ($5) shall accompany each application for admission to the bar.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1403</num>
+      <heading>Oath upon Admission</heading>
+      <text>As a condition to admission, each attorney shall take the following oath:</text>
+      <text>"I	do solemnly swear (or affirm) that I will support and defend the Constitution of the United States of America against all enemies, foreign and domestic; that I will faithfully discharge all duties incumbent on me as an attorney to the best of my abilities and understanding. So help me God."</text>
+      <text>Each attorney, also shall agree, in writing, to represent indigent defendants in criminal cases upon assignment by the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1404</num>
+      <heading>Attorneys' Roll</heading>
+      <text>A roll of attorneys admitted to practice before the Court shall be maintained by the Clerk of Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2.1405</num>
+      <heading>Disbarment</heading>
+      <text>The Tribal Court or the Tribal Court of Appeals may disbar an attorney from practice before the Court, or impose suspension from practice for such time as the Court deems appropriate on any of the following grounds:</text>
+      <para>
+        <num>1.</num>
+        <text>False swearing;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Conviction of a felony;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Disbarment by a federal or state court;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Conduct unbecoming an officer of the court;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Failure to act as counsel for a defendant upon assignment of the Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1406</num>
+      <heading>Prosecuting Attorneys and Defense Attorneys</heading>
+      <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment for six (6) months or more and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorneys' roll. Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorneys' roll or outside the Attorneys' roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>1.1407</num>
+      <heading>Council Members Shall Not Practice as Attorneys</heading>
+      <text>No member of the Tribal Council shall practice before the Tribal Court or the Tribal Court of Appeals during his term of office.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.15</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>2.1501</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>Statute of Limitations. A specified length of time after which no cause of action or right to sue exists. (e.g., If a lender of money fails to try to collect or fails to bring an action to collect before the statute of Limitations period expires, he has lost his right to collect the debt).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Guardian ad litem. A guardian appointed by a Court to prosecute or defend for a minor or incompetent in any suit to which the minor or incompetent in any way may be a party.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Minor.	A person who is under the age of twenty-one (21) years.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Incompetent. A person who is insane, an imbecile, or feebleminded, or is not mentally able to manage his own affairs.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Summons. A notice in writing to a defendant informing him that an action has been brought against him and judgment will be taken against him if he fails to answer the complaint within the prescribed time set forth therein.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Pleadings. Written allegations of what is affirmed on one side or denied on the other, disclosing to the Court and the contending parties the real matter in dispute between the parties.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Judgment. The official and final decision of a Court upon the respective rights and claims of the parties to an action or suit therein litigated and submitted to its determination. It shall mean the same as the Court's decree.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Parties. The persons who take part in the performance of any act, or who are directly interested in any affair, contract, or conveyance, or who are actively concerned in the prosecution and defense of any legal proceeding.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Person. Includes natural persons, partnerships, associations and corporations.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Police officer. Shall include all Tribal Police, Bureau of Indian Affairs Police and duly appointed deputy policemen.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Gender. Words used in the masculine gender include the feminine and neuter.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Number. Words used in the singular number include the plural, and the plural the singular, except where a contrary intention plainly appears.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Any designated documents, papers, books, accounts, letters, photographs, objects or tangible things which constitute, point to or contain evidence on any matter involved in the action.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,672 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>59</num>
+  <heading>Tribal Research Protection Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>59.01</num>
+    <heading>General Provisions, Findings and Policy</heading>
+    <section>
+      <num>59.0101</num>
+      <heading>Short Title</heading>
+      <text><cite path="59">This Title</cite> shall be known and may be cited as the Turtle Mountain Band of Chippewa Tribal Research Protection Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0102</num>
+      <heading>Scope</heading>
+      <text>All research including human subject research conducted within the Tribe's Territory and involving the Tribe's members has the potential to cause harm and should therefore be strictly regulated.</text>
+      <para>
+        <num>1.</num>
+        <text>The natural and cultural landscapes, including wildlife, flora, fauna, waters, and biogenetics, among others, located on aboriginal and present day Tribal lands are owned by the Tribe and the disposition, development, and utilization thereof are under the Tribe's full control and supervision.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The integrity and orientation of past, present, and future generations of the Tribe is founded upon a unique and invaluable cultural, historical and environmental ethic which defines and perpetuates an identity, language, history, and value system involving an irrevocable cultural attachment to the native landscape ecology, and the human inseparability and interdependence with species and biological diversity.)</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribe has the right of self-determination and in exercising that right is the exclusive owner of indigenous traditional knowledge.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Indigenous knowledge, cultural and biogenetic resources, and intellectual property rights have been, and continue to be, damaged, destroyed, stolen, misappropriated, both on and off the Reservation. As members of the Tribe have been the subjects of human research for decades, with virtually no benefits returning to the Tribe from such research.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Tribe finds that it is in its best interests to establish a research review mechanism to prevent the continued abuses, and to protect the people's traditional knowledge and properties, and thereby to ensure our rights to continue to practice traditional lifeway's for our long term survival.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The established research review process is developed as a mechanism to improve relations between the Tribe and scientists/researchers, and to promote collaboration within the framework of mutual respect, equity, and empowerment, and maximize the benefits and reduce any risks to the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>59.02</num>
+    <heading>Purpose</heading>
+    <section>
+      <num>59.0201</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>1.</num>
+        <text>The purpose of <cite path="59">this Title</cite> is to:</text>
+        <para>
+          <num>a.</num>
+          <text>protect the people, culture, and natural resources of the Tribe and the Tribe's future generations from unauthorized scientific research; and,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>to reduce any adverse effects of human subject research and related activities on the Tribe and its People; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>to ensure that researchers recognize the Tribe's control of research activities and ownership of all data and information generated or produced by such research; and,</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>to establish and provide a statutory basis for a process to review and govern any research, collection, database, or publication undertaken on the Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>All research activities conducted on the Reservation must comply with this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribe reserves its right, through its inherent sovereign authority and its police power, to exclude individuals from the Reservation and to deny permission and access for any research activities whatsoever for any violations of this Act.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribe finds that it is in its best interests to establish a research review mechanism to prevent the continued abuses, and to protect the people's traditional knowledge and properties, and thereby to ensure our rights to continue to practice traditional lifeway's for our long term survival.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>59.03</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>59.0301</num>
+      <heading>Definitions</heading>
+      <text>For purposes of this Act:</text>
+      <para>
+        <num>1.</num>
+        <text>"Turtle Mountain Band of Chippewa Indian Community" includes Tribal members, their descendants and ancestors, and other individuals, families, clans, and people residing within the reservation and the exterior boundaries of the Reservation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Academic Research" means research carried out to obtain educational qualifications, to further an academic career at an institution of higher learning, or for scientific advancement</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Biodiversity" means the total variety of life in all its forms including levels that range from alleles to the biosphere and shall include alleles, genes, populations, species, ecosystems, landscapes, and the ecological processes of which they are a part.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Biogenetic Resources" means biological and genetic resources, including plant material, animals, microorganisms, cells, and genes.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Biological Samples" means, but is not limited to, bacteria and other microorganisms, plant, animal, or any human biological materials, genetic samples, any copies of the original genetic samples, any cell lines containing copies of the original genetic samples, and data derived from these samples.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Commercial Purposes" means to sell, purchase, barter, trade, delayed compensation for profit, exchange, transport, or offer to sell, purchase, barter, trade, delay compensation for profit, exchange, or transport.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Cultural Research" means any endeavor, by means of critical investigation and study of a subject, to discover new or collate old facts or hypotheses on a cultural subject, the latter being defined as any ethnographic or anthropological study, including basic data collection, studies of or incorporating traditional knowledge or classifications systems (e.g. studies of medicinal properties of plants), documentary films, archaeology, linguistics and ethno-historical accounts.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Indigenous" means native, originating or growing naturally in a specific landscape and also refers to people descending from the original inhabitants of the Western Hemisphere who have maintained distinct languages, culture, or religion from time immemorial.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Products of Research" means publications (including but not limited to reports, studies, articles, theses, books, manuscripts, sound recordings, film and video, media interviews, computer databases), field notes, illustrations, photographs, sound recordings, collected material artifacts, replicas, and specimens, including any derivative forms they may take such as translations, and communications through the electronic media, including the internet and world wide web.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Research" includes identification, description, classification, collection, database, recordation, analysis, and publication in fields including, but not limited to, the arts, the culture, the sciences, the social sciences, the environment, health, medicine, linguistics, history, and other investigative disciplines or approaches as identified by the Tribe.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Reservation" means all lands outside or inside the exterior boundaries of the Turtle Mountain Band of Chippewa Indian Reservation which are under the jurisdiction of the Tribe, ancestral lands where the tribe holds interest, and such lands as may hereafter be obtained or added to the jurisdiction of the Tribe.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"RRB" refers to a minimum five <strong><em><u>(5) Tribal </u></em></strong>members of the Research Review Board established under this Act.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Taboo/Sacred" means subjects to which access is restricted to any degree which may include such subjects as places, names, knowledge, oral traditions, objects, and practices.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Traditional Indigenous Intellectual Property" means the indigenous cultural information, knowledge, uses, and practices unique to the Tribe's ways of life maintained and established over tribal homelands and aboriginal areas. This knowledge is based upon millennia of observation, habitation, and experience, and is a communal right held by the Tribe, and in some instances by individuals. This property includes, but is not limited to, the following:</text>
+        <para>
+          <num>a.</num>
+          <text>knowledge of remembered histories and traditions;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>details of cultural landscapes and particularly sites of cultural significance;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>records of contemporary events of historical and cultural significance;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>sacred property (images, objects, sounds, knowledge, material, culture or anything that is deemed sacred by the community);</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>knowledge of current use, previous use, and/or potential use of plant and animal species, soils, minerals, objects;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>knowledge of preparation, processing, or storage of useful species;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>knowledge of formulations involving more than one ingredient;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>knowledge of individual species (planting methods, care for, selection criteria);</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>knowledge of ecosystem conservation (methods of protecting or preserving a resource);</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>biogenetic resources that originate (or originated) on indigenous lands and territories;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>tissues, cells, biogenetic molecules including DNA, RNA, and proteins, and all other substances originating in the bodies of Tribal members, in addition to genetic and other information derived therefrom;</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>cultural property (images, sounds, crafts, art, symbols, motifs, names, performances); and;</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>Knowledge of systems of taxonomy of plants, animals, and insects.</text>
+        </para>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Traditional Knowledge Right" means the traditional right of individuals to control the ways the information they provide is used and accessed. The issue of Traditional Knowledge Rights arises when individuals either own or are the custodians of specialized (or usually taboo/sacred) knowledge and its communication. This knowledge can include but is not limited to names, ceremonies, designs or forms, oral traditions, practices and skills.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Tribal Member" means an individual Indian who is enrolled in the Turtle Mountain Band of Chippewa Indian Tribe.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Tribe" means the Turtle Mountain Band of Chippewa Indian Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>59.04</num>
+    <heading>Research Review Board Established</heading>
+    <section>
+      <num>59.0401</num>
+      <heading>Research Review Board</heading>
+      <text>There is hereby established a Research Review Board (RRB), which shall be comprised of a minimum of five (5) Tribal members who shall be appointed to serve on this Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0402</num>
+      <heading>Duties of the Research Review Board</heading>
+      <text>The RRB shall have the following duties and responsibilities:</text>
+      <para>
+        <num>a.</num>
+        <text>to examine and comment on all proposals for research to be conducted within the Reservation or involving Members of the Tribe, and to monitor and regulate such research;</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>to promulgate rules under which the RRB shall operate subject to the laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>to coordinate and insure that the interests of affected Tribal programs, departments, and members are protected.</text>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>to inform the Tribal Council regarding RRB actions.</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>to coordinate and interact with the researcher(s) in order to ensure the Tribe's control of the research process and the Tribe's ownership of data and information generated by such research.</text>
+      </para>
+      <para>
+        <num>f.</num>
+        <text>to negotiate the terms and conditions of a research agreement.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0403</num>
+      <heading>Guiding Principles for Rrb</heading>
+      <text>The Seven Teaching of the Turtle Mountain Band of Chippewa are the overlying guiding principles for the RRB:</text>
+      <text>
+        <ul proof="needed">
+          <li>To cherish knowledge is to know WISDOM.</li>
+          <li>TO know LOVE is to know peace.</li>
+          <li>To honor Creation is to have RESPECT.</li>
+          <li>BRAVERY is to face the foe with integrity.</li>
+          <li>HONESTY in facing a situation is to be honorable</li>
+          <li>HUMILITY is to know yourself as a sacred part of the Creation.</li>
+          <li>Truth is to know all of these things.</li>
+        </ul>
+      </text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0404</num>
+      <heading>Rrb Principles</heading>
+      <para>
+        <num>1.</num>
+        <text>The RRB, in examining research proposals, shall be guided by the following principles:</text>
+        <para>
+          <num>a.</num>
+          <text>Principle of Fully Informed Consent after Full Disclosure and Consultation--Research should not be conducted until there has been full consultation with all potentially affected communities and individuals including all human research subjects, and each such community and individual have approved the research after full disclosure. Full disclosure includes the full range of potential benefits and harms of the research, all relevant affiliations of the person(s) or organization(s) seeking to undertake the research, and all sponsors of the researcher(s), the use and ownership of all material and information collected, the use and ownership of any derivatives obtained using any material collected as part of the research project, and whether any information or material gathered will be utilized or transferred to third parties</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Principle of Immediate Risks and Benefits to the Tribe --The research should be of direct benefit to the Tribe and its Members, and the risks associated with the research should be less significant than the benefits to be gained.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Principle of Confidentiality--This principle recognizes that the Tribe and any human research subjects, at its/their sole discretion, have the right to exclude from publication and/or to have kept confidential, any information including information concerning themselves, their health, or their culture, traditional knowledge, traditions, mythologies, or spiritual beliefs, and all researchers and other potential users shall guarantee such confidentiality.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Principle of Respect--This principle recognizes the necessity for researchers to respect the integrity, morality, and spirituality of the culture, traditions, and relationships of Tribal members with the world, and to avoid the imposition of external conceptions and standards.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Principle of Communication--This principle recognizes that communications should be carried out in the local language, using translators as necessary, or in a manner in which the human research subjects have a full understanding of the right to informed consent; and that each human research subject has in fact provided informed consent prior to the initiation of any research.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Principle of Empowerment--This principle recognizes that empowerment is the sharing of power and is premised on mutual respect. Empowerment means that each affected party feels that their needs are being met in a fair and equitable manner. Empowerment also means that research authorship must be shared between the Tribe and the researcher.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Principle of Equity--This principle recognizes that equity is a sharing of resources. Both the researchers and the Tribe must bring equity to any research contract, agreement or understanding. Each of the participants in a professional research agreement must evaluate such equity in relation to the research. Finance or money is only one form of equity. Community knowledge, networks, personnel and political or social power are other forms of equity useful to a project. Each of these commodities has value and must be shared between the researchers and the Tribe if a proper agreement is to be formulated. The parties must continuously review equity over the duration of a research agreement.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Principle of Mutual Respect--This principle recognizes that in order to develop a professional research agreement, the researchers and the Tribe must generate respect for each other. Respect is generated by understanding the social, political and cultural structures of the other party. The researchers and the Tribe cannot assume that they both believe in the same things or share the same goals and expectations. Proper communication is required if a professional research agreement is to be concluded. Cultural sensitivity training for the researchers as well as research awareness presentations on the Reservation will help develop a mutual understanding in conducting the research project. The Tribe and the researchers must listen to each other with open minds.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Principle of Prior Rights--This principle recognizes that indigenous peoples, traditional societies, and local communities have prior, proprietary rights and interests over all air, land, and waterways, and the natural resources within their territories that they have traditionally inhabited or used, together with all knowledge and intellectual property and traditional resource rights associated with such resources and their use.</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Principle of Self-Determination--This principle recognizes that indigenous peoples, traditional societies and local communities have a right to self-determination and researchers and associated organizations must acknowledge and respect such rights in their dealings with <strong><em><u>our</u></em></strong> peoples and <strong><em><u>our</u></em></strong> communities.</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Principle of Inalienability--This principle recognizes the inalienable rights of indigenous peoples in relation to <strong><em><u>our</u></em></strong> traditional territories and the natural resources within such territories and associated traditional knowledge. These rights are collective by nature but can include individual rights. It shall be for indigenous peoples to determine for themselves the nature and scope of their resource rights regimes.</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Principle of Traditional Guardianship--This principle recognizes the holistic interconnectedness of humanity with the ecosystems of our Sacred Earth and the obligation and responsibility of indigenous peoples to preserve and maintain their role as traditional guardians of these ecosystems through the maintenance of their cultures, mythologies, spiritual beliefs and customary practices.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>59.05</num>
+    <heading>Review of Research Proposals</heading>
+    <section>
+      <num>59.0501</num>
+      <heading>Review of Research Proposals</heading>
+      <para>
+        <num>1.</num>
+        <text>All research proposals must be complete before the RRB is required to consider the proposal. <strong>The scope of the research will determine the length of the review process. </strong>A proposal is complete when it contains the fee and all of the information that is necessary for the RRB to decide whether or not the proposal should be considered (contact the RRB office for proposal requirements).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any research summaries and support documents requested by the RRB pursuant to the proposal process should be sent to:  TNRG-PO BOX 1906, Belcourt, ND 58316.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The RRB shall review the application materials that are submitted and either:</text>
+        <para>
+          <num>a.</num>
+          <text>Return the proposal to the researcher with requests for additional information or with suggestions for clarification or change; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Make final determination;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Consult with other Tribal members, Tribal elders, professionals, technical experts, or specialists for a second evaluation before RRB final determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The review process and approval of the research is complete when the researcher receives a letter of notification from the RRB and enters into a binding Research Agreement that contains the obligations and responsibilities of the parties. Upon approval, principal investigators, co-principal investigators, researchers, graduate students (<strong>graduate committees will not be required to undergo cultural sensitivity training)</strong> and any others involved in the research shall undergo cultural sensitivity training at the researcher's expense before any project begins within the Reservation. The RRB expects periodic progress reports and will use these reports to update the Tribal Council on the status of the project.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Following approval of the research, the researcher shall secure all permits and licenses that may be required by Tribal law, including but not limited to a permit as provided under Section 8.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Administrative Fee:  An administrative fee may be assessed.  This fee will be used to cover the administrative costs associated with the review of the proposal and permitting.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>All publications, manuscripts and reports resulting from research must receive prior approval from the RRB.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0502</num>
+      <heading>Research Agreements</heading>
+      <para>
+        <num>1.</num>
+        <text>An agreement specific to the research shall be developed so that studies proceed in a manner that is both culturally sensitive and relevant to the participants and the Tribe.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Where any of the products of the research are to be used for commercial purposes, a separate agreement will be made specifying the basis on which sales are to be made and the proceeds of sales are to be distributed. Where research is engaged in for commercial purposes, it is the responsibility of the researcher to make all informants and suppliers of information aware of this fact, and to come to an agreement with them on the amount of compensation to be paid. There must be a limit on samples that the researcher may obtain and take off the Reservation, and the approved list and amount of samples to be taken must be followed strictly.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A sworn notarized declaration of noncommercial use of research products is required in conjunction with an Academic Research Agreement. This declaration may be included in the body of the Research Agreement.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If a research project receives approval by the RRB, the approval remains in effect for the period of time specified in the research agreement unless substantial changes are made in the research protocol. At the end of the period approved for the research project, the researcher must submit a letter in writing which summarizes the status of the project (complete, incomplete, discontinued), any unanticipated problems that occurred during the data collection phase of the project, and a time schedule for completion of all work, including community education/outreach related to the project. If the project is incomplete, the researcher must also request in writing an additional period for the data collection, analysis and report phase of the project.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If there are changes in the protocol including changes to PI must be approved by the Research Review Board.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0503</num>
+      <heading>Permits</heading>
+      <para>
+        <num>1.</num>
+        <text>The RRB shall develop standard application forms for Research Permit applicants and set forth the type of information that must be submitted.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The RRB shall develop a standard permit form, which at a minimum shall include the name(s) of the researcher(s) covered, name and/or brief description of the study approved, location(s) of research to be conducted, and effective start and ending dates of the permit.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon execution of a Research Agreement, all persons conducting research on the Reservation shall obtain from the Research Department in accordance with the terms of <cite path="59|59.05|59.0503">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>An application form for a Research Permit may be obtained from the RRB <strong><em><u>administrator</u></em></strong>.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>All persons covered by a Research Permit shall have such Permit in their possession at all times while conducting research. The Research Permit must be produced for inspection or surrendered upon demand by authorized Tribal officials.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A Research Permit issued under <cite path="59|59.05|59.0503">this Section</cite> may be suspended or revoked at any time by the RRB or Tribe. If a permit holder is engaged in activities not allowed by the permit, fails to abide by a permit term or condition, has committed fraud or misrepresentation or provided incorrect statements in the application or permitting process, or is engaged in or has engaged in activities prohibited by this Act or any other Tribal law or resolution.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The revocation or suspension of a permit issued pursuant to <cite path="59|59.05|59.0503">this Section</cite> may be appealed to the RRB and a decision by the <strong><em><u>Tribe</u></em></strong> is final for purposes of judicial review exclusively in the Tribe's Courts.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0504</num>
+      <heading>Modifications of an Approved Project</heading>
+      <para>
+        <num>1.</num>
+        <text>If the researcher wishes to make changes in his or her research project after receiving approval from the Tribe, he or she must submit a summary of the proposed modifications to the RRB.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Modifications in the data collection procedures must be reviewed by the RRB and approved by the Tribal Council. Modifications to the research project shall not be implemented until the researcher and the RRB have amended the research agreement and permits, and the researcher receives written approval from the RRB.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0505</num>
+      <heading>Regulation of Biological Samples</heading>
+      <para>
+        <num>1.</num>
+        <text>Any researcher who seeks to collect, acquire, or analyze any biological samples must agree and abide by the following conditions with regard to research with biological materials.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribe may, at any time, decide to withdraw from the research project or any portion thereof, and request the return of all biological samples. The researcher, and any other parties, must comply.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>When biological samples are collected, the PI must state how the samples will be used. If there is a desire to use the samples for purposes other than what is stated in the approved notice, the PI must submit a request to the RRB and TMBCI for approval.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Upon completion of the research project, or termination or cancellation of the project at any time prior to completion, the biological samples must be completely and fully returned to the Tribe.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>No biological samples from this study may be released to, or used by, any other researcher(s), research institution, or any other entity, whether public or private, without the prior and fully-informed written approval of the Tribe.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the Tribe permits any biological samples to be stored in any other locations, the Tribe will maintain jurisdiction over the samples and the researcher shall maintain at all times a complete list thereof. The list shall include a description of the sample or data, source, specific use or purpose of each item, responsible person(s) at the location, and where the item is housed (e.g., in a "gene bank" or on a specific computer), and any relevant time lines with regard to use of, disposition, return, or destruction of the samples or data. The researcher shall provide an updated copy of the list to the Tribe whenever changes are made. The updated list shall include identification of changes made since the last copy of the list was provided to the Tribe.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Any situation where biological samples will leave the possession or control of the researcher will require a separate agreement between the Tribe and the external party in accordance with this Act.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>No entity may seek to patent or commercialize any biological materials obtained from the Tribe, from the Tribe's jurisdiction, or under the authority of the Tribe including but not limited to, genetic samples, any copies of the original genetic samples, any cell lines derived from collected materials, and data derived from these samples.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0506</num>
+      <heading>Reservations and Termination</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribe reserves the right to:</text>
+        <para>
+          <num>a.</num>
+          <text>Withdraw consent to use or release information and/or prevent the publication of data which is unauthorized, insensitive, misrepresents or stereotypes the Tribe or its members or will harm the health, safety or welfare of the Tribe, its members, or the environment.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Deny researchers the opportunity to conduct research within the Tribe's jurisdiction. In addition, other researchers or scientists from the same research institution may be denied any future access to the Reservation.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Withdraw approval for projects. Should this occur, the Tribe will explain the rationale for withdrawing approval and explain why this project or the release of data is deemed to be harmful to individuals or the Tribe at large. In the case of withdraw of approval by the Tribe, all information and copies of data must be returned to the Tribe.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Exclude <strong><em><u>non-member </u></em></strong>individuals from the Reservation</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Seek injunctive relief, including an order restraining a person from continuing to <strong><em><u>conduct research on </u></em></strong>the Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>If a project is terminated, the research entity or individual must provide just compensation to any field staff or member of the Tribe for their time and efforts spent related to the research project.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0507</num>
+      <heading>Prohibited Conduct</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall conduct any academic research or cultural research without first obtaining approval by the RRB pursuant to <cite path="59.05">Chapter 59.05</cite> of <cite path="59">this Title</cite>;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall conduct any academic research or cultural research without obtaining a fully executed research agreement pursuant to Section 7 of this Act;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall conduct any academic research or cultural research without maintaining in their possession a permit issued pursuant to Section 8 of this Act;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No person shall collect, acquire, or analyze any biological samples without abiding by the provisions of <cite path="59|59.05|59.0505">Section 59.0505</cite> of <cite path="59">this Title</cite>;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>No person shall alter, damage, disturb, excavate, removed, or desecrate and biodiversity related resources, biogenetic resources, or traditional indigenous intellectual property on the Reservation or of the Tribe;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>No person shall, while on the Reservation, conduct any visitation, inventory, collection, research, or filming related to any biodiversity related resources, biogenetic resources, or traditional indigenous intellectual property, or disturb any animals, vegetation, or landscapes of the Reservation or Tribe;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>No person shall sell, purchase, exchange, transport, receive, or offer to sell, purchase, exchange, transport, or possess any biodiversity related resources, biogenetic resources, biological samples, or traditional indigenous intellectual property if such resource or property was obtained in violation of this Actor any permits.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0508</num>
+      <heading>Penalties</heading>
+      <para>
+        <num>1.</num>
+        <heading>CRIMINAL PENALTIES:</heading>
+        <text>Any person, over whom the Tribe may assert criminal jurisdiction, who knowingly violates or counsels, solicits, or employs any other person to violate any section of this Act, or any condition of limitation of a permit issued under this Act, shall be guilty of a criminal offense. Each criminal offense shall be punishable by restitution, community service, a fine not to exceed $10,000, imprisonment in the tribal jail for not more than one year, or any combination of these penalties. Criminal offenders may also be subject to civil penalties and damages set forth in this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>CIVIL PENALTIES:</heading>
+        <para>
+          <num>a.</num>
+          <text>Any person who violates any section of this Act, or any permit issued under this Act, shall be assessed a civil penalty not to exceed $10,000 per violation, or if applicable, any civil penalty provided for under Federal laws or the laws of the Tribe.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>No civil penalty shall be assessed unless such person is given notice and an opportunity for a hearing with respect to such violation. Each violation shall be a separate offense. The trial of any such violation shall be by the Tribal Court and the prosecution shall have the burden of proving the alleged violation occurred beyond a reasonable doubt.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Any person who violates this Act, or any permit issued under this Act, may lose the privilege of doing business or conducting research on the Reservation.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Any nonmember of the Tribe who violates this Act or any permit issued under this Act may be excluded from the Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <heading>CIVIL DAMAGES:</heading>
+        <text>Assessment of Actual Damages: Any person who violates any section of <cite path="59">this Title</cite> any permit issue under this Act shall be liable to the Tribe for civil damages to be assessed by the Tribal Court after a hearing. "Civil Damages" shall be interpreted liberally by the Court to include, but not be limited to, the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Cost of restoration and repair; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Enforcement costs associated with the enforcement of this Act; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Costs associated with the culturally appropriate disposition of resources, including conservation, curation, and/or reburial.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Assessment of Treble Damages: In addition to actual damages, the Court, in its discretion, may assess damages of up to three times the amount of actual damages.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>FORFEITURE--All objects or property in the possession of any person, and obtained in violation of this Act or in violation of a term or condition of a permit obtained thereunder, shall be seized by law enforcement agents and forfeited to the Tribe for disposition. A person may recover all such property incapacitated by paying to the Tribe the costs incurred by the Tribe in carrying out legal proceedings, and by paying all fines due for violations of Tribal law.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>SEIZURE OF SECURITY--The citing law enforcement agent shall:</text>
+        <para>
+          <num>a.</num>
+          <text>Seize such property in the possession of the alleged perpetrator, including vehicles, or equipment involved in the violation, as the enforcement program or agent deems reasonably necessary to secure payment of any fine or civil damages which may be levied upon the defendant upon conviction of the infraction or crime, or to fulfill a civil judgment.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The property seized shall be released to the owner upon timely payment of any related civil assessments.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Any seized property shall be forfeited to the Tribe if the assessment has not been paid within fifteen (15) days of the hearing at which the civil assessment was levied or fifteen (15) days from the final determination of any appeal taken pursuant to this Act, whichever is later.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0509</num>
+      <heading>Personal Jurisdiction</heading>
+      <text>As to a cause of action arising under this Act, a court may exercise jurisdiction over a person not domiciled on the Reservation on any basis consistent with, and on the broadest basis permissible under, the Constitution of the United States and the Constitution of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0510</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Act or the application thereof to any person, court, or circumstance is held invalid by a Tribal Court or another court having competent jurisdiction, the invalidity shall not affect other provisions of this Act which can be given effect without the invalid provision or application and to this end, the provisions of this Act are severable.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0511</num>
+      <heading>Repeal of Conflicting Laws or Regulations</heading>
+      <text>Any ordinance, resolution, act, or rules and regulations in conflict with the provisions of this Act shall be superseded and repealed to the extent of such conflict.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0512</num>
+      <heading>Waiver</heading>
+      <text>No individual person, Tribal official, or Tribal employee is authorized to waive any part of this Act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0513</num>
+      <heading>Sovereign Immunity</heading>
+      <text>The Tribe and all its constituent parts, subordinate organizations, Boards, including the RRB, are immune from suit in any jurisdiction except to the extent that such immunity has been expressly and unequivocally waived by the Tribe by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0513</num>
+      <heading>Amendments</heading>
+      <text>This Act may be amended by the Tribal Council at any time.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>59.0514</num>
+      <heading>Effective Date</heading>
+      <text>This Act is effective upon the date of enactment by the Tribal Council.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

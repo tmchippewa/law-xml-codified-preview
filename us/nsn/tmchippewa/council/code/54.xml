@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>54</num>
+  <heading>Burial Site Preservation Law</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>54.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>54.0101</num>
+      <heading>Purpose and Authority</heading>
+      <para>
+        <num>1.</num>
+        <text>The Purpose of the Turtle Mountain Band of Chippewa Indians is to protect the graves and funerary objects of all our ancestors, to minimize the occurrence of intrusion upon gravesites, traditional burials, and Christian burials, to protect the health, safety, and welfare of the People within the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The purpose of <cite path="54">this Title</cite> is to adopt a uniform system of protecting the traditional and funerary object and to establish a registry providing for the recording and cataloging of burial sites of Tribal members and to preserve and protect such sites from disturbance, disinterment, or other destructive activities.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Article IX, Sections (a)(2-6) of the Turtle Mountain Band of Chippewa Indians Constitution ("Constitution") delegates the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0102</num>
+      <heading>Effective Date</heading>
+      <text><cite path="54">This Title</cite> shall take effect on the day following adoption by the Turtle Mountain Band of Chippewa Indians and execution by the Chairman.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0103</num>
+      <heading>Abrogation and Greater Restriction</heading>
+      <text>Where this article imposes greater restrictions than those contained in other ordinances, codes, or resolutions of the Tribe, as well as relevant federal laws and regulations, this article shall govern.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0104</num>
+      <heading>Interpretation</heading>
+      <text>In the interpretation and application of the provisions of this article, said provisions shall be held to the minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other power or authority of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0105</num>
+      <heading>Severability</heading>
+      <text>If any section, provision, or portion of this article is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this article shall not be affected thereby. The Tribe declares there is no lability on the part of the Tribe, its agencies, or employees that may occur as a result of reliance upon the conformance with this article.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0106</num>
+      <heading>Sovereign Immunity</heading>
+      <text>This article shall not be construed as a waiver, limited or otherwise, of the Tribe's sovereign immunity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0107</num>
+      <heading>Applicability</heading>
+      <text>The policies in this article shall apply to all members and employees of the Tribe, all activities on lands owned by the Tribe or held in trust by the United States for the benefit of the Tribe, all individuals occupying Tribal lands, and all lands owned in fee by the Tribe or a member of the Tribe within the boundaries of the Tribe's Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0108</num>
+      <heading>Budgeting of Funds</heading>
+      <text>The Tribe shall budget funds to effectuate the enforcement of <cite path="54">this Title</cite> and shall seek grants and foundation funding.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0109</num>
+      <heading>Repeal of Inconsistent Provisions</heading>
+      <text>Upon adoption any existing laws, rules, resolutions, and policies which are inconsistent with <cite path="54">this Title</cite> are hereby repealed.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>54.02</num>
+    <heading>Burial Sites Preservation</heading>
+    <section>
+      <num>54.0201</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text><em>Agricultural or forestry activities</em> means those normal agricultural or silvicultural practices that do not disturb the human remains in a known or marked burial site or the surface characteristics of a burial site.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><em>Burial site</em> means any place of interment, by any means, natural or a physically prepared location, whether originally below, on, or above the surface of the earth, where human remains or associated funerary objects are deposited, as part of the death rites or ceremonies of the Tribe.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><em>Cemetery </em>means a burial site in which two or more individuals were interred.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><em>Cultural patrimony</em> is defined as an object having ongoing historical, traditional, or cultural importance central to the Tribe or its culture.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><em>Duly authorized law enforcement official</em> means any law enforcement personnel of the Turtle Mountain Band of Chippewa Indians Police Department or any LAW Enforcement officer delegated authority to enforce the laws of the Tribe pursuant to chapter 15, section 3, "Cooperative Law Enforcement Arrangements."</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><em>Disturb </em>includes defacing, mutilating, injuring, exposing, removing, destroying, desecrating, or molesting in any way.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text><em>Grave goods</em> mean objects, that as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text><em>Human remains</em> mean any part of the body or deceased person in any stage of decomposition.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text><em>Person </em>means any individual or entity, including a governmental operation or political subdivision of a state or Tribe, or any interstate body and shall include each department, agency, and instrumentality of the United States.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text><em>THPO</em> means the Tribal Historic Preservation Officer.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0202</num>
+      <heading>Excavation of Skeletal Remains</heading>
+      <para>
+        <num>1.</num>
+        <text>The graves of Chippewa or Ojibwe people and their ancestors are sacred and shall not be disturbed or excavated.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the event skeletal remains of a Chippewa, Ojibwe, or mixed-race Indians are excavated, such remains shall be reburied, together with all associated grave artifacts as soon as shall be reasonable possible. All such remains disinterred outside Chippewa, Ojibwe, or mixed-race Indians trust lands shall be reburied in a manner consistent with procedures set forth by the NAGPRA Committee with the procedures being first approved by the government and regulatory agencies of the Turtle Mountain Band of Chippewa Indians, (Tribe).</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The remains of Chippewa, Ojibwe, or mixed-race Indians shall not be subjected to destructive skeletal analysis.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>All unassociated funerary objects shall be treated in a manner consistent with procedures set forth by the NAGPRA Committee with the procedures being first approved by the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0203</num>
+      <heading>Sanctity of Ancestors Who Are Buried Throughout the Aboriginal Chippewa, Ojibwe, or Mixed-Race Indian Lands</heading>
+      <text>The joint policies of the Tribe are as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>The graves of our ancestors are sacred and we desire that they not be disturbed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the event the remains of Chippewa, Ojibwe, or mixed-race Indians ancestors are excavated, such remains shall be reburied together with all associated grave artifacts, as soon as shall be reasonable.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The remains of Chippewa, Ojibwe, or mixed-race Indians ancestors should not be subjected to scientific analysis.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The remains of Chippewa, Ojibwe, or mixed-race Indians ancestors and associated grave artifacts which have been disinterred and are now in possession of museums, universities, federal agencies or other institutions and persons, should be returned to the proper tribes for reburial.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Such remains should be buried at the original site where possible.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All persons or institutions who seek to conduct study or research on the people or institutions of the Chippewa, Ojibwe, or mixed race Indians , including but not limited to Tribal members, Tribal organizations, Tribal government and Tribal lands and natural resources shall be required to obtain approval from the Tribe as required by the Tribal Nations Research Group Act of 2014 prior to conducting such research on Turtle Mountain Band of Chippewa Indians Trust lands trust lands.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>54.03</num>
+    <heading>Tribal Historic Preservation Office</heading>
+    <section>
+      <num>54.0301</num>
+      <heading>Establishment and Duties</heading>
+      <para>
+        <num>1.</num>
+        <text>A Tribal Historic Preservation Office shall be established to increase efforts in the location, documentation and evaluation of ancient, cultural, and historic properties. This information will provide a record of the past for future generations of the Tribe and shall be incorporated into the Tribe's planning and development approval process.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Tribal Historic Preservation Officer shall be appointed to develop a file of identified cultural sites/places within the Traditional Territory of the Turtle Mountain Band of Chippewa Indians and within its Territory and Jurisdiction. This file will also contain a history of areas that have been surveyed and found not to comprise cultural sites/places.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal Historic Preservation Officer shall be solely responsible for the active collection and cataloging of known cultural sites/places, surveyed areas and the locations of potential archaeological resources.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Tribal Historic Preservation Officer shall be included in all construction projects or other ground disturbing activities and shall be responsible for the issuance of Permits to Proceed with Ground Disturbing Activities on Tribal Lands.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0302</num>
+      <heading>Registry</heading>
+      <para>
+        <num>1.</num>
+        <text>From the file of identified cultural sites/places the Tribal Historic Preservation Office shall establish a Registry for any Tribal member to view.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any information in the Registry related to the location of any burial site, the disclosure of which would be likely to result in a disturbance of the burial site, shall not be subject to disclosure under <cite path="54|54.03|54.0302">this section</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0303</num>
+      <heading>Repository</heading>
+      <text>The Heritage Center shall be the permanent repository for any human remains and/or burial goods/grave goods discovered on Tribal lands that the Tribe decides not to reinter. Access to, and the use of, such materials collected for educational and research purposes shall be dictated by the Tribal Nations Research Group Act of 2014.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0304</num>
+      <heading>Non-Disturbance of Burial Sites, Cemeteries, Human Remains, and Grave Goods</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall knowingly excavate or disturb a burial site, cemetery, human remains, or grave goods.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person may intentionally cause or permit the disturbance of a burial site or cataloged land contiguous to a cataloged burial site.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person shall immediately notify the Historic Preservation Office if the person knows or has reasonable grounds to believe that a burial site or the cataloged land contiguous to a cataloged burial site is being disturbed or may be disturbed contrary to this article.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>This article does not prohibit agricultural or silvicultural activities on previously disturbed land.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0305</num>
+      <heading>Permitted Removal and Disturbance to Burial Sites, Cemeteries, Human Remains, and Grave Goods</heading>
+      <para>
+        <num>1.</num>
+        <text>Only in the extreme cases of imminent destruction or accidental discovery may burial sites, cemeteries, human remains or grave goods be approved for intentional disturbance. When disturbance is found to be necessary, Tribal spiritual leaders and the Tribal Council and individuals approved to conduct the excavation or exposure will discuss the importance of what is being contemplated and agree to a procedure in writing under which the disturbance shall be carried out.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>At all times during the process of disturbing any human remains, a representative of the Tribe shall be available on-site to assist and ensure that the parties employed to remove or expose any human remains or grave goods carry out the procedure along the guidelines set forth in the consultation meeting as required herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0306</num>
+      <heading>Memorandum of Agreements</heading>
+      <text>The Tribe may from time to time enter into agreements with other governments and agencies and may bestow upon those agencies the authority enforcement authority as necessary to effectuate the purpose of <cite path="54">this Title</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>54.04</num>
+    <heading>Permits to Conduct Archaeological Investigations</heading>
+    <section>
+      <num>54.0401</num>
+      <heading>Permit Required for Archeological Investigation Activities</heading>
+      <text>Prior to beginning any archeological investigations activities on Tribal lands and waters, all Tribal members, Tribal employees, lessees, individuals and organizations contracting with the Tribe, individual operating within the Territory and Jurisdiction of the Tribe, and individuals representing government agencies shall have a signed permit to proceed from the Tribal Historic Preservation Office.</text>
+      <para>
+        <num>1.</num>
+        <text>All individuals intending to conduct archaeological investigations or engaging in the excavation or removal of archeological materials from Tribal lands must have a Permit to Conduct Archaeological Investigations signed by the Tribal Historic Preservation Officer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In addition to requesting and acquiring a Permit to Conduct Archaeological Investigations, the individual(s) must follow the process outlined in division 4 of this article titled, "Permits to Proceed with Ground Disturbing Activities on Tribal Lands and Waters."</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>All individuals intending to conduct archaeological investigations or engaging in the excavation or removal of archeological materials from Tribal lands must have a Permit to Conduct Archaeological Investigations signed by the Tribal Historic Preservation Officer.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>This Permit is in addition to the requirements of the Tribal Nations Research Group Act of 2014 authorization requirement.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Tribe has a cooperative relationship with the Department of Interior Bureau of Indian Affairs and as such the Bureau of Indian Affairs must comport with its United States Code, specifically but not limited to 16 U.S.C. §§ 470aa-11 and Code of Federal Regulation, specifically but not limited to 25 C.F.R. §§ 262 requirements.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0402</num>
+      <heading>Procedures for Obtaining a Permit to Proceed</heading>
+      <para>
+        <num>1.</num>
+        <text><em>Submission of application for permit to proceed.</em> Prior to beginning any archeological investigation activities on Tribal lands and waters, all Tribal members, Tribal employees, lessees, individuals and organizations contracting with the Tribe, and individuals representing government agencies shall complete and submit an application form for a permit to proceed from the Tribal Historic Preservation Officer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Historic Preservation Officer shall review the application, and determine, following a review of the existing Tribal Historic Preservation Office files covering that area, if an archaeological field investigation will be required. The THPO shall notify the applicant within 30 days of a decision to deny such permit.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><em>Archaeological review. </em>All areas on Tribal lands and waters to undergo archeological investigation activities, not specifically excluded herein <cite path="54">this Title</cite>,  and  not  previously  investigated  for  the  presence  of  archaeological, historical, or cultural remains, shall be subject to the archaeological review process to determine the presence of such remains as part of the application for a Permit to Proceed. The THPO shall notify the applicant within 30 days of any decision to deny such a permit. The archaeological review consists of the following:</text>
+        <para>
+          <num>a.</num>
+          <text><em>Field </em>s<em>earch. </em>Pre-field investigations—THPO staff check files and atlas recording the locations of identified historic properties and the locations of areas previously investigated.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text><em>Field archaeology. </em>The project area presented in the permit application is investigated by a qualified archaeologist to record and describe any identified historic properties.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><em>Permit contingencies. </em>Based on the results of the archaeological review, the Tribal Historic Preservation Officer will determine whether or not a Permit to Proceed will be granted for the commencement of the ground disturbances related to the project being considered. The Tribal Historic Preservation Officer shall determine:</text>
+        <para>
+          <num>a.</num>
+          <text>Permit to Proceed granted, no contingencies;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Permit to Proceed granted, with contingencies;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Permit to Proceed not granted; project may not proceed following plans presented to the Tribal Historic Preservation Officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The permit applicant may resubmit a new application based upon changes made in consultation with the THPO to remove or minimize any impacts to identified historic properties.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0403</num>
+      <heading>Appeal of Denied Permits to Proceed</heading>
+      <text>Any denied permits may be appealed by the applicant by requesting a hearing in writing within 14 days to the Natural Resources Board. Said determination from the Natural Resources Board shall be final for purposes of administrative review.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0404</num>
+      <heading>Limited Exceptions to the Permit Requirement</heading>
+      <text>The Tribal Historic Preservation Officer may permit the following areas to be excluded from field archaeology investigations:</text>
+      <para>
+        <num>1.</num>
+        <text>Garden construction and gardening in general.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Projects less than one square meter in size (i.e., digging postholes, planting trees).</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Projects that will not disturb the ground (i.e., mowing lawn, winter logging with snow coverage).</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Swampy areas or areas with mucky soils.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Locations directly on slopes which would prohibit construction of dwellings or settlements.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Maintenance activities including, but not limited to: basic road maintenance, grading and snowplowing.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Areas already disturbed to a depth greater than three feet (i.e., gravel pits).</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Any area that has previously undergone an archaeological survey the result of which no cultural materials were found; and</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Earthen chambers dug for graves.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0405</num>
+      <heading>Payment for Field Archaeology Surveys of Tribal Lands Leased by Tribal Members</heading>
+      <text>Required Field Archaeological Surveys of individual or business leases held by Tribal members shall be paid for by the developer, to be arranged by the Tribal Historic Preservation Officer. Projects receiving funding from federal agencies are not covered by this Tribal resolution and must provide the cost of required field archaeology surveys independently.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0406</num>
+      <heading>Requirement of Qualified Archaeologist</heading>
+      <text>Archaeological surveys shall be completed by an archaeologist meeting the Department of Interior's Standards for Archaeologists.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>54.0407</num>
+      <heading>Arpa Permits for Non-Tribal Members</heading>
+      <text>Any individual that is not a Tribal member must have a valid ARPA permit signed by the Area Director of the BIA-MAO as required in 25 C.F.R. § 262.4, in addition to the Tribe's permit and authorization from the Tribal Nations research Group.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>54.05</num>
+    <heading>Enforcement and Penalties</heading>
+    <section>
+      <num>54.0501</num>
+      <heading>Penalties</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who fails to report the disturbance of a burial site or the cataloged land contiguous to a cataloged burial site as required under subsection (3) shall forfeit not less than $100.00 nor more than $1,000.00.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who intentionally disturbs a burial site which is not cataloged without the authorization of the Tribe shall forfeit not less than $500.00 nor more than $2,000.00.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any owner who intentionally causes or permits any activity which disturbs a burial site after receiving notice from the Tribe without the authorization shall forfeit not less than $1,000.00 nor more than $5,000.00.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any person who disturbs a burial site for commercial gain not related to the use of the land where a burial site is located or who disturbs a cataloged burial site for commercial gain related to use of the land where a burial site is located  in violation of this article may be fined not to exceed two times the gross value gained or two times the gross loss caused by the disturbance, whichever is the greater, plus court costs and the costs of investigation and prosecution, reasonably incurred.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

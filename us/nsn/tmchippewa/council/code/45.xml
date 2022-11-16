@@ -1,0 +1,1582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>45</num>
+  <heading>Tribal Americans with Disabilities Act of 2007</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>45.0101</num>
+      <heading>Short Title</heading>
+      <text><strong>T</strong>his Act may be cited as the "Turtle Mountain Band of Chippewa Indians Tribal Americans with Disabilities Act of 2007."</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.02</num>
+    <heading>Findings and Purpose</heading>
+    <section>
+      <num>45.0201</num>
+      <heading>Findings</heading>
+      <para>
+        <num>1.</num>
+        <text>The Congress and the Turtle Mountain Band of Chippewa Indians finds that based upon September 2005 Feasibility study conducted by Winkelman Consulting that there are a total of 2,317 disabled individuals living in Rolette County, of which 1,389 are Turtle Mountain enrolled members.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Based upon Turtle Mountain tribal customs of families protecting and sheltering those individuals who are "special" or requiring "special needs";</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Historically, society has tended to isolate and segregate individuals with disabilities, and, despite some improvements, such forms of discrimination against individuals with disabilities continue to be a serious and pervasive social problem;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Discrimination against individuals with disabilities persists in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and access to public services;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Unlike individuals who have experienced discrimination on the basis of race, color, sex, national origin, religion, or age, individuals who have experienced discrimination on the basis of disability have often had no legal recourse to redress such discrimination;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Individuals with disabilities continually encounter various forms of discrimination, including outright intentional exclusion, the communication barriers, overprotective rules and policies, failure to make modifications to existing facilities and practices, exclusionary qualification standards and criteria, segregation, and relegation to lesser services, programs, activities, benefits, jobs, or other opportunities;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Census data, local statistics (Rolette County and tribal data), national poDs, and other studies have documented that people with disabilities, as a group, occupy an inferior status in our society, and are severely disadvantaged socially, vocationally, economically, and educationally;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Individuals with disabilities are a discrete and insular minority who have been faced. with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>The Nations and Tribal communities goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis, and to pursue those opportunities for which our free and caring society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses, resulting from dependency and non-productivity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0202</num>
+      <heading>Purpose</heading>
+      <text>It is the purpose of this Act to:</text>
+      <para>
+        <num>1.</num>
+        <text>provide a clear and comprehensive national and Turtle Mountain Band of Chippewa Indians mandate for the elimination of discrimination against individuals with disabilities;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>provide clear, strong, consistent, enforceable standards addressing discrimination against individuals with disabilities;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>ensure that the Federal and Tribal Government plays a central role in enforcing the standards established in this Act on behalf of individuals with disabilities; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>invoke the sweep of congressional and Tribal Governance authority, including the power to enforce the United States of America (U.S. Constitutional fourteenth amendment) and Turtle Mountain Band of Chippewa Indians TMBC0473-12-07 Resolution adopted, amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.03</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>45.0301</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="45">this Title</cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>"AUXILIARY AIDS AND SERVICES" includes:</text>
+        <para>
+          <num>a.</num>
+          <text>qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Qualified readers, taped texts, or other effective methods of making visually delivered materials available to individuals with visual impairments;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Acquisition or modification of equipment or devices; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>other similar services and actions.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"DISABILITY" means, with respect to an individual:</text>
+        <para>
+          <num>a.</num>
+          <text>a physical or mental impairment that substantially limits one or more of the major life activities of such individual;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>a record of such an impairment and;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>being regarded as having such an impairment;</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"STATE" means each of the several States, (other U.S. territories) do not apply to this act however, the term "Tribe' means Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"COMMISSION" means the Equal Opportunity Commission established by section 705 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-4).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"COVERED ENTITY" means an employer, employment agency, labor organization, or joint labor-management committee.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"DIRECT THREAT" means a significant risk to the health or safety of others that cannot be eliminated by reasonable accommodation.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"EMPLOYEE" means an individual employed by an employer.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>In general, the term "EMPLOYER" means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that, for two years following the effective date of <cite path="45">this title</cite>, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.</text>
+        <para>
+          <num>a.</num>
+          <text>"employer" does not include TMBC0473-12-07  Resolution Has adopted changes and compliance to <cite path="45|45.03|45.0301">this section</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the United States, a corporation wholly owned by the government of the United States, or an Indian Tribe; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>a bona fide private membership club (other than a labor organization) that is exempt from taxation under section 501 (c) of the Internal Revenue Code of 1986.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"PERSON", "LABOR ORGANIZATION", "EMPLOYMENT AGENCY", "COMMERCE", and "INDUSTRY AFFECTING COMMERCE", shall have the same meaning given such terms in section 701 of the Civil Rights Act of 1964 (42 U.S.C. 2000e).</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"QUALIFIED INDIVIDUAL WITH A DISABILITY" means an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of employment position that such individual holds or desires. For the purposes of <cite path="45">this title</cite>, consideration shall be given to the employer's judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"REASONABLE ACCOMMODATION" may include</text>
+        <para>
+          <num>a.</num>
+          <text>making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>job restructuring, part-time, or modified work schedules, reassignment to a vacant position, acquisition or modifications of equipment or devices, appropriate adjustment or modifications of examinations, training materials or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"UNDUE HARDSHIP" means an action requiring significant difficulty or expense, when considered in light of the factors set forth:</text>
+        <para>
+          <num>a.</num>
+          <text>Factors to be considered in determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>the nature and cost of the accommodation needed under this Act;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility, the effect on expenses and resources, or the impact of otherwise of such accommodation upon the operation of the facility;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the type of operation or operations of the covered entity, including	the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0302</num>
+      <heading>Discrimination</heading>
+      <para>
+        <num>1.</num>
+        <text>General Rule. No covered entity shall discriminate against a qualified individual with a disability because of the disability of such individual in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Construction. As used in <cite path="45|45.03|45.0302">this section</cite>, the term "discriminate" includes:</text>
+        <para>
+          <num>a.</num>
+          <text>limiting, segregating, or classifying a job applicant or employee in any way that adversely affects the opportunities that or status of such applicant or employee because of the disability of such applicant or employee;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>participating in a contractual or other arrangement or relationship that has the effect of subjecting a covered entity's 'Qualified applicant or employee with a disability to the discrimination prohibited by <cite path="45">this title</cite> (such relationship includes a relationship with an employment or referral agency, labor union, an organization providing fringe benefits to an employee of the covered entity, or an organization providing training and apprenticeship programs);</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>utilizing standards, criteria, or methods of administration</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>that have the effect of discrimination on the basis of disability; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>that perpetuate the discrimination of others who are subject to common administrative control;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>excluding or otherwise denying equal jobs or benefits to a qualified individual because of the known disability of an individual with whom the qualified individual is known to have a relationship or association;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>(1) not making reasonable accommodations to the known physical or</text>
+          <text>mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>denying employment opportunities to a job applicant or employee who</text>
+          <text>is an otherwise qualified individual with a disability, if such          denial is based on the need of such covered entity to make reasonable accommodation to the physical or mental impairments of the employee or applicant;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>using qualification standards, employment tests or other selection criteria that screen out or tend to screen out an individual with a disability or a class of individuals with disabilities unless the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and is consistent with business necessity; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>failing to select and administer tests concerning employment in the most effective manner to ensure that, when such test is administered to a job applicant or employee who has a disability that impairs sensory, manual, or speaking skills, such test results accurately reflect the skills, aptitude, or whatever other factor of such  applicant or employee that such test purports to measure, rather than reflecting the impaired sensory, manual, or 	speaking skills of such employee or applicant (except where such skills are the factors that the test purports to measure).</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Medical Examinations and Inquiries.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The prohibition against discrimination as referred to in subsection</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Shall include medical examinations and inquiries.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Pre-employment</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Prohibited examination or inquiry. Except as provided in paragraph 2(c), a covered entity shall not conduct a medical examination or make inquiries of a job applicant as to whether such applicant is an individual with a disability or as to the nature or severity of such disability.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Acceptable inquiry. A covered entity may make pre-employment inquiries into the ability of an applicant to perform job-related functions.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Employment entrance examination.  A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>all entering employees are subjected to such an examination regardless of disability;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>information obtained regarding the medical condition or history of the applicant is collected and maintained on separate forms and in separate medical files and is treated as a confidential medical record, except that</text>
+          <para>
+            <num>(a)</num>
+            <text>supervisors and managers may be informed regarding necessary restrictions on the work or duties of the employee and necessary accommodations;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>first aid and safety personnel may be informed, when appropriate, if the disability might require emergency treatment; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>government officials investigating compliance with this Act shall be provided relevant information on request; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>the results of such examination are used only in accordance with <cite path="45">this title</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Examination and inquiry.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Prohibited examinations and inquiries. A covered entity shall not require a medical examination and shall not make inquiries of an employee as to whether such employee is an individual with a disability or as to the nature or severity of the disability, unless such examination or inquiry is shown to be job-related and consistent with business necessity.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Acceptable examinations and inquiries. A covered entity may conduct voluntary medical examinations, including voluntary medical histories, which are part of an employee health program available to employees at that work site. A covered entity may make inquiries into the ability of an employee to perform job-related functions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Requirement. Information obtained under subparagraph (2) regarding the medical condition or history of any employee are subject to the requirements of subparagraphs (2) and (3) of paragraph e.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0303</num>
+      <heading>Defenses</heading>
+      <para>
+        <num>1.</num>
+        <text>In General. It may be a defense to a charge of discrimination under this Act that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to be job-related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under <cite path="45">this title</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Qualification Standards. The term "qualification standards" may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Religious Entities.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. <cite path="45">This title</cite> shall not prohibit a religious corporation, association, educational institution, or society from giving preference in employment to individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Religious tenets requirement. Under <cite path="45">this title</cite>, a religious organization may require that all applicants and employees conform to the religious tenets of such organization.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>List of Infectious and Communicable Diseases.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The Secretary of Health and Human Services, not  later than 6 months after the date of enactment of this Act, shall</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>review all infectious and communicable diseases which may be transmitted through handling the food supply;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>publish a list of infectious and communicable diseases which are transmitted through handling the food supply;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>publish the methods by which such diseases are transmitted; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>widely disseminate such information regarding the list of diseases and their modes of transmissability to the general public. Such list shall be updated annually.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Applications.-In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling of food, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Construction.-Nothing in this Act shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or 	communicable diseases and the modes of transmissability published by the Secretary of Health and Human Services.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0304</num>
+      <heading>Posting Notices</heading>
+      <text>Every employer, employment agency, labor organization, or joint labor-management committee covered under <cite path="45">this title</cite> shall post notices in an accessible format to applicants, employees, and members describing the applicable provisions of this Act, in the manner prescribed by section 711 of the Civil Rights Act of 1964 (42 U.S.C. 1000e-10).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0305</num>
+      <heading>Regulations</heading>
+      <text>Not later than 1 year after the date of enactment of this Act, the Commission and Turtle Mountain Band of Chippewa Indians shall issue regulations in an accessible format to carry out <cite path="45">this title</cite> in accordance with subchapter n of chapter 5 of title 5, United States Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0306</num>
+      <heading>Enforcement</heading>
+      <text><cite path="45">This title</cite> shall become effective twenty-four (24) months after its enactment.</text>
+      <para>
+        <num>1.</num>
+        <text>Powers, Remedies, and Procedures. The powers, remedies, and procedures set forth in sections 705, 706, 707,709, and 710 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-4, 2000e5, 2000e-6, 2000e-8, and 2000c-9) shall be the powers, remedies, and procedures <cite path="45">this title</cite> provides to the Commission, to the Attorney General, or to any person alleging discrimination on the basis of disability in violation of any provision of this Act, or regulations promulgated under section 106, concerning employment</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Coordination. The agencies with enforcement authority for actions which allege employment discrimination under <cite path="45">this title</cite> and under the Rehabilitation Act of 1973 shall develop procedures to ensure that administrative complaints filed under <cite path="45">this title</cite> and under the Rehabilitation Act of 1973 are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under <cite path="45">this title</cite> and the Rehabilitation Act of 1973. The Commission, the Attorney General, and the Office of Federal Contract Compliance Programs shall establish such coordinating mechanisms (similar to provisions contained in the joint regulations promulgated by the Commission and the Attorney General at part 42 of title 28 and part 1691 of Title 29, Code of Federal Regulations, and the Memorandum of Understanding between the Commission and the Office of Federal Contract Compliance Programs dated January 16, 1981 (46 Fed. Reg. 7435, January 23, 1981» in regulations implementing <cite path="45">this title</cite> and Rehabilitation Act of 1973 not later than 18 months after the date of enactment of this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0307</num>
+      <heading>Enforcement</heading>
+      <text><cite path="45">This title</cite> shall become effective 24 months after the date of enactment.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.02</num>
+    <heading>Public Services Prohibition Against Discrimination and Other Generally Applicable Provisions</heading>
+    <section>
+      <num>45.0201</num>
+      <heading>Definition</heading>
+      <text>As used in <cite path="45">this title</cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>The term "PUBLIC ENTITY" means</text>
+        <para>
+          <num>a.</num>
+          <text>any State or local government;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>any department, agency, special purpose district, or other instrumentality of a State or States or local government; and;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>the National Railroad Passenger Corporation, and any 	commuter authority (as defined in section 103(8) of the Rail Passenger Service Act).</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The term "QUALIFIED INDIVIDUAL WITH A DISABILITY" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the 	provision of auxiliary aids and services, meets the 	essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0202</num>
+      <heading>Discrimination</heading>
+      <text>Subject to the provisions of <cite path="45">this title</cite>, no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any such entity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0203</num>
+      <heading>Enforcement</heading>
+      <text>The remedies, procedures, and rights set forth in section 505 of the Rehabilitation Act of 1973 (29 U.S.C. 794a) shall be the remedies, procedures, and rights <cite path="45">this title</cite> provides to any person alleging discrimination on the basis of disability in violation of section 202.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0204</num>
+      <heading>Regulations</heading>
+      <para>
+        <num>1.</num>
+        <text>In General. Not later than 1 year after the date of enactment of this Act, the Attorney General shall promulgate regulations in an accessible format that implement this subtitle. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 223, 229, or 244.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Relationship to Other Regulations. Except for "program accessibility, existing facilities," and "communications", regulations under subsection 1 shall be consistent with this Act and with the coordination regulations under part 42 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794). With respect to "program accessibility, existing facilities", and "communications", such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under such section 504.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Standards. Regulations under subsection 1 shall include standards applicable to facilities and vehicles covered by this subtitle, other than facilities, stations, rail passenger cars, and vehicles covered by subtitle B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 504(a) of this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0205</num>
+      <heading>Effective Date</heading>
+      <para>
+        <num>1.</num>
+        <text>General Rule. Except as provided in subsection (b), this subtitle shall become effective 18 months after the date of enactment of this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Exception. Section 204 shall become effective on the date of enactment of this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.03</num>
+    <heading>Public Accommodations and Services Operation by Private Entities</heading>
+    <section>
+      <num>45.0301</num>
+      <heading>Definitions</heading>
+      <text>
+        <strong>45.0302</strong>
+        <strong>
+          <u>Prohibition of discrimination by public accommodations.</u>
+        </strong>
+      </text>
+      <para>
+        <num>a.</num>
+        <text>General Rule. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>Construction.</text>
+      </para>
+      <para>
+        <num>a.</num>
+        <text>General prohibition.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Activities.</text>
+        <para>
+          <num>(a)</num>
+          <text>Denial of participation. It shall be discriminatory to subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of an entity.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Participation in unequal benefit. It shall be discriminatory to afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with the opportunity to participate• in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Separate benefit. It shall be discriminatory to provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Individual or class of individuals. For purposes of clauses (a) through (c) of this subparagraph, the term "INDIVIDUAL OR CLASS OF INDIVIDUALS" refers to the clients or customers of the covered public accommodation that enters into the contractual, licensing or other arrangement.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Integrated settings. Goods, services, facilities, privileges, advantages, and accommodations shall be afforded to an individual with a disability in the most integrated setting appropriate to the needs of the individual.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Opportunity to participate. Notwithstanding the existence of separate or different programs or activities provided in accordance with <cite path="45|45.03|45.0301">this section</cite>, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Administrative methods. An individual or entity shall not, directly or through contractual or other arrangements, utilize standards or criteria or methods of administration</text>
+        <para>
+          <num>(a)</num>
+          <text>that have the effect of discriminating on the basis of disability; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>that perpetuate the discrimination of others who are subject to common administrative control.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Association. It shall be discriminatory to exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>Specific prohibitions.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Discrimination. For purposes of subsection a in <cite path="45|45.03|45.0301">this section</cite>, discrimination includes</text>
+        <para>
+          <num>(a)</num>
+          <text>the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a failure to make reasonable modifications in policies, practices, or procedures, when such modifications are necessary to afford such goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the entity can demonstrate that making such modifications would fundamentally alter the nature of such goods, services, facilities, privileges, advantages, or accommodations;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a failure to take such steps as may be necessary to ensure that no individual with a disability is excluded, denied services, segregated or otherwise treated differently than other individuals because of the 	absence of auxiliary aids and services, unless the entity can demonstrate that taking such steps would fundamentally alter the nature of the good, service, facility, privilege, advantage, or accommodation being offered or would result in an undue burden;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a failure to remove architectural barriers, and communication barriers that are structural in nature, in existing facilities, and transportation barriers in existing vehicles and rail passenger cars used by an establishment for transporting individuals (not including barriers that can only be removed through the retrofitting of vehicles or rail passenger cars by the installation of a hydraulic or other lift), where such removal is readily achievable; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>where an entity can demonstrate that the 	removal of a barrier under clause (iv) is not readily achievable, a failure to make such goods, services, facilities, privileges, advantages, or accommodations available through alternative methods if 	such methods are readily achievable.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Demand responsive system. - For purposes of subsection (a), discrimination includes</text>
+        <para>
+          <num>(a)</num>
+          <text>a failure of a private entity which operates a demand responsive system and which is not subject to section 304 to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the purchase or lease by such entity for use on such system of a vehicle with a seating capacity in excess of 16 passengers (including the driver), for which solicitations are made after the 30th day following the effective date of this subparagraph, that is not readily accessible to and usable by individuals with disabilities (including individuals who use wheelchairs) unless such entity can demonstrate that such system, when viewed in its entirety, provides a level of service to individuals with disabilities equivalent to that provided to individuals without disabilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Over-the-road buses.</text>
+        <para>
+          <num>(a)</num>
+          <text>Limitation on applicability. Subparagraphs 2 and 3 do not apply to over-the-road buses.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accessibility requirements. For purposes of subsection 1, discrimination includes</text>
+          <para>
+            <num>i.</num>
+            <text>the purchase or lease of an over-the-road bus which does not comply with the regulations issued under section 306(a)(2) by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>any other failure of such entity to comply with such regulations.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>Specific Construction. Nothing in <cite path="45">this title</cite> shall 	require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0303</num>
+      <heading>New Construction and Alterations in Public Accommodations and Commercial Facilities</heading>
+      <para>
+        <num>1.</num>
+        <text>Application of Term. Except as provided in subsection (b), as applied to public accommodations and commercial facilities, discrimination for purposes of section 302(a) includes</text>
+        <para>
+          <num>a.</num>
+          <text>a failure to design and construct facilities for first occupancy later than 30 months after the date of enactment of this Act that are readily accessible to and usable by individuals with disabilities, except where an entity can demonstrate that it is structurally impracticable to meet the requirements of such subsection in accordance with standards set forth or incorporated by reference in regulations issued under <cite path="45">this title</cite>; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>with respect to a facility or part thereof that is altered by, on behalf of, or for the use of an establishment in a manner that affects or could affect the usability of the facility or part thereof, a failure to make alterations in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs. Where the entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>accessible to and usable by individuals with disabilities where such alterations to the path 01 travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General). (b) Elevator. - Subsection (a) shall not be construed to require the 	installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0304</num>
+      <heading>Prohibition of Discrimination in Specified Public Transportation Services Provided by Private Entities</heading>
+      <para>
+        <num>1.</num>
+        <text>General Rule. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of specified public transportation services provided by a private entity that is primarily engaged in the business of transporting people and whose operations affect commerce.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Construction. For purposes of subsection (a), discrimination includes</text>
+        <para>
+          <num>a.</num>
+          <text>the imposition or application by a entity described in subsection (a) of eligibility criteria that screen out or tend to screen out an individual with a disability 	or any class of individuals with disabilities from fully enjoying the specified public transportation services provided by the entity, unless such criteria can be shown to be necessary for the provision of the services being offered;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the failure of such entity to</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>make reasonable modifications consistent with those required under <cite path="45|45.03|45.0302">section 45.0302</cite>(b)(2)(a)(ii);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>provide auxiliary aids and services consistent with the requirements of <cite path="45|45.03|45.0302">section 45.0302</cite>(b)(2)(a)(iii); and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>remove barriers consistent with the requirements of <cite path="45|45.03|45.0302">section 45.0302</cite>(b)(2)(a) and with the requirements of <cite path="45|45.03|45.0303">section 45.0303</cite>(a)(2);</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>the purchase or lease by such entity of a new vehicle (other than an automobile, a van with a seating capacity of less than eight (8) passengers, including the driver, or an over-the-road bus) which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of <cite path="45|45.03|45.0304">this section</cite>, that is not .readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; except that the new vehicle need not be readily accessible to and usable by such individuals if the new vehicle is to be used solely in a demand responsive system and if the entity can demonstrate that such system, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>the purchase or lease by such entity of an over-the-road bus which does not comply with the regulations issued under <cite path="45|45.03|45.0306">section 45.0306</cite>(a)(2); and (b) any other failure of such entity to comply with such regulations; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>the purchase or lease by such entity of a new van with a seating capacity of less than 8 passengers, including the driver, which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of <cite path="45|45.03|45.0304">this section</cite> that is not readily accessible to or usable by individuals with disabilities, including individuals who use wheelchairs; except that the new van need not be readily accessible to and usable by such individuals if the entity can demonstrate that the system for which the van is being purchased or leased, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>the purchase or lease by such entity of a new rail passenger car that is to be used to provide specified public transportation, and for which a solicitation is made-later than 30 days after the effective date of this paragraph, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>the remanufacture by such entity of a rail passenger car that is to be used to provide specified public transportation so as to extend its usable life for 10 years or more, or the purchase or lease by such entity of such a rail car, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0305</num>
+      <heading>Study</heading>
+      <para>
+        <num>1.</num>
+        <text>Purposes. The Office of Technology Assessment shall undertake a study to determine</text>
+        <para>
+          <num>a.</num>
+          <text>the access needs of individuals with disabilities to over-the-road buses and over-the-road bus service; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the most cost-effective methods for providing access 	to over-the-road buses and over-the-road bus service to individuals with disabilities, particularly individuals who use wheelchairs, through all forms of boarding options.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Contents. The study shall include, at a minimum, an analysis of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>The anticipated demand by individuals with disabilities for accessible over-the-road buses and over-the-road bus service.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The degree to which such buses and service, including any service required under sections 45.0304(b)(4) and 45.0306(a)(2), are readily accessible to and usable by individuals with disabilities.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The effectiveness of various methods of providing accessibility to such buses and service to individuals with disabilities.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The cost of providing accessible over-the-road buses and bus service to individuals with disabilities, including consideration of recent technological and cost saving developments in equipment and devices.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Possible design changes in over-the-road buses that could enhance accessibility, including the installation of accessible restrooms which do not result in a loss of seating capacity.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The impact of accessibility requirements on the continuation of over-the-road bus service, with particular consideration of the impact of such requirements on such service to rural communities.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Review. In developing the study required by subsection (a), the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792). The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board's receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Interim Accessibility Standards.</text>
+        <para>
+          <num>a.</num>
+          <text>Facilities. If final regulations have not been issued pursuant to <cite path="45|45.03|45.0305">this section</cite>, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under <cite path="45|45.03|45.0305">this section</cite>, shall be enforced by Tribal Employment Rights Ordinance (TERO) Title 32 and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under section 303, except that, if such final regulation have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 504(a) of this Act, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Vehicles and rail passenger cars. If final regulations have not been issued pursuant to <cite path="45|45.03|45.0305">this section</cite>, a private (entity shall be considered to have complied with the requirements of <cite path="45">this title</cite>, if any, that l vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under <cite path="45|45.05|45.0504">section 45.0504</cite>(a) of <cite path="45">this title</cite>) governing accessibility of such vehicles or cars, to the extent 	that such laws and regulations are not inconsistent with <cite path="45">this title</cite> and are in effect at the time such design is substantially completed.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0307</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>1.</num>
+        <text>In General. Availability of remedies and procedures.</text>
+        <para>
+          <num>a.</num>
+          <text>The remedies and procedures set forth in section 204(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000a-3(a)) are the remedies and procedures <cite path="45">this title</cite> provides to any person who is being subjected to discrimination on the basis of disability in violation of <cite path="45">this title</cite> or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 303. Nothing in <cite path="45|45.03|45.0307">this section</cite> shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by <cite path="45">this title</cite> does not intend to comply with its provisions.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Injunctive relief. In the case of violations of <strong>sections 302(b)(2)(A)(iv) and section 303(a)</strong>, injunctive relief shall include an order to alter facilities to make Such facilities readily accessible to and usable by individuals with disabilities to the extent required by <cite path="45">this title</cite>. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by <cite path="45">this title</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Enforcement by the Attorney General.</text>
+        <para>
+          <num>a.</num>
+          <text>Denial of rights.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Duty to investigate.</text>
+          <para>
+            <num>(a)</num>
+            <text>In general. The Attorney General shall investigate alleged violations of <cite path="45">this title</cite>, and shall undertake periodic reviews of compliance of covered entities under <cite path="45">this title</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Attorney general certification. On the application of a State or local government, the Attorney General may, in consultation with the Architectural and Transportation Barriers Compliance Board, and after prior notice and a public hearing at which persons, including individuals with disabilities, are provided an opportunity to testify against such certification, certify that a State law or local building code or similar ordinance that establishes accessibility requirements meets or exceeds the minimum requirements of this Act for the accessibility and usability of covered facilities under <cite path="45">this title</cite>. At any enforcement proceeding under <cite path="45|45.03|45.0307">this section</cite>, such certification by the Attorney General shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Potential violation. If the Attorney General has reasonable cause to believe that</text>
+          <para>
+            <num>(a)</num>
+            <text>any person or group of persons is engaged in a pattern practice of discrimination under <cite path="45">this title</cite>; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>any person or group of persons has been discriminated against under <cite path="45">this title</cite> and such discrimination raises an issue of general public importance, the Attorney General may commence a civil action in any appropriate United States district court.</text>
+          </para>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Authority of court. In a civil action under paragraph (1) (b), the court</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>may grant any equitable relief that such court considers to be appropriate, including, to the extent required by <cite path="45">this title</cite></text>
+          <para>
+            <num>(a)</num>
+            <text>granting temporary, preliminary, or permanent relief;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>providing an auxiliary aid or service, modification of policy, practice, or procedure, or alternative method; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>making facilities readily accessible to and usable by individuals with disabilities;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>may award such other relief as the court considers to be appropriate, including monetary damages to persons aggrieved when requested by the Attorney General; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>may, to vindicate the public interest, assess a civil penalty against the entity in an amount</text>
+          <para>
+            <num>a.</num>
+            <text>not exceeding $50,000 for a first violation; and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>not exceeding $100,000 for any subsequent violation.</text>
+          </para>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Single violation. For purposes of paragraph (2)(c), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Punitive damages. For purposes of subsection (b)(2)(b), the term "monetary damages" and "such other relief" does not include punitive damages.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Judicial consideration. In a civil action under paragraph (1)(b), the court, when considering what 	amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this Act by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0309</num>
+      <heading>Examinations and Courses</heading>
+      <text>Any person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0310</num>
+      <heading>Effective Date</heading>
+      <para>
+        <num>1.</num>
+        <text>General Rule. Except as provided in subsections (b) and (c), <cite path="45">this title</cite> shall become effective immediately after the date of the enactment of this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Civil Actions. Except for any civil action brought for a violation of <cite path="42|42.03|42.0303">section 42.0303</cite>,no civil action shall be brought for any act or omission described in <cite path="42|42.03|42.0302">section 42.0302</cite> which occurs</text>
+        <para>
+          <num>a.</num>
+          <text>during the first 6 months after the effective date, against businesses that employ 25 or fewer employees and have gross receipts of $1,000,000 or less; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>during the first year after the effective date, against businesses that employ 10 or fewer employees and have gross receipts of $500,000 or less.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Exception. Sections 42.0302(a) for purposes of <cite path="42|42.03|42.0302">section 42.0302</cite>(b)(2)(b) and(c)only, 42.0304(a) for the purpose of <cite path="42|42.03|42.0304">section 42.0304</cite>(b)(3) only, 42.0304(b)(3),42.0305,and 42.0306 shall take effect on the date of the enactment of this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.04</num>
+    <heading>Telecommunications</heading>
+    <section>
+      <num>45.0401</num>
+      <heading>Telecommunications Relay Services for Hearing Impaired and Speech; Impaired Individuals</heading>
+      <para>
+        <num>1.</num>
+        <text>Telecommunications. Title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) is amended by adding at the end thereof the following new section:</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0402</num>
+      <heading>Telecommunications Services for Hearing Impaired and Speech; Impaired Individuals</heading>
+      <para>
+        <num>1.</num>
+        <text>Definitions. As used in <cite path="45|45.04|45.0402">this section</cite>:</text>
+        <para>
+          <num>a.</num>
+          <text>The term "COMMON CARRIER" or "CARRIER" includes any common carrier engaged in interstate communication by wire or radio as defined in section 3(b)	and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 2(b) and 221(b).</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The term "TDD" means a Telecommunications Device for the Deaf, which is a machine that employs graphic communication in the transmission of coded signals through a wire or radio communication system.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The term "TELECOMMUNICATIONS RELAY SERVICES" means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other non voice terminal device and an individual who does not use such a device.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Availability of Telecommunications Relay Services.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. In order to carry out the purposes established under section 1, to make available to all individuals in the United States a rapid, efficient nationwide communication service, and to increase the utility of the telephone system of the Nation, the Commission shall ensure that interstate and intrastate telecommunications relay services are available, to the extent possible and in the most efficient manner, to hearing-impaired and speech-impaired individuals in the United States.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Use of General Authority and Remedies. For the purposes of administering and enforcing the provisions of <cite path="45|45.04|45.0402">this section</cite> and the regulations prescribed there under, the Commission shall have the same authority, power, and 	functions with respect to common carriers engaged in intrastate communication as the Commission has in administering and enforcing the provisions of <cite path="45">this title</cite> with respect to any common carrier engaged in interstate communication. Any violation of <cite path="45|45.04|45.0402">this section</cite> by any common 	carrier engaged in intrastate communication shall be subject to the same remedies, penalties, and procedures as are applicable to a violation of this Act by a common carrier engaged in interstate communication.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Provision of Services. - Each common carrier providing telephone voice transmission services shall, not later than 3 years after the date of enactment of <cite path="45|45.04|45.0402">this section</cite>, provide in compliance with the regulations prescribed under <cite path="45|45.04|45.0402">this section</cite>, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with other carriers. A common carrier shall be considered to be in compliance with such regulations</text>
+        <para>
+          <num>a.</num>
+          <text>with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (t) and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d); or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (t) for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (t) for such State.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Regulations.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The Commission shall, not later than 1 year after the date of enactment of <cite path="45|45.04|45.0402">this section</cite>, prescribe regulations to implement <cite path="45|45.04|45.0402">this section</cite>, including regulations that</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>establish functional requirements, guidelines, and operations procedures for telecommunications relay services;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>establish minimum standards that shall be met in carrying out subsection (c);</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>require that telecommunications relay services operate every day for 24 hours per</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>require that users of telecommunications relay services pay rates no greater than the rates paid for functionally equivalent voice communication services with respect to such factors as the duration of the call, the time of day, and the distance from point of origination to point of termination;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>prohibit relay operators from failing to fulfill the obligations of common carriers by refusing calls or limiting the length of calls that use telecommunications relay services;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>prohibit relay operators from disclosing the content of any relayed conversation and from keeping records of the content of any such conversation beyond the duration of the call; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>prohibit relay operators from intentionally altering a relayed conversation.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Technology. The Commission shall ensure that regulations prescribed to implement <cite path="45|45.04|45.0402">this section</cite> encourage, consistent with section 7(a) of this Act, the use of existing technology and do not discourage or impair the development of-improved technology.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Jurisdictional separation of costs.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>In general. Consistent with the provisions of section 420 of this Act, the Commission shall prescribe regulations governing the jurisdictional separation of costs for the services provided pursuant to <cite path="45|45.04|45.0402">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Recovering costs. Such regulations shall generally provide that costs caused by interstate telecommunications relay services shall be recovered from all subscribers for every interstate service and costs caused by intrastate telecommunications relay services shall be recovered from the intrastate jurisdiction. In a State that has a certified program under subsection (0, a State commission shall permit a common carrier to recover the costs incurred in providing intrastate telecommunications relay services by a method consistent with the requirements of <cite path="45|45.04|45.0402">this section</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Enforcement.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. Subject to subsections (d) and (g), the Commission shall enforce <cite path="45|45.04|45.0402">this section</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Complaint. The Commission shall resolve, by final order, a complaint alleging a violation of <cite path="45|45.04|45.0402">this section</cite> within 180 days after the date such complaint is filed.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Certification.</text>
+        <para>
+          <num>a.</num>
+          <text>State documentation. Any State desiring to establish a State program under <cite path="45|45.04|45.0402">this section</cite> shall submit documentation 	to the Commission that describes the program of such State for implementing intrastate telecommunications relay services and the procedures and remedies available for enforcing any requirements imposed by the State program.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Requirements for certification. After review of such documentation, the Commission shall certify the State program if the Commission determines that</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>the program makes available to bearing-impaired and speech- impaired individuals, either directly, through designees, through a competitively selected vendor, or through regulation of intrastate common carriers, intrastate telecommunications relay services in such State in a manner that meets or exceeds the requirements of regulations prescribed by the Commission under subsection (d); and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the program makes available adequate procedures and remedies for enforcing the requirements of the State program.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Method of funding. Except as provided in subsection (d), the Commission shall not refuse to certify a State program based solely on the method such State will implement for funding intrastate telecommunication relay services.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Suspension or revocation of certification. The Commission may suspend or revoke such certification if, after notice and opportunity for hearing, the Commission determines that such certification is no longer warranted. In a State whose 	program has been suspended or revoked, the Commission shall take such steps as may be necessary, consistent with <cite path="45|45.04|45.0402">this section</cite>, to ensure continuity of telecommunications relay services.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Complaint.</text>
+        <para>
+          <num>a.</num>
+          <text>Referral of complaint. If a complaint to the Commission alleges a violation of <cite path="45|45.04|45.0402">this section</cite> with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) is in effect, the Commission shall refer such complaint to such State.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Jurisdiction of commission. After referring a complaint to a State under paragraph (1), the Commission shall exercise jurisdiction over such complaint only if</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>final action under such State program has not been taken on such complaint by such State</text>
+          <para>
+            <num>(a)</num>
+            <text>within 180 days after the complaint is filed with such State; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>within a shorter period· as prescribed by the regulations of such State; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the Commission determines that such State program is no longer qualified for certification under subsection (f).</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Conforming Amendments. The Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended</text>
+        <para>
+          <num>a.</num>
+          <text>in section 2(b) (47 U.S.C. 152(b), by striking "section 224" and inserting "sections 224 and 225"; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>in section 221(b) (47 U.S.C. 221(b), by striking "section 301" and inserting "sections 225 and 301".</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0403</num>
+      <heading>Closed-Captioning of Public Service Announcements</heading>
+      <text>Section 711 of the Communications Act of 1934 is amended to read as follows:</text>
+      <text>"Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee</text>
+      <para>
+        <num>1.</num>
+        <text>shall not be required to supply closed captioning for any such announcement that fails to include it; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee 	intentionally fails to transmit the closed caption that was 	included with the announcement."</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>45.05</num>
+    <heading>Miscellaneous Provisions</heading>
+    <section>
+      <num>45.0501</num>
+      <heading>Construction</heading>
+      <para>
+        <num>1.</num>
+        <text>In General. Except as otherwise provided in this Act, nothing in this Act shall be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 790 et seq.) or the regulations issued by Federal agencies pursuant to such title.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Relationship to Other Laws. Nothing in this Act shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this Act. Nothing in this Act shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by title I, in transportation covered by title n or ill, or in places of public accommodation covered by Title III.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Insurance. Titles I through IV of this Act shall not be construed to prohibit or restrict</text>
+        <para>
+          <num>a.</num>
+          <text>an insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>a person or organization covered by this Act from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>a person or organization covered by this Act from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance. Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purposes of title I and m</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Accommodations and Services. Nothing in this Act shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit which such individual chooses not to accept.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0502</num>
+      <heading>State Immunity</heading>
+      <text>A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0503</num>
+      <heading>Prohibition Against Retaliation and Coercion</heading>
+      <para>
+        <num>1.</num>
+        <text>Retaliation. No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this Act or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Interference, Coercion, or Intimidation. It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by this Act.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Remedies and Procedures. The remedies and procedures available under sections 42.0107, 42.0203, and 42.0308 of this Act shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to title I, title n and title m, respectively.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0504</num>
+      <heading>Regulations by the Architectural and Transportation Barriers Compliance Board</heading>
+      <para>
+        <num>1.</num>
+        <text>General rule. Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall issue regulations in an accessible format to carry out sections 42.0302(b)(2)(b) and (c) and to carry out <cite path="42|42.03|42.0304">section 42.0304</cite> (other than subsection (b)(4). (2) Special rules for providing access to over-the-road buses.</text>
+        <para>
+          <num>a.</num>
+          <text>Interim requirements.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Issuance. Not later than 1 year after the date of the enactment of this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Qualified Historic Properties.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The supplemental guidelines issued under subsection (a) shall include pro Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of chapters 2 and 3 of <cite path="45">this title</cite>.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Contents of Guidelines. The supplemental guidelines issued under this subsection shall establish additional requirements, consistent with this Act, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to ind), the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7 (1) and (2) of the Uniform Federal Accessibility Standards and shall be enforced by TERO</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Other sites. With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1) (b) and (c) of the Uniform Federal Accessibility Standards, and 	shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0505</num>
+      <heading>Attorney's Fees</heading>
+      <text>In any action or administrative proceeding commenced pursuant to this Act, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0506</num>
+      <heading>Technical Assistance</heading>
+      <para>
+        <num>1.</num>
+        <text>Plan for Assistance.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. Not later than 180 days after the date of enactment of this Act, The Attorney General, in consultation with the Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this Act, and other Federal agencies, in understanding the responsibility of such entities and agencies under this Act and a copy will be 	provided to TERO.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Publication of plan. The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of title 5, United States Code (commonly known as the Administrative Procedure Act).  (NOTE: the TMBCI has since adopted its own UCC, which is Title 24, and which is essentially adopting the USC.  Parts of the Tribal Administrative Procedures Act have been imputed into <cite path="45">this Title</cite> as well as Title 24.)</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Agency and Public Assistance. The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a), including the National Council on Disability, the President's Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Implementation.</text>
+        <para>
+          <num>a.</num>
+          <text>Rendering assistance. Each Federal agency that has responsibility under paragraph (2) for implementing this Act may render technical assistance to individuals and institutions that have rights or duties under the respective title or titles for which such agency has 	responsibility.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Implementation of titles.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Title I. The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a), for title</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Title II.</text>
+          <para>
+            <num>(a)</num>
+            <text>Subtitle a. The Attorney General shall implement such plan for assistance for subtitle A of title II.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Subtitle b. - The Secretary of Transportation shall implement such plan for assistance for subtitle B of title IL</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Title III. The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for title ill, except for Section 304, the plan for assistance for which shall be implemented by the Secretary of Transportation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Title IV. The Chairman of the Federal Communications Commission, in coordination with the Attorney General, shall implement such plan for assistance for title IV.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Technical assistance manuals. Each Federal agency that has responsibility under paragraph (2) for implementing this Act shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this Act no later than 	six months after applicable final regulations are published under titles I, II, III and IV.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Grants and Contracts.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. Each Federal agency that has responsibility under subsection (c)(2) for implementing this Act may make 	grants or award contracts to effectuate the purposes of 	<cite path="45|45.05|45.0506">this section</cite>, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of 	any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this Act. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or grants described in this paragraph.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Dissemination of information. Such grants and contracts, among other uses, may be designed to ensure wide dissemination of information about the rights and duties established by this Act and to provide information and technical assistance about techniques for effective compliance with this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Failure to Receive Assistance. An employer, public accommodation, or other entity covered under this Act shall not be excused from compliance with the requirements of this Act because of any failure to receive technical assistance under <cite path="45|45.05|45.0506">this section</cite>, including any failure in the development or dissemination of any technical assistance manual authorized by <cite path="45|45.05|45.0506">this section</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0507</num>
+      <heading>Federal Wilderness Areas</heading>
+      <para>
+        <num>1.</num>
+        <text>Study. The National Council on Disability shall conduct a study and report on the effect that wilderness designations and wilderness land management practices have on the ability of individuals with disabilities to use and enjoy the National Wilderness Preservation System as established under the Wilderness Act (16 U.S.C. 1131 et seq.).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Submission of Report Not later than 1 year after the enactment of this Act, the National Council on Disability shall submit the report required under subsection (a) to Congress.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Specific Wilderness Access.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. Congress reaffirms that nothing in the Wilderness Act is to be construed as prohibiting the use of a wheelchair in a wilderness area by an individual whose disability requires use of a wheelchair, and consistent with the Wilderness Act no agency is required to provide any form of special treatment or accommodation, or to construct any facilities or modify any conditions of lands 	within a wilderness area in order to facilitate such use.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Definition. For purposes of paragraph (1), the term "wheelchair" means a device designed solely for use by a mobility-impaired person for locomotion, that is suitable for use in an indoor pedestrian area.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0508</num>
+      <heading>Coverage of Congress and the Agencies of the Legislative Branch</heading>
+      <text>As adopted under Tribal Resolution enforcement will be mandated by this act and will become law of the Land.</text>
+      <para>
+        <num>1.</num>
+        <text>Coverage of the Senate.</text>
+        <para>
+          <num>a.</num>
+          <text>Commitment to Rule XLII. The Senate reaffirms its commitment to Rule XLll of the Standing Rules of the Senate which provides as follows: "No member, officer, or employee 	of the Senate shall, with respect to employment by the Senate or any office thereof</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>fail or refuse to hire an individual;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>discharge an individual; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>otherwise discriminate against an individual with respect to promotion, compensation, or terms, conditions, or privileges of employment on the basis of such individual's race, color, religion, sex, national origin, age, or state of physical handicap.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Application to Senate employment - The rights and protections provided pursuant to this Act, the Civil Rights Act of 1990 (S. 2104, 101st Congress), the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, and the Rehabilitation Act of 1973 shall apply with respect to employment by the United States Senate.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Investigation and adjudication of claims. All claims raised by any individual with respect to Senate employment, pursuant to the Acts referred to in paragraph (2), shall be investigated and adjudicated by the Select Committee on Ethics, pursuant to S. Res. 338, 88th Congress, as amended, or such other entity as the Senate may designate.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Rights of employees. The Committee on Rules and Administration shall ensure that Senate employees are informed of their rights under the Acts referred to in paragraph (2).</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Applicable Remedies. When assigning remedies to individuals found to have a valid claim under the Acts referred to in paragraph (2), the Select Committee on Ethics, or such other entity as the Senate may designate, 	should to the extent practicable apply the same remedies applicable to all other employees covered by the Acts referred to in paragraph (2). Such remedies shall apply 	exclusively.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Matters Other Than Employment.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>In General. The rights and protections under this Act shall, subject to subparagraph (b), apply with respect to the conduct of the Senate regarding matters other than employment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Remedies. The Architect of the Capitol shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to subparagraph (A). Such remedies and procedures shall apply exclusively, after approval in accordance with subparagraph (c).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Proposed remedies and procedures. For purposes of subparagraph (B), the Architect of the Capitol shall submit proposed remedies and procedures to the Senate Committee on Rules and Administration. The remedies and procedures shall be effective upon the approval of the Committee on Rules and Administration.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Exercise of rulemaking power. Notwithstanding any other provision of law, enforcement and adjudication of the rights and protections referred to in paragraph (2) and (6)(a) shall be within the exclusive jurisdiction of the United States Senate. The provisions of paragraph (1), (3), (4), (5), (6)(b), and (6)(c) are enacted by the Senate as an exercise of the rulemaking power of the Senate, with 	full recognition of the right of the Senate to change its 	rules, in the same manner, and to the same extent, as in the case of any other rule of the Senate.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Coverage of the House of Representatives.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. Notwithstanding any other provision of this Act or of law, the purposes of this Act shall, subject to paragraphs (2) and (3), apply in their entirety to the House of Representatives.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Employment in the house.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Application. The rights and protections under this Act shall, subject to subparagraph (b), apply with respect to any employee in an employment position in the House of Representatives and any employing authority of the House of Representatives.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Administration.</text>
+          <para>
+            <num>(a)</num>
+            <text>In general. In the administration of this paragraph, the remedies and procedures made applicable pursuant to the resolution described in clause (2) shall apply exclusively.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Resolution. The resolution referred to in clause (1) is House Resolution 15 of the One Hundred First Congress, as agreed to January 3, 1989, or any other provision that continues in effect the provisions of, or is a successor to, the Fair Employment Practices Resolution (House Resolution 558 of the One Hundredth Congress, as agreed to October 4, 1988).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Exercise of rulemaking power. - The provisions of subparagraph (b) are enacted by the House of Representatives as an exercise of the rulemaking power of the House of Representatives, with full recognition of the right of the House to change its rules, in the same manner, and to the same extent as in the case of any other rule of the House.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Matters other than employment.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>In general. The rights and protections under this Act shall, subject to subparagraph (b), apply with respect to the conduct of the House of Representatives regarding matters other than employment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Remedies. The Architect of the Capitol shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to subparagraph (A). Such remedies and procedures shall apply exclusively, after approval in accordance with subparagraph (c).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Approval. For purposes of subparagraph (b), the Architect of the Capitol shall submit proposed remedies and procedures to the Speaker of the House of Representatives. The remedies and procedures shall be effective upon the approval of the Speaker, after consultation with the House Office Building Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Instrumentalities of Congress.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The rights and protections under this Act shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Establishment of remedies and procedures by instrumentalities. The chief official of each instrumentality of the Congress shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to paragraph (1). Such remedies and procedures shall apply exclusively.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Report to congress. The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Definition of instrumentalities. For purposes of <cite path="45|45.05|45.0508">this section</cite>, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the United States Botanic Garden.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Construction. Nothing in <cite path="45|45.05|45.0508">this section</cite> shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0509</num>
+      <heading>Illegal Use of Drugs</heading>
+      <para>
+        <num>1.</num>
+        <text>In General. For purposes of this Act, the term "individual with a disability" does not include an individual who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Rules of Construction. Nothing in subsection (a) shall be construed to exclude as an individual with a disability an individual who</text>
+        <para>
+          <num>a.</num>
+          <text>has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>is participating in a supervised rehabilitation program and is no longer engaging in such use; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>is erroneously regarded as engaging in such use, but is not engaging in such use; except that it shall not be a violation of this Act for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs; however, nothing in <cite path="45|45.05|45.0509">this section</cite> shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Health and Other Services. - Notwithstanding subsection (a) and section 511(b)(3), an individual shall not be denied health services, or services provided in connection with drug rehabilitation, on the basis of the current illegal use of drugs if the individual is otherwise entitled to such services.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Definition of illegal use of drugs.</text>
+        <para>
+          <num>a.</num>
+          <text>In general. The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act (21 U.S.C. 812). Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Drugs. The term "drug" means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0510</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>Homosexuality and Bisexuality. For purposes of the definition of "disability" in section 3(2) homosexuality and bisexuality are not impairments and as such are not disabilities under this Act.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Certain Conditions. Under this Act, the term "disability" shall not include</text>
+        <para>
+          <num>a.</num>
+          <text>transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from 	physical impairments, or other sexual behavior disorders;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>compulsive gambling, kleptomania, or pyromania; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>psychoactive substance use disorders resulting from current illegal use of drugs.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0511</num>
+      <heading>Amendments to the Rehabilitation Act</heading>
+      <para>
+        <num>1.</num>
+        <text>Definition of Handicapped Individual. Section 7(8) of the Rehabilitation Act of 1973 (29 U.S.C. 706(8) is amended by redesignating subparagraph (C) as subparagraph (D), and by inserting after subparagraph (B) the following subparagraph: "(C)(i) For purposes of title V, the term 'individual with handicaps' does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use. "(ii) Nothing in clause (i) shall be construed to exclude as an individual with handicaps an individual who</text>
+        <para>
+          <num>a.</num>
+          <text>has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>is participating in a supervised rehabilitation program and is no longer engaging in such use; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>is erroneously regarded as engaging in such use, but is not engaging in such use; except that it shall not be a 	violation of this Act for a covered entity to adopt or administer reasonable policies Or procedures, including but not limited to drug testing, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under titles I, n and ill, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>For purposes of programs and activities providing educational services, local educational agencies may take disciplinary action pertaining to the use or possession of illegal drugs or alcohol against any handicapped student who currently is engaging in the illegal use of drugs or in the use of alcohol to the same extent that such disciplinary action is taken against non handicapped 	students. Furthermore, the due process procedures at 34 CFR 104.36 shall not apply to such disciplinary actions.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>For purposes of sections 503 and 504 as such sections relate to employment, the term 'individual with handicaps' does not include any individual who is an alcoholic whose current use of alcohol prevents such individual from 	performing the duties of the job in question or whose employment, by reason of such current alcohol abuse, would constitute a direct threat to property or the safety of others.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Definition of illegal Drugs. Section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 706) is amended by adding at the end the following new paragraph:</text>
+        <para>
+          <num>a.</num>
+          <text>The term 'drug' means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U .S.C. 812).</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The term 'illegal use of drugs' means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law".</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Conforming Amendments. Section 7(8)(B) of the Rehabilitation Act of 1973 (29 U.S.C. 706(8)(B) is amended - (1) in the first sentence, by striking "Subject to the second sentence of this subparagraph," and inserting "Subject to subparagraphs (C) and (D); and (2) by striking the second sentence.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0512</num>
+      <heading>Alternative Means of Dispute Resolution</heading>
+      <text>Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, fact finding, mini trials, and arbitration, is encouraged to resolve disputes arising under this Act.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0513</num>
+      <heading>Severability</heading>
+      <text>Should any provision in this Act be found to be unconstitutional by a court of law, such provision shall be severed from the remainder of the Act, and such action shall not affect the enforceability of the remaining provisions of the Act.</text>
+      <text>Individuals residing within the Jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation will be afforded the same opportunities and enforcement under this ADA Act and other Civil Rights Acts.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>7</num>
+  <heading>Contracts</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>7.0101</num>
+      <heading>Definition</heading>
+      <text>A contract is an agreement upon sufficient consideration, to do or not to do a particular thing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0102</num>
+      <heading>Essential Elements of a Contract</heading>
+      <text>The requirements necessary in forming a contract are:</text>
+      <para>
+        <num>1.</num>
+        <text>Two (2) or more parties legally capable of contracting;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Their consent;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A lawful object; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Consideration or sufficient cause.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0103</num>
+      <heading>Law of Place Applied to Contracts</heading>
+      <text>A contract is to be interpreted according to the law and usage of the place where it is to be performed or, if it does not indicate a place or performance, according to the law and usage of the place where it is made, unless otherwise stated in the contract.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0104</num>
+      <heading>Time of Performance</heading>
+      <text>If no time is specified for the performance of an act, a reasonable time is allowed. If the act is capable of being done instantly, such as payment of money, it must be performed immediately when due and ascertained.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0105</num>
+      <heading>Pre-Existing Duty Sufficient as Consideration</heading>
+      <text>No pre-existing duty imposed by law or contract shall be considered on a subsequent contract.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.02</num>
+    <heading>Parties</heading>
+    <section>
+      <num>7.0201</num>
+      <heading>Persons Capable of Contracting</heading>
+      <text>All persons are capable of contracting except minors and persons of unsound mind. Minors have only such capacity as is specified in the statutes relating to them.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0202</num>
+      <heading>Contract of a Minor</heading>
+      <text>The contract of a minor, if made while he is under the age of eighteen (18), may be disaffirmed by the minor himself either before his majority or within one (1) year's time afterwards.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0203</num>
+      <heading>Disaffirmance of Contract by Minor</heading>
+      <text>A minor cannot disaffirm a contract otherwise valid to pay the reasonable value of things necessary for his support or that of his family entered into by him when not under the care of a parent or guardian able to provide for him or them.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0204</num>
+      <heading>Beneficiary of Contract Made by Others</heading>
+      <text>A contract made expressly for the benefit of a third person may be enforced by him at any time before the parties rescind such contract.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.03</num>
+    <heading>Consent</heading>
+    <section>
+      <num>7.0301</num>
+      <heading>Essential Elements of Consent</heading>
+      <text>Consent of the parties to a contract must be:</text>
+      <para>
+        <num>1.</num>
+        <text>Free;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Mutual; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Communicated by each to the other.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0302</num>
+      <heading>Contract Voidable</heading>
+      <text>Consent which is not free is not void, but voidable, and may be rescinded in the manner prescribed by the statutes on rescission. An apparent consent is not real or free and is voidable when obtained through:</text>
+      <para>
+        <num>1.</num>
+        <text>Duress;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Fraud;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Undue influence; or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Mistake.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0303</num>
+      <heading>Communication of Acceptance</heading>
+      <text>An offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances, unless the offer clearly and expressly indicates, by its language or circumstances involved, that a specific method of acceptance is required.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0304</num>
+      <heading>Acceptance Deemed Complete</heading>
+      <text>Consent is deemed to be fully communicated between the parties as soon as the party accepting the offer has put his acceptance in the course of transmission to the party making the offer in conformity to <cite path="7|7.03|7.0303">Section 7.0303</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0305</num>
+      <heading>Acceptance Different from Offer; Counteroffer</heading>
+      <text>A definite expression of acceptance or a written confirmation which is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those offered or agreed upon, unless acceptance is expressly made conditional on assent to the additional or different terms.</text>
+      <text>Any acceptance that materially changes the offer is a counteroffer that must be accepted by the original offeror to form a contract.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0306</num>
+      <heading>Withdrawal of Offer</heading>
+      <text>An offer may be withdrawn at any time before its acceptance is communicated to the party making the offer, but not afterwards.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0307</num>
+      <heading>Withdrawal Completed</heading>
+      <text>An offer is withdrawn:</text>
+      <para>
+        <num>1.</num>
+        <text>By communication of notice of withdrawal by the party making the offer to the other party, and received by him, in the manner prescribed for communication of consent and acceptance, before his acceptance has been communicated to the former;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>By the lapse of time prescribed in such offer for its acceptance, or if no time is so prescribed, the lapse of a reasonable time without communication of acceptance; or beginning of performance if the reasonable method of acceptance;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>By the failure of the acceptor to fulfill a condition precedent to acceptance; or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>By the death or insanity of the offeror before acceptance of the offer.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0308</num>
+      <heading>Voluntary Acceptance of Benefits; Presumption of Consent</heading>
+      <text>A voluntary acceptance of the benefit of a transaction is equivalent to consent to all the obligations arising from it so far as the facts are known, or ought to be known, to the party accepting.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.04</num>
+    <heading>Object</heading>
+    <section>
+      <num>7.0401</num>
+      <heading>Definition</heading>
+      <text>The object of a contract is the thing which the party receiving the consideration agrees to do or not to do.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0402</num>
+      <heading>Requirements of Object</heading>
+      <text>The object of a contract must be lawful when the contract is made and possible and capable of being determined by the time the contract is to be performed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0403</num>
+      <heading>Object Single but Unlawful, Impossible or Unascertainable; Contract Void</heading>
+      <text>Where a contract has only a single object and such object is unlawful in whole or in part, or wholly impossible of performance, or so vaguely expressed as to be wholly ascertainable, the entire contract is void.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0404</num>
+      <heading>Several Objects; Part Unlawful</heading>
+      <text>Where a contract has several distinct objects, one (1) or more of which are lawful and one (1) or more of which are unlawful in whole or in part, the contract is void as to the unlawful objects and valid as to the rest, if performance of the contract is possible after the exclusion of the unlawful part or parts.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.05</num>
+    <heading>Consideration</heading>
+    <section>
+      <num>7.0501</num>
+      <heading>Consideration Defined</heading>
+      <text>Consideration is the price bargained for and paid for a promise. It may consist of an act, a forbearance, or a return promise.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0502</num>
+      <heading>Sufficiency of Consideration</heading>
+      <text>The test of a sufficient consideration is whether the act, forbearance, or return promise results in a benefit to the promisor or a detriment to the promisee.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0503</num>
+      <heading>Adequacy of Consideration</heading>
+      <text>Consideration must be of some legal value. If there is no detriment or benefit, then the contract is without value.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0504</num>
+      <heading>Substitutes for Consideration</heading>
+      <text>The following shall be substitutes for consideration:</text>
+      <para>
+        <num>1.</num>
+        <text>A promise to perform a legal duty created in a past transaction and owing to the promisee is enforceable without new consideration.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the promisee reasonably relied on promisor's promise to his detriment or forbearance, the contract will be enforced.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0505</num>
+      <heading>Presumption of Consideration; Written Contract</heading>
+      <text>A written instrument is presumptive evidence of a consideration.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0506</num>
+      <heading>Burden of Proof; Want of Consideration</heading>
+      <text>The burden of showing a want of consideration sufficient to support an instrument lies with the party seeking to invalidate or avoid it.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.06</num>
+    <heading>Formation of Contract</heading>
+    <section>
+      <num>7.0601</num>
+      <heading>Expressed or Implied Contracts; Definitions</heading>
+      <text>A contract is either expressed or implied.</text>
+      <text>An express contract is one in which the terms are stated in words.</text>
+      <text>An implied contract is one in which the existence and terms of which are manifested by conduct.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0602</num>
+      <heading>Oral or Written Contracts</heading>
+      <text>All contracts may be oral, except such as are specially required by statute to be in writing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0603</num>
+      <heading>Written Contracts Required</heading>
+      <text>The following contracts shall not be enforceable by action unless the same or some memorandum thereof be in writing and subscribed by the party to be charged or his agent, thereunto authorized by law:</text>
+      <para>
+        <num>1.</num>
+        <text>An agreement that by its terms is not to be performed within a year from the making thereof;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An agreement made upon consideration of marriage, other than a mutual promise to marry;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An agreement for the sale of real estate or an interest therein or lease of the same for a period longer than one (1) year, but this does not abridge the power of the Tribal Court to compel specific performance of any agreement for the sale of real estate in case of part performance thereof;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A contract of sale or to sell any personal property of the value of five hundred dollars ($500) or upward unless the buyer shall actually receive and accept part of the personal property sold or contracted, or give something in earnest or part payment to bind the bargain. These provisions apply to every sale or contract of sale of personal property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0604</num>
+      <heading>Prevention of Written Contract by Fraud or Deceit; Oral Agreement May Be Enforced</heading>
+      <text>Where a contract which is required to be in writing is prevented from being put into writing by the fraud or deceit of a party thereto, any other party who is prejudiced by such fraud may enforce it against the fraudulent party.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0605</num>
+      <heading>Public Auction Sales; Memorandum of Auctioneer Satisfies</heading>
+      <text>When a sale is made by public auction of any real or personal property, and entry by the auctioneer or clerk of sale, in his sale book at the time of the sale of the kind of property sold and description other of sufficient for identification, the terms of sale, the price, and the name or names of the purchaser and person on whose account the sale is to be made, is sufficient memorandum to satisfy the requirements in <cite path="7|7.06|7.0606">Section 7.0606</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0606</num>
+      <heading>Parole Evidence Rule</heading>
+      <text>Terms which are set forth in writing, intended by the parties as a final expression of their agreement with respect to such terms as are included therein, may not be contradicted by evidence of a prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:</text>
+      <para>
+        <num>1.</num>
+        <text>By evidence of prior course of dealing between the parties; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>By evidence of terms as they are defined by the common usage peculiar to the subject of the contract; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>By evidence of consistent additional terms unless the Court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.07</num>
+    <heading>Unlawful Contract Provisions</heading>
+    <section>
+      <num>7.0701</num>
+      <heading>Contracts Against Public Policy</heading>
+      <text>All contracts which have for their object, directly or indirectly, to exempt anyone from responsibility for property of another or from violation of law whether willful or negligent, are against the policy of the law and are void.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0702</num>
+      <heading>Fixing Amount of Damages Void; Exception</heading>
+      <text>Every contract in which the amount of damage or compensation for breach of an obligation is determined in anticipation thereof is void to that extent, except the parties may agree therein upon an amount presumed to be the damage for breach in cases where it would be impractical or extremely difficult to fix actual damages.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0703</num>
+      <heading>Restraint of Legal Proceedings; Void</heading>
+      <text>Every provision in a contract restricting a party from enforcing his rights under it by usual legal proceedings in Court or limiting his time to do so is void.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0704</num>
+      <heading>Provisions in Restraint of Trade, Business or Profession; Sales of Good Will; Partnership Restraint; Employer's Contracts</heading>
+      <text>Every contract restraining exercise of a lawful profession, trade or business is void to that extent except:</text>
+      <para>
+        <num>1.</num>
+        <text>One who sells the good will of a business may agree with the buyer to refrain from carrying on a similar business within a specified reservation, or part thereof, so long as the buyer or person deriving title to the good will from him carries on a like business therein;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Partners may, upon or in anticipation of a dissolution of the partnership, agree that none of them will carry on a similar business within the same reservation, or part thereof, where the partnership business had been transacted;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any employee may agree with an employer at the time of employment or at any time during such employment not to engage directly or indirectly in the same business or profession as that of his employer for any period not exceeding five (5) years from the date of such agreement or within the boundaries of the same reservation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0705</num>
+      <heading>Usurious Contracts</heading>
+      <text>Usury to real estate loans is the exaction of interest on a loan of money six percentage (6%) points above the average time certificate of deposit rate at lending institutions computed annually; and is applicable to State Usury Laws on other contracts to non-institutionalized lenders.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0706</num>
+      <heading>Effect of Illegality</heading>
+      <text>The law will aid neither party to an illegal contract. If it is executory, neither party may enforce it. If executed, the Court will not permit rescission and recovery of what was given in performance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7.0707</num>
+      <heading>Sovereign Immunity Waiver</heading>
+      <text>that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has a sovereign immunity waiver without a separate resolution authorizing the waiver of the Tribe's sovereign immunity; and that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has an arbitration clause without a separate resolution authorizing the arbitration clause. Amended-Resolution No. TMBC917-09-14</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

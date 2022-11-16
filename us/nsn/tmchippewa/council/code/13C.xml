@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>13C</num>
+  <heading>Removal of Tribal Officers and Representatives</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.13</num>
+    <heading>Placeholder</heading>
+    <section>
+      <num>13.1301</num>
+      <heading>Purpose</heading>
+      <text>The right of the enrolled members of the Turtle Mountain Band of Chippewa Indians to elect representatives to protect and promote the best interests of all Tribal members is an important right. Along with the right to elect, is the right to remove any representative who has demonstrated the inability or unwillingness to carry out their elected responsibility. The following process is adopted to protect these rights. The process is not designed to be used as a manner of harassing, vexing or annoying an elected official nor an elected government. In order to ensure an orderly hearing and to ensure that the individual subject to the removal proceeding receives their due process rights, pursuant to Article VIII, Section 2, of the Tribal Constitution and in accordance with <cite path="13C|13.13|13.1301">this section</cite> of the Tribal Code, the following procedures that will be employed at the Tribal Council meeting assembled for removal purposes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1302</num>
+      <heading>Grounds for Removal</heading>
+      <text>The following offenses may be grounds for removal. Removal may be instigated by a majority of the Tribal Council assembled for removal purposes.</text>
+      <para>
+        <num>1.</num>
+        <text>Any Tribal Council officer or Tribal Council representative who has been convicted of a felony.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any officer or representative who is required to furnish bond for the protection of tribal property and funds as required by the Constitution, and said person cannot secure bonded protection for the benefit of the Tribe.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any Tribal Council officer or Tribal Council representative who willfully is absent without just cause, such as prolonged or serious illness, from two (2) or more consecutive regular meetings.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A representative who moves his or her residence beyond the boundary of Rolette County, North Dakota, shall vacate his office on the date of the move.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>An officer who moves residence beyond the boundary of Rolette County, North Dakota, shall vacate the office on the date of the move.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Any officer or representative who shall be guilty of omission of duty or who shall willfully and corruptly be guilty of oppression, misconduct or misfeasance in the discharge of the duties of his office.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1303</num>
+      <heading>Procedure to Be Employed at Removal Hearing</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Chairman shall, preside at the removal hearing.  If the Tribal Chairman is the individual subject to the removal, then the Vice-Chair shall preside at the removal hearing unless by a majority vote of the council at the beginning of the hearing, another member of the Tribal Council is selected by majority vote to preside at the removal hearing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The only issue before the Tribal Council at a removal hearing shall be the adoption or rejection of a resolution removing the individual subject to the removal proceedings.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The formal rules of evidence shall not apply at the removal hearing. The presiding officer shall have full discretion as to the receipt of each piece of evidence; provided, however, that any particular ruling of the presiding officer may be overruled by a majority vote of the council.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The individual subject to the removal proceedings, at least three (3) days prior to the removal hearing, shall be provided a written listing of charges.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The individual subject to the removal proceedings may appear at the hearing with or without counsel.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The removal hearing procedure shall consist of the following:</text>
+        <para>
+          <num>a.</num>
+          <text>the presiding officer shall call the hearing to order;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>the charges shall be read out loud unless waived by the individual subject to the removal proceedings;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>the Tribal Council shall receive evidence through witness testimony or through written documents as to each of the charges listed in the charging document; the evidence received at the removal hearing shall be limited to the evidence relating to the charges listed in the charging document; the presiding officer shall have full discretion in declaring any matter outside the scope of the charging document as improper;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>any witness who testifies shall be required to take an oath or affirmance to tell the truth;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>the Tribal Council may appoint a person to assist in the presentation of evidence;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>the Tribal Council and the individual subject to the removal proceedings shall have the right to compel the attendance of witness(es) through the use of subpoena in the same manner and under the same requirements as used for judicial subpoenas;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>the Tribal Council shall proceed first in the presentation of evidence relating to the removal, with such evidence being specifically limited to evidence relating to the charges listed in the charging document;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>the individual subject to the removal proceedings shall be allowed to object to the receipt of any documentary evidence and shall be provided the right to cross examine any witness called by the Tribal Council;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>following the conclusion of the Tribal Council's case in support of removal, the individual subject to the removal proceedings shall be allowed to present documentary evidence and to call witnesses relating to the removal, with such evidence being specifically limited to evidence relating to the charges listed in the charging document;</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>the Tribal Council shall be allowed to object to the receipt of any documentary evidence presented by the individual subject to removal and shall be provided the right to cross examine any witness called by the individual subject to removal;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>following the conclusion of the case presented by the individual subject to the removal, the Tribal Council may offer any rebuttal evidence;</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>at the conclusion of the evidence, any member of the Tribal Council may present information or testify relating to the charges contained in the charging document;</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>following any presentation by the Tribal Council itself, the individual subject to removal shall be allowed an opportunity to be heard;</text>
+        </para>
+        <para>
+          <num>n.</num>
+          <text>following the presentation of any petitions to the Tribal Council (if any), the presiding officer shall by roll call determine that a quorum exists, and then shall entertain a motion for approving the removal of the individual subject to removal;</text>
+        </para>
+        <para>
+          <num>o.</num>
+          <text>following any discussion on the motion, the entire Tribal Council (including the individual subject to the removal) shall by roll call vote, approve or reject the resolution for the removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Upon the passage of a resolution removing the individual subject to removal, that individual is immediately removed from office and has no further powers as a member of the Tribal Council or as an officer of the Tribe; if the person being removed is the Tribal Chairman, upon adoption of the removal resolution the Tribal Chairman loses all powers as Tribal Chairman, including the power of veto.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1304</num>
+      <heading>Vacancy in Office</heading>
+      <text>Shall be in the manner prescribed in §13.1208 of <cite path="13C">this Title</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

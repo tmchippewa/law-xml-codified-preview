@@ -1,0 +1,2382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>35</num>
+  <heading>Fish and Game</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.01</num>
+    <heading>General Provisions and Definitions</heading>
+    <section>
+      <num>35.0101</num>
+      <heading>Statements of Tribal Policy and Legislative Intent</heading>
+      <text>Pursuant to the power vested in it by the Constitution of the Turtle Mountain Band of Chippewa Indians, the Tribal Council, recognizing the spiritual, cultural, and economic value of the wildlife and recreation resources of the Turtle Mountain Indian Reservation and Trust Lands held in trust for its members; and recognizing that these are irreplaceable Tribal resources; and recognizing that unregulated use of the wildlife and recreation resources of the Tribe would threaten the political integrity, the economic security, and the health and welfare of the Turtle Mountain Tribe and its members, hereby enacts this Game and Fish Code to ensure proper management of these vital resources.</text>
+      <text>Further, recognizing that the Turtle Mountain Chippewa people alone have the absolute, inherent, retained sovereign right to use and enjoy its natural resources, and to govern its use by its Members and all others, the Tribal Council, in regulating the wildlife and recreation resources of the Reservation, intends that tribal Members shall be afforded the greatest possible freedom to use and enjoy these resources consistent with the preservation and improvement of these resources for future generations.</text>
+      <text>Of secondary importance is the policy of permitting the limited use of the wildlife and recreation resources of the Reservation and trust lands by Non-members for the promotion of intercultural education and good will and for the economic benefit of the Tribe as a whole. Recognizing the Turtle Mountain Chippewa tradition of restitution as a remedy for injustices, the Tribal Council hereby declares that this Code is civil in nature and that restitution and other civil penalties shall be the primary remedy for its violation. Criminal sanctions may also be imposed in cases where this Code so provides.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0102</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Code, or the application thereof, is held invalid, the remainder of this Code, or other applications of such provision, shall not be affected.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0103</num>
+      <heading>Definitions</heading>
+      <text>In this Code, unless the context requires another meaning:</text>
+      <para>
+        <num>1.</num>
+        <text>"ACTIVITY" means any activity related to recreation or to taking wildlife.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"ALL TERRAIN VEHICLE" means any motorized vehicle designed primarily for recreational purposes and off-road use, and includes two-wheel, three-wheel, and four-wheel vehicles. This definition does not include any vehicle licensed by any state or tribe for travel on public roads.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"ANGLING" means the act or sport of fishing with hook and line.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"AQUATIC WILDLIFE" means all plants and animals   whose habitat is in water.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"AUTHORIZED OFFICER" means any designated enforcement officer, any peace officer of the Turtle Mountain Tribe, and any other person authorized by the Turtle Mountain Tribe to enforce this Code.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"BAG LIMIT" means the maximum limit, in number or amount, of a particular species of wildlife, which may lawfully be taken by any one person during a specified period of time.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"BOATING" means traveling upon water in any   watercraft or vessel.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"CLOSED AREA" means any area in which entry by   persons or vehicles is prohibited.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"DIRECTOR means the Director of Natural Resources, or Turtle Mountain Tribe Game and Fish Department.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"FALCONRY" means the taking of wildlife with birds of prey.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"FIELD TRIAL" means an event or competition of   sporting dogs in actual performance.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"FIREARM" means any weapon which propels something through the use of gunpowder.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"FISHING" means the act or sport of taking or   attempting to take aquatic wildlife.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"TURLTE MOUNTAIN INDIAN RESERVATION" or "Reservation" means the lands of the Turtle Mountain Tribe within the <em>exterior</em> boundaries of the Turtle Mountain Indian Reservation and other lands held in trust for the Tribe or its members under any treaties, agreements, and executive orders in which the Tribe was party to, including, but not excepting:</text>
+        <para>
+          <num>a.</num>
+          <text>Treaty with the Sioux, etc. 1825 (at Praire du Chien)</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Treaty with the Chippewa – Red Lake and Pembina Bands 1863</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Treaty with the Chippewa – Red Lake and Pembina Bands 1864</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Turtle Mountain Chippewa Agreement of 1892 (McCumber Agreement)</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Turtle Mountain Chippewa Agreement of 1904</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Allotment Provisions on Grahams Island, ND of 1906</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Executive Order of December 21, 1882</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Executive Order of March 29, 1884</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Executive Order of June 3, 1884</text>
+        </para>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"GAME AND FISH DEPARTMENT" means designated resource management section of the Turtle Mountain Band of Chippewa Natural Resource Department.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"GUIDE" means a person who, for pay or other remuneration, aids or assists any person in taking wildlife, or pursuing any other recreational activity.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"HAZARDOUS SUBSTANCE OR MATERIAL" means any   substance defined as hazardous by the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, codified at 42 U.S.C. § 9601 et seq., or any other substance which, after release into the   environment, is or may become injurious, either   directly or indirectly, to any organism.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"HUNTING PERMIT" means a permit issued by the Game and Fish Department for the taking of animals.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"INDIAN" means any person of Indian descent who is a member of a federally recognized Indian tribe according to the laws of that Tribe, and any other person recognized by federal law as Indian for any purpose, and denotes both the singular and the plural.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"MEMBER" means a person who is an enrolled member of the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"MOTORIZED VEHICLE" means any vehicle propelled by motor or engine.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"NON-MEMBER" means a person who is not an enrolled member of the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"NON-MEMBER INDIAN" means a person who is a member of any federally recognized Indian tribe other than the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"OPEN SEASON" means the time during which a   particular species of wildlife may be lawfully   taken.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"PICNIC" means a pleasure outing where food is eaten outdoors.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"RANGER" means a peace officer of the Recreation Enterprise or the Game and Fish Department authorized to enforce the provisions of this Code and the Game and Fish Regulations.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"RECREATION PERMIT" means any permit, including camping permits issued by the Department of Natural Resources for any recreational use of Tribal lands.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"RECREATIONAL ACTIVITY" means any outdoor activity intended for sport or pleasure, including, but not limited to, picnicking, camping, boating, tubing, hiking, bicycling, and skiing; but not including hunting or any other taking of wildlife.</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text>"RECREATIONAL AREA" means all portions of the Reservation except for communities, public roads and other areas specially set aside for other than for recreational purposes.</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text>"RECREATIONAL USER" means any person engaged in a Recreational Activity.</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text>"ROAD" means any federal, state, county or tribal right of way for public travel, and any tribal logging road, whether open or closed.</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text>"SWIMMING" means propelling oneself in the water by natural means and includes, but is not limited to, diving, jumping, and floating.</text>
+      </para>
+      <para>
+        <num>33.</num>
+        <text>"TAKING" means pursuing, shooting, shooting at, hunting, trapping, netting, snaring, fishing, killing, capturing, or attempting any of the foregoing.</text>
+      </para>
+      <para>
+        <num>34.</num>
+        <text>"TRAPPING" means the taking of wildlife in any   manner except with gun or other implement in hand.</text>
+      </para>
+      <para>
+        <num>35.</num>
+        <text>"TRESPASSER" means a person who enters or remains upon the land of another without permission or right to do so created by the possessor's consent or otherwise.</text>
+      </para>
+      <para>
+        <num>36.</num>
+        <text>"TRIBAL COUNCIL" means the Turtle Mountain Band of Chippewa Tribal Council duly assembled.</text>
+      </para>
+      <para>
+        <num>37.</num>
+        <text>"TRIBAL COURT" or "COURT" means the courts of the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>38.</num>
+        <text>"TRIBAL MEMBER" means a person who is an enrolled member of the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>39.</num>
+        <text>"TRIBE" means the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>40.</num>
+        <text>"WATERCRAFT" means any boat or other floating device of rigid or inflatable construction that is designed to carry people or things on the water.</text>
+      </para>
+      <para>
+        <num>41.</num>
+        <text>"WILDLIFE" means all plants, animals, and other natural items. The following definitions of wildlife shall apply:</text>
+        <para>
+          <num>a.</num>
+          <text>"BIG GAME" are wild turkey, whitetail and mule deer, elk, bear, bighorn sheep, mountain lion, pronghorn antelope, and moose.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>"FURBEARING ANIMALS" are muskrat, raccoon, mink, beaver, badger, weasel, fox, skunk, coyote, and bobcat.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>"MIGRATORY GAME BIRDS" are ducks, goose, swan, sand hill crane, all coots, common snipe, and dove.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>"SMALL GAME" are rabbit, squirrel, upland game   birds, and migratory game birds.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>"UPLAND GAME BIRDS" are partridge, grouse, and   pheasant.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.02</num>
+    <heading>Authority of the Game and Fish Department</heading>
+    <section>
+      <num>35.0201</num>
+      <heading>General Powers and Duties of the Game and Fish Department</heading>
+      <text>In order to administer the laws of the Tribe relating to conservation and management of wildlife and recreation resources the Game and Fish Department shall have the following powers and duties:</text>
+      <para>
+        <num>1.</num>
+        <text>Make such rules and regulations and establish such services, as it deems necessary to carry out the provisions and purposes of this Code, subject to the approval of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Recommend to the Tribal Council broad policies and long-range programs for the management and <em>preservation</em> of wildlife and other Tribal recreational resources.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Issue Recreational Permits, watercraft permits, licenses to take wildlife, and other permits and licenses for use of the Tribal lands and resources.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Establish hunting and fishing regulations, and prescribe the manner and methods, which may be used in taking wildlife, subject to the approval of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Establish and publish Non-member Regulations, subject to the approval of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Be responsible for the enforcement of laws, including setting fines and civil penalties, for the protection of wildlife and other Tribal recreational resources.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Establish rewards or bounties for information leading to the identification and prosecution of violators of this Code.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Prescribe qualifications, training, grades and salary schedules for Department employees.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Provide for the assembly and distribution of information to the public relating to wildlife and other Tribal recreational resources.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Assist in search and rescue operations<em>.</em></text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Conduct investigations, inquiries or hearings as necessary to enforce this Code.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Establish game management units, refuges or Closed Areas for the preservation and management of wildlife, with the approval of the Tribal Council. Such units, refuges or Closed Areas shall be clearly marked with signs.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Construct and operate game farms, fish hatcheries, fishing lakes, or other facilities for or relating to the management, preservation or propagation of wildlife.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>Provide training to the public in hunting safety and the safe handling of firearms.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>Purchase, sell or barter wildlife for the purpose of stocking tribal lands and waters.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>Use wildlife for research or other educational purposes.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>Enter into intergovernmental agreements, including cross-deputization agreements, with tribal, federal, state or local governments and their political subdivisions, or enter into agreements with private entities, subject to Tribal Council approval.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>Prescribe seasons, bag limits, possession limits and other regulations pertaining to the taking of wildlife, with the approval of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>Bring suit in the name of the Tribe against any person, entity, or organization, including public entities, to restrain or enjoin them from violating this Code or destroying or polluting Tribal resources.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>Exercise such additional powers and duties as are necessary to fully carry out the provisions of this Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0202</num>
+      <heading>Department Publications</heading>
+      <text>The Department shall prepare and, as often as necessary, revise publications, which provide the public with information on recreation permits, seasons, bag limits, closed areas, fines and penalties, and other Department regulations. The Department shall make these publications available to the public through all permit dealers, at the Department office, and at such other places as it may designate.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0203</num>
+      <heading>Director; Appointment</heading>
+      <text>The Tribal Council shall employ a General Manager, who shall be the chief administrative officer of the Department. The General Manager shall be selected on the basis of administrative ability and general knowledge of wildlife and recreation resource management and conservation.</text>
+      <text>
+        <ul proof="needed">
+          <li>
+            <u>Powers and duties of the director.</u>
+          </li>
+        </ul>
+      </text>
+      <text>In addition to any other powers and duties set forth in this Code, the Director shall supervise and control all activities, functions, and employees of the Department and shall oversee the enforcement of the provisions of this Code, including any rules and regulations promulgated by the Department.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.03</num>
+    <heading>Permits</heading>
+    <section>
+      <num>35.0301</num>
+      <heading>Permits; Requirements</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise provided by this Code, no</text>
+        <text>person shall take or attempt to take any wildlife or engage in any Recreational Activity regulated by this Code on the Turtle Mountain Indian reservation and trust lands unless such person has in his or her personal possession a valid Tribal Hunting or Recreation Permit authorizing that activity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person required to obtain a Hunting or Recreation Permit pursuant to Subsection A shall fail or refuse to exhibit such permit(s) when asked to do so by an Authorized Officer.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No refunds shall be made on Recreational Permits.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Recreational Permits are neither transferable nor    assignable.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Unless stated otherwise, all permits expire at the end of the calendar year.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>No hunting or fishing licenses or permits issued by any State shall be required on the Reservation or Tribal and Individual trust lands</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Department may issue a duplicate Recreation Permit, provided that the person requesting such duplicate permit furnishes such information as may be reasonably required. The Department may collect a fee for each duplicate Recreation Permit issued.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The Department may refuse to issue a Recreation Permit or Hunting Permit to any Non-member for any reason.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0302</num>
+      <heading>Permit Agreement Form</heading>
+      <para>
+        <num>1.</num>
+        <text>Any persons to whom a Hunting or Recreation Permit is issued by the Department shall be required to sign a Permit Agreement before any such permit shall be valid. The Agreement shall be in substantially the same form as provided in Section B below. The applicant in the presence of the permit dealer who issued the permit, or his agent shall sign the form.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Permit Agreement Form:</text>
+        <text>I, hereby agree that the following terms and conditions govern my use of the permit, my presence on the Turtle Mountain Reservation or Tribal or Individual Trust Lands, and my use of Tribal resources and services:</text>
+        <para>
+          <num>a.</num>
+          <text>I agree to obey all Tribal laws and regulations.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>I consent to the jurisdiction of the Turtle Mountain Tribal Court as the forum for the resolution of any civil disputes, which arise from my presence and/or use of Tribal resources and/or services.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>I understand that permission for me to enter Turtle Mountain Indian reservation is conditioned on my observance of Tribal laws and regulations and that violation of such laws and regulations makes me a trespasser and may subject me to arrest, tribal and federal court action, expulsion from the Reservation, and seizure of property as security for payment of potential financial obligations to the Tribe.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>I understand that permits are required for all Recreational Activities and for taking wildlife on the Reservation.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>I understand that the willful use of Tribal resources or services contrary to the terms of Tribal law or regulation constitutes theft of Tribal assets and is a violation of Tribal and federal law.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>I agree to be bound by the penalties and liquidated damages provisions of Tribal law in the event that I am found liable to the Turtle Mountain Tribe for violations of Tribal law.</text>
+        </para>
+        <text>I have read and understand the above terms and agree to be bound by them.</text>
+        <text>___________________________			____________ Signature of Permittee 	               Date</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0303</num>
+      <heading>Permit Dealers; Bond</heading>
+      <para>
+        <num>1.</num>
+        <text>Hunting, fishing, and Recreation Permits shall be prepared by the Department and furnished to permit dealers. Such permits shall be available to the public from these dealers. Permit dealers shall sell permits only as authorized by this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Permit dealers shall provide a bond to the Tribe in an amount set by the Department to protect the interests of the Tribe, and the permit dealer shall pay the premiums on such bonds.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No later than January 30th of each year, permit dealers shall provide the Department with a report of permits sold during the previous calendar year. Such reports shall contain the following information:</text>
+        <para>
+          <num>a.</num>
+          <text>The total number of permits sold;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The total amount of money collected for the sale of all permits;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The number of permits sold by category.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Such other information, which may be reasonably requested by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>All permits in a permit dealer's possession shall be returned to the Department within ten (10) days of a written request by the Department or as otherwise directed by the Department.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>With Tribal Council approval, the Department may promulgate other rules and regulations, which shall apply to permit dealers.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Permit dealers who violate any provision of this Code may have their dealer's licenses suspended or revoked, after notice and hearing, and may, in addition, be subject to a Class Two Civil Penalty or criminal sanctions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0304</num>
+      <heading>Guides</heading>
+      <para>
+        <num>1.</num>
+        <text>No person without guide prior to permit shall act as a Guide for activities including, but not limited to, canoeing trips, fishing trips, hiking or backpacking trips, or hunting big game, small game and waterfowl hunting.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person wishing to serve as a Guide shall be at least 21 years of age and shall submit an application to the Department on forms to be provided by the Department. In addition, all applicants shall submit to interviews as requested by the Department, and shall submit affidavits or other proof of competence to guide as requested by the Department.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No later than January 30th of each year, Guides shall provide the Department with a report of all guide activities that took place for the previous calendar year. Such report shall contain the following information:</text>
+        <para>
+          <num>a.</num>
+          <text>The total number of persons guided;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The names, addresses and telephone numbers of all persons guided;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The number and species of wildlife taken by each person guided;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The total number of days a Guide has guided;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The total number of days a Guide has guided off the Reservation, and where the guiding was conducted;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The number and species of wildlife taken by all persons guided;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Such other information that may be reasonably requested by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>No persons acting as a Guide shall carry firearms other than a pistol.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>With Tribal Council approval, the Department may promulgate other rules and regulations, which shall apply to Guides.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Guides who violate any provision of this Code may have their Guide licenses suspended or revoked, after notice and hearing; and may, in addition, be subject to a Class Three Civil Penalty or criminal sanctions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0305</num>
+      <heading>Special Licenses and Permits</heading>
+      <para>
+        <num>1.</num>
+        <text>With Tribal Council approval, the Department may issue special permits for collecting or holding wildlife, for conducting Field Trials, or for any other recreational, educational or scientific purpose.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon the request of the Department, any person who has been issued a special license or permit pursuant to <cite path="35|35.03|35.0305">this Section</cite> shall submit a written report to the Department outlining all activities undertaken, including, where applicable:</text>
+        <para>
+          <num>a.</num>
+          <text>The dates of all activities;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The methods and means of taking or collecting wildlife or data;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The use or uses for which the wildlife or data was collected;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The benefits to the Tribe or to the general public of the activities and uses of wildlife or data collected;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any other information requested by the Director.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0306</num>
+      <heading>Taxidermy</heading>
+      <para>
+        <num>1.</num>
+        <text>Taxidermy Licensing.</text>
+        <text>It shall be unlawful for any person to practice taxidermy commercially within the boundaries of the Reservation without having first obtained a taxidermist permit from the Director. The Director shall in accordance with the terms and conditions prescribe the issuance of a permit under <cite path="35|35.03|35.0306">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A taxidermist licensed under this subchapter may sell a client's unclaimed, legally taken wildlife if:</text>
+        <para>
+          <num>a.</num>
+          <text>At least two written notices of intent to sell are sent to the client;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Two months have past since completion of the mounting, tanning, processing or the end of the storage period;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The amount realized by the sale of a mount is not to exceed the original quoted price stated in writing, less any deposit received;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The sale is otherwise in compliance with other provisions regarding the sale of wildlife or parts thereof found in <cite path="35.03">this Chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Taxidermist licensed under this Subchapter shall:</text>
+        <para>
+          <num>a.</num>
+          <text>Upon receiving wildlife or fish for mounting, tanning, storage or processing, record the owner's name and address, date received, location where the animal was taken, the species and number of said fish or wildlife, the quoted price for the taxidermy work and any other information as required by the Department;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tag each specimen or otherwise mark each specimen in such a way as to be readily identifiable as to ownership;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Maintain records of any unclaimed wildlife which were resold to someone other than the client from which the wildlife was originally obtained including: date of sale, amount of sale and the name and address of the person purchasing the mount;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Not transport or ship any animal or parts thereof without keeping the following record: number and kind of animal or parts shipped, the date shipped, how it was shipped and the name and address of who it was shipped to;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Maintain the records required by <cite path="35|35.03|35.0306">this Section</cite> at the business address of the taxidermist for a three (3) year period.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>All records and wildlife held pursuant to this Subchapter or regulations adopted pursuant to this Subchapter must be open to inspection by a conservation officer or other duly authorized Department employee at reasonable times.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The license of any taxidermist or any employee of said taxidermist who is convicted of a violation of this Subchapter or regulations adopted pursuant to this Subchapter or of any Tribal, State, or Federal Fish and Wildlife law shall be subject to revocation by the Director.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0307</num>
+      <heading>Importation of Animals</heading>
+      <para>
+        <num>1.</num>
+        <text>Unlawful Importations of Animals.</text>
+        <text>Unless modified by rule or regulation, no person shall import to the reservation or possess or release within the boundaries of the Reservation, without first obtaining a permit to do so from the Director or his designee, any live:</text>
+        <para>
+          <num>a.</num>
+          <text>Deer;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Wild Horses;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Wild Pigs;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Antelope;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Elk;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Species of birds, mammals, reptiles or fish whether  native or planted that are normally classified as "wildlife"; or</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Any hybrid of the above listed animals.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Application for Permit.</text>
+        <para>
+          <num>a.</num>
+          <text>The Director may issue a permit under this subchapter pursuant to the conditions established by the Director and once the person applying for the permit:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Provides the genus and species of the animal(s) and the number of each to be imported to the reservation or released or possessed and the name and address(es) of any persons(s) the animals were originally obtained from;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Identifies the lands on which the animals will be kept and demonstrates that such lands are secure and adequate to meet the health and social needs of the permitted animals and to protect wildlife resources and domestic livestock production located on the reservation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provides proof that the applicant has sufficient skill, and experience to properly maintain and care for the permitted animals; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Obtains a health certificate from a qualified veterinarian, which certifies that the permitted animals are free from any contagious or infectious diseases and parasites. Any testing, quarantine, etc. necessary to obtain this certificate shall be done at the expense of the permittee.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Issuance of a permit under <cite path="35|35.03|35.0307">this Section</cite> shall authorize employees of the Department or its designee to inspect all facilities, records, animals and other property related to the permitted operation. These inspections may take place without warrant or prior notice.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Sale, Trade or Other Disposition of Permitted Animals.</text>
+        <text>No person may sell, trade, give away or otherwise dispose of any animal or parts there from permitted pursuant to this Subchapter unless the person receiving such animals holds a valid permit pursuant to this Subchapter for the species involved or as otherwise authorized by the Director.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Records.</text>
+        <text>Any permittee under this Subchapter shall maintain accurate records that list the following:</text>
+        <para>
+          <num>a.</num>
+          <text>An updated list of the genus and species of the animal(s) and the number of each imported or released, possessed or born within the boundaries of the Reservation;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>If imported, the name and address(es) of any person(s) the animals were originally obtained from;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The number of each species in his possession which are harvested or other wise killed and the disposition of those animals whether sold, traded or given away or otherwise disposed of, and the name and address of any persons receiving these animals or parts there from and the dates of such transactions.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.04</num>
+    <heading>Recreational Activities</heading>
+    <section>
+      <num>35.0401</num>
+      <heading>Non-Member Recreation Permits Required</heading>
+      <text>A Recreation Permit is required for all non-member recreation within the Turtle Mountain Indian Reservation and Tribal and Individual Trust Lands.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0402</num>
+      <heading>Regulation of Motorized Vehicles</heading>
+      <para>
+        <num>1.</num>
+        <text>Operation by Non-members of All Terrain Vehicles (ATVs) is prohibited.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall operate any motorized vehicle within the Reservation unless such vehicle is currently licensed by a state or Indian tribe for unrestricted highway use. This provision shall apply to Tribal Government or Department vehicles used for Tribal purposes, or to vehicles operated by Members.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall operate any motorized vehicle for purposes governed by this document except on designated roads. This provision shall not apply to:</text>
+        <para>
+          <num>a.</num>
+          <text>Tribal or federal employees acting within the scope of their employment;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Persons with special permits who are acting within the conditions of the permit;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Necessary travel by employees and agents of public utilities, or suppliers of water or power acting as agents of the federal government. Other persons who are regularly engaged in forestry, prospecting or mineral exploration shall, upon application, be issued vehicular access permits by the Department;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>A hunter with a hunting permit who enters an area solely to pick up a big game animal which he or she has legally killed;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Emergency situations, such as fire or other disasters, or when otherwise necessary to protect life or property.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the Department determines that the operation of motorized vehicles in a certain area may be harmful to wildlife, the Department may order the area closed to motorized vehicles for a period of time as approved by the Tribal Council. The Department shall post notices on the main roads entering such Closed Areas and at other locations as the Department deems appropriate.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Department may designate particular areas of land to be available for off-road use by motorized vehicles, with the approval of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Violation of <cite path="35|35.04|35.0402">this Section</cite> shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0403</num>
+      <heading>Fishing</heading>
+      <text>See Chapter Five, <cite path="35|35.05|35.0506">Section 35.0506</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0404</num>
+      <heading>Camping</heading>
+      <para>
+        <num>1.</num>
+        <text>Permits</text>
+        <para>
+          <num>a.</num>
+          <text>Any Non-member camping or occupying a campsite shall first purchase a camping permit. One permit is required for each vehicle.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Members shall not be required to obtain camping permits.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Camping permits are required in addition to any other permits required by this Code for the other activities in which campers may engage, and are not substitutes for such other permits.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Regulations.</text>
+        <para>
+          <num>a.</num>
+          <text>No person shall camp in other than a campsite     designated by the Department.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Except as specifically authorized in writing by the Department, campfires shall be permitted only in designated campsites.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>No person shall camp within one-quarter mile of a wildlife or livestock watering hole, or in any area, which is posted as a "No Camping" area.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.04|35.0404">this Section</cite> shall be a Class One Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0405</num>
+      <heading>Picnicking</heading>
+      <para>
+        <num>1.</num>
+        <text>Permits.</text>
+        <para>
+          <num>a.</num>
+          <text>Any Non-member who intends to picnic shall first purchase a Recreation Permit. One permit is required for each vehicle.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A Recreation Permit for picnicking is not required when a member of the family or group of up to three unrelated persons possesses any other current and valid Recreation Permit or hunting license. (i.e., fishing permit, camping permit).</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Members shall not be required to purchase a Recreation Permit for picnicking.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Picnicking is allowed only in designated areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.04|35.0405">this Section</cite> shall be a Class One Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0406</num>
+      <heading>Hiking</heading>
+      <para>
+        <num>1.</num>
+        <text>Permits.</text>
+        <para>
+          <num>a.</num>
+          <text>Any Non-member who intends to hike shall first purchase a Recreation Permit. One permit is required for each vehicle.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Hiking is permitted in designated areas only. There shall be no hiking by Non-members in Closed Areas.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Members shall not be required to purchase a Recreation Permit for hiking.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.04|35.0406">this Section</cite> shall be a Class One Civil Offense, except that entry onto any Closed Area shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0407</num>
+      <heading>Watercraft</heading>
+      <para>
+        <num>1.</num>
+        <text>Non-members who operate watercraft shall first purchase a valid watercraft permit.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Watercraft permits shall be valid only during the calendar year issued and only for the designated watercraft for which issued. Annual permit stickers shall be attached to the designated watercraft.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>There are no restrictions for engine use for watercraft operated on waters within the (?), unless otherwise prescribed by Department rules and regulations.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Areas restricted to watercraft use will be clearly    marked, i.e. beach and swimming areas.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Members are not required to obtain watercraft permits to operate watercraft.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Violation of <cite path="35|35.04|35.0407">this Section</cite> shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0408</num>
+      <heading>Other Recreational Activities</heading>
+      <para>
+        <num>1.</num>
+        <text>All other recreational uses of Tribal lands and resources not specifically listed above or in Department rules and regulations shall require the written permission of the Department and/or the purchase of a Recreation Permit.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.04|35.0408">this Section</cite> shall be a Class One Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0809</num>
+      <heading>Prohibited Activities; Property</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful within the boundaries of the Turtle Mountain Indian Reservation.</text>
+        <para>
+          <num>a.</num>
+          <text>Mutilating, defacing, disturbing, injuring, damaging or destroying any natural item, including but not limited to wildlife, rocks, stones, fossils, or other property of the Turtle Mountain Tribe, including fences and Department property;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Removing any natural item, including but not limited to wildlife, rocks, stones, fossils, or other property of the Turtle Mountain Tribe, including fences and Department property;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Digging in, excavating, disturbing, injuring, destroying, or in any way damaging any paleontological, prehistoric, historic or archaeological resource, structure, site, artifact, or property.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Removing any paleontological, prehistoric, historic, or archaeological resource, structure, site, artifact or property;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Destroying, removing, injuring or cutting any green tree, dead tree, or other firewood on the Reservation without written authorization; provided, however, that Members may cut wood pursuant to regulations set by the Forestry Department and the Tribal Council.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Causing a fire other than a campfire.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.04|35.0809">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0410</num>
+      <heading>Prohibited Activities; Occupation and Use</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful</text>
+        <para>
+          <num>a.</num>
+          <text>Building, attending, maintaining or using a fire outside of a stove, grill, fireplace or fire ring;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Possessing, discharging or using any kind of fire-work or other pyrotechnic device not within the designated time period for use of such;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Failing to remove all camping equipment or personal property when vacating an area or site;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Occupying any portion of a recreation site for other than recreation purposes;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Occupying a place designated for day use only between the hours of 10 p.m. and 6 a.m.;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Entering or remaining in a camping area between 10 p.m. and 6 a.m. except to camp or visit a person who is camping;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Moving any campground equipment without the owner's consent;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Placing, maintaining, or using camping equipment except in a place specifically designated or provided for such equipment;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Cleaning or washing any food, personal property, fish or other animal, or bathing or washing at a hydrant or water faucet not provided for that purpose;</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Operating or using in or near a campsite, developed recreation site, or over an adjacent body of water without a permit, any device which produces noise, such as a radio, television, musical instrument, motor or engine in such a manner and at such a time so as to unreasonably disturb any person;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Operating or using a public address system, whether fixed, portable or vehicle mounted, in or near a campsite or developed recreation site, or over an adjacent body of water without written permission from the Department;</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Posting, placing, or erecting any paper, notice, advertising material, sign, or similar matter without written permission from the Department;</text>
+        </para>
+        <para>
+          <num>m.</num>
+          <text>Placing a vehicle or other object in such a manner that it is an impediment or hazard to the safety or convenience of any person;</text>
+        </para>
+        <para>
+          <num>n.</num>
+          <text>Parking or leaving a vehicle in violation of posted instructions;</text>
+        </para>
+        <para>
+          <num>o.</num>
+          <text>Being publicly nude;</text>
+        </para>
+        <para>
+          <num>p.</num>
+          <text>Possessing or using a pack outfit on the Reservation without a camping permit or written permission from the Department;</text>
+        </para>
+        <para>
+          <num>q.</num>
+          <text>Entering a Closed Area;</text>
+        </para>
+        <para>
+          <num>r.</num>
+          <text>Entering any Special Use Area without a proper Special Use Permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of Subsection A Shall be a Class One Civil Offense.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful:</text>
+        <para>
+          <num>a.</num>
+          <text>Allowing any unleashed dog or dog on a leash longer than 8 feet to roam within any campground, or populated or public area;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Depositing any body waste except into receptacles provided for that purpose;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Abandoning any personal property;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Abandoning or leaving a fire unattended;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Using any pesticide except for personal use as an insect repellent or as allowed with written permission by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Violation of Subsection C shall be a Class Two Civil Offense.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful within the boundaries of the Turtle Mountain Indian Reservation.</text>
+        <para>
+          <num>a.</num>
+          <text>Disobeying a lawful order of an Authorized Officer. In addition, any able bodied person who, without good reason, refuses to render assistance when summoned by an Authorized Officer to suppress range or forest fires within the Reservation, shall, pursuant to Section 6.20, forfeit all rights, privileges, leases and permits granted by the Tribe.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Discharging a firearm or using any pyrotechnic device:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>In or within one quarter mile of a residence, building, campsite, developed recreation site or occupied area; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Across or on a roadway, or within one quarter mile of a roadway, or in any manner or place whereby any person or property is exposed to injury or damage as a result of such discharge or use.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Violation Subsection E shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0411</num>
+      <heading>Prohibited Activities; Sanitation</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful:</text>
+        <para>
+          <num>a.</num>
+          <text>Placing in or near a stream, lake, or other water any substance, which does or may pollute a stream, lake, or other water;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Failing to dispose of all garbage, including any paper, can, bottle, sewage, waste water or material, or rubbish either by removal from the site or area, or by depositing it into receptacles or at places provided for such purposes;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Depositing in any toilet, toilet vault, or plumbing fixture any substance which could damage or interfere with the operation or maintenance of the fixture;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Possessing or leaving refuse, debris, or litter in an exposed or unsanitary condition. In addition, if the substance is a petroleum product or any hazardous material, the penalty shall be up to $1,000 plus all clean-up costs;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Dumping any refuse, debris, trash or litter brought as such from off the Reservation. In addition, if the substance is a petroleum product or any hazardous material, the penalty shall be up to $1,000 plus all clean-up costs.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Except as otherwise provided, violation of <cite path="35|35.04|35.0411">this Section</cite> shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.05</num>
+    <heading>Taking and Handling Wildlife</heading>
+    <section>
+      <num>35.0501</num>
+      <heading>Taking and Handling of Wildlife Allowed Only as Permitted by Code</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall take or attempt to take, possess, molest, harass, transport, buy, sell or offer for sale any wildlife, or parts thereof, in any manner except as permitted by this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the purpose of <cite path="35|35.05|35.0501">this Section</cite>, "attempt" shall have the same meaning as defined in Section 6.7 B.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Except as otherwise provided, violation of <cite path="35|35.05|35.0501">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Civil Penalties provided for in <cite path="35.05">this Chapter</cite> shall be in addition to the Liquidated Damages penalty.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0502</num>
+      <heading>Non-Member Spouses of Tribal Members</heading>
+      <text>Non-members married to Members shall have no special hunting or fishing privileges by reason of such marriage, except as may be provided by this code or approved by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0503</num>
+      <heading>Possession of Animal Parts</heading>
+      <para>
+        <num>1.</num>
+        <text>No person shall possess, purchase or sell any animal parts, including but not limited to claws, paws, hooves and antlers except as permitted below. Possession of wildlife unlawfully obtained anywhere is unlawful.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The carcass, or parts of the carcass, of wildlife lawfully obtained may be possessed by the person who took such wildlife, and may be placed in storage in accordance with the provisions of this Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A person may make a gift of the carcass or parts of the carcass of lawfully obtained wildlife, or may have it prepared in a public eating-place and served to himself or herself and guests.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The tagged heads, horns, and antlers of lawfully taken wildlife, or the treated or mounted wildlife specimens such as mounted heads or hides or skin of lawfully taken wildlife, or the shed antlers from whitetail deer, mule deer, or elk, may be possessed or sold by any person, except that only Members may collect or pick-up shed antlers. Members may collect shed antlers only at such times and locations and in compliance with such other regulations as the Department establishes.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Any untagged heads, horns, or antlers, other than shed antlers, remain the property of the Tribe and will be immediately confiscated by the Department. An inventory list of all confiscated skins, hides, animal parts, antlers, heads or horns shall be prepared.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Anyone buying antlers or other wildlife parts must first obtain a Tribal Business License and notify the Department. Shed antlers may be purchased only during the dates when Members are permitted to collect shed antlers. Within ten days of the end of each month the buyer shall provide a report to the Department of each transaction in the prior month including:</text>
+        <para>
+          <num>a.</num>
+          <text>The seller's name and address;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A description of items purchased;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The quantity of items purchased (in weight or number);</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The vehicle license number of the sellers;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The date of each purchase.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Migratory game birds and parts thereof may be possessed and transported only in accordance with federal regulations, 50 C.F.R. part 20.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Violation of <cite path="35|35.05|35.0503">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0504</num>
+      <heading>Transporting and Processing Legally Taken Game</heading>
+      <para>
+        <num>1.</num>
+        <text>All legally taken wildlife shall be transported in such a manner that Tribally Authorized Officers may inspect it upon request.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person who has legally killed a big game animal shall attach to the animal transportation tags provided with each permit in such a manner as prescribed by the Department. No person shall possess more than one bag or possession limit of any species of wildlife, except for the purpose of transportation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No person shall deliver for transportation to any common carrier, and no common carrier shall transport any wildlife except as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>Wildlife may be shipped during the open season, or within two weeks thereafter, but such shipment shall not exceed the possession limit for any one species, and no more than one such possession limit may be shipped in a period of seven consecutive days;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>When shipped, a valid transportation permit shall be firmly attached to such shipment and the shipment shall be clearly and conspicuously labeled with the name and address of the consignor and consignee and an accurate statement of the contents of package.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Commercial food establishments processing or storing wildlife shall stamp all packages containing such wildlife as derived from the Turtle Mountain Band of Chippewa and such packages shall be marked with the date received or processed. The operator of such an establishment shall keep a record of the names and addresses of persons who furnish such wildlife for processing or storage, and the date, amount, and species of such wildlife received, and shall exhibit such record to an agent of the Department upon request.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Violation of <cite path="35|35.05|35.0504">this Section</cite> shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0505</num>
+      <heading>Areas Closed to Hunting and Fishing</heading>
+      <para>
+        <num>1.</num>
+        <text>No persons shall carry, transport or possess devices for taking wildlife within or upon a refuge or area closed to hunting and fishing, except as may be authorized by the Department in writing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No person shall remove or drive, or attempt to take or drive wildlife from areas closed to hunting and fishing, except as may be authorized by the Department in writing.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><cite path="35|35.05|35.0505">This Section</cite> shall not apply to Authorized Officers in the performance of official duties, nor to persons crossing the Reservation on state highways carrying firearms.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><cite path="35|35.05|35.0505">This Section</cite> shall not prohibit a lessee, permitee, or his or her family or an employee of the Tribe or federal government or a trapper or hunter licensed by the Tribe from carrying firearms pursuant to the rights and duties of such lease, permit or license.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Violation of <cite path="35|35.05|35.0505">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0506</num>
+      <heading>Fishing</heading>
+      <para>
+        <num>1.</num>
+        <text>Permits</text>
+        <para>
+          <num>a.</num>
+          <text>Any Non-member who fishes or intends to fish shall first purchase a Fishing Permit and shall comply with this Code and the Non-member Regulations issued by the Department.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>No fishing Permit is required for any person under fourteen (14) years of age that is accompanied by an adult fishing permit holder or tribal member.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Fishing Permits shall not be required for Members.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Bait</text>
+        <text>There will be no restrictions on bait unless otherwise specified by the Department.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Fish may be taken by angling only unless otherwise authorized in writing by the Department.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Use of nets, of any type, to trap fish is prohibited.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Gaffing is legal for members only during time period set by the Department.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Violation of <cite path="35|35.05|35.0506">this Section</cite> shall be a Class Two Civil Offense. In addition, the violator shall be liable for Liquidated Damages.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0507</num>
+      <heading>Hunting Big Game</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who hunts or intends to hunt big game on the reservation shall first purchase a Big Game Hunting Permit for each species, if available for that year, and shall comply with this Code and the hunting regulations issued by the Department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A minor between the ages of fourteen (14) and seventeen (17) inclusive may hunt big game only if said minor has obtained a valid permit, and is accompanied by a person eighteen (18) years of age or older. In addition, no minor under the age of fourteen (14) years of age may hunt big game unless said minor has completed a hunter's safety course conducted by the Department or the State of North Dakota and is at least fourteen (14) years of age.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.05|35.0507">this Section</cite> shall be a Class Four Civil Offense. In addition, the violator shall be liable for Liquidated Damages.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0508</num>
+      <heading>Hunting Small Game</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who hunts or intends to hunt small game shall first purchase a Small Game Hunting Permit for each species, if available for that year and shall comply with this Code. A minor with a valid permit may hunt small game if accompanied by an adult holding a valid permit for that activity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0508">this Section</cite> shall be a Class Three Civil Offense. In addition, the violator shall be liable for Liquidated Damages</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0509</num>
+      <heading>Trapping</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who traps or intends to trap shall first purchase a Trapping Permit, if available for that year, and shall comply with this Code and the regulations issued by the Department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0509">this section</cite> shall be a Class Three Civil Offense. In addition, the violator shall be liable for Liquidated Damages.</text>
+        <para>
+          <num>a.</num>
+          <text>Trapping Methods. It is unlawful to:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Keep live fur bearing animals alive after they have been taken. Such animals taken during the open season for such species shall be killed immediately and made part of the daily bag.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Place a trap, bait or scent for fur bearing animals during the closed season.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Set any trap unless such trap has a metal tag attached, stamped with the name and address of the owner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Molest or appropriate the traps or trapped animals of someone else.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Operate more than seventy-five (75) traps for fur bearing animals.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Disturb or molest any mink den, muskrat house, and muskrat feeding house, beaver house or beaver dam.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Place on the ice, any artificial house or den for the purpose of catching any fur bearing animals.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Use or possess bait-containing poison of any description a field.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Trap with bait exposed to view.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Except when the muskrat and mink season is open, place or operate any water set smaller than 5 1/2" jaw spread for steel jaw traps and 8" x 8" of killer traps of the conibear type during the beaver season.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Set place or operate any steel-jawed trap with a spread width of more than 8 inches.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Operate trap sets, which permit the trapped animal to reach water, except during the muskrat, beaver and mink trapping seasons.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Set any trap on any perch more than three (3) feet above the ground.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Set, place, or operate, except as a water set, any killer trap of the conibear type that is larger than 7" x 7" or any steel-jawed trap with teeth.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Set any trap closer than fifty (50) feet of any beaver house or dam. However, during the open season for beaver, traps may be set within 15 feet of a beaver house or dam.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Fail to check all dry land sets and remove animals therein at least once each day.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Animals Protected at All Times.</text>
+        <para>
+          <num>a.</num>
+          <text>Timber wolf</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Canada lynx</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Mountain Lion</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Any other species that is listed endangered or threatened species or a candidate species by the U.S. Fish and Wildlife.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any person who violates <cite path="35|35.05|35.0509">this section</cite> shall forfeit not more than $5,000.00 ($50.00 deposit permitted).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0510</num>
+      <heading>Accidental Trapping</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who captures a non-target or protected animal shall immediately release the animal.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the event the captured animal is killed while in the trap, said animal shall be left in the trap and the Tribal Game Warden shall be notified within 24 hours for instructions of disposal.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Injured non-target or protected animals that are captured shall be immediately reported to the Department who may transport the injured animal to the nearest rehabilitation facility.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0511</num>
+      <heading>Waterfowl Hunting</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person hunting waterfowl must possess a Federal Waterfowl Stamp</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0511">this Section</cite> shall be a Class Four Civil Offense. In addition, the violator shall be liable for Liquidated Damages.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0512</num>
+      <heading>Duty to Report Shooting Accident Resulting in Injury or Death; Duty to Give Assistance</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person who, while taking wildlife, is involved in a shooting accident resulting in injury to any person shall render all possible assistance to the injured person, and shall immediately report the accident to the nearest law enforcement officer after rendering such assistance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Such person shall within ten days of the accident file a written report with the Department of such accident.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.05|35.0512">this Section</cite> shall be a Class Four Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0513</num>
+      <heading>Property Damage by Wildlife; Investigation by Department</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as provided in Section 5.13, any person suffering property damage from wildlife may exercise all reasonable measures to alleviate such damage except that reasonable measures shall not include removing, injuring or killing any game animals, fur bearing animals, predatory animals or birds.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person suffering property damage from wildlife may file a written request for assistance with the Department describing the damage suffered and the species of animals causing such damage. The Department shall order an investigation by an employee trained in handling wildlife depredations and provide the technical advice and assistance deemed necessary by the Department.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If removal of animals is found to be necessary to prevent further damage, the Director may order any action deemed reasonably necessary by the Department to stop or restrain such wildlife depredation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0514</num>
+      <heading>Hazardous or Nuisance Animals in Campgrounds, Etc.; Report; Abatement Plan; Protection of Persons</heading>
+      <para>
+        <num>1.</num>
+        <text>An Authorized Officer may use whatever means are reasonably necessary to prevent injury to persons or property from wild animals creating a nuisance or hazard at a camping or other public use area. No animal shall be killed, except to protect persons who are in immediate danger, or as provided in an Abatement Plan pursuant to Subsection C of <cite path="35|35.05|35.0514">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An Authorized Officer who learns of or is involved in an incident involving nuisance or hazardous animals in a camping or other public use area shall file a written Animal Nuisance/Hazard Report with the Department describing the species of the animal, the date, time, and location of the incident, and the nature of the hazard or nuisance.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Department, upon receipt of an Animal Nuisance/Hazard Report, shall order an investigation and report by an employee trained in the handling of animal depredations. If the Department determines that the nuisance or hazard is likely to be of a continuing or repetitious nature, it shall formulate a written Animal Nuisance/Hazard Abatement Plan to remedy the nuisance or hazard and shall implement the plan.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>An Abatement Plan formulated pursuant to <cite path="35|35.05|35.0514">this Section</cite> may authorize the trapping, tagging, moving, or killing of any hazardous or nuisance animals to protect property or public safety.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>No animal trapped pursuant to <cite path="35|35.05|35.0514">this Section</cite> shall be kept in captivity for longer than is necessary to tag and transport the animal to another area for release.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Any animal killed pursuant to <cite path="35|35.05|35.0514">this Section</cite> shall be disposed of pursuant to the provisions of <cite path="35|35.05|35.0515">Section 35.0515</cite>, and except as provided in that Section, no person shall retain any part of such animal.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>After an Abatement Plan has been implemented, the Department shall prepare and file a report on the methods used and the final results, including the disposition of any animal killed pursuant to the plan.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Any person may use any means reasonably necessary, including killing an animal, to protect a person who is in immediate danger of being injured by such animal. Any person who kills an animal pursuant to <cite path="35|35.05|35.0514">this Section</cite> shall leave the animal where it falls and, within three hours of such killing, report the incident to the Department.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0515</num>
+      <heading>Injured Animals; Taking by Authorized Personnel; Disposition; Display</heading>
+      <para>
+        <num>1.</num>
+        <text>If an Authorized Officer learns that an animal has been injured to such a degree that it is unlikely that the animal will recover from its injury, the officer shall, as soon as possible, describe the animal, its injury, and its location to the Department, which may order that the animal be shot and killed. If the animal's location is such that it is not possible for the officer to obtain authorization within a reasonable time, the officer may kill the animal, and then comply with the other provisions of <cite path="35|35.05|35.0515">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any animal killed pursuant to Subsection A shall be transported to the Department biologist, who shall gather such data and make such tests upon the animal as he or she deems necessary.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>After the provisions of Subsection B have been complied with, an Authorized Officer shall transport all useful parts of the animal to a public institution or charitable organization for its use, or, if so ordered by the Director, have the animal mounted and displayed for public education in the Department office.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The officer who killed the animal shall file a report on the incident providing a brief description of his or her compliance with <cite path="35|35.05|35.0515">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Any employee or agent of the Department who sells any part from any animal killed shall promptly make a record of the monies received and transfer the monies immediately to the Tribal Business Office.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0516</num>
+      <heading>Prohibited Devices</heading>
+      <para>
+        <num>1.</num>
+        <text>Possession or use of any of the following devices within a Recreational Area shall be unlawful:</text>
+        <para>
+          <num>a.</num>
+          <text>Any explosive, incendiary or poison gas including but not limited to a bomb, grenade, rocket having a propellant charge of more than four ounces, or mine;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any device designed, made or adapted to muffle the report of a firearm;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Any firearm that is capable of shooting more than one shot automatically by a single function of the trigger without manual reloading;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Any rifle, with a barrel length of less than sixteen inches, or shotgun with a barrel length of less than eighteen inches, or firearm made from a rifle or shotgun which, as modified, has an overall length of less than twenty-six inches;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any breakable container which contains a flammable liquid with a flash point of one hundred fifty degrees Fahrenheit or less and has a wick or similar device capable of being ignited;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Any cross-bow, except for use by an Authorized Officer, or disabled person;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Any magazine capable of holding more than five rounds of ammunition;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Any night vision scope or other night vision apparatus, except for use by an Authorized Officer;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Any combination of parts or materials designed and intended for use in making or converting a device into an item set forth in Subsection (a) or (e) of <cite path="35|35.05|35.0516">this Section</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0516">this Section</cite> shall be a Class Four Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0517</num>
+      <heading>Prohibited Activities; Taking Wildlife</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are:</text>
+        <para>
+          <num>a.</num>
+          <text>Taking or attempting to take any species of Wildlife, except fish and bullfrogs, from within or upon, or by using any method within, upon or attached to a vehicle, aircraft, boat or other watercraft;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Taking or attempting to take any species of Wildlife, except raccoons, fish and bullfrogs, between the hours of 1/2 hour after sunset and 1/2 hour before sunrise;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Taking or attempting to take any species of Wildlife through the use of an artificial light, saltlick or any explosive, corrosive, poisonous or stupefying substance;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Taking or attempting to take any species of Wildlife, except water dogs or bullfrogs, through the use of a net;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Using any wildlife or part thereof as bait in taking any Wildlife, except the inedible parts of fish, if used as bait for hunting bear and fishing, unless otherwise prohibited by this Code or Department regulations;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Failing to remove from the field any edible portion of game taken.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0517">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0518</num>
+      <heading>Prohibited Activities; Fishing</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful:</text>
+        <para>
+          <num>a.</num>
+          <text>Taking any amphibians, crustaceans, mollusks, reptiles or other aquatic wildlife in any manner or place not permitted by Tribal regulations;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Cleaning fish in streams, springs or lakes;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>No person shall permit the edible portion of any game fish to go to waste after taking possession of the same.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Cutting a hole larger than ten inches in diameter for ice fishing;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>No person shall destroy, tear down, deface or erase any printed matter or signs placed or posted by or under the instructions of Turtle Mountain Tribe Game and Fish Department.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>No person shall counsel, encourage, solicit, request, aid, procure or abet another to commit any act prohibited under this act.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0518">this Section</cite> shall be a Class One Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0519</num>
+      <heading>Prohibited Activities; Hunting</heading>
+      <para>
+        <num>1.</num>
+        <text>Except as otherwise permitted by this Code, in addition to all other activities prohibited by this Code, the following acts are unlawful:</text>
+        <para>
+          <num>a.</num>
+          <text>Handling or discharging any firearm, bow and arrow or other device for taking Wildlife while intoxicated, or in a careless or reckless manner, or with wanton disregard for the safety of human life or property, or misusing a firearm in any other manner as defined in this Code or by Department regulations while taking wildlife;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Detaching or removing, or attempting to detach or remove, from the carcass of a big game animal a portion thereof for the purpose of misrepresenting or concealing the species or sex of the animal;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Using a dog, other than for retrieval, to take any big game other than raccoon, or mink;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Discharging a firearm or using any pyrotechnic (fireworks, etc.) device:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>In or within one quarter mile of a residence, building, campsite, developed recreation site or occupied area; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Across or on a way, or within one quarter mile of a roadway, or in any manner or place whereby any person or property is exposed to injury or damage as result of such discharge or use.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Have in his possession or under his control any unprocessed bird, or animal during the closed season or in excess of the bag limit, or without the required permit or tag.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Permit the edible portion of any game animal, or game bird to go to waste after taking possession of the same.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Shall transport a weapon with a bullet in the chamber.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.05|35.0519">this Section</cite> shall be a Class Three Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35.06</num>
+    <heading>Enforcement &amp; Penalties</heading>
+    <section>
+      <num>35.0601</num>
+      <heading>Jurisdiction</heading>
+      <text>Except as otherwise provided by this Code, the Turtle Mountain Tribe, through its Tribal Council, Tribal Court, and such other tribal entities as are designated by Tribal law, shall have absolute, original, and exclusive jurisdiction to regulate and adjudicate all matters pertaining to wildlife and other resources, and all matters pertaining to Recreational Activities.</text>
+      <text>This authority is derived by Treaties with the Chippewa, etc. 1825 and 1829 at Prairie du Chien, The Sweet Corn Treaty, The Treaty with the Chippewa-Red Lake and Pembina Bands, 1863 and 1864, Executive Orders of 1882 and 1884, the McCumber Agreement of 1892, and the Turtle Mountain Agreement of 1904. The Turtle Mountain Pembina Chippewa reserved the right to control the restoration of habitat and taking of wildlife upon all lands designated by the Constitution and Bylaws of the Turtle Mountain Band of Chippewa, Article II Jurisdiction Section 1 – "That may be acquired in behalf of the Turtle Mountain Band of Chippewa."</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0602</num>
+      <heading>Notice</heading>
+      <text>Each year, no later than July, the Department will publish an Official Notice in regional and local newspapers declaring its jurisdictional authority of this Code including the following information:</text>
+      <para>
+        <num>1.</num>
+        <text>That permits are required for all outdoor recreational activities covered by the Code;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>That persons who violate Tribal law may be subject to Tribal or Federal prosecution.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Where persons may obtain permits.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0603</num>
+      <heading>Civil Complaints</heading>
+      <text>Except as otherwise provided in this Code, all matters arising under this Code shall be adjudicated in the Turtle Mountain Tribal Court following the filing of a Civil Complaint naming the Turtle Mountain Tribe as plaintiff, by the Department alleging the violation, or by legal counsel for the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0604</num>
+      <heading>Procedure</heading>
+      <text>Except as otherwise provided in this Code, or as the interests of justice may require, the Turtle Mountain Tribe's Formal Rules of Civil Procedure shall govern all questions of procedure arising as a result of the enforcement of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0605</num>
+      <heading>Federal Prosecution</heading>
+      <para>
+        <num>1.</num>
+        <text>Nothing in this Code shall be deemed to preclude federal prosecution under 18 U.S.C. § 1165 of Non-members who trespass to hunt, trap, fish, or to remove wildlife. Federal prosecution may be pursued in addition to or in lieu of other enforcement procedures provided by this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The taking or using of Tribal property or services contrary to the terms of this Code constitutes theft of Tribal assets. Accordingly, nothing in this Code shall be deemed to preclude federal prosecution under 18 U.S.C. § 1163 for theft of Tribal property. Federal prosecution may be pursued in addition to or in lieu of other enforcement procedures provided by this Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Nothing in this Code shall be deemed to preclude federal prosecution pursuant to 16 U.S.C. § 3371 et seq., (Lacey Act). Federal prosecution may be pursued in addition to or in lieu of other enforcement procedures provided by this Code.</text>
+      </para>
+      <text>
+        <ul proof="needed">
+          <li><u>Criminal sanctions</u>.</li>
+        </ul>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>It shall be a criminal offense for any person over whom the Tribe may assert criminal jurisdiction to:</text>
+        <para>
+          <num>a.</num>
+          <text>Take, possess, transport, buy, sell, conceal, or offer for sale any big game species or any part thereof in violation of this Code, or Department rule or regulation; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Detach or remove from the carcass of a big game animal a portion thereof for the purpose of concealing evidence of illegality; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Use an explosive compound, or a corrosive, narcotic, poison or other deleterious substance for the purpose of taking, stunning, or killing wildlife.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Violation of <cite path="35|35.06|35.0605">this Section</cite> shall be punished by a fine of not less than $50.00 nor more than $1,000.00, or by imprisonment in the Tribal jail for not less than one (1) day nor more than sixty (60) days, or performance of up to 80 hours of community service, or by any combination of such fine, imprisonment and community service.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person over whom the Tribe may assert criminal jurisdiction who is a public officer, and who willfully fails to enforce this Code, or a lawful rule, regulation or order of the Department is guilty of a criminal offense and is subject to the punishment provided in <cite path="35|35.06|35.0605">this Section</cite>.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The criminal penalties in <cite path="35|35.06|35.0605">this Section</cite> shall be in addition to the Liquidated Damages assessment pursuant to <cite path="35|35.06|35.0623">Section 35.0623</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0607</num>
+      <heading>Criminal Attempt</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person over whom the Tribe may assert criminal jurisdiction who attempts to commit any offense prohibited in Section 6.6 shall be guilty of a criminal offense.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the purpose of <cite path="35|35.06|35.0607">this Section</cite>, "attempt" means to:</text>
+        <para>
+          <num>a.</num>
+          <text>Intentionally engage in conduct which would constitute the offense if the attendant circumstances were as the person believes them to be; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Intentionally do or omit to do anything which, under the circumstances as such person believes them to be, is any step in a course of conduct planned to culminate in commission of the offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.06|35.0607">this Section</cite> shall be punished by a fine of not less than $50.00 nor more than $1,000.00, or by imprisonment in the Tribal jail for not less than one (1) day nor more than sixty (60) days, or performance of up to 80 hours of community service, or by any combination of such fine, imprisonment and community service.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0608</num>
+      <heading>Criminal Solicitation</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person over whom the Tribe may assert criminal jurisdiction who solicits another person to commit any offense prohibited in Section 6.6 shall be guilty of a criminal offense.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the purpose of <cite path="35|35.06|35.0608">this Section</cite>, "solicit" means to encourage, command or request another person to engage in specific conduct which would constitute the offense or an attempt to commit such offense or would establish his or her complicity in its commission or attempted commission.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.06|35.0608">this Section</cite> shall be punished by a fine of not less than $50.00 nor more than $1,000.00, or by imprisonment in the Tribal jail for not less than one (1) day nor more than sixty (60) days, or performance of up to 80 hours of community service, or by any combination of such fine, imprisonment and community service.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0609</num>
+      <heading>Criminal Conspiracy</heading>
+      <para>
+        <num>1.</num>
+        <text>Any person over whom the Tribe may assert criminal jurisdiction who conspires with another person to commit any offense prohibited in Section 6.6 shall be guilty of a criminal offense.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the purpose of <cite path="35|35.06|35.0609">this Section</cite>, "conspire" means to:</text>
+        <para>
+          <num>a.</num>
+          <text>Agree with another person or persons that they or one or more of them will engage in conduct which constitutes the crime; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Agree to aid another person or persons in the planning or commission of such crime or of an attempt to commit such crime.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Violation of <cite path="35|35.06|35.0609">this Section</cite> shall be punished by a fine of not less than $50.00 nor more than $1,000.00, or by imprisonment in the Tribal jail for not less than one (1) day nor more than sixty (60) days, or performance of up to 80 hours of community service, or by any combination of such fine, imprisonment and community service.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0610</num>
+      <heading>Warrants, Subpoenas, and Service of Process</heading>
+      <para>
+        <num>1.</num>
+        <text>Any Authorized Officer may, in addition to exercising any of the powers granted by this Code:</text>
+        <para>
+          <num>a.</num>
+          <text>Execute warrants issued for the arrest of violators of this Code;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Execute search warrants issued by the Tribal Court in matters arising under this Code;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Serve subpoenas or other legal documents issued in matters arising under this Code;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Issue citations for violations of this Code.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0611</num>
+      <heading>Searches and Seizures</heading>
+      <para>
+        <num>1.</num>
+        <text>Any Authorized Officer may, without a search warrant, search any aircraft, watercraft, motorized vehicle, ice fishing house, box, game animal, bag, locker, tool box, ice chest, camper, camper shell, trailer, backpack, bedroll, sleeping bag, or other container or package if the officer has probable cause to believe that wildlife or parts thereof taken in violation of this Code, or the instrumentalities of such illegal taking, are contained therein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any Authorized Officer may inspect all wildlife or parts thereof taken, possessed, or transported on the Reservation, and may seize as evidence all wildlife that such officer has probable cause to believe has been taken, possessed, or transported in violation of this Code, and any object that the officer has probable cause to believe has been used as the instrumentality of such illegal taking, possession, or transportation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For all property seized as evidence, the Authorized Officer shall make an inventory and provide a copy to the person from whom the property was taken. After the final disposition of the case, a hearing shall be held by the court to determine the disposition of all property taken as evidence. Upon satisfactory proof of ownership, property taken as evidence shall be returned to the owner, except for contraband, which shall be disposed pursuant to Sections 35.0628 and 35.0629.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0612</num>
+      <heading>Apprehension of Suspected Violators</heading>
+      <para>
+        <num>1.</num>
+        <text>Any Authorized Officer who has reasonable grounds to believe that a person has violated this Code, either in or out of the officer's presence, shall identify himself or herself to such person and promptly determine whether the person is a Member or Non-member, and if a Non-member, whether the person is Indian or non-Indian. In making such determination, the officer may demand identification and ask such questions as the officer reasonable believes are necessary to make the determination.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who an Authorized Officer reasonably believes to have violated this Code may:</text>
+        <para>
+          <num>a.</num>
+          <text>Be issued a Complaint, pursuant to Section 6.13, and, if appropriate, be required to post a bond, pursuant to Section 6.15, and be released; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>If the suspected violator is a Member or Non-member Indian, be arrested and held for initiation of criminal prosecution; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>If the suspected violator is a Non-member, be arrested and held for initiation of federal prosecution and/or expulsion procedures provided for by Tribal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the suspected violator refuses to identify him or herself the officer shall enter a fictitious name, such as John Doe, on the Complaint. After learning the defendant's true name, the Tribe shall amend the Complaint to reflect the defendant's true name.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0613</num>
+      <heading>Complaints</heading>
+      <para>
+        <num>1.</num>
+        <text>The issuance of a Complaint initiates a civil or criminal action against a suspected violator of this Code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Complaint shall be prepared in duplicate and be signed by the person cited. One copy will be given to the person cited; the other copy will be filed with the Tribal prosecutor.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any Member who fails to sign the Complaint shall be arrested and transported to Tribal jail pursuant to Tribal law governing the arrest of criminal suspects, or shall be subject to the Field Bond Procedures of this Code. Any Non-member who fails to sign the Complaint shall be subject to the Field Bond Procedures of this Code.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Complaint shall inform the person cited of the violation charged, the location, date, and time of the alleged violation, and the location, date and time of the Initial Appearance, which shall be scheduled not more than 14 days from the date of the issuance of the Complaint. The Complaint shall also inform the person cited that failure to appear at the Initial Appearance will result in the entry of a default judgment against him or her and forfeiture of bond money or property, and for persons charged criminally, will result in the issuance of an arrest warrant for failure to appear, which shall be a separate offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0614</num>
+      <heading>Initial Appearance</heading>
+      <para>
+        <num>1.</num>
+        <text>A person served with a Complaint shall appear at the time and place stated in the Complaint, or prior to that time if so authorized by the court, and upon the directions contained in the Complaint admit or deny the allegations contained within the Complaint. In any civil action, the defendant may file a written response to the complaint, in lieu of a personal appearance; provided that the defendant so notifies the court not less than 24 hours before the scheduled Initial Appearance and that the court prior to the scheduled Initial Appearance receives the written response.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For a civil complaint, if the defendant admits to liability for the acts complained of, the Court may immediately impose a penalty or set a separate hearing to establish a penalty. If the defendant denies liability, the proceedings used to adjudicate liability shall be in accordance with the Turtle Mountain Tribe Formal Rules of Civil Procedure. Upon a showing of substantial need and in the interests of justice, the court may order that the proceedings be held in accordance with the Turtle Mountain Tribe Informal Rules of Civil Procedure.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Proceedings used to adjudicate criminal actions for violations of this Code shall be in accordance with the Turtle Mountain Tribe Rules of Criminal Procedure.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0615</num>
+      <heading>Field Bond</heading>
+      <para>
+        <num>1.</num>
+        <text>Upon issuing a Complaint, an Authorized Officer may demand that a suspected violator post a Field Bond in an amount equal to the maximum amount of the Civil Penalty plus the Liquidated Damages Amount for the violations alleged in the Complaint.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Bond property may be cash or other property, which the officer reasonably believes is valued at an amount at least equal to the required bond amount.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Field Bond is justified and shall be collected by the officer using any reasonably necessary non-deadly force, when, in the officer's judgment:</text>
+        <para>
+          <num>a.</num>
+          <text>The violator is not a resident of Tribal    jurisdiction; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The violator does not own sufficient valuable property which is permanently affixed to or stored within Tribal jurisdiction; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The violator refuses to sign the complaint; or</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The violator cannot be, or refuses to be, positively identified; or</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any other reason which leads the officer to believe that the violator's presence at the court hearing for the violation cannot be assured, or the violator's willingness or ability to pay the fine, penalty or Liquidated Damages assessment is reasonably questioned.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any person who believes that a Field Bond has been required unlawfully or unreasonably may request, in writing, a bond hearing before the Tribal Court. Bond hearings shall take place within three (3) days of the filing of such request, excluding Saturdays, Sundays or other Court holidays.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Non-cash bond property may be redeemed at any time during normal business hours at the Department Office by the posting of a cash bond, or payment of damages. Post judgment redemption must occur, if at all, within 30 days of the entry of judgment, unless an appeal is filed.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the suspected violator is found liable for the alleged violation, and there is no appeal, the bond will be applied in satisfaction of the judgment. Failure to appear at the hearing will result in entry of a default judgment and forfeiture of bond. Non-cash bond property will be sold at an auction and the proceeds will be applied to the judgment. Any excess proceeds will be returned to the violator.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>If the suspected violator is found to be not liable for the alleged violation, the bond property will be returned.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0616</num>
+      <heading>Bond Notice Procedures</heading>
+      <para>
+        <num>1.</num>
+        <text>If feasible, the officer shall issue a Bond Notice to a suspected violator before the officer takes possession of any bond property. An officer may seize bond property first and then issue a Bond Notice if the officer reasonably believes that the delay caused by the Bond Notice Procedure could:</text>
+        <para>
+          <num>a.</num>
+          <text>Jeopardize the safety of the officer; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Lead to a breach of the peace; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Jeopardize the opportunity to receive a Field Bond; or</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Allow the suspected violator the opportunity to flee the jurisdiction of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Bond Notice shall be prepared in duplicate and be signed by the suspected violator. One signed copy of the Bond Notice shall be attached to the Complaint and filed with the Tribal prosecutor; the other copy shall be given to the suspected violator.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Bond Notice shall contain the following information:</text>
+        <para>
+          <num>a.</num>
+          <text>The date;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The suspected violator's name and address;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The Complaint number;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The alleged violation;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The maximum dollar amount of the penalty;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The Liquidated Damages amount;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>The required bond amount;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>The signature and identification number of the issuing officer;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>If a cash bond is posted, the amount received;</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>If a property bond is posted, a description of the property, including serial and model numbers, where available, and the officer's estimate of the value of the property;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Information concerning the redemption or return of the Field Bond;</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Any other information, which may be reasonably  requested by the Department.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0617</num>
+      <heading>Cash Bond Trust Fund</heading>
+      <text>Within two business days of being posted, all cash bonds shall be deposited in a trust account established by the Tribal Court for that purpose.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0618</num>
+      <heading>Bond Property Storage</heading>
+      <text>All bond property shall be inventoried, labeled with the defendant's name and citation number, and placed in secured storage at the Department within 24 hours of being posted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0619</num>
+      <heading>Revocation and Denial of Right to Obtain Permit; Notice</heading>
+      <para>
+        <num>1.</num>
+        <text>If any person is found in violation of this Code, the Department may revoke that person's permit to take wildlife or engage in Recreational Activities. This remedy is available in addition to the other remedies provided by this Code and is subject to the following conditions:</text>
+        <para>
+          <num>a.</num>
+          <text>No more than ninety days after the Tribal Court's ruling, the Department shall notify the person of its intent to revoke that person's permit and privilege. Notice shall be sent to the violator's last known address by registered mail;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The Department shall give the person an opportunity for a hearing to show cause why such permit and privilege should not be revoked;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The person whose permit and privilege has been revoked may appeal the Department's final decision to the Tribal Court within thirty days of the Department's decision.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Department shall furnish to permit dealers the names and addresses of persons whose permits have been revoked, and the periods for which they have been denied the right to secure permits.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>It shall be unlawful for any person to knowingly issue a permit of any kind to a person whose privilege to obtain that permit has been revoked. Any permit issued to a person whose privilege to have that permit has been revoked shall be void.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Violation of <cite path="35|35.06|35.0619">this Section</cite> shall be a Class Two Civil Offense.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0620</num>
+      <heading>Trespassing; Expulsion of Non-Members</heading>
+      <para>
+        <num>1.</num>
+        <text>Any Non-member who violates this Code shall be deemed a trespasser. Such violation includes, but is not limited to, failure to purchase and possess a valid Recreation Permit. It shall be unlawful for any Non-member to trespass on the Turtle Mountain Chippewa Reservation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any Authorized Officer may expel Non-members who violate this Code, in addition to or in lieu of any other enforcement procedure provided for by this Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any Non-member who violates this Code shall also be subject to formal exclusion pursuant to the Tribal Government Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0621</num>
+      <heading>Contempt</heading>
+      <text>All defendants to actions brought under this Code, whether Member or Non-member, shall be subject to the civil contempt power of The Turtle Mountain Tribal Court, and may be sanctioned by any means provided for in the Turtle Mountain Tribal Code for civil contempt, including, but not limited to, imprisonment or other fines or penalties to compel compliance with a lawful court order.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0622</num>
+      <heading>Liquidated Damages Provisions</heading>
+      <para>
+        <num>1.</num>
+        <text>The Department shall prepare and at least once per year shall review and, as necessary, revise a schedule of Liquidated Damages calculated to closely approximate the cost of providing equitable restitution to the Tribe for the damage which would be caused by each violation of each regulation of this Code. In calculating these Liquidated Damages the Department may consider, in addition to any other factors reasonably deemed relevant:</text>
+        <para>
+          <num>a.</num>
+          <text>The cost to the Tribe of producing and/or protecting the resource;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The cost of replacing or restoring the resource;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The costs of enforcement including the general overall costs and costs particularized to individual violations where appropriate;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The loss to the Tribe of license revenue;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Damages for trespass.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Department shall publish the schedule of Liquidated Damages and cause it to be made available to the public at all permit outlets.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0623</num>
+      <heading>Liquidated Damages Presumption</heading>
+      <para>
+        <num>1.</num>
+        <text>Since in most instances the exact amount of damages caused to the Tribe by a particular violation of this Code will be difficult or impossible to determine, it shall be presumed by the court adjudicating a complaint for violation of this Code that the amount fixed by the schedule of Liquidated Damages represents the damages owed to the Tribe as restitution if the defendant is found to be liable. This presumption may be rebutted by evidence which shows by clear and convincing evidence that the amount indicated by the schedule of Liquidated Damages is so excessive in a particular case as to be punitive, or so inadequate in a particular case as to result in a gross deprivation of adequate restitution. In any case in which the presumption is successfully rebutted, the parties may introduce evidence to prove the actual damages as in any other civil case.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All persons shall be deemed to have consented to the Liquidated Damages provisions of this Code by their entry onto the Reservation, and where applicable, by their signature on a Tribal permit or permits.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0624</num>
+      <heading>Punitive Damages</heading>
+      <para>
+        <num>1.</num>
+        <text>Nothing in this Code shall be deemed to preclude the Tribe, through its counsel, from praying for and being awarded punitive damages in any civil action filed for a violation of this Code wherein it is alleged that the violator has committed the acts constituting the violation without regard to the interests of the Tribe or wantonly, willfully or maliciously.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Court, in assessing punitive damages, shall determine their amount in the same manner in which it would determine punitive damages in any other civil action. Punitive damages shall not exceed ten times the amount of the civil penalty.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0625</num>
+      <heading>Costs</heading>
+      <para>
+        <num>1.</num>
+        <text>In addition to civil penalties and liquidated and punitive damages, the Court may award payment of costs associated with damage to Tribal resources not otherwise provided for in this Code, including, but not limited to, rehabilitation, reforestation, loss of future revenue and loss of productivity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Court may also charge the violator with payment of all reasonable costs associated with the enforcement of these regulations, beginning with detection and including all processes through prosecution and collection of the settlement, such as field or animal examination and survey, damage appraisal, investigation assistance and reports, witness expenses, demand letters, court costs and attorney's fees.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0626</num>
+      <heading>Seizure of Prohibited Devices</heading>
+      <para>
+        <num>1.</num>
+        <text>Any device defined at Section 5.16 may be seized by the officer if:</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Seizure of the suspected violator's property is directly necessary to prevent irreparable injury to Tribal property or resources; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Prompt action is needed because it is likely the person may flee with, or conceal the offending property, or continue the prohibited use.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Any officer seizing property under <cite path="35|35.06|35.0626">this Section</cite> shall issue to the person from whom it is seized a receipt for the property describing it in detail. The officer shall then deliver the property to the Director for safe keeping pending the outcome of all hearings on the seizure and the underlying violations, which shall be adjudicated pursuant to this Code.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In addition to filing any other complaints for the illegal use or possession of the seized property, the counsel for the Tribe may apply to the Court for an injunction prohibiting the continued use or possession of the property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0627</num>
+      <heading>Disposal of Prohibited Devices</heading>
+      <para>
+        <num>1.</num>
+        <text>After adjudicating the underlying complaints of illegal possession or use, the Court shall dictate the disposal of the seized property.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Return of property: If the seized property belongs to a Non-member, the Court shall return the property to its owner, unless it determines that continued retention of the seized property is necessary to secure payment of a judgment as provided by the Field Bond procedures of this Code. The Court shall also advise the owner of the terms of any injunctions which have been issued against the continued use or possession of the property, and shall further advise the violator that violation of the injunction is contempt of court and may subject the violator to further civil liability.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Forfeiture: If the seized property belongs to a Member, or to a Non-member who fails to appear, the judge may order, in addition to any other sanction imposed for the violation, that the property be forfeited to the Tribe. In case of such forfeiture, the Director shall dispose of the property in the manner most consistent with the goals of the Department, choosing between destruction of the property, sale for the benefit of the Department at public auction, or retention of the property for Department use.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the owner of seized property cannot be determined, the complaining officer shall file with the Court Clerk a Notice of Intent to Confiscate and a Complaint, designating the defendant by a fictitious name following the procedures of <cite path="35|35.06|35.0612">Section 35.0612</cite> (3), and include a description of the property, the date of seizure and the location of seizure. The Court Clerk shall cause them to be posted in the Court and published in appropriate local and regional newspapers for two consecutive issues. A hearing on the matter shall be set for the first available date after the publication period has ended, and the date of the hearing shall be included in the posted and published notices. If the owner of the property fails to appear at the scheduled hearing the Court shall dispose of the property pursuant to Section 3.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0628</num>
+      <heading>Disposition of Fees, Forfeitures, Penalties</heading>
+      <para>
+        <num>1.</num>
+        <text>All fees resulting from the sale of permits by the Department and its agents, and all fines, costs, monies, penalties or damages collected for violation of this Code shall be deposited in the Tribal General Fund and shall be available for expenditure in connection with the conservation and protection of the fish and wildlife of the Turtle Mountain Tribe; provided, however that bonds, unless forfeited, shall be deposited in a Trust account as provided by <cite path="35|35.06|35.0617">Section 35.0617</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each Tribal judge or clerk of the Court shall, within twenty days after a judgment has been rendered under the provisions of this Code, remit to the Tribal Treasurer all fines, forfeitures, damages or penalties collected.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0629</num>
+      <heading>Disposition of Seized Wildlife and Property</heading>
+      <para>
+        <num>1.</num>
+        <text>Wildlife seized under this Code may be disposed of in such manner as the Department may prescribe.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Department shall prepare a report of all wildlife and devices seized by Authorized Officers showing a description of the items, the persons from whom they were seized, if known, and the disposition of the items. This report shall be prepared annually and kept by the Department. All money derived from the sale of any seized property shall be deposited in the Department fund.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>35.0630</num>
+      <heading>Inspection of Game and Fish Without Arrest</heading>
+      <text>In order to see that bag or fish limits are being observed, Conservation Law Enforcement Officers (CLEO's) shall have the power to inspect game, fur-bearing animals and fish taken by any person found hunting, trapping or fishing without arresting the person. (Approved–Resolution No. TMBC841-02-20).</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

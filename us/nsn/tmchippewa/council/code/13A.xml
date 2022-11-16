@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>13A</num>
+  <heading>Tribal Elections</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.01</num>
+    <heading>General Purpose Statement</heading>
+    <section>
+      <num>13.0101</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="13A">this Title</cite> is to establish the laws for the election of the Tribal and Judicial officials and representatives in a fair and impartial manner consistent with the democratic principle of allowing the people to vote for the person who will represent their rights and interests and those of the Tribe in government and in the judicial system and in compliance with the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.02</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>13.0201</num>
+      <heading>In This Title, the Following Terms Shall Be Defined as Follows:</heading>
+      <para>
+        <num>1.</num>
+        <text><strong>"DOMICILE" </strong>shall mean a person's permanent residence (Article III, Section 3, Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"<strong>Filing"</strong> shall mean actual delivery or postmark for delivery by deadline date to the appropriate Election Board official.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"<strong>Legal Relationship</strong>" shall mean a relationship by virtue of legally recognized document for the purpose of marriage, guardianship, adoption, or foster care.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"<strong>Notice of Intent</strong>" shall mean written notification by a candidate of that person's intent to run for office.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"<strong>Resident</strong>" shall mean an enrolled Turtle Mountain Chippewa person or persons physically living in a particular place within the boundaries of Rolette County.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"<strong>Official/Officer</strong>" shall mean a person vested with the authority of a Tribal or judicial elected or appointed office.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"<strong>Referendum</strong>" shall mean an action by the tribal governing body to refer any enacted or proposed Tribal Council resolution, ordinance or constitutional amendment to the voters for their approval or rejection.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"<strong>Voters</strong>" shall mean all voters entitled to vote in the Tribal Elections, based on Amendments 1 &amp; 2 of the Turtle Mountain Constitution and Bylaws approved by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"<strong>Enrolled member</strong>" shall mean any member of the Turtle Mountain Band of Chippewa Indians listed on the membership roll maintained by the Secretary of Interior, or designated representatives.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"<strong>Spoiled ballot</strong>" shall mean a ballot which is not stamped and/or initialed by the Election Judge or Inspector, contains any stickers, write-ins or other markings which are not required in order to cast a vote, or is mutilated, torn, or otherwise damaged in such a manner as to render it impossible to determine how or for whom the voter cast his or her vote.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text><strong>"RECALL"</strong> shall mean an election to vote on whether a particular elected official should be removed from office.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>A <strong>"QUALIFIED VOTER" </strong>shall mean an enrolled member of the Turtle Mountain Band of Chippewa Indians who meets the qualifications set out in <cite path="13|13.03|13.0301">Section 13.0301</cite> of this Title and in Article V, Section 2 (a) and (b) of the Turtle Mountain Tribal Constitution and Bylaws.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text><strong>"TALLYING" </strong>shall mean by hand or electronic equipment. Amended Resolution No. TMBC952-09-12</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.03</num>
+    <heading>Voter Qualification</heading>
+    <section>
+      <num>13.0301</num>
+      <heading>Voter Qualification</heading>
+      <text>Pursuant to Article V, Section 2(a) and (b) of the Constitution, a person must meet the following qualifications in order to vote in all duly called elections of the Tribe:</text>
+      <para>
+        <num>1.</num>
+        <text>Any enrolled member of the Tribe, eighteen (18) years of age or over, shall be entitled to vote in any tribal election.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All eligible resident voters shall register in the district of their residence as provided by tribal ordinance. All eligible nonresident voters shall register with the district of their former residence or affiliation.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.04</num>
+    <heading>Election Officials</heading>
+    <section>
+      <num>13.0401</num>
+      <heading>Election Board</heading>
+      <para>
+        <num>1.</num>
+        <text>A five (5) member Election Board shall be appointed for a term of two (2) years by the Tribal Council not less than sixty (60) days before the general election. The Election Board shall consist of one (1) member from each district selected by the Tribal Council and one (1) member at large, who will be designated as the Chairperson of the Election Board, selected by the Chairperson of the Tribal Council. Two weeks after the appointment herein, the Tribal Council shall convene a meeting of the Election Board for purposes of orientation. In the event that no successors to the Election Board are appointed at the expiration of its term, such Election Board shall continue to serve in that capacity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Election Board shall have the authority to appoint a Vice-Chairperson from its membership to act in the absence or disability of the Chairperson; to appoint a Recording Clerk from its membership, to keep minutes of all meetings.  On the end of his/her term, shall submit the recorded minutes to the principal office within the Election Board binder to the Election Board Chairperson.  The Election Board Chairperson shall submit this binder to the Tribal Council Secretary.  If an Election Board Member is absent or disabled the Board will contact the Tribal Council to fill an Election Board position. Amended Resolution No. TMBC916-09-14</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0402</num>
+      <heading>Election Committee</heading>
+      <text>An Election Committee, appointed by the Election Board, shall be comprised of at least one (1) election clerk and two (2) election judges from and for each district. The Election Committee members have no authority to vote on contested election issues which are within the province of the Election Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0403</num>
+      <heading>Qualifications for Election Board and Election Committee</heading>
+      <para>
+        <num>1.</num>
+        <text>Each member of the Election Board and Election Committee must be eligible to vote at the polling place of the district to which the member is assigned.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person shall not serve as a member of the Election Board or Election Committee if he/she:</text>
+        <para>
+          <num>a.</num>
+          <text>is a candidate in the present election or an employee; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>is the husband, wife, father, mother, son, daughter, brother, sister, father-in-law, mother-in-law, son-in-law, daughter-in-law, whether by birth or legal relationship, of the whole or the half-blood, of any candidate in the present election; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Is an employer or employee of a candidate in the present election or an employee of the Tribe. For purposes of <cite path="13A|13.04|13.0403">this section</cite>, "employee of the tribe" is defined as a person whose paycheck comes directly from a tribal account.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0404</num>
+      <heading>Removal and Replacement of Election Board</heading>
+      <para>
+        <num>1.</num>
+        <text>Any members of the Election Board or Election Committee may be removed by vote of the Tribal Council for any reason and must be removed if the member is no longer eligible to serve on the Board or Committee pursuant to §13.0403. Such removal and replacement shall be deemed a protected personnel privacy issue in accordance with Article VII, Section 1 of the Turtle Mountain Band of Chippewa Indians Constitution and Bylaws.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any vacancy occurring under <cite path="13A|13.04|13.0404">this section</cite> or otherwise shall be filled in accordance with §13.0401 or §13.0402 of <cite path="13A">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0405</num>
+      <heading>Oath of Election Board and Election Committee</heading>
+      <para>
+        <num>1.</num>
+        <text>Prior to assuming their duties, all members of the Election Board and Election Committee, individually, shall take and subscribe an oath in the following form:</text>
+        <text>I,  <u>_______________________</u>	, do solemnly swear (or affirm) that I will support the Constitution of the Turtle Mountain Band of Chippewa and will faithfully discharge the duties of my office as an (election board member and/or election inspector, judge, or clerk) according to law and to the best of my ability, and that I will diligently endeavor to prevent fraud, deceit, and abuse in conducting the same.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Such oath may be taken before any officer authorized by law to administer oaths, and in case no such officer is present at the opening of the polls, the inspector or election judges shall administer the oath to each other and to the election clerks. The person administering the oath shall cause an entry thereof to be made and subscribed by him and affixed to the poll book.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.05</num>
+    <heading>Duties of Election Officials</heading>
+    <section>
+      <num>13.0501</num>
+      <heading>Election Board Duties Before the Election</heading>
+      <text>It shall be the responsibility of the Election Board to:</text>
+      <para>
+        <num>1.</num>
+        <text>Receive and review all notices of intent and determine whether the candidate is qualified for office according to qualifications listed in <cite path="13.07">Chapter 13.07</cite> and determine that such notice is filed by the posted deadline;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Prepare and publish any Notice of Election as described in §13.1002 and §13.1206 of <cite path="13A">this Title</cite>;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Determine the order for placement of the candidates' names on the ballot in accordance with <cite path="13|13.08|13.0801">section 13.0801</cite>;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Prepare and post a list of eligible candidates at least fourteen (14) days before the primary election in each voting district and seven (7) days before the General election in each voting district;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Prepare and provide each polling site with ballots listing:</text>
+        <para>
+          <num>a.</num>
+          <text>The names of qualified candidates for elective office in accordance with Article V, section 4(B) of the Constitution; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Any proposed constitutional amendments or referendum issues;</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Make arrangements for the polling places, obtain all materials such as ballots, pencils, ballot boxes and establish such records as are required by <cite path="13.05">this Chapter</cite>;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Distribute absentee ballots as provided in <cite path="13.09">Chapter 13.09</cite> of <cite path="13A">this Title</cite>;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Maintain a record of absentee ballots mailed, to whom mailed, the date of mailing, the date of the return of the ballot and name and address from whom received;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Select two election judges from and for each district;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Select an election clerk or clerks from and for each district; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Distribute rules governing campaigning and election day conduct to all candidates at the time the candidate files his or her notice of intent.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0502</num>
+      <heading>Election Board Duties During the Election</heading>
+      <text>It shall be the duty of the Election Board during hours the polls are open to:</text>
+      <para>
+        <num>1.</num>
+        <text>Determine the eligibility of voters in accordance with <cite path="13.03">Chapter 13.03</cite> of <cite path="13A">this Title</cite>; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Supervise and maintain order at the polling site of the election; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Serve as Election Inspector at an election polling site assigned by the Election Board Chairperson.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0503</num>
+      <heading>Election Board Duties After the Election</heading>
+      <para>
+        <num>1.</num>
+        <text>On the next business day following the election, it shall be the duty of the Election Board to review all affidavits filed by voters:</text>
+        <para>
+          <num>a.</num>
+          <text>To determine the outcome of all challenged votes and include the ballots of qualified voters in the results of the election for each respective district;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Register all absentee votes in the appropriate district and include such ballots in the results of the election for each respective district.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Within thirty-six (36) hours after the election, it shall be the duty of the Election Board to tally the results by hand or electronic equipment at an area designated by the Election Board in order to allow for the tallying of ballots by hand or electronic equipment in each district polling site and report such election results to the Chairperson of the Election Board and deliver to the Chairperson of the Election Board all election records (including all ballots) in a locked box.  TMBC952-09-12</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notify appropriate authorities of suspected election tampering as provided under §26.1106 of the Tribal Code.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At any time during its appointed term to verify any recall petitions accepted by the Tribal Council Chairperson or his/her duly authorized representative in accordance with §13.1205.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0504</num>
+      <heading>Duties of Election Board Chairperson</heading>
+      <text>It shall be the duty of the Election Board Chairperson to:</text>
+      <para>
+        <num>1.</num>
+        <text>Call meetings of the Election Board and preside over such meetings;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Receive all absentee ballots pursuant to <cite path="13|13.09|13.0901">section 13.0901</cite>(4) and deposit the same in the Bureau of Indian Affairs locked vault until the Election Board convenes after the election to tally by hand or electronic equipment election results at which time the Chairperson shall retrieve all absentee ballots and provide them to the Election Board for tallying shall mean by hand or electronic equipment with the other votes cast in the election;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Receive the locked ballot boxes from the Election Judges under <cite path="13|13.05|13.0506">Section 13.0506</cite>(6) and place the same with the Bureau of Indian Affairs to be placed in a locked vault along with the absentee ballots until such time as the Election Board convenes to tally the votes;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Report and verify the election results from each district polling site as provided by the Election Board to the Secretary-Treasurer of the Tribal Council;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>After receipt from the Election Board, secure and maintain all election records by depositing the same with the Bureau of Indian Affairs for placement in a locked vault, for a period of sixty (60) days following the election unless there is a contested election in which case the records shall be retained until there is a final adjudication of the matter. Thereafter all records shall be destroyed; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Accept recall petitions on behalf of the Election Board from the Tribal Council or Tribal Chairperson or appoint a representative from the Election Board to accept such petitions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0505</num>
+      <heading>Duties of the Election Inspector</heading>
+      <text>It shall be the duty of the Election Inspector to:</text>
+      <para>
+        <num>1.</num>
+        <text>Confirm in the presence of an Election Board member that the ballot box is empty of all ballots prior to the opening of the polls and padlock the ballot box after such inspection;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Stamp all ballots with district number and initial all ballots;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Open and close the polls at the prescribed time;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Authorize a replacement ballot to a qualified voter upon his or her determination that the previous ballot has been spoiled, keep all spoiled ballots separate from other ballots and deliver such spoiled ballots to the Election Board along with the ballot box;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Unlock each ballot box after the close of polls in the presence of the Election Judge(s);</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Assist the Election Judge(s) in the tally of the ballots; and</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Transport the locked ballot boxes received from the Election Judge(s) containing all ballots and election records of each polling site to the Chairperson of the Election Board.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0506</num>
+      <heading>Duties of Election Judges</heading>
+      <text>It shall be the duty of the Election Judges to:</text>
+      <para>
+        <num>1.</num>
+        <text>Count the unmarked ballots provided by the Election Board and record the number of ballots received before the opening of the polls;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Assist the Election Inspector in stamping all ballots with district number and initialing all ballots;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Assure that none other than official election ballots are deposited in the ballot box;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Assist voters requesting help pursuant to <cite path="13|13.10|13.1010">Section 13.1010</cite>;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Assure the proper tally of all votes cast in the assigned district polling site and immediately notify the Election Board of the same; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Place and lock in the ballot box, all properly cast ballots, all spoiled or mutilated ballots, all unused ballots and all election records of the polling site, and deliver the locked ballot box to the Election Inspector after the tally of the ballots has been completed.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0507</num>
+      <heading>Duties of Election Clerk(S)</heading>
+      <text>The Election Clerk(s) shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Assist the Election Judges in carrying out their responsibilities;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Perform all record-keeping duties not otherwise assigned;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Record the name and current address of each voter given a ballot;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Provide qualified voters with a properly stamped and initialed ballot;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Assist the Election Judges and Election Board in the tally of the ballots, if necessary.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0508</num>
+      <heading>Conduct of Election Officials</heading>
+      <text>Members of the Election Board and their appointees shall be responsible for the conduct of elections in Rolette County for the Turtle Mountain Band of Chippewa Indians and shall conduct themselves in a lawful manner befitting the status of their office. An election official must be present at the polls at all times during the election. In addition, election officials shall not express any preference for any candidate during the execution of their statutory duties. Any election official who fails to perform the duties prescribed in <cite path="13.05">this chapter</cite> shall be subject to immediate removal by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0509</num>
+      <heading>Determination and Appeal</heading>
+      <text>The determinations of the Election Board or Election Committee under §13.0502(1), §13.0503(1)(A), §13.0505(1), §13.0901(1) and §13.1004 are final and not subject to appeal. The determinations of the Election Board under §13.0501(1) and §13.1003 may be immediately appealed to the Turtle Mountain Tribal Court. Verification of election results may be appealed pursuant to §13.1301.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.06</num>
+    <heading>Letter of Intent</heading>
+    <section>
+      <num>13.0601</num>
+      <heading>Letter of Intent Form</heading>
+      <text>I,  	<u>__________________</u>	, being duly sworn, depose and say: That I am a candidate for the office of  <u>___________</u>	; That I am an enrolled member of the Turtle Mountain Band of Chippewa Indians; That I am at least 25 years of age or over; that I have not been convicted of a felony; have not been convicted of a misdemeanor of fraud, embezzlement, forgery or thefts of monies entrusted to the Tribal Government, and (for the Office of Tribal Chairman, Chief or Associate Judge, Chief Clerk of Courts, Judicial Chairperson, that I reside in Rolette County) or (for the office of Tribal Representative, Judicial Board Representatives, that I reside in District # 	).</text>
+      <text>That I hereby authorize the Tribal Election Board of the Turtle Mountain Band of Chippewa Indians to do a background check on myself to determine whether I am qualified to be a candidate for the office of  	; provided, that such information shall not be used for any other purpose than as stated.</text>
+      <text>I hereby certify that the foregoing statements are true and correct and are made for the purpose of establishing my eligibility for candidacy for Tribal Office. If any material statement made in this Notice is false, such false statement may serve as grounds for my removal from Tribal Office.</text>
+      <text>Therefore, I hereby request that my name be printed on the election ballot:</text>
+      <text>_____________________________________________________________________________</text>
+      <text>(Please print your name EXACTLY as you wish it to appear on the ballot.</text>
+      <text>_____________________________________	___________________________________</text>
+      <text>Print (First, Middle, Last)			Social Security Number</text>
+      <text>______________________________________	___________________________________</text>
+      <text>Date of Birth					Telephone Number</text>
+      <text>_____________________________________	___________________________________</text>
+      <text>Mailing Address					City, State, Zip</text>
+      <text>______________________				___________________________________</text>
+      <text>Date							Signature of Candidate</text>
+      <text>Subscribed and sworn to me before this __________ day of ____________, 20____</text>
+      <text>______________________________________	___________________________________</text>
+      <text>Notary Public					My Commission Expires</text>
+      <text>Received by Election Board: Date: _ 	Time: _</text>
+      <text>Initials of Election Board designee:</text>
+      <text>Initials of Candidate: _</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.07</num>
+    <heading>Qualifications of Candidates for Legislative and Judicial Office</heading>
+    <section>
+      <num>13.0701</num>
+      <heading>Qualifications. Tribal Council</heading>
+      <text>To become a candidate for an elected position, a person must:</text>
+      <para>
+        <num>1.</num>
+        <text>Be an enrolled member of the Turtle Mountain Band of Chippewa Indians; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be twenty-five (25) years of age or older; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Have not been convicted of a felony; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have not been convicted of a misdemeanor of fraud, embezzlement, forgery or theft of monies entrusted to the Tribal Government; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Must reside within Rolette County; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Shall furnish written proof for all requirements.  In addition, candidates for District Representatives must reside in the district they seek to represent.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0702</num>
+      <heading>Establishment of Qualifications for Judicial Office</heading>
+      <text>Pursuant to Article XIV Section 4, qualifications for Chief Judge, Associate Judge, and Chief Clerk of Court shall be developed by the Judicial Board and approved by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0703</num>
+      <heading>Qualifications. Chief Clerk of Court</heading>
+      <text>To become a candidate for an elected position, a person must:</text>
+      <para>
+        <num>1.</num>
+        <text>Be an enrolled member of the Turtle Mountain Band of Chippewa Indians; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be twenty-five (25) years of age or older; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Have not been convicted of a felony; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have not been convicted of a misdemeanor of fraud, embezzlement, forgery or thefts of monies entrusted to the Tribal Government; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Must reside within Rolette County; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Have a minimum of a two (2) year college degree or minimum of two (2) years experience as court clerk; and</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Have not been recalled from judicial office for a period of five (5) years prior to the election; and</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Furnish written proof for all requirements.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0704</num>
+      <heading>Qualifications. Associate Judge</heading>
+      <text>To become a candidate for an elected position, a person must:</text>
+      <para>
+        <num>1.</num>
+        <text>Be an enrolled member of the Turtle Mountain Band of Chippewa Indians; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be twenty-five years of age or older; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Have not been convicted of a felony; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have not been convicted of a misdemeanor of fraud, embezzlement, forgery or thefts of monies entrusted to the Tribal Government; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Must reside within Rolette County; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Must have a minimum of a two (2) year college degree or minimum of two (2) years of experience as tribal judge; and</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Must not have been impeached from judicial office for a period of five (5) years prior to the election; and</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Furnish written proof for all requirements.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0705</num>
+      <heading>Qualifications. Chief Judge</heading>
+      <text>To become a candidate for an elected position, a person must:</text>
+      <para>
+        <num>1.</num>
+        <text>Be an enrolled member of the Turtle Mountain Band of Chippewa Indians; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be twenty-five years of age or older; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Have not been convicted of a felony; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have not been convicted of a misdemeanor of fraud, embezzlement, forgery or thefts of monies entrusted to the Tribal Government; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Must reside within Rolette County; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Must have a minimum of a 4-year degree in legal studies or 4 years experience as a Tribal Judge; and</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Must not have been impeached from judicial office for a period of five (5) years prior to the election; and</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Furnish written proof for all requirements.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.08</num>
+    <heading>Ballots</heading>
+    <section>
+      <num>13.0801</num>
+      <heading>Names on Ballot</heading>
+      <text>The names of the incumbents shall be placed on the ballot first, with the incumbent who received the highest number of votes in the previous election to be first. All other candidates' names shall be placed on the ballot in the order in which their Notice of Intent is filed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0802</num>
+      <heading>Secret Ballots</heading>
+      <text>Ballots shall be marked in secret and shall be cast by dropping into locked ballot boxes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0803</num>
+      <heading>Votes in District; Votes at Large</heading>
+      <text>Votes for Tribal Chairperson, District Representatives, Chief Tribal Judge, Associate Tribal Judge, and Chief Clerk of Court shall be cast at large in all districts. Votes for candidates for the Judicial Board shall be cast only by voters of the candidate's district.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.09</num>
+    <heading>Absentee Ballots</heading>
+    <section>
+      <num>13.0901</num>
+      <heading>Request of Absentee Ballot</heading>
+      <para>
+        <num>1.</num>
+        <text>Qualified voters who are unable to cast their ballots at their designated polling sites due to circumstances beyond their control, including, but not limited to service in the military, funeral service, medical emergency, medical treatment, physical or mental disability, and educational commitments may request an absentee ballot from the Election Board who shall determine the appropriateness of such request and approve or disapprove the issuance of an absentee ballot hereunder.  Any non-resident member may vote non-absentee in the district of their former residence or affiliation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Request for such ballots must be <u>by telephone, in person, orally or in writing for the sick or handicapped</u> and filed with the Election Board prior to the date of the election. The Election Board will give or mail a ballot to any approved voter in sufficient time to permit the voter to execute and return it on or before the date of the election.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Together with the ballot, there will be an inner envelope bearing on the outside, the words Absentee Ballot, a pre-addressed outer envelope and an affidavit in the following form:</text>
+        <text class="center">Absentee Voter Affidavit</text>
+        <text>"I, 	do solemnly affirm that I am an enrolled member of the Turtle Mountain Band of Chippewa Indians and that I will be eighteen (18) years of age or over on date of the election, I have maintained residence in or am affiliated with District <u>____</u>, that I am entitled to vote in the election to be held on (date)  	 , and that I cannot appear at the polling site on the reservation or in my district on the date of the election because____________________. I further swear that I marked the enclosed ballot in secret.</text>
+        <text>________________________________</text>
+        <text>(Voter's signature)</text>
+        <text>Subscribed and sworn to me this ________ day of _________________,20____.</text>
+        <text>I hereby certify that the affiant exhibited the ballot to me unmarked; that the voter then in my presence and in the presence of no other person, and in such manner that I could not see the vote, marked such ballot, enclosed and sealed the same in the envelope marked "Absentee Ballot."</text>
+        <text>________________________________</text>
+        <text>(Notary Public/Administrative Secretary/Election Judge/Election Board Member</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The voter shall make and subscribe the affidavit before any officer authorized by law to administer oaths, and thereupon in the presence of such officer and of no other person, mark the ballot in such manner that the officer does not observe the marking thereon. After marking the ballot, in the presence of the officer, the voter shall place the ballot in the envelope marked "Absentee Ballot" then seal the envelope. The "Absentee Ballot" envelope shall then be placed in the larger, pre- addressed envelope together with the affidavit and mailed or delivered to the Tribal Administrative Secretary who shall stamp the date received and deliver all unopened absentee ballots to the Chairperson of the Election Board not later than the close of the polls on election day.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0902</num>
+      <heading>Falsification of Absentee Voter Affidavit</heading>
+      <text>Any person who knowingly falsifies an absentee voter affidavit shall be guilty of a Class 1 misdemeanor offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.0903</num>
+      <heading>Records</heading>
+      <text>The Election Board shall maintain a record of all absentee ballots distributed, to whom they were distributed, the date of mailing, the date of the return of the ballot and the name and address from whom received, and shall count and register all such votes after all other ballots have been counted and include them in the results of the election.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.10</num>
+    <heading>Notice and Conduct of Elections</heading>
+    <section>
+      <num>13.1001</num>
+      <heading>General Election Date; Primary Election Dates</heading>
+      <para>
+        <num>1.</num>
+        <text>Primary Election shall be held three (3) weeks prior to the general election in accordance with Amendment <s>XXII</s> XXIX of the Constitution of the Turtle Mountain Band of Chippewa Indians; (Amendment approved August 11, 2015)</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>General elections will be held on the first Tuesday in November in even numbered years. If the election is to fall on a holiday, the general election shall coincide with national, state and county election dates.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1002</num>
+      <heading>Notice of Primary and General Election</heading>
+      <para>
+        <num>1.</num>
+        <text>The notice of the Primary and General Election shall include:</text>
+        <para>
+          <num>a.</num>
+          <text>The date of the election;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The location of polling places;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The times the polls shall be open;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>A list of the issues and candidates which will appear on the ballot; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any other deadlines required under <cite path="13A">this Title</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Not less than fourteen (14) days prior to the Primary Election, and five (5) days prior to the General Election, the notice of election shall be published. Notice of all other elections shall be published as required in <cite path="13A">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1003</num>
+      <heading>Void Elections</heading>
+      <text>The number of valid and invalid ballots cast should correspond with the number of voters recorded. Discrepancies in the number of votes cast and number recorded should be documented and evaluated by the Election Board. If a discrepancy between the two cast serious doubt on the validity of the election result in any district, the election results for that district shall be considered void and a new election called by the Election Board for that district only.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1004</num>
+      <heading>Watchers</heading>
+      <text>Each of the candidates shall be entitled to have one (1) watcher at each polling site during voting and tallying shall mean by hand or electronic equipment of the ballots, but such watchers shall in no way interfere with the conduct of the election. If an election judge determines that a watcher is unduly interfering with the conduct of the election, he may eject the watcher from the polling site.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1005</num>
+      <heading>Challenges</heading>
+      <para>
+        <num>1.</num>
+        <text>If the eligibility of a voter shall be questioned by a member of the Election Board, Election Committee, or a watcher, the ballot of that voter shall be enclosed in an envelope which shall be endorsed with the name of the voter, the reason for the challenge and the name of the challenger.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>At the time of the challenge, the challenged voter must sign an affidavit denying the allegation against him in the following form:</text>
+        <text class="center">Affidavit Form</text>
+        <text>I, 	do solemnly swear that I am an enrolled member of the Turtle Mountain Band of Chippewa Indians, I am eighteen (18) years of age or over, and that I reside(d) in District  	.</text>
+        <text>____________________________________     _____________________________</text>
+        <text>Signature                                Telephone Number</text>
+        <text>____________________________________     _____________________________</text>
+        <text>Mailing Address                          City, State, Zip</text>
+        <text>______________________________________________________________________</text>
+        <text>For Election Board Use Only:</text>
+        <text>Challenger:	( ) Election Board member</text>
+        <text>( ) Other, list name 	<u>_____________________________</u></text>
+        <text>Reason for Reason for challenge:</text>
+        <text>(  ) Not listed on BIA enrollment book</text>
+        <text>(  ) Non-resident</text>
+        <text>(  ) Other - REASON: _</text>
+        <text>The signed affidavit shall be enclosed in the envelope with the ballot.</text>
+        <text>If the voter refuses to sign the affidavit, the person is prohibited from casting a vote.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1006</num>
+      <heading>Falsification of Voter Qualification Affidavit</heading>
+      <text>Any person who knowingly falsifies a voter qualification affidavit shall be guilty of a Class 1 misdemeanor offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1007</num>
+      <heading>Campaigning</heading>
+      <para>
+        <num>1.</num>
+        <text>Campaigning on Election Day is prohibited within one hundred feet (100<strong>'</strong>) of any building containing a polling site. "Campaigning" includes, but is not limited to, the posting, handing out, or other distribution of publicly viewed campaign materials or signs and speech-making. A violation of this provision constitutes election tampering pursuant to §26.1106 of the Tribal code.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All publicly viewed campaign materials and signs must be removed within five (5) days following the General election. Candidates will be charged a $100 deposit by the Tribe at the time they sign their Notice of Intent to Run for Office. Fifty dollars ($50) is a Tribal administrative fee and fifty dollars ($50) may be reimbursed. Should a candidate fail to remove such campaign materials, five (5) days after the General Election, they will lose their deposit. TMBC916-09-14</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1008</num>
+      <heading>Loitering</heading>
+      <text>Loitering on the premises of a polling site is not permitted during voting hours.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1009</num>
+      <heading>Polling Sites/Polling Place Accessibility</heading>
+      <text>Polling sites, as determined by the Election Board in coordination with County and State election officials, shall be used in all tribal elections and they shall be open from eight (8:00) a.m. to nine (9:00) p.m. Central Time, on the date established for the election. Alternate polling sites may be used provided the election notice identifies such polling site. All polling sites must be handicapped accessible.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1010</num>
+      <heading>Voter Disability</heading>
+      <para>
+        <num>1.</num>
+        <text>Any voter who declares to the judges of the election that he or she cannot read the English language, or because of blindness or other disability is unable to mark his or her ballot, may upon request, receive the assistance of any person of the voter's choice and one election judge, in marking the voter's ballot. If the voter requests the assistance of a member of the Election Board, however, the voter shall receive the assistance of both election judges in the marking of the voter's ballot. No one assisting any voter in marking a ballot under <cite path="13.10">this chapter</cite> may provide any information regarding the marked ballot to any other person.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No voter, other than one who is unable to read the English language or one who because of disability is unable to mark a ballot, may divulge to anyone within the polling site the name of any candidate for whom the voter intends to vote, nor ask, nor receive the assistance of any person within the polling site to mark the voters ballot except as provided herein.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.11</num>
+    <heading>Determining Election Winner</heading>
+    <section>
+      <num>13.1101</num>
+      <heading>Determination of Election</heading>
+      <text>The candidate or issue receiving the majority, which shall mean the greatest number of votes cast, shall prevail. In the event more than one (1) representative in a district is required to be elected, the positions shall be filled by the candidates receiving the most votes in descending order.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1102</num>
+      <heading>Recount</heading>
+      <para>
+        <num>1.</num>
+        <text>After the Election Board and Election Judges count all votes cast in the election, if the candidate(s) receiving the highest number of votes is separated from any other candidate(s) by ten (10) or less votes, the Election Board and Election Judges shall conduct a recount of the votes cast for that candidate's position.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If a candidate wishes a recount of the votes cast in the election, but he or she differs from the highest vote getter by a number of votes greater than ten (10), he or she may request a recount provided that such request be accompanied by a payment of $500 in the form of cash, certified check or money order to cover the expense of the recount.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1103</num>
+      <heading>Primary Election</heading>
+      <text>In descending order of votes, the top three (3) candidates receiving the majority, which shall mean the greatest number of votes cast, in the primary shall be included in the general election, and the top two (2) candidates for Chairman receiving the majority of votes in the primary elections shall be included in the general election corresponding to the number of vacancies in the district and the candidate for Chairman's vacancy receiving the majority of the votes shall be considered elected<strong>, </strong>in accordance with Amendment <s>XXII</s> XXIX of the Constitution of the Turtle Mountain Band of Chippewa Indians; (Amendment approved August 11, 2015)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1104</num>
+      <heading>Certification of Election Results</heading>
+      <para>
+        <num>1.</num>
+        <text>The Election Board shall officially verify in writing to the Tribal Secretary/Treasurer the primary election results three (3) calendar days after the primary election. The Tribal Secretary/Treasurer must certify the election results three (3) calendar days after such verification.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Election Board shall officially verify in writing, to the Tribal Secretary/Treasurer the general election results three (3) calendar days after the general election. The Tribal Secretary/Treasurer must certify the election results three (3) calendar days after such verification.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Notwithstanding other time provisions specified by the Turtle Mountain Administrative Procedures Act, (TAPA), Title 22 of this Code, a Notice of appeal of the election results must be filed with the Tribal Secretary within five (5) days of certification of the election results by the Tribal Secretary/Treasurer. Upon receipt of a Notice of Appeal, The Tribal Secretary/Treasurer shall immediately notify a TAPA hearing officer and transmit a copy of the Notice of Appeal to the hearing officer, who shall treat the Notice of Appeal as a TAPA petition in conformance with §22.1106 of the Tribal Code and schedule a hearing in accordance with Title 22<strong>.</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1105</num>
+      <heading>Oath of Office</heading>
+      <text>The oath of office shall be administered by a judge of the Tribal Court, or such other person as may be designated by the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.1106</num>
+      <heading>Seating of Office</heading>
+      <text>In accordance with Article VII Section 5 of the Constitution, the newly elected Tribal and Judicial officers and district representatives shall be installed in office at the first regular monthly meeting of the Tribal Council, held pursuant to Article VII, section 1 of the Turtle Mountain Band of Chippewa Indians Constitution, after certification of the election results has been issued by the Tribal Secretary/Treasurer provided that such meeting must be held no later than thirty (30) days following the date of the General Election. If the outgoing officers and/or district representatives fail or refuse to conduct such meeting, their duly elected replacements hereunder may convene such meeting and commence their respective duties.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>47</num>
+  <heading>Oil and Gas Severance Tax Code</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>47.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>47.0101</num>
+      <heading>Purpose of Code</heading>
+      <text>The purpose of this Severance Tax Code is as follows:</text>
+      <text>To impose a tax upon the severance of non-renewable energy minerals  from tribal  trust lands, tribally owned fee lands, and allotted or restricted  lands  within the Territory and jurisdiction of the Tribe is defined in Article II, Section 2, Jurisdiction , of the Turtle Mountain Band of Chippewa Indians Constitution;</text>
+      <text>To provide to the Tribe a source of revenue which can help sustain the economic viability of the Tribe following the severance, depletion or exhaustion  of minerals  from lands within  the jurisdiction of the Tribe;</text>
+      <text>To provide the Tribe a current source of revenue to help fund the delivery of services.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0102</num>
+      <heading>Definitions</heading>
+      <text>When used in this Severance Tax Code, the following words and terms shall be interpreted as follows, unless the context clearly indicates a different meaning:</text>
+      <para>
+        <num>(1)</num>
+        <text>"Avoidably Lost" means the nature of an incidental loss of, waste  of, or damage to a mineral resource in the course of mineral development resulting from venting, flaring, or other activity when such activity has not previously been permitted or approved in writing by the authorized representative of the Secretary of the Interior as to applicable tribal or allotted lands.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Central Delivery Facility" means a common metering and delivery location at which substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> are collected from multiple wells or leases and intermingled;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cross-Lease Beneficial Use'' means an operator's use of substances described in <cite path="47|47.01|47.0101">Section 47.0101</cite> derived from lands subject to a tribal or allotted lease for the benefit of operations on other lands subject to a tribal or allotted lease operated by the same operator prior to the sale of such substances.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Entitled Proportionate Gross Working Interest" means the net revenue interest attributable to a working interest in a lease or minerals agreement covering lands within the territory of the Tribe, plus the proportionate share of any non-operating interests that burden that working interest.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Lands" means real property in which the Tribe or an individual Indian allottee owns a legal or beneficial interest in a mineral estate, including reversionary  interests following the expiration of leases or mineral development agreements, but excluding working interests, or interests carved  there from,  acquired  by the Tribe or by  an individual Indian in fee lands located within the boundaries of the Territory , unless or until such real property is accepted in trust for the benefit  of the Indian mineral  owner by the United States of America.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Maximum Territory Price" means the value obtained as a result of applying the formula set forth in <cite path="47|47.02|47.0208">Section 47.0208</cite>(2) of this Code.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Minerals Agreement'' means any joint venture, operating, production sharing, service, managerial, lease, contract, or other minerals agreement, or any amendment, supplement or other modification of such minerals agreement, providing for the exploration for, or extraction, processing, or other development of minerals in which an Indian mineral owner owns a beneficial or restricted interest, or providing for the sale or other disposition of the production or the products of such minerals.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Other Consideration" means the consideration other than cash, including consideration obtained through trades or exchanges of severed minerals.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Processing Costs" means reasonable actual costs incurred by the taxpayer to process gas for the removal of products described in <cite path="47|47.02|47.0201">Section 47.0201</cite> (generally natural gas liquids). When costs are incurred through use of a processing plant owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, depreciation and a return on undepreciated capital investment directly associated with the plant. The basis and method of depreciation shall not be changed once used, regard less of any changes in ownership of the plant.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Reservation" means the area of land located in the area defined by the December 21, 1882 U.S. Presidential Executive Order.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Tax Commissioner" means the Tax Commissioner of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Territory" means the territory as defined in Article II, Jurisdiction, Section 2, of the Turtle Mountain Band of Chippewa Indians' Constitution.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Severance" means the physical separation or removal of a mineral from lands, including the extraction of methane or other gas.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Taxpayer" means an owner of an interest or person claiming ownership of an interest in substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> of this Code severed from lands subject to the jurisdiction of the Tribe, regardless of the fact that actual payment of tax may be made by a working interest owner or operator in behalf of the taxpayer.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Transportation Costs" means reasonable, actual costs incurred by the taxpayer for moving marketable products described in <cite path="47|47.01|47.0101">Section 47.0101</cite> (2) of this code to a point of sale or other point of final disposition that is remote from the point of initial severance, separation, treatment or measurement (generally the point approved by the Bureau of Land Management for the purposes of royalty measurement).  Not included in this definition are costs incurred by the taxpayer for the movement or removal from the production stream of products not described in <cite path="47|47.02|47.0201">Section 47.0201</cite> or products whose value is otherwise exempted from application of this Code or for compression intended to enhance production or to meet pipeline delivery pressure requirements. When costs are incurred on a transportation system owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, and depreciation and return on undepreciated capital investment directly associated with the transportation system. The basis and method of depreciation shall not be changed once used, regardless of any changes in ownership of the system.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Unavoidably Lost" means the nature of an incidental loss of, unavoidable waste of, or damage to a mineral resource in the course of mineral development resulting from venting, flaring or other activity when such activity and the resulting loss, waste or damage have been previously approved in writing by the Tribal Council or its authorized representative as to tribal lands or by the Secretary of the Interior or his authorized representative as to allotted lands.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Working interest" means the interest obtained by a mineral lessee or grantee of a minerals agreement in minerals or revenues attributable to the sale of minerals producible under such lease or minerals agreement, inclusive of overriding royalty interests or other non operating interests subsequently derived from the working interest.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0103</num>
+      <heading>Severance Tax Fund</heading>
+      <para>
+        <num>(1)</num>
+        <text>All proceeds collected by the Tribe pursuant to prior severance tax enactments and this Code shall be placed in the fund known as the Oil and Gas Severance Tax Fund. The Tribal Council may direct that this fund be separately invested or may direct that proceeds retained in the Oil and Gas Severance Tax Fund be consolidated with other tribal investments. The Tribal Council may by appropriate resolution, further direct that proceeds in the Oil and Gas Severance Tax Fund be appropriated for use by the Tribe to defray the costs of general governmental administration, delivery of services, the acquisition of commercial enterprises needed to replace depleting tribal mineral resources, or such other uses as the Tribal Council deems appropriate. The Tax Commissioner is directed to maintain an accurate record of all proceeds deposited in the Oil and Gas Severance Tax Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administration of the Oil and Gas Severance Tax Fund shall also conform to the existing financial plan adopted by the Tribal Council, as the same may be amended from ti me to time.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0104</num>
+      <heading>Reports by the Tax Commissioner</heading>
+      <text>The Tax Commissioner is hereby directed to prepare quarterly reports coinciding with the Tribe's fiscal year regarding severance tax collection, encumbrances, and commitments. The frequency and content of said reports may be modified from time to time in accordance with the subsequent instructions of the Tribal Council. The Tax Commissioner may delegate this responsibility to an authorized representative of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0105</num>
+      <heading>Compact with the States</heading>
+      <text>The Tribal Council or its authorized designee is specifically delegated the authority to enter into Compact negotiations with any State of the United States in which its Territory exists.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0106</num>
+      <heading>Severability and Liberal Construction</heading>
+      <text>A finding that any part or application of this Code is invalid shall not affect the validity of the remainder of the Code. This Code shall be liberally construed for the benefit of the Tribe consistent with its purposes. No provision of this Code that refines or clarifies the severance tax and its application shall be used as evidence of a limitation in scope of prior severance tax enactments.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0107</num>
+      <heading>Effective Date</heading>
+      <text>Except where otherwise indicated, the effective date of this Code shall be the first day of the month following its approval by the Tribal Council. Notwithstanding the foregoing, the Tribal Council may delay implementation of this Code following such approval in order to facilitate ease of transition from previously enacted severance tax provisions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0108</num>
+      <heading>Rules and Regulation Forms</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tax Commissioner or its authorized representative is hereby specifically empowered to promulgate such rules and regulations and to prescribe such forms or reports as may be reasonably necessary in carrying out the purposes of the provisions contained in this Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tax Commissioner is hereby specifically empowered to promulgate forms necessary to effectuate the purposes of this code.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>47.02</num>
+    <heading>Tax and Liability</heading>
+    <section>
+      <num>47.0201</num>
+      <heading>Oil and Gas Tax Imposed</heading>
+      <text>A tax is hereby imposed on the severance of any and all oil, condensate, natural gas, methane gas, casing head gas, or processed gas and associated liquid products from the Tribe's territory. Notwithstanding the foregoing, carbon dioxide and hydrogen sulphide gas are specifically exempt from this severance tax, unless such substances or their constituent components are produced and sold commercially.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0202</num>
+      <heading>Liability for Tax</heading>
+      <text>The amount of severance tax to be paid pursuant to this Code shall be determined effective as of and the liability for payment of such severance tax shall accrue at the time of severance of substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> from lands subject to the jurisdiction of the Tribe regardless of whether monetary compensation or other consideration has been received for the sale of such substances, including, for example, the placement of gas into pipeline inventory; provided, however, liability shall not accrue for payment of taxes with respect to the severance of substances unavoidably  lost.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0203</num>
+      <heading>Rate of Tax</heading>
+      <text>The severance tax set forth herein shall be at the rate of 6.5% of the value of all substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> severed from the Tribe's territory.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0204</num>
+      <heading>Exemptions from Tax</heading>
+      <text>The following volume exemptions from severance tax are authorized:</text>
+      <para>
+        <num>(1)</num>
+        <text>Volumes attributable to a landowner's royalty interest established in a lease or minerals agreement issued by the Tribe or by an Indian allottee mineral owner.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Volumes attributable to an overriding royalty interest granted to or obtained by the Tribe or by an Indian allottee owner derived from working interests in leases or mineral s agreements issued by the Tribe or by an Indian allottee mineral owner.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>volumes used, for the benefit of operations on the leased  premises  from which such substances are produced, prior to removal therefrom  or sale; provided ,  that  volumes attributable to use off the lease from which such mineral s are produced are not exempt from severance tax except as set forth in <cite path="47|47.02|47.0204">Section 47.0204</cite> (4)  below:</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Volumes associated with cross-lease beneficial use or shrinkage volumes   factored into allocations associated with a central delivery facility, if and only if the lessee or operator has obtained prior written approval from the Tribal Council or its authorized representative for such cross-lease beneficial use or for establishment of the central delivery facility and the formula for allocating volumes associated with such central delivery facility. In granting or denying exemptions for cross-lease beneficial use or for central delivery facilities, the Tribal Council or its authorized representative shall determine from the totality of the circumstances, including relative royalty rates, whether exempting such volumes from tax will adversely impact the best interests of the Tribe. A requested exemption for cross-lease beneficial use, but not for a central delivery facility, shall be deemed granted unless the Tribal Council or its authorized representative shall have taken action denying a written request within sixty (60) days of receipt of such request.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0205</num>
+      <heading>Payments by Whom Generally</heading>
+      <text>Except for an owner of a landowner's royalty interest or overriding royalty interest specifically described in <cite path="47|47.02|47.0202">Section 47.0202</cite> TO <strong><em>4 (1)</em></strong> or <cite path="47|47.02|47.0202">Section 47.0202</cite> <strong><em>TO 4 (2),</em></strong> any owner of an interest or person claiming ownership of an interest in substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite><strong><em>, </em></strong>severed from the Tribe's territory shall be liable for payment of taxes imposed by this Code. Payment of the tax shall be made as herein provided by the working interest owner based on that owner's entitled proportionate gross working interest in or attributable to such described substances. The operator of any well may pay the tax on behalf of working interest owners as a matter of internal policy or by agreement with such working interest owners. Volume allocation and subsequent tax payment shall be based upon each taxpayer's entitled volumes regardless of the actual volume taken.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0206</num>
+      <heading>Records Retention and Limitations on Actions</heading>
+      <para>
+        <num>(1)</num>
+        <text>Each  lessee,  operator  or other  person   subject  to  this  Code  shall  make  and  retain accurate  and  complete  records  necessary   to  demonstrate   that  tax  payments   due  under this Code have been made in compliance with this Code or regulations promulgated  pursuant to this Code. Such records shall include information regarding: severance and production, transportation, treating, processing, and marketing of substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Lessees, operators or other persons required to keep records under <cite path="47|47.02|47.0206">this section</cite> shall maintain and preserve them for six (6) years from the last day of the month in which a severance of a substance described in <cite path="47|47.02|47.0201">Section 47.0201</cite> takes place. Notwithstanding the foregoing, when an audit or review by an authorized representative of the Tribe of a taxpayer's compliance under this Code is pending. all existing records  of  the  taxpayer  and  persons severing minerals  on  his  behalf  or persons  having  paid  taxes  on  the taxpayer's  behalf  shall be maintained  by  the  record  holder  until released  in writing by the authorized  representative of the Tribe from the obligation to maintain such records.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No action by the Tribe with respect to compliance with this Code shall be brought against any taxpayer unless commenced within six (6) years from the date that the Tribe knows or should have known that the cause of action has accrued. In the event that non-compliance with this Code could be reasonably ascertained only upon completion of an audit, and in the event that such an audit has not been commenced or completed within the six (6) year limitations period, then nothing herein contained is intended to preclude the Tribe from asserting lack of knowledge for purposes of establishing the date of accrual of a cause of action.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No  action  by  a  taxpayer   against   the  Tribe  contesting  the  lawfulness   of  the  Code or its application shall  be  brought  against  the Tribe unless  commenced  within two  (2) years from the date  that the Taxpayer knows  or  should  have  known that  a  cause  of  action  has accrued.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0207</num>
+      <heading>Measurement</heading>
+      <para>
+        <num>(1)</num>
+        <text>The severance of al l crude oiI  and condensate  normally  measured  in liquid form shall be measured and reported in  units  of barrels  of 42  U.S. gallons corrected to standard temperature, gravity and other  variables established in the regulations of the United States Department of the Interior, Bureau of Land  Management.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The severance of all natural gas and other vaporous hydrocarbon substances normally measured in gaseous form shall be measured and reported in units of one thou sand cubic feet (MCF) saturated with water vapor corrected to the standard pressure of 14.73 psa and temperature of 60 degrees Fahrenheit. The BTU content shall be measured while the gas is saturated with water vapor at 60 degrees under a pressure equivalent to that of 30 inches of mercury at 32 degrees under standard gravitational force.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Processed Natural Gas Liquids ("NGLs") shall be measured in U.S. gallons.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reportable volumes shall be those established through measurement at the well head unless otherwise approved in writing by the Tribal Council or its authorized representative.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Metering devices measuring the flow of severed substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> shall be accurate devices based upon prevailing industry practice and acceptable to the Bureau of Land Management in the measurement of Indian lease production. No electronic flow measurement devices shall be used in metering for purposes of this Code in the absence of express prior written permission from the Tribal Council or its authorized representative. Such permission is hereby conditioned upon the operator of such metering devices maintaining a record, subject to the record retention requirements of <cite path="47|47.02|47.0206">Section 47.0206</cite>, of all raw data acceptable to the Tribe obtained or obtainable from the electronic flow measurement device. Any request for permission to use electronic flow measurement devices shall specify the location for intended use, and pe1mission for such use as to one location shall not constitute permission for any other location. Any violation of the requirements of this subsection shall subject the violator to the penalty provisions set forth in <cite path="47|47.02|47.0211">Section 47.0211</cite>-47.0211(4) of this Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0208</num>
+      <heading>Value</heading>
+      <para>
+        <num>(1)</num>
+        <text>Except as otherwise indicated in <cite path="47|47.02|47.0208">this section</cite>, the value of severed minerals upon which the rate of tax shall be applied shall be the gross proceeds unit price multi plied by the wellhead volume less applicable transportation costs. When calculating the transportation deduction, treating, and all other costs associated with placing severed minerals into a marketable condition are not deductible. In those instances in which severed natural gas is sold by the producer after having been processed, the value of such natural gas shall be the value of the processed liquids less applicable processing and transportation costs plus the gross value of the residue gas less applicable transportation costs. In computing the net value of processed products, the formula for computing net value shall be submitted by the working interest owner or operator to the Tribal Council or its authorized representative for prior approval and only reasonable and necessary expenses incurred in such processing shall be permitted in computing said net value.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding the provision of <cite path="47|47.02|47.0208">Section 47.0208</cite>(1), the taxpayer may elect to base its monthly tax payment on the Maximum Territory Price.  This election must be made prior to October 1st of each year by written notice to the Tax Commissioner and cannot be modified until the following year. The formula for the calculation of the Maximum Territory Price is as follows:</text>
+        <text>H1 + <em>Hi +</em> ...Hu- X = Calculated Territory Price where the followi ng:</text>
+        <text>N</text>
+        <text>H = The arithmetic average of the highest prices (Bid week or first of the month publication) in the range of all index pricing points in the San Juan Basin as published in each valid  index publication.</text>
+        <text>N = Number of valid publications.</text>
+        <text>X = A discount factor of I 0%.  X shall never be less than 10 cents nor more than 30 cents.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>If such an election is made, the value basis for the associated tax payment shall be final and not subject to future audit or review.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Promptly following receipt of the information needed to compute the Maxim um Territory Price. The Tax Commissioner shall render such calculation.  Such authorized representative shall inform any taxpayer so requesting the Maximum Territory Price for time periods for which the calculation has been made.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0209</num>
+      <heading>Reports and Payment</heading>
+      <para>
+        <num>(1)</num>
+        <text>The operator and any working interest owner of a well shall provide a written division of interest statement for such well upon request of the Tax Commissioner. Additionally, a taxpayer shall be required to provide any additional reports or information that the Tax Commissioner deems necessary for the proper administration of this Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any taxpayer who is required by this Code to make payment of this tax shall submit a monthly return to the Tribe upon a form prescribed by the Tribal Council or its authorized representative. A taxpayer for whom payment is being made by a working interest owner or a well operator shall be excused from the requirement imposed by <cite path="47|47.02|47.0209">this section</cite> provided that those paying on his behalf properly submit reports associated with the taxpayer's interest in severed minerals.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of the tax shown on the monthly return shall be made at the time such return is filed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All monthly returns and corresponding tax payments shall be due on or before the last day of the second month following the month of severance (for example, taxes associated with January production are due on the last day of March). If the due date falls on a weekend, a federally recognized holiday, or a tribally recognized holiday, then the monthly reports and payments shall be due on the working day immediately following. For purposes of <cite path="47|47.02|47.0209">this section</cite>, a return and payment shall be deemed as filed on the date postmarked.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0210</num>
+      <heading>Refunds</heading>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in Subsection (2) of <cite path="47|47.02|47.0210">this Section</cite>, any person paying any tax erroneously may apply to the Tax Commissioner for a refund within two years of the date of severance. The Tax Commissioner shall refund such tax if found to have been erroneously paid. All amounts refunded under this subsection shall bear interest at the lesser of: (i) the rate described in the 1986 Internal Revenue Code at §662l (a)(2) (Supp. 1987), as amended from time to time, or (ii) the rate of return received by the Tribe on the refundable amounts while said amounts have been in the Tribe's possession. In computing amounts of erroneous overpayment, the Tax Commissioner may examine severance tax payment records to determine if any offsets exist resulting from erroneous underpayment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With respect to refunds resulting from a successful protest submitted under <cite path="47|47.02|47.0212">Section 47.0212</cite> of this Code or under other authority recognized by the Tribal Council, should protested payments be escrowed or separately held by the Tribe during the period of the protest.  then the refund of protested tax payments shall bear interest at the rate earned during the period of escrow; provided that such refunded interest amount shall not exceed the rate described in the 1986 lnternal Revenue Code at §6621(a)(2) (Supp. 1987), as the same shall be amended from time to time. This subsection shall, to the maximum extent permitted by law, apply to any protests pending as of the date of enactment of this Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0211</num>
+      <heading>Interest on Late Payment and Penalties for Noncompliance</heading>
+      <para>
+        <num>(1)</num>
+        <text>Any amount  of tax not paid when due shall be considered  delinquent  and  shall bear interest at the rate established by the Internal  Revenue  Code at §662 l (a)(2) (Supp. 1987). Any person required to pay tax under this Code who fails to comply with a written order issued by the CFO or by such other representative designated by the Tribal Council to pay any delinquent amount shall be required to pay additional interest at a rate of one percent (1%) per day on those delinquent amounts.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any person who consistently engages in a practice of erroneous reporting, as determined by the Tax Commissioner such other representative designated by the Tribal Council, including incorrect reporting of royalty exemption rates, incorrect tribal acreage factors or incorrect API numbers or lease numbers, or any other related fraudulent activity, shall be subject to a civil penalty not to exceed One Hundred Dollars ($100.00) per occurrence.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any person who fails to comply with a written order issued by the Tax Commissioner or by such other representative designated by the Tribal Council, to provide reports or requested information or to post security, as required in <cite path="47|47.02|47.0204">Section 47.0204</cite>, shall be assessed a civil penalty of Two Hundred Dollars ($200.00) per day for each day said person is in violation of said order. A written request for extension of time within which to comply with a written order to provide reports or information other than monthly payments or monthly returns of producers or operators, if filed within the time period for compliance with said written order, shall be granted for a period of thirty (30) days. Subsequent requests for extension shall be granted by the Tax Commissioner only upon a clear showing of good cause.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In addition to such other interest or penalties provided by the foregoing Subsections. any taxpayer who employs electronic flow measurement devices in compliance with the provisions in <cite path="47|47.02|47.0207">Section 47.0207</cite>(5) but who fails to establish and maintain an auditable record of raw flow measurement data shall be subject to a civil penalty on a per meter basis not to exceed One Thousand Dollars ($1000.00) per day for each day that such information is lacking. Any taxpayer who fails to repair or correct an electronic flow measurement device malfunction in a timely manner shall be subject to a civil penalty on a per meter basis not to exceed one hundred dollars ($100.00) per day for each day that the metering device is not timely repaired or corrected.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any person required by this Code to file any return, report, or provide  information to the Tribe, who knowingly falsifies a report or who  knowingly provides incorrect information shall be subject to a civil penalty not to exceed One Thousand Dollars ($1,000.00), and taxpayers represented by such person may  be  subject  to  exclusion  and  removal  from within the territorial limits of the Tribe in  accordance  and in compliance  with  Title 39 of the Turtle Mountain Band of Chippewa   Indians  Tribal  Code,  as amended  or supplemented.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All assessments of interest or penalties provided for in <cite path="47|47.02|47.0211">this Section</cite> may be in addition to such further remedies available to the Tribe under <cite path="47|47.02|47.0217">Section 47.0217</cite> of this Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0212</num>
+      <heading>Payment Under Protest</heading>
+      <para>
+        <num>(1)</num>
+        <text>A taxpayer paying any amount required under this Code may pay such amount under protest by filing a Notice of Protest with the Tax Commissioner. A Notice of Protest shall be accompanied by timely payment of the protested tax. A Notice of Protest shall contain: a statement of reasons, a request for a refund of the protested amounts, and a request for a conference with the Tax Commissioner. In the event that the basis for the protest is continuing in nature and the taxpayer desires to protest subsequent payments made during consideration of the pending protest, subsequent Notices of Protest may incorporate the original Notice of Protest by reference, except for the request for refund of protested amounts, which shall be set forth in each Notice of Protest. All such Notices of Protest incorporating an original Notice of Protest shall be resolved simultaneously under the procedures described in this Subsection. The protest conference shall be held within ninety (90) days of the filing of the original Notice of Protest. Should the taxpayer fail to appear on the date appointed for the conference, the protest may, in the absence of a showing of unforeseeable circumstances, be summarily dismissed and the request for refund of the protested amounts shall be denied. Should the protest fail to be resolved during the conference with the CFO, the CFO shall request a hearing before the Tribal Council or an independent board or panel designated by the Tribal Council to be held within ninety (90) days of the conference, at which ti me the taxpayer shall present his reasons and arguments for the protest. Should the taxpayer fail to appear on the date appointed for the hearing before the Tribal Council or the independent board or panel designated by the Tribal Council, the protest may, in the absence of a showing of unforeseeable circumstances be summarily dismissed and the request for refund of the protested amounts denied. The Tribal Council or the independent board or panel designated by the Tribal Council shall render a decision on any protest within thirty (30) days following the date of the hearing.. The rationale supporting a decision regarding a specific protest may be relied upon in deciding other protests filed for identical reasons.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon receipt of a Notice of Protest, the Tribal Council or its authorized representative may, in its discretion, direct that the protested payment be placed in escrowed or separately identifiable account.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0213</num>
+      <heading>Confidentiality</heading>
+      <text>Any employee or representative of the Tribe who knowingly discloses any information considered by the Tribal Council to be confidential and obtained exclusively under the authority of this Code may be subject to a civil penalty not to exceed Five Hundred Dollars ($500.00). Disclosure of confidential information shall also constitute grounds for disciplinary action or dismissal. For purposes of <cite path="47|47.02|47.0213">this Section</cite>, it shall not be considered a breach of confidentiality for information obtained under this Code to be shared with officials of tribal departments or federal agencies responsible for energy production, lease compliance, royalty collection, or related matter with respect to the Tribe's territory.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0214</num>
+      <heading>Bonds and Other Security for Taxes</heading>
+      <para>
+        <num>(1)</num>
+        <text>Except as set forth in <cite path="47|47.02|47.0214">Section 47.0214</cite> (2), below, all working interest owners or operators paying taxes shall post with the Tribe a security in an amount equal to the highest tax liability having previously accrued to that working interest owner or operator during a two-month period. Such security may be in the form of a surety bond, a cash deposit to the treasury of the Tribe to be held in suspense, an assignment to the Tribe of a certificate of deposit, or an irrevocable letter of credit with any federally insured bank or savings and loan association. Any form of security shall be released after the taxpayer ceases to be subject to the requirements of this Code and after the Tax Commissioner determines that no tax penalty or interest liability exists.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All working interest owners or operators who have paid severance tax to the Tribe for a consecutive period of no less than five  (5) years and  who  have  maintained a record of good standing and a history of tax compliance may be exempted from the requirement to post a security. Qualifying taxpayers shall submit a written application for such a waiver to the Tribal Council or its authorized representative setting f01th the grounds in support for said request. In reviewing said application, the Tribal Council or its authorized representative shall consider from the totality of the circumstances whether the granting of said request appears to be consistent with the best interests of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0215</num>
+      <heading>Reserved for Future Use</heading>
+      <text>47.0216.	Audits and Records Requests.</text>
+      <text>The Tribal Council or its authorized representative shall have the authority to conduct audits and internal desk reviews to ascertain that correct volumes of severed minerals arc being reported and that the correct amount of tax is being remitted. During the course of such audits, the taxpayer will be given credit for any tax found to have been overpaid. In exercise of this authority, the Tribal Council or its authorized representative may request records from any entity involved in producing, transporting, treating, marketing, or processing minerals subject to this Code. Additionally, the Tribal Council or its authorized representative may request information maintained by the Bureau of Land Management, the Minerals Management Service, the Bureau of Indian Affairs, the State of North Dakota, or other governmental agencies that may be relevant to compliance with this Code. Retention of records by a taxpayer during the pendency of an audit shall be in accordance with <cite path="47|47.02|47.0206">Section 47.0206</cite> (2) of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0217</num>
+      <heading>Additional Remedies for Noncompliance</heading>
+      <text>In addition to the assessment of interest and penalties as provided in <cite path="47|47.02|47.0211">Section 47.0211</cite> of this Code, should any person or entity subject to the provisions of this Code, fail to comply with a written order issued under this Code by the Tribal Council, the Tax Commissioner, or an authorized representative thereof, then the Tribal Council may  commence an action in the Turtle Mountain Band of Chippewa Tribal Court seeking a declaratory judgment that such person is in material violation of this Code. In addition, the Tribe may seek, and the Tribal Court is empowered to grant, such further relief as may be reasonable or necessary to obtain and maintain compliance with the provisions of this Code, including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>the imposition of additional civil penalties not to exceed One Thousand Dollars ($1000.00) per violation per day;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the appointment of a receiver at the cost of the taxpayer to operate ongoing severance and production activities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the assignment of 100% of the proceeds from the sale of produced substances until such time as delinquent payments, interest and penalties are recovered;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the shutting in of wells used in severing substances described in <cite path="47|47.02|47.0201">Section 47.0201</cite> in those instances in which such wells are associated with the noncompliance;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the imposition  of liens  for amounts  determined  to be  delinquent , which  liens shall be deemed to exist  as of the date of accrual  of liability;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>the attachment, execution , and sale of any property owned by such delinquent party within the territorial  limits of the Tribe to pay for delinquent sums due;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>the  exclusion  or removal  of said  non-complying party from within the  Tribe's territory;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>the forfeiture  of interests  in tribal  leases  or mineral  agreements; and or</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Tribe and its authorized representative may also commence any actions in foreign jurisdictions necessary for recognition and enforcement of orders issued by the Turtle Mountain Band of Chippewa Indians Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0218</num>
+      <heading>Consent to Suit</heading>
+      <para>
+        <num>(1)</num>
+        <text>Should a taxpayer, working interest owner, or operator of a well be adversely affected by a ruling of the Tribal Council, its authorized representative or an independent board or panel designated by the Tribal Council regarding interpretation or application of this Code, said adversely affected party may seek judicial relief against the Tribe in the Turtle Mountain Band of Chippewa Indians' Tribal Court and the Tribe hereby consents to such a suit. The decision of the Tribal Court may be appealed to the Tribe's appellate court in accordance with the rules and procedures governing practice before that court. Provided that a jurisdictional basis exists, the final decision of the Tribe's courts issued, after exhaust ion of all tribal judicial remedies, may be appealed to the United States District Court for the District of North Dakota, and the Tribe hereby consents to such federal appellate review. The Tribe does not consent to be sued in the State Courts of North Dakota.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Recovery by the taxpayer is limited to refund of any overpayments only, excluding any interest, attorney fees and costs.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>47.03</num>
+    <heading>Waste of Natural Gas</heading>
+    <section>
+      <num>47.0301</num>
+      <heading>Waste of Natural Gas</heading>
+      <text>Any company doing business within the Territory and Jurisdiction of the Turtle Mountain Band of Chippewa Indians shall capture any natural gas which may be a byproduct of the oil and gas drilling process. Capture shall mean to collect in a container or other device.</text>
+      <text>Failure to capture natural gas for a term of one year shall result in a civil penalty of up to $50,000 per 100 BTU's.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>47.0302</num>
+      <heading>Prohibition on Dumping of Waste of the Oil and Gas Industry</heading>
+      <text>It shall be unlawful to dump or leave behind sludge, drill cuttings, filter socks, and pit liners, among other materials waste, and or byproduct, tailings, and or any other waste at a drill site or upon any land with in the Territory and Jurisdiction of the Turtle Mountain Band of Chippewa Indians.</text>
+      <text>Violations of this provision shall result in a civil forfeiture up to $25,000 and imprisonment up to one year.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

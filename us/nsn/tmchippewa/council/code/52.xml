@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>52</num>
+  <heading>Public Health Emergencies</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.01</num>
+    <heading>Purpose</heading>
+    <section>
+      <num>52.0101</num>
+      <heading>Purpose</heading>
+      <text><cite path="52">This Title</cite> shall be liberally construed and applied to carry out its purpose.</text>
+      <text>The purpose of <cite path="52">this Title</cite> is to:</text>
+      <text>Protect, enhance and exercise the inherent sovereignty of the Tribe.</text>
+      <text>Create and define the policies and procedures governing the confinement of those infected with communicable disease that are subject to the Band's jurisdiction.</text>
+      <text>Ensure that the Tribe is able to adequately respond to public health emergencies within the Tribe's jurisdiction;</text>
+      <text>Ensure that due process of law is accorded to any person coming under the provisions of <cite path="52.01">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0102</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Court shall have general jurisdiction over isolation and quarantine matters as set forth under <cite path="52">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Personal Jurisdiction</u>. Persons and businesses subject to the Tribe's quarantine, isolation, and public health emergency powers include:</text>
+        <para>
+          <num>a.</num>
+          <text>Enrolled members of the Turtle Mountain Band of Chippewa Indians;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Turtle Mountain descendants who reside within the exterior boundaries of the Turtle Mountain Reservation;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Indians enrolled in the federally recognized tribes who reside within the exterior boundaries of the Turtle Mountain Reservation;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>All businesses with physical locations within the Territorial jurisdiction of the Tribe; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>All other persons other than those over whom jurisdiction is not prohibited by Federal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><u>Territorial jurisdiction</u>. For the purpose of enforcement of <cite path="52">this Title</cite>, the territorial jurisdiction of the Tribe shall be consistent with Article II of the Constitution.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.02</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>52.0201</num>
+      <heading>Definitions</heading>
+      <text>As used in <cite path="52.02">this chapter</cite>, unless the context otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"Communicable disease" means a disease or condition that causes serious illness, serious disability, or death, the infectious agent of which may pass or be carried, directly or indirectly, from the body of one person to the body of another.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Confinement" means quarantine or isolation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Constitution" means the Constitution of the Tribe.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Court" means the Tribal Court.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Court of Appeals" means the Tribal Court of appeals.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Health Officer" means the Health Officer of the Tribe.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Isolation" means the physical separation and restrictions on movement or travel of an individual or groups of individuals who are infected or reasonably believed to be infected with a contagious or possibly contagious disease from non-isolated individuals, to prevent or limit the transmission of the disease to non-isolated individuals.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Public health emergency" means an occurrence or imminent threat to the health of the public either through an illness or other health condition caused by bio terrorism, toxic waste spill, epidemic or pandemic disease, or a novel and highly fatal infectious agent or biological toxin, or through widespread violence, caused by riots, gang turf warfare, acts of terrorism, or other incidents that poses a substantial risk of a significant number of human facilities, or permanent or long term disability.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Quarantine" means the physical separation and restrictions on movement or travel of an individual or groups of individuals, who are or may have been exposed to a contagious or possibly contagious disease and who do not show signs or symptoms of a contagious disease, from nonquarantined individuals to prevent or limit the transmission of the disease to nonquarantined individuals.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Respondent" means the person or group of persons ordered to be confined or restricted under <cite path="52.02">this chapter</cite></text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Shelter in place" means finding a safe location indoors and staying at said location, leaving only for essential activities, as defined by the Health Officer, until otherwise instructed by the Health Officer.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Tribal Council" means the Tribal Council of the Tribe.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Tribe" means the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.03</num>
+    <heading>Tribal Health Officer</heading>
+    <section>
+      <num>52.0301</num>
+      <heading>Appointment</heading>
+      <text>Tribal Council shall appoint a Health Officer, who shall be the chief public health official of the Tribe. The Health Officer shall be selected on the basis of public health expertise, knowledge and experience. Tribal Council has discretion to contract with an outside party or government to appoint a Health Officer with the appropriate qualifications.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0302</num>
+      <heading>Removal</heading>
+      <text>The Council may remove, without notice, the Health Officer at any time, either with or without cause. This position is granted by political appointment only and a removed Health Officer has no right of appeal.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0303</num>
+      <heading>Compensation</heading>
+      <text>The Health Officer shall receive compensation as determined by the Tribal Council.  The Health Officer shall be entitled to compensation for expenses, including traveling expenses, incurred in the discharge of their duties, provided funds have been made available and such expenses have been approved by Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0304</num>
+      <heading>Term of Office</heading>
+      <text>The appointment of the Health Officer shall be at the discretion of the Tribal Council and the term of office shall be four (4) years. If a Health Officer is removed or replaced for any reason, the replacing Health Officer shall serve the remainder of the removed or replaced Health Officer's term. A Health Officer may serve multiple and consecutive terms of office.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0305</num>
+      <heading>Powers and Duties of the Health Officer</heading>
+      <para>
+        <num>1.</num>
+        <text>The Health Officer shall, upon the approval of Tribal Council, have the authority to appoint and manage a reasonable staff as required to carry out the powers and duties of the Health Officer.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Health Officer shall have the following powers and duties:</text>
+        <para>
+          <num>a.</num>
+          <text>Conduct, promote, and finance, in full or in part, with the approval of the Tribal Council, studies, investigations, programs and research, independently or in cooperation with universities, colleges, scientific organizations, and public or private agencies;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Order the enforcement of such quarantine and isolation orders as necessary for the protection of public health;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Recommend, as necessary, to Tribal Council appropriate responses to public health emergencies, including, but not limited to:</text>
+          <para>
+            <num>i.</num>
+            <text>The closure of businesses or appropriate limits to the operations of businesses;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Social distancing;</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Shelter in place;</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>Removal or exclusion of non-Indian individuals from the Tribe's jurisdiction;</text>
+          </para>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Recommend to Tribal Council policies and regulations governing the control of communicable disease within the Tribe's jurisdiction;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Communicate with tribal government authorities and businesses to coordinate responses to public health emergencies; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Communicate and coordinate responses to public health emergencies and issues with State, federal, or Tribal Health Officers and State Public Health Units.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0306</num>
+      <heading>Confinement Order</heading>
+      <para>
+        <num>1.</num>
+        <text>The Health Officer may order any person or group into confinement by a written directive if there are reasonable grounds to believe that:</text>
+        <para>
+          <num>a.</num>
+          <text>The person or group is infected with any communicable disease;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The person or group poses a substantial threat to the public health; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Confinement is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0307</num>
+      <heading>Conditions and Principles</heading>
+      <para>
+        <num>1.</num>
+        <text>The Health Officer shall adhere to the following conditions and principles when isolating or quarantining individuals or groups of individuals:</text>
+        <para>
+          <num>a.</num>
+          <text>Isolation and quarantine must be by the least restrictive means necessary to prevent the spread of a contagious or possibly contagious disease to others and may include confinement to private homes or other private and public premises.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Isolated individuals must be confined separately from quarantined individuals.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The health status of isolated and quarantined individuals must be monitored regularly to determine if they require quarantine or isolation.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>If a quarantined individual subsequently becomes infected or is reasonably believed to have become infected with a contagious or possibly contagious disease the individual must promptly be removed to isolation.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Isolated and quarantined individuals must be immediately released when they pose no substantial risk of transmitting a contagious or possibly contagious disease to others.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Isolated and quarantined individuals must be provided adequate information, in a manner that such individuals can understand, on the scope of their quarantine or isolation order, including, but not limited to: acceptable movement outside of the quarantine or isolation premises, acceptable contact with persons outside the quarantine or isolation order, and the boundaries of the quarantine or isolation premises.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>The needs of persons isolated and quarantined must be addressed in a systematic and competent fashion, including providing adequate food, clothing, shelter, means of communication with those in quarantine or isolation and outside these settings, medication, and competent medical care.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Premises used for isolation and quarantine must be maintained in a safe and hygienic manner and be designed to minimize the likelihood of further transmission of infection or other harm to persons isolated and quarantined.</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>To the extent possible, cultural and religious beliefs must be considered in addressing the needs of individuals and establishing and maintaining isolation and quarantine premises.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0308</num>
+      <heading>Cooperation</heading>
+      <text>Persons subject to quarantine or isolation shall obey the Health Officer's rules and orders and must not go beyond the quarantine or isolation premises for any reason not specified in the order. Failure to obey these provisions is a Class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0309</num>
+      <heading>Entry into Quarantine or Isolation Premises</heading>
+      <para>
+        <num>1.</num>
+        <text>Authorized entry. The Health Officer may authorize physicians, health care workers, or others access to individuals in quarantine or isolation as necessary to meet the needs of isolated or quarantined individuals.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Unauthorized entry. A person, other than a person authorized by the state or local health officer, must not enter quarantine or isolation premises. Failure to obey this provision is a class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Potential quarantine or isolation. A person entering a quarantine or isolation premises with or without authorization of the state or local health officer may be isolated or quarantined pursuant to <cite path="52|52.03|52.0309">Section 52.0309</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0310</num>
+      <heading>Limitations</heading>
+      <para>
+        <num>1.</num>
+        <text><cite path="52|52.03|52.0310">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any medical facility within the Tribe's jurisdiction.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><cite path="52|52.03|52.0310">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any tribal government facility or tribal business facility without prior authorization for such action from Tribal Council.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.04</num>
+    <heading>Temporary Isolation and Quarantine Without Notice</heading>
+    <section>
+      <num>52.0401</num>
+      <heading>Authorization</heading>
+      <text>The Health Officer may temporarily isolate or quarantine an individual or groups of individuals through a written directive if delay in imposing the quarantine or isolation would significantly jeopardize Health Officer's ability to prevent or limit the transmission of a contagious or possibly contagious disease to others.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0402</num>
+      <heading>Content of Directive</heading>
+      <text>The written directive must specify the identity of the individual or groups of individuals subject to quarantine or isolation, including identification by characteristics if actual identification is impossible or impracticable; the premises subject to quarantine or isolation; the date and time at which quarantine or isolation commences; the suspected contagious disease if known; and decontamination, treatment, or prevention measures that must be followed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0403</num>
+      <heading>Copies</heading>
+      <text>A copy of the written directive must be given to the individual to be isolated or quarantined or, if the order applies to a group of individuals and it is impractical to provide individual copies, it may be posted in a conspicuous place in the quarantine or isolation premises. The Health Officer may also use any available mass media, including broadcasting, to provide notice and information about the written directive.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0404</num>
+      <heading>Petition for Continued Quarantine or Isolation</heading>
+      <text>Immediately after issuing the written directive, if the Health Officer determines that continued quarantine or isolation is necessary, the Health Officer shall file a petition under <cite path="52|52.05|52.0503">Section 52.0503</cite> for a Court order authorizing the continued quarantine or isolation of the isolated or quarantined individual or groups of individuals.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.05</num>
+    <heading>Quarantine or Isolation with Notice</heading>
+    <section>
+      <num>52.0501</num>
+      <heading>Authorization</heading>
+      <text>The Health Officer may make a written petition to the Court for an order authorizing the quarantine or isolation of an individual or groups of individuals.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0502</num>
+      <heading>Contents of Petition for Quarantine or Isolation</heading>
+      <para>
+        <num>1.</num>
+        <text>A petition under Section a must:</text>
+        <para>
+          <num>a.</num>
+          <text>Specify the identity of the individual or groups of individuals subject to quarantine or isolation, including identification by characteristics if actual identification is impossible or impractical;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The premises subject to quarantine or isolation;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The date and time at which quarantine or isolation commenced or shall commence;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The suspected contagious disease if known;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Recommended decontamination, treatment, or preventative measures for the suspected contagious disease;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>A statement of compliance with the conditions and principles authorizing isolation and quarantine under <cite path="52">this Title</cite>; and</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>A statement that quarantine or isolation is necessary and is the least restrictive alternative to protect or preserve the public health accompanied by any supporting documentation and/or evidence for this statement.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The petition must be accompanied by the sworn affidavit of Health Officer attesting to the facts asserted in the petition, with any further information that may be relevant and material to the Court's consideration.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0503</num>
+      <heading>Submission of a Petition to Tribal Court</heading>
+      <para>
+        <num>1.</num>
+        <text>As soon as is practicable after submission of the petition to the Court, the Judge shall examine the petition to determine whether it complies with the requirements of <cite path="52|52.05|52.0502">Section 52.0502</cite>. If the petition meets the requirements set forth in <cite path="52|52.05|52.0502">Section 52.0502</cite>, the Court shall schedule a hearing on the petition for no later than five (5) business days after the date of receipt of the petition.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Prior to the hearing on the petition, the Tribal Court may:</text>
+        <para>
+          <num>a.</num>
+          <text>Issue an emergency ex-parte order for the immediate quarantine or isolation of the individual or group of individuals identified in the petition; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Issue an emergency ex-parte order requiring the individual or group of individuals identified in the position to follow all orders issued by the Health Officer.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0504</num>
+      <heading>Notice</heading>
+      <text>Notice of the hearing to the individuals or groups of individuals identified in the petition must be accomplished within twenty-four (24) hours of the Court scheduling the hearing. Notice shall be "accomplished" by serving a copy of the petition on the individual or group of individuals in accordance with <cite path="52|52.06|52.0601">Section 52.0601</cite> of this Code. The notice must include a statement that the respondent has the right to counsel at the respondent's expense and must state that the time and place of the hearing on the petition.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0505</num>
+      <heading>Place of Confinement</heading>
+      <text>A respondent must be confined in a place designated in the written directive until the Health Officer determines that the respondent no longer poses a substantial threat to the public health or until the Court orders the release of the respondent. The Health Officer, in consultation with and upon the approval of Tribal Council, may establish and maintain places of confinement.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.06</num>
+    <heading>Court Proceedings</heading>
+    <section>
+      <num>52.0601</num>
+      <heading>Court Hearing Requirements</heading>
+      <para>
+        <num>1.</num>
+        <text>A hearing must be held on a petition filed under <cite path="52|52.05|52.0503">Section 52.0503</cite> within five (5) days of filing the petition. A record of the proceedings pursuant to <cite path="52|52.06|52.0601">this section</cite> must be made and retained. If parties cannot personally appear before the Court due to risks of contamination or the spread of disease, proceedings may be conducted by their authorized representatives and/ or be held via any means that allows all parties to fully participate, including, but not limited to, video call or teleconference. The respondent, respondent's representative, or respondent's counsel has the right to cross-examine witnesses testifying at the hearing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The respondent has a right to counsel, at the respondent's own expense.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A petition for a hearing does not stay a written directive ordering confinement.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>At the conclusion of the hearing, the Court shall determine by a preponderance of the evidence:</text>
+        <para>
+          <num>a.</num>
+          <text>If the respondent is infected with a communicable disease;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>If the respondent poses a substantial threat to the public health; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>If confinement is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Court shall also determine whether to order the respondent to follow the Health Officer's directive for decontamination, treatment, or preventative measures if the petition is granted.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0602</num>
+      <heading>Access to Records</heading>
+      <para>
+        <num>1.</num>
+        <text>Before a hearing conducted under <cite path="52">this Title</cite>, the respondent, respondent's representative, or respondent's counsel, and the Tribal attorney must be afforded access to all records, accessible by the Health Officer, as allowed under federal and tribal privacy laws, including hospital records if the respondent is hospitalized.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the respondent is hospitalized at the time of the hearing, the hospital shall make available at the hearing for use by the respondent, respondent's representative, respondent's counsel, and the Tribal Attorney all records in its possession relating to the conditions of the respondent.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0603</num>
+      <heading>Burden of Proof</heading>
+      <text>At a hearing conducted under <cite path="52">this Title</cite>, the Health Officer has the burden of showing by a preponderance of the evidence that the respondent is infected with a communicable disease, poses a substantial threat to the public health, and that confinement of the respondent is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0604</num>
+      <heading>Court Findings and Orders</heading>
+      <para>
+        <num>1.</num>
+        <text>If the Court finds by a preponderance of the evidence that the respondent is infected with a communicable disease, poses a substantial threat to the public health, and that confinement of the respondent is necessary and is the least restrictive alternative to protect or preserve the public health, the Court may order the continued confinement of the respondent under any conditions and restrictions the Court determines appropriate for decontamination, treatment, or prevention, including remand to the Health Officer, until the Health Officer determines that the respondent's release would not constitute a substantial threat to the public health, or may order the release of the respondent under any conditions and restrictions the Court determines appropriate to protect the public health. If the Court fails to find that the conditions required for an order for confinement have been proven, the Court shall order the immediate release of the respondent.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0605</num>
+      <heading>Request to Terminate or Modify an Order - Review of Confinement Orders</heading>
+      <text>A respondent may, at any time, request the Court to terminate or modify an order of the Court, in which case a hearing must be held in accordance with <cite path="52|52.06|52.0601">Section 52.0601</cite> Upon its own motion, the Court may conduct a hearing to determine if the conditions requiring the confinement or restriction of the respondent continue to exist. Notice of at least five days, but no more than ten business days, must be provided to all parties to the hearing under <cite path="52|52.06|52.0605">this section</cite>. If the Court, at a hearing held upon motion of the respondent or its own motion, finds that the conditions requiring confinement or restriction no longer exist, the Court shall order the immediate release of the respondent. If the Court finds that the conditions continue to exist but that a different remedy is appropriate under <cite path="52.06">this chapter</cite>, the Court may modify its order accordingly.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0606</num>
+      <heading>Closed Hearing - Confidentiality of Information</heading>
+      <text>At the request of the respondent, a hearing conducted under <cite path="52.06">this chapter</cite> must be closed and any report, transcript, record, or other information relating to actions taken under <cite path="52.06">this chapter</cite> must be kept confidential.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>52.0607</num>
+      <heading>Right of Appeal</heading>
+      <text>Any party aggrieved by an order of the Tribal Court under <cite path="52">this Title</cite> may appeal to the Tribal Court of Appeals. An order of confinement continues in effect while the matter is on appeal.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

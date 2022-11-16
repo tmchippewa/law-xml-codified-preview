@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>17</num>
+  <heading>Counseling and Rehabilitation Board</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.01</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>17.0101</num>
+      <heading>Definitions</heading>
+      <text>In <cite path="17">this Title</cite> unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>1.</num>
+        <text>"Alcoholic" shall mean any person who chronically and habitually uses alcoholic beverages to the extent that he has lost the power of se1f control with respect to the use of such beverages, or while chronically or habitually under the influence of alcoholic beverages, endangers public morals, health, safety, or welfare;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Alcoholism" shall mean the pathological condition attendant upon the excessive and habitual use of alcoholic beverages;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Board" shall mean the Counseling and Rehabilitation Board of the Turtle Mountain Band of Chippewa Indians;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Board" shall mean the Board of Commissioners of the Board;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Patients" shall mean persons who are under the supervision or care of the Board.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.02</num>
+    <heading>Organizational</heading>
+    <section>
+      <num>17.0201</num>
+      <heading>Appointment of Board Members</heading>
+      <text>The Board members shall be appointed, and may be reappointed by the Council. It shall be responsible to the Council and shall have such powers and duties as are herein, or may subsequently be delegated by the Council. A certificate of the Secretary of the Council as to the appointment or reappointment of any commissioner shall be conclusive evidence of the due and proper appointment of the Commissioner.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0202</num>
+      <heading>Term of Office</heading>
+      <text>The term of office shall be four (4) years and staggered. When the Board is first established, one (1) member's term shall be designed to expire in one (1) year, another to expire in two (2) years, and a third to expire in three (3) years, and the last two (2) in four (4) years. Thereafter, all appointments shall be for four (4) years, except in the case of a prior vacancy, an appointment shall be only for the length of the unexpired term. Each member of the Board shall hold office until his successor has been appointed and has qualified.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0203</num>
+      <heading>Officers</heading>
+      <text>The Board shall elect from among its members a Chairman, a Vice-Chairman, a Secretary, and a Treasurer, and any member may hold two (2) of these positions. In the absence of the Chairman, the Vice-Chairman shall preside; and in the absence of both the Chairman and the Vice-Chairman, the Secretary shall preside.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.204</num>
+      <heading>Removal</heading>
+      <text>A member may be removed from the Board by the Tribal Council or by a two-thirds (2/3) vote of the Board and upon the approval of the Tribal Council. The Board and the Council must show cause for such action in writing to the member in question and to the Tribal Council. One cause for removal shall be absenteeism from two (2) regular meetings in a row of the Board. The member in question shall have the right to appeal the action according to due processes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.205</num>
+      <heading>Compensation</heading>
+      <text>The Commissioners shall not receive compensation for their services but shall be entitled to compensation for expenses, including traveling expenses, incurred in the discharge of their duties, provided funds have been made available.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.206</num>
+      <heading>Meetings</heading>
+      <text>Three (3) members of the Board shall constitute a quorum for the transaction of business, notwithstanding the existence of any vacancies. Meetings of the Board shall be held at regular intervals as provided in the bylaws. Emergency meetings may be held upon twenty-four (24) hours actual notice to all members provided that three (3) or more members concur in the proposed action.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0207</num>
+      <heading>Minutes of Meetings</heading>
+      <text>The Secretary shall keep complete and accurate records of all meetings and action taken by the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0208</num>
+      <heading>Financial Records</heading>
+      <text>The Treasurer shall keep full and accurate financial records, make monthly reports, and an annual report to the Board. Bimonthly reports and a complete annual report, in written form, shall be submitted to the Council as required by Article VII, Section 1<strong>, </strong>of this Ordinance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0209</num>
+      <heading>General Provisions</heading>
+      <para>
+        <num>1.</num>
+        <text>No part of the net earnings of the Turtle Mountain Counseling and Rehabilitation Board shall inure to the benefit of, or be distributable to, its members, directors, officers, or other private persons, except that the organizations shall be authorized and empowered to pay reasonable compensations for services rendered.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No substantial part of the activities of the Turtle Mountain Counseling and Rehabilitation Board shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the Turtle Mountain Counseling and Rehabilitation Board shall not participate in, or intervene in, (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In the event of dissolution, any remaining assets shall be distributed to organizations organized and operated exclusively for charitable, educational or scientific purposes as shall at the time qualify as exempt organizations under Section 501(c)(3) of the Internal Revenue Code of 1954.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Notwithstanding any other provisions of <cite path="17">this Title</cite>:</text>
+        <para>
+          <num>a.</num>
+          <text>All income of the Turtle Mountain Counseling and Rehabilitation Board for each taxable year (for Federal income tax purposes) shall be distributed at such a time and in such manner so as not to subject the Turtle Mountain Counseling and Rehabilitation Board to Federal tax under Section 4942 of the Internal Revenue Code of 1954, as amended; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The Turtle Mountain Counseling and Rehabilitation Board created hereby shall not engage in any act of self-dealing (as defined in Section 4941 (d) of the Internal Revenue Code of 1954, as amended), retain any excess business holdings as defined in Section 4943(c) of the Internal Revenue Code of 1954, as amended, make any investments in such manner as to subject the Turtle Mountain Counseling and Rehabilitation Board to tax under Section 4944 of the Internal Revenue Code of 1954, as amended, or make any taxable expenditures as defined in Section 4945 (d) of the Internal Revenue Code of 1954, as amended.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.03</num>
+    <heading>Powers and Duties</heading>
+    <section>
+      <num>17.0301</num>
+      <heading>Duties of the Board</heading>
+      <text>The Board shall retain the services of a professionally qualified person to serve as Director of its programs. By and through said Director of the Board shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Conduct, promote, and finance, in full or in part, with the approval of the Tribal Council, studies, investigations, programs and research, independently or in co-operation with universities, colleges, scientific organizations, and public or private agencies;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Study alcoholism and its problems, including methods and facilities available for the care, custody, detention, treatment, employment, and rehabilitation of resident alcoholics;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Promote meetings and programs for the discussion of alcoholism or any of its aspects, disseminate information on the subject of alcoholism for the guidance and assistance of individuals, courts, and public or private agencies for the prevention of alcoholism and inform and educate the general public on problems of alcoholism, its prevention and treatment, to the end that alcoholism may be prevented and that persons suffering from alcoholism may be disposed to seek available treatment;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Accept for examination, diagnosis, guidance, and treatment, insofar as funds permit, any person coming to the Board of his own volition for advice and guidance;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Establish, from time to time, policies governing the acceptance, care and treatment of alcoholics, and adopt such rules as may be necessary to regulate the conduct and stay of all patients of the Board;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Employ such assistants as may be necessary, provided funds have been made available.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0302</num>
+      <heading>Annual Reports</heading>
+      <text>The Board shall submit a detailed annual report, signed by the Chairman of the Board, to the Tribal Council showing all programs undertaken, progress and results accomplished as to each such program, and any recommendations the Board may deem advisable.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0303</num>
+      <heading>Interim Reports</heading>
+      <text>The Board shall make and submit to the Tribal Council, quarterly reports, either oral or written, as the Council may require.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0304</num>
+      <heading>Board May Contract for Services of Other Agencies; Training of Personnel</heading>
+      <text>The Board may contract for such educational, research, casework, institutional and medical facilities, personnel and services of public or private agencies as may be necessary to carry out the provisions of <cite path="17.03">this Chapter</cite>. It may accept for training under its direction such medical, technical and clinical personnel as may be desirable.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0305</num>
+      <heading>Facilities for Treatment of Alcoholism</heading>
+      <text>The Board, with the consent of the Tribal Council, may establish facilities for the treatment of its patients and shall have authority to lease or purchase land, buildings, and equipment or to construct buildings suitable for that purpose whenever funds are made available.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0306</num>
+      <heading>Authority to Sue</heading>
+      <text>The Council hereby gives its irrevocable consent that the Authority may sue and be sued in its corporate name upon its contract, claim, or obligation arising out of its activities under this ordinance, and hereby authorizes the Board to agree by written contract to waive any immunity from suit, which it might otherwise have, but the Tribe shall not be liable for the debts or obligations of the Board, except insofar as expressly authorized by this ordinance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0307</num>
+      <heading>Lease Property</heading>
+      <text>The Board, with the consent of the Tribal Council, may lease property from the Tribe and others for such periods as are authorized by law, and may hold and manage or sublet the same.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0308</num>
+      <heading>Borrow Money</heading>
+      <text>The Board may borrow money, issue temporary or long-term evidence of indebtedness, and repay the same.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0309</num>
+      <heading>Pledge Property</heading>
+      <text>The Board may pledge the assets and receipts of the Board as security for debts; the Authority may acquire, sell, lease, exchange, transfer or assign personal property or interests therein.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0310</num>
+      <heading>Insurance</heading>
+      <text>The Board shall purchase insurance in any stock or mutual company for any property held by the Board or against any risks or hazards.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0311</num>
+      <heading>Investment of Funds</heading>
+      <text>The Board shall invest such funds as are required for immediate disbursement in savings accounts, certificates of deposit, or similar safe, interest-bearing investments.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.04</num>
+    <heading>Treatment</heading>
+    <section>
+      <num>17.0401</num>
+      <heading>Voluntary Admission for Treatment</heading>
+      <text>Any person may apply for voluntary admission to the care, treatment and guidance of the Board, or may have such application made in his behalf by his parent, person in loco parentis, legal guardian, spouse, other relative or friend.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0402</num>
+      <heading>Rules and Regulations</heading>
+      <text>The Board, by and through its Director, shall make such rules and regulations for the admission, care and treatment of voluntary patients as it shall deem best, except that such patients shall not be under the control of the Board for less than thirty (30) days, nor more than one (1) year, unless they have entered treatment in the Alcoholic Offender Rehabilitation Program, in which case the length of care shall be determined by the law enforcement council review board or an official designated by that board. Such rules and regulations shall be printed and made available to the public.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0403</num>
+      <heading>Civil Rights; Records Confidential</heading>
+      <text>No voluntary patient shall, by asking the help or care of the Board, abridge any of his civil rights nor shall evidence of his voluntary admission to the Board's care and control be admissible against him in any Court. All records pertaining to patients shall be confidential, and may be released to any party other than the patient only upon signed authorization of the patient.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0404</num>
+      <heading>Reimbursement for Treatment</heading>
+      <text>The Authority, insofar as may be possible, shall seek to be reimbursed by the persons liable for the support of the patient for any or all items of expense incurred by the Authority in connection with the care, custody, treatment, and rehabilitation, and may make such financial arrangements concerning necessary expenses as it deems best. No patient shall be charged at a rate greater than actual cost of the care, treatment or rehabilitation furnished such patient. The Authority may accept funds, property, or service from any source, and all revenue received by the Authority from gifts, and grants in aid is hereby appropriated and shall be used in carrying out the provisions of <cite path="17">this Title</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.05</num>
+    <heading>Management of Funds</heading>
+    <section>
+      <num>17.0501</num>
+      <heading>Accounts</heading>
+      <text>The Board shall establish and maintain such bank accounts as may be necessary and convenient.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0502</num>
+      <heading>Deposit of Funds</heading>
+      <text>All moneys received by the Board from the sale of articles or services shall be deposited in such accounts as the Board shall establish, pursuant to <cite path="17|17.05|17.0501">section 17.0501</cite>, and shall be available to the Board for expenditure pursuant to the terms of <cite path="17">this Title</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0503</num>
+      <heading>Violations of Provisions of This Chapter (Indian)</heading>
+      <text>Any Indian violating any of the provisions of <cite path="17.05">this Chapter</cite> shall be guilty of an offense and shall be punished by a fine of not more than one hundred dollars ($100), or by confinement for not more than thirty (30) days or by both such fine and confinement with costs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>17.0504</num>
+      <heading>Violations of Provisions of This Chapter (Non-Indian)</heading>
+      <text>Any non-Indian licensee violating any of the provisions of <cite path="17.05">this Chapter</cite> shall be removed from the reservation pursuant to Article IX, Section 4, of the Constitution and By-Laws of the Turtle Mountain Band of Chippewa Indians.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>
