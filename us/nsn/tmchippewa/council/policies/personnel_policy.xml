@@ -1,13 +1,2172 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Tribal Employee Policy and Procedures Manual - 2022">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Tribal Employee Policy and Procedures Manual 2022">
   <meta>
-    <stub/>
-    <effective/>
-    <history>
-      <adopted>0001-01-01</adopted>
-    </history>
     <citations>
-      <citation type="bb" url="./personnel_policy.pdf">Tribal Employee Policy and Procedures Manual - 2022</citation>
+      <citation type="bb" url="./tribal_employee_policy_and_procedures_manual_2022.pdf">Turtle Mountain Band of Chippewa Indians Tribal Employee Policy and Procedures Manual 2022</citation>
     </citations>
   </meta>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>Statement of Purpose and Policies</heading>
+    <para>
+      <num>A.</num>
+      <text>General Purpose</text>
+      <text>The purpose of this Personnel Policies and Procedures Manual is to establish written guidelines to be followed in recruitment, selection, hiring, training, disciplinary action, and termination of employees of the TMBCI.  It is intended to clearly state the benefits and responsibilities of Tribal employment.  It is the resource manual to inform employees of the policies and procedures and to promote standard practices among all personnel.</text>
+      <text>The Department of Personnel Management shall ensure that:</text>
+      <para>
+        <num>•</num>
+        <text>All Tribal Officers, Supervisors, Program Directors, and Department Heads have a Personnel Policy and Procedures Manual accessible to all employees.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>All amendments to the Personnel Policies and Procedures Manual will be made by Council resolution.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Manual clarifications, interpretations, and application are consistent for all Tribal employees, except for those government grants or contracts that require the TMBCI to observe policies and procedures different or contrary to those contained in this manual, only those provisions which conflict from those contained herein will take precedence unless permission to waive is granted by the funding agency.  However, those provisions of this manual, which are not in conflict with federal law, will remain in full force and effect.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Each employee is responsible for becoming familiar with and complying with these Personnel Policies and Procedures.</text>
+        <text>As an employee, you will expect from the Turtle Mountain Band of Chippewa Indians:</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Fair and equitable treatment,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Safe working conditions,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Opportunity for advancement based on work performance, vacancies and meting minimum qualifications; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To be kept informed through two-way communication.</text>
+        <text>As your Employer, the Tribe expects you:</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To work toward the goals of the tribe in providing services to members and residents of the Turtle Mountain Indian Reservation.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To be loyal to employer.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To be fair, courteous, and cooperative in your relationship with the public and your fellow employees.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To five the tribe a fair return for the pay you receive.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To practice good work habits and be prompt in reporting for work and scheduled assignments; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To comply with all policies and procedures of the TMBCI.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Specific Personnel Polices</text>
+      <text>The intent of the Turtle Mountain Band of Chippewa Indians is that:</text>
+      <text>All personnel actions shall be carried out in an efficient, effective, and equitable manner.</text>
+      <para>
+        <num>•</num>
+        <text>All hiring, termination, and disciplinary actions will be based on qualifications and performance of an employee or potential employee in the case of hiring.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Compensation for work will be based on principles of equal pay for equal work that federal contract requirements necessitate deviation from these principles; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Preference in initial hiring and retention in employment during a reduction in force shall be given to enrolled members of the TMBCI, second to seniority and third to veterans.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Application of Procedures</text>
+      <text>These Personnel Policies shall apply to all tribal employees, including employees operating under contracts between the tribe and federal, state, and local governments.  Supplemental policies may be adopted by Tribal Council resolution when specific programs (e.g., Head Start, Police Department, etc.) have federal guidelines that require policies not covered in this manual.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Employment Status</text>
+      <text>Each employee shall be designated as either NONEXEMPT or EXEMPT from the Fair Labor Standards Act.</text>
+      <para>
+        <num>•</num>
+        <text>Nonexempt employees may be entitled to comp-time or overtime pay under the specific provisions of applicable federal and state wage hour laws.</text>
+        <text>In addition to the above categories, each employee will belong to one of the following:</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Regular full-time:  Employees who work at least 40 hours per week and who maintain continuous regular employment unless terminated for good cause, lack of funding, lay off, resignation etc.  Regular full-time employees are eligible for employee benefits subject to terms, conditions, and limitations of each benefit program.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Regular part-time:  Employees who work less than 40 hours but who maintain regular employment status.  Regular part-time employees are eligible for annual leave, or for sick leave benefits.  Administrative and holiday will be approved only if they fall on days originally scheduled to work.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Temporary:  Employees hired for a period not to exceed 30-days to temporarily filled a vacant position while it is being advertised.  In the event the position is not filled in 30 days, an extension of 30 additional days may be granted.  Employees may be hired on a temporary basis, provided funding is available.  The Program Director or Supervisor may request a temporary appointment and/or 30-day extension through the Personnel Department.  Temporary employees must pass a background check drug test and meet the minimum qualification of the position.  Temporary employees are not eligible for benefits and do not earn sick, annual, or any type of leave.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Short-term (seasonal):  Employees hired to perform work during a season are not eligible for benefits and do not earn sick, annual, or any type of leave.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Probationary:  Employees who are being evaluated to determine that he/she possesses the qualities necessary to successfully perform the duties and responsibilities of the position.  Probation for new employees is 90 calendar days.  During the probationary period, the employee may be dismissed for good cause without prior notice and without employee recourse.  Upon satisfactory completion of the probation period, the employee will be granted regular status.  Application for medical benefits can be made after 30 days of initial employment subject to health insurance carrier regulations.  Annual leave, sick leave, and comp-time are earned during the probationary period.  A 90-day evaluation will be conducted by the supervisor within 30 days after completion of the probationary period to determine continued employment and recommendation for regular status.  In the event the employee does not successfully complete the 90-day probationary period, all accrued leave will be forfeited.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Classified Appointments:  Individuals who are appointed by the Turtle Mountain Band of Chippewa's Governing Body.  Classified Appointments do not necessitate the adherence to all policies set forth of this Personnel Policies and Procedures Manual.  Classified political appointments will receive annual and sick leave benefits which sick leave will be used up three (3) months prior to the tribal election. Upon resignation or termination, an appointee will be paid out unused annual leave a maximum of 240 hours based on the rate of pay on the date of discharge or resignation. These individual's length of employment will not exceed the term of office for the elected Tribal Government Officials.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Intermittent:  This is a temporary position of which the work is so sporadic and unpredictable that a regular tour of duty cannot be schedule in advance.  Intermittent employees are eligible for paid holidays and administrative days according to policy.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Temporary Employees</text>
+      <text>There may be occasions, for certain tribal programs, when a vacant position creates a hardship in maintaining or achieving programmatic goals.  A Program Director may request, through the Human Resource Manager, approval to hire temporary employees pending available funding.  Approval must be granted by the Tribal Chairperson or his/her designed with immediate notice to the Governing Body thru resolution form in a special meeting.</text>
+      <text>Temporary Appointments will not exceed 30 calendar days.  Temporary appointments for advertised positions (30-day hires) will terminate at the end of the 30-day period.  A Supervisor may request an extension of a temporary employee for one (1) 30-day calendar period.  Under no circumstances will extensions be approved beyond 60 days, except in the event the vacant position is being filled for an individual who is on a suspension status.</text>
+      <text>Temporary appointments to a Program Director level position shall be considered by the Governing Body thru resolution form at their discretion.</text>
+      <text>When considering hiring a temporary employee, Supervisors are responsible for the timely completion and submission of the following documents.</text>
+      <para>
+        <num>•</num>
+        <text>A memorandum addressed to the justifying the need to hire a temporary employee.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A complete application by the person considered for temporary hire.  In order to be hired, the person must meet minimum qualification requirements for the position.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A local and state background checks (BCI).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Must pass a drug test administered by the drug testing department.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Completed load sheet signed by the Tribal Chairperson or his/her designee.</text>
+        <text>Temporary employees are not afforded any benefits and may be terminated at any time without prior notice to the employee.  Temporary employees do not earn or accrue leave in accordance with the leave provisions pertaining to employees.  Temporary employees are required to obtain prior approval from his/her supervisor to be absent from work (approved absences will be charged to leave without pay).  Any unauthorized leave will be charged to absent without official leave (AWOL) and may be considered grounds for termination of his/her temporary appointment.</text>
+        <text>Temporary employees are entitled to be paid for holidays and for excused time off from work (administrative leave).</text>
+        <text>Temporary employees are not authorized training privileges for business purposes.</text>
+        <text>Temporary employees wishing to be considered for any vacant position must file a tribal application with the Human Resource Department for the position(s) in accordance with application procedures specified in the announcement and in the Tribal Personnel Policies and Procedures.</text>
+        <text>Human Resource Department will advertise for intermittent (call-in) and temporary 30-day workers and have a list of approved applicants for; Hearts of Hope, Little Shell Home for Youth, Head Start, Child Care/Tribal New Programs, and Tribal Prosecutor's office.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>Personnel Selection and Hiring Practices</heading>
+    <para>
+      <num>A.</num>
+      <text>Recruitment</text>
+      <text>All new or vacant positions with the Turtle Mountain Tribe shall be filled by the following procedure:</text>
+      <text>The tribe is approving all job announcements/vacancies and salary negotiation be authorized by Council resolution prior to advertising all positions and approving salary negotiations within the tribe.</text>
+      <para>
+        <num>•</num>
+        <text>A notice describing the duties and responsibilities of the position, the position title, salary range for the position, minimum qualifications, Supervisor, employment status, and closing date of the application shall be prepared and posted.  Any special conditions or requirements of the position will be specified on the job announcement.  The notice will be posted for at least 10 working days on the web site (tmchippewa.com), on the local radio station (KEYA), the Turtle Mountain Times, Job Service North Dakota and in the tribal office.  The notice will indicate where the application for employment will be filed.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any eligible person may apply for the position by completing an employment application and filing the application at the place and with the person designated in the public notice.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>It is the responsibility of each applicant to prepare, complete and submit his/her application for each job vacancy.  (The Human Resource staff will not accept request from applicants to copy of transfer application information from one vacancy to another);</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Upon the closing of a vacancy announcement, only completed applications shall be rated and scored to determine minimum qualification requirements.  Qualification determinations shall be based on applicable experience, education, and training related to the position being filled.  All applicants are required to provide proof of their qualifications with their applications prior to the closing deadline of the vacancy announcement.  Applications and any other documents submitted after the closing deadline will not be accepted or considered; applications must be postmarked or received in Human Resource by the closing date.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To claim Indian Preference, applicants must provide proof of tribal enrollment no later than the closing date of the vacancy announcement.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>To claim Veterans preference, applicants must submit copy of his/her DD-214 certificate no later than the closing date of the vacancy announcement.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A tribal and state background check (BCI) will be required after selection for a position (hired pending background check).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The screening committee will screen all applications and certify the top three qualified applicants prior to turning them over to the Human Resource for selection.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Equal Employment Opportunity</text>
+      <text>TMBCI is committed to employing only United States citizens and aliens who are authorized to work in the United States and comply with the Immigration Reform and Control Act of 1986.</text>
+      <text>It is a policy of the TMBCI to grant equal employment opportunity to all qualified persons without regard</text>
+      <text>Race, color, religion, sexual orientation, age, physical/mental disability, or national origin.  This policy is based upon the philosophy of the Equal Employment Act of 1966.  This policy will be adhered to except for the provisions for Indian Preference and Veteran Preference.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employment (Indian) Preference</text>
+      <text>Employment decisions at TMBCI will be based on qualifications, ability, and merit.  TMBCI has a fundamental interest in providing employment opportunities, professional development, and financial support for its enrolled members and their families, and in fostering self-governance of the tribe by enrolled members.  When qualifications are equal, preference will be allowed in the following order:</text>
+      <para>
+        <num>•</num>
+        <text>Enrolled Member Veteran</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Enrolled Member</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Spouse of Enrolled Member</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Other Tribal Members</text>
+        <text>After considering these preferences, it is the policy of the TMBCI to foster, maintain, and promote equal employment opportunities.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Veterans Preference</text>
+      <text>Veterans and eligible spouses will receive special consideration when qualifications are equal, for all positions being filled by the TMBCI.  The intent of this policy is to promote and bring deserved services and benefits to our veterans for the personal sacrifices they have made.  To be considered for a preferential treatment under this policy, candidate(s) must submit copies of verification documents to Human Resource department along with the employment application for eligibility determination purposes.  An acceptable verification document is the discharge or transfer report form DD214.  The Human Resource staff is responsible for analyzing the verification support document (s) and are authorized to make the determination as to whether the candidate meets the eligibility requirements.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Employment of Relatives</text>
+      <text>The term "immediate family" is defined as husband, wife, mother, father, brother, sister, son, daughter, grandchild, grandparent, father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law, niece, nephew, uncle, aunt, stepmother, stepfather, stepchild, half-brother, half-sister, and live-in companion, to include currently married into.</text>
+      <text>No Program Director or Supervisor shall appoint, hire, promote, advance, or advocate the appointment, employment, promotion, or advancement of an immediate family member in which the Program Director or Supervisor is serving.</text>
+      <text>If a permanent relationship is established after employment, one employee will need to transfer to another program.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Employment of Persons with Disabilities</text>
+      <text>The Turtle Mountain Tribe supports and encourages employment of persons with disabilities.  The person must meet the necessary requirements to perform the essential functions of the position.  The TMBCI will make every effort to remove physical and attitudinal barriers that prevent the employment of persons with disabilities.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Screening and Rating Process</text>
+      <text>The purpose of the screening process is to screen out applications that are incomplete and do not meet the specified requirements for skills, credentials, or experience.  The applications are screened utilizing the approved rating form.  A screening committee and a Human Resource staff will screen and rate the applications.  The Governing Body thru resolution form will select from the top three applicants.  The screening committee may interview the top three qualified applicants or less if there are not three qualified applicants.  Applications that are incomplete or do not meet the specified skills, credentials or experience required in the notice will be disqualified by the screening committee.  Only those application packets that are complete and qualify for the position will be considered.</text>
+      <text>Any misrepresentations, falsifications, in any of this information or data by the applicant shall result in Turtle Mountain Band of Chippewa Indians exclusion of the individual from consideration form employment.</text>
+      <text>The screening Committee will consist of (3) three Program Directors, (1) one non-Director and (1) staff member from the Human Resource department.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Interview and Selection Process</text>
+      <text>The top three names will be submitted to the Governing Body.  The Governing Body shall select the person and an alternate if the applicant is unable or unwilling to assume the position.  Final selection will be made by the Governing Body thru resolution form.</text>
+      <text>The Human Resource Manager will inform the individual hired in writing.  The letter will indicate the start date.  All applicants not selected will be informed by letter and their application will be mailed back to them.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>In-House Transfer</text>
+      <text>To be eligible for an in-house transfer, the employee must:</text>
+      <para>
+        <num>•</num>
+        <text>Be a regular full-time employee of the TMBCI and must have completed one (1) year of employment in the present position.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Must meet the minimum requirements/qualifications to be considered for the position.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Be in good standing in present position.  Attendance, attitude, ability to get along with co-workers and job performance will be considered for in-house transfer.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee will be transferred only at the minimum rate of pay.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Funding must be available through the Program being transferred into.  Current wage, funding and position does not follow employee.  Under no circumstances will this position be funded through the Tribal Government funds unless program is already funded through that account.</text>
+      </para>
+      <text>In-house transfers shall be made with the approval of the Governing Body thru resolution form.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>In-House Reassignment</text>
+      <text>In-house reassignment shall be made with the approval of the Governing Body thru resolution form.</text>
+      <para>
+        <num>•</num>
+        <text>These reassignments would be made only in situations where it is considered in the best interest of the tribe.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee would be reassigned at the same or lesser pay scale depending on the circumstances.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Must meet the minimum requirements and qualifications to be considered for the position.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Must be a regular full-time employee.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Funding must be available through the program being reassigned into.  Current wage, funding and position does not follow employee.  Under no circumstances will this position be funded through the Tribal Government funds unless program is already funded through that account.</text>
+        <text>Employee reassigned may be required to complete the tribe's probationary policy.  All leave policies apply.</text>
+        <text>All hires, including part-time will be done by resolution before starting work.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>Terms and Conditions of Employment</heading>
+    <para>
+      <num>A.</num>
+      <text>Initial Probationary Period</text>
+      <text>Each employee shall be employed for a probationary period of ninety (90) calendar days.  The probationary period will be the first ninety (90) days of employment.  A Supervisor may recommend one extension of the probation not to exceed 30 days.  The purpose of the probationary period is to provide the new employee's Supervisor(s) with an opportunity to evaluate the performance and conduct of the probationary employee.  At the end of the ninety (90) days, an evaluation will be conducted by the Supervisor and/or Director recommending regular status if advertised as full-time regular, termination or a 30-day extension of probation.</text>
+      <text>A probationary employee may be terminated at any time during his/her probationary period for good cause.  Probationary employees are still considered to be candidates for the regular hire and therefore have no appeal rights to any termination action or to appeal to the Governing Body.  The Supervisor/Director will initiate the action of termination utilizing the appropriate process and submit it to the Human Resource Manager for concurrence.  The role of the Human Resource Manager is to determine if the appropriate process and timelines are followed.  The Human Resource Manager will inform the employee in writing of the termination (90-day evaluation form, termination form).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Limitation of Benefits during Probationary Period</text>
+      <text>Benefits take effect upon the end of probationary status except sick leave and annual leave, which will accrue during the probationary period.  Sick leave can be used during the probation period.  Annual leave may be used following the successful completion of the probationary period.  If employment is terminated at the close of the probationary period, the employee shall be paid for accrued annual leave.  All employees on probation will be on leave without pay, except for sick leave accompanied by a doctor's statement, if authorized to be absent from work, and comp time approved and earned during the probationary period.  Unauthorized absences shall constitute "Absence without Official Leave" and may be grounds for termination.</text>
+      <text>All leave benefits will take effect upon successful completion of the 90-day probationary period and upon conversion from probationary status to regular status.  Conversion from probationary status to regular status will be official only when the employee's Supervisor has completed a 90-day evaluation and has submitted it to the Human Resource Manager along with a Personnel Action Form (PAF). The employee will be notified in writing by the Human Resource Manager of the status change.</text>
+      <text>After thirty (30) days of employment from start date, health benefits and pension plan can be applied for.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Outside Employment</text>
+      <text>Employees are prohibited from engaging in outside employment that constitutes a conflict of interest with his/her tribal employment or interferes with the performance of his/her duties.</text>
+      <text>Employees requesting outside employment must comply with the following procedures:</text>
+      <para>
+        <num>•</num>
+        <text>Submit a written request for outside employment to his/her Program Director and/or immediate Supervisor stating the following:</text>
+        <para>
+          <num>1.</num>
+          <text>The type of work to be engaged in, including an explanation of the task(s) to be performed.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The name of the outside hiring organization.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The number of hours of work; and</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The reason for desiring such outside employment.</text>
+        </para>
+        <text>Upon receipt, the Program Director or immediate Supervisor will review the request and if acceptable, submit the request with a memorandum to Tribal Chairperson or his/her designee recommending approval.  Upon approval, a copy of the request and approval will be submitted by the immediate Supervisor to the Human Resource Manager for filing in the employee's personnel file.</text>
+        <text>The outside employment must not interfere with the employee's tribal job responsibilities.  The immediate Supervisor may disapprove with the concurrence of the Tribal Chairperson or his/her designee.  Outside employment hours will not be authorized during any part of the regular business hours of the tribe or the regular tour of duty.</text>
+        <text>Any TMBCI employee shall not work for more than on tribal program/entity.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Background Checks</text>
+      <text>It is the policy of the TMBCI to employ individuals in positions designated as "critical who do not have a disqualifying record."  A "disqualifying record" means any individual who has been convicted of any acts constituting violent crimes, sexual offenses, other crimes involving moral turpitude, drug offenses or any felony offenses, theft, and theft related offenses in the case of positions that involve money, budget or finances, any person still serving criminal probation or paying restitution will be disqualified for employment with the Turtle Mountain Band of Chippewa Indians.  Checks will be done at previous residence.  All prior offenses will be considered.  Backgrounds will go back to one year (excluding minor offenses will be considered.  Backgrounds will go back to one year (excluding minor offenses only) i.e., traffic, property, civil.  The Human Resource Department along with the department Director will determine which career positions should be designated as "critical based on responsibilities of the position.  The following elements are considered when designating a position critical.</text>
+      <text>Maintenance of master key access for facilities/residence.</text>
+      <para>
+        <num>•</num>
+        <text>Direct responsibility for the care, safety and security of people, personnel or TMBCI property.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Direct access to, or responsible for, cash, checks, tribal property, disbursements, or receipts.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Authority for committing the financial resources for the TMBCI.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Access, to or responsibility for, controlled substances.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Responsibility for operating company vehicles, machinery or any toxic systems that could cause accidental death, injury, or health problems.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A Requirement for a professional license, certificate or degree, the absence of which could expose the TMBCI to legal liability and/or adverse public reaction.</text>
+        <text>An updated background check is required when an employee is promoted, transferred, or reclassified to another position.</text>
+        <text>Employees will be required to have local (Belcourt Law Enforcement) and state (BCI) background check done annually or sooner depending on funding agency requirements.  Program Directors are responsible for including funds in their budget to cover the cost for background checks.  If a background check is terminated to be undesirable, the employee will be terminated.</text>
+        <text>Background checks must be completed and passed prior to commencement of employees for Child Care Workers, Head Start staff, Little Shell shelter staff, Victims of Crime staff, Hearts of Hope staff, Child Welfare worker, and other staff working with children and vulnerable adults may commence employment, the individual must submit to a background check; and</text>
+        <text>Individuals applying for positions with the previously mentioned program shall submit to a background check.  The individual employee shall submit fingerprint to the tribe and such fingerprints shall be subject to a criminal record check (CRC).  The CRC is required.  This procedure sets for the requirements for Human Resource and various programs to conduct CRC.</text>
+        <text>TMBCI TRIBAL LAW ENFORCEMEN BACKGROUND CHECK POLICY</text>
+        <text>As a part of the pre-screening process for a tribal law enforcement applicant, prior to identifying a start of service date, the TMBCI Background/Investigator Specialist will initiate a background check of the applicant.  Forms available for the background check include but are not limited to:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Checklist for Background</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Questions for Background Investigation</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Employer Interview Form</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Reference Interview Form</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Credit Report Disclosure</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Criminal History Report</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Motor Vehicle Operator's License and Driving Record</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Copy of BIA/OJS Pre-Employment Screening Questionnaire</text>
+        <text>These forms facilitate collection of the following information:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Clearance in national, tribal and state crime information systems,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Contact with at least three employers, including the current employer (if employed), preferably speaking with the applicant's immediate supervisor regarding employment history,</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Contact with at least three persons listed as references,</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Contact any developed references generated by the TMBCI Background/Investigator Specialist through reference checks, and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Other contacts as designated by the TMBCI Background/Investigator Specialist.</text>
+        <text>If the TMBCI Background Investigator or designee discovers a negative result, such as the presence of a felony offense, domestic violence offense, or a positive drug test, which has the potential to disqualify the applicant, the TMBCI Background/Investigator Specialist may take any of the following actions:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Contact the applicant to advise him/her of the finding, request clarification, or initiate retesting,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Defer any additional testing, or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Hold the application pending final notification of results of the application process.</text>
+        <text>As part of the investigation process, the TMBCI Background/Investigator Specialist will arrange for an oral interview with the candidate(s).</text>
+        <text>Chief of Police or Special Agent in Charge will make a recommendation regarding the candidate(s).</text>
+        <text>Tribal Council will make final selection for position.</text>
+        <text>When the background investigation has been successfully completed and adjudicated, the Chief of Police or Special Agent in Charge will identify a start date, arrange for issuance of uniforms or a uniform allowance, and issue those items of law enforcement equipment that may be issued.</text>
+        <text>The Chief of Police or Special Agent in Charge will arrange for pre-service training.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Orientation</text>
+      <text>The TMBCI, as an employer, realizes that every effort must be practiced enabling the new employee to become effective as quickly as possible for the benefit of the TMBCI.  Therefore, a mandatory orientation is required for all new employees.  Within seven (7) working days of notification of selection the employee will meet with the Human Resource Manager or Assistant for orientation.</text>
+      <text>The orientation shall consist of the following:</text>
+      <para>
+        <num>•</num>
+        <text>Review of the Personnel Policy and Procedure Manual.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Completion of all necessary forms relating to personnel and payroll.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Information pertaining to employee benefits.</text>
+        <text>The immediate Supervisor or Program Director will review the employee's job description and provide necessary information pertaining to job site, duties etc.</text>
+        <text>The employee will sign the orientation and acknowledgement forms to be placed in the employees' personnel file.</text>
+        <text>Program Directors or Supervisors may require in writing detailed training in the TMBCI Policy and Procedures with the Human Resource department.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Fit for Duty</text>
+      <text>
+        <strong>Purpose and Scope</strong>
+      </text>
+      <text>The Turtle Mountain Band of Chippewa Indians are committed to providing a safe workplace for the benefit of the community in order to provide a safe work environment.  Employees must be able to perform their job duties in a safe, secure, productive, and effective manner, and remain able to do so through the entire time they are working.  Employees who are not fit for duty may present a safety hazard to the public, themselves, other employees, or the tribe.</text>
+      <text>The policy applies to all employees, gaming employees, enterprise staff, and federal program staff.</text>
+      <text>The purpose of this policy is to establish procedures by which the tribe will evaluate an employee's fitness for duty when an employee is:</text>
+      <para>
+        <num>1.</num>
+        <text>Having observable difficulty performing work duties in a manner that is safe for the employee, for the employee's coworkers, for the tribe, or for the public, as determined by the Supervisor; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Posing an imminent and serious safety threat to self or others.</text>
+        <text>
+          <strong>Definitions:</strong>
+        </text>
+        <text>Fit for duty means able to perform the duties of the job in safe, secure, productive, and effective manner.</text>
+        <text>Health service provider is a doctor or medicine or osteopathy, dentist, podiatrist, clinical psychologist, optometrist, nurse practitioner, nurse-midwife, or a licensed clinical social worker that is authorized to practice in any state of the United States.</text>
+        <text>Supervisor means a staff person another employee is required to report to in his or her department.</text>
+        <text>Employee Responsibilities</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Employees are responsible for managing their health in a manner that allows them to safely perform their job responsibilities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Employees must come to work fit for duty and must perform their job responsibilities in a safe, secure, productive, and effective manner during the entire time they are working.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Employees are responsible for notifying their supervisors when they are not fit for duty.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Employees are responsible for notifying the Supervisor when they observe a coworker actin in a manner that indicates the coworker maybe unfit for duty.  If the Supervisor's behavior is the focus of concern, an employee may inform the upper level manage or may call the Employee Assistance Program (EAP) if applicable of Human Resource for further guidance.</text>
+        <text>Employer Responsibilities</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Supervisors are responsible for observing the attendance, performance, and behavior of the employees they supervise.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Supervisors and or managers are responsible for following this policy's procedures when presented with circumstances or knowledge that indicate that an employee may be unfit for duty.</text>
+        <text>Confidentiality of Medical Records</text>
+        <text>Any document containing medical information about an employee is considered a medical record and is regarded as confidential.  The Human Resource department will maintain medical records and will be maintained din accordance with the Health Insurance Portability Accountability Act.  Furthermore, any medical record maintained by the Human Resource department will only specifically address fitness for duty as enumerated within this policy.</text>
+        <text>Procedures</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>The Supervisor who receives reliable information that an employee may be unfit for duty, or through personal observation believes and employee to be unfit for duty, will validate, and document the information or observations as soon as practicable.  Actions that may trigger the need to evaluate an employee's fitness for duty include, but are not limited to, problems with dexterity, coordination, concentration, memory, alertness, vision, speech, inappropriate interactions with coworkers or Supervisors, inappropriate reactions to criticism, or suicidal or threatening statements.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Supervisor will present the information or observation to the employee at the earliest possible time in order to validate them in the presence of a Human Resource staff member; and will allow the employee to explain his or her actions, or to correct any mistakes of fact contained in the description of those actions.  The Supervisor will then determine whether the employee should leave the workplace immediately for safety reasons.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In situations where there is a basis to think that a crime may have been committed and/or the employee is making threats to harm himself or herself or others or is acting in manner that is immediately dangerous to himself or herself or others, the Supervisor shall contact the Police Department at (701) 477-6134.  EAP and or the Human Resource department should be consulted regarding the fitness for duty procedure after the immediate safety issue has been addressed.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In all other circumstances the Supervisor shall take appropriate action, including contacting EAP during the 8:00 a.m. to 4:30 p.m. workday, as soon as possible after he or she receives reports and validates or personally observes an employee's unfit behavior.  (For situations arising outside the 8:00 a.m. to 4:30 p.m. workday, the Supervisor/Manager will make a determination of whether the employee should leave the workplace immediately for safety reasons.  EAP Human Resource department should then be contacted at the beginning of the next business day).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Based on the descriptions provided by the Supervisor, EAP and or the Human Resource department will determine whether a fitness for duty evaluation is required and, if so, the type of evaluation needed and the type of health service provider to make the evaluation.  EAP and or the Human Resource department will then provide a form to the Supervisor containing that information, and the Supervisor will convey the form to the employee.  Human Resource (HR) leave management may also be consulted to aid in determining the type of leave to be used pending a complete assessment of the situation.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>EAP and or the Human Resource department will provide a form for the designated health service provider or completion to certify whether the employee is fit to return to work.  The health service provider form will include a behavioral description of the circumstances leading to the request for evaluation and a list of the employee's relevant duties.  EAP and or the Human Resource department may facilitate communication with the health service provider as necessary.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>In most cases, the employee will be responsible for the cost of the fitness for duty evaluation not covered by the employee's health plan.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Based on information provided by the health service provider, EAP and or the Human Resource department will advise the Supervisor whether the employee should return to work and, if so, the conditions of return, including whether the employee must attend a reentry conference with the Supervisor and EAP and or the Huma Resource department, and whether additional follow-up meetings are necessary.  The final decision on whether a provider's certification will be accepted lies with the employee's departmental management.  A second independent health service provider certification may be requested in some cases.  The employer will be responsible for the cost of the second independent provider's certification.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The employee must comply with all aspects of the fitness for duty and evaluation procedures, including furnishing necessary consent and release forms to the health service provider.  Non-compliance may be grounds for disciplinary action up to and including termination.  Information will be requested from the health service provider regarding work restrictions that may be required upon the employee's return to work.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Application of this policy is not intended as a substitute for other tribe policies or procedures related to performance; nor is it intended as a substitute for discipline.  Situations involving violations or tribe policies, or practices may result in disciplinary action being taken.</text>
+        <text>Debate associated with work responsibilities which may result in raised voices and boisterous behavior doesn't constitute and imminent threat absent any threat of physical harm.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Federal Program Standards</text>
+      <text>Individuals who are employed through federal programs may have to meet higher physical fitness standards due to work conditions, e.g., law enforcement and fire department.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4</num>
+    <heading>Compensation and Pay</heading>
+    <para>
+      <num>A.</num>
+      <text>Pay Periods</text>
+      <text>All Tribal Employees will be paid bi-weekly (every other Friday).</text>
+      <text>If a regular scheduled payday falls on a day off (e.g., a holiday) the employee will receive their paycheck on the first workday of work before the regular scheduled payday, subject to preparation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Deductions</text>
+      <text>The law requires threat TMBCI make certain deductions from employee's compensation. Among these are applicable federal and state taxes.  TMBCI must deduct Social Security taxes and Medicare on each employee's earning up to a specified limit that is called the Social Security "wage base."  TMBCI matches the amount of Social Security and Medicare paid by each employee.</text>
+      <text>The finance department, payroll department will automatically make applicable deductions from employee's paychecks according to law.  Employees may also authorize in writing to have other deductions made according to tribal financial payroll imitations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Cost of Living Increase</text>
+      <text>A cost-of-living increase percentage or incentive may be approved by the Governing Body thru resolution form each year but is not mandated and depends on funding approval and if funding is available.  Each program is responsible for including this increase in their budget and/or refunding grant.  If the money is not included in the budget, the cost of living or incentive will not be approved for hat program or individual.  Only those programs mandated by law to receive a specified percentage will deviate from this policy or as approved by funding agency and concurred by the Governing Body.  (e.g., head start).  Employee must have no less than one (1) year employment as a regular full-time employee to be eligible for a cost-of-living increase.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Incentives</text>
+      <text>The tribe provides for the payment of incentives rather than colas for tribal employees.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Overtime and Compensation Time</text>
+      <text>Payment for time worked more than the normal workweek (40 hours) is not provided for by the Turtle Mountain Tribe.  If overtime is necessary, compensatory time will be earned and accrued in lieu of overtime pay.  All compensatory time must be authorized in advance by the employee's immediate Supervisor prior to being worked.  (See Chapter 6, Compensatory time) Exempt employees are not eligible for compensatory time or overtime.</text>
+      <text>Unused comp-time will not be paid out upon resignation or end of employment.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Probationary</text>
+      <text>A wage increase is not mandatory after an employee probationary period has ended.  However, a maximum wage increases of no more than $1.00 will be allowed after probationary period (dependent on funds).</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Time Clock and Time Sheets</text>
+      <text>Employees are required to use the time clocks.  Employees, exclusively, should punch themselves in and out at their work site.  Tampering with, altering, or falsifying time records, or recording time on another employee's time record will result in disciplinary action, including termination.  Write ins on timecards will not be accepted unless signed off by the Human Resource.  Employees will be required to use leave if they are not punched in or punched out on timecards.  Hours will be calculated by the 8 minutes after the hour upon punch in and 5 minutes before punching out.  If an individual is on travel the supervisors are responsible for accurate and timely completion and submission of all-time sheets and supporting documents including leave slips, compensatory time approval and any other documents as required by the Human Resource department.  Timesheet that are inaccurate will be returned to the Supervisor for correction.</text>
+      <text>The TMBCI government is responsible to the people for accurate and appropriate expenditures of government funds.  In order to provide the most effective and efficient use of the people's funds, time clocks are utilized.  The tribe has installed a system of time clocks and cameras to monitor and ensure proper reporting.</text>
+      <text>The tribe's workflow system has a feature allowing for individuals to manually punch in and out using their fingerprint or face recognition.  Employees are no longer permitted to write in and submit their time manually.  Occasionally, employees are either not able to physically punch in or punch out, or they may forget.  In this circumstance, the following internal control will be employed:</text>
+      <para>
+        <num>1.</num>
+        <text>Individuals utilizing the time clock system for payroll are required to punch in and punch out.  All efforts will be made to use the workflow system.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If an employee is unable to physically punch in or to punch out, the employee will contact their supervisor and seek approval.  The Supervisor may request a camera review at any time to determine the last notice of the employee appearance in the office.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Cameras will be reviewed by security staff and or Human Resource department Human Resource staff, and a report of the times shall be made in written form.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>HR will provide the report to the supervisor of the employee.  The supervisor will make a final determination on the employee's time.  In the event that the supervisor's time is in question, the an HR staff designee will make the final determination on the supervisor's time.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If the employee disagrees with the final determination, the employee can file a grievance per the employee grievance procedure.</text>
+        <text>This internal control does not apply to telework that is pre-approved in writing by the Supervisor prior to the date of work.</text>
+        <text>It is a violation of TMBCI Code 26.118.04 and Class 4 Offense to tamper with public records.  This includes false entries into a tribal records database.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Early Check Release</text>
+      <text>No early check release will be approved except in an extreme emergency.  In such emergency situations, the employee will obtain an early check release form from the Human Resource department.  Supervisor recommends and submits to finance.  Failure to adhere to this process may result in denial of early check release.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Administrative Pay Corrections</text>
+      <text>TMBCI takes all reasonable steps to assure that employees receive the correct amount of pay in each paycheck and that employees are paid promptly on the scheduled payday.</text>
+      <text>In the unlikely event that there is an error in the amount of pay, the employee should promptly bring the discrepancy to the attention of Payroll and Human Resource so that correction can be made as quickly as possible.  Once under-payments are identified, they will be corrected in the next regular paycheck.</text>
+      <text>Overpayments will also be corrected in the next regular paycheck unless this presents a burden on the employee (where there is a substantial amount owed).  In that case, TMBCI will attempt to arrange a schedule of repayments with the employee to minimize the inconvenience to all involved.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Early Retirement</text>
+      <para>
+        <num>•</num>
+        <text>All retirement payments are approved during January of each year.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>No more than $100,000 will be committed to each year for maximum of ten (10) employees ($10,000 each).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Payment will be made to employees in installments of no more than $5,000 per employee each month.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee must be 60 years of age with 15 years of service for the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>This plan is for employees who are full-time.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any employee receiving retirement payments will not be eligible to work for the Turtle Mountain Tribe (excluding elderly programs).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>This retirement is a one-time award (any employee that has already received a retirement payment of any kind will not be eligible for this award).</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5</num>
+    <heading>Standard Work Hours and Holidays</heading>
+    <para>
+      <num>A.</num>
+      <text>Hours of Work</text>
+      <text>The standard tour of duty for tribal employees is five (5) days per week, Monday through Friday.  Core time is 8:00 a.m. to 4:30 p.m.  Employees are expected to work a full eight-hour day.  Two 15-minute breaks are allowed, one in the a.m. and one in the p.m. scheduled by the Supervisor.  Employees may flex their schedule between 7:30 a.m. and 5:00 p.m.  with up to an hour for lunch with the approval of their supervisor.</text>
+      <text>*Core time is when everyone must be available or on approved leave.</text>
+      <text>In case of an unavoidable absence or delay, the employee is required to immediately inform his/her supervisor and/or Human Resource department.  Employees failing to call in when absent or delayed may be placed on Absent without Leave status and are subject to disciplinary action.  In the instance where the employee is a repeat offender, this will be grounds for termination.</text>
+      <text>Part-time employees' schedules will be set by the Supervisor.  Failure to adhere to the set schedule will be cause for disciplinary action.</text>
+      <text>If tour of duty requires other schedules/flex time arrangements etc., all time scheduled is considered the standard tour of duty.  (e.g., programs requiring shifts 24 hours per day).  The appropriate Supervisor along with concurrence from the Tribal Chairperson or his/her designee will authorize deviations from the normal schedule if necessary.</text>
+      <text>If an employee is on unpaid leave for more than 16 hours, the employee will not accrue annual leave or sick leave for that pay period.  Leave for all tardiness will be calculated on a weekly basis and rounded to one half hour increments and charged in one half hour increments.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Holidays</text>
+      <text>All regular tribal employees will be entitled to holidays with pay and will observe the following days as holidays:</text>
+      <para>
+        <num>•</num>
+        <text>New Year's Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Martin Luther King Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Presidents Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Good Friday</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Easter Monday – to include Easter Monday as a paid holiday, since Easter is on Sunday</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Memorial Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Juneteenth National Independence Day (June 19<sup>th</sup>)</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Independence Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Labor Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Ancestors' Day (Columbus Day)</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>TMBCI Nation Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Veteran's Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Thanksgiving Day</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Native American Heritage Day (Friday after Thanksgiving)</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Christmas Day</text>
+        <text>The day after Christmas and the day after New Year's as paid holidays, with half days for each.</text>
+        <text>The tribe is approving the day after the 4<sup>th</sup> (Independence Day) as a day-0ff on approved leave status.</text>
+        <text>Holidays occurring on Saturday will be observed on the preceding Friday.  Holidays occurring on Sunday will be observed on the following Monday.  Any additional days for holidays will be approved by Governing Body thru resolution form.</text>
+        <text>To receive pay for a designated holiday employee must be in a work or approved paid leave status the workday immediately preceding the holiday and immediately following the holiday.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employee Health and Wellness Policy</text>
+      <text>TMBCI is committed to helping tribal employees integrate health strategies into their workplace.  Worksite health and wellness programs help employees modify their lifestyles and move toward an optimal state of wellness.  They can also produce organizational and employee benefits, such as lower healthcare costs, increased productivity, improved recruitment and retention, reduced absenteeism and presenteeism, and enhanced employee engagement.  Worksite health and wellness strategies include but are not limited to, health education, nutrition services, lactation support, physical activity promotion, screenings, vaccinations, traditional occupational health and safety, disease management, and linkages to related employee services.  Tribal Government will develop programs that address the employees' current and future needs to produce the healthiest possible workforce.</text>
+      <text>Employees will be granted a maximum of 30 minutes added to the lunch break for fitness and gardening at a hosting site.   Employees must make any necessary arrangements with supervisors and colleagues to ensure that the time does not interfere with workload or services provided by their department.  Supervisors shall not unreasonably withhold employee privileges under this policy.</text>
+      <text>To promote and maintain the physical and mental fitness of our employees each program utilizing the fitness facilities will be reimbursed at 100%.  To be eligible for reimbursement of these fees, you must participate in fitness activities an average of two times per week and provide a receipt signed by a fitness center employee during the period for which you request reimbursement.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6</num>
+    <heading>Leave</heading>
+    <text>All forms of leave shall be authorized in advance by the employee's Supervisor except that sick leave may be authorized on the day it is taken but must be confirmed in writing from a physician if the leave exceeds three consecutive days.  If an employee takes leave without following the policy, it shall be deemed an absence without official leave (AWOL) and will result in disciplinary action.  The employee must call their supervisor and/or Human Resource department by 8:00 a.m. to inform the Supervisor and/or Human Resource department of their reason for absence or the employee will be put on AWOL status.</text>
+    <para>
+      <num>A.</num>
+      <text>Sick Leave</text>
+      <text>Full time regular and probationary employees will earn and accumulate four (4) hours of sick leave per pay period unless he/she is charged with any unpaid leave, exceeding 16 hours during that pay period.  Employees may carry over all accumulated sick leave hours into the next FY.  Unused sick leave is not paid upon termination, lay-off, or resignation or ending of appointments.  Unused sick leave cannot be transferred to other employees upon termination, lay-off, resignation or any types of removal.  Sick leave will transfer from one position to another within the tribe providing the position is a regular status position.</text>
+      <text>If an employee resigns or is temporarily laid off or appointment ends due to funding, the employee's sock leave may be reinstated if the employee returns to work for the tribe within one year into a position that accrues/earns sick leave.  Temporary and appointment positions do not accrue sick leave.</text>
+      <text>Supervisors may authorize up to 24 hours (three working days) of sick leave within one pay period without requiring a physician's statement.  Periods exceeding 24 hours within one pay period require a physician's statement.</text>
+      <text>Employees cannot use sick leave that has not been already accumulated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Sick Leave Donation</text>
+      <text>An employee may elect to donate his/her sick leave to a fellow employee (within the same funding sources and same department-program) providing that the incapacitated employee meets the following criteria:</text>
+      <para>
+        <num>•</num>
+        <text>The employee receiving/requesting the leave is a regular full0time employee.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>All other leave time has been exhausted.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>He/she receives sick leave from a fellow employee (same funding source) for the period of actual need not to exceed thirty (30) calendar days or a maximum of 320 hours per year.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The extended sick leave will not exceed that which is recommended on a written statement by a physician; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The request for donated sick leave must be approved by the Supervisor and with prior approval if possible before taking the leave.</text>
+        <text>Sick leave donation can only be used for the employee, an employee's child, stepchild, spouse, parent, brothers, sister, live in companion, grandchild, and grandparents.  A doctor's statement must be submitted with the leave request.</text>
+        <text>All donated sick leave will be reimbursed back to employee by the employee requesting the donated sick leave a earned.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Annual Leave</text>
+      <text>Full time regular and probationary employees will earn and accumulate four (4) hours of annual leave per pay period.  No annual leave will be earned during a pay period in which the employee is on unpaid leave status for more than 16 hours.</text>
+      <text>Employees employed for three (3) consecutive years will accrue six (6) hours of annual leave per pay period; Employees employed after eight (8) consecutive years will earn eight (8) hours of annual leave per pay period.  Re-instatement within one year to previous or other position in which employee qualifies will earn same hours of annual leave.</text>
+      <text>The tribe and all of its enterprises will provide a continued service of benefit's associated only with annual and sick leave.  Specifically, when an employee moves between entities, such as Tribal Government, Turtle Mountain Housing Authority, Sky Dancer Casino or Grand Treasure Casino, the employee's length of service leave benefits accrued at the employees beginning of employment site will transfer between the entities.  For example, if an employee has worked for the Turtle Mountain Housing Authority for 10 years and decides to apply for a position with Tribal Government, once the employee is hired their years of service will automatically qualify them for the entities policy on earning annual and sick leave.  Any employee's departure form one tribal entity must be in good standing in order for the leave benefit (years of service) to transfer with the employee.</text>
+      <text>Additionally, if an employee leaves the tribe or one of its entities in good standing, the employee will always maintain his or her leave status no matter how long if the employee returns to the tribe or one of its entities.</text>
+      <text>240 hours of unused annual leave may be carried over from fiscal year to fiscal year.</text>
+      <para>
+        <num>•</num>
+        <text>There is a maximum of two hundred sixty (240) hours allowable for accrued annual leave.  Any amount beyond two hundred forty (240) hours must be used within the next pay period.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>150 hours annual leave pay out (one per fiscal year) per employee minimum 50 up to 150 hours may be paid out depending on funding availability.</text>
+        <para>
+          <num>1.</num>
+          <text>No more than 6 employees getting paid under the general account receiving annual leave pay out per payroll for each cash flow purposes.</text>
+        </para>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Upon resignation or termination, an employee will be paid for unused annual leave of up to a maximum of 240 hours based on the rate of pay on the date of discharge or resignation.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Annual leave must be requested in advance when possible.  All annual leave must be approved first by the immediate Supervisor.  You are required to follow the chain of command when requesting any leave.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Annual Leave Donation</text>
+      <text>An employee may elect to donate his/her annual leave to a fellow employee (employee must b paid from the same funding source) providing that the incapacitated employee meets the following criteria:</text>
+      <para>
+        <num>•</num>
+        <text>The employee receiving/requesting the leave is a regular full-time employee.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>All other leave time have been exhausted.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>He/she receives annual leave from a fellow employee (must be paid from the same funding source) for the period of actual need not to exceed thirty (30) calendar days or a maximum of 160 hours per year.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The request for donated annual leave must be approved by the Supervisor.  Annual leave donation should be requested in advance when possible.  Annual leave donation can only be used for the employee, an employee's child, stepchild, spouse, parent, brothers, sisters, grandchild, grandparents, and live in companion.</text>
+        <text>All donated annual leave will be reimbursed back to employee by the employee requesting the donated annual leave as earned.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Educational Leave</text>
+      <text>Full time regular employees may be granted educational leave upon approval by the Department Head/Program Director/or immediate Supervisor.  Educational leave shall not exceed two classes, eight (8) hours per week to attend classes and not on-line classes that are work related and of benefit to the tribe.  The eight (8) hours can be used/requested for only actual class time and travel time is in addition to the 8 hours.  The following procedure will be followed to request educational leave:</text>
+      <para>
+        <num>•</num>
+        <text>Complete and submit the educational leave request form to immediate Supervisor prior to staring classes.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Supervisor must indicate that the educational leave will not substantially or dramatically affect the employee's work performance and program services.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Evidence of enrollment must be submitted along with educational request form.</text>
+        <text>Employees approved for educational leave will be periodically checked for attendance compliance by Department Head/Program Director/Immediate Supervisor.  If the employee is found to be out of compliance with attendance the educational leave will be revoked.  Class schedules and final grades need to be filed in the Human Resource department.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Family/Medical Leave</text>
+      <text>The federal Family and Medical Leave Act of 1993 provides workers up to 12 weeks of UNPAID and job-protected leave for certain family and medical reasons.</text>
+      <text>To be eligible for leave under the act, a worker must have worked for the same covered employer for a total of 12 months and must also have worked for a total of 1,250 hours or more in the previous 12 months.</text>
+      <text>TMBCI may provide unpaid medical/family leave to eligible employees who are temporarily unable to work due to a medical disability, to care for the employee's child after childbirth, or placement for adoption or foster care, or assist and immediate family member with an illness or disability (A family member for the purpose of this policy, shall be defined as the employee's spouse, son, daughter, or parent, including step-family relationships, household members and people under the employees care of guardianship).</text>
+      <text>The employee must be a regular full-time employee or regular part-time employee to be eligible for medical/family leave.</text>
+      <text>As soon as an eligible employee becomes aware of a need for a medical/family leave of absence, preferably 30 days in advance when foreseeable, he/she must provide a satisfactory statement from a physician that verifies the existence and nature of the medical disability.  The statement will contain the approximated due the leave is expected to begin, its anticipated duration, and the date the employee can be expected to return to work.  Any changes in this information should be promptly reported to their supervisor.  Failure to provide advance notice or medical certification as requested above may result in the denial of the leave request.</text>
+      <text>Eligible employees may be granted leave for the period of the disability, up to a maximum of twelve (12) weeks.  Employees may use any accumulated sick and annual leave prior to the effective date of the medical/family leave.</text>
+      <text>The employer will continue to pay its share of the medical insurance benefits for the duration of the leave, not to exceed twelve (12) weeks.  Employees must decide with the TIMBCI to pay their portion of the medical insurance or other insurance premiums in force during the medical/family leave.  Failure of the employee to make their share of these premium payments may result in the cancellation of coverage by the insurance carrier.</text>
+      <text>Accrual for benefits calculations, such as sick leave and annual leave, etc. will be suspended for the duration of the medical/family leave.</text>
+      <text>Before returning to work from medical/family leave, an employee may be required to provide a physician's verification that he/she may safely return to work.</text>
+      <text>Employees returning from medical/family leave will return to their former position.</text>
+      <text>If an employee fails to report to work at the expiration of the approved leave period, TMBCI will assume that the employee has resigned and reserves the right to recover all of its costs associated with medical and other insurance benefits during the time of the leave.</text>
+      <text>The following procedure will be used when requesting medial/family leave:</text>
+      <para>
+        <num>•</num>
+        <text>Employee will submit a medical/family leave request form to the immediate Supervisor; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The immediate Supervisor/Program Director for his/her authorization and approval by the Tribal Chairperson or his/her designee.</text>
+        <text>Failure to follow appropriate steps may result in denial of leave.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Military Leave</text>
+      <text>The Uniformed Services Employment and Reemployment Rights At (USERRA) enacted in 1994 covers all civilian employers and prohibit employment discrimination against members of the "Uniformed Services."  The term Uniformed Services means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard Duty, the commissioned corps of the Public Health Services, and any other category of person designated by the President in time of war or emergency.</text>
+      <text>Particularly important for employers to understand a military crisis is that USERRA provides Uniformed Services members significantly enhanced job security.</text>
+      <text>Regular full-time and regular part-time employees who are members of any "Uniformed Service" will be allowed leave without pay for required training or duty.  The leave will be allowed according to USERRA.</text>
+      <text>Reinstatement of Employment:  the employee must return to work within the specified period according to USEERRA after they are relieved from the military service.  The following criteria apply:</text>
+      <para>
+        <num>•</num>
+        <text>What date he/she gave notice to the employer prior to leaving.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The cumulative period of active service did not exceed the initial request/request.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The employee was not dishonorably discharged from the military; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The employee reported back to the civilian job in a timely manner.</text>
+        <text>The following procedure will be used when requesting military leave:</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Complete and submit leave request to immediate supervisor for appropriate approval indicating length of time requested; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The request will be submitted to the Human Resource department for proper documentation.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Jury Duty and Subpoena</text>
+      <text>Regular full-time and regular part-time employees will be granted administrative leave with pay if their presence is required by a subpoena or other official documents to appear for jury duty in a tribal, federal or state court.  In the event the employee accepts a fee or compensation from the court, they will be required to take leave, reject fee, or submit the fee as program income.</text>
+      <text>The following procedure will be followed when requesting leave for jury duty and/or subpoena:</text>
+      <para>
+        <num>•</num>
+        <text>Complete and submit leave request to immediate Supervisor for appropriate signature and approval prior to taking leave.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>After approval from the immediate Supervisor, the request will be submitted to the Human Resource department for concurrence.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Attach proof of subpoena and/or jury duty verification.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any employee who voluntarily appears will be required to take leave.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Leave without Pay (LWOP)</text>
+      <text>A supervisor or Program Director may authorize no more than one day's leave without pay in any pay period with the review and concurrence of the Tribal Chairperson or his/her designee.  No annual, sick or compensation time shall be earned during the pay period and individual is on leave without pay status for more than 16 hours in a pay period.  The Tribal Chairman or his/her designee may approve LWOP provided that the employee's Supervisor assures that work required of the employee will not be assigned to another employee, unless the program warrants such an assignment, and that the employee's work performance and program services will not be affected by the employee's absence from work.  Leave without pay may be granted for justifiable personal reasons for a period not to exceed 30 days.</text>
+      <text>The following procedure will be followed in requesting Leave without Pay:</text>
+      <para>
+        <num>•</num>
+        <text>Complete and submit a leave request to immediate Supervisor and or Program Director for approval at least 24 hours in advance unless unforeseen conditions prevent the advance notice.  The Supervisor (not the employee) will meet with the Human Resource Manager.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Absent Without Official Leave (AWOL)</text>
+      <text>Employees who are absent from work without authorization/approved leave will be charged with absent without official leave (AWOL).  Any employee who is charged with AWOL will be subject to disciplinary action and in repeated instances will result in termination.  Unauthorized tardiness will be documented on time and attendance sheets as AWOL.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Bereavement Leave</text>
+      <text>Regular scheduled employees of the TMBCI will be allowed forty hours (40) of consecutive leave with pay for loss of a member of their immediate family.  Immediate family members for the purpose of bereavement leave is defined as husband, wife, children, mother, father, sister, brother, grandchild, grandmother, grandfather, stepchild, stepparent to include live-in companion, Twenty-four (24) hours will be allowed for loss of uncle, aunt, niece, nephew, mother in-law, father in-law, (current) grandmother (in-law), grandfather (in-law), son-in-law, daughter in-law, sister-in-law, brother-in-law and must be used consecutively.  Any other funeral leave request may be granted by the Supervisor provided however, that the employee shall have sufficient annual or compensatory leave to cover the absence.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Maternity/Paternity Leave</text>
+      <text>Regular full-time and regular part-time employees shall be authorized paid leave not to exceed 160 hours (4 weeks) for maternity/paternity purposes immediately before the birth, with a Doctor's statement, or immediately after the birth.  Maternity/paternity leave must be taken in consecutive hours not to exceed the 160 hours authorized.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Administrative Leave</text>
+      <text>No longer aloud for personal leave.</text>
+      <text>Administrative leave may be given in the event that road conditions, weather conditions or other environmental conditions pose a health or safety hazard, (E.g., no water in workplace, no hear.) and extended days for holidays.</text>
+      <text>Administrative leave will not be allowed to attend meetings, workshops, etc. for any other boards except the Tribal Council appointed boards.</text>
+      <text>To prevent discrimination against individuals who choose not to run for school board elections, the tribal will not approve any administrative leave for school board members other than tribally appointed boards.  School boards are elected positions and are at the discretion of the individual. Therefore, those employees will be required to use their own personal leave.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Compensatory Time</text>
+      <text>Non-exempt employees are encouraged to perform duties within a forty (40) hour workweek.  Hours worked more than (40) forty hours, must be necessary and approved by the immediate Supervisor prior to earning compensatory time.</text>
+      <text>Supervisors shall manager the workload so that overtime is minimized.</text>
+      <para>
+        <num>•</num>
+        <text>Overtime that occurs at night, on holidays, or on weekends must be delegated by the immediate Supervisor to a specific employee.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The Supervisor must justify (in writing) that the overtime is warranted and necessary.</text>
+        <text>Compensatory time will be granted to non-exempt employees who work overtime.  Time and a half of compensatory time will be accrued for overtime with the approval of the immediate Supervisor and at the concurrence of the Human Resource Manager.</text>
+        <text>Compensatory time will be maintained within the department.  Compensatory balances and earnings will be noted on the timesheet along with approval to earn compensatory time.</text>
+        <text>Non-exempt employees may earn compensatory time according to the Fair Labor Standards Act and Wage and Hour Laws.</text>
+        <text>Employees must use compensatory time within two pay periods of the accrual.</text>
+        <text>The following procedure will be used in requesting to use accrued compensatory time.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Submit leave request to immediate Supervisor for approval and signature.</text>
+      </para>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Leave of Absence</text>
+      <text>A leave of absence without pay may be granted to full-time permanent employees for a justifiable reason, and when it is in the best interest of the tribe, and who has been employed with the tribe for at least one (1) year.</text>
+      <para>
+        <num>•</num>
+        <text>Leaves of absence will not exceed one (1) year.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Requests must be documented and submitted to the Supervisor with as much advance notice as possible.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>All leaves of absence must be approved by the Supervisor, Program Director, and the Department Head with the concurrence of Human Resource Manager.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Disposition of requests will be made based on staffing requirements.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Upon returning, the employee will be reinstated in the former position.  Annual leave and sick leave will not accrue during the leave of absence.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The employee must give notice in writing of his/he intent to return to the position to his/her supervisor no later than ten (10) working days prior to the expiration of the leave period.  Failure to provide written notice will be interpreted to mean that the employee does not intend to return following the leave.  In which case, the Supervisor will notify the Program Director, Department Head, and Human Resource Manager and the position will be posted and filled through the selection process.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7</num>
+    <heading>Resignation, Termination and Layoffs</heading>
+    <text>The following procedures establish requirements for separation of employment, lay-offs, and re-employment rights.  All TMBCI property, keys and other material must be returned and inventoried prior to receiving las paycheck.  A routing form will be attached to the last time sheet for signatures of the Supervisor, Property &amp; Supply Director, Human Resource Manager, and Finance Officer affirming that inventory has been conducted, reports are completed, all travel policy requirements have been met and all PAF and other appropriate paperwork has been completed.  (Supervisor is responsible for signatures on routing form).</text>
+    <para>
+      <num>A.</num>
+      <text>Involuntary Termination</text>
+      <text>An employee may be terminated for cause.  The immediate Supervisor shall present a written recommendation to the Human Resource Manager for concurrence and approval by the Governing Body thru resolution form.  The Human Resource will review the recommendation to determine if the appropriate process has been followed.  The Human Resource Manager will notify the employee of the termination.  A copy of the notice will be kept in the employee's personnel file.  The employee may appeal the termination through the "Employee Grievance Procedure".  Any employee terminated form TMBCI will not be allowed to be employed with the tribe for a period of one (1) year.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Voluntary Separation</text>
+      <text>All employees are requested to give a two (2) week notice of intent to resign/terminate employment to the Human Resource Manger a copy to the immediate Supervisor. All keys, materials and equipment must be returned prior to receiving last payroll check.  The Supervisor will be responsible for completing a clearance report to the Human Resource department prior to employee's last paycheck; employees will have a maximum of thirty (30) days to reconsider returning back to the same position, same wage/account paid and same employee status.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Reduction in Force</text>
+      <text>When a position must be abolished because of change of duties, lack of work, reorganization or lack of program funds, the Director or department head will submit a written report at least thirty (30) days in advance to the Human Resource Manager regarding positions to be abolished.  The Governing Body thru resolution form must approve the plan for carrying out the reduction in force.  The order RIF will be determined on the basis of relative suitability for remaining jobs, past performance and qualifications for positions available in the department.  Any employee subject to termination due to RIF shall be notified in writing at least thirty (30) days prior to the effective date of the RIF.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Disability</text>
+      <text>An employee may be separated for disability when he/she is unable to perform required duties because of physical or mental impairment.  All cases of separation for mental or physical reasons must be supported by medical or physical evidence to the Human Resource Manager.  Separation due to mental or physical incapacitation will be made after exhausting all accrued sick, annual and other leave.  Employee may return to work within one (1) year with a physician's statement that indicates employee's ability to return to work and perform required duties of position temporarily vacated.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8</num>
+    <heading>Non-Disclosure, Employee Conduct, Disciplinary Actions and Employee Grievances</heading>
+    <para>
+      <num>A.</num>
+      <text>Non-Disclosure</text>
+      <text>The protection of confidential information is vital to the interest and the success of TMBCI.  Such confidential information includes, but is not limited to, the following:</text>
+      <para>
+        <num>•</num>
+        <text>Tribal negotiation strategies</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Tribal lobbying strategies</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Competitive bid information</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Client/customer/member list</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Marketing strategies</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Research and development strategies</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Scientific date</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Scientific formulae</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Scientific prototypes</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Technological data</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Technological prototypes</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Personnel information</text>
+        <text>Any employee who discloses confidential information will be subject to disciplinary action (including possible discharge), even if he or she does not actually benefit from the disclosed information.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employee Conduct</text>
+      <text>The offenses set forth below are not all-inclusive but are intended as examples of unacceptable behavior for which specific disciplinary actions may be warranted.  Accordingly, an offense that, in the judgment the Program Director and/or Supervisors undermines the effectiveness of the program's activities may be considered unacceptable and treated in a manner consistent with the provisions of this section:</text>
+      <para>
+        <num>•</num>
+        <text>Unsatisfactory attendance or excessive tardiness.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Abuse of program time, including, for example, unauthorized time away from the work area, use of program time for personal business, and abuse of sick leave.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Use of obscene or abusive language in the workplace, and/or creating a hostile work environment.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Inadequate unsatisfactory work performance.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Conviction of moving traffic violation while using program vehicle.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Failure to follow Supervisor's instructions, perform assigned work or otherwise comply with established written policy.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Failure to report to work as scheduled without proper notice to Supervisor(s).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Unauthorized use or misuse or tribal property or records.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Refusal to work overtime hours, as required by program.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Refusal to attend required meetings and/or training.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Violation of TMBCI Alcohol and Drug Policy.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Violation of TMBCI Sexual Harassment or other harassment policies.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Violation of Confidentiality Policy.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Falsifying records, including, but not limited to, purchase orders, reports, insurance claims, mileage claims, time records, leave records or other official documents.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Willfully or negligently damaging or defacing tribal records, program property, or property of other employees and visitors.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Theft or unauthorized removal of program records, program property etc.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Fighting and/or other acts of physical violence.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Sleeping during work hours.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Unauthorized use of firearms, dangerous weapons, or explosives.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Threats of physical violence.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Criminal convictions for illegal conduct occurring while on or off the job that are clearly related to job performance or are of such nature that to continue employment could constitute negligence in regard to program duties to the public or to other tribal employees.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Insubordination.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Use of or threatened to use or attempt to use unreasonable personal influence or political influence.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Subverting chain of command.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Punching in or out on time clock for other employees; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Participating in political activity disruptive to scheduled work duty.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>No soliciting by employees during work hours.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>No doing educational homework during work hours.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Failure to liquidate travel advances.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any employee working in a sensitive position (i.e. Police department, Domestic Abuse department, any Shelter, VOCA, Judicial System, Child Welfare, etc. and charged with a domestic abuse or any other type of abuse or any other type of abuse or assault, will be immediately suspended without pay.  If not convicted all leave will be reimbursed upon receipt of the judgment, if convicted all leave will be reimbursed upon receipt of the judgment, if convicted will be immediately terminated.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any employee being investigated due to sexual harassment shall be on leave without pay.  If not substantiated, all leave will be reimbursed upon receipt of the judgment, if substantiated will be immediately terminated.</text>
+        <text>The above statements are not a specific order to follow.  Reprimand will be dealt with depending on the severity of the incident.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Disciplinary Action</text>
+      <text>The specific type of disciplinary action to be taken shall be determined by the Program Director/Immediate Supervisor with concurrence from the Human Resource Manager.  The following types of disciplinary action shall be used, as necessary, to enforce work rules and standards of conduct.  The specific type and degree of disciplinary action shall be determined by the seriousness of the offense.  None of these actions shall be a prerequisite to termination for good cause.  A notice of appeal process is attached to each written disciplinary action.</text>
+      <para>
+        <num>•</num>
+        <text>Verbal and Written Warning.  The Program Director/Supervisor shall meet with the employee to discuss clearly and frankly the reasons for the verbal warning.  As part of the verbal warning, the Program Director/Supervisor will offer some specific suggestions for corrective action.   The Director/Supervisor shall record the reasons for the interview and action recommended.  A copy of the completed record will be kept by the Director/Supervisor and an additional copy will be filed with the Human Resource department to be maintained in the employee's personnel file.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Written Reprimand. A written reprimand will be used when the severity of the offense warrants.  A written reprimand will be a written document clearly statin the reason for disciplinary action.  A copy of the written reprimand become a permanent part of the employee's personnel file.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Probation.  The action is to be considered a severe warning issued in writing.  The written notice should clearly explain the reasons for the probationary action.  It should stipulate the duration of probation period, the standards for judging the employee's improvement, and the actions to be taken (usually suspension or termination) if the deficiencies are not corrected within the period of probation.  The written notice shall be given to the employee, a copy shall be kept by the Program Director/Supervisor, and a copy placed in the employee's personnel file.  The Supervisor may place an employee on probation for a minimum of 30-days and not to exceed 90-days,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Suspension with Pay.  The Program Director/Supervisor may recommend suspending an employee with pay until a hearing can be held to determine the final form of disciplinary action with approval from the Governing Body.  A written notice will be given to the suspended employee at the time he/she is notified of the suspension, with a copy kept in the employee's file.  Suspension with pay is dependent on availability of funding and limited to thirty (30) days unless requested by law.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Suspension without pay.  The Program Director/Supervisor may suspend an employee without pay.  A written notice will be given to the suspended employee at the time he/she is notified of the suspension, with a copy kept in the employee's personnel file.  The maximum period allowed for such suspension shall be thirty (30) days not to exceed 60 days.  Under no circumstance will the employee that has been suspended without pay, be reimbursed for lost wages.  Appeal of the suspension may be made through the "Employee Grievance Procedure"'</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Involuntary Termination (dismissal).  An employee may be terminated for good cause.  The Director/Supervisor shall present a written recommendation, stating the reasons, to the Human Resource Manager.  The Human Resource Manager will consult with the Governing Body for concurrence.  The Human resource Manager will notify the employee of the termination.  A copy of the notice will be kept in the employee's personnel file.  The employee may appeal the termination through the "Employee Grievance Procedure".</text>
+        <text>The employee has a right to appeal disciplinary actions.  All disciplinary actions will be thoroughly investigated by the Tribal Investigator.  Only after the investigation is completed and substantiated evidence has been proven will it be submitted to the grievance committee.  All decisions made by the grievance committee are final.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Grievance Procedure</text>
+      <text>A grievance is any complaint or dissatisfaction with any aspect of his/her employment with the Turtle Mountain Tribe that affects productivity.  The TMBCI will make every attempt to ensure the grievance procedures are prompt and equitable.  It is the responsibility of the employee to initiate the grievance procedure within five (5) working days of the incident or action.  Failure to comply with this time frame will result in the grievance being rejected by the Supervisor as untimely filed.</text>
+      <text>The following process will be adhered to when filing a grievance:</text>
+      <para>
+        <num>•</num>
+        <text>Any employee who believes that he/she has a justifiable complaint must discuss the complaint with his/her immediate Supervisor.  The complaint must be presented in writing.  A written grievance must state specifically what action or policy has been violated or is in question and any other specific facts which the employee believes are relevant to the action.  The employee must also state what relief they are seeking.  General statements will not be considered as a part of the written grievance.  The complaint must be filed within five (5) working days of the incident or action.  The Supervisor shall give the aggrieved an answer in writing within seven (7) working days.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>If the response is unsatisfactory to the employee or the matter cannot be resolved at the first level (above), the employee may file a written grievance to the Human Resource Manager within five (5) working days of the receipt of the response from the Supervisor.  The Human Resource Manager will schedule a hearing with the Grievance Committee within five (5) working days of receipt of the written grievance.  The written complaint shall include the following information.</text>
+        <para>
+          <num>A.</num>
+          <text>The basis for the grievance.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The efforts made to resolve the matter</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The issues to be heard by the Grievance Committee.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>All persons or entities that may be called as witnesses; and</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The results sought by the employee.</text>
+        </para>
+        <text>The Grievance Committee will meet within ten (10) working days with the employee and the Supervisor to hear both sides of the matter being grieved.  The Grievance Committee will be made up of three (3) Directors selected from a pool of all Tribal Directors and two (2) representatives selected form a pool of non-managers.  Every six (6) months, a new pool of Grievance Committee members will be selected at random.  These five (5) selected representatives must:</text>
+        <para>
+          <num>A.</num>
+          <text>Work outside the aggrieved employee's department.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Not have been previously involved with the issue being grieved.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Not be related to, or have a close personal or professional relationship with any of the essential parties involved in the grievance; and</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Not otherwise have any conflict of interest which would interfere with their ability to be fair and impartial.</text>
+        </para>
+        <text>The Grievance Committee will determine the Grievance Committee Chairman to chair the hearing from within the Grievance Committee members.  The Grievance Committee Chairman will chair the hearing but will only vote on the matter only in the event of a tie.  The Grievance Committee will hear and review all aspects of the issue.  They will base their decision only on the incident and the disciplinary issues and determine fairness and logic of decisions made by the Director or Supervisor.  The Grievance Committee may render their decision immediately or may take the matter under advisement for consideration and may consult authorities or experts for advice.  A written decision will be reached within ten (10) working days and all parties will be sent a written reply by the Grievance Committee and all documentation will be submitted to the Human Resource Manager.</text>
+        <text>Recommendations or decisions by the Grievance Committee shall be binding and final.  Any attempt to influence or contact any members of the Grievance Committee is a violation and may constitute reason to end the process.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9</num>
+    <heading>Performance Appraisals and Review</heading>
+    <text>Evaluation employee performance is a continuous process and integral part of the employee/supervisor relationship.  The TMBCI believes, therefore, that each employee should be regularly informed regarding his or her performance on the job.  To ensure that this appraisal is done as fairly and consistently as possible, the tribe will follow a system for periodically evaluating all employees.  This process will be monitored by the Human Resource department for consistency and effectiveness.</text>
+    <text>The performance evaluation system provides a history of work progress of the individual employee with the tribe.  It shall also be utilized as a method to determine eligibility for merit increases, as a basis for discharging an employee and job status.  The Supervisor should use the performance evaluation system as a tool for counseling employees and as a communication tool for discussing work progress, problems, and opportunities.</text>
+    <para>
+      <num>A.</num>
+      <text>90-day Performance Evaluation</text>
+      <text>All new employees will be evaluated at the conclusion their 90-day probationary period.  The Supervisor is responsible for completion of a formal 90-day evaluation of the employee's job performance.  If the Supervisor indicates that the employee's job performance is unacceptable or deficient the Supervisor may recommend dismissal within the 90-day probation period or 30 days after completion of the probationary period.</text>
+      <text>Unforeseen circumstances may prevent and employee from adequate performance (E.g., death in the family, illness, or other major unforeseen matters).  In this case the Supervisor may extend the evaluation period an additional 30-days.  The Supervisor will inform the employee of any areas of responsibility that may be unacceptable or deficient.  After being notified of deficiencies, the employee must demonstrate that they can meet the minimum standard of performance.  If the employee does not demonstrate improvements in the unacceptable areas, the employee shall be subject to dismissal.  A copy of the evaluation will be kept by the employee, the Supervisor and one will be sent to the Human Resource department.  To be filed in the employee's personnel file.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Annual Performance Evaluations</text>
+      <text>Annual performance appraisal time frames begin on the start date of the employee in his/her current position and are due every year thereafter.  Therefore, it is imperative that Supervisors track and maintain the performance appraisal time frames of his/her evaluation date.</text>
+      <text>Regular employees whose performance is below satisfactory, as determined by the annual performance review, will be indicated on the evaluation form.  The Supervisor will specify which job elements the employee needs to improve, recommendation for improvements, how the Supervisor will assist the employee to improve, and that employee will be re-evaluated, as determined by the Supervisor, at the end of six (6) months.  Failure by the employee to improve his/he performance will result in appropriate personnel action up to and including termination.</text>
+      <text>The Supervisor should complete the evaluation form, sign it, and review it with the employee.  The employee will be asked to sign the evaluation form.  This signature indicates that the information has been communicated and does not necessarily indicate agreement.  If employee refuses to sign the document, the Supervisor will note that the employee refused to sign.  The employee will receive a copy of the evaluation and the original will be placed in the employee's personnel file.</text>
+      <text>Employees who disagree with their evaluation may attach to the evaluation a written rebuttal.  The written rebuttal will be placed in the employee's personnel file along with the annual evaluation.</text>
+      <text>Employee Request for Increase in Compensation</text>
+      <text>To ensure consistency and effectiveness, employees may request an increase in compensation if the following conditions are met:</text>
+      <para>
+        <num>1.</num>
+        <text>Completion of no less than one (1) year in the position as a regular full-time employee.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Satisfactory completion of annual evaluation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Availability of funds.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Approval by Supervisor.</text>
+        <text>A request can only be made one time per annual evaluation.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>FI all conditions are met, the Supervisor will complete a Personnel Action Form (PAF) to be approved through Council action in resolution form.  The increase in compensation will become effective per the resolution date.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If all conditions are not met, the employee can resubmit for an increase in compensation following the next satisfactory completion of an annual evaluation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Evaluation Forms</text>
+      <text>Forms to be used for performance evolutions are to be standardized throughout the tribe.  They may change from time to time to reflect improvements in techniques etc.  The evaluation forms can be obtained from the Human Resource department.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10</num>
+    <heading>Personnel File</heading>
+    <text>The TMBCI shall maintain a system of confidential personnel records.</text>
+    <text>A separate personnel record folder shall be created at the time of employment and shall be kept for each employee.</text>
+    <text>During the term of his/her employment, all personnel, compensation, and other relevant information pertaining to the employee shall be kept in his/her personnel record folder.</text>
+    <text>At the time of termination, the employee's personnel record folder shall be transferred to the inactive section and retained as a permanent source of confidential information regarding the employee's employment.</text>
+    <text>All personnel record folders shall be kept under lock and key.  Access to, and release of, information contained in the personnel records shall be limited to authorized ascending chain of command only and otherwise opened on a "need to know" basis subject to specific approval of the Program Director/Supervisor.  Access and release of information will require a release of information form indicating purpose and must include date and original signature.</text>
+    <para>
+      <num>A.</num>
+      <text>Contents</text>
+      <text>The official personnel file shall be maintained tin the Human Resource department in a locked file.  The official personnel file shall include the employee's job application, resume, records of training, records of education, documentation of performance evaluations, corrective actions, salary changes, job description, record of medical examination, background checks, drug/alcohol test results, copies of employment correspondence, driver's license, time and attendance records and other employee-related data, such as W4 forms, insurance, etc.</text>
+      <text>All personnel files shall be maintained in the Human Resource department throughout the tenure of the employee, and (3) three years following employment separation.  After three (3) years may be put in storage.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Access to Personnel Files/Data Changes</text>
+      <text>Internal use of employment records is at times necessary for decision-making and program review by funding agency(s).  For example, internal employment information disclosure to the payroll department or supervisory department may be necessary for the purpose of making a decision pertaining to salary changes, job duties revisions, evaluation etc.</text>
+      <text>It is the responsibility of each employee to promptly notify the TMBCI of any changes in personal data:  Personal mailing addresses, telephone numbers, and names of dependents, insurance and retirement information, name of individual to contacted in the event of an emergency, educational accomplishment(s), and other such status reports should be accurate and current at all times.</text>
+      <text>Employees must give written permission to disclose information to third parties.  Disclosure refers to information dissemination about an employee to people or outside agencies.  Confidentiality is breached when an employee discloses information to someone outside the workplace without notice to or consent of the affected employee.  Unless either the employee's written consent is obtained or judicial process requires disclosure, the employer should disclose only directory information such as name, address, and dates of employment.</text>
+      <text>The employee must submit a written consent to release information to outside agencies except for internal use and program requirements of funding agencies.  The consent form can be obtained from</text>
+      <text>the Human Resource department.  The employee will list specifically what information can be released, to whom and the date.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11</num>
+    <heading>Drug and Alcohol Policy</heading>
+    <para>
+      <num>A.</num>
+      <text>General Policy-Drugs and Alcohol</text>
+      <text>The TMBCI is a drug-free workplace.  Any unlawful or unauthorized transfer, sale, distribution, manufacture, possession, or use of a controlled substance (schedule I thru V of Controlled Substance Act), or alcohol by a TMBCI employee on the job, in the workplace, or where the TMBCI work is performed, shall subject that employee to disciplinary action including termination.</text>
+      <text>While the TIMBCI has no intention of intruding into the private lives of its employees, we recognize that employees off the job and on the job involvement with illegal drugs con have an impact on the workplace, guests, and other employees.</text>
+      <text>All employees have an obligation to be in suitable mental and physical condition at work, performing their jobs satisfactorily and behaving appropriately.  Employees are expected to report to work free of alcohol and drugs.  Achieving this goal is necessary to maintain the safety and integrity of our business and the safety and health of all employees and guests.</text>
+      <text>Following is the adopted Drug and Alcohol policy.  The TMBCI has implemented a drug free awareness program that provides information on the dangers and effects of substance abuse in the workplace.  Resources are available to employees.  Consequences for violations of this policy are outlined.</text>
+      <text>The TMBCI reserves the right to administer alcohol and drug testing on all employees and employees of all tribal entities including but not limited to TMHA, Sky Dancer Casino, Grand Treasure Casino, TISA, TMCC, PUC in accordance with this policy.  TMBCI Drug Coordinator has the authority to oversee all tribal entities' drug and alcohol testing programs and to ensure all drug and alcohol test administrators are certified and qualified to administer drug and alcohol screening tests.  Violations of this policy, including a positive drug test, may lead to disciplinary action, and immediate termination of employment, and/or required participation in a substance abuse rehabilitation or treatment program.  Such violations may also have legal consequences.  Required to report any/and all offenses or charges of any violations of this policy from all jurisdictions including Tribal, State, and Federal.</text>
+      <text>The intention of this policy is to clarify the standard of conduct expected of all employees in the performance of their job duties.  Compliance with this policy is a condition of employment for all present and future TMBCI employees (and all other tribal entities).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employee Assistance-Alcohol/Drug Abuse</text>
+      <text>The TMBCI is prepared to help and support all employees requesting assistance.  For this purpose, the TMBCI maintains an Employee Assistance Program (EAP) that provides confidential services to employees seeking help in dealing with alcohol and/or drug abuse or form personal matters requiring confidential counseling.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employee Assistance Program Related Leave of Absence</text>
+      <text>The TMBCI considers Drug and Alcohol as treatable illnesses.  Employees having these illnesses will be five the same consideration and offered assistance presently extended to employees having any other illness.</text>
+      <text>Employees who have been diagnosed with an alcohol and drug problem are encouraged to seek confidential counseling or to schedule a referral with personnel in the Employee Assistance Program.</text>
+      <text>After evaluation by a Licensed Addiction Counselor, an employee who needs inpatient treatment for any of these illnesses will be allowed to use accrued sick leave or annual leave. The remainder of the treatment time will be without pay.  The employee will be allowed the amount of time needed to complete treatment programs for thirty (30) to 180 days without loss or interruption of his or her employment status under the following conditions:</text>
+      <para>
+        <num>1.</num>
+        <text>Arrangements must be stated in writing, indicating starting and approximate date of leave.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notification must be provided in writing to the Program Director/Immediate Supervisor.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At the end of granted leave if the employee does not return to work within one (1) week after the treatment ending date, the employee not returning to work shall be construed as if the employee has voluntarily resigned from their position.</text>
+        <text>Upon return from the leave and a negative drug test, the employee shall be reinstated to the position, which he or she held at the commencement of leave or shall be placed in a position comparable to the position held at the commencement of leave.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Alcohol and Drug Free Awareness Program</text>
+      <text>The TMBCI shall implement and maintain an Alcohol and Drug Free Awareness Program to inform employees about:</text>
+      <para>
+        <num>1.</num>
+        <text>The dangers of alcohol and drug use in the workplace.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The policy of maintaining a drug free workplace.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The sanctions that may be imposed upon employees for violations of the TMBCI drug free workplace policy.</text>
+        <text>The TMBCI will use its drug free awareness program in an ongoing effort to prevent and eliminate drug use that may affect the workplace.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Definitions</text>
+      <text>For the purpose of this policy, the following definitions apply:</text>
+      <para>
+        <num>1.</num>
+        <text>Illegal Drugs:  All forms of narcotics, hallucinogens, controlled substances (including cannabis), depressants, stimulants, and other drugs whose use, possession or transfer is restricted or prohibited by law.  Drugs prescribed by physicians, dentists, or other authorized health professionals and used in accordance with their instructions is not subject the restrictions of this policy.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Legal Drugs:  Prescribed and over-the-counter drugs, which have been obtained and are being used for the purpose for which they were prescribed or manufactured.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reasonable Suspicion:  Means circumstances or behavior indicating alcohol or drug use.  It includes, but is not limited to the following circumstances:</text>
+        <para>
+          <num>a.</num>
+          <text>Observable conduct, such as direct observation of alcohol or other drug use and/or the physical symptoms of being under the influence; behavior that is otherwise unexplained.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A pattern of abnormal conduct, incoherent mental state, or erratic behavior that is otherwise unexplained.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Physical impairment, e.g., staggering, slurred speech, sleeping on the job, inability to concentrate, memory loss.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Other actions, such as conduct that provides reasonable suspicion that the employee is under the influence.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Involvement in any work-related, reportable accident.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Reportable Accident:  An accident at the job site that requires medical attention and/or an incident/accident report.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Impairment:  For the purpose of this policy, impairment is the inability to perform one's job in the manner prescribed for that function or in accordance with established practice. Or in accordance with established practice.  Impairment may include the inability to use or operate equipment properly, to communicate clearly, to exercise reasonable judgment in making decisions, to interface with other employees, guests or business contacts in any appropriate manner, or other inappropriate behavior.  Such impairment, when caused by alcohol and drug abuse, is a violation of this policy.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Alcohol:  A liquor or brew containing alcohol as the active agent; "alcohol (or drink), any of a series of volatile hydroxyl compounds that are made from hydrocarbons distillation.  The fluid essence or pure spirit obtained by distillation.  The spirituous or intoxicating element of fermented or distilled liquors, or more loosely a liquid containing it in considerable quantity.  An impalpable powder.  A class of compounds analogous to vinic alcohol in constitution.  An organic chemical containing one or more hydroxyl groups.  An ingredient in a variety of beverages including beer, liquors, cordials, and mixed drinks.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Medical Marijuana:  means marijuana that has been recommended by a licensed medical provider in the treatment of a medical condition.  In order to establish that marijuana use is medical, the employee must have a registration card.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Registration Card:  a document issued by the Commission or by a licensed medical provider that identifies a person as having a registration to consume Medical Marijuana.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Drugs in the Workplace</text>
+      <text>The TMBCI strictly prohibits the use, possession, exchange, delivery, manufacture, distribution, sale or purchase of any illegal drug, or any prescription drug without a valid prescription on TMBCI properties (including TMBCI motor vehicles) and TMBCI sponsored functions.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Medical Marijuana Policy</text>
+      <text>The TMBCI Tribal Code, Title 56, allows for the controlled use of medical marijuana.  Although TMBCI employees who legally obtain a medical marijuana "registration card" issued by the commission or by a licensed medical provider are allowed to possess and consume marijuana, doing so is not permitted on TMBCI properties (including TMBCI motor vehicles) or at official TMBCI-sponsored events (either on or off TMBCI property).  TMBCI may in its discretion seek to accommodate legally recognized TMBCI medical marijuana users when possible, depending on the employee's position.  TMBCI will not grant Medical Marijuana accommodations to employees who operate heavy machinery or drive TMBCI motor vehicles.  Employees who obtain a registration card from the commission or by a licensed medical provider must submit a letter to the TMBCI Director of Human Services attaching a copy of their care and requesting a reasonable accommodation.  The request must specifically detail why the employee believes an accommodation is necessary.  TMBCI will then enter into a discussion with the employee and where applicable the employee's health care provider to determine if such accommodation is appropriate under the circumstances.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Alcohol in the Workplace</text>
+      <text>The TMBCI prohibits employee use/abuse of alcohol during their work hours, during meal breaks.  This policy also prohibits employee use of alcohol, whether in connection with business or personal time, within six (6) hours before the employee begins work.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Impairment Related to Alcohol or Drug Use</text>
+      <text>Employees who are in a condition that impairs their ability to perform their jo and endangers the safety of themselves or others will not be allowed to continue working or remain in the workplace.  Employees who are prescribed medication by a licensed health physician that may impair their judgment or their ability to perform their job must report it to their Supervisor immediately upon receipt of the medication and be placed in their Personnel file.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Sanctions for Violation of the Drug and Alcohol Policy</text>
+      <text>If an employee is found to be in violation of this policy, he/she will be immediately suspended without pay and will be referred for an evaluation for drug and alcohol services.  The employee will also be given an escort to their place of residence if necessary.  Further disciplinary action may be imposed including discharge.  The TMBCI may also submit evidence (excluding test results) to law enforcement agencies when it is appropriate to do so.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Alcohol and Drug Testing Program</text>
+      <text>To ensure an alcohol and drug free work force and to eliminate alcohol/drug use and abuse by employees at TMBCI, the following procedures will be used utilizing drug testing (kits).  The drug testing will take place in a designated area by the Human Resource department utilizing designated bathrooms.  Participants will be required to take the drug test using the drug testing kit provided to them by the drug testing team consisting of two males and two females, Certified Drug Administrator and one certified witness.  The team and the employee will read results together.</text>
+      <text>If the test shows positive, this test will then be sent to the drug check lab for further analysis.  If the employee is on a prescription medication, then he/she will have to submit evidence of the prescription to the drug check lab for is determination on whether that medication or other drugs were present in the sample.</text>
+      <text>
+        <strong>Employee Testing</strong>
+      </text>
+      <text>Upon implementation of this Drug Policy 2018, all TMBCI employees and all tribal entities employees will be given drug tests.</text>
+      <text>All employees of the TMBCI will submit to alcohol and drug testing whenever required under this policy as a condition of continued employment with the TMBCI.</text>
+      <text>
+        <strong>Random Drug and Alcohol Testing</strong>
+      </text>
+      <text>The TMBCI reserves the right to conduct random, unannounced alcohol and drug tests on any and all employees.  Random drug tests will be conducted at least quarterly.  The number of employees to be tested each quarter will be a minimum of 25% up to 50% of Tribal Employee and Tribal Entities.</text>
+      <text>The employees to be tested randomly will be selected by a computerized program, using the Employee ID #.</text>
+      <text>
+        <strong>Pre-Employment Drug Testing</strong>
+      </text>
+      <text>All persons selected for hire will be required to take a drug test at time and place designated by the TMBCI.  Each person selected for hire will also be required to sign the "Drug Testing Consent Form".  Failure to sign the form will result in discharge of the remainder of the pre-employment process.</text>
+      <text>Those who test positive only for legal use of illegal drugs and illegal use of legal drugs will not be hired but will be eligible to reapply after six (6) months.  Individuals with a prescription will be sent to the National Toxicology lab for further analysis and if the test is in line with prescription, they will start immediately.  Individuals who fail to show up for their scheduled test ill be considered unqualified for the position and will be eligible to reapply after six (6) months.</text>
+      <text>
+        <strong>Post-accident testing</strong>
+      </text>
+      <text>All employees involved in or contributing to a "reportable accident" or who cannot be completely discounted as being a contributing factor to an accident, may be required to have an alcohol or drug test immediately after.  Use of alcohol by the employee is prohibited following the accident until the post alcohol and drug testing is completed.</text>
+      <text>
+        <strong>Reasonable Suspicion Testing</strong>
+      </text>
+      <text>Reasonable suspicion testing is required whenever a supervisor, management employee, or Personnel employee reasonably suspects an employee is under the influence of alcohol or drugs.  Reasonable suspicion test referrals must be based on documented objective facts, circumstances, or physical evidence, physical signs, symptoms, or a pattern of behavior.</text>
+      <text>Reasonable suspicion must be tested because of reasonable suspicion, the employee will not be permitted to return to work until the results of the test are received from the drug testing division of TMBI.  In the event that the results are negative for the presence of prohibited level of alcohol or other drug, and the employee has not violated any work rules, the employee will be paid for time passed while awaiting the test results.</text>
+      <text>The TMBCI may required additional drug and alcohol tests during and following drug and alcohol treatment to ensure compliance with a treatment plan.  These tests may be done for up to one year after completion of treatment without prior notice.</text>
+      <text>
+        <strong>Additional Testing</strong>
+      </text>
+      <text>The TMBCI may require additional drug and alcohol tests during and following drug and alcohol treatment to ensure compliance with a treatment plan.  These tests may be done for up to one year after completion of treatment without prior notice.</text>
+      <text>
+        <strong>Positive Test Results-Procedures</strong>
+      </text>
+      <text>In the event of a confirmed positive test for alcohol or drugs, the following procedure will apply:</text>
+      <text>Before management decides upon the final course of actions, including potential discipline, to be taken in the event of a positive test result, this test will then be sent to the drug test lab for further analysis.  If the employee is on a prescription medication, including medica marijuana, then he/she will have to immediately obtain a copy of the prescription or registration card, and give it to the TMBCI.  The TMBCI will then send the prescription to the drug test lab for its determination on whether that medication or other drugs were present tin the sample.</text>
+      <text>Upon written request, the TMBCI will provide the affected employee with a copy of the confirmed positive test result.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Goals</text>
+      <text>The specific goals of the TMBCI Drug and Alcohol Policy are to:</text>
+      <para>
+        <num>•</num>
+        <text>Educate employees about the dangers and problems associated with substance abuse.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Facilitate the prevention of substance abuse.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Provide for opportunities for counseling and treatment for any employee abusing drug and/or alcohol.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Protect the public and coworkers from those employees' abusing drugs and/or alcohol.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Develop a drug free workplace; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Make provisions for employees undergoing treatment to continue to work or return to work with the same benefit/same pay/same position as soon as possible consistent with their prescribed treatment program.</text>
+      </para>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Applicability</text>
+      <text>The policy applies to all current and future TMBCI employees and all employees of tribal entities.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Prohibited Conduct</text>
+      <para>
+        <num>•</num>
+        <text>Manufacture, trafficking, possession, and use of prohibited substances.</text>
+        <text>Employees are prohibited from engaging in the manufacture, distribution, possession, or use of prohibited substances on tribal property, in tribal vehicles or while on tribal business.  Additionally, law enforcement and/or funding agency shall be notified, as appropriate, when criminal activity is suspected.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Intoxication.  All tribal employees who are suspected of being intoxicated, impaired, under the influence of a prohibited substance, or not fit for duty shall be disciplined pending an investigation and verification of condition.  Employees found to be under the influence of prohibited substances or who fail to pass an alcohol test shall be removed for duty and subject to corrective action.  An alcohol test is considered positive for alcohol if the individual is found to have a Breath Alcohol Content of .02 or greater.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Alcohol use.  No tribal employee shall report for duty or remain on duty when their ability to perform assigned duties is adversely affected by alcohol, or when their breath alcohol concentration is .02 BAC or greater.  No employee shall use alcohol while on tribal premises or during the hours they are on call.</text>
+      </para>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Prohibited Substance</text>
+      <text>Prohibited substances include:</text>
+      <para>
+        <num>•</num>
+        <text>Any alcohol beverage.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any prescribed drug not being used for legal purposes; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Marijuana when not being used for legal purposes; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Controlled substance in Schedule I through V of the Control Substance Act and to include others.</text>
+      </para>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>Employee Assistance-Alcohol/Drug Abuse</text>
+      <text>The TMBCI is prepared to help and support all employees requesting assistance.  For this purpose, the TMBCI maintains an Employee Assistance Program (EAP) that provides confidential services to employees seeking help in dealing with alcohol and/or drug abuse or for personal matters requiring confidential counseling.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Voluntary Admission of Drug/Alcohol Use</text>
+      <text>Any employee, who voluntarily, and without reasonable suspicion or supervisors, identifies themselves as having a problem with alcohol or drug abuse, shall be referred for assessment and treatment and will follow the same positive drug testing procedures as a positive tested employee.  If the employee is unable to perform work duties, the employee may use accrued sick or annual leave or be placed on leave without pay status until the employee can return to work.  Employees seeking such assistance should see their supervisor or the Human Resource Department.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>Drug Testing</text>
+      <text>Applicants:  All applicants will be provided a summary of the drug testing policy.  Applicants who have received conditional offers of employment with the tribe must submit to testing for evidence of improper drug use and/or where indicated, to test for the presence of alcohol.  If the tests are positive, except for legal use of legal drugs with a prescription, the applicant will be refused employment and may not reapply for at least 6 months.</text>
+      <text>Employee:  All employees and tribal entities shall be subject to random, unannounced testing using a valid method that ensures that each employee will have an equal chance of being selected each time testing is conducted.  This random testing will be conducted throughout the year.  All current employees whose position require them to perform safety sensitive duties, and/or requires a commercial driver's license may be subject to random drug testing at a higher incident than other employees per the regulations of the Federal Transit Authority (FTA) (49 CFR Parts 653 and 654), and per the regulations of the U.S. Department of Transportation (DOT) (49 CFR Part 40).</text>
+      <text>Reasonable suspicion referrals for testing will be made based on documented objective facts and circumstances consistent with the short-term effects of substance abuse.  Written reasonable suspicion referrals will be made by the appropriate supervisors.  Reasonable suspicion means any circumstances or behavior indicating alcohol or drug use.  It includes, but is not limited to:  observable conduct, such as a direct observation of alcohol or dur use and/or the physical symptoms of being under the influence; a pattern of abnormal conduct, incoherent mental state, or erratic behavior that is otherwise unexplained; physical impairment, such as staggering, slurred speech, sleeping on the job, inability to concentrate, memory loss etc.; other actions, such as conduct that provides reasonable suspicion that the employee is under the influence; involvement in any work-related, reportable accident etc.</text>
+      <text><strong><em>Reasonable suspicion searches:</em></strong> TMBCI reserves the right to search employees' desk, locker, or other tribal property, when there is reasonable suspicion.  TMBCI reserves the right to request law enforcement to conduct searches in the presence of the appropriate tribal official and to document their findings.</text>
+      <text><strong><em>Failure to submit to drug/alcohol testing:</em></strong>  All employee and tribal entities will be subject to drug testing and alcohol testing as a condition of employment.  Persons seeking tribal employment who refuse to submit to drug testing shall not be eligible for employment by the tribe.  Tribal employees, who refuse to submit to random, reasonable suspicion or post on-the-job accident drug/alcohol testing, shall be subject to suspension/termination.  Refusal can include an inability to provide a sufficient specimen r sample without a valid medical explanation, as well as verbal declaration, obstructive behavior, or physical absence resulting in the inability to conduct the test.  Any employee who is suspected of providing false information in connection with a test, or who is suspected of falsifying test results through tampering, contamination, alteration, or substitution will be required to undergo an observed collection.  Verification that the employee has provided false information or has falsified results, will result in the employee's termination.</text>
+      <text>Employees on authorized leave that are selected for the random sampling will be rescheduled to be included in the next random sample.</text>
+      <text>Confidentiality:  TMBCI shall use reasonable precaution to ensure and maintain accuracy and confidentiality of the test results.  Only persons authorized by the Chain of Command shall view the results of testing.</text>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>Education and Training</text>
+      <text>As part of the orientation process, employees will be given a copy of the TMBCI policy and procedure manual inclusive of the Alcohol and Drug policies.  Training will be provided periodically on the consequences of prohibited alcohol/drug use and abuse.  Additionally, Supervisor will be required to participate in training on the signs and symptoms of alcohol/drug misuse.  The Personnel or designated personnel staff will ensure this policy is followed and adhered to.  Monthly training and drug awareness seminars will be available for all employees to attend.</text>
+    </para>
+    <para>
+      <num>T.</num>
+      <text>Voluntary Admission of Drug/Alcohol Use</text>
+      <text>Any employee, who voluntarily, and without reasonable suspicion of supervisors, identifies themselves as having a problem with alcohol or drug abuse, shall be referred for assessment and treatment and will follow the same positive drug testing procedures as a positive tested employee.  Employees who voluntarily admit drug and alcohol abuse formally in writing and accepted by the HR Director, may use their annual and sick leave for their 30-day suspension.  Only once will voluntary admission be accepted.  Employees seeking such assistance should see their supervisor or the Human Resource department.</text>
+    </para>
+    <para>
+      <num>U.</num>
+      <text>Consequences of a Positive Drug or Alcohol Test</text>
+      <text><strong><em>Pre-employment:</em></strong>  Applicant will be refused employment and will not be allowed to reapply for six (6) months, except for a positive test for legal use of legal drugs with a prescription.</text>
+      <text><strong><em>Random, reasonable suspicion or post-accident test.</em></strong>  Employees will be subject to immediate corrective action after a positive random test, a positive test after being tested based on reasonable suspicion, or a positive test after an accident, a citation by law enforcement or loss of license or credentials necessary to complete employees job duties.</text>
+      <text><strong><em>Initial positive test.</em></strong>  The first time an employee is confirmed to have tested positive, they will be referred to a Licensed Addiction Counselor for an evaluation at the tribal employees' expense and will be suspended until that employee passes a drug/alcohol test conducted by the tribe after starting a treatment plan.  Employees must schedule an appointment with the designated agency within thirty (30) days or they will be terminated.  Evaluation and recommendation will be adhered to, and the employee will be required to complete the recommended treatment/counseling prior to returning to work.  Employees will be required to have a negative drug test conducted by TMBCI before returning to work.  Employees may not use leave during their supervision but may use leave during their treatment plan.  Employees refusing to submit to an evaluation and recommended counseling/treatment will be terminated.  Employees who themselves home or elsewhere.  Refusal to comply with this rule will result in immediate termination.</text>
+      <text><strong>Employees requiring counseling/treatment.</strong>  If the evaluating agency concludes that an employee should receive further counseling or treatment for substance abuse, the employee must meet with the Human Resource to discuss available counseling and treatment options and available coverage.  To employee will be required to complete and comply with all the conditions set forth by the tribe and chosen program.  The employee has five (5) days to initiate and comply with recommended treatment.  This can include returning to work immediately upon completion of the five (5) days without pay suspension or leave of absence.  Employees refusing to comply with the recommendations of counseling/treatment will be terminated.</text>
+      <text><strong>Employees not requiring counseling or treatment:  </strong>If the evaluating agency concludes that an employee who is confirmed to have tested positive does not require counseling or treatment at this time, or is able to work during treatment, such employee will be returned to work upon completion of the five (5) day suspension after passing a drug test conducted by the tribes' drug testing department.  Such employee must enter into an agreement with TMBCI and will then be subject to unannounced drug/alcohol testing for up to 12 months.  If any of these unannounced tests are positive, except for legal use of legal drugs with a prescription, the employee will be terminated.  Counseling and treatment will be at the expense of the employee.</text>
+    </para>
+    <para>
+      <num>V.</num>
+      <text>Agreement</text>
+      <text>Employees who return to work following the five (5) day suspension due to positive drug or alcohol test results, except for legal use of legal drugs with prescription, must agree to the following:</text>
+      <para>
+        <num>•</num>
+        <text>Employees must provide a release to work form the evaluation or counseling program indicating successful completion,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee must agree to provide a negative test for drugs or alcohol for use to one year from the date of the positive test,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>An agreement to frequent follow-up test for a period of 12 months,</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>An agreement to follow specific after care requirements with the understanding the violation of the agreement is grounds for corrective action or termination.</text>
+        <text>Employee will be allowed to use their own accrued leave or utilize leave without pay to complete aftercare requirements.</text>
+      </para>
+    </para>
+    <para>
+      <num>W.</num>
+      <text>Second Failure</text>
+      <text>If the employee tests positive a second time, the employee will be terminated and will not be considered for employment by the TMBCI and all Tribal Entities for a period of twelve (12) months.</text>
+      <text>
+        <strong>All employees are asked to acknowledge that they have read the Alcohol and Drug policy of the TMBCI and agree to abide by it in all respects.  By policy this acknowledgement is required of you as a condition of employment.</strong>
+      </text>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12</num>
+    <heading>Sexual Harassment Policy/Other Forms of Harassment</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose</text>
+      <text>Harassment based on sex is against the law, Sexual harassment is the unwarranted and unwanted action of n individual against another individual involving sexual overtones.  Unwelcome sexual advances, request for sexual favors, and other verbal or physical conduct of a sexual nature constitute harassment.</text>
+      <text>TMBCI will not tolerate verbal or physical conduct by an employee that harasses, disrupts, or interferes with another's work performance or which creates an intimidating, offensive or hostile work environment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Prohibited Conduct and Consequences</text>
+      <text>Specifically, the TMBCI prohibits the following:</text>
+      <para>
+        <num>•</num>
+        <text>Unwelcome Sexual advances.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Request for sexual favors, whether accompanied by promises or threats with regard to the employment relationship.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Other verbal or physical conduct of a sexual nature made to any employee that may threaten or insinuate that any employee's submission to or rejection will in any way influence any personnel decision regarding that person's employment, evaluation, wages, advancement, assigned duties, shifts or any other condition of employment or career development.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any verbal or physical conduct that has the purpose or effect of substantially interfering with the employee's ability to do his/her job.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any verbal or physical conduct that has the purpose or effect of creating an intimidating, hostile, or offensive work environment; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The display in the workplace of sexually suggestive objects or pictures, including nude photographs.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>E-mails</text>
+        <text>Such conduct may result in corrective action up to and including dismissal.</text>
+        <text>Other sexually harassing conduct in the workplace, whether physical or verbal, committed by Supervisors or non-supervisory personnel is prohibited.  This behavior can include but is not limited to:</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Commentary about an individual's body.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The use of sexually degrading words to describe an individual.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Offensive comments.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Off-color language or jokes; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Innuendoes.</text>
+        <text>Any employee who believes that the actions or words of any employee or fellow employee constitute unwelcome harassment, has a responsibility to report this behavior, preferably in writing to the Human Resource Manager and Supervisor.  All complaints will e investigated promptly by the Human Resource staff member in a confidential manner.  In all cases, the employee will be advised of the investigation's conclusions.</text>
+        <text>Any employee who is found, after appropriate investigation, to have engaged in harassment of another employee or false reporting or accusing an individual will be disciplined accordingly.</text>
+        <text>Consequences for false reporting/accusing an individual of sexual or other forms or harassment will include discipline according to the report/accusation and conclusion.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13</num>
+    <heading>Other Polices</heading>
+    <para>
+      <num>A.</num>
+      <text>Travel Policy</text>
+      <text>When non-exempt employees are on approved travel the following policies apply:</text>
+      <para>
+        <num>•</num>
+        <text>Work related travel spent in an automobile transit during and after work hours, on weekend or holidays will be compensated for according to Fair Labor Standards Act and Wage and Hour Law.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Time spent for meals, sleeping, entertaining or being entertained will not be compensated.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee will not be compensated for time spent as a passenger on a plane, train, boat, or bus outside regular work hours, unless work is being performed during such travel.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>All requests for compensatory time must be approved in accordance with the compensatory time policy.</text>
+        <text>No travel will be approved if an expense report from any prior travel has not been submitted.  Any reimbursements owed to tribe form a previous trip must be paid prior to approval of any other travel.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Text Messaging</text>
+      <text>All employees are banned from text messaging which driving any vehicle during performance work.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Political Activities</text>
+      <text>The involvement of the individual in political activity is an inherent right to all persons living in a free society however, no employee shall:</text>
+      <para>
+        <num>•</num>
+        <text>Engage in adverse or disruptive political activity while on tour of duty.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Use tribal funds, supplies, or property in any political activity; or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Use undue influence for political gain.</text>
+        <text>Employees who violate this regulation shall be found guilty of misconduct and may be disciplined.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Smoking/Smokeless Tobacco</text>
+      <text>In keeping with the Turtle Mountain Band of Chippewa Indians' intent to provide a safe and healthful work environment, smoking/smokeless tobacco in the workplace is prohibited.</text>
+      <text>This policy applies to all employees, executives, clients, and visitors.</text>
+      <text>If any employee of the tribe violates the no smoking policy in the tribal office or other tribal buildings or vehicles, by their own choice, they will be subject to the following disciplinary action:</text>
+      <text>First Offense:  Written reprimand form the employee's Supervisor to be placed in the employee's personnel file.</text>
+      <text>Second Offence:  Two weeks suspension form the employee's positions without pay.</text>
+      <text>Third Offense:  An option to either voluntarily beginning a smoking cessation class or face termination for clear contempt or tribal policies or ordinances and subordination.  Successful completion of cessation class is required.</text>
+      <text>Smoking is allowed outside of tribal buildings in designated areas.  No smoking is allowed in the main entrance.  Smokers are encouraged to keep their smoking areas clean and free of cigarette butts.  Use containers provided.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Use of Phone and Office Systems</text>
+      <text>The personal use of TMBCI telephones for long distance and excessive use of local calls, computers, email, mail services (e.g., postage meter, stamps) fax machines, copiers is not permitted.  Employees shall be required to reimburse the TIMBCI for any charges resulting from personal use of tribal equipment.  Continued abuse may subject employee to disciplinary action.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Computer and Internet Usage</text>
+      <text>It is the policy of the TMBCI to promote the use of computers in a matter that is responsible, legal, and appropriate.  While the computer/internet can help you do your job more efficiently, it can also be misused.  Such misuse can waste time and potentially violate regulations, policies, and laws, including copyright laws, which could result in personal liability.  This computer/internet policy is established to govern use by the employee in accessing the internet and use of the computer in general for employees of the TMBCI.</text>
+      <text>Prohibited Activities:</text>
+      <para>
+        <num>•</num>
+        <text>Use of tribal computer or internet access, to harass, annoy, or disrupt the work performance or others.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Use of profanity or sexually oriented language.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Knowingly downloading or distributing any licensed or copyrighted material in violation of any copyright laws, or downloading files, or software, without lawful purchase and prior consent.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Releasing or dissemination of tribal information through the internet, except to those persons authorized to receive such information.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Excessive personal use of internet service; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Playing games and chatting on the computer/internet is prohibited.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees that have access to computers, where passwords are used, must change their passwords at least once a year.  The passwords must be in appropriate language, one that is unique and not readily accessible, and must be held confidential.  They are not to be given to another employee or to any other person unless it is a requirement of the department or software programming.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>When an employee leaves employment with the tribe they must inform their immediate Supervisor what the password is.  The Supervisor must then assign a new password.  When a replacement is hired the new person will again assign one unique to that individual.</text>
+        <text>Violation of this policy will lead to disciplinary action.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Social Media Policy</text>
+      <text>This policy provides guidance for employee use of social media, which should be broadly understood for purposes of this policy to include blogs, wikis, microblogs, message boards, chat rooms, electronic newsletters, online forums, social networking sites, and other sites and services that permit users to share information with others in a contemporaneous manner.</text>
+      <text>PROCEDURES</text>
+      <text>The following principles apply to professional use of social media on behalf of TMBCI as well as personal use of social media when referencing TMBCI.</text>
+      <para>
+        <num>•</num>
+        <text>Employees need to know and adhere to the (TMBCI Code of Conduct, Employee Handbook, and other company Policies) when using social media in reference to TMBCI.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees should be aware of the effect their actions may have on their images, as well as TMBCI image.  The information that employees post or publish may be public information for a long time.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees should be aware that TMBCI may observe content and information made available by employees through social media.  Employee should use their best judgment in posting material that is either inappropriate or harmful to TMBCI, its employees, clients, or customers.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Although not an exclusive list, some specific examples of prohibited social media conduct include posting commentary, content, or images that are defamatory, pornographic, proprietary, harassing, libelous, or that can create a hostile work environment.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees are not to publish, post or release any information that is considered confidential or not public.  If these are questions about what is considered confidential, employees should check with the Human Resource department and/or Supervisor.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Social media networks, bogs and other types of online content sometimes generate press and media attention or legal questions.  Employees should refer these inquiries to authorized TMBCI spokespersons.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>If employees find, encounter a situation while using social media that threatens to become antagonistic, employees should disengage from the dialogue in a polite manner and seek the advice of a supervisor.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees should get appropriate permission before they refer to or post images of current or former employees, Tribal Council, appointed board members, vendors, or suppliers.  Failure to appropriate permission or to attempt to harm, defame, label, or otherwise harass another employee or TMBCI through social media posts will subject an employee to disciplinary action and possible termination.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employees must get appropriate permission to use a third party's copyrights, copyrighted material, trademarks, service marks or other intellectual property.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Social media use shouldn't interfere with employee's responsibilities at TMBCI.  TMBCI computer systems are to be used for business purposes only.  When using TMBCI's computer system, personal use of social media networks or personal blogging of online content is discouraged and could result tin disciplinary action.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Subject to applicable law, after-hours online activity that violates TMBCI Code of Conduct or another company policy may subject an employee to disciplinary action or termination.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Use of Equipment and Vehicles</text>
+      <text>Each department manager shall have the responsibility of maintaining accurate and current inventory of all TMBCI property assigned to that department.</text>
+      <text>When using TMBCI property, employees will exercise care, perform required maintenance, and follow all operating instructions, applicable federal safety standards, and guidelines.</text>
+      <text>Employees are responsible for all property, materials or written information issued to them, in their possession, or under their control.  Employees must return all TMBCI property immediately upon request, upon completion of task, or upon termination of employment.  Supervisors must inform the property and supply, finance, payroll, and personnel departments if equipment, material, keys or other program materials have not been returned.  TMBCI may withhold form the employee's pay the cost or replacement cost of any items that are not returned as required.  TMBCI may also take appropriate legal action to recover or protect Tribal Property.</text>
+      <text>Tribal equipment must not be taken home or in any other way used for personal use.  Non-Tribal employees are prohibited from using any equipment or vehicles unless a signed executive authority is issued and presented.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Safety</text>
+      <text>Establishment and maintenance of a safe work environment is the shared responsibility of TMBCI and its employees at all levels.  TMBCI will attempt to assure a safe environment and will comply with federal, state, and local safety regulations.  Employees are expected to obey safety rules and to exercise caution in all their work activities.  They are asked to immediately report any unsafe conditions to their supervisor.</text>
+      <text>All accidents that result in injury must be reported immediately or ASAP in writing to the appropriate Supervisor, regardless o how insignificant the injury may appear.  Such reports are necessary to comply with laws and initiate insurance and worker's compensation procedures.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Board, Committee, or Commissioner Membership</text>
+      <text>The TMBCI encourages their employees to be active and viable members of the community.  Therefore, no employee shall be prohibited from serving as a member of a board, committee, or commission, unless the membership created a conflict of interest or manner or if significant workload has to be assigned to other employees in the absence of the employee while at meetings, or travel as a member of the board, committee or commission.  To ensure that conflict of interest will not be created the employee must notify the Supervisor of:</text>
+      <para>
+        <num>•</num>
+        <text>The acceptance of an elected office position; and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>The acceptance of a board/commission appointment.</text>
+        <text>The Supervisor and governing body will determine if the membership creates a conflict of interest, and the employee may be given the option to res9in from the board or employment if a conflict of interest is determined.</text>
+        <text>Under no circumstances will board members other than tribally appointed board members be given administrative leave to attend workshops, trainings, etc.</text>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Conflict of Interest</text>
+      <text>An actual or potential conflict of interest occurs when an employee is able to influence a decision that may result in personal gain for the employee or for an immediate family member.</text>
+      <text>Personal gain is defined a occurring when an employee or a member of the employee's immediate family receives any kickback, bribe, gift, or special consideration as a result of, in order to influence, any tribal transaction.</text>
+      <text>When an employee is approached by others to use influence, or believes that personal relationships, interest, or business will bias the employee's influence or decisions on tribal purchased, transactions, leasing arrangements, or other transactions, the employee is required to disclose this information to the appropriate Supervisor immediately.  The materials, products, designs, plans, ideas, and data of TMBCI are the property of TMBCI and shall never be given to an outside firm or individual except through normal channels and with appropriate authorization.  Any improper transfer of material or disclosure of information, even though it is not apparent that an employee has personally gained by such action, constitutes unacceptable conduct.  Any employee who participates in such a practice will be subject to disciplinary action, including possible discharge.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Visitors in the Workplace</text>
+      <text>To provide for the safety and security of employees and the facilities of TMBCI, only authorized visitors are allowed in the workplace.  By restricting unauthorized visitors, this will help maintain safety standards protect against theft, ensure security of equipment, protects confidential information, safeguards employee welfare, and avoids potential distractions and disturbances.</text>
+      <text>All visitors must check in at the receptionist desk.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Job Description Revisions</text>
+      <text>Titles and/or Job Descriptions revised may be made by Supervisors, Program Directors, and Department Heads to:</text>
+      <para>
+        <num>•</num>
+        <text>Accurately define an existing position; or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Make minor changes within the job description; or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Make pay compensation revisions.</text>
+        <text>The tribe is approving all job announcements/vacancies and salary negotiation be authorized by Council resolution prior to submitting for Council action.</text>
+      </para>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Personnel Action Forms</text>
+      <text>All Personnel Action Forms must be initial/signed by the finance department to assure funding availability for:</text>
+      <para>
+        <num>A.</num>
+        <text>Account changes, (within the same funding source).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>150-hour annual leave pay out (one per fiscal year) per employee (minimum 50 up to 150 hours, depending on funding availability).</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Probation period no more than $1.00 (back pay to ending date) pending evaluation.</text>
+        <text>No more than four (4) employees getting paid under the general account receiving annual leave payout per payroll for cash flow purposes.</text>
+        <text>The above PAF's will not be required to have Council action and will required approval signature from the Program Director, Human Resource Manager and Tribal Chairman.</text>
+        <text>All other PAF's will need to be approved through resolution form.</text>
+        <text>Exempting PAF's for Tribal Council appointees whose employment ends at the end of the term.</text>
+      </para>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Primary and General Elections</text>
+      <text>Four (4) hours paid time off for the Tribal Primary and General Elections.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>Santa Club</text>
+      <text>Santa Club is offered to all employees.  In following account compliance with the bank, there will be no early withdrawals.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Fraud Policy</text>
+      <text>Fraud policy has been established to facilitate the development of control that will aid in the detection and prevention of fraud against the Turtle Mountain Band of Chippewa Indian, (TMCI).  It is the intent of TMBCI to promote consistent organizational behavior by providing guidelines and assigning responsibility for the development of controls and conduct of investigations.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>Early Retirement</text>
+      <para>
+        <num>•</num>
+        <text>All retirement payments are approved during January of each year.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>No more than $100,000 will be committed to each year for maximum of ten (10) employees ($10,000 each).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Payment will be made to employees in installments of no more than $5,000 per employee each month.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Employee must be 60 years of age with 15 years of service for the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>This plan is for employees who are full-time.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>Any employee receiving retirement payments will not be eligible to work for the Turtle Mountain Tribe (excluding elderly programs).</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>This retirement is a one-time award (any employee that has already received a retirement payment of any kind will not be eligible for this award.</text>
+        <text class="center">
+          <strong>
+            <u>DEFINITION OF TERMS</u>
+          </strong>
+        </text>
+        <text><strong>GOVERNING BODY</strong> – Consists of the Chairman and Tribal Council.</text>
+        <text><strong>EXECUTIVE BRANCH OF GOVERNMENT</strong> – Tribal Chairman or in his absence Vice-Chairman then Secretary Treasurer.</text>
+        <text>Seniority – Consecutive Years of Service – An employee who experiences a break in service (over one calendar year), they lose their seniority status.</text>
+        <text>
+          <strong>10-point Veteran</strong>
+        </text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A Veteran who served at any time and who one (1) has a present service-connected disability or two (2) is receiving compensation disability retirement benefits, or pension from the military or the Department of Veterans Affairs.  Individuals who received a Purple Heart qualify as disabled Veterans.</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>An unmarried spouse of certain deceased Veterans, a spouse of a Veteran unable to work because of a service-connected disability, and</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>A mother of a Veteran who died in service or who is permanently and totally disabled.</text>
+        <text>
+          <strong>5-point Veterans</strong>
+        </text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>During the period December 7, 1941, to July 1, 1955; or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>For more than 180 consecutive days, any part of which occurred after January 31, 1955, and before October 15, 1976: or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>During the Gulf War from August 2, 1990, through January 2, 1992; or</text>
+      </para>
+      <para>
+        <num>•</num>
+        <text>In a campaign or expedition for which a campaign medal has been authorized, including El Salvador, Grenada, Haiti, Lebanon, Panama, Somalia, Southwest Asia, and Bosnia.</text>
+        <text>Medal holders and Gulf War Veterans who enlisted after September 7, 1908, or entered on active duty on or after October 18, 1982, must have served continuously for 24 months or the full period called or ordered to active duty.  The service requirement does not apply to Veterans with compensable service-connected disabilities, or to Veterans separated for disability in the line of duty, or for hardship.</text>
+      </para>
+    </para>
+  </container>
 </document>
