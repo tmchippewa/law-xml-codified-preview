@@ -14,7 +14,7 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="7857b806905e2059e066ec8c39e93c0b0bf07eeb"/>
+        <repository name="tmchippewa/law-xml" commit="5a70050eea735c550532b57d5ea29b0dcc5e6a7d"/>
       </repositories>
       <platform version="2.6.4" reproducible="false"/>
       <build-date>2022-11-22</build-date>
