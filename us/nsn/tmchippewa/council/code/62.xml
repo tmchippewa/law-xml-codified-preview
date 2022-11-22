@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>62</num>
+  <heading>Turtle Mountain Band Code of Ethics</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>62.01</num>
+    <heading>Code of Ethics</heading>
+    <section>
+      <num>62.0101</num>
+      <heading>General Provisions</heading>
+      <text><cite path="62.01">This chapter</cite> shall be known as the Turtle Mountain Band of Chippewa Ethics in Government Act</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0102</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to provide standards of fairness and integrity for all officials and employees of the Turtle Mountain Band of Chippewa Indians while conducting the business of the Tribe for employees and officials representing the Tribe in their respective capacities.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0103</num>
+      <text>It shall be recognized that officials and employees are in positions of trust on behalf of the Tribe and must endeavor to exercise the highest qualities of conduct, integrity and confidence on behalf of the Tribe and its citizenry. Also, it is the individual responsibility of each employee and official to conduct themselves in a polite and courteous manner with respect and consideration for others.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0104</num>
+      <text>The standards established herein are not to be considered in lieu of ethical standards imposed by Federal Law, Tribal Law or Personnel Policies and Procedures of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0105</num>
+      <heading>Definitions</heading>
+      <text><strong>Officials </strong>means any person serving the Tribe by appointment or certified election.</text>
+      <text><strong>Employee </strong>means any person engaged for their services to the Tribe part or full time and who receives compensation from the Tribe for their services.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0106</num>
+      <text>Every official and employee of the Turtle Mountain Band of Chippewa should endeavor to</text>
+      <para>
+        <num>1.</num>
+        <text>Put loyalty to the highest moral principles and to the Turtle Mountain Tribe above loyalty to other persons, parties or government entities;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Uphold the Constitution, laws and regulations of the Turtle Mountain Tribe and never be a party to their evasion;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Seek to find and employ more efficient and economical ways of getting tasks accomplished;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Never use any information gained confidentially in the performance of tribal duties as a means of making private profits to the detriment of the Turtle Mountain Tribe;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Expose corruption wherever discovered;</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>62.0107</num>
+      <heading>Review</heading>
+      <text>A plaintiff may be liable for administrative costs and defendant attorney fees, should it be determined the action was frivolous, unreasonable, without foundation, or brought in bad faith.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>
