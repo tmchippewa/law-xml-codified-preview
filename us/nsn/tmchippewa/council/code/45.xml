@@ -87,7 +87,9 @@
         <num>4.</num>
         <text>invoke the sweep of congressional and Tribal Governance authority, including the power to enforce the United States of America (U.S. Constitutional fourteenth amendment) and Turtle Mountain Band of Chippewa Indians TMBC0473-12-07 Resolution adopted, amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 0473-12-07"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -218,7 +220,9 @@
           <text>the type of operation or operations of the covered entity, including	the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 0473-12-07"/>
+      </annotations>
     </section>
     <section>
       <num>45.0302</num>
@@ -513,12 +517,11 @@
     <section>
       <num>45.0301</num>
       <heading>Definitions</heading>
-      <text>
-        <strong>45.0302</strong>
-        <strong>
-          <u>Prohibition of discrimination by public accommodations.</u>
-        </strong>
-      </text>
+      <annotations/>
+    </section>
+    <section>
+      <num>45.0302</num>
+      <heading>Prohibition of Discrimination by Public Accommodations</heading>
       <para>
         <num>a.</num>
         <text>General Rule. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.</text>
@@ -561,7 +564,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Opportunity to participate. Notwithstanding the existence of separate or different programs or activities provided in accordance with <cite path="45|45.03|45.0301">this section</cite>, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different</text>
+        <text>Opportunity to participate. Notwithstanding the existence of separate or different programs or activities provided in accordance with <cite path="45|45.03|45.0302">this section</cite>, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different</text>
       </para>
       <para>
         <num>(4)</num>
@@ -585,7 +588,7 @@
       </para>
       <para>
         <num>(1)</num>
-        <text>Discrimination. For purposes of subsection a in <cite path="45|45.03|45.0301">this section</cite>, discrimination includes</text>
+        <text>Discrimination. For purposes of subsection a in <cite path="45|45.03|45.0302">this section</cite>, discrimination includes</text>
         <para>
           <num>(a)</num>
           <text>the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;</text>

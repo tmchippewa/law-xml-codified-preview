@@ -385,8 +385,10 @@
     <section>
       <num>7.0707</num>
       <heading>Sovereign Immunity Waiver</heading>
-      <text>that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has a sovereign immunity waiver without a separate resolution authorizing the waiver of the Tribe's sovereign immunity; and that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has an arbitration clause without a separate resolution authorizing the arbitration clause. Amended-Resolution No. TMBC917-09-14</text>
-      <annotations/>
+      <text>that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has a sovereign immunity waiver without a separate resolution authorizing the waiver of the Tribe's sovereign immunity; and that no elected official, including but not limited to the Chairman, the Vice Chairman, the Treasurer, and Secretary, appointed official, employee of the Tribe, or an employee of any enterprise owned by the Tribe shall not execute a contract or agreement that has an arbitration clause without a separate resolution authorizing the arbitration clause.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 917-09-14"/>
+      </annotations>
     </section>
   </container>
 </container>

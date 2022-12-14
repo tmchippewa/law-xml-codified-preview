@@ -18,7 +18,7 @@
       <heading>Jurisdiction</heading>
       <para>
         <num>1.</num>
-        <text>The Tribal Court shall have general jurisdiction in all civil actions to the extent permitted by the Tribal constitution and by the laws of the United States. Such jurisdiction shall in4clude, but not be limited to, jurisdiction over the following:</text>
+        <text>The Tribal Court shall have general jurisdiction in all civil actions to the extent permitted by the Tribal constitution and by the laws of the United States. Such jurisdiction shall include, but not be limited to, jurisdiction over the following:</text>
         <para>
           <num>a.</num>
           <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in <cite path="2|2.01|2.0102">Section 2.0102</cite>(3) of this Code; and</text>
@@ -145,7 +145,7 @@
     </section>
     <section>
       <num>2.0402</num>
-      <heading>Complaint. (Amended Resolution No. Tmbc Tmbc1722-08-22)</heading>
+      <heading>Complaint</heading>
       <para>
         <num>1.</num>
         <text>The complaint shall be filed with a Clerk of the Tribal Court, who shall mark thereon the date of the filing or the date of service of the summons.</text>
@@ -178,7 +178,9 @@
         <num>8.</num>
         <text>"In rem" actions may be commenced without regarding to subparagraph "4" in the event a party seeks a determination on the status of condition of property, included in the bundle of rights associated with property.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
     <section>
       <num>2.0403</num>
@@ -275,7 +277,7 @@
     </section>
     <section>
       <num>2.0408</num>
-      <heading>Definition of Defendant or Respondent.(Amended Resolution No. Tmbc1722-08-22)</heading>
+      <heading>Definition of Defendant or Respondent</heading>
       <text>As used in this rule, "defendant or respondent", whether or not a citizen or domiciliary of this Tribe and whether or not organized under the laws of this Tribe, includes:</text>
       <para>
         <num>(1)</num>
@@ -305,7 +307,9 @@
         <num>(7)</num>
         <text>any other legal or commercial entity.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -332,7 +336,7 @@
     </section>
     <section>
       <num>2.0504</num>
-      <heading>Appearance; Time Allowed Parties; Default Decisions. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <heading>Appearance; Time Allowed Parties; Default Decisions</heading>
       <para>
         <num>1.</num>
         <text>Non-Appearance.</text>
@@ -480,17 +484,21 @@
           <text>The motion must state the attempt or result of talking with the opposing party, or reason why contact should not be made.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
     <section>
       <num>2.0505</num>
-      <heading>Special Time Limits in Foreclosure Actions. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <heading>Special Time Limits in Foreclosure Actions</heading>
       <text>The Court shall schedule any matters in a foreclosure action to be completed within ninety (90) days of the filing of the answer or date of default.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
     <section>
       <num>2.0506</num>
-      <heading>Time. (Amended Resolution No. Tmbc1722-08-22))</heading>
+      <heading>Time</heading>
       <text><u>801.15(1)</u>(1)  Definitions for Court deadlines.</text>
       <text><u>801.15(1)(a)</u>(a) 	In this subsection, "holiday" means any day that is a holiday provided by the Tribe's government or a federal legal holiday or both, and a full day on Good Friday.</text>
       <text><u>801.15(1)(b)</u>(b) 	When the period of time prescribed or allowed is less than 11 days, Saturdays, Sundays and holidays shall be excluded in the computation. Notwithstanding any specific rule in computing any period of time prescribed or allowed by Title 1 and 2, by any other statute governing actions and special proceedings, or by order of court, the day of the act, event or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a day the clerk of courts office is closed.</text>
@@ -502,11 +510,13 @@
       <text><u>801.15(5)</u>(4) 	Whenever a party has the right or is required to do some act or take some proceedings within a prescribed period after the service of a notice or other paper upon the party:</text>
       <text><u>801.15(5)(a)</u>(a) 	If the notice or paper is served by mail, 3 days shall be added to the prescribed period.</text>
       <text><u>801.15(5)(b)</u>(b) 	If the notice or paper is served by facsimile transmission or by the email and such transmission is completed between 5 p.m. and midnight, 1 day shall be added to the prescribed period.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
     <section>
       <num>2.0507</num>
-      <heading>Restraining Orders and Injunctions. (Amended Tmbc1722-08-22))</heading>
+      <heading>Restraining Orders and Injunctions</heading>
       <para>
         <num>1.</num>
         <text>The Court may issue temporary restraining orders, preliminary injunctions, and permanent injunctions upon motion by the parties.</text>
@@ -531,11 +541,13 @@
         <num>4.</num>
         <text>This shall not amend or affect the restraining order provisions set forth in Title 37, "Domestic Violence."</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
     <section>
       <num>2.0510</num>
-      <heading>Special Rules Related to Real Estate. (Amended Resolution No. Tmbc1722-08-22)</heading>
+      <heading>Special Rules Related to Real Estate</heading>
       <para>
         <num>1.</num>
         <text>Applicability of other rules.  These rules govern proceedings to condemn real and personal property by eminent domain, except as this rule provides otherwise.</text>
@@ -764,7 +776,9 @@
         <num>11.</num>
         <text>Costs may be awarded.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1517,13 +1531,13 @@
       <annotations/>
     </section>
     <section>
-      <num>2.1406</num>
+      <num>1.1406</num>
       <heading>Prosecuting Attorneys and Defense Attorneys</heading>
       <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment for six (6) months or more and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorneys' roll. Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorneys' roll or outside the Attorneys' roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
       <annotations/>
     </section>
     <section>
-      <num>2.1407</num>
+      <num>1.1407</num>
       <heading>Council Members Shall Not Practice as Attorneys</heading>
       <text>No member of the Tribal Council shall practice before the Tribal Court or the Tribal Court of Appeals during his term of office.</text>
       <annotations/>

@@ -2375,8 +2375,10 @@
     <section>
       <num>35.0630</num>
       <heading>Inspection of Game and Fish Without Arrest</heading>
-      <text>In order to see that bag or fish limits are being observed, Conservation Law Enforcement Officers (CLEO's) shall have the power to inspect game, fur-bearing animals and fish taken by any person found hunting, trapping or fishing without arresting the person. (Approved–Resolution No. TMBC841-02-20).</text>
-      <annotations/>
+      <text>In order to see that bag or fish limits are being observed, Conservation Law Enforcement Officers (CLEO's) shall have the power to inspect game, fur-bearing animals and fish taken by any person found hunting, trapping or fishing without arresting the person.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 841-02-20"/>
+      </annotations>
     </section>
   </container>
 </container>

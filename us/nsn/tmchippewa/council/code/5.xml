@@ -16,7 +16,7 @@
     </section>
     <section>
       <num>5.0102</num>
-      <heading>Definitions. (Amended Resolution No. Tmbc442-09-15)</heading>
+      <heading>Definitions</heading>
       <para>
         <num>1.</num>
         <text>"CHILD" means any Indian person less than eighteen (18) years of age.</text>
@@ -475,7 +475,9 @@
         <num>58.</num>
         <text>"Participant" means any person who, of his or her own will, is physically present in a vehicle used in a drive-by shooting during the drive-by shooting.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 442-09-15"/>
+      </annotations>
     </section>
     <section>
       <num>5.0103</num>
@@ -2274,7 +2276,7 @@
     </section>
     <section>
       <num>5.1204</num>
-      <heading>Participating in a Criminal Street Gang.(Amended Resolution No. Tmbc442-09-15)</heading>
+      <heading>Participating in a Criminal Street Gang</heading>
       <text>A person commits participating in a criminal street gang by:</text>
       <para>
         <num>1.</num>
@@ -2296,11 +2298,13 @@
         <num>5.</num>
         <text>Committing, attempting to commit, or soliciting one or more gang-related offenses.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 442-09-15"/>
+      </annotations>
     </section>
     <section>
       <num>5.1205</num>
-      <heading>Gang Loitering(Amended Resolution No. Tmbc442-09-15)</heading>
+      <heading>Gang Loiteringl</heading>
       <para>
         <num>1.</num>
         <text>Whenever a police officer or security official observes a gang member engage in gang loitering with one or more other persons in a public place, the police officer or security official shall, subject to all applicable procedures promulgated by the Chief of Police:  (i)  inform all such persons that they are engage in gang loitering in a public place;  (ii)  order all such persons to disperse and remove themselves from within sight and hearing of the place at which the order was issued; and (iii)  inform those persons that they will be subject to arrest if they fail the order promptly or engage in further gang loitering within sight or hearing of the place at which the order was issued during the next eight (8) hours.</text>
@@ -2309,16 +2313,20 @@
         <num>2.</num>
         <text>Any person who fails to obey promptly an order issued under subsection (1) or who engages in further gang loitering within sight or hearing of the place at which such as order was issued during the eight-hour period following the time the order was issued, is subject to a fine and/or community service.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 442-09-15"/>
+      </annotations>
     </section>
     <section>
       <num>5.1206</num>
-      <heading>Drive-by Shooting. (Amended Resolution No. Tmbc442-09-15)</heading>
+      <heading>Drive-by Shooting</heading>
       <para>
         <num>1.</num>
         <text>A person commits drive-by shooting by intentionally discharging a firearm, paintball gun, BB or pellet gun, or the propulsion of any explosive device from a vehicle whether moving or stopped.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 442-09-15"/>
+      </annotations>
     </section>
   </container>
 </container>

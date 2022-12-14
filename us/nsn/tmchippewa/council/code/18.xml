@@ -203,7 +203,7 @@
     </section>
     <section>
       <num>18.0119</num>
-      <heading>License Fees. (Amended Resolution No. Tmbc1341-07-18)</heading>
+      <heading>License Fees</heading>
       <text>Every person or business issued or reissued a business license shall pay a license fee as follows:</text>
       <para>
         <num>1.</num>
@@ -229,7 +229,9 @@
         <num>6.</num>
         <text>Temporary business permit fee of $75.00 per day or less for a non-enrolled tribal member.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1341-07-18"/>
+      </annotations>
     </section>
     <section>
       <num>18.0120</num>

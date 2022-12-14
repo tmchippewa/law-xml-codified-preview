@@ -3699,8 +3699,16 @@
     <prefix>Chapter</prefix>
     <num>42.16</num>
     <heading>Appendix: Legislative History</heading>
-    <text>On July 27, 2006, the President of the United States signed into law the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901-16969), also known as the Sex Offender Registration and Notification Act (SORNA), which established a comprehensive national system for the registration of sex offenders. Section 127 of the Act requires each federally recognized Indian tribe that possesses criminal jurisdiction to either implement the provisions of the Act under its own authority or to allow the state government to implement it on the reservation.</text>
-    <text>In Resolution No. TMBC0311-07-07 (July 6, 2007), the Turtle Mountain Band of Chippewa Indians elected to carry out the duties of a jurisdiction under the Adam Walsh Act, rather than to allow the state of North Dakota to implement the Act within the Turtle Mountain Band of Chippewa Indian Reservation.</text>
-    <text>The Turtle Mountain Band of Chippewa Indians enacted the Turtle Mountain Sex Offender Registration Code in Resolution No. TMBC958-10-10 (November 10, 2010) to comply with Title I of the Adam Walsh Act. Resolution No. TMBC958-10-10 (November 10, 2010) specified that this Code and the associated manual be implemented by all relevant departments "forthwith", and for the purposes of complying with the tribe and SORNA.</text>
+    <section>
+      <num>42.1601</num>
+      <heading>Legislative History</heading>
+      <text>On July 27, 2006, the President of the United States signed into law the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901-16969), also known as the Sex Offender Registration and Notification Act (SORNA), which established a comprehensive national system for the registration of sex offenders. Section 127 of the Act requires each federally recognized Indian tribe that possesses criminal jurisdiction to either implement the provisions of the Act under its own authority or to allow the state government to implement it on the reservation.</text>
+      <text>In Resolution No. TMBC0311-07-07 (July 6, 2007), the Turtle Mountain Band of Chippewa Indians elected to carry out the duties of a jurisdiction under the Adam Walsh Act, rather than to allow the state of North Dakota to implement the Act within the Turtle Mountain Band of Chippewa Indian Reservation.</text>
+      <text>The Turtle Mountain Band of Chippewa Indians enacted the Turtle Mountain Sex Offender Registration Code in Resolution No. TMBC958-10-10 (November 10, 2010) to comply with Title I of the Adam Walsh Act. Resolution No. TMBC958-10-10 (November 10, 2010) specified that this Code and the associated manual be implemented by all relevant departments "forthwith", and for the purposes of complying with the tribe and SORNA.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 0311-07-07"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 958-10-10"/>
+      </annotations>
+    </section>
   </container>
 </container>

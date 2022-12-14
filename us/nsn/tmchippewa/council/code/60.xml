@@ -77,9 +77,11 @@
       </para>
       <para>
         <num>8.</num>
-        <text>"Proprietary records" means data belonging to the Gaming Enterprises or Tribal Business Enterprises, which may include but is not limited to financial information, intellectual property, such as concepts, designs, techniques, technical documentation, artwork, and the related data.  (Amended Resolution No. TMBC1519-11-18)</text>
+        <text>"Proprietary records" means data belonging to the Gaming Enterprises or Tribal Business Enterprises, which may include but is not limited to financial information, intellectual property, such as concepts, designs, techniques, technical documentation, artwork, and the related data.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -241,9 +243,11 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>Financial records of the Tribe's Gaming Enterprises and Tribal Business Enterprises which are proprietary records (Amended Resolution No. TMBC1519-11-18)</text>
+        <text>Financial records of the Tribe's Gaming Enterprises and Tribal Business Enterprises which are proprietary records</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+      </annotations>
     </section>
   </container>
   <container>

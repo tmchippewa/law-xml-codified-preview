@@ -9,35 +9,44 @@
     <heading>Definitions</heading>
     <section>
       <num>16.0101</num>
-      <heading>"Health Board Official" Shall Mean the Turtle Mountain Health Board or Its Authorized Representative</heading>
-      <text><strong>16.0102	"Individual sewage disposal system"</strong> shall mean a sewage disposal system, other than a public or community system, which receives either human excreta or liquid waste or both from one (1) premises. Included within the scope of this definition are septic tanks, soil absorption systems, privies and chemical type toilets and such other types as may be prescribed in regulations by the Turtle Mountain Tribal Health Board, and this Code.</text>
+      <text><strong>"Health Board official"</strong> shall mean the Turtle Mountain Health Board or its authorized representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0102</num>
+      <text><strong>"Individual sewage disposal system"</strong> shall mean a sewage disposal system, other than a public or community system, which receives either human excreta or liquid waste or both from one (1) premises. Included within the scope of this definition are septic tanks, soil absorption systems, privies and chemical type toilets and such other types as may be prescribed in regulations by the Turtle Mountain Tribal Health Board, and this Code.</text>
       <annotations/>
     </section>
     <section>
       <num>16.0103</num>
-      <heading>"Refuse Disposal System" Shall Mean a Sanitary Landfill Refuse Disposal System Which Receives All Forms of Refuse from One (1) Premises, or from the Public or Community</heading>
-      <text><strong>16.0104	"Refuse"</strong> as used in <cite path="16">this Title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
+      <text><strong>"Refuse disposal system"</strong> shall mean a sanitary landfill refuse disposal system which receives all forms of refuse from one (1) premises, or from the public or community.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0104</num>
+      <text><strong>"Refuse"</strong> as used in <cite path="16">this Title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
       <annotations/>
     </section>
     <section>
       <num>16.0105</num>
-      <heading>"Refuse Containers" Shall Be Made of Metal, Be Water Tight, Have Close-Fitting Covers, and Adequate Handles to Facilitate Collection. Such Refuse Containers Shall Be Not Less than Fifteen (15) Gallons nor More than Thirty (30) Gallons in Capacity</heading>
-      <text><strong>16.0106	"Permit</strong>" shall mean a written permit issued by the Health Board official permitting construction of an individual sewage disposal system, or a permit issued for the collection, transportation or disposal of refuse within the Turtle Mountain Jurisdiction.</text>
+      <text><strong>"Refuse containers"</strong> shall be made of metal, be water tight, have close-fitting covers, and adequate handles to facilitate collection. Such refuse containers shall be not less than fifteen (15) gallons nor more than thirty (30) gallons in capacity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.0106</num>
+      <text><strong>"Permit</strong>" shall mean a written permit issued by the Health Board official permitting construction of an individual sewage disposal system, or a permit issued for the collection, transportation or disposal of refuse within the Turtle Mountain Jurisdiction.</text>
       <annotations/>
     </section>
     <section>
       <num>16.0107</num>
-      <heading>"Person" Shall Mean Any Indian as Defined by Section 1.0301(6) of the Turtle Mountain Tribal Code</heading>
-      <text>
-        <strong>
-          <cite path="16.02">CHAPTER 16.02</cite>
-        </strong>
-      </text>
-      <text>
-        <strong>Requirements for Sewage Disposal Systems</strong>
-      </text>
+      <text><strong>"Person"</strong> shall mean any Indian as defined by <cite path="1|1.03|1.0301">Section 1.0301</cite>(6) of the Turtle Mountain Tribal Code.</text>
       <annotations/>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.02</num>
+    <heading>Requirements for Sewage Disposal Systems</heading>
     <section>
       <num>16.0201</num>
       <heading>Health Board to Establish Minimum Standards</heading>
@@ -1018,7 +1027,9 @@
       <num>16.1702</num>
       <heading>Authority</heading>
       <text>The Turtle Mountain Health Board is an integral part of the Turtle Mountain Overall Economic Development Plan adopted June 16, 1969, by the Tribal Council of the Turtle Mountain Band of Chippewa Indians. The Tribal Council has also recognized this health board in Resolution No. 429-7-70 of the duly elected certified Council on June 20, 1970. The Turtle Mountain Health Board is recognized by the Tribal Council as the authoritative body to assist in improving health conditions within the Turtle Mountain Jurisdiction through the alleviation of immediate and felt health problems of the people of the Turtle Mountains.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 429-7-070"/>
+      </annotations>
     </section>
     <section>
       <num>16.1703</num>

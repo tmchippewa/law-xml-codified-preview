@@ -262,46 +262,43 @@
         <num>19.</num>
         <text>A statement by the applicant that he consents to entry and inspection of the premises for which license is sought, or any part thereof at any time by any peace officer of this Tribe.</text>
       </para>
-      <text>
-        <strong>19.0108(1)</strong>
-        <strong>
-          <u>Alcoholic Beverage Server Training.</u>
-        </strong>
-      </text>
-      <text>A person that holds or makes application for a license or for renewal of a valid license issued by the Tribal Council pursuant to <strong><cite path="19.0108">Chapter 19.0108</cite> License; Application for. </strong>which authorizes the sale of alcoholic beverages, as part of the application process, shall certify to the Tribal Council that the applicant's employees who, as part of the employees' responsibilities, sell, prepare, dispense, serve or otherwise deliver alcoholic beverages directly to patrons of the licensed establishment, or who manage employees who perform those functions, have successfully completed an Alcoholic Beverage Server Training program (reviewed by TERO and) recognized and approved by the Tribal Council in accordance with <cite path="19.01">this Chapter</cite>. An applicant who participates directly in the management of the licensed establishment also is required to successfully complete a Responsible Beverage Server Training program recognized and approved by the Tribal Council.  Amended-TMBC1151-08-20</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>19.0108.1</num>
+      <heading>Alcoholic Beverage Server Training</heading>
+      <text>A person that holds or makes application for a license or for renewal of a valid license issued by the Tribal Council pursuant to <strong><cite path="19.0108">Chapter 19.0108</cite> License; Application for. </strong>which authorizes the sale of alcoholic beverages, as part of the application process, shall certify to the Tribal Council that the applicant's employees who, as part of the employees' responsibilities, sell, prepare, dispense, serve or otherwise deliver alcoholic beverages directly to patrons of the licensed establishment, or who manage employees who perform those functions, have successfully completed an Alcoholic Beverage Server Training program (reviewed by TERO and) recognized and approved by the Tribal Council in accordance with <cite path="19.01">this Chapter</cite>. An applicant who participates directly in the management of the licensed establishment also is required to successfully complete a Responsible Beverage Server Training program recognized and approved by the Tribal Council.  <strong><u>Training Standards and Curriculum.</u></strong></text>
+      <text>To be recognized an approved by the Tribal Council, an <strong>Alcoholic Beverage Server Training </strong>program must include information on the following:</text>
       <para>
-        <num>1.</num>
-        <heading>Training Standards and Curriculum.</heading>
-        <text>To be recognized an approved by the Tribal Council, an <strong>Alcoholic Beverage Server Training </strong>program must include information on the following:</text>
-        <para>
-          <num>a.</num>
-          <text>Alcohol as a drug and alcohol's effects on the body and behavior;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Applicable state and Tribal laws and Tribal Council or TERO licensing authority rules;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Laws related to drinking and driving;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Intervention techniques, involving methods of dealing with problem customer who has had, or is approaching the point of having consumed too much alcohol; and</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Carding procedures and importance of not selling or serving alcohol to any individual under twenty-one (21) years of age.</text>
-        </para>
-        <text>The Tribal Council may provide additional training standards and curricula to be included within any responsible <strong>alcoholic beverage server training program</strong> as condition for recognition and approval.</text>
-        <text>An individual required to undergo training in accordance with <cite path="19.01">this Chapter</cite>, who has within the previous three years successfully completed an <strong>Alcoholic Beverage Server Training </strong>program that satisfies the requirements of the Tribal Council, and is approved by the Tribal Council, is not required to undergo renewal training in accordance with <strong><u><cite path="19|19.01|19.0108">Section 19.0108</cite> License; Application for</u></strong><strong>.</strong></text>
+        <num>a.</num>
+        <text>Alcohol as a drug and alcohol's effects on the body and behavior;</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>b.</num>
+        <text>Applicable state and Tribal laws and Tribal Council or TERO licensing authority rules;</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>Laws related to drinking and driving;</text>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>Intervention techniques, involving methods of dealing with problem customer who has had, or is approaching the point of having consumed too much alcohol; and</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>Carding procedures and importance of not selling or serving alcohol to any individual under twenty-one (21) years of age.</text>
+      </para>
+      <text>The Tribal Council may provide additional training standards and curricula to be included within any responsible <strong>alcoholic beverage server training program</strong> as condition for recognition and approval.</text>
+      <text>An individual required to undergo training in accordance with <cite path="19.01">this Chapter</cite>, who has within the previous three years successfully completed an <strong>Alcoholic Beverage Server Training </strong>program that satisfies the requirements of the Tribal Council, and is approved by the Tribal Council, is not required to undergo renewal training in accordance with <strong><u><cite path="19|19.01|19.0108">Section 19.0108</cite> License; Application for</u></strong><strong>.</strong></text>
+      <para>
+        <num>1.</num>
         <heading>Certification and Renewal Training.</heading>
         <text>An individual who successfully completes an approved <strong>Alcoholic Beverage Server Training </strong>program must be certified by the instructor as having met the requirements of <cite path="19.01">this Chapter</cite>. The course must be approved by the Tribal Council. The instructor shall provide the names of the individuals who successfully complete the approved class, as well as any additional information that is required, to the Tribal Council and TERO - the local licensing authority. The certification is valid for three years at which time the individual must undergo renewal training to retain certification that also is valid for three years. Renewal training must include the information described in <strong>Training Standards and Curriculum </strong>and any additional information as the Tribal Council may require by rule</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1151-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>19.0109</num>
@@ -393,8 +390,10 @@
     <section>
       <num>19.0116</num>
       <heading>Hours and Time of Sale</heading>
-      <text>A person may not dispense or permit the consumption of alcoholic beverages on a licensed premises between two a.m. and eleven a.m. on Sundays, between the hours of two a.m. and eight a.m. on all other days of the week, or on Christmas Day or after six p.m. on Christmas Eve. In addition, a person may not provide off sale after two a.m. on Thanksgiving Day or between two a.m. and noon on Sundays. A person that violates <cite path="19|19.01|19.0116">this section</cite> is guilty of a class 3 offense.  Amended-Resolution No. TMBC857-02-18</text>
-      <annotations/>
+      <text>A person may not dispense or permit the consumption of alcoholic beverages on a licensed premises between two a.m. and eleven a.m. on Sundays, between the hours of two a.m. and eight a.m. on all other days of the week, or on Christmas Day or after six p.m. on Christmas Eve. In addition, a person may not provide off sale after two a.m. on Thanksgiving Day or between two a.m. and noon on Sundays. A person that violates <cite path="19|19.01|19.0116">this section</cite> is guilty of a class 3 offense.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 857-02-18"/>
+      </annotations>
     </section>
     <section>
       <num>19.0117</num>

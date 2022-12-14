@@ -9154,12 +9154,14 @@
   <container>
     <prefix>Chapter</prefix>
     <num>24.30</num>
-    <heading>Letters of Credit(Amended-Resolution No. Tmbc1150-08-20)</heading>
+    <heading>Letters of Credit</heading>
     <section>
       <num>24.3001</num>
       <heading>Short Title</heading>
       <text><cite path="24.30">This chapter</cite> may be cited as the Uniform Commercial Code - Letters of Credit.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3002</num>
@@ -9272,7 +9274,9 @@
         <num>3.</num>
         <text><cite path="24.01">Chapter 24.01</cite> contains certain additional general definitions and principles of construction and interpretation applicable throughout <cite path="24.30">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3003</num>
@@ -9293,7 +9297,9 @@
         <num>4.</num>
         <text>Rights and obligations of an issuer to a beneficiary or a nominated person under a letter of credit are independent of the existence, performance, or nonperformance of a contract or arrangement out of which the letter of credit arises or which underlies it, including contracts or arrangements between the issuer and the applicant and between the applicant and the beneficiary.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3004</num>
@@ -9307,13 +9313,17 @@
         <num>2.</num>
         <text>In accordance with the agreement of the parties or the standard practice referred to in subsection 5 of <cite path="24|24.30|24.3008">section 24.3008</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3005</num>
       <heading>Consideration</heading>
       <text>Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or confirmation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3006</num>
@@ -9334,7 +9344,9 @@
         <num>4.</num>
         <text>A letter of credit that states that it is perpetual expires five years after its stated date of issuance, or if none is stated, after the date on which it is issued.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3007</num>
@@ -9355,7 +9367,9 @@
         <num>4.</num>
         <text>A person who notifies a transferee beneficiary of the terms of a letter of credit, confirmation, amendment, or advice has the rights and obligations of an adviser under subsection 3. The terms in the notice to the transferee beneficiary may differ from the terms in any notice to the transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment, or advice received by the person who so notifies.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3008</num>
@@ -9440,7 +9454,9 @@
           <text>Is discharged to the extent of its performance under the letter of credit unless the issuer honored a presentation in which a required signature of a beneficiary was forged.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3009</num>
@@ -9493,7 +9509,9 @@
           <text>On the basis of the information submitted to the court, the applicant is more likely than not to succeed under its claim of forgery or material fraud and the person demanding honor does not qualify for protection under subdivision a of subsection 1.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3010</num>
@@ -9514,7 +9532,9 @@
         <num>2.</num>
         <text>The warranties in subsection 1 are in addition to warranties arising under chapters 24.14-24.19, 24.20-24.24, 24.32-37, and 24.38-24.42 because of the presentation or transfer of documents covered by any of those chapters.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3011</num>
@@ -9543,7 +9563,9 @@
         <num>6.</num>
         <text>Damages that would otherwise be payable by a party for breach of an obligation under <cite path="24.30">this chapter</cite> may be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of the harm anticipated.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3012</num>
@@ -9564,7 +9586,9 @@
           <text>The transferor or transferee has failed to comply with any requirement stated in the letter of credit or any other requirement relating to transfer imposed by the issuer which is within the standard practice referred to in subsection 5 of <cite path="24|24.30|24.3008">section 24.3008</cite> or is otherwise reasonable under the circumstances.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3013</num>
@@ -9593,7 +9617,9 @@
         <num>6.</num>
         <text>A beneficiary whose name is changed after the issuance of a letter of credit has the same rights and obligations as a successor of a beneficiary under <cite path="24|24.30|24.3013">this section</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3014</num>
@@ -9622,13 +9648,17 @@
         <num>6.</num>
         <text>Neither the rights recognized by <cite path="24|24.30|24.3014">this section</cite> between an assignee and an issuer, transferee beneficiary, or nominated person nor the issuer's or nominated person's payment of proceeds to an assignee or a third person affect the rights between the assignee and any person other than the issuer, transferee beneficiary, or nominated person. The mode of creating and perfecting a security interest in or granting an assignment of a beneficiary's rights to proceeds is governed by <cite path="24.42">chapter 24.42</cite> or other law. Against persons other than the issuer, transferee beneficiary, or nominated person, the rights and obligations arising upon the creation of a security interest or other assignment of a beneficiary's right to proceeds and its perfection are governed by <cite path="24.42">chapter 24.42</cite> or other law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3015</num>
       <heading>Statute of Limitations</heading>
       <text>An action to enforce a right or obligation arising under <cite path="24.30">this chapter</cite> must be commenced within one year after the expiration date of the relevant letter of credit or one year after the claim for relief accrues, whichever occurs later. A claim for relief accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3016</num>
@@ -9665,7 +9695,9 @@
         <num>5.</num>
         <text>The forum for settling disputes arising out of an undertaking within <cite path="24.30">this chapter</cite> may be chosen in the manner and with the binding effect that governing law may be chosen in accordance with subsection 1.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3017</num>
@@ -9698,7 +9730,9 @@
         <num>4.</num>
         <text>Notwithstanding any agreement or term to the contrary, the rights of subrogation stated in subsections 1 and 2 do not arise until the issuer honors the letter of credit or otherwise pays and the rights in subsection 3 do not arise until the nominated person pays or otherwise gives value. Until then, the issuer, nominated person, and the applicant do not derive under <cite path="24|24.30|24.3017">this section</cite> present or prospective rights forming the basis of a claim, defense, or excuse.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.3018</num>
@@ -9723,7 +9757,9 @@
           <text>If the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document so long as the debtor does not have possession of the document.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -12267,12 +12303,14 @@
   <container>
     <prefix>Chapter</prefix>
     <num>24.42</num>
-    <heading>Secured Transactions(Amended-Resolution No. Tmbc1150-08-20)</heading>
+    <heading>Secured Transactions</heading>
     <section>
       <num>24.4201</num>
       <heading>Short Title</heading>
       <text><cite path="24.42">This chapter</cite> may be cited as Uniform Commercial Code - Secured Transactions.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4202</num>
@@ -13304,7 +13342,9 @@
         <num>3.</num>
         <text><cite path="24.01">Chapter 24.01</cite> contains general definitions and principles of construction and interpretation applicable throughout <cite path="24.42">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4203</num>
@@ -13397,7 +13437,9 @@
         <num>7.</num>
         <text>A secured party claiming a purchase-money security interest has the burden of establishing the extent to which the security interest is a purchase-money security interest.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4204</num>
@@ -13422,7 +13464,9 @@
         <num>2.</num>
         <text>A secured party that has satisfied subsection 1 has control, even if the debtor retains the right to direct the disposition of funds from the deposit account or uncertificated certificate of deposit.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4205</num>
@@ -13459,7 +13503,9 @@
           <text>Any amendment of the authoritative copy is readily identifiable as an authorized or unauthorized revision</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4206</num>
@@ -13484,13 +13530,17 @@
         <num>3.</num>
         <text>A secured party having control of all security entitlements or commodity contracts carried in a securities account or commodity account has control over the securities account or commodity account.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4207</num>
       <heading>Control of Letter-of-Credit Right</heading>
       <text>A secured party has control of a letter-of-credit right to the extent of any right to payment or performance by the issuer or any nominated person if the issuer or nominated person has consented to an assignment of proceeds of the letter of credit under subsection 3 of <cite path="24|24.30|24.3014">section 24.3014</cite> or otherwise applicable law or practice</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4208</num>
@@ -13555,7 +13605,9 @@
           <text>A security entitlement, a securities account, or a commodity account.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4209</num>
@@ -13688,7 +13740,9 @@
           <text>A transfer by this state or a governmental unit of this state.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4210</num>
@@ -13710,19 +13764,25 @@
         <num>4.</num>
         <text>The security interest has priority over a conflicting security interest created by the debtor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4211</num>
       <heading>General Effectiveness of Security Agreement</heading>
       <text>A security agreement is effective according to the security agreement's terms between the parties, against purchasers of the collateral, and against creditors.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4212</num>
       <heading>Title to Collateral Immaterial</heading>
       <text>Except as otherwise provided with respect to consignments or sales of accounts, chattel paper, payment intangibles, or promissory notes, the provisions of <cite path="24.42">this chapter</cite> with regard to rights and obligations apply whether title to collateral is in the secured party or the debtor.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4213</num>
@@ -13811,7 +13871,9 @@
         <num>10.</num>
         <text>An unrecorded conveyance of real estate is void as against any subsequent purchaser in good faith, and for a valuable consideration, of the same real estate or any part of the same real estate, regardless of whether recorded in the form of a warranty deed or deed of quitclaim and release or the form in common use first is recorded or as against an attachment on the property or judgment, against the owner of record, before the recording of the conveyance.  The fact that the first recorded conveyance is a quitclaim deed does not affect the question of good faith of the subsequent purchaser, or be of itself notice of any unrecorded conveyance of the same real estate or any part of the same real estate.  <cite path="24|24.42|24.4213">This section</cite> is notice to all who claim under unrecorded instruments that prior recording of later instruments may nullify their title to or lien on affected real property.  An action affecting any title to or lien on real property may not be commenced or defense or counterclaim asserted on the ground that a recorded instrument was not entitled to be recorded.  The record of all instruments whether or not entitled to be recorded is deemed valid and sufficient as the legal record of the instruments.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4214</num>
@@ -13836,7 +13898,9 @@
         <num>3.</num>
         <text>A security agreement may provide that collateral secures, or that accounts, chattel paper, payment intangibles, or promissory notes are sold in connection with, future advances or other value, regardless of whether the advances or value is given pursuant to commitment.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4215</num>
@@ -13873,7 +13937,9 @@
         <num>2.</num>
         <text><cite path="24|24.42|24.4215">This section</cite> does not relax the requirements of possession if attachment, perfection, or enforcement of a security interest depends upon possession of the collateral by the secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4216</num>
@@ -13918,7 +13984,9 @@
         <num>4.</num>
         <text>The security interest described in subsection 3 secures the obligation to make payment for the delivery.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4217</num>
@@ -13995,7 +14063,9 @@
           <text>Subsections 2 and 3 do not apply.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4218</num>
@@ -14064,7 +14134,9 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4219</num>
@@ -14089,7 +14161,9 @@
         <num>3.</num>
         <text><cite path="24|24.42|24.4219">This section</cite> does not apply to an assignment constituting the sale of an account, chattel paper, or payment intangible</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4220</num>
@@ -14155,7 +14229,9 @@
         </para>
         <text>A debtor is entitled without charge to one response to a request under <cite path="24|24.42|24.4220">this section</cite> during any six-month period. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4221</num>
@@ -14186,13 +14262,17 @@
         </para>
         <text>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in as-extracted collateral.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4222</num>
       <heading>Law Governing Perfection and Priority of Agricultural Law</heading>
       <text>While farm products are located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or non-perfection, and the priority of an agricultural lien on the farm products.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4223</num>
@@ -14209,7 +14289,9 @@
         <num>3.</num>
         <text>The local law of the jurisdiction under whose certificate of title the goods are covered governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in goods covered by a certificate of title from the time the goods become covered by the certificate of title until the goods cease to be covered by the certificate of title.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4224</num>
@@ -14242,7 +14324,9 @@
           <text>If none of the preceding subdivisions applies, the bank's jurisdiction is the jurisdiction in which the chief executive office of the bank is located.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4225</num>
@@ -14307,7 +14391,9 @@
           <text>Automatic perfection of a security interest in a commodity contract or commodity account created by a commodity intermediary.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4226</num>
@@ -14324,7 +14410,9 @@
         <num>3.</num>
         <text><cite path="24|24.42|24.4226">This section</cite> does not apply to a security interest that is perfected only under subsection 4 of <cite path="24|24.42|24.4228">section 24.4228</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4227</num>
@@ -14405,7 +14493,9 @@
         <num>11.</num>
         <text><cite path="24|24.42|24.4227">This section</cite> applies only for purposes of this part.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4228</num>
@@ -14438,7 +14528,9 @@
         <num>7.</num>
         <text>Perfection of a security interest in a commodity account also perfects a security interest in the commodity contracts carried in the commodity account.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4229</num>
@@ -14500,7 +14592,9 @@
         <num>14.</num>
         <text>A sale by an individual of an account that is a right to payment of winnings in a lottery or other game of chance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4230</num>
@@ -14557,7 +14651,9 @@
         <num>3.</num>
         <text>If a secured party assigns a perfected security interest or agricultural lien, a filing under <cite path="24.42">this chapter</cite> is not required to continue the perfected status of the security interest against creditors of and transferees from the original debtor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4231</num>
@@ -14586,7 +14682,9 @@
         <num>4.</num>
         <text>During any period in which collateral subject to a statute specified in subdivision b of subsection 1 is inventory held for sale or lease by a person or leased by that person as lessor and that person is in the business of selling goods of that kind, <cite path="24|24.42|24.4231">this section</cite> does not apply to a security interest in that collateral created by that person.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4232</num>
@@ -14671,7 +14769,9 @@
         <num>8.</num>
         <text>After the twenty-day period specified in subsection 5, 6, or 7 expires, perfection depends upon compliance with <cite path="24.42">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4233</num>
@@ -14736,7 +14836,9 @@
         <num>9.</num>
         <text>A secured party does not relinquish possession, even if a delivery under subsection 8 violates the rights of a debtor. A person to which collateral is delivered under subsection 8 does not owe any duty to the secured party and is not required to confirm the delivery to another person unless the person otherwise agrees or law other than <cite path="24.42">this chapter</cite> otherwise provides.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4234</num>
@@ -14770,7 +14872,9 @@
           <text>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4235</num>
@@ -14843,7 +14947,9 @@
           <text>The twenty-first day after the security interest attaches to the proceeds.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>22.4236</num>
@@ -14940,7 +15046,9 @@
           <text>A security interest that is perfected by the financing statement and which becomes perfected under the law of the other jurisdiction before the earlier of the expiration of the four-month period or the time the financing statement would have become ineffective under the law of the jurisdiction designated in subsection 1 of <cite path="24|24.24|24.2421">section 24.2421</cite> or subsection 3 of <cite path="24|24.42|24.42425">section 24.42425</cite> remains perfected thereafter. A security interest that is perfected by the financing statement but which does not become perfected under the law of the other jurisdiction before the earlier time or event becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4237</num>
@@ -14981,7 +15089,9 @@
         <num>5.</num>
         <text>Except as otherwise provided in sections 24.4240 and 24.4241, if a person files a financing statement with respect to a purchase-money security interest before or within twenty days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4238</num>
@@ -14994,7 +15104,9 @@
         <num>2.</num>
         <text>For purposes of determining the rights of creditors of, and purchasers for value of an account or chattel paper from, a debtor that has sold an account or chattel paper, while the buyer's security interest is unperfected, the debtor is deemed to have rights and title to the account or chattel paper identical to those the debtor sold.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4239</num>
@@ -15007,7 +15119,9 @@
         <num>2.</num>
         <text>For purposes of determining the rights of a creditor of a consignee, law other than <cite path="24.42">this chapter</cite> determines the rights and title of a consignee while goods are in the consignee's possession if, under this part, a perfected security interest held by the consignor would have priority over the rights of the creditor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4240</num>
@@ -15104,7 +15218,9 @@
           <text>The crop or livestock buyer has complied with the requirements of subsection 7;</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4241</num>
@@ -15121,7 +15237,9 @@
         <num>3.</num>
         <text>A lessee in ordinary course of business takes its leasehold interest free of a security interest in the goods created by the lessor, even if the security interest is perfected and the lessee knows of its existence.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4242</num>
@@ -15210,7 +15328,9 @@
         <num>7.</num>
         <text>A perfected agricultural lien on collateral has priority over the conflicting rights of a lien creditor and over a conflicting security interest in or agricultural lien on the same collateral if the statute creating the agricultural lien so provides.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4243</num>
@@ -15283,7 +15403,9 @@
         <num>7.</num>
         <text>Subsection 6 does not apply if the advance is made pursuant to a commitment entered into without knowledge of the lease and before the expiration of the forty-five-day period.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4244</num>
@@ -15372,7 +15494,9 @@
           <text>In all other cases, subsection 1 of <cite path="24|24.42|24.4242">section 24.4242</cite> applies to the qualifying security interests.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4245</num>
@@ -15405,7 +15529,9 @@
           <text>Arose solely under subsection 3 of <cite path="24|24.42|24.4290">section 24.4290</cite> or subsection 5 of <cite path="24|24.13|24.1308">section 24.1308</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4246</num>
@@ -15418,7 +15544,9 @@
         <num>2.</num>
         <text>The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements described in subsection 1. However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor's having become bound</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4247</num>
@@ -15440,7 +15568,9 @@
         <num>4.</num>
         <text>A security interest perfected by control under subdivision c of subsection 1 of <cite path="24|24.42|24.4204">section 24.4204</cite> has priority over a security interest held by the bank with which the deposit account or uncertificated certificate of deposit is maintained.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4248</num>
@@ -15498,7 +15628,9 @@
         <num>7.</num>
         <text>In all other cases, priority among conflicting security interests in investment property is governed by sections 41-09-42 and 41-09-43.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4249</num>
@@ -15512,7 +15644,9 @@
         <num>2.</num>
         <text>Security interests perfected by control under <cite path="24|24.42|24.4234">section 24.4234</cite> rank according to priority in time of obtaining control.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4250</num>
@@ -15557,7 +15691,9 @@
         <num>6.</num>
         <text>For purposes of subsections 2 and 4, if chattel paper or an instrument indicates that it has been assigned to an identified secured party other than the purchaser, a purchaser of the chattel paper or instrument has knowledge that the purchase violates the rights of the secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4251</num>
@@ -15574,7 +15710,9 @@
         <num>3.</num>
         <text>Filing under <cite path="24.42">this chapter</cite> does not constitute notice of a claim or defense to the holders, purchasers, or persons described in subsections 1 and 2.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4252</num>
@@ -15587,7 +15725,9 @@
         <num>2.</num>
         <text>A transferee of funds from a deposit account takes the funds free of a security interest in the deposit account unless the transferee acts in collusion with the debtor in violating the rights of the secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4253</num>
@@ -15612,7 +15752,9 @@
         <num>2.</num>
         <text>A possessory lien on goods has priority over a security interest in the goods unless the lien is created by a statute that expressly provides otherwise.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4254</num>
@@ -15717,7 +15859,9 @@
         <num>9.</num>
         <text>A perfected security interest in crops growing on real property has priority over a conflicting interest of an encumbrancer or owner of the real property if the debtor has an interest of record in or is in possession of the real property.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4255</num>
@@ -15746,7 +15890,9 @@
         <num>6.</num>
         <text>A secured party that removes an accession from other goods under subsection 5 shall promptly reimburse any holder of a security interest or other lien on, or owner of, the whole or of the other goods, other than the debtor, for the cost of repair of any physical injury to the whole or the other goods. The secured party need not reimburse the holder or owner for any diminution in value of the whole or the other goods caused by the absence of the accession removed or by any necessity for replacing it. A person entitled to reimbursement may refuse permission to remove until the secured party gives adequate assurance for the performance of the obligation to reimburse.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4256</num>
@@ -15783,7 +15929,9 @@
           <text>If more than one security interest is perfected under subsection 4, the security interests rank equally in proportion to the value of the collateral at the time it became commingled goods.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4257</num>
@@ -15797,7 +15945,9 @@
         <num>2.</num>
         <text>The security interest is subordinate to a conflicting security interest in the goods that attaches, and is perfected under subsection 2 of <cite path="24|24.42|24.4231">section 24.4231</cite>, after issuance of the certificate and without the conflicting secured party's knowledge of the security interest.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4258</num>
@@ -15811,13 +15961,17 @@
         <num>2.</num>
         <text>A purchaser, other than a secured party, of the collateral takes free of the security interest to the extent that, in reasonable reliance upon the incorrect information, the purchaser gives value and, in the case of tangible chattel paper, tangible documents, goods, instruments, or a security certificate, receives delivery of the collateral.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4259</num>
       <heading>Priority Subject to Subordination</heading>
       <text><cite path="24.42">This chapter</cite> does not preclude subordination by agreement by a person entitled to priority.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4260</num>
@@ -15834,7 +15988,9 @@
         <num>3.</num>
         <text>The exercise by a bank of a setoff against a deposit account or certificate of deposit is ineffective against a secured party that holds a security interest in the deposit account or certificate of deposit which is perfected by control under subdivision c of subsection 1 of <cite path="24|24.42|24.4204">section 24.4204</cite>, if the setoff is based on a claim against the debtor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4261</num>
@@ -15852,13 +16008,17 @@
         <num>3.</num>
         <text>The bank's receipt of instructions from the secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4262</num>
       <heading>Bank's Right to Refuse to Enter into or Disclose Existence of Control Agreement</heading>
       <text><cite path="24.42">This chapter</cite> does not require a bank to enter into an agreement of the kind described in subdivision b of subsection 1 of <cite path="24|24.42|24.4204">section 24.4204</cite>, even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4263</num>
@@ -15871,13 +16031,17 @@
         <num>2.</num>
         <text>An agreement between the debtor and secured party which prohibits a transfer of the debtor's rights in collateral or makes the transfer a default does not prevent the transfer from taking effect.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4264</num>
       <heading>Secured Party Not Obligated on Contract of Debtor or in Tort</heading>
       <text>The existence of a security interest, agricultural lien, or authority given to a debtor to dispose of or use collateral, without more, does not subject a secured party to liability in contract or tort for the debtor's acts or omissions.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4265</num>
@@ -15906,7 +16070,9 @@
           <text>Without notice of a defense or claim in recoupment of the type that may be asserted against a person entitled to enforce a negotiable instrument under subsection 1 of <cite path="24|24.16|24.1605">section 24.1605</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4266</num>
@@ -15939,7 +16105,9 @@
         <num>5.</num>
         <text><cite path="24|24.42|24.4266">This section</cite> does not apply to an assignment of a health care insurance receivable.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4267</num>
@@ -15968,7 +16136,9 @@
         <num>4.</num>
         <text><cite path="24|24.42|24.4267">This section</cite> does not apply to an assignment of a health care insurance receivable.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4268</num>
@@ -16049,7 +16219,9 @@
         <num>9.</num>
         <text><cite path="24|24.42|24.4268">This section</cite> does not apply to an assignment of a health care insurance receivable.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4269</num>
@@ -16082,7 +16254,9 @@
         <num>3.</num>
         <text>The creation, attachment, perfection, or enforcement of a security interest in the lessor's interest under the lease contract or the lessor's residual interest in the goods is not a transfer that materially impairs the lessee's prospect of obtaining return performance or materially changes the duty of or materially increases the burden or risk imposed on the lessee within the purview of subsection 4 of <cite path="24|24.44|24.4411">section 24.4411</cite> unless, and then only to the extent that, enforcement actually results in a delegation of material performance of the lessor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4270</num>
@@ -16143,7 +16317,9 @@
           <text>Does not entitle the secured party to enforce the security interest in the promissory note, health care insurance receivable, or general intangible.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4271</num>
@@ -16172,7 +16348,9 @@
           <text>Imposes no duties or obligations on the applicant, issuer, nominated person, or transferee beneficiary; and does not require the applicant, issuer, nominated person, or transferee beneficiary to recognize the security interest, pay or render performance to the secured party, or accept payment or other performance from the secured party.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4273</num>
@@ -16265,7 +16443,9 @@
         <num>6.</num>
         <text>Any social security number or internal revenue service taxpayer identification number submitted on a financing statement filed pursuant to <cite path="24.42">this chapter</cite> as a central indexing filing is an exempt record as defined by subsection c below and may not be disclosed as part of any search   under   <cite path="24|24.42|24.4294">section 24.4294</cite> or 24.4296 or as part of a copy of the record. A filing office or an officer or employee of the filing office may not be held civilly or criminally liable for the inadvertent disclosure of a social security or internal revenue service taxpayer identification number if the filer has placed the number in an improper field on the form prescribed by the secretary of state or the filer submitted a filing other than on the form prescribed by the secretary of state.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4274</num>
@@ -16374,7 +16554,9 @@
           <text>In other cases, the name of the settlor or testator indicated in the trust's organic record.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4275</num>
@@ -16388,7 +16570,9 @@
         <num>2.</num>
         <text>An indication that the financing statement covers all assets or all personal property.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4276</num>
@@ -16398,7 +16582,9 @@
         <num>1.</num>
         <text>This part applies to the filing of a financing statement under subsection 1 and, as appropriate, to compliance that is equivalent to filing a financing statement under subsection 2 of <cite path="24|24.42|24.4231">section 24.4231</cite>, but the filing or compliance is not of itself a factor in determining whether the collateral secures an obligation. If it is determined for another reason that the collateral secures an obligation, a security interest held by the consignor, lessor, bailor, licensor, owner, or buyer which attaches to the collateral is perfected by the filing or compliance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4277</num>
@@ -16419,7 +16605,9 @@
         <num>4.</num>
         <text>For purposes of subsection 2 of <cite path="24|24.42|24.4279">section 24.4279</cite>, the "debtor's correct name" in subsection 3 means the correct name of the new debtor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4278</num>
@@ -16444,7 +16632,9 @@
           <text>The financing statement is not effective to perfect a security interest in collateral acquired by the debtor more than four months after the filed financing statement becomes seriously misleading, unless an amendment to the financing statement which renders the financing statement not seriously misleading is filed within four months after that event.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4279</num>
@@ -16469,7 +16659,9 @@
         <num>3.</num>
         <text><cite path="24|24.42|24.4279">This section</cite> does not apply to collateral as to which a filed financing statement remains effective against the new debtor under subsection 1 of <cite path="24|24.42|24.4278">section 24.4278</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4280</num>
@@ -16518,7 +16710,9 @@
         <num>5.</num>
         <text>If there is more than one secured party of record for a financing statement, each secured party of record may authorize the filing of an amendment under subsection 4.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4281</num>
@@ -16535,7 +16729,9 @@
         <num>3.</num>
         <text>A continuation statement that is not filed within the six-month period prescribed by subsection 4 of <cite path="24|24.42|24.4286">section 24.4286</cite> is ineffective.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4282</num>
@@ -16552,7 +16748,9 @@
         <num>3.</num>
         <text>A person remains a secured party of record until the filing of an amendment of the financing statement which deletes the person.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4283</num>
@@ -16593,7 +16791,9 @@
           <text>Purports to delete all secured parties of record and fails to provide the name of a new secured party of record.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4284</num>
@@ -16610,7 +16810,9 @@
         <num>3.</num>
         <text>The fee for filing and indexing a termination statement is included in the fee for filing the financing statement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4285</num>
@@ -16639,7 +16841,9 @@
         <num>3.</num>
         <text>An assignment of record of a security interest in a fixture covered by a record of a mortgage which is effective as a financing statement filed as a fixture filing under subsection 3 of <cite path="24|24.42|24.4273">section 24.4273</cite> may be made only by an assignment of record of the mortgage in the manner provided by law of this state other than <cite path="24">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4286</num>
@@ -16668,7 +16872,9 @@
         <num>6.</num>
         <text>If a debtor is a transmitting utility and a filed initial financing statement so indicates, the financing statement is effective until a termination statement is filed.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4287</num>
@@ -16761,13 +16967,17 @@
         <num>4.</num>
         <text>A record that is communicated to the filing office with tender of the filing fee, but which the filing office refuses to accept for a reason other than one set forth in subsection 2, is effective as a filed record except as against a purchaser of the collateral which gives value in reasonable reliance upon the absence of the record from the files.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4288</num>
       <heading>Effect of Indexing Errors</heading>
       <text>The failure of the filing office to index a record correctly does not affect the effectiveness of the filed record.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4289</num>
@@ -16816,7 +17026,9 @@
         <num>5.</num>
         <text>The filing of an information statement does not affect the effectiveness of an initial financing statement or other filed record.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4290</num>
@@ -16909,7 +17121,9 @@
         <num>8.</num>
         <text>The filing office shall perform the acts required by subsections 1 through 5 at the time and in the manner prescribed by filing-office rule, but not later than two business days after the filing office receives the record in question.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4291</num>
@@ -16930,7 +17144,9 @@
         <num>4.</num>
         <text>If a record communicated to a filing office provides information that relates to more than one debtor, this part applies as to each debtor separately.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4292</num>
@@ -16943,7 +17159,9 @@
         <num>2.</num>
         <text>A filing office that accepts written records may not refuse to accept a written record in the form and format established by the secretary of state, except for a reason set forth in subsection 2 of <cite path="24|24.42|24.4287">section 24.4287</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4293</num>
@@ -16956,7 +17174,9 @@
         <num>2.</num>
         <text>Except to the extent that a statute governing disposition of public records provides otherwise, the filing office immediately may destroy any written record evidencing a financing statement. However, if the filing office destroys a written record, it shall maintain another record of the financing statement which complies with subsection 1.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4294</num>
@@ -16993,7 +17213,9 @@
           <text>The information provided in each statement and each financing statement.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4295</num>
@@ -17007,7 +17229,9 @@
         <num>2.</num>
         <text>The filing office exercises reasonable diligence under the circumstances.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4296</num>
@@ -17020,7 +17244,9 @@
         <num>2.</num>
         <text>(REPEALED AND RESERVED FOR FUTURE USE)</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4297</num>
@@ -17034,7 +17260,9 @@
         <num>2.</num>
         <text>Adopted and published in accordance with Title 22.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4298</num>
@@ -17087,7 +17315,9 @@
         <num>7.</num>
         <text>Except as otherwise provided in subsection 3 of <cite path="24|24.42|24.42104">section 24.42104</cite>, sections 24.4298 through 24.42123 impose no duties upon a secured party that is a consignor or is a buyer of accounts, chattel paper, payment intangibles, or promissory notes.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.4299</num>
@@ -17145,7 +17375,9 @@
         <num>13.</num>
         <text>Sections 24.42120 and 24.42121, which deal with the secured party's liability for failure to comply with <cite path="24.42">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42100</num>
@@ -17158,7 +17390,9 @@
         <num>2.</num>
         <text>Subsection 1 does not apply to the duty under <cite path="24|24.42|24.42106">section 24.42106</cite> to refrain from breaching the peace.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42101</num>
@@ -17195,7 +17429,9 @@
         <num>4.</num>
         <text>A secured party that removes collateral shall promptly reimburse any encumbrancer or owner of the real property, other than the debtor, for the cost of repair of any physical injury caused by the removal. The secured party need not reimburse the encumbrancer or owner for any diminution in value of the real property caused by the absence of the goods removed or by any necessity of replacing them. A person entitled to reimbursement may refuse permission to remove until the secured party gives adequate assurance for the performance of the obligation to reimburse.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42102</num>
@@ -17229,13 +17465,17 @@
           <text>The identity of the person.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42103</num>
       <heading>Time of Default for Agricultural Lien</heading>
       <text>For purposes of this part, a default occurs in connection with an agricultural lien at the time the secured party becomes entitled to enforce the lien.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42104</num>
@@ -17300,7 +17540,9 @@
         <num>5.</num>
         <text><cite path="24|24.42|24.42104">This section</cite> does not determine whether an account debtor, bank, or other person obligated on collateral owes a duty to a secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42105</num>
@@ -17341,7 +17583,9 @@
         <num>2.</num>
         <text>If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory notes, the debtor is not entitled to any surplus, and the obligor is not liable for any deficiency.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42106</num>
@@ -17374,7 +17618,9 @@
         <num>3.</num>
         <text>If so agreed, and in any event after default, a secured party may require the debtor to assemble the collateral and make it available to the secured party at a place to be designated by the secured party which is reasonably convenient to both parties.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42107</num>
@@ -17419,7 +17665,9 @@
         <num>6.</num>
         <text>A record is sufficient to disclaim warranties under subsection 5 if it indicates "there is no warranty relating to title, possession, quiet enjoyment, or the like in this disposition" or uses words of similar import.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42108</num>
@@ -17500,7 +17748,9 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42109</num>
@@ -17513,7 +17763,9 @@
         <num>2.</num>
         <text>A notification of disposition sent after default and ten days before the earliest time of disposition set forth in the notification is sent within a reasonable time before the disposition.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42110</num>
@@ -17562,7 +17814,9 @@
         <num>4.</num>
         <text>A particular phrasing of the notification is not required.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42111</num>
@@ -17655,7 +17909,9 @@
           <text>Is not obligated to account to or pay the holder of the security interest or other lien for any surplus.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42112</num>
@@ -17696,7 +17952,9 @@
           <text>Any other security interest or other lien.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42113</num>
@@ -17729,7 +17987,9 @@
           <text>Relieves the secured party of further duties under <cite path="24.42">this chapter</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42114</num>
@@ -17774,7 +18034,9 @@
         <num>3.</num>
         <text>A transfer of the record or legal title to collateral to a secured party under subsection 2 or otherwise is not of itself a disposition of collateral under <cite path="24.42">this chapter</cite> and does not of itself relieve the secured party of its duties under <cite path="24.42">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42115</num>
@@ -17855,7 +18117,9 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42116</num>
@@ -17892,7 +18156,9 @@
         <num>2.</num>
         <text>A secured party that desires to accept collateral in partial satisfaction of the obligation it secures shall send its proposal to any secondary obligor in addition to the persons described in subsection 1.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42117</num>
@@ -17921,7 +18187,9 @@
         <num>2.</num>
         <text>A subordinate interest is discharged or terminated under subsection 1, even if the secured party fails to comply with <cite path="24.42">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42118</num>
@@ -17958,7 +18226,9 @@
           <text>Has accepted collateral in full or partial satisfaction of the obligation it secures under <cite path="24|24.42|24.42117">section 24.42117</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42119</num>
@@ -17971,7 +18241,9 @@
         <num>2.</num>
         <text>A debtor or secondary obligor may waive the right to redeem collateral under <cite path="24|24.42|24.42118">section 24.42118</cite> only by an agreement to that effect entered into and authenticated after default.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42120</num>
@@ -18028,7 +18300,9 @@
         <num>7.</num>
         <text>If a secured party fails to comply with a request regarding a list of collateral or a statement of account under <cite path="24|24.42|24.4220">section 24.4220</cite>, the secured party may claim a security interest only as shown in the list or statement included in the request as against a person that is reasonably misled by the failure.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42121</num>
@@ -18062,7 +18336,9 @@
         <num>5.</num>
         <text>If a deficiency or surplus is calculated under subsection 6 of <cite path="24|24.42|24.42111">section 24.42111</cite>, the debtor or obligor has the burden of establishing that the amount of proceeds of the disposition is significantly below the range of prices that a complying disposition to a person other than the secured party, a person related to the secured party, or a secondary obligor would have brought.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42122</num>
@@ -18111,7 +18387,9 @@
         <num>4.</num>
         <text>Approval under subsection 3 need not be obtained, and lack of approval does not mean that the collection, enforcement, disposition, or acceptance is not commercially reasonable.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42123</num>
@@ -18176,7 +18454,9 @@
         <num>4.</num>
         <text>A secured party is not liable under subdivision b of subsection 3 of <cite path="24|24.42|24.42120">section 24.42120</cite> more than once with respect to any one secured obligation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42124</num>
@@ -18201,7 +18481,9 @@
         <num>3.</num>
         <text><cite path="24.42">This chapter</cite> does not affect an action, case, or proceeding commenced before [the effective date of <cite path="24.42">this chapter</cite>].</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42125</num>
@@ -18226,7 +18508,9 @@
           <text>Remains perfected thereafter only if the applicable requirements for perfection under <cite path="24.42">this chapter</cite> are satisfied before the year expires.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42126</num>
@@ -18252,7 +18536,9 @@
           <text>When the applicable requirements for perfection are satisfied if the requirements are satisfied after that time.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42127</num>
@@ -18281,7 +18567,9 @@
         <num>6.</num>
         <text>A financing statement that includes a financing statement filed before [the effective date of <cite path="24.42">this chapter</cite>], takes effect and a continuation statement filed after [the effective date of <cite path="24.42">this chapter</cite>], is effective only to the extent that it satisfies the requirements of part 5 for an initial financing statement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42128</num>
@@ -18330,7 +18618,9 @@
           <text>Indicate that the pre-effective-date financing statement remains effective.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42129</num>
@@ -18367,7 +18657,9 @@
         <num>5.</num>
         <text>Regardless of whether the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed in this state may be terminated [the effective date of <cite path="24.42">this chapter</cite>], by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection 3 of 24.42128 has been filed in the office specified by the law of the jurisdiction governing perfection as provided in part 3 as the office in which to file a financing statement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42130</num>
@@ -18389,7 +18681,9 @@
           <text>To perfect or continue the perfection of a security interest.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42131</num>
@@ -18402,7 +18696,9 @@
         <num>2.</num>
         <text>For purposes of subsection 1 of <cite path="24|24.42|24.4242">section 24.4242</cite>, the priority of a security interest that becomes enforceable under <cite path="24|24.42|24.4213">section 24.4213</cite> dates from [the effective date of <cite path="24.42">this chapter</cite>], if the security interest is perfected under <cite path="24.42">this chapter</cite> by the filing of a financing statement [the effective date of <cite path="24.42">this chapter</cite>], which would not have been effective to perfect the security interest under the former chapter 24. This subsection does not apply to conflicting security interests each of which is perfected by the filing of such a financing statement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42132</num>
@@ -18415,7 +18711,9 @@
         <num>2.</num>
         <text>This Act does not affect an action, case, or proceeding commenced before <cite path="24.42">this Chapter</cite> takes effect.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42133</num>
@@ -18428,7 +18726,9 @@
         <num>2.</num>
         <text>Except as otherwise provided in <cite path="24|24.42|24.42135">section 24.42135</cite>, if, immediately before <cite path="24.42">this Chapter</cite> takes effect, a security interest is a perfected security interest, but the applicable requirements for perfection under <cite path="24.42">this chapter</cite> as amended by <cite path="24.42">this Chapter</cite> are not satisfied when <cite path="24.42">this Chapter</cite> takes effect, the security interest remains perfected thereafter only if the applicable requirements for perfection under <cite path="24.42">this chapter</cite> as amended by <cite path="24.42">this Chapter</cite> are satisfied within one year after <cite path="24.42">this Chapter</cite> takes effect.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42134</num>
@@ -18442,7 +18742,9 @@
         <num>2.</num>
         <text>When the applicable requirements for perfection are satisfied if the requirements are satisfied after that time.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42135</num>
@@ -18475,7 +18777,9 @@
         <num>5.</num>
         <text>A financing statement that includes a financing statement filed before <cite path="24.42">this Chapter</cite> takes effect and a continuation statement filed after <cite path="24.42">this Chapter</cite> takes effect is effective only to the extent that it satisfies the requirements of sections 24.4272 through 24.4297 as amended by <cite path="24.42">this Chapter</cite> for an initial financing statement. A financing statement that indicates that the debtor is a decedent's estate indicates that the collateral is being administered by a personal representative within the meaning of subdivision b of subsection 1 of <cite path="24|24.42|24.4274">section 24.4274</cite> as amended by <cite path="24.42">this Chapter</cite>. A financing statement that indicates that the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of subdivision c of subsection 1 of <cite path="24|24.42|24.4274">section 24.4274</cite> as amended by <cite path="24.42">this Chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42136</num>
@@ -18524,7 +18828,9 @@
           <text>Indicate that the pre-effective-date financing statement remains effective.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42137</num>
@@ -18561,7 +18867,9 @@
         <num>5.</num>
         <text>Whether or not the law of the Tribe governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed within the Tribe's jurisdiction or in another jurisdiction that the Tribe has entered into an Agreement with may be terminated after <cite path="24.42">this Chapter</cite> takes effect by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection 3 of <cite path="24|24.42|24.42136">section 24.42136</cite> has been filed in the office specified by the law of the jurisdiction governing perfection as provided in <cite path="24.42">this chapter</cite> as amended by <cite path="24.42">this Chapter</cite> as the office in which to file a financing statement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42138</num>
@@ -18583,13 +18891,17 @@
           <text>To perfect or continue the perfection of a security interest.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
     <section>
       <num>24.42139</num>
       <heading>Priority</heading>
       <text><cite path="24.42">This Chapter</cite> determines the priority of conflicting claims to collateral. However, if the relative priorities of the claims were established before <cite path="24.42">this Chapter</cite> takes effect, <cite path="24.42">this chapter</cite> as it existed before amendment determines priority.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -19382,12 +19694,11 @@
     <section>
       <num>24.4502</num>
       <heading>[This Section Is Reserved.]</heading>
-      <text>
-        <strong>24.4503</strong>
-        <strong>
-          <u>What constitutes filing; Duration of filing; Effect of lapsed filing; Duties of filing officer; Filing fee; Centralized computer system.</u>
-        </strong>
-      </text>
+      <annotations/>
+    </section>
+    <section>
+      <num>24.4503</num>
+      <heading>What Constitutes Filing; Duration of Filing; Effect of Lapsed Filing; Duties of Filing Officer; Filing Fee; Centralized Computer System</heading>
       <para>
         <num>1.</num>
         <text>Presentation for filing of a financing statement and tender of the filing fee or acceptance of the statement by the filing officer constitutes filing under this article.</text>
@@ -19469,7 +19780,11 @@
     <section>
       <num>24.4507</num>
       <heading>[This Section Is Reserved.]</heading>
-      <text>24.4508	<u>Financing statements covering consigned or leased goods.</u></text>
+      <annotations/>
+    </section>
+    <section>
+      <num>24.4508</num>
+      <heading>Financing Statements Covering Consigned or Leased Goods</heading>
       <text>A consignor or lessor of goods may file a financing statement using the terms "consignor," "consignee," "lessor," "lessee" or the like instead of the terms specified in <cite path="24|24.42|24.4202">Section 24.4202</cite>. The provisions of this part shall apply as appropriate to such a financing statement but its filing shall not of itself be a factor in determining whether or not the consignment or lease is intended as security (<cite path="24|24.01|24.0110">Section 24.0110</cite>(37). However, if it is determined for other reasons that the consignment or lease is so intended, a security interest of the consignor or lessor which attaches to the consigned or leased goods is perfected by such filing.</text>
       <annotations/>
     </section>

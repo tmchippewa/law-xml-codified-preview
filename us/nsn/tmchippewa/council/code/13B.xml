@@ -42,7 +42,6 @@
         </text>
         <text>We, the undersigned qualified voters of the Turtle Mountain Chippewa Band of Chippewa Indians of North Dakota do hereby petition the Turtle Mountain Chippewa Tribal Council, pursuant to the Article VIII, Section 2, of the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians of North Dakota, to call a recall election for the purpose of removing <u>_________(Name)_____________________</u> from office.  The reason(s) for removal:</text>
         <text>____________________________________________________________________________</text>
-        <text>Amended Resolution No. TMBC916-09-14</text>
         <text>
           <u>Instructions to signers:</u>
         </text>
@@ -109,7 +108,9 @@
         <text>_________________________________________________________________________</text>
         <text>Print Name		City or Town	District		Date of Birth</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 916-09-14"/>
+      </annotations>
     </section>
     <section>
       <num>13.1206</num>
@@ -132,7 +133,7 @@
         </para>
         <para>
           <num>d.</num>
-          <text>After receipt and verification of the original recall petitions, the Election Chairperson, or his/her duly authorized representative of the Election Board, shall secure and maintain all records by depositing the same with the Bureau of Indian Affairs for placement in a locked vault for sixty (60) days in case there is a contested matter, in which case the records shall be retained until there is a final adjudication of the matter.  Thereafter, all records shall be destroyed. TMBC916-09-14</text>
+          <text>After receipt and verification of the original recall petitions, the Election Chairperson, or his/her duly authorized representative of the Election Board, shall secure and maintain all records by depositing the same with the Bureau of Indian Affairs for placement in a locked vault for sixty (60) days in case there is a contested matter, in which case the records shall be retained until there is a final adjudication of the matter.  Thereafter, all records shall be destroyed.</text>
         </para>
       </para>
       <para>
@@ -167,7 +168,9 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 916-09-14"/>
+      </annotations>
     </section>
     <section>
       <num>13.1207</num>

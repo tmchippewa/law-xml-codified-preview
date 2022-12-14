@@ -26,9 +26,11 @@
       </para>
       <para>
         <num>3.</num>
-        <text>For purposes of <cite path="10">this Title</cite> Dog and Puppy shall have the same meaning and shall be reference throughout as Dog. (Amended Resolution No. TMBC1413-08-18)</text>
+        <text>For purposes of <cite path="10">this Title</cite> Dog and Puppy shall have the same meaning and shall be reference throughout as Dog.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1413-08-18"/>
+      </annotations>
     </section>
     <section>
       <num>10.0103</num>
@@ -264,7 +266,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>If a dog is surrendered to Turtle Mountain Animal Rescue (TMAR), Turtle Mountain Animal Rescue is authorized to accept the surrendered stray dog(s) from the tribal land and hold such stray dog for five days. (amended Resolution No. TMBC1413-08-18)</text>
+        <text>If a dog is surrendered to Turtle Mountain Animal Rescue (TMAR), Turtle Mountain Animal Rescue is authorized to accept the surrendered stray dog(s) from the tribal land and hold such stray dog for five days.</text>
       </para>
       <para>
         <num>a.</num>
@@ -278,7 +280,9 @@
         <num>4.</num>
         <text>"Unclaimed dog" shall mean no responsible individual or family presented themselves to TMAR or the Tribal Animal Control as the register owner.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1413-08-18"/>
+      </annotations>
     </section>
     <section>
       <num>10.0302</num>

@@ -14,14 +14,36 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="b5a33177a6d8476ea3ca866eef93273b72c72949"/>
+        <repository name="tmchippewa/law-xml" commit="dd400e45f2720a445be5670902b5df2fad6d02ef"/>
       </repositories>
-      <platform version="2.6.4" reproducible="false"/>
-      <build-date>2022-11-22</build-date>
+      <platform version="2.7.0" reproducible="false"/>
+      <build-date>2022-12-14</build-date>
       <codified-date>0001-01-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/tmchippewa/council/code/index.xml"/>
+  <collection name="us/nsn/tmchippewa/council/resolutions">
+    <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2011/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2008/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2001/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2000/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/1997/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/1994/index.xml"/>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/1970/index.xml"/>
+  </collection>
   <collection name="us/nsn/tmchippewa/council/policies">
     <heading>Turtle Mountain Band of Chippewa Indians Administrative Policies</heading>
     <xi:include href="./us/nsn/tmchippewa/council/policies/personnel_policy.xml"/>
