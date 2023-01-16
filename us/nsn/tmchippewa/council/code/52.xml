@@ -2,24 +2,207 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <prefix>Title</prefix>
   <num>52</num>
-  <heading>Public Health Emergencies</heading>
+  <heading>Public Health</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>52.01</num>
-    <heading>Purpose</heading>
+    <heading>Department of Tribal Public Health</heading>
     <section>
       <num>52.0101</num>
-      <heading>Purpose</heading>
-      <text><cite path="52">This Title</cite> shall be liberally construed and applied to carry out its purpose.</text>
-      <text>The purpose of <cite path="52">this Title</cite> is to:</text>
-      <text>Protect, enhance and exercise the inherent sovereignty of the Tribe.</text>
-      <text>Create and define the policies and procedures governing the confinement of those infected with communicable disease that are subject to the Band's jurisdiction.</text>
-      <text>Ensure that the Tribe is able to adequately respond to public health emergencies within the Tribe's jurisdiction;</text>
-      <text>Ensure that due process of law is accorded to any person coming under the provisions of <cite path="52.01">this chapter</cite>.</text>
-      <annotations/>
+      <heading>Creation of the Department of Tribal Public Health</heading>
+      <text>The Turtle Mountain Band of Chippewa hereby creates the Department of Tribal Public Health for the Turtle Mountain Band of Chippewa Indians (TMBCI).</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0102</num>
+      <heading>Authority</heading>
+      <text>Article IX, Sections (a) (2-6) of the Turtle Mountain Band of Chippewa Indians Constitution ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0103</num>
+      <heading>Department Duties</heading>
+      <text>The primary duty of the Department of Tribal Public Health is the promotion and protection of the Tribe's overall health, wellness, and safety; the prevention of disease; and responding to issues and events related to Public Health Services.</text>
+      <text>The Department of Tribal Public Health's duties shall be as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Assess and monitor population health status, factors that influence health, and community needs and assets.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Investigate, diagnose, and address health problems and hazards affecting the population.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Communicate effectively to inform and educate people about health, factors that influence it, and how to improve it.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Strengthen, support, and mobilize communities and partnerships to improve health.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Create, champion, and implement policies, plans, and laws that impact health.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Utilize legal and regulatory actions designed to improve and protect the public's health.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Assure an effective system that enables equitable access to the individual services and care needed to be healthy.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Build and support a diverse and skilled public health workforce.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Improve and innovate public health functions through ongoing evaluation, research, and continuous quality improvement.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Build and maintain a strong organizational infrastructure for public health.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Promulgate regulations and policies consistent with the purposes of this code.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0104</num>
+      <heading>Enforcement of Public Health Orders</heading>
+      <text>The Department of Tribal Public Health shall have the responsibility of the enforcement of all Public Health Orders, as approved through tribal resolution by the Tribal Council or as ordered by the Tribally-appointed Public Health Officer under Tribal law.  It shall be the duty of the Department of Tribal Public Health's Director to ensure that this responsibility is carried out.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0105</num>
+      <heading>Necessary Staff</heading>
+      <text>The Tribe shall hire the necessary staff to effectuate <cite path="52">this title</cite> so that the Department of Tribal Public Health is effective in its responsibilities and efficient in its responsibilities.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0106</num>
+      <heading>Annual Report to the Tribal Council</heading>
+      <text>The Department shall submit, through the Director to the Tribal Council, a final written annual report within thirty (30) days of the end of each fiscal year.  It will report on the activities of the Department, achievements of the goals and objectives for the previous fiscal year, and the impact, if any, of fiscal constraints on its current goals and objectives.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0107</num>
+      <heading>Strategic Planning and Reporting</heading>
+      <text>The Turtle Mountain Band of Chippewa Department of Tribal Public Health's Strategic Planning and Reporting guidelines are as follows;</text>
+      <para>
+        <num>1.</num>
+        <text>The Director of the Department of Tribal Public Health shall be responsible for creating a Departmental Strategic Plan.  This strategic plan shall at a minimum consist of the Departmental Mission Statement, goals of the Department in support of that mission, the actions necessary to achieve those goals, and a timeline to regularly review and update the strategic plan as necessary.  The plan will be presented to the Tribal Council upon completion,</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Director shall assess, at minimum, quarterly progress made toward annual goals and objectives as defined within the Department's Strategic Plan, as well as the goals and objectives stated in the annual budget.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Director shall conduct an annual review of the Department's Strategic Plan, and make updates or revisions, if necessary, to accomplish its mission and purpose.  The updated Departmental Strategic Plan shall be presented to the Tribal Council annually.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Periodic reviews of Departmental Strategic Plans, as requested by the Tribal Council, shall be presented to the Tribal Council by the Director upon completion.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0108</num>
+      <heading>Repeal</heading>
+      <text>To the extent that they are inconsistent with this ordinance, the specific sections which are inconsistent in all prior Tribal titles, codes, ordinances, and resolutions are hereby repealed.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0109</num>
+      <heading>Effective Date</heading>
+      <text><cite path="52">This title</cite> shall take effect immediately.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0110</num>
+      <heading>Severability</heading>
+      <text>If any provision of <cite path="52">this title</cite> is ruled unconstitutional, it shall be severed from the remainder of the Title, and the remaining provisions shall stand without the unconstitutional provision.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.02</num>
+    <heading>Purpose</heading>
+    <section>
+      <num>52.0201</num>
+      <heading>Purpose</heading>
+      <text><cite path="52">This Title</cite> shall be liberally construed and applied to carry out its purpose.</text>
+      <text>The purpose of <cite path="52">this Title</cite> is to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Protect, enhance and exercise the inherent sovereignty of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Inform any government or entity navigating public health issues that implicate the Turtle Mountain Band of Chippewa of their actions and ensure they do not perpetuate structural violence.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Inform of the intention of the Turtle Mountain Band of Chippewa to assert its sovereign and jurisdictional authority to promote and protect the Tribe's overall health, wellness, and safety, prevent disease, and respond to issues and events by reaffirming the Department of Tribal Public Health as the public health authority for the Turtle Mountain Band of Chippewa.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Inform that the Department of Tribal Public Health, in compliance with tribal law, is authorized to access, collect, and analyze identifiable health data to protect the health of the enrolled tribal citizens of the TMBCI.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Create and define the policies and procedures governing the confinement of those infected with communicable disease that are subject to the Band's jurisdiction.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure that the Tribe is able to adequately respond to public health emergencies within the Tribe's jurisdiction;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Ensure that due process of law is accorded to any person coming under the provisions of <cite path="52.02">this chapter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
+    </section>
+    <section>
+      <num>52.0202</num>
       <heading>Jurisdiction</heading>
       <para>
         <num>1.</num>
@@ -52,16 +235,22 @@
       <para>
         <num>3.</num>
         <text><u>Territorial jurisdiction</u>. For the purpose of enforcement of <cite path="52">this Title</cite>, the territorial jurisdiction of the Tribe shall be consistent with Article II of the Constitution.</text>
+        <text class="center">
+          <strong>
+            <cite path="52.03">Chapter 52.03</cite>
+          </strong>
+        </text>
+        <text class="center">
+          <strong>Definitions</strong>
+        </text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>52.02</num>
-    <heading>Definitions</heading>
     <section>
-      <num>52.0201</num>
+      <num>52.0301</num>
       <heading>Definitions</heading>
       <text>As used in <cite path="52.02">this chapter</cite>, unless the context otherwise requires:</text>
       <para>
@@ -115,40 +304,296 @@
       <para>
         <num>13.</num>
         <text>"Tribe" means the Turtle Mountain Band of Chippewa Indians.</text>
+        <text>The following public health definitions shall apply in the interpretation and enforcement of public health activities:</text>
       </para>
-      <annotations/>
+      <para>
+        <num>14.</num>
+        <text><strong>Accreditation</strong>—The development of a set of standards, a process to measure health department performance against those standards, and some form of reward or recognition for those agencies meeting the standards.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text><strong>Assessment</strong>—One of public health's three core functions. The regular collection, analysis, and sharing of information about health conditions, risks, and resources in a community. Assessment is needed to identify health problems and priorities and the resources available to address the priorities and monitor improvement progress.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text><strong>Assurance</strong>—One of the three core functions in public health. Making sure that all populations have access to appropriate and cost-effective care, including health promotion and disease prevention services. These services are assured by encouraging actions by others, collaboration with other organizations, requiring action through regulation, and/or by direct provision of services.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text><strong>Bioterrorism</strong>—The intentional use of any microorganism, virus, infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product, to cause death disease, or other biological malfunction in a human, animal, plant, or another living organism to influence the conduct of government or to intimidate or coerce a civilian population.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text><strong>Capacity</strong>—The ability to perform the core public health functions of assessment, policy development, and assurance on a continuous, consistent basis, made possible by maintenance of the basic infrastructure of the public health system, including human, capital, and technology resources.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text><strong>Chronic disease</strong>—A disease that has one or more of the following characteristics: it is permanent, leaves residual disability, is caused by a nonreversible pathological alteration, requires special training of the patient for rehabilitation, or may be expected to require a long period of supervision, observation or care.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text><strong>Clinical services/medical services/personal medical services</strong>—Care administered to an individual to treat an illness or injury.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text><strong>Climate Change</strong>- Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text><strong>Determinants of health</strong>—The range of personal, social, economic, and environmental factors that determine the health status of individuals or populations.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text><strong>Disease</strong>—A state of dysfunction of organs or organ systems that can result in diminished quality of life. Disease is largely socially defined and may be attributed to a multitude of factors. Thus, drug dependence is presently seen by some as a disease, when it previous was considered to be a moral or legal problem.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text><strong>Disease management</strong>—To assist an individual to reach his or her optimum level of wellness and functional capability as a way to improve the quality of health care and lower health care costs.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text><strong>Endemic</strong>—Prevalent in or peculiar to a particular locality or people.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text><strong>Entomologist</strong>—An expert on insects.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text><strong>Epidemic</strong>—A group of cases of a specific disease or illness clearly over what one would normally expect in a particular geographic area. There is no absolute criterion for using the term epidemic; as standards and expectations change, so might the definition of an epidemic, such as an epidemic of violence.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text><strong>Epidemiology</strong>—The study of the distribution and determinants of diseases and injuries in human populations. Epidemiology is concerned with the frequencies and types of illnesses and injuries in groups of people and with the factors that influence their distribution.</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text><strong>Foodborne illness</strong>—Illness caused by the transfer of disease organisms or toxins from food to humans.</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text><strong>Health</strong>—The state of complete physical, mental, and social well-being, and not merely the absence of disease or infirmity. Health has many dimensions-anatomical, physiological, and mental-and is largely culturally defined. Most attempts at measurement have been assessed in terms of morbidity and mortality.</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text><strong>Health disparities</strong>—Differences in morbidity and mortality due to various causes experience by specific sub-populations.</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text><strong>Health education</strong>—Any combination of learning opportunities designed to facilitate voluntary adaptations of behavior (in individuals, groups, or communities) conducive to health.</text>
+      </para>
+      <para>
+        <num>33.</num>
+        <text><strong>Health Equity</strong>- Health equity is achieved when every person has the opportunity to "attain his or her full health potential" and no one is "disadvantaged from achieving this potential because of social position or other socially determined circumstances." Health inequities are reflected in differences in length of life; quality of life; rates of disease, disability, and death; severity of disease; and access to treatment.</text>
+      </para>
+      <para>
+        <num>34.</num>
+        <text><strong>Health promotion</strong>—Any combination of health education and related organizational, political, and economic interventions designed to facilitate behavioral and environmental adaptations that will improve or protect health.</text>
+      </para>
+      <para>
+        <num>35.</num>
+        <text><strong>Health status indicators</strong>—Measurements of the state of health of a specific individual, group, or population.</text>
+      </para>
+      <para>
+        <num>36.</num>
+        <text><strong>Incidence</strong>—The number of cases of disease that have their onset during a prescribed time. It is often expressed as a rate. Incidence is a measure of morbidity or other events that occur within a specified time. See related prevalence.</text>
+      </para>
+      <para>
+        <num>37.</num>
+        <text><strong>Infant mortality rate</strong>—The number of live-born infants who die before their first birthday per 1,000 live births.</text>
+      </para>
+      <para>
+        <num>38.</num>
+        <text><strong>Infectious</strong>—Capable of causing infection or disease by the entrance of organisms (e.g., bacteria, viruses, protozoan, fungi) into the body, which then grow and multiply. Often used synonymously with "communicable".</text>
+      </para>
+      <para>
+        <num>39.</num>
+        <text><strong>Intervention</strong>—A term used in public health to describe a program or policy designed to have an effect on a health problem. Health interventions include health promotion, specific protection, early case finding and prompt treatment, disability limitation, and rehabilitation.</text>
+      </para>
+      <para>
+        <num>40.</num>
+        <text><strong>Infrastructure</strong>—The human, organizational, information, and fiscal resources of the public health system that provide the capacity for the system to carry out its functions.</text>
+      </para>
+      <para>
+        <num>41.</num>
+        <text><strong>Isolation</strong>—means the physical separation and restrictions on movement or travel of an individual or travel of an individual or groups of individuals, who are or may have been infected or exposed to a contagious or possibly contagious disease and who do not show signs or symptoms of a contagious disease, from nonquarantined individuals signs or symptoms of a contagious disease, form nonquarantined individuals to prevent or limit the transmission of the disease to nonquarantined individuals.</text>
+      </para>
+      <para>
+        <num>42.</num>
+        <text><strong>Morbidity</strong>—A measure of disease incidence or prevalence in a given population, location, or other groupings of interest.</text>
+      </para>
+      <para>
+        <num>43.</num>
+        <text><strong>Mortality</strong>—A measure of deaths in a given population, location, or other groupings of interest.</text>
+      </para>
+      <para>
+        <num>44.</num>
+        <text><strong>Non-infectious</strong>—Not spread by infectious agents. Often used synonymously with "non-communicable".</text>
+      </para>
+      <para>
+        <num>45.</num>
+        <text><strong>Outcomes</strong>—Sometimes referred to as results of the health system. These are indicators of health status, risk reduction, and quality of life enhancement.</text>
+      </para>
+      <para>
+        <num>46.</num>
+        <text><strong>Outcome standards</strong>—Long-term objectives that define optimal, measurable future levels of health status; maximum acceptable levels of disease, injury, or dysfunction; or prevalence of risk factors.</text>
+      </para>
+      <para>
+        <num>47.</num>
+        <text><strong>Pandemic-</strong> A widespread occurrence of an infectious disease over a whole country or the world at a particular time.</text>
+      </para>
+      <para>
+        <num>48.</num>
+        <text><strong>Pathogen</strong>—Any agent that causes disease, especially a microorganism such as a bacterium or fungus.</text>
+      </para>
+      <para>
+        <num>49.</num>
+        <text><strong>Police power</strong>—A basic power of government that allows restriction of individual rights to protect the safety and interests of the entire population.</text>
+      </para>
+      <para>
+        <num>50.</num>
+        <text><strong>Population-based</strong>—Pertaining to the entire population in a particular area. Population-based public health services extend beyond medical treatment by targeting underlying risks, such as tobacco, drug, and alcohol use; diet and sedentary lifestyles; and environmental factors.</text>
+      </para>
+      <para>
+        <num>51.</num>
+        <text><strong>Prevalence</strong>—The number of cases of a disease, infected people, or people with some other attribute present during a particular interval of time. It often is expressed as a rate.</text>
+      </para>
+      <para>
+        <num>52.</num>
+        <text><strong>Prevention</strong>—Actions taken to reduce susceptibility or exposure to health problems (primary prevention), detect and treat disease in early stages (secondary prevention), or alleviate the effects of disease and injury (tertiary prevention).</text>
+      </para>
+      <para>
+        <num>53.</num>
+        <text><strong>Primary medical care</strong>—Clinical preventive services, first contact treatment services, and ongoing care for commonly encountered medical conditions.</text>
+      </para>
+      <para>
+        <num>54.</num>
+        <text><strong>Protection</strong>—Elimination or reduction of exposure to injuries and occupational or environmental hazards.</text>
+      </para>
+      <para>
+        <num>55.</num>
+        <text><strong>Protective factor</strong>—An aspect of life that reduces the likelihood of negative outcomes, either directly or by reducing the effects of risk factors.</text>
+      </para>
+      <para>
+        <num>56.</num>
+        <text><strong>Public health</strong>—Activities that society does collectively to assure the conditions in which people can be healthy. This includes organized community efforts to prevent, identify, preempt and counter threats to the public's health.</text>
+      </para>
+      <para>
+        <num>57.</num>
+        <text><strong>Public health department/district</strong>—Local health agency, operated by local government, with oversight and direction from a local board of health, which provides public health services throughout a defined geographic area.</text>
+      </para>
+      <para>
+        <num>58.</num>
+        <text><strong>Public Health Officer </strong>means the individual designated by the Tribe to be the executive responsible for the execution of <cite path="52">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>59.</num>
+        <text><strong>Public health practice</strong>—Organizational practices or processes that are necessary and sufficient to assure that the core functions of public health are being carried out effectively.</text>
+      </para>
+      <para>
+        <num>60.</num>
+        <text><strong>Quality assurance</strong>—Monitoring and maintaining the quality of public health services through licensing and discipline of health professionals, licensing of health facilities, and the enforcement of standards and regulations.</text>
+      </para>
+      <para>
+        <num>61.</num>
+        <text><strong>Rate</strong>—A measure of the intensity of the occurrence of an event. For example, the mortality rate equals the number who die in one year divided by the number at risk of dying. Rates usually are expressed using a standard denominator such as 1,000 or 100,000 people.</text>
+      </para>
+      <para>
+        <num>62.</num>
+        <text><strong>Risk assessment</strong>—Identifying and measuring the presence of direct causes and risk factors that, based on scientific evidence or theory, are thought to directly influence the level of a specific health problem.</text>
+      </para>
+      <para>
+        <num>63.</num>
+        <text><strong>Risk factor</strong>—Personal qualities or societal conditions that lead to the increased probability of a problem or problems developing.</text>
+      </para>
+      <para>
+        <num>64.</num>
+        <text><strong>Screening</strong>—The use of technology and procedures to differentiate those individuals with signs or symptoms of the disease from those less likely to have the disease.</text>
+      </para>
+      <para>
+        <num>65.</num>
+        <text><strong>Social marketing</strong>—A process for influencing human behavior on a large scale, using marketing principles for societal benefit rather than for commercial profit.</text>
+      </para>
+      <para>
+        <num>66.</num>
+        <text><strong>Social norm</strong>—Expectations about behavior, thoughts, or feelings that are appropriate and sanctioned within a particular society. Social norms can play a powerful role in the health status of individuals.</text>
+      </para>
+      <para>
+        <num>67.</num>
+        <text><strong>Standards</strong>—Accepted measures of comparison that have quantitative or qualitative value.</text>
+      </para>
+      <para>
+        <num>68.</num>
+        <text><strong>State health agency</strong>—The unit of state government that has leading responsibility for identifying and meeting the health needs of the state's citizens. State health agencies can be free-standing or units of multipurpose health and human service agencies.</text>
+      </para>
+      <para>
+        <num>69.</num>
+        <text><strong>Structural Violence-</strong> Structural violence is "invisible, embedded in ubiquitous social structures, normalized by stable institutions and regular experience," and "occurs whenever people are disadvantaged by political, legal, economic, or cultural traditions."</text>
+      </para>
+      <para>
+        <num>70.</num>
+        <text><strong>Surveillance</strong>—Systematic monitoring of the health status of a population. Threshold standards—Rate or level of illness or injury in a community or population that, if exceeded, call for closer attention and may signal the need for renewed or redoubled action.</text>
+      </para>
+      <para>
+        <num>71.</num>
+        <text><strong>TMBCI Health Board-</strong>The eleven (11) member authoritative body, recognized by the Tribal Council, to assist in improving health conditions within the Turtle Mountain Jurisdiction through the alleviation of immediate and felt health problems of the people of the Turtle Mountains.</text>
+      </para>
+      <para>
+        <num>72.</num>
+        <text><strong>Tribal Public Health Department</strong>- A federally recognized Tribal government, Tribal organization, or inter-Tribal consortium, as defined in the Indian Self-Determination and Education Assistance Act, as amended having jurisdictional authority to provide public health services, as evidenced by constitution, resolution, ordinance, executive order, or other legal means, intended to promote and protect the Tribe's overall health, wellness, and safety; prevent disease, and respond to issues and events.</text>
+      </para>
+      <para>
+        <num>73.</num>
+        <text><strong>Years of potential life lost</strong>—A measure of the effects of disease or injury in a population that calculates years of life lost before a specific age (often ages 64 or 75). This approach places additional value on deaths that occur at earlier ages.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>52.03</num>
+    <num>52.04</num>
     <heading>Tribal Health Officer</heading>
     <section>
-      <num>52.0301</num>
+      <num>52.0401</num>
       <heading>Appointment</heading>
       <text>Tribal Council shall appoint a Health Officer, who shall be the chief public health official of the Tribe. The Health Officer shall be selected on the basis of public health expertise, knowledge and experience. Tribal Council has discretion to contract with an outside party or government to appoint a Health Officer with the appropriate qualifications.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0302</num>
+      <num>52.0402</num>
       <heading>Removal</heading>
       <text>The Council may remove, without notice, the Health Officer at any time, either with or without cause. This position is granted by political appointment only and a removed Health Officer has no right of appeal.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0303</num>
+      <num>52.0403</num>
       <heading>Compensation</heading>
       <text>The Health Officer shall receive compensation as determined by the Tribal Council.  The Health Officer shall be entitled to compensation for expenses, including traveling expenses, incurred in the discharge of their duties, provided funds have been made available and such expenses have been approved by Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0304</num>
+      <num>52.0404</num>
       <heading>Term of Office</heading>
       <text>The appointment of the Health Officer shall be at the discretion of the Tribal Council and the term of office shall be four (4) years. If a Health Officer is removed or replaced for any reason, the replacing Health Officer shall serve the remainder of the removed or replaced Health Officer's term. A Health Officer may serve multiple and consecutive terms of office.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0305</num>
+      <num>52.0405</num>
       <heading>Powers and Duties of the Health Officer</heading>
       <para>
         <num>1.</num>
@@ -198,10 +643,13 @@
           <text>Communicate and coordinate responses to public health emergencies and issues with State, federal, or Tribal Health Officers and State Public Health Units.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0306</num>
+      <num>52.0406</num>
       <heading>Confinement Order</heading>
       <para>
         <num>1.</num>
@@ -219,10 +667,13 @@
           <text>Confinement is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0307</num>
+      <num>52.0407</num>
       <heading>Conditions and Principles</heading>
       <para>
         <num>1.</num>
@@ -264,16 +715,22 @@
           <text>To the extent possible, cultural and religious beliefs must be considered in addressing the needs of individuals and establishing and maintaining isolation and quarantine premises.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0308</num>
+      <num>52.0408</num>
       <heading>Cooperation</heading>
       <text>Persons subject to quarantine or isolation shall obey the Health Officer's rules and orders and must not go beyond the quarantine or isolation premises for any reason not specified in the order. Failure to obey these provisions is a Class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0309</num>
+      <num>52.0409</num>
       <heading>Entry into Quarantine or Isolation Premises</heading>
       <para>
         <num>1.</num>
@@ -287,49 +744,62 @@
         <num>3.</num>
         <text>Potential quarantine or isolation. A person entering a quarantine or isolation premises with or without authorization of the state or local health officer may be isolated or quarantined pursuant to <cite path="52|52.03|52.0309">Section 52.0309</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0310</num>
+      <num>52.0410</num>
       <heading>Limitations</heading>
       <para>
         <num>1.</num>
-        <text><cite path="52|52.03|52.0310">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any medical facility within the Tribe's jurisdiction.</text>
+        <text><cite path="52|52.04|52.0410">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any medical facility within the Tribe's jurisdiction.</text>
       </para>
       <para>
         <num>2.</num>
-        <text><cite path="52|52.03|52.0310">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any tribal government facility or tribal business facility without prior authorization for such action from Tribal Council.</text>
+        <text><cite path="52|52.04|52.0410">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any tribal government facility or tribal business facility without prior authorization for such action from Tribal Council.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>52.04</num>
-    <heading>Temporary Isolation and Quarantine Without Notice</heading>
     <section>
-      <num>52.0401</num>
+      <num>52.0411</num>
       <heading>Authorization</heading>
       <text>The Health Officer may temporarily isolate or quarantine an individual or groups of individuals through a written directive if delay in imposing the quarantine or isolation would significantly jeopardize Health Officer's ability to prevent or limit the transmission of a contagious or possibly contagious disease to others.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0402</num>
+      <num>52.0412</num>
       <heading>Content of Directive</heading>
       <text>The written directive must specify the identity of the individual or groups of individuals subject to quarantine or isolation, including identification by characteristics if actual identification is impossible or impracticable; the premises subject to quarantine or isolation; the date and time at which quarantine or isolation commences; the suspected contagious disease if known; and decontamination, treatment, or prevention measures that must be followed.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0403</num>
+      <num>52.0413</num>
       <heading>Copies</heading>
       <text>A copy of the written directive must be given to the individual to be isolated or quarantined or, if the order applies to a group of individuals and it is impractical to provide individual copies, it may be posted in a conspicuous place in the quarantine or isolation premises. The Health Officer may also use any available mass media, including broadcasting, to provide notice and information about the written directive.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
-      <num>52.0404</num>
+      <num>52.0414</num>
       <heading>Petition for Continued Quarantine or Isolation</heading>
       <text>Immediately after issuing the written directive, if the Health Officer determines that continued quarantine or isolation is necessary, the Health Officer shall file a petition under <cite path="52|52.05|52.0503">Section 52.0503</cite> for a Court order authorizing the continued quarantine or isolation of the isolated or quarantined individual or groups of individuals.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -340,7 +810,10 @@
       <num>52.0501</num>
       <heading>Authorization</heading>
       <text>The Health Officer may make a written petition to the Court for an order authorizing the quarantine or isolation of an individual or groups of individuals.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0502</num>
@@ -381,7 +854,10 @@
         <num>2.</num>
         <text>The petition must be accompanied by the sworn affidavit of Health Officer attesting to the facts asserted in the petition, with any further information that may be relevant and material to the Court's consideration.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0503</num>
@@ -402,19 +878,28 @@
           <text>Issue an emergency ex-parte order requiring the individual or group of individuals identified in the position to follow all orders issued by the Health Officer.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0504</num>
       <heading>Notice</heading>
       <text>Notice of the hearing to the individuals or groups of individuals identified in the petition must be accomplished within twenty-four (24) hours of the Court scheduling the hearing. Notice shall be "accomplished" by serving a copy of the petition on the individual or group of individuals in accordance with <cite path="52|52.06|52.0601">Section 52.0601</cite> of this Code. The notice must include a statement that the respondent has the right to counsel at the respondent's expense and must state that the time and place of the hearing on the petition.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0505</num>
       <heading>Place of Confinement</heading>
       <text>A respondent must be confined in a place designated in the written directive until the Health Officer determines that the respondent no longer poses a substantial threat to the public health or until the Court orders the release of the respondent. The Health Officer, in consultation with and upon the approval of Tribal Council, may establish and maintain places of confinement.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -456,7 +941,10 @@
         <num>5.</num>
         <text>The Court shall also determine whether to order the respondent to follow the Health Officer's directive for decontamination, treatment, or preventative measures if the petition is granted.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0602</num>
@@ -469,13 +957,19 @@
         <num>2.</num>
         <text>If the respondent is hospitalized at the time of the hearing, the hospital shall make available at the hearing for use by the respondent, respondent's representative, respondent's counsel, and the Tribal Attorney all records in its possession relating to the conditions of the respondent.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0603</num>
       <heading>Burden of Proof</heading>
       <text>At a hearing conducted under <cite path="52">this Title</cite>, the Health Officer has the burden of showing by a preponderance of the evidence that the respondent is infected with a communicable disease, poses a substantial threat to the public health, and that confinement of the respondent is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0604</num>
@@ -484,25 +978,37 @@
         <num>1.</num>
         <text>If the Court finds by a preponderance of the evidence that the respondent is infected with a communicable disease, poses a substantial threat to the public health, and that confinement of the respondent is necessary and is the least restrictive alternative to protect or preserve the public health, the Court may order the continued confinement of the respondent under any conditions and restrictions the Court determines appropriate for decontamination, treatment, or prevention, including remand to the Health Officer, until the Health Officer determines that the respondent's release would not constitute a substantial threat to the public health, or may order the release of the respondent under any conditions and restrictions the Court determines appropriate to protect the public health. If the Court fails to find that the conditions required for an order for confinement have been proven, the Court shall order the immediate release of the respondent.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0605</num>
       <heading>Request to Terminate or Modify an Order - Review of Confinement Orders</heading>
       <text>A respondent may, at any time, request the Court to terminate or modify an order of the Court, in which case a hearing must be held in accordance with <cite path="52|52.06|52.0601">Section 52.0601</cite> Upon its own motion, the Court may conduct a hearing to determine if the conditions requiring the confinement or restriction of the respondent continue to exist. Notice of at least five days, but no more than ten business days, must be provided to all parties to the hearing under <cite path="52|52.06|52.0605">this section</cite>. If the Court, at a hearing held upon motion of the respondent or its own motion, finds that the conditions requiring confinement or restriction no longer exist, the Court shall order the immediate release of the respondent. If the Court finds that the conditions continue to exist but that a different remedy is appropriate under <cite path="52.06">this chapter</cite>, the Court may modify its order accordingly.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0606</num>
       <heading>Closed Hearing - Confidentiality of Information</heading>
       <text>At the request of the respondent, a hearing conducted under <cite path="52.06">this chapter</cite> must be closed and any report, transcript, record, or other information relating to actions taken under <cite path="52.06">this chapter</cite> must be kept confidential.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
     <section>
       <num>52.0607</num>
       <heading>Right of Appeal</heading>
       <text>Any party aggrieved by an order of the Tribal Court under <cite path="52">this Title</cite> may appeal to the Tribal Court of Appeals. An order of confinement continues in effect while the matter is on appeal.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
+      </annotations>
     </section>
   </container>
 </container>

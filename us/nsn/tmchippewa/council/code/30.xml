@@ -2,188 +2,191 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <prefix>Title</prefix>
   <num>30</num>
-  <heading>Water Code</heading>
+  <heading>Water Act</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>30.01</num>
-    <heading>General Provisions</heading>
+    <heading>Turtle Mountain Chippewa Water Act</heading>
     <section>
       <num>30.0101</num>
-      <heading>Short Title</heading>
-      <text>This act may be cited as the "Turtle Mountain Chippewa Water Code."</text>
-      <annotations/>
+      <heading>Chippewa Water Knowledge</heading>
+      <text>Nibi (water) is sacred and is vital to all life within the environment, including human life and especially to the lives of the Turtle Mountain Band of Chippewa Indians. Gichi Manitou, in our Creation Story, breathed life into Nibi, our water, and gave us the water spirits to guide our actions and to protect the water. Our traditional teachers reveal that the Chippewa women were given the responsibility for protecting the water. To honor that role, the women will lead water ceremonies and to promote tribal water standards outlined in the TMBCI Water Act. These guiding principals have led to the following declarations.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 627-11-11"/>
+      </annotations>
     </section>
     <section>
       <num>30.0102</num>
-      <heading>Findings</heading>
-      <text>The Tribe finds and declares that:</text>
-      <para>
-        <num>1.</num>
-        <text>The management and protection of water is a central attribute of tribal sovereignty and is vital to the of Reservation residents and to the vitality of the Reservation economy.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>The water resource has cultural, spiritual, social, environmental and economic values that require protection and must guide the appropriate use and management of all resources in the watershed and drainage basins of the Reservation.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Surface water and ground water are interconnected by the hydrologic cycle of the Reservation and each watershed therein, and water is therefore a unitary resource, whether occurring as ground water, springs, mineral water, soil moisture, precipitation, percolating water, recharge, drainage waters, surface water, effluent, waters associated with mineral or petroleum resources, or otherwise.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The protection of water quality is vital to the protection of the health and welfare of the Reservation community, and environment, and to the integrity of the resource ecosystem, including, fish, wildlife, and riparian environments.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>All waters reserved to them by the Treaty at Prairie du Chien between the Chippewa and the Sioux, August 19, 1825, and the Treaty at the Old Crossing of the Red Lake River, between the United States and the Red Lake and Pembina Bands of Chippewa, October 2, 1863 and Executive Orders of December 21,1882, March 29, 1884 and June 3, 1884, Government Document No. 444, Senate Report 693, 56th Cong. 1st Session., and all alluvial groundwater underlying the Reservation are held by the United States and the Tribe in trust for the benefit of the Tribe and its members for certain inalienable public uses.</text>
-      </para>
+      <heading>Jurisdiction</heading>
+      <text>All waters reserved, including but not limited to, the Treaty at Prairie du Chien between the Chippewa and the Sioux, August 19, 1825, and the Treaty at the Old Crossing of the Red Lake River, between the United States and the Red Lake and Pembina Band of Chippewa, October 2, 1863 and Executive Orders of December 21, 1882, March 29, 1884 and June 3, 1884, Government Document No. 444, Senate Report 693, 56th Cong. 1st Session., are held by the United States in trust, and ownership is held by the Turtle Mountain Band of Chippewa for the inalienable use and benefit of the Tribe and its members.</text>
+      <text>The Turtle Mountain Band of Chippewa invokes the Winters Doctrine as part of their claim to jurisdiction over tribal waters. The judicially crafted Winters Doctrine (1908) provides water for the needs of Native Americans who reside on federally reserved lands. The decision is one of the Supreme Court's foremost Indian law decisions and a landmark for water law. The Court held that when an Indian reservation is established, water rights accompany creation of the Indian homeland; water rights are reserved for the tribe.</text>
+      <text>On November 22, 2011, the Turtle Mountain Band of Chippewa Tribal Council unanimously voted to ban Hydraulic Fracturing and was signed into law on the 29<sup>th</sup> day of November, 2011.</text>
+      <text>The McCumber Agreement of 1892, between the TMBCI and the Federal Government our ancestors, recognized the importance of our natural resources for our future generations.</text>
+      <text>Article III:  The land, woods, and waters above reserved for the Turtle Mountain Band of Chippewa Indians, subject to the stipulations contained in Article II of this treaty and agreement shall be held as common property of the Turtle Mountain Band of Chippewa Indians...by enacting this water act, tribal leaders are upholding the intent of our ancestors.</text>
       <annotations/>
     </section>
     <section>
       <num>30.0103</num>
-      <heading>Declaration of Policies</heading>
-      <text>It shall be the policy of the Tribe to:</text>
-      <para>
-        <num>1.</num>
-        <text>Preserve and protect in perpetuity the quantity and quality of tribal water resources and to exercise the self-determination of the Tribe through the wise use, administration, protection and management of tribal water resources.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Establish an orderly system for the use and management of tribal water resources in accordance with tribal priorities and the Act.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Ensure that to the greatest extent possible all tribal members, and their future generations, have sufficient water for beneficial uses.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Protect tribal water from over-appropriation, degradation, contamination, exploitation, and any act injurious to the quantity, quality or integrity of the water resource.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Encourage, within the limits of the resource base and subject to the Tribe's public trust obligations, optimal development and multiple use of the resource.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Promote the stability of investment in water use and delivery systems and facilitate long-term planning of the Tribe and individual water users.</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>Protect the priority of tribal water in relation to other competing uses.</text>
-      </para>
-      <para>
-        <num>8.</num>
-        <text>Manage surface water resources according to watershed and sub-watershed and with due regard to interaction with alluvial ground water systems.</text>
-      </para>
-      <para>
-        <num>9.</num>
-        <text>Manage ground water resources according to aquifer system, safe yield principles, and with due regard to surface water interactions, deep aquifer systems or processes affecting, ground water yield or quality.</text>
-      </para>
-      <para>
-        <num>10.</num>
-        <text>Control activities and initiation of processes in watersheds (e.g. soil erosion) or ground water systems (e.g. inter-aquifer leakage) tending to degrade the water resource.</text>
-      </para>
-      <para>
-        <num>11.</num>
-        <text>Encourage conservation, water reuse, storage, recharge, exchanges, transfers, and wastewater treatment strategies.</text>
-      </para>
-      <para>
-        <num>12.</num>
-        <text>Protect traditional, religious and cultural uses of water resources and other resources dependent upon water.</text>
-      </para>
+      <heading>Findings</heading>
+      <text>The Tribe finds and declares:</text>
+      <text>The quality of all waters of the Tribe will be protected for the use and enjoyment by the people of the Tribe.</text>
+      <text>The management and protection of water is a central attribute of tribal sovereignty and is vital to the well-being of its inhabitants.</text>
+      <text>Water has cultural, spiritual, social, environmental, health, and economic values that require protection and we must guide the appropriate use and management of all resources affecting the watershed and drainage basins of the Reservation and its allotted lands.</text>
+      <text>All water is interconnected by the hydrologic cycle of tribal lands and each watershed is consequently a unitary resource, whether occurring as surface water or ground water, spring water or mineral water, soil moisture, precipitation, atmospheric, percolating or non-percolating, recharge, drainage waters, overflow, and waters associated with mineral and/or petroleum resources.</text>
+      <text>The Turtle Mountain Band of Chippewa are interconnected to the environment and to the integrity of the ecosystem, including but not limited to the fish, wildlife, plants, trees and the environment.</text>
+      <text>In 1987, the EPA amended the 1972 Clean Water Act to treat tribal governments the same way it treats states. Among other things, this meant that tribal governments were given the power to create their own water quality standards with federal approval. Like the regulations imposed on states, these tribal standards must be equal to or more stringent than federal standards. It is the Tribes intent to exercise its sovereign authority.</text>
+      <text>It is the right of the Tribe to maintain the quality and composition of the water to sustain life systems and their protection with regards to contamination, for renewal of the life of Mother Earth and all its components.</text>
       <annotations/>
     </section>
     <section>
       <num>30.0104</num>
-      <heading>Definitions</heading>
-      <text>For the purposes of this Code, all terms otherwise not defined below shall be given their ordinary meaning, unless the term is specifically defined within the Act.</text>
+      <heading>Declaration of Policies</heading>
+      <text>It is the policy of the Tribe to:</text>
       <para>
         <num>1.</num>
-        <text>"Acre-foot" shall mean that amount of water required to cover an acre of land to one foot (1') in depth, or three hundred twenty-five thousand, eight hundred fifty-one (325,851) gallons.</text>
+        <text>Preserve and protect in perpetuity the quantity and quality of tribal water resources and to exercise the self-determination of the Tribe through the use, administration, protection and management of tribal water resources.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>"Alluvial ground water" shall mean water located below the land surface within the Shell Valley Aquifer hydrostratigraphic unit.</text>
+        <text>Develop a reservation-wide program for the control of the quality of all the waters of the Tribe; that the Tribe must be prepared to exercise its full power and jurisdiction to protect the quality of waters of the Tribe from degradation originating inside or outside the boundaries of the Tribe and that the reservation-wide program will be most effectively managed locally within the framework of reservation-wide coordination and policy.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>"Board" shall refer to the Water Resources Board, or also referred to as WRB, of the Turtle Mountain Band of Chippewa.</text>
+        <text>Ensure that all tribal members and our future generations have clean water.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>"Domestic potable water supplies" shall mean the water used in residences and business for consumption by humans.</text>
+        <text>Protect tribal water from any actions injurious to the quantity, quality or integrity of the water.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>"EPA" shall mean the federal Environmental Protection Agency.</text>
+        <text>Ensure the long-term planning and investment of the Tribe enables the delivery and use of water to individual water users.</text>
       </para>
       <para>
         <num>6.</num>
-        <text>"Historic practices of rotation and scheduling" shall mean the previous uses and practice of crop rotations in use when this Code was adopted.</text>
+        <text>Manage surface water resources according to watershed and sub-watershed best management practices, executed by the Tribal Water Resource Commission, with regard to interactions with alluvial and non-alluvial ground water systems.</text>
       </para>
       <para>
         <num>7.</num>
-        <text>"Non-alluvial ground water" shall mean all other ground water beneath the land surface that is not alluvial ground water.</text>
+        <text>Manage ground water resources according to aquifer system safe yield principles and consider base flow conservation as the standard against to measure groundwater sustainability.</text>
       </para>
       <para>
         <num>8.</num>
-        <text>"NRCS" shall mean the federal Natural Resources Conservation Service.</text>
+        <text>In general, the sustainable yield of an aquifer must be considerably less than recharge if adequate amounts of water are to be available to sustain both the quantity and quality of streams, springs, wetlands, and ground-water-dependent ecosystems. To ensure sustainability, it is imperative that water limits be established based on hydrologic principles of mass balance.</text>
       </para>
       <para>
         <num>9.</num>
-        <text>"Person" shall mean any individual or group of combination thereof acting as a unit, however associated; any organization of any kind, whether organized for profit or not, and regardless of the manner or form which it does business, whether as a sole proprietorship, receiver, partnership, joint venture, trust estate, firm, unincorporated association, corporation or government, including but not limited to any part, subdivision or agency of any of the foregoing; and any combination of individuals or organizations in whatever form, and the plural as well as the singular number.</text>
+        <text>Control activities and initiation of processes in watersheds (e.g. soil erosion) or ground water systems (e.g. inter-aquifer leakage) tending to degrade the water resource.</text>
       </para>
       <para>
         <num>10.</num>
-        <text>"Reservation lands" shall mean any and all lands within the Turtle Mountain Band of Chippewa Reservation and its allotments which is defined to include:</text>
-        <para>
-          <num>a.</num>
-          <text>All lands within the limits or exterior bounds of the Reservation as delimited in the Executive Orders of December 21, 1882, March 29, 1884, and June 3, 1884, notwithstanding the issuance of any patent, and including rights-of-way running through the Reservation.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>All lands which may hereafter be added to or made a part of the Reservation.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>All land which are held in trust as allotments for the Tribe or individual tribal members.</text>
-        </para>
+        <text>Encourage a holistic approach to conservation, water reuse, storage, recharge, exchanges, transfers, and wastewater treatment strategies.</text>
       </para>
       <para>
         <num>11.</num>
-        <text>"Reservation water" shall mean any and all waters arising on, underlying, flowing through, or otherwise occurring on contained within the Reservation, including waters associated with mineral deposits.</text>
+        <text>Protect traditional, religious and cultural uses of water resources and other resources dependent upon water.</text>
       </para>
       <para>
         <num>12.</num>
-        <text>"Secretary" shall mean the Secretary of the US Department of Interior.</text>
+        <text>Keep water local and encourage off-reservation municipalities to address issues from a holistic watershed perspective.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>30.0105</num>
+      <heading>Definitions</heading>
+      <text>For the purposes of this Act, all terms otherwise not defined below will be given their ordinary meaning, unless the term is specifically defined within the Act.</text>
+      <para>
+        <num>1.</num>
+        <text><strong>"ALLUVIAL GROUND WATER"</strong> will mean water located below the land surface within the Shell Valley Aquifer hydro stratigraphic unit.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><strong>"BMP"</strong> will mean Best Management Practices.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><strong>"CAPTURE ZONE"</strong> The zone around a water well contributing water to the well; the area on the ground surface from where a well captures water.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><strong>"COMMISSION"</strong> will refer to the Tribal Water Resource Commission, or also referred to as TWRC, of the Turtle Mountain Band of Chippewa, organized under this Act for the purpose of water resource management, watershed rehabilitation or enhancement, water development or water quality protection.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><strong>"DOMESTIC POTABLE WATER SUPPLIES"</strong> will mean the water used in residences and businesses for consumption by humans.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><strong>"EPA"</strong> will mean the United States Environmental Protection Agency.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text><strong>"INDIAN COUNTRY"</strong> will mean all territory within the boundaries of the Turtle Mountain Band of Chippewa Reservation including, but not limited to, land owned by non-Indians in fee simple and Reservation land opened to settlement by non-Indians.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text><strong>"MOTHER EARTH"</strong> is the metaphorical expression for the Earth and its biosphere and is the giver and sustainer of life and is a collective subject of public interest.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text><strong>"NON-ALLUVIAL GROUND WATER"</strong> will mean all other ground water beneath the land surface that is not alluvial ground water.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text><strong>"NON-POINT SOURCE POLLUTION"</strong> will mean a source of pollution to air or water that is not an obvious conveyance; a diffuse source that flows across natural or manmade surfaces, such as run-off from agricultural, construction, mining, cultural activities, or from urban areas.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text><strong>"NRCS"</strong> will mean the federal Natural Resources Conservation Service.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text><strong>"PERSON"</strong> will mean an individually enrolled member of the Turtle Mountain Band of Chippewa. Any organization for profit as a sole proprietorship, receiver, partnership, joint venture, trust estate, firm, unincorporated association, corporation or government, including but not limited to any part, subdivision or agency of any of the foregoing will not be construed as a person.</text>
       </para>
       <para>
         <num>13.</num>
-        <text>"Tribal Contract water rights" shall mean Tribal water.</text>
+        <text><strong>"POINT SOURCE POLLUTION"</strong> is any apparent and distinct delivery from where pollutants are or may be discharged into a water body.</text>
       </para>
       <para>
         <num>14.</num>
-        <text>"Tribal Water Administration (TWA)" shall refer to the water resource administrator of the Turtle Mountain Band of Chippewa, as described in <cite path="30.02">Chapter 30.02</cite> of this Code.</text>
+        <text><strong>"TRIBAL LANDS"</strong> will mean any and all lands within the Turtle Mountain Band of Chippewa Jurisdiction and its allotments are defined to include:</text>
+        <para>
+          <num>a.</num>
+          <text>Lands within the exterior bounds of the Reservation as defined in the Executive Orders of December 21, 1882, March 29, 1884, and June 3, 1884.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All lands that may hereafter be added to or made a part of the Reservation.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>All land that is held in trust as allotments for the Tribe or individual tribal members.</text>
+        </para>
       </para>
       <para>
         <num>15.</num>
-        <text>"Tribal water right(s)" shall mean those rights to divert or affect Reservation water which are granted to persons pursuant to the provisions of this Code.</text>
+        <text>"<strong>TRIBAL WATER"</strong> will mean any and all waters arising on, underlying, flowing through, located upon or bordering, otherwise occurring and contained within the Reservation, tributary or non-tributary. All waters reserved at any time to the Turtle Mountain Band of Chippewa.  All water necessary to make the land inhabitable and productive, all water sources within or bordering the reservation and its allotments; including any body of water that drains into waters of the Tribe, up to and including but not limited to; small intermittent or ephemeral waters, those tat are man-made or man-altered, and those broken by man-made or natural obstacles.</text>
       </para>
       <para>
         <num>16.</num>
-        <text>"Tribe" shall mean the Turtle Mountain Band of Chippewa Indians.</text>
+        <text><strong>"TRIBAL WATER ADMINISTRATION (TWA)"</strong> will refer to the Water Management Director of the Turtle Mountain Band of Chippewa, as described in <cite path="30.02">Chapter 30.02</cite> of this Act.</text>
       </para>
       <para>
         <num>17.</num>
-        <text>"Water management district" shall mean a watershed district organized under this Code for the purpose of water resource management, watershed rehabilitation or enhancement, water development or water quality protection.</text>
+        <text><strong>"TRIBAL WATER RESOURCE COMMISSION (TWRC)" </strong>of the Natural Resource Department will be the primary agency responsible for overseeing water resources of the Tribe and for implementing the provisions.</text>
       </para>
       <para>
         <num>18.</num>
-        <text>"Year" shall be defined as the twelve (12) month period beginning April 1st and ending March 31st.</text>
+        <text><strong>"TRIBAL WATER RIGHT(S)"</strong> will mean those rights since "time immemorial".</text>
       </para>
       <para>
         <num>19.</num>
-        <text>"1863 Water Right(s)" shall mean the Tribal and individual Indian on-Reservation water rights existing within the Shell Valley Aquifer.</text>
+        <text><strong>"TRIBE"</strong> will mean the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text><strong>"YEAR"</strong> will be defined as the twelve (12) month period beginning April 1st and ending March 31st.</text>
       </para>
       <annotations/>
     </section>
@@ -191,28 +194,32 @@
   <container>
     <prefix>Chapter</prefix>
     <num>30.02</num>
-    <heading>Establishment of Water Management Organization; Tribal Water Management Board and Tribal Water Administrator</heading>
+    <heading>Establishment of Water Management Organization; Tribal Water Resource Commission and Tribal Water Administrator</heading>
     <section>
       <num>30.0201</num>
-      <heading>Administration by Tribal Water Resources Board</heading>
+      <heading>Administration by Tribal Water Resource Commission (Twrc)</heading>
       <para>
         <num>1.</num>
-        <text>The Water Resources Board (the Board) of the Natural Resources Board shall be the primary agency responsible for controlling water resources of the Tribe and for implementing the provisions of this Code and the Act.</text>
+        <text>The Commission will be composed of 7 tribally enrolled members, appointed by the Tribal Council. The first Commission being composed of 3 members with term of 3 years; 2 members with a term of 2 years; and, 2 members with a term of 1 year. Following the first Commission, each member will serve a 3 year term.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>The Board shall be composed of five (5) members of the Tribal Council from a list submitted by the Natural Resources Board. Terms of appointment shall be for ___ years, the first such Board being composed of ___ members with a term of ___ years, and ___members with a term of ___ years. Members so selected shall stand for retention at any general tribal election.</text>
+        <text>The Commission will have seven (7) members. It is a requirement of this provision that four of the presiding Commissioners be representatives of one (1) an elder , one (1) member from the Public Health sector, one (1) member from Natural Resource Department, one (1) member from the Public Water Department. The other three (3) Commissioners will be chosen at large.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>The powers, duties and responsibilities of the Board are to:</text>
+        <text>Each year, on May 1<sup>st</sup>, the appointment of staggered Commission members will expire. At that time, the Tribal Water Administrator (TWA) will announce vacancies for the Commission, along with the application process.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The powers, duties and responsibilities of the Commission are to:</text>
         <para>
           <num>a.</num>
-          <text>Oversee the implementation of this Code.</text>
+          <text>Oversee the implementation of this Act.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Adopt regulations implementing the provisions of this Code, subject to approval thereof by the Tribal Council and in accordance with the process established by tribal law for adoption of regulations.</text>
+          <text>Adopt regulations implementing the provisions of this Act, subject to approval thereof by the Tribal Council and in accordance with the process established by tribal act for adoption of regulations.</text>
         </para>
         <para>
           <num>c.</num>
@@ -220,67 +227,63 @@
         </para>
         <para>
           <num>d.</num>
-          <text>Adopt such forms, internal rules and additional materials as the Board may consider advisable.</text>
+          <text>Adopt such forms, internal rules and additional materials as the Commission may consider advisable.</text>
         </para>
         <para>
           <num>e.</num>
-          <text>Approve or disapprove permits and licenses under the provisions hereof.</text>
+          <text>Approve or disapprove permits under the provisions hereof.</text>
         </para>
         <para>
           <num>f.</num>
-          <text>Provide such information and make such reports to the States of North Dakota and Montana and to the United States, as are contemplated by the Act.</text>
-        </para>
-        <para>
-          <num>g.</num>
           <text>Declare beneficial uses, critical management areas and water supply conditions, such determinations to be made on the basis of hydrologic analysis and other substantial evidence, and in consideration of existing demands for water.</text>
         </para>
         <para>
-          <num>h.</num>
+          <num>g.</num>
           <text>Oversee the development of integrated water resource information, monitoring and other data for the purpose of informed water resource decision-making.</text>
         </para>
         <para>
-          <num>i.</num>
+          <num>h.</num>
           <text>Develop and regularly present recommendations to the Tribal Council for long-term sources of funds to support tribal water management.</text>
         </para>
         <para>
-          <num>j.</num>
+          <num>i.</num>
           <text>Organize and operate its office in order to discharge its duties and responsibilities effectively.</text>
         </para>
         <para>
+          <num>j.</num>
+          <text>Establish and maintain a technical staff qualified by training and experience to administer and enforce this Act.</text>
+        </para>
+        <para>
           <num>k.</num>
-          <text>Establish and maintain a technical staff qualified by training and experience to administer and enforce this Code.</text>
+          <text>Provide an annual report, June 1<sup>st</sup> of each year, to the Tribal Council and the Reservation community on the status of tribal water resources and provide general education to tribal members and other Reservation residents in water resource protection and management. The primary sections of this act will provide the outline for this report.</text>
         </para>
         <para>
           <num>l.</num>
-          <text>Provide an annual report to the Tribal Council and the Reservation community on the status of tribal water resources and provide general education to tribal members and other Reservation residents in water resource protection and management.</text>
+          <text>Contract, within budget and funding limitations, with consultants, public agencies, or any other public or private entity for the provision of services necessary or advisable to assist the Commission in its responsibilities.</text>
         </para>
         <para>
           <num>m.</num>
-          <text>Contract, within budget and funding limitations, with consultants, public agencies, or any other public or private entity for the provision of services necessary or advisable to assist the Board in its responsibilities.</text>
+          <text>Delegate any of its duties and authorities to the Tribal Water Administrator except the duty or authority:</text>
+          <para>
+            <num>i.</num>
+            <text>To hear disputes regarding the actions of the Tribal Water Administrator and/or water management staff in accordance with the procedures set forth in this Act;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>To approve or disapprove water use permits in accordance with the principals and procedures set forth in this Act; and</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>To adopt regulations and water management plans.</text>
+          </para>
         </para>
         <para>
           <num>n.</num>
-          <text>Delegate any of its duties and authorities to the Tribal Water Administrator except the duty or authority:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>To hear disputes regarding the actions of the Tribal Water Administrator and/or water management staff in accordance with the procedures set forth in this Code;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>To approve or disapprove water use permits in accordance with the principals and procedures set forth in this Code; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>To adopt regulations and water management plans.</text>
+          <text>Commission members will be compensated for services and will be reimbursed for expenses at a rate commensurate with the approved rate established by Tribal Government for Commission compensation Commission members have the right to refuse compensation and may use pro-bono status for tax purposes.</text>
         </para>
         <para>
           <num>o.</num>
-          <text>Board members shall be compensated for services and shall be reimbursed for expenses at a rate commensurate with the approved rate established by Tribal Government for Board compensation.</text>
-        </para>
-        <para>
-          <num>p.</num>
-          <text>Members of the Board shall not hold any other Tribal elective or appointive office, other than their regular Tribal Council seats, during their tenure on the Board. A Board member who is materially, financially, or otherwise directly affected in a particular substantive action of the Board shall be disqualified from participating in the decision.</text>
+          <text>Members of the Commission will not hold any other Tribal elective or appointive office, other than their regular Tribal Council seats, during their tenure on the Commission. A Commission member who is materially, financially, or otherwise directly affected in a particular substantive action of the Commission will be disqualified from participating in a decision or action when permitting occurs.</text>
         </para>
       </para>
       <annotations/>
@@ -288,125 +291,126 @@
     <section>
       <num>30.0202</num>
       <heading>Establishment of Office of Tribal Water Administrator</heading>
+      <text>There is hereby created the office and position of Tribal Water Administrator (TWA). The TWA is the executive arm of the Commission for water management, is responsible directly to the Commission.  The TWA will correlate with the Director of the Natural Resources Department and the Director of the Environmental Protection Program, and has the authority to administer the water acts of the Tribe according to this Act, its regulations, and the general instructions of the Commission. The TWA will collaborate with the Director of the Natural Resource Department, the Director of Environmental Protection Program and all other agencies/departments including but not limited to the Turtle Mountain Housing Authority, Indian Health Service, Forestry, Public Utilities, Transportation, and/or Law Enforcement, et al. When water is concerned, all tribal agencies will adhere to this act.</text>
       <para>
         <num>1.</num>
-        <text>There is hereby created the office and position of Tribal Water Administrator (TWA). The TWA is the executive arm of the Board for water management, is responsible directly to the Board, the Director of the Natural Resources Department and the Director of the Environmental Protection Program, and has the authority to administer the water laws of the Tribe according to this Code, its regulations, and the general instructions of the Board, the Director of the Natural Resources Department and the Director of Environmental Protection.</text>
+        <text>The TWA will be qualified by training or experience in the fields of hydrology, water rights engineering or administration, irrigation, water development, watershed management, water supply, or water quality management and culture.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>The TWA shall be qualified by training or experience in the fields of hydrology, water rights engineering or administration, irrigation, water development, watershed management, water supply, or water quality management.</text>
+        <text>Regulation of water being the lifeblood of the community and critical to the conservation and enhancement of its resources, the TWA will guard all the interests involved in carrying out the duties and authorities of the office.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>Regulation of water being the lifeblood of the community and critical to the conservation and enhancement of its resources, the TWA shall guard all the interests involved in carrying out the duties and authorities of his or her office.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The TWA shall have the following duties and authorities:</text>
+        <text>The TWA will have the following duties and authorities:</text>
         <para>
           <num>a.</num>
-          <text>Administrative and Enforcement Functions.</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>To administer reservation water rights, and ensure maximum compliance with the Code and with the conditions of all permits, determinations, orders, regulations, plans, policies, guidelines, and other actions taken by the Board.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>To enter upon lands within Tribal Jurisdiction to inspect methods of diversion, withdrawal, and other activities affecting water quality and water quantity, to install measuring devices for the purpose of enforcing and administering this Code, and to monitor water use and water quality, and to develop water quality standards for adoption by the Tribal Council.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>In an emergency, to remove, render inoperative, shut down, close, seal, cap, modify, or otherwise control methods of diversion and withdrawal, obstructions to the flow of water, and activities adversely affecting water quality and quantity, subject to expedited appeal by the affected person, as provided in Chapter N of this Code.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>To initiate, by citation and other means, enforcement proceedings before the Board or in Tribal Court or other court of competent jurisdiction for violations of this Code, including injunctive relief.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>To hire, supervise, and discharge office and technical staff.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>To monitor and report all uses of Tribal water and to provide an annual report to the Board on the status and use of tribal resources.</text>
+          <text>Administrative and Enforcement Functions to guarantee that the Culture and Traditional teachings of the Tribe are honored in the Act.</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Advisory Functions.</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>To advise the Board on all water resource related development planning issues, and provide the Board with an annual report on water quality and quantity and the status of water use on the Reservation, and provide suggestions, alternatives, and recommendations for water management.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>To recommend to the Board changes to this Code and to its regulations.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>To develop and submit an annual budget and office policies and procedures to the Board for approval.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>To recommend certain land areas and waters on the Reservation to the Board as suitable for dedication to certain beneficial uses.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>To recommend designation of surface and groundwater regions on the Reservation as "critical management areas" and to proposed specialized provisions for management within those areas.</text>
+          <text>To administer reservation water rights, and ensure maximum compliance with the Act and with the conditions of all permits, determinations, orders, regulations, plans, policies, guidelines, and other actions taken by the Commission .</text>
         </para>
         <para>
           <num>c.</num>
-          <text>Fact-Finding and Information Functions.</text>
+          <text>To enter upon lands within Tribal Jurisdiction to inspect methods of diversion, withdrawal, and other activities affecting water quality and water quantity, to install measuring devices for the purpose of enforcing and administering this Act, and to monitor water use and water quality, and to develop water quality standards for adoption by the Tribal Council.</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>d.</num>
+          <text>To monitor all Tribal Laws pertaining to water to assure compliance with regulations.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>In an emergency, to remove, render inoperative, shut down, close, seal, and cap, modify, or otherwise control methods of diversion and withdrawal, obstructions to the flow of water, and activities adversely affecting water quality and quantity, subject to expedited appeal by the affected person, as provided in this Act.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>To initiate, by citation and other means, enforcement proceedings before the Commission. In Tribal Court, or other court of competent jurisdiction for violations of this Act, including injunctive relief.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>To hire, supervise, and discharge office and technical staff.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>To monitor and report all uses of Tribal water and to provide an annual report to the Commission on the status and use of tribal resources.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Advisory Functions:</text>
+        <para>
+          <num>a.</num>
+          <text>To advise the Commission on all water resource related development planning issues, and provide the Commission with an annual report on water quality and quantity and the status of water use on the Reservation, and provide suggestions, alternatives, and recommendations for water management.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>To recommend to the Commission changes to this Act and to its regulations.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>To develop and submit an annual budget and office policies and procedures to the Commission for approval.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>To recommend certain land areas and waters on the Reservation to the Commission as suitable for dedication to certain beneficial uses.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>To recommend designation of surface and groundwater regions on the Reservation as "critical management areas" and to propose specialized provisions for management within those areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Fact-Finding and Information Functions:</text>
+        <para>
+          <num>a.</num>
           <text>To research and determine water supply and quality characteristics and development possibilities.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>To collect all data and to prepare all reports as required by the Act.</text>
+          <num>b.</num>
+          <text>To collect all data and to prepare all reports as required by this Act.</text>
         </para>
         <para>
-          <num>(3)</num>
-          <text>To collect, maintain and analyze, on a continuing basis, information regarding Reservation water by hydrologic basin, with reference to the integrated use of natural resources and other factors actually or potentially affecting water resources within the Reservation.</text>
+          <num>c.</num>
+          <text>To collect, maintain and analyze, on a continuing basis, information regarding the integrated use of natural resources and other factors actually or potentially affecting water resources within the Reservation.</text>
         </para>
-        <para>
-          <num>(4)</num>
-          <text>To organize and develop a computerized database of Reservation water resource information, organized in a form useful to tribal decision makers and Reservation residents, and provide periodic reports describing the overall structure, use and application of the database.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>To perform ongoing research regarding the overall capacity of the Reservation's watercourses and aquifers, with a view in particular to discovering and reporting the levels above or below which specific water use impairs or affects overall water availability and use, and to determine the extent of potential effects on existing water uses, given hydrologic conditions, from proposed uses of Reservation water.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>To conduct public educational programs and develop educational materials regarding water rights and administration, irrigation issues as determined by the Board and the Director of the Natural Resources Department.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>To prepare, at the Board's request, hydrologic information including alternative scenarios given alternative uses, climatic trends and conditions for the use of the Board in determining beneficial uses, critical management areas, and water supply conditions.</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>To assist all applicants for permits or licenses in assembling and analyzing all hydrologic and environmental data required to be submitted with the application and otherwise to assist in the preparation of the application.</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>To determine the extent of potential effects on existing users of a proposed use of Tribal water.</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>To determine watershed-wide rotation schedules for water diversion to meet demands in water short years.</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>To establish appropriate water duties for Reservation lands and watersheds through hydrologic research and recommend technological changes or modifications to improve water use, water quality or efficiency.</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>To enter into cooperative agreements with the States of North Dakota and Montana and any federal agency to facilitate the collection and sharing of data regarding groundwater resources.</text>
-        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>To organize or seek resources to develop a computerized database of Reservation water resource information, organized in a form useful to tribal decision makers and Reservation residents, and provide periodic reports describing the overall structure, use and application of the database.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>To perform or coordinate ongoing research regarding the overall capacity of the Reservation's watercourses and aquifers, with a view in particular to discovering and reporting the levels above or below where specific water use impairs or affects overall water availability and use, and to determine the extent of potential effects on existing water uses, given hydrologic conditions, from proposed uses of Tribal water.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>To conduct public educational programs and develop educational materials regarding water rights and administration, irrigation issues as determined by the Commission and the Director of the Natural Resources Department.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>To prepare, at the Commission's request, hydrologic information including alternative scenarios given alternative uses, climatic trends and conditions for the use of the Commission in determining beneficial uses, critical management areas, and water supply conditions.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>To assist all applicants for permits in assembling and analyzing all hydrologic, public health, and environmental data required to be submitted with the application and otherwise to assist in the preparation of the application.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>To determine the extent of potential effects on existing users of a proposed use of Tribal water.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>To determine watershed rotation schedules for water diversion to meet demands in water short years.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>To establish appropriate water duties for Reservation lands and watersheds through hydrologic research and recommend technological changes or modifications to improve water use, water quality or efficiency.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>To present tribal water information and findings at tribal meetings, workshops and educational functions.</text>
       </para>
       <annotations/>
     </section>
@@ -420,11 +424,19 @@
       <heading>Water Management Purpose</heading>
       <para>
         <num>1.</num>
-        <text>The purpose of <cite path="30.03">this Chapter</cite> is to set forth the primary physical, hydrologic and engineering principles guiding the management of surface and ground water resources on the Reservation. Such procedures are required to effectively manage, fully utilize and protect the water rights of the Turtle Mountain Band of Chippewa, and to assure compliance with applicable laws.</text>
+        <text>The purpose is to set forth the primary cultural, physical, hydrologic and engineering principles guiding the management of surface and ground water resources of the watershed. Such procedures and ceremonies are required to effectively manage, fully utilize and protect the water rights of the Turtle Mountain Band of Chippewa, and to maintain compliance with applicable laws.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Management and administration of existing and proposed uses of water will be through a permit system, administered by the WRB and the TWA's office. The permit system for water use is set forth in Chapter Four.</text>
+        <text>Management and administration of existing and proposed uses of water will be through a permit system, administered by the TWRC and the TWA's office. The permit system for water use is set forth in Section 30.4.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Adopt BMP's, all Federal, State, Tribal, &amp; Private agencies will comply.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Also to recognize topographical gravel, especially graveled surfaces, as a cleaning process for the water as it runs out of the hills and recharges the Shell Valley Aquifer"</text>
       </para>
       <annotations/>
     </section>
@@ -433,51 +445,39 @@
       <heading>Comprehensive Water Management Plan</heading>
       <para>
         <num>1.</num>
-        <text>The Tribal Water Resources Board shall adopt, at least once every five (5) years, a comprehensive water management plan which shall guide water resource decisions, permitting and management during the specified period. The Tribal Water Resources Board, in conjunction with the Tribal Water Administrator, shall develop and adopt guidelines and regulations for water resource use based upon an organized program of water management research.</text>
+        <text>The TWRC will adopt, at least once every five (5) years, a comprehensive water management plan that will guide water resource decisions, permitting and management during the specified period. The Tribal Water Resource Commission, in conjunction with the Tribal Water Administrator, will develop and adopt guidelines and regulations for water resource use based upon Traditional Tribal teachings and an organized program of water management research.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>The Comprehensive Management Plan (CMP) shall include, at a minimum, a basin by basin and reservation-wide description of the following:</text>
+        <text>The Comprehensive Management Plan (CMP) will include, at a minimum, a basin by basin and sub- watershed wide description of the following:</text>
         <para>
           <num>a.</num>
-          <text>Surface and ground water users and usage, diversion points, and water quality;</text>
+          <text>Surface and ground water users and usage, diversion points <strong>(see specific diversion points map, Appendix A)</strong>, and water quality <strong>(see Appendix B studies); to be added</strong></text>
         </para>
         <para>
           <num>b.</num>
-          <text>A statement of the hydrologic condition of surface water resources (drought, surplus, normal; water quality, water balance) and ground water resources (overdraft conditions, steady-state, recharge water balance);</text>
+          <text>A statement of the hydrologic condition of surface water resources (drought, surplus, normal; water quality, water balance) and alluvial ground water resources (overdraft conditions, steady-state, recharge water balance); <strong>Appendix C to be added</strong></text>
         </para>
         <para>
           <num>c.</num>
-          <text>A statement of water availability, including a projection of hydrologic conditions, and identified needs and planned development;</text>
+          <text>A list of prioritized uses, developed in conjunction with water users in each sub-watershed, that will serve to guide allocation decisions during unusual hydrologic conditions;</text>
         </para>
         <para>
           <num>d.</num>
-          <text>A list of prioritized uses, developed in conjunction with water users in each watershed, which would serve to guide allocation decisions during unusual hydrologic conditions;</text>
+          <text>A statement of critical resource issues that affect overall resource uses within each sub-watershed and ground water system; <strong>Appendix D to be added</strong></text>
         </para>
         <para>
           <num>e.</num>
-          <text>A statement of use planned for any excess, surplus or unused Tribal water resources, pursuant to the Tribal Council's public trust obligation to protect and manage the body of Tribal water rights;</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>A statement of critical resource issues which affect overall resource uses within each watershed and ground water system;</text>
-        </para>
-        <para>
-          <num>g.</num>
-          <text>A statement of levels above which resource uses could be impaired;</text>
-        </para>
-        <para>
-          <num>h.</num>
-          <text>Other information which the Board deems necessary to inform the public and promote the use of Tribal water for the benefit of the Tribe.</text>
+          <text>Other information that the Commission deems necessary to inform the public and promote the use of Tribal water for the benefit of the Tribe.</text>
         </para>
       </para>
       <para>
         <num>3.</num>
-        <text>There is hereby established a permanent "Water Management Fund" which shall be used by the Board and the TWA to conduct research, provide training, develop Tribal capabilities, develop monitoring systems, and develop projects which permit the development of CMP's and continued monitoring of Tribal water resources.</text>
+        <text>There is hereby established a permanent "Water Management Fund" that will be used by the TWRC and the TWA to conduct research, provide training, develop Tribal capabilities, develop monitoring systems, and develop projects that permit the development of CMP's and continued monitoring of Tribal water resources.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>Proposed uses of water within each CMP period will be evaluated in relation to the CMP for each watershed area. The TWA shall conduct investigative research which evaluates the impact of the proposed water use upon critical factors identified in the CMP, natural resource use criteria, hydrologic conditions, and prioritized water uses. The Board shall adopt criteria and guidelines to facilitate the TWA's research and the evaluation of permits for water use.</text>
+        <text>The TWA will analyze investigative research that evaluates the impact of the proposed water use upon critical factors identified in the CMP, natural resource use criteria, hydrologic conditions, and prioritized water uses. The Commission will adopt criteria and guidelines to facilitate the TWA's research and the evaluation of water use. Also to recognize topographical gravel, especially graveled surfaces, as a cleaning process for the water as it runs out of the hills and recharges the Shell Valley Acquifer.</text>
       </para>
       <annotations/>
     </section>
@@ -485,195 +485,201 @@
       <num>30.0303</num>
       <heading>Water Supply Management</heading>
       <para>
-        <num>1.</num>
+        <num>(a)</num>
         <text>Surface Water and Alluvial Ground Water Resources</text>
+        <text>Surface and alluvial ground water resources are interconnected and the use of surface or ground water will be guided by hydrologic conditions and Tribal law.</text>
         <para>
-          <num>a.</num>
-          <text>Surface and alluvial ground water resources are interconnected and the use of surface or ground water shall be guided by hydrologic conditions and the law.</text>
+          <num>1.</num>
+          <text>In evaluation of the use or transfer of surface water, the TWA will consider:</text>
+          <para>
+            <num>a.</num>
+            <text>The impact of the surface diversion on other surface water user.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The impact of the surface diversion on ground water recharge and the overall water balance, including, return flow, in the immediate and relevant area.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The impact of the surface water use upon the capture zone of any existing well in the immediate and relevant area, the size of the capture zone being determined by regulation.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>The impact on the surface water use and return flow upon surface or alluvial ground water quality.</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Waste water pits are not permitted.</text>
+          </para>
         </para>
         <para>
-          <num>b.</num>
-          <text>In evaluation of the use or transfer of surface water, the TWA shall consider:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>The impact of the surface diversion on other surface water user,</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The impact of the surface diversion on ground water recharge and the overall water balance, including, return flow, in the immediate and relevant area,</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The impact of the surface water use upon the capture zone of any existing well in the immediate and relevant area, the size of the capture zone being determined by regulation,</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The impact on the surface water use and return flow upon surface or alluvial ground water quality,</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>In evaluation of the use or transfer of alluvial ground water, the TWA shall consider:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>The impact of ground water pumping upon surface water resources, as identified using appropriate values for aquifer characteristics hydrologic tools such as the Glover method (Glover, 1975),</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Overall proposed use in comparison to hydrologic availability and need,</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The impact of the proposed use on the overall allocation of water for each watershed,</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The impact of the proposed alluvial ground water use upon surface or ground water quality,</text>
+          <num>2.</num>
+          <text>In evaluation of the use or transfer of alluvial ground water, the TWA will consider:</text>
+          <para>
+            <num>a.</num>
+            <text>The impact of ground water pumping upon surface water resources, as identified using appropriate values for aquifer characteristics hydrologic tools such as the Glover method (Glover, 1975).</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The impact of the proposed use on the overall allocation of water for each sub-watershed.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The impact of the proposed alluvial ground water use upon surface or ground water quality.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>2.</num>
-        <text>Declaration of Hydrologic Conditions.</text>
+        <num>(b)</num>
+        <text>Declaration of Hydrologic Conditions</text>
         <para>
-          <num>a.</num>
-          <text>No later than March 1 of each year, the TWA shall prepare a water supply forecast to the WRB for the declaration of the existence of surplus, normal and drought conditions, and the approximate time of occurrence of such condition will exist in the coming year. As a result of the differences between watersheds, the TWA may recommend and the WRB designate one portion of the Reservation in one condition and another part of the Reservation in another condition. The Declaration of Hydrologic Condition shall be based on hydrologic evidence and in consideration of total demand, as follows:</text>
+          <num>1.</num>
+          <text>Stream gauges will be put in place to monitor ground water flow.</text>
         </para>
         <para>
-          <num>(1)</num>
-          <text>Normal Condition: a condition in which the mean annual flow for a watershed is achieved and current and proposed demand is satisfied on the stream.</text>
+          <num>2.</num>
+          <text>No later than March 1 of each year, the TWA will prepare a water supply forecast to the TWRC for the declaration of the existence of drought conditions in the coming year. As a result of the differences between watersheds, the TWA may recommend and the WRB designate one portion of the Reservation in one condition and another part of the Reservation in another condition.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>Surplus Condition: a condition on a perennial stream or river in which the mean annual flow of the watershed is exceeded and there is excess water above demand on an entire stream or a specific reach of stream, including the needs of downstream users. For the purposes of establishing demand under this paragraph, rights under Tribal law shall be determined by the established water duty; for State rights analysis off-reservation, state permits shall be limited to the water duty established by state law.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Drought Condition: a condition in which the mean annual flow of the watershed is not achieved and insufficient water exists to satisfy the demand on an entire stream or a specified reach of stream, including the needs of downstream users. For the purposes of establishing demand under this paragraph, rights under Tribal law shall be determined by the established water duty for drought conditions; for State rights analysis off-reservation, state permits shall be limited to the water duty established by state law for drought conditions.</text>
+          <num>3.</num>
+          <text>The Declaration of Hydrologic Condition will be based on hydrologic evidence and in consideration of total demand, as follows:</text>
+          <para>
+            <num>a.</num>
+            <text>Normal Condition: a condition when the mean annual flow for a watershed is achieved and current and proposed demand is satisfied on the stream.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Drought Condition: a condition when the mean annual flow of the watershed is not achieved and insufficient water exists to satisfy the demand on an entire stream or a specified reach of stream, including the needs of downstream users. For the purposes of establishing demand under this paragraph, rights under Tribal law will be determined by the established water duty for drought conditions; the Tribe retains jurisdiction over non-Indians when those matters affect the internal and social relations of the Tribe, its water resources and/or the Shell Valley Aquifer and its tributaries.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>3.</num>
-        <text>Notice of Supplemental Water Availability.</text>
+        <num>(c)</num>
+        <text>Notice of Supplemental Water Availability</text>
+        <text>Pursuant to the Declaration of Hydrologic Conditions for surface water resources, notice of supplemental water availability through ground water development, water exchange, transfer and purchase will be issued. If no additional supplemental water exists, water allocation procedures proceed according to formulae determined by the TWA. Commission access to and payment for supplemental water or distribution facilities will be determined by regulations adopted by the Commission.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Surface Water Allocation</text>
         <para>
-          <num>a.</num>
-          <text>Pursuant to the Declaration of Hydrologic Conditions for surface water resources, notice of supplemental water availability through ground water development, water exchange, transfer and purchase shall be issued. If no additional supplemental water exists, water allocation procedures proceed according to formulae determined by the TWA, Commission and Watershed Districts. Access to and payment for supplemental water or distribution facilities shall be determined by regulations adopted by the Commission.</text>
+          <num>1.</num>
+          <text>
+            <u>Guidelines</u>
+          </text>
+          <para>
+            <num>a.</num>
+            <text>A Water Allocation Permit is required for the diversion of ground and/or surface water in excess of 50,000 gallons per day for a period of more than 1 day in a 365 consecutive day period.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>A permit for any level of ground water use  is required when a "stressed" aquifer is</text>
+            <text>involved.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>New uses of Tribal water resources will be granted pursuant to procedures and conditions outlined in this Act and by regulations adopted by the TWRC, only if existing tribal uses are satisfied given hydrologic conditions.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Water originating from the Shell Valley Aquifer and its watershed will not be permitted for Hydraulic Fracturing purposes or for the maintenance of Hydraulic Fractured wells.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text><u>Hydrologic conditions affect water allocation as follows</u>:</text>
+          <para>
+            <num>a.</num>
+            <text>Based on the recommendations of the TWA, allocations will be determined by the TWRC, beneficially and efficiently.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Current users have first priority; new users are then allocated proportionately.</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In drought conditions, every effort will be made to find supplemental water through water development of exchange as a first measure to meet water demands.</text>
         </para>
       </para>
       <para>
-        <num>3.</num>
-        <text>Surface Water Allocation.</text>
+        <num>(e)</num>
+        <text>Alluvial Ground Water Resources</text>
         <para>
-          <num>a.</num>
-          <text>Guidelines</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>For existing, Reservation-based uses, water is to be allocated in accordance with historic practices of rotation and scheduling. For existing, off-reservation uses, water rights shall be tabulated and recorded, and used in watershed planning and gross allocation decisions.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>New uses of Tribal water resources are granted pursuant to procedures and conditions outlined in <cite path="30.03">this Chapter</cite> and by regulations adopted by the Commission only if existing Reservation uses are satisfied given hydrologic conditions.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Water delivery systems on the Reservation shall divert only that quantity of water to which they are legally entitled except during surplus and drought conditions as specified in <cite path="30.03">this Chapter</cite>.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Hydrologic conditions affect water allocation as follows:</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Surplus water that may be used beneficially and efficiently will be allocated by the Commission, based on the recommendation of the TWA, notably among users first; later priorities and new uses are then allocated a proportionate share of the remainder;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>In drought conditions, every effort will be made to find supplemental water through water development of exchange as a first measure to meet water demands. Thereafter, water will be allocated on a priority basis unless special agreements between the Tribe and other entities provide for a temporary change of water allocation formulae.</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Tribal water rights in use at the time of the drought period, set to drought diversion rates, shall be honored in full amount, except where extreme drought condition require the pro rata sharing of drought supplies;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Water rights currently in use at the time of the drought period, set to drought diversion rates, will be honored in full amount, except where extreme drought may require the pro rata sharing of water resources among users;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>All other water rights are satisfied as supply is available;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>If a drought condition prevails such that not enough water exists to satisfy Tribal water rights, all water users will be satisfied to the extent physically possible, but at a rate less than specified in the permit. The diversion rate shall be set according to the specific demands and in relation to overall supply or pursuant to agreements among users. The Commission may set temporary use priorities during periods of drought after notice and hearing.</text>
-        </para>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Non Alluvial Ground Water Resources</text>
-        <para>
-          <num>a.</num>
-          <text>Declaration of Aquifer Conditions:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>No later than March 1 of each year, the TWA shall determine and report on the condition of the alluvial and non-alluvial ground water resources of the reservation, including but not limited to, water levels, water use, amount of water in storage, water availability, artesian pressures and water levels, water quality, and other characteristics.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>An annual declaration of ground water development level goals, including but not limited to existing protected rights, desired pumping rates, number of new wells allowed, and special seasonal pumping goals, establishes the number of new wells allowed each year and specifies desired pumping rates.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The waste of ground water is prohibited by this Code. The Board shall have the authority to close, shut, seal or render inoperative any well which contaminates another. The Board shall develop regulations for the prevention of waste, contamination or pollution of ground water through leaky casings, pipes, fittings, values or pumps either above or below the land surface, provided that in the following cases the withdrawal or use of ground water shall not be construed as waste, such prohibition shall include septic tanks systems and all flowing wells:</text>
+          <num>1.</num>
+          <text>
+            <u>Declaration of Aquifer Conditions</u>
+          </text>
           <para>
-            <num>(a)</num>
-            <text>The withdrawal of ground water in connection with the construction, development, testing or repair of a well or other means of withdrawing ground water,</text>
+            <num>a.</num>
+            <text>No later than March 1 of each year, the TWA will determine and report on the condition of the alluvial and non-alluvial ground water resources of the reservation, including but not limited to, water levels, water use, amount of water in storage, water availability, artesian pressures and water levels, water quality, and other characteristics.</text>
           </para>
           <para>
-            <num>(b)</num>
-            <text>The inadvertent loss of ground water owing to breakage of a pump valve, pipe or fitting, if reasonable diligence is shown by the person in effecting the necessary repair,</text>
+            <num>b.</num>
+            <text>An annual declaration of ground water development level goals, including but not limited to existing protected rights, desired pumping rates, number of new wells allowed, and special seasonal pumping goals, establishes the number of new wells allowed each year and specifies desired pumping rates.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>
+            <u>Waste of Ground Water is Prohibited</u>
+          </text>
+          <para>
+            <num>a.</num>
+            <text>The Commission will have the authority to close, shut, and seal or render inoperative any well that contaminates another.</text>
           </para>
           <para>
-            <num>(c)</num>
-            <text>The withdrawal of water for drainage purposes to increase the productivity of agricultural lands,</text>
+            <num>b.</num>
+            <text>The Commission  will develop regulations for the prevention of waste, contamination or pollution of ground water through leaky casings, pipes, fittings, valves or pumps either above or below the land surface, provided that in the following cases the withdrawal or use of ground water will not be construed as waste:</text>
           </para>
           <para>
-            <num>(d)</num>
-            <text>The use of ground water to develop wetlands, sustain in-stream flows, or otherwise enhance cultural values for fish and wildlife purposes,</text>
+            <num>(1)</num>
+            <text>The withdrawal of ground water in connection with the construction, development, testing or repair of a well or other means of withdrawing ground water;</text>
           </para>
           <para>
-            <num>(e)</num>
-            <text>The use of a spring or ground water resource for cultural, religious or traditional purposes including but not limited to gathering of herbs, soils, rocks, the conduct of ceremonies, and</text>
+            <num>(2)</num>
+            <text>The inadvertent loss of ground water owing to breakage of a pump valve, pipe or fitting, if reasonable diligence is shown by the person in effecting the necessary repair;</text>
           </para>
           <para>
-            <num>(f)</num>
-            <text>The disposal of water in connection with the refining, production, reducing, smelting and milling of ores, coal, petroleum, gas and other industrial minerals, provided, however, that such waters meet all Tribal and federal guidelines for water quality.</text>
+            <num>(3)</num>
+            <text>The withdrawal of water for drainage purposes to increase the productivity of agricultural lands;</text>
           </para>
           <para>
-            <num>(g)</num>
+            <num>(4)</num>
+            <text>The use of ground water to develop wetlands, sustain in-stream flows, or otherwise enhance cultural values for fish and wildlife purposes; the use of a spring or ground water resource for cultural, religious or traditional purposes including but not limited to gathering of herbs, soils, and rocks in the conduct of ceremonies.</text>
+          </para>
+          <para>
+            <num>c.</num>
             <text>Flowing wells will be required to be capped or equipped with valves to control the loss of artesian pressure. Technical assistance or monetary assistance can be provided for those people that show a good faith effort but do not have the resources available for correction.</text>
           </para>
+          <para>
+            <num>d.</num>
+            <text>Groundwater will not be used for fracking purposes.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Disposal of Wastes Prohibited</text>
+        <text>The disposal of water in connection with the refining, production, reducing, smelting and milling of ores, coal, petroleum, gas and other industrial minerals is prohibited.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Ground Water Allocation Procedures</text>
+        <para>
+          <num>1.</num>
+          <text>Existing non-alluvial and alluvial ground water uses are to be protected according to historic practices of use, in accordance with Tribal and Federal Law, to protect water resources.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>Ground Water Allocation Procedures.</text>
+          <num>2.</num>
+          <text>Reservation Tribal water users, Tribal governments, Tribal organizations or affiliations, will have first right to alluvial ground water resources. New and proposed uses of alluvial ground water will be permitted if such uses comply with this Act.</text>
         </para>
         <para>
-          <num>(1)</num>
-          <text>Existing non-alluvial and alluvial ground water uses are to be protected according to historic practices of use, subject to the Tribe's public trust obligation to protect Tribal land and water resources.</text>
+          <num>3.</num>
+          <text>Aggregate impacts to surface water, ground water or water rights will be considered in accordance with this Act, and conditions for use may be established by the TWRC for alluvial ground water use.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>Reservation Tribal users, Tribal governments, organizations or affiliations, shall have first right to alluvial ground water resources. Among Tribal users of the Tribal ground water right, new and proposed uses of alluvial ground water shall be permitted if such uses comply with water rights, cumulative impacts to surface water, ground water or water rights or other conditions or policies established by the Commission for alluvial ground water use.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>If additional ground water resources are available after Tribal individuals, the Tribal Council, or all other Tribal entities have had the opportunity to apply, allocation of ground water will be made on a priority and reasonable use basis.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Where hydrologic research determines that an existing or proposed use must be conditioned in order to protect the resource, lands, or Tribal water rights, or other waters affected by such use, the Commission shall have the authority to modify or condition such uses.</text>
+          <num>4.</num>
+          <text>Where hydrologic and environmental research determines that an existing or proposed use must be regulated in order to protect the resources, lands, or Tribal water rights, or other waters affected by such use, the TWRC will have the authority to determine such uses.</text>
         </para>
       </para>
       <annotations/>
@@ -682,213 +688,148 @@
       <num>30.0304</num>
       <heading>Water Quality Management and Protection</heading>
       <para>
-        <num>1.</num>
-        <text>Surface and ground water quality shall be protected under this Code through:</text>
+        <num>(a)</num>
+        <text>Surface and Ground Water Quality</text>
         <para>
-          <num>a.</num>
-          <text>The adoption and establishment of Tribal water quality standards;</text>
+          <num>1.</num>
+          <text>The establishment and adoption of Tribal water quality standards as set forth by this act; currently and   until otherwise adopted, the water quality standards for this act will follow Water Quality Standards Handbook - Chapter 2: Designation of Uses (40 CFR 131.10).</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>Conditioning water uses to achieve water quality goals; and</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Through effective management of land and natural resources.</text>
-          <text>Water quality regulation will remain under the authority of the TWA until such time as the Tribal Council, following advice and direction from the Director of the Natural Resources Department and the Director of the Environmental Protection Program, determines that a separate water quality management program is needed.</text>
+          <num>2.</num>
+          <text>Regulating water uses to achieve water quality standards and with effective management of land and    natural resources.</text>
         </para>
       </para>
       <para>
-        <num>2.</num>
-        <text>Adoption of Interim Water Quality Standards.</text>
+        <num>(b)</num>
+        <text>Water Quality Regulation</text>
         <para>
-          <num>a.</num>
-          <text>As provided for in the Federal Clean Water Act, and for the purposes of administration of water quality, this Code adopts, on an interim basis, Draft Tribal Water Quality Standards for domestic, agricultural, industrial, and fish wildlife, and recreational uses for Tribal waters in the Shell Valley Aquifer. In addition, cultural and religious use designations shall be established which take into account unique Tribal water uses. Upon adoption of this Water Code by the Tribal Council, the Draft Tribal Water Quality Standards shall be submitted to the Regional Office of the Environmental Protection Agency for approval.</text>
+          <num>1.</num>
+          <text>Any proposed use of water, or use of the watershed resources of the Tribe that affects the quality or quantity of Tribal water above a limit of fifty (50) cubic feet per second, one hundred (100) gallons per minute or potentially exceeds or violates a water quality standard will be required to conduct an environmental assessment, or further investigations, as regulated by the Commission.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>Water quality standards for ephemeral drainages shall be adopted at a later date by the Commission, pursuant to investigations by the TWA.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Interim federal standards for drinking water quality as established under the Federal Safe Drinking Water Act are hereby adopted and apply to all potable water sources and systems on the Reservation. Compliance with such standards will be necessary to the receipt of a permit.</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>The National Discharge Pollution Elimination System (NPDES) program, the 404 Permit System, and other programs within federal environmental law shall remain under the jurisdiction of the appropriate federal agency until such time as Tribal capability is determined to be sufficient to warrant assumption of those programs. Tribal assumption of any federally administered environmental program shall be decided upon by the Tribal Council after receiving advice and guidance from the Board, the Director of the Natural Resources Department and the Director of the Environmental Protection Program.</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Any proposed use of water, or use of the watershed resources of the reservation which affects the quality or quantity of Tribal water above a limit of fifty (50) cubic feet per second, one hundred (100) gallons per minute or potentially exceeds or violates a water quality standard will be required to conduct an environmental assessment, or further investigations, as regulated by the Board.</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>Compliance with such standards shall be administered by the TWA and Commission in accordance with procedures specified in this Code and pursuant to the development of any future Tribal environmental laws and regulations.</text>
+          <num>2.</num>
+          <text>Compliance with such standards will be administered by the TWA and the TWRC in accordance with procedures specified in this Act and pursuant to the development of any future Tribal environmental laws and regulations.</text>
         </para>
       </para>
       <para>
-        <num>3.</num>
-        <text>Classification of Reservation Water Resources.</text>
+        <num>(c)</num>
+        <text>Classification of Reservation Water Resources</text>
         <para>
-          <num>a.</num>
-          <text>Reservation surface and ground water resources shall be characterized and classified according to a system of community-defined uses, Tribal priorities, and accepted scientific methods. These classifications will be updated every five (5) years and used to guide permitting and water quality management requirements to water users.</text>
+          <num>1.</num>
+          <text>Reservation surface and ground water resources will be characterized and classified according to a system of community-defined uses, Tribal priorities, and accepted scientific methods. These classifications will be updated every five (5) years and used to guide permitting and water quality management requirements to water users.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>Compliance with these classifications, and standards adopted for each, will be necessary to obtain water use permits, and shall be administered and enforced by the Commission and the TWA in accordance with procedures established in this Code.</text>
+          <num>2.</num>
+          <text>Compliance with these classifications, and standards adopted for each, will be necessary to obtain water use permits, and will be administered and enforced by the Commission and the TWA in accordance with procedures established in this Act.</text>
         </para>
         <para>
-          <num>c.</num>
-          <text>Opportunities for water quality treatment shall be assessed with regard to each classified water source.</text>
-        </para>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Adoption of Best Management Practices (BMP's) in Controlling Non-Point Source Pollution.</text>
-        <para>
-          <num>a.</num>
-          <text>Interim BMP's, following those developed by the NRCS, EPA, and other federal agencies for agricultural, rangeland and soil conservation are hereby adopted by this Code, and will be used to guide and condition water uses so as to protect the Tribal water rights, water supply and quality.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Water quality assessment and monitoring for non-point sources of pollution shall be required as a condition of water permit issuance. The TWA shall develop methods for cost effective non-point source water pollution assessment and monitoring.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>A system which encourages and rewards non-point source pollution control activities, and provides real incentives for the landowner, shall be identified and adopted by the Commission.</text>
+          <num>3.</num>
+          <text>Opportunities for water quality treatment will be assessed with regard to each classified water source.</text>
         </para>
       </para>
       <para>
-        <num>5.</num>
-        <text>Establishment of a Long-Term Water Quality Monitoring Program for Reservation and Region-wide Water Resources.</text>
+        <num>(d)</num>
+        <text>Adoption of Best Management Practices (BMP's) in Controlling Non-Point Source Pollution</text>
         <para>
-          <num>a.</num>
+          <num>1.</num>
+          <text>Interim BMP's, following those developed by the NRCS, EPA, and other federal agencies for agricultural, rangeland and soil conservation are hereby adopted by this Act, and will be used to guide and condition water uses so as to protect the Tribal water rights, water supply and quality.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Once BMP's are adopted, all Tribal agencies will comply with the BMP's of this act.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Non-compliance of adopted BMP's, by other agencies, will be a violation of this act.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Water quality assessment and monitoring for non-point sources of pollution will be required as a condition of water permit issuance. The TWA will develop methods for cost effective non-point source water pollution assessment and monitoring.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>A system that encourages and rewards non-point source pollution control activities that provides real incentives for the landowner or business owner may be identified and adopted by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Long-Term Water Quality Monitoring Program</text>
+        <para>
+          <num>1.</num>
           <text>In the interests of protecting the long-term quality of Reservation water resources, forecasting trends, and anticipating changes to land or water use, the Commission and TWA hereby establish a long-term water quality monitoring program for reservation resources. Resources to support the program will be coordinated through federal, state and other local sources and agencies.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>Annual reports on water quality shall be prepared in conjunction with annual water supply reports for the Reservation, emphasizing status, trends and concerns.</text>
+          <num>2.</num>
+          <text>Annual reports on water quality will be prepared in conjunction with annual water supply reports for the Reservation, emphasizing status, trends and concerns.</text>
         </para>
         <para>
-          <num>c.</num>
-          <text>Resources which permit the local analysis of Reservation water quality shall be developed as a means of encouraging water quality monitoring.</text>
+          <num>3.</num>
+          <text>Resources that permit the local analysis of Reservation water quality will be developed as a means of encouraging water quality monitoring.</text>
         </para>
       </para>
       <para>
-        <num>6.</num>
-        <text>Management of Domestic Potable Water Supplies.</text>
+        <num>(f)</num>
+        <text>Management of Domestic Potable Water Supplies</text>
         <para>
-          <num>a.</num>
-          <text>The quality of domestic potable water supplies will be managed and protected according to the requirements of the federal Safe Drinking Water Act is hereby adopted in this Code.</text>
+          <num>1.</num>
+          <text>The quality of domestic potable water supplies will be managed and protected according to the requirements of the federal Safe Drinking Water Act and is hereby adopted in this Act.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>The TWA shall provide oversight of the management of such systems and shall assure compliance with the standards established by the federal government and adopted by the Turtle Mountain Band of Chippewa.</text>
+          <num>2.</num>
+          <text>The TWA will provide oversight of the management of such systems and will assure compliance with the standards established by the federal government and adopted by the Turtle Mountain Band of Chippewa.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Surface water and groundwater diverted or extracted from trust land shall be usable for domestic, agricultural, and light industrial purposes only.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>No water shall be diverted upon or from lands held in trust for the Tribe or its members without a permit from the Tribe except for on-site domestic, agricultural, and light industrial purposes.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>No bulk amounts of water shall be diverted from surface waters appurtenant to lands held in trust for the Tribe or its members without a permit from the tribe.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>No bulk amounts water shall be extracted from groundwater from lands held in trust for the Tribe or its members without a permit from the tribe.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>No bulk amounts of water shall be transported from trust lands onto non-trust lands for any purposes.</text>
         </para>
       </para>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0305</num>
-      <heading>Specific Uses of Water; Management Practices</heading>
       <para>
-        <num>1.</num>
+        <num>(g)</num>
+        <text>Management of Storm Water Run-off</text>
+        <para>
+          <num>1.</num>
+          <text>The TWA will assess those areas of the reservation will benefit from Bioretention Islands or rain gardens.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>An onsite Bioretention Island or rain garden to treat storm water contaminants may be mandated in certain areas and enforced by this Act.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Snow Removal</text>
+        <text>It is a violation of this act, in the event of snow removal, to dispose of snow in a water source that includes but is not limited to a creek, lake, stream, holding pond, or slough and is considered "illegal dumping".</text>
+      </para>
+      <para>
+        <num>(i)</num>
         <text>Agricultural Water Use</text>
         <para>
-          <num>a.</num>
-          <text>Agricultural water use forms an important cornerstone of the Reservation economy and aspect of reservation surface and ground water use. The overall goal of this Code is to encourage the effective use of water in agriculture, water conservation, and to minimize water quality degradation.</text>
+          <num>1.</num>
+          <text>Agricultural water use is an aspect of reservation surface and groundwater use.</text>
         </para>
         <para>
-          <num>b.</num>
-          <text>As a guide to water use in agriculture, the Board and TWA shall develop procedures for assuring the timely application of water to agricultural lands in amounts determined by crop water need.</text>
+          <num>2.</num>
+          <text>As a guide to water use in agriculture, the Commission and TWA will develop BMP's for agricultural practices.</text>
         </para>
         <para>
-          <num>c.</num>
-          <text>Irrigation scheduling, rotation and soil moisture monitoring will be required for new uses of Tribal water. The TWA will develop methods and mechanisms to increase the use of these techniques to increase the efficiency of existing uses.</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>The Board shall develop regulations, guidelines and mechanisms for the adoption of BMP's for agricultural runoff from Tribal lands, and shall establish a monitoring program for reservation agricultural runoff water quality.</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>The Board shall adopt regulations for the "waste" of water on agricultural lands, with due regard to irrigation practices, the condition of distribution facilities, soil needs, and use of return flow or sub-irrigation benefits.</text>
-        </para>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Use of Water for Mineral Extraction. Production, Refining or Development.</text>
-        <para>
-          <num>a.</num>
-          <text>The Board shall adopt regulations for the protection of surface and ground water resources during all phases of fossil fuel and mineral resource exploration, development or processing, including but not limited to:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Regulations governing the conduct of seismic testing, blasting or other activities;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Regulations governing the injection and disposal of waters used in mineral extraction or processing;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Well construction regulations to prevent ground water contamination;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Regulations governing the disposal of land application brines;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Regulations governing the prevention of excessive surface runoff from exploration sites and remediation of sites once exploration is completed;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Regulations governing the disposal of oil field wastes, fluids, brines, or other chemicals used in the exploration, production, refining or processing of oil and gas; and</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Regulations governing, the exploration, mining, development or operation, and reclamation of areas utilized for coal mining.</text>
-        </para>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Water Resources and Watershed Best Management Practices.</text>
-        <para>
-          <num>a.</num>
-          <text>The Board shall establish regulations for the protection of water resources regarding such uses as rangeland, forestry, and wildlife habitat maintenance and enhancement. The regulations shall include, but are not limited to:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Procedures for the adoption and application of BMP's for forest harvesting, road construction stream side protection zones, reseeding and terracing;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Procedures and regulations for the effective development of water and grazing practices to distribute livestock effectively across rangelands and riparian zone protection areas to protect stream bank stability and water quality;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Procedures, regulations, and an aggressive program to protect Tribal land resources from soil erosion including gully development, sheet erosion, stream bank erosion or channel down cutting;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Procedures and regulations for providing in stream flows for cultural or religious purposes, fish and wildlife habitat stream channel maintenance and riparian habitat maintenance or enhancement which shall include but not be limited to:</text>
-          <para>
-            <num>(a)</num>
-            <text>Monthly flow values, in cubic feet per second and acre feet; required for each specific use;</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>Water quality requirements for each use;</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>Special seasonal, annual, or multiyear flows required to enhance a specific use; and</text>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>Procedures and regulations which adopt BMP's for protecting water quality during housing construction or construction, operation or maintenance of commercial facilities, industrial or mining sites, wastewater treatment facilities, roads, pipelines and trails.</text>
-          </para>
+          <num>3.</num>
+          <text>Irrigation scheduling, rotation and soil moisture monitoring will be required for new uses of Tribal water. The harvesting of rainwater is encouraged.</text>
         </para>
       </para>
       <annotations/>
@@ -897,253 +838,200 @@
   <container>
     <prefix>Chapter</prefix>
     <num>30.04</num>
-    <heading>Permit System</heading>
+    <heading>Permit Systems</heading>
     <section>
       <num>30.0401</num>
-      <heading>Permit or License Required</heading>
+      <heading>Permit Required</heading>
       <para>
         <num>1.</num>
-        <text>No person, from and after the adoption of <cite path="30">this Title</cite>, shall divert or undertake any activity affecting or involving tribal water without first obtaining a permit or license under <cite path="30.04">this Chapter</cite>. A permit or license identification required for any of the following activities:</text>
+        <text>No person, organization for profit as a sole proprietorship, receiver, partnership, joint venture, trust estate, firm, unincorporated association, corporation or government, including but not limited to any part, subdivision or agency from and after the adoption of this Act, will divert or undertake any activity affecting or involving tribal water without first obtaining a permit under <cite path="30.04">this Chapter</cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Discharge, injection or deposition of any waste, wastewater, or other contaminant into Reservation water is not permitted;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A permit application is required for any of the following activities:</text>
         <para>
           <num>a.</num>
           <text>Diversion of water from any stream course, spring, or well;</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Discharge, injection or deposition of any waste, wastewater, or other contaminant into Reservation water;</text>
-        </para>
-        <para>
-          <num>c.</num>
           <text>Change in the point of water diversion, whether of surface or groundwater;</text>
         </para>
         <para>
-          <num>d.</num>
+          <num>c.</num>
           <text>Change in the use of waters, the place of use, method of diversion, or season of use;</text>
         </para>
         <para>
-          <num>e.</num>
+          <num>d.</num>
           <text>Transfer of tribal water outside the watershed of origin;</text>
         </para>
         <para>
-          <num>f.</num>
+          <num>e.</num>
           <text>Alteration of any stream course or stream band for any purpose, including without limitation, road construction and repair;</text>
         </para>
         <para>
-          <num>g.</num>
+          <num>f.</num>
           <text>Recharge of groundwater;</text>
         </para>
         <para>
-          <num>h.</num>
+          <num>g.</num>
           <text>Hydropower generation;</text>
         </para>
         <para>
-          <num>i.</num>
+          <num>h.</num>
           <text>Storage or impoundment of water; and</text>
         </para>
         <para>
-          <num>j.</num>
+          <num>i.</num>
           <text>Dedication of water to in-stream flow.</text>
         </para>
       </para>
       <para>
-        <num>2.</num>
-        <text>The issuance of a permit or license under this Code allows the activity therein described and constitutes an undertaking by the permittee or licensee to comply with the conditions therein stated and with all tribal laws and regulation of general application covering such activity.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Except for permits as otherwise provided in this Code, all permits and licenses issued under this Code are (1) personal to the permittee. (2) non-transferable. (3) limited by the conditions therein imposed, and (4) not intended to create an entitlement in the user beyond the provisional period.</text>
-      </para>
-      <para>
         <num>4.</num>
-        <text>Members of the Turtle Mountain Band of Chippewa shall have preference to the use of tribal water, the methods and procedures for exercise of such preference to be established by the Board by regulation.</text>
+        <text>All permits issued under this Act are (1) exclusive to the permitted. (2) Non-transferable. (3) Limited by the conditions of the permit, and (4) not intended to create an entitlement by the permitted beyond the provisional period.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Enrolled members of the Turtle Mountain Band of Chippewa will have preference for the use of reservation water.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Any off reservation entity utilizing the Shell Valley Aquifer will be required to obtain a permit from the TWRC. Previously, the State of North Dakota has failed to consult with the Tribe and has failed to recognize the Tribe's reserved water right. Existing permits issued by the State of North Dakota will be renegotiated and reconsidered. The TMBCI has sole jurisdiction over the Shell Valley Aquifer and other tribal waters as defined by, but not limited to, our Treaty agreements with other Tribes, the U.S. Government and/or Foreign entities.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>US EPA is the Clean Water Act permitting authority in Indian Country. http://www.epa.gov/indian/pdf/general-permit-tribal-wq.pdf</text>
+        <para>
+          <num>a.</num>
+          <text>Construction site owners and operators are required to: implement erosion and sediment controls; stabilize soils; manage dewatering activities; implement pollution prevention measures; provide and maintain buffers around surface waters; prohibit certain discharges, such as motor fuel and concrete washout; and utilize surface outlets for discharges from basins and impoundments (40 CFR Part 450).</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>EPA's regulations require a CWA discharge permit for storm water discharges from construction site disturbances of 1 or more acres.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Almost all construction sites are permitted under EPA's Construction General Permit or "CGP".</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>To be covered under the CGP, the construction operator is required to apply for permit coverage by submitting an "NOI" (Notice of Intent) 7 days prior to conducting earth-disturbing activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The application of pesticides within 200 feet of waters of the Reservation or recharge areas of the Shell Valley aquifer.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The following persons must file an application to divert or use water within the Tribal Jurisdiction: (a) The Tribe; (b) Any non-Indian successor-in-interest to any allot tee actually using water within the Reservation by virtue of a water right arising under the laws of the United States, which water right was acquired directly or indirectly from an Indian predecessor-in interest; and (c) Any other person or entity wishing to use water within the Reservation under an agreement with the Tribe.</text>
       </para>
       <annotations/>
     </section>
     <section>
       <num>30.0402</num>
-      <heading>Exceptions to the Permit Requirement</heading>
-      <text>Two exceptions to the permitting process are:</text>
-      <para>
-        <num>1.</num>
-        <text>Federal law preempts Tribal Law.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Application for "Statement of NO Permit Required." Any person proposing to undertake an activity which may affect tribal water may apply to the TWA for a "Statement of NO Permit Required" and the TWA may issue such "Statement" if he or she finds:</text>
-        <para>
-          <num>a.</num>
-          <text>The activity will have a minimal impact on tribal water quality or quantity.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>The issuance of such "Statement" shall be based upon object facts and verified.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>The "Statement" shall be limited to the facts presented by the applicant.</text>
-        </para>
-      </para>
+      <heading>Application for Permits; Information Required</heading>
+      <text>All applications for permits will include the following information, in addition to any other information deemed necessary by the TWRC verified by the applicant: (<strong>see attached sample.)</strong></text>
       <annotations/>
     </section>
     <section>
       <num>30.0403</num>
-      <heading>Application for Permits; Information Required</heading>
-      <text>All applications for permits shall include the following information, in addition to any other information deemed necessary by the TWA verified under oath by the applicant:</text>
-      <para>
-        <num>1.</num>
-        <text>The name and mailing address of the applicant, and whether or not the applicant is a tribal member, allottee, department or agency.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>The basin of origin and the name of or a description of the source from which water is or will be diverted, used, or affected, including, in the case of surface water, whether the source of water is direct flow or stored water, or in the case of groundwater, whether the water is alluvial or non-alluvial;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>The quantity of water which is or will be used or affected and the period or periods during which the water will be used or affected;</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>A legal or other sufficient description reasonably setting forth the point or points of diversion, withdrawal or place of use including whether the use is on or off reservation, and whether the use is within or outside the basin of origin.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>A description of the method or methods of diversion or use.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>The purpose or purposes for which water is or will be used.</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>A description of how water is or will be diverted, consumed, or used and a description of the changes, if any, in water quality.</text>
-      </para>
-      <para>
-        <num>8.</num>
-        <text>The date on which the use or uses were or will be commenced.</text>
-      </para>
-      <para>
-        <num>9.</num>
-        <text>If a use is an existing use, the history of the use, including the length of continuous use, and an indication whether problems of water levels and supply or problems of declining quality have been encountered.</text>
-      </para>
-      <para>
-        <num>10.</num>
-        <text>The applicant's plan for future development of his water-related uses, including the date by which all water sought to be appropriated or used will be put to full use.</text>
-      </para>
-      <para>
-        <num>11.</num>
-        <text>A description of the applicant's plan for conservation of the water used or sought to be used.</text>
-      </para>
-      <para>
-        <num>12.</num>
-        <text>For applications for the right to store water, the location and design of the dam, evidence that the dam was designed by a licensed engineer; the location and capacity of the reservoir; the amount of water sought to be stored; and the periods during the year when water will be diverted, impounded and withdrawn.</text>
-      </para>
-      <para>
-        <num>13.</num>
-        <text>For proposed uses undertaken pursuant to a transfer by the Tribe pursuant to (deferral agreements, marketing, etc.), proof that the Tribal Council has approved such a transfer.</text>
-      </para>
-      <para>
-        <num>14.</num>
-        <text>For a proposed use off-Reservation, but within the Shell Valley Aquifer, proof that the use will not violate any provision of the Tribe's reserved water rights and will be in compliance with North Dakota law, if applicable. For a proposed use off-Reservation outside the Shell Valley Aquifer, proof that the requirements have been, or will be met. In addition, such off-Reservation uses shall be subject to Tribal Council approval.</text>
-      </para>
-      <para>
-        <num>15.</num>
-        <text>If the applicant is not a tribal member but is a successor-in-interest to an allottee seeking to use water within the Reservation by virtue of a water right arising, under the laws of the United States, proof</text>
-        <para>
-          <num>a.</num>
-          <text>That the Indian owner was beneficially irrigating such lands on the date that lands left trust ownership, that the lands are practicably irrigable and have been continuously beneficially irrigated by the Indian owner and each successor-in-interest from that time until the date of the application, or</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>For lands not in irrigation at the time the lands left trust ownership, that the first owner after the lands left trust ownership diligently developed the lands and that those lands are practicably irrigable and have been continuously beneficially irrigated by the first non-trust owner and each successor-in-interest from the date of such development until the date of the application.</text>
-        </para>
-      </para>
+      <heading>Application Not Required for Protected Uses; Inventory Thereof</heading>
+      <text>The Commission will cause an inventory of all existing diversions and uses protected by the Act. This inventory will be completed based upon funding capabilities and sufficient technical resources within a reasonable time-frame to ensure compliance with this Act. For each such diversion and use, the inventory will identify the person making the diversion or use, the water source, the point of diversion or use, the period of use, the place of use, the quantity of water being used annually, and the purposes for water use. The Commission will thereafter issue a permit to each person so identified. No application for a permit will be required for any protected use listed on the inventory.</text>
       <annotations/>
     </section>
     <section>
       <num>30.0404</num>
-      <heading>Application Not Required for Protected Uses; Inventory Thereof</heading>
-      <text>The Board shall cause an inventory of all existing diversions and uses protected by the Act. This inventory shall be completed based upon funding capabilities and sufficient technical resources, within a reasonable time frame to ensure compliance with this Act. For each such diversion and use, the inventory shall identify the person making the diversion or use, the water source, the point of diversion or use, the period of use, the place of use, the quantity of water being used annually, and the purposes for which the water is used. The Board shall thereafter issue a permit to each person so identified. No application for a permit shall be required for any protected use listed on the inventory.</text>
+      <heading>Applications for Permits; Information Required</heading>
+      <text>The Permit System recognizes four (4) categories of permits. Any two or more categories may be combined into a single permit, as appropriate. Any permit may be subject to such conditions and stipulations, as the Commission may deem necessary, in the best interest to the public.</text>
+      <text>Categories of Permits include:</text>
+      <para>
+        <num>1.</num>
+        <text><u>Diversion Permit</u>. Grants the right to an individual or agency to divert water from ditches for agricultural purposes. When making a decision on a water diversion permit application, the Commission must consider those factors listed in the authorizing statutes and regulations including, but not limited to, the environmental effects of the diversion and whether the proposed diversion:</text>
+        <para>
+          <num>a.</num>
+          <text>is necessary,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>is consistent with long-range water resource management, and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>will not impair proper management and use of the water resources of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Water Drillers Permit</u>. Grants a permit to drill, deepen, develop, or rehabilitate a well, associated with any purpose, within the Turtle Mountain Band of Chippewa jurisdiction, to persons meeting Tribal requirements for technical capability, bonding, and insurance. The issuance of a Driller's Permit is contingent upon:</text>
+        <para>
+          <num>a.</num>
+          <text>The applicant's provision of a satisfactory description of his technical competence training, experience, procedures and equipment,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The applicant's current financial conditions and disclosure of prior or existing claims,</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The applicant's posting and bond and proof of insurance in favor of the Tribe in an amount established pursuant to Commission regulations,</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The applicant's written undertaking to faithfully perform and complete all conditions and stipulations of the permit, to comply with Tribal laws and regulations regarding record-keeping, logging, well development and construction, and to allow supervision by the TWA.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><u>Stream Zone Alteration Permit</u>. Grants the Right to Alter the Streambed or Banks of the Reservation. The National Environmental Policy Act (NEPA) requires federal agencies to integrate environmental values into their decision making processes by considering the environmental impacts of their proposed actions and reasonable alternatives to those actions. A stream zone Alteration permit is required for all persons engaging in activities that affect the bed or banks of Reservation streams, including, but not limited to:</text>
+        <para>
+          <num>a.</num>
+          <text>Construction of temporary diversion structures;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Road and culvert construction and repair;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Logging operations; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Other activities affecting the stability of the stream channel, provided that such permit is not required during an emergency condition declared by the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><u>Discharge Permits</u>. Permits to dispose of contaminated wastewater into the surface or ground water that exists within the scope of tribal jurisdiction will not be approved.</text>
+      </para>
       <annotations/>
     </section>
     <section>
       <num>30.0405</num>
-      <heading>Applications for Licenses; Information Required</heading>
-      <text>The License System recognizes four (4) categories of licenses. Any two or more categories may be combined into a single license, as appropriate. Any license may be made subject to such conditions and stipulations as the Board may deem necessary in the public interest.</text>
-      <para>
-        <num>1.</num>
-        <text>Categories of Licenses include:</text>
-        <para>
-          <num>a.</num>
-          <text>Diversion License. Grants the right to an individual, or agency to divert water throughout the use of ditches, canals, pumps or other conveyance mechanism for use on agricultural lands.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Drillers License. Grants a license to drill, deepen, develop, or rehabilitate a well, associated with any purpose, within the Turtle Mountain Band of Chippewa, to persons meeting Tribal requirements for technical capability, bonding, and insurance. The issuance of a Driller's License is contingent upon:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>The applicant's provision of a satisfactory description of his technical competence training, experience, procedures and equipment,</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The applicant's current financial conditions, and disclosure of prior or existing claims.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The applicant's posting and bond and proof of insurance in favor of the Tribe in an amount, established pursuant to Board regulations,</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The applicant's written undertaking to faithfully perform and complete all conditions and stipulations of the license, to comply with Tribal laws and regulations regarding record-keeping, logging, well development and construction, and to allow supervision by the TWA.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Stream Zone Alteration License. Grants the right to alter the streambed or banks of the Reservation. A stream zone Alteration permit is required for all persons engaging in activities that affect the bed or banks of Reservation streams, including, but not limited to:</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Construction of temporary diversion structures;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Road and culvert construction and repair;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Logging operations; and</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Other activities affecting the stability of the stream channel, provided that such license is not required during an emergency condition declared by the Board.</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Discharge License. Grants the right to discharge waste, wastewater, or other contaminants into the surface or ground water of the Reservation, through the point discharge of any substance through the non-point discharge through landfills, septic tanks or disposal pits, or through injection into ground water, provided, however, that such Licenses comply with environmental regulations adopted in 33 U.S.C 1311-1330.</text>
-        </para>
-      </para>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0406</num>
       <heading>Applications; Procedures</heading>
       <para>
         <num>1.</num>
-        <text>Applications for permits or licenses shall be tiled with the TWA on forms established by the Board and accompanied by the fee established by regulations promulgated hereunder. The application shall be endorsed with the date upon which it is received by the TWA.</text>
+        <text>Applications for permits will be filed with the TWA on forms established by the Commission and the fee must be paid upon filing. The application will be endorsed with the date upon which it is received by the TWA.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>The TWA shall assist the applicant in the collection of data and the preparation of the application to the extent the applicant requires such assistance.</text>
+        <text>The TWA will assist the applicant in the preparation of the application.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>As soon as practicable after receipt of the application, the TWA shall:</text>
+        <text>Upon receipt of the application, the TWA will:</text>
         <para>
           <num>a.</num>
           <text>Assign a number to the application;</text>
         </para>
         <para>
           <num>b.</num>
-          <text>Review the application for completeness and adequacy, including compliance with this Code, its regulations and the water management plan in effect;</text>
+          <text>Review the application for completeness and accuracy, including compliance with this Act, its regulations and the water management plan in effect;</text>
         </para>
         <para>
           <num>c.</num>
@@ -1151,109 +1039,109 @@
         </para>
         <para>
           <num>d.</num>
-          <text>Prepare a service list; which shall include the applicant; the Tribe, and all persons whose existing lawful use of water may be substantially affected by the proposed use.</text>
+          <text>Prepare a service list that will include: the applicant, the Tribe, and all persons whose existing lawful use of water may be substantially affected by the proposed use.</text>
         </para>
         <para>
           <num>e.</num>
-          <text>Prepare a report for the Board which summarizes his investigation and recommendations regarding the application.</text>
+          <text>Prepare a report for the Commission that summarizes the investigation and recommendations regarding the application.</text>
         </para>
       </para>
       <para>
         <num>4.</num>
-        <text>On receipt of the completed application and TWA's report, the Board shall schedule a hearing on the application to determine the use to be permitted and to establish the terms and conditions thereof. The Board shall notify, the applicant of the hearing date, which shall be at least ninety (90) days but not more than thirty (30) days from the date of the notice.</text>
+        <text>On receipt of the completed application and TWA's report, the Commission will schedule a hearing on the application to determine the use to be permitted and to establish the terms and conditions. The Commission will notify the applicant of the hearing date, which will be within ninety (90) days from the date of the notice. Failure to conduct the hearing within 90 days does not signify approval.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>After a hearing is scheduled, the applicant shall cause to be published, at his cost, a notice of hearing on the application, in a form established by regulation, in one regularly published newspaper of general circulation on the Reservation, at least once each week for three (3) successive weeks and shall submit satisfactory proof of publication to the Board. The Board shall also post public notice of all scheduled hearings at the Tribal headquarters and other public places as it shall deem appropriate. All notices shall state the date by which objections are due.</text>
+        <text>After a hearing is scheduled, the applicant will publish, at their own expense, a notice of the hearing in the format provided by the TWA. The notice must be published in the Tribal newspaper of general circulation at least once each week for three (3) consecutive weeks and will submit satisfactory proof of publication to the Commission. The Commission will also post public notice of all scheduled hearings at the Tribal headquarters and other public places.</text>
       </para>
       <para>
         <num>6.</num>
-        <text>Any person or entity, including the Tribe, whose interests are or may be adversely affected by a water use applied for may, within ___ days of the date of the third publication of the notice, file a formal objection to the issuance of the permit applied for.</text>
+        <text>Any person or entity whose interests are or may be adversely affected by the water permit may file a formal objection to the issuance of the permit.</text>
       </para>
       <para>
         <num>7.</num>
-        <text>Objections may be made on forms prepared and made available by the Board, shall be verified under oath, and shall include the name and address of the objector, the number of the application objected to, a description of the objector's interest, a short and plain statement of three (3) reasons why a permit should not be issued or should issue in a form different from that applied for, and any suggested conditions or other provision which should be included in any permit granted.</text>
+        <text>Objections will be made on forms prepared and made available by the Commission.</text>
       </para>
       <para>
         <num>8.</num>
-        <text>The objector shall file the objection with the Board, serve it personally or by mail upon all persons on the service list, and provide proof of such service in a manner satisfactory to the Board.</text>
+        <text>The objector will file the objection with the Commission.</text>
       </para>
       <para>
         <num>9.</num>
-        <text>The applicant shall, within thirty (30) days of receipt of the objection, respond in writing in the same manner as provided for objection.</text>
+        <text>Any person may comment to the Commission in writing upon any application for a permit under this Act. It is the responsibility of the commenter to serve any written comment on all persons on the service list.</text>
       </para>
       <para>
         <num>10.</num>
-        <text>Any person may comment to the Board in writing upon any application for a permit under this Code and shall serve any written comment on all persons on the service list.</text>
+        <text>Temporary permits upon pending applications will not be issued.</text>
       </para>
       <para>
         <num>11.</num>
-        <text>The Board may grant a temporary, revocable authorization to use water while the application is pending for a period not to exceed one (1) year.</text>
+        <text>Fees. Each application for a permit will be accompanied by a fifty dollar ($50.00) filing fee, except that any person who applies for or holds permits to use more than 1,000 acre feet of water per year will pay a filing fee of one hundred dollars ($100.00) for each additional application.</text>
       </para>
       <annotations/>
     </section>
     <section>
-      <num>30.0407</num>
+      <num>30.0406</num>
       <heading>Hearings</heading>
       <para>
         <num>1.</num>
-        <text>A public hearing shall be held on each application unless:</text>
+        <text>A public hearing will be held on each application unless:</text>
         <para>
           <num>a.</num>
-          <text>There has been no objection to the application and the applicant agrees to accept conditions imposed by the Board, or</text>
+          <text>There has been no objection to the application and the applicant agrees to accept conditions imposed by the Commission , or</text>
         </para>
         <para>
           <num>b.</num>
-          <text>The TWA has determined that the proposed use will have a de minimis "of the least" effect under the standards of the existing water management plan.</text>
+          <text>The TWA has determined that the proposed use will have a de minim is "of the least" effect under the standards of the existing water management plan.</text>
         </para>
       </para>
       <para>
         <num>2.</num>
-        <text>At least three (3) members of the Board shall be present and shall preside over the hearing. The applicant and all objectors shall have the right to participate as parties, to present oral and written testimony of witnesses under oath, and to be represented by counselor or other advocate. The Board shall have the power to administer oaths to witnesses, to take evidence under oath, and to compel attendance of witnesses or production of documents and other evidence. The Tribal Court shall enforce any subpoena issued by the Board in the same manner as the Court enforces its own subpoenas. The ordinary rules of evidence shall not apply in any hearing, but evidence which is irrelevant, cumulative, unduly prejudicial, or would otherwise be unfair if admitted, shall be excluded or may be admitted by the Board only under special conditions or stipulations.</text>
+        <text>The Commission will be present and will preside over the hearing. The applicant and all objectors will have the right to participate as parties, to present oral and written testimony of witnesses, and to be represented by counsel.</text>
       </para>
       <para>
         <num>3.</num>
-        <text>The Tribe may participate in any hearing as a party and may present testimony of witnesses under oath.</text>
+        <text>The Tribe may participate in any hearing as a party and may present testimony of witnesses.</text>
       </para>
       <para>
         <num>4.</num>
-        <text>The Board may, in its discretion, request or permit the parties to submit additional materials after the hearing.</text>
+        <text>The Commission may, in its discretion, request or permit the parties to submit additional materials after the hearing.</text>
       </para>
       <para>
         <num>5.</num>
-        <text>Hearings concerning application within the same hydrologic basin or area may be consolidated to promote efficiency, minimize expense or hardship, and prevent duplication unless any party files objection ten (10) days before the scheduled hearing.</text>
+        <text>Hearings concerning application within the same hydrologic basin or area will be consolidated to promote efficiency, minimize expense or hardship, and prevent duplication unless any party files an objection, with the TWRC, (10) days prior to the scheduled hearing.</text>
       </para>
       <para>
         <num>6.</num>
-        <text>Decisions of the Board shall be based solely on matter of record, provided, however, that the Board, in its discretion, may rely upon public information and such of its own expertise as it deems necessary to assist it in making the decision, so long as those bases are clearly reflected in the record.</text>
+        <text>If the Commission in its discretion determines that the issuance of the permit is in the best interests of the community, the permit will be granted.</text>
       </para>
       <para>
         <num>7.</num>
-        <text>The applicant shall be required to prove by a preponderance of the evidence that all the application is complete and correct, and to respond to the satisfaction of the Board to all objections and to all concerns expressed by the Board regarding the application. If these requirements are met and if the Board in its discretion determines that the issuance of the permit is in the best interests of the Reservation community, the permit shall be granted.</text>
+        <text>The decision if the Commission will be adopted by a majority vote of the Commission. The members of the Commission present at the hearing will issue a written decision setting forth pertinent findings of fact and an ultimate determination as to whether the application will be granted with specific conditions or denied.</text>
       </para>
       <para>
         <num>8.</num>
-        <text>The members of the Board present at the hearing shall issue a written decision setting forth pertinent findings of fact and an ultimate determination as to whether the application shall be granted with specific conditions or denied. The decision shall be adopted by a majority vote of the Board and delivered to all parties by certified mall.</text>
+        <text>Within fourteen (14) days after the decision, any party may request the Commission to reconsider the decision. A petition for reconsideration will be in writing and will state concisely the error in the decision the petitioner claims should be reconsidered.</text>
       </para>
       <para>
         <num>9.</num>
-        <text>Within fourteen (14) days after the decision, any party may request the Board to reconsider the decision. A petition for reconsideration shall be in writing and shall state concisely the error in the decision the petitioner claims should be reconsidered. The petition shall be served on all other parties and any party wishing to respond thereto shall do so within fourteen (14) days of the service of the petition, serving a copy of his response on all other parties.</text>
+        <text>If the Commission determines to reconsider its decision, it will schedule an additional hearing with proper notice to all parties. All members of the Commission must be present at the hearing. On reconsideration, the Commission may affirm, nullify, or revise its earlier decision. Any revised decision will comply with Sec. 30.406 (7) of <cite path="30.04">this Chapter</cite> and will be a final Commission decision for purposes of appeal.</text>
       </para>
       <para>
         <num>10.</num>
-        <text>If the Board in its discretion determines to reconsider its decision, it shall schedule an additional hearing with proper notice to all parties. All members of the Board must be present at the hearing. On reconsideration, the Board may affirm, nullify, or revise its earlier decision. Any revised decision shall comply with Sec. 30.407 (7) of <cite path="30.04">this Chapter</cite> and shall be a final Board decision for purposes of appeal.</text>
+        <text>The decision of the Commission will become final and take effect unless it's in appeal process.</text>
       </para>
       <para>
         <num>11.</num>
-        <text>The decision of the Board shall become final and take effect unless stayed on appeal when (a) the time for filing a petition for reconsideration has passed and no such petition has been filed, or (b) the Board has ruled on a petition for reconsideration.</text>
+        <text>As soon as the decision of the Commission becomes final, the TWA will issue the appropriate permit in conformity with the Commission's decision.</text>
       </para>
       <para>
         <num>12.</num>
-        <text>As soon as the decision of the Board becomes final, the TWA shall issue the appropriate permit in conformity with the Board's decision.</text>
+        <text>Decision of the Commission in accordance with <cite path="30.04">this Chapter</cite> will be appealable as provided in this Act exclusively to the Tribal Court.</text>
       </para>
       <para>
         <num>13.</num>
-        <text>Decision of the Board pursuant to the Chapter shall be appealable as provided in this Code exclusively to the Tribal Court.</text>
+        <text>The Tribal Court will render their decision in accordance with this Act.</text>
       </para>
       <annotations/>
     </section>
@@ -1264,98 +1152,18 @@
     <heading>Enforcement</heading>
     <section>
       <num>30.0501</num>
-      <heading>Prohibited Acts; Penalties</heading>
+      <heading>Report of Violation</heading>
       <para>
         <num>1.</num>
-        <text>No person shall:</text>
-        <para>
-          <num>a.</num>
-          <text>Forcibly, or by bribery, attempted bribery, threat, or other corrupt practice, obstruct or impede the due administration of this Code;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Commit fraud, or knowingly assist another in the commission of fraud, with the intent to evade or defeat the administration of this Code or costs imposed or assessed;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Falsely verify by written declaration any permit, application, or other document, or to intentionally withhold date required by law to be submitted;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Violate the conditions or stipulations of his permit or license;</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Willfully take, alter or damage tribal water without first obtaining a permit or license to do so as herein provided.</text>
-        </para>
-      </para>
-      <para>
-        <num>1.</num>
-        <text>Any person who commits any of the above prohibited acts, upon conviction thereof, shall be sentenced to a term of imprisonment not to exceed one (1) year or a fine not to exceed five thousand dollars ($5,000) or both.</text>
+        <text>If, after examination of a possible violation and the facts surrounding that possible violation, and the TWA concludes that a violation has occurred; the TWA will notify the individual of the violation and/or remedy could be sought in Tribal Court to seek remedial costs for such violation.</text>
       </para>
       <para>
         <num>2.</num>
-        <text>Any person who commits any of the above prohibited acts, or whose employees or agents in the course of their employment or agency commit any of the above prohibited acts, shall be subject to civil and criminal proceedings before the Tribal Court on citation by the TWA. On a finding of violation, the Court may impose any of the following sanctions, or any combination thereof,</text>
-        <para>
-          <num>a.</num>
-          <text>Money damages.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Restitution.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Cancellation of the holder's lease, if the lands to which the permit applies or on which the violation occurred are tribal lands.</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Injunctive relief.</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Affirmative remedial action.</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>Additional conditions or limitations upon the holder's permit or license.</text>
-        </para>
-        <para>
-          <num>g.</num>
-          <text>Suspension of the permit or license for a certain term.</text>
-        </para>
-        <para>
-          <num>h.</num>
-          <text>Exclusion from the territory of the Reservation, if the violator is subject to exclusion under federal law.</text>
-        </para>
-        <para>
-          <num>i.</num>
-          <text>Forfeiture of any permit or license.</text>
-        </para>
-        <para>
-          <num>j.</num>
-          <text>Temporary or permanent disqualification from eligibility for any permit or license.</text>
-        </para>
-        <para>
-          <num>k.</num>
-          <text>Costs.</text>
-        </para>
-        <para>
-          <num>l.</num>
-          <text>Imprisonment.</text>
-        </para>
-        <para>
-          <num>m.</num>
-          <text>Appeal from a decision of the Board may be had by the affected person in accordance with the provisions of Chapter 6. The interest of the Tribe shall be represented by the TWA or legal counsel of the Tribe.</text>
-        </para>
-        <para>
-          <num>n.</num>
-          <text>In the case of criminal prosecutions of any Indian, proceedings for penalties under <cite path="30.05">this Chapter</cite> shall be brought in the name of the Turtle Mountain Band of Chippewa in the Tribal Court by the tribal prosecutor.</text>
-        </para>
-        <para>
-          <num>o.</num>
-          <text>Every tribal member and every person whose interest is adversely affected by the commission of a prohibited act shall have a private cause of action in the Tonal Court for legal or equitable relief.  The Court may award attorney's fees to the prevailing party.</text>
-        </para>
+        <text>The TWA will determine if a violation order will be issued to the individual with a notice to address the violation. Depending on the severity of the violation a remedy must be applied immediately, in order to protect the public from possible water contamination.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person who fails to comply with any of the above prohibited acts and provisions of this act, upon conviction thereof, will be sentenced to a term of imprisonment of one (1) day and up to but not to exceed one (1) year and/or a fine minimum of one hundred dollars ($100) and not to exceed five thousand dollars ($5,000) or both, enforceable by the BIA Tribal Law Enforcement, the Turtle Mountain Tribal Law <cite path="30.06">CHAPTER 30.06</cite></text>
       </para>
       <annotations/>
     </section>
@@ -1363,173 +1171,68 @@
   <container>
     <prefix>Chapter</prefix>
     <num>30.06</num>
-    <heading>Hearings and Appeals</heading>
+    <heading>Responsibility</heading>
     <section>
       <num>30.0601</num>
-      <heading>Review of Decisions of Twa and the Board</heading>
+      <heading>Responsibility</heading>
+      <text>No loss by adverse possession, prescription, estoppels, or acquiescence; Non-transferability.</text>
       <para>
-        <num>1.</num>
-        <text>The TWA is hereby designated as the "executive officer" of the Board [and the "Agency"] for purposes of the Turtle Mountain Band's Administrative Procedures Act, (Title 22 of this Code, also known as the "APA" or "TAPA") and the provisions of the APA shall apply in all respects to the TWA and to the Board, except as otherwise specifically provided herein.</text>
+        <num>a.</num>
+        <text>No right to use or otherwise affect the quantity, level, flow, pressure, quality or temperature of Tribal water may be acquired by adverse possession, prescription, estoppel, or acquiescence.</text>
       </para>
       <para>
-        <num>2.</num>
-        <text>Hearings and related procedures pursuant to the APA shall be expedited at the written request of the TWA; upon the written request of any interested party if the hearings officer determines that the public health interest or safety so requires; or for good cause shown by the petitioner.</text>
+        <num>b.</num>
+        <text>No right granted under this Act may be transferred, exchanged, sold, or otherwise conveyed except as provided by this act.</text>
       </para>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0602</num>
-      <heading>Review of Initial Permit or License Decisions of the Board</heading>
-      <para>
-        <num>1.</num>
-        <text>The provisions of the APA shall not apply to decisions of the Board with respect to initial issuance or denial of permits or licenses. All such decisions of the Board shall be appealable directly and exclusively to the Tribal Courts.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Proceedings for review of Board decisions shall be initiated by filing (A) a notice of appeal with the Board no later than twenty (20) days from issuance of the decision being appealed and (B) a petition for review with the Clerk of Tribal Court no later than thirty (30) days from issuance of the decision being appealed. If no notice of appeal or petition for review is filed within the time allowed, the decision of the Board shall be final and not appealable to any court.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Within ten (10) days of receipt by the Board of the notice of appeal, the Board shall certify and transmit to the Clerk of Tribal Court the complete administrative record, including all documents, things, transcripts, and other information, in whatever form, which formed the basis for the decision being appealed. By stipulation of all parties to the appeal, the record may be shortened. A party unreasonably refusing to stipulate to limit the record may be charged by the Tribal Court for the additional costs. The Tribal Court may require or permit subsequent corrections or additions to the record.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The petition for review shall include a concise statement of the relief sought by the petitioner and the grounds therefore.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>The filing of a notice of appeal or petition for review shall not automatically stay the decision of the Board pending the appeal; however, the Tribal Court may issue such temporary restraining orders or preliminary injunctions as are otherwise lawful and appropriate.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Appeals under <cite path="30|30.06|30.0602">this section</cite> shall be limited to review of the record of the Board's decision unless petitioner alleges the Board refused to include in the record information or argument properly offered and relevant to the matter.  In that event, the Tribal Court may hear and consider the additional information or argument alleged to have been improperly excluded from the record by the Board. Nothing in <cite path="30|30.06|30.0602">this section</cite> shall alter the rules of evidence applicable in the Tribal Court.</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>The Tribal Court shall not substitute its opinion for that of the Board's unless substantive rights of the petitioner have been prejudiced because the decision of the Board is:</text>
-        <para>
-          <num>a.</num>
-          <text>In violation of applicable law;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>In excess of its authority;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Made upon unlawful procedure;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Clearly erroneous in view of the reliable probative, and substantial evidence on the whole record; or</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Clearly arbitrary and capricious or characterized by an abuse of discretion or clearly unwarranted exercise of discretion;</text>
-        </para>
-      </para>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0603</num>
-      <heading>Training</heading>
-      <text>At least annually, the TWA shall offer or provide training to the hearing officer(s) of the Tribe and to the judge(s) of the Tribal Court in matters of water management, science, law, or related topics.</text>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0604</num>
-      <heading>Twa Designation as Expert Witness</heading>
-      <text>The Tribal Court(s) shall qualify the TWA as an expert witness in all matters within the scope of his duties provided the TWA meets the minimum education or experience required by this Code.</text>
       <annotations/>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>30.07</num>
-    <heading>Relinquishment of Tribal Water Rights; Sole Method of Acquisition</heading>
+    <heading>Miscellaneous Provisions</heading>
     <section>
       <num>30.0701</num>
-      <heading>Voluntary Relinquishment of Claims or Rights</heading>
-      <text>Any holder or claimant of any right in or to the waters of the Reservation may voluntarily relinquish all or a portion of such right to the Tribe by any affirmative action indication intent to relinquish.</text>
+      <heading>Funding</heading>
+      <text>In accordance with the Indian Self-Determination Act, the TWRC may solicit funding via grants from the Secretary of the Interior and other agencies.</text>
       <annotations/>
     </section>
     <section>
       <num>30.0702</num>
-      <heading>No Loss by Adverse Possession, Prescription, Estoppels, or Acquiescence; Non-Transferability</heading>
-      <para>
-        <num>1.</num>
-        <text>No right to use or otherwise affect the quantity, level, flow, pressure, quality or temperature of Tribal water may be acquired by adverse possession, prescription, estoppel, or acquiescence.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>No right granted under this Code may be transferred, exchanged, sold, or otherwise conveyed except as provided by this code.</text>
-      </para>
-      <annotations/>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>30.08</num>
-    <heading>Miscellaneous Provisions</heading>
-    <section>
-      <num>30.0801</num>
-      <heading>Funding</heading>
-      <text>The Tribe shall appropriate from available funds sufficient resources to administer and implement the provisions of this Code.</text>
+      <heading>Sovereign Immunity</heading>
+      <text>The Turtle Mountain Band of Chippewa's sovereign immunity will not be waived or limited in any manner by this act.</text>
       <annotations/>
     </section>
     <section>
-      <num>30.0802</num>
-      <heading>Limited Waiver of Sovereign Immunity</heading>
-      <text>The Tribe waives its sovereign immunity from suit which may inure to the benefits of the TWA or the Board, provided that any suit against the TWA or the Board must be brought in that Tribal Court and further provided that such waiver is limited to the extent necessary to subject the TWA or the Board to suit for the sole purposes of declaring, adjudicating or enforcing the party's rights and duties as set forth in this Code and any regulations hereunder. The Tribe does not waive the TWA's or Board's immunity from suits for monetary damages and does not waive any sovereign immunity of the Tribal Council or the Tribe itself.</text>
+      <num>30.0703</num>
+      <heading>Records of the Twa of the Commission</heading>
+      <text>All records required or allowed to be maintained by the TWA or the Commission will be public records.</text>
       <annotations/>
     </section>
     <section>
-      <num>30.0803</num>
-      <heading>Records of the Twa of the Board</heading>
-      <para>
-        <num>1.</num>
-        <text>All records required or allowed to be maintained by the TWA or the Board shall be public records, provided however, that the TWA or the Board shall deny the right of public inspection of the following records, unless otherwise provided by law, on the ground that disclosure would be contrary to the public interest:</text>
-        <para>
-          <num>a.</num>
-          <text>Investigatory files compiled for any law enforcement or prosecution purposes;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Interagency or intra-agency records or documents which would not be available by law to private party in litigation with the TWA, the Board or the Tribe;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Medical, psychological or sociological data on individual persons;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Records protected from disclosure by order of federal or Tribal Court;</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Personnel files and letters of reference, except that these shall be available to duly elected, appointed or employed officials who supervise the work of the individual whose records are sought;</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>Trade secrets, privileged information, and proprietary commercial, financial, geological, geophysical or other data furnished by or obtained from any person.</text>
-        </para>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Any person denied the right to inspect any record(s) describe above may apply to the Tribal Court for an order directing the custodian of the record(s) to show cause why he should not permit the inspection. Notwithstanding that the record might otherwise be available to public inspection, any person, including the TWA, may apply to the Board for an order restricting disclosure of the particular record. The Board, after hearing an issue, may issue such an order upon a finding that disclosure would cause substantial injury to the public interest. The Board's decision shall be reviewable de novo by the Tribal Court pursuant to the procedures set forth in this Code for appeals of initial decisions by the Board issuing or denying permits or licenses.</text>
-      </para>
-      <annotations/>
-    </section>
-    <section>
-      <num>30.0804</num>
+      <num>30.0704</num>
       <heading>Severability</heading>
-      <text>In the event that any provision of this Code or the application thereof to any person or circumstances is held invalid, the remainder of this Code shall not be affected thereby.</text>
+      <text>In the event that any provision of this Act or the application thereof to any person or circumstances is held invalid, the remainder of this Act will not be affected thereby.</text>
       <annotations/>
     </section>
     <section>
-      <num>30.805</num>
+      <num>30.0705</num>
+      <heading>Annual Tribal Water Resource Coalition Conference</heading>
+      <text>All local entities of the Turtle Mountain Band of Chippewa including, but not limited to, the Natural Resource Department, Law Enforcement, TERO, Forestry, Turtle Mountain Housing Authority, Fire Department, Indian Health Service, Turtle Mountain EPA, Public Utilities, Turtle Mountain Community College, Belcourt School District, et al. are the coalition. A yearly water conference will be held in June.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>30.0706</num>
       <heading>Effective Date</heading>
-      <text>The provisions of this Code shall be effective as July 3, 2001 and shall remain in effect until repealed or amended.</text>
+      <text>The provisions of this Act will be effective date of adoption and will remain in effect until repealed or amended.</text>
+      <text>Appendix</text>
+      <text>Sec. 30.0302 Comprehensive Water Management Plan</text>
+      <text>Appendix A – Diversion Points Map (available at the office of the TWA)</text>
+      <text>Appendix B – Water Quality (available at the office of the TWA)</text>
+      <text>Appendix C – Hydrologic Condition of Surface Water (available at the office of the TWA)</text>
+      <text>Appendix D – Critical Resource Issues (available at the office of the TWA)</text>
+      <text>Sec. 30.305 BMP's for Agricultural use (will be added)</text>
+      <text>Sec. 30.403 Application for Permit (available at the office of the TWA)</text>
       <annotations/>
     </section>
   </container>
