@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cache="https://open.law/schemas/cache" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Drafting Manual">
+  <heading>Turtle Mountain Band of Chippewa Indians Drafting Manual</heading>
+  <meta>
+    <effective>2022-01-24</effective>
+  </meta>
+  <text>The purpose of this guide is to provide a uniform style and thoughtful/necessary considerations for drafting Turtle Mountain Band of Chippewa Indians Codes and Resolutions.  Our goal is to inform staff with little previous experience, and assist those who have had some experience collaborating with departments and the Turtle Mountain Office of the Attorney General.</text>
+  <section>
+    <num>1</num>
+    <heading>Division of Responsibilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Department staff responsible for the resolution should work with the Turtle Mountain Office of the Attorney General to complete the project.  The department staff shall describe the goals of the project and explain the concepts to be incorporated into the resolution. Generally, it will be the responsibility of the Attorney General's Office to draft the resolution.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any Code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, section, or subsection.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The drafter shall consider powers and duties of boards, commissions, or officers, as defined, and if a new responsibility is proposed, an appropriate amendment should be made.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Turtle Mountain Office of the Attorney General is responsible for the final formatting of all resolutions and for the publication of resolutions.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>General Formatting Guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <heading>Page layout.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Bottom, Left, Top, &amp; Right margins at 0.5"</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Text is formatted to be ragged right</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Font is Arial at 11 pt.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Line spacing shall be 1.0 and a blank line shall follow each paragraph.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Page numbers shall be at the top of all pages starting on page 2, Times New Roman, 12 point, .50 margin from the top, left &amp; right, as follows:</text>
+        <include>
+          <text>Resolution No. TMBC #-MM-YY</text>
+          <text>Page #</text>
+        </include>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Grammar, Punctuation, Capitalization.</heading>
+      <para>
+        <num>(1)</num>
+        <text>"Title", "Chapter", and "Section" shall be capitalized. Subsection shall be lower-case.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Capitalize "Tribal Council" and "Tribe" if referring to the Turtle Mountain Band of Chippewa Indians; "Code" when referring to Turtle Mountain Band of Chippewa Indians Tribal Code; "State" when referring to the State of North Dakota; "Federal" when referring to the United States.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Titles of Federal, State, or County codes and agencies shall be capitalized, such as Vehicle Code, Subdivision Map Act, or Board of Supervisors.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Commas shall be used to separate all items in a series: "planes, trains, and automobiles"; "tax, fee, or assessment".</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Numbers from 1-99 will be written out: two (2), ninety-nine (99). Numbers over 99 are written as numbers such as 115. Spell out fractions like one-fourth but keep decimals as numbers like 3.25 or .015.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Time of day will be: 11:30 p.m., 12 Noon, 1:15 a.m.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Abbreviations should be avoided, type "square feet" not "sq. ft."</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Citations.</heading>
+      <para>
+        <num>(1)</num>
+        <text>The following may be used for Turtle Mountain documents:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Turtle Mountain Tribal Code:</heading>
+          <text>"the Tribal Code", or "TMTC", or "this Code" (as applicable).</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Amended Constitution and By-Laws of the Turtle Mountain Band of Chippewa Indians:</heading>
+          <text>"Tribal Constitution", or "Turtle Mountain Constitution" (as applicable);</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Tribal Council Resolution:</heading>
+          <text>"Resolution No. TMBC #-MM-YY" or "this Resolution" (as applicable);</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Subsections.</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Titles are optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence cased and end with a period or colon.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Titles, including terminating punctuation shall be bold.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Subsection text shall continue on the same line as the title.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Numbered subsections.</heading>
+        <text>Numbered subsections shall have a first line indent of 0.5" and be numbered and left indented according to the following sequence:</text>
+        <para>
+          <num>(A)</num>
+          <text>consecutive lower-case letters with left indent of 0";</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>consecutive Arabic numerals with left indent of 0.5";</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>consecutive upper-case letters with left indent of 1"; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>consecutive lower-case Roman numerals with left indent of 1.5".</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>consecutive upper-case Roman numerals with left indent of 2".</text>
+        </para>
+        <aftertext>Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Unnumbered subsections.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Unnumbered subsections belonging to a section shall have a 0" left indent and a 0" first line indent.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Unnumbered subsections belonging to a numbered subsection shall be indented to match the numbered subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Lists.</heading>
+        <text>When a multiple subsections are to be construed together as a list, all except the last shall end with a semicolon. A conjunction, such as "or" or "and" shall be placed after the semicolon of the next-to-last subsection. The last subsection shall end with a period.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Code guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <heading>Titles.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Titles shall be "numbered" with an arabic numeral: "Title &lt;title num&gt;" (e.g. "Title 1").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Title num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Chapters.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Chapters shall be numbered with two zero-padded sequential Arabic numerals: "Chapter &lt;title num&gt;.&lt;chapter num&gt;" (e.g. "Chapter 1.01").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chapter num and title shall be centered and bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Chapters shall not include a table of contents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Parts.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Parts shall be numbered with Arabic numerals: "Part &lt;part num&gt;" (e.g. "Part 1").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Part num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Sections.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.&lt;section num&gt;" (e.g. "1.01.010").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section num and title shall be bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Section text shall start on a new line following the title.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Resolution guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text>Banner and Title.</text>
+      <text>The banner and title shall be in the following form:</text>
+      <include>
+        <text class="center">RESOLUTION NUMBER TMBC #-MM-YY OF THE DULY ELECTED AND CERTIFIED GOVERNING BODY OF THE TURTLE MOUNTAIN BAND OF CHIPPEWA INDIANS</text>
+      </include>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Recitals.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Leading conjunctions shall be all-caps and bolded. The last recital shall be followed by:</text>
+        <include>
+          <text>"THEREFORE BE IT RESOLVED ...", and (optionally);</text>
+        </include>
+        <include>
+          <text>"BE IT FURTHER RESOLVED ..."</text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Mandatory Recitals.</heading>
+        <text>The following recitals shall be included as the first three recitals of every resolution:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Unincorporated Band.</heading>
+          <include>
+            <text>WHEREAS, the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+          </include>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Tribal Council Authority.</heading>
+          <include>
+            <text>WHEREAS, Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+          </include>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>30-day comment period.</heading>
+          <include>
+            <text>WHEREAS, Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+          </include>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Resolution Sections.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall be numbered with sequential Arabic numerals and a trailing period: "Section &lt;section num&gt;." (e.g. "Section 1").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>A section title is optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence-case and end with a period or colon.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If there is no section title, text shall continue on same line as the section number.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Amendatory language.</heading>
+      <text>Ordinances shall use the following language to effectuate amendments to the code:</text>
+      <para>
+        <num>(1)</num>
+        <heading>Chapter.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Chapter X.YY of the Turtle Mountain Band of Chippewa Indians Tribal Code is added to Title X as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Chapter X.YY of the Turtle Mountain Band of Chippewa Indians Tribal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Chapter title: 'The title of Chapter X.YY of the Turtle Mountain Band of Chippewa Indians Tribal Code is amended as follows: "Chapter Title".'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Chapter X.YY of the Turtle Mountain Band of Chippewa Indians Tribal Code is redesignated as Chapter A.BB'</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Section.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>When inserting a section between two existing sections, the section should use the number closest to the midpoint between the numbers of the neighboring sections. 'Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is added to Chapter X.YY as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is amended as follows:'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is redesignated as Section A.BB.CCC'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is redesignated as Section A.BB.CCC and amended as follows:'</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Subsection.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is added to Section X.YY.ZZZ(…) as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is amended as follows:'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is redesignated as Subsection (BB)(…) of Section X.YY.ZZZ'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Turtle Mountain Band of Chippewa Indians Tribal Code is redesignated as Subsection (BB)(…) of Section X.YY.ZZZ and amended as follows:'</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Certification.</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Certification shall be in the following form:</text>
+        <include>
+          <text class="center">CERTIFICATION</text>
+          <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of nine (9) members of whom &lt;#-written (#)&gt; constituting a quorum were present at a meeting duly called, convened and held on the &lt;day&gt; day of &lt;month&gt;, &lt;year&gt; that the foregoing resolution was adopted by affirmative vote of &lt;#-written (#)&gt; in favor-Representatives &lt;Rep. names (if applicable)&gt;; &lt;#-written (#)&gt; abstaining-Representatives &lt;Rep. names (if applicable)&gt;; &lt;#-written (#)&gt; opposed-Representatives &lt;Rep. names (if applicable)&gt;; &lt;#-written (#)&gt; absent-Representatives &lt;Rep. names (if applicable)&gt;; with the Tribal Chairman not voting.
+          </text>
+          <text class="right">__________________________________________</text>
+          <text class="right">&lt;name&gt;, Tribal Secretary</text>
+          <text>(  ) SIGNED INTO LAW/Dated this &lt;day&gt; day of &lt;month&gt;, &lt;year&gt;</text>
+          <text>(  ) VETOED/Dated this &lt;day&gt; day of &lt;month&gt;, &lt;year&gt;</text>
+          <text class="right">__________________________________________</text>
+          <text class="right">&lt;name&gt;, Tribal Chairman</text>
+        </include>
+      </para>
+    </para>
+  </section>
+</document>

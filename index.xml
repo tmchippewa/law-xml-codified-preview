@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="1499fe8854438303885212c3a6c3403e851aec5b"/>
+        <repository name="tmchippewa/law-xml" commit="1e44a2a1af976aa903bb59a93be95aa54870c7c1"/>
       </repositories>
       <platform version="2.8.0" reproducible="false"/>
-      <build-date>2023-01-16</build-date>
+      <build-date>2023-01-24</build-date>
       <codified-date>2022-12-29</codified-date>
     </build>
   </meta>
@@ -49,4 +49,5 @@
     <heading>Turtle Mountain Band of Chippewa Indians Administrative Policies</heading>
     <xi:include href="./us/nsn/tmchippewa/council/policies/personnel_policy.xml"/>
   </collection>
+  <xi:include href="./us/nsn/tmchippewa/council/drafting-manual/index.xml"/>
 </library>
