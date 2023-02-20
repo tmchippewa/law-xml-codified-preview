@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Constitution and By-laws">
+  <heading>Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians North Dakota (Including All Amendments Thereto Approved)</heading>
+  <meta>
+    <effective>2007-08-27</effective>
+    <citations>
+      <citation type="const" url="./adopted/const.pdf"/>
+    </citations>
+  </meta>
+  <text class="center">Preamble</text>
+  <text>We, the people of the Turtle Mountain Band of Chippewa Indian of Belcourt, North Dakota, in order to develop and enjoy the advantages of democratic processes and opportunities to promote our general welfare, education, and prosperity, to promote good and law-abiding citizens, do ordain and establish this constitution and Bylaws for the Turtle Mountain Band of Chippewa Indians.</text>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Name</heading>
+    <section>
+      <num>1</num>
+      <text>The name of this organization shall be the Turtle Mountain Band of Chippewa Indians. </text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Jurisdiction</heading>
+    <text class="center">(Amendment XXVIII, approved August 27, 2007)</text>
+    <section>
+      <num>1</num>
+      <text>Band Territory, The Territory of the Band shall extend to all lands within the Turtle Mountain Reservation, all Lands outside the exterior boundaries of the Reservation including the public domain allotments wherever located, held by the United States for the benefit of the Band or the People, including all lands, air, skies above, surface and subsurface water, minerals, natural resources and any other interest therein notwithstanding the issuances of any patent or right of way by the U.S. Government or any other entity to the fullest extent allowable and consistent with Federal Law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The jurisdiction of the band shall extend to all lands on the Turtle Mountain Indian Reservation, all public domain allotments and to such other lands in Indian Country as defined in 18 U.S.C. 1151(a), (b) and (c) as may be acquired by or on behalf of said Tribe and be added thereto under the laws of the United States, including all lands, air, skies above, surface and subsurface water, minerals, natural resources and any other interest therein notwithstanding the issuance of any patent or right of way by the U.S. Government or any other entity to the fullest extent allowable and consistent with Federal Law.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Membership</heading>
+    <section>
+      <num>1</num>
+      <heading/>
+      <text>The membership in the Turtle Mountain Band of Chippewa Indians shall consist of:</text>
+      <para>
+        <num>(a)</num>
+        <text>All persons whose names appear on the roll prepared pursuant to Section 2 of the Act of May 24, 1940 (54 Stat. 219), and approved by the Secretary of the Interior on March 15, 1943.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All descendants of persons whose names appear on the roll defined in Section 1 (a) of this Article, provided that such descendants possess one-fourth or more Indian blood, and provided further that such descendants are not domiciled in Canada.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Current Roll. The membership roll shall be kept current by the Secretary of the Interior or his designated representative by striking therefrom the names of deceased persons and adding thereto the names of persons who qualify for membership under Section 1 (b) of this Article. A copy of such additions and deletions shall be furnished to the Tribal Council.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Definition. The word “domicile” as used in this Article means a permanent residence.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Governing Body</heading>
+    <section>
+      <num>1</num>
+      <text>The governing body shall be the Tribal Council and shall consist of nine (9) members, eight (8) of whom shall be district representatives and one (1) shall be Chairman elected by the tribe as a whole, regardless of the districts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The Tribal Council shall have the authority to regulate its own procedure, except as specified in Article VI, to appoint a Vice-Chairman from its membership, to act in the absence or disability of the Chairman, to appoint subordinate committees, delegates, and employees not otherwise provided for in the constitution, and to provide tenure and duties; provided that any delegation of authority described in this Constitution shall be granted only by written resolution or ordinance and shall be withdrawn in the same manner. (Amendment XIV, Approved February 3, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>The Turtle Mountain Tribal Council shall establish a Code of Ethics that will govern all elected officials and tribal personnel to become effective May 1, 1993.  (Amendment XV, Approved November 3, 1992)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>4</num>
+      <text>Voting on Council actions shall be by roll call. (Amendment XV (b), Approved November 3, 1992)</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Nominations and Elections</heading>
+    <section>
+      <num>1</num>
+      <text>All elections shall be conducted by secret ballot. The candidate or issue receiving the greatest number of votes cast shall prevail. In the event more than one representative is required to be elected for a district, the positions shall be filled by the candidates receiving the most votes in descending order. (Amendment XX, Approved February 5, 1997).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <heading/>
+      <para>
+        <num>(a)</num>
+        <text>Any enrolled member of the Tribe, eighteen (18) years of age or over, shall be entitled to vote in any Tribal election. (Amendment XXIV, Approved August 7, 2001)</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All eligible resident voters shall register in the district of their residence as provided by tribal ordinance. All eligible nonresident voters shall register with the district of their former residence or affiliation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Absentee ballots shall be furnished to eligible members upon their request to the Secretary-Treasurer provided that all such ballots shall be returned to the Secretary-Treasurer on or before the date of the election in order that the ballots may be counted. "Eligible member" is defined as:</text>
+      <para>
+        <num>(a)</num>
+        <text>Those non-resident members who are attending off reservation higher education facilities or serving in the United States Services; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Those resident members who maintain Rolette County residency, but have to leave the county for employment purposes; or </text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Those members that are physically and medically disabled.</text>
+      </para>
+      <text>Any non-resident member may vote non-absentee in the district of their former residence or affiliation. (Amendment XXV, Approved August 7, 2001)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>4</num>
+      <heading/>
+      <para>
+        <num>(a)</num>
+        <text>To become a candidate for an elected position, a person must (1) be an enrolled member of the Turtle Mountain Band of Chippewa Indians, (2) be twenty-five years of age or over, (3) have not been convicted of a felony, (4) have not been convicted of a misdemeanor of fraud, embezzlement, forgery or thefts of monies entrusted to the Tribal Government, and (5) must reside within Rolette County. In addition, candidates for District Representative must reside in the district they seek to represent. (Amendment XIX, Approved February 5, 1997)(Amendment XXVII, approved June 21, 2005).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Eligible candidates shall file their notice of intent to run for office with the Secretary-Treasurer of the Tribal Council, identifying the office for which he is a candidate at least fifteen (15) days before the election date. The Secretary-Treasurer shall post a list of eligible candidates at least twelve (12) days before the election in each voting district.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>5</num>
+      <text>There shall be a primary election held three (3) weeks prior to the general election. The general elections shall be held on the first Tuesday in November, in even numbered years commencing in 2016. If a holiday, the tribal election will coincide to National, State, and County election date. In descending order of votes, the top three (3) candidates receiving the majority, which shall mean the greatest number of votes cast, in the primary shall be included in the general election and the top two (2) candidates for Chairman receiving the majority of votes, in the primary election shall be included in the general election corresponding to the number of vacancies in the district and the candidate for Chairman's vacancy receiving the majority of the votes shall be considered elected.  (Amendment XXIX, approved August 11, 2015)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6</num>
+      <text>The Reservation shall consist of four (4) districts. The districts are described as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>District 1 - Fishlake Road East to the town of Rolla and open North and South. Two (2) representatives.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>District 2 - Fishlake Road West to Rolette Road, and open North and South. Two (2) representatives.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>District 3 - Rolette Road West to Suckerlake Road or Morin Road, and open North and South. Two (2) representatives.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>District 4 - Suckerlake Road or Morin Road West to St. Paul Butte, and open North and South. Two (2) representatives.</text>
+      </para>
+      <text>Within three (3) months after each general election, the Tribal Council will convene at the call of the Chairman, as a redistricting board, and redesignate the boundaries of the four (4) districts by majority vote, so that the districts shall be as regular and compact in form as practicable and as substantially equal in eligible voters as possible. A map of Rolette County, North Dakota, shall then be prepared by the Tribal Secretary with the boundaries of the four (4) districts drawn thereon, which map shall then be certified to by the Tribal Chairman and the Tribal Secretary and kept on file in the Office of the Tribal Secretary with a copy thereof posted in the Tribal Office. (Approved April 3, 1975)</text>
+      <text>Votes for candidates for district representatives shall be cast at large. Eligible voters may vote for two (2) representatives from each of the four (4) districts for a combined total of eight (8) votes cast. (Amendment XVIII, Approved February 23, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>7</num>
+      <text>District representatives to the Tribal Council shall be elected in even numbered years commencing in the year 1962 and shall hold office for two (2) years and each district shall be entitled to elect two (2) representatives. (Amendment III, Approved April 26, 1962)</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Officers and Their Duties</heading>
+    <section>
+      <num>1</num>
+      <text>There shall be the following Tribal Officers: A Chairman, Vice-Chairman, and a Secretary-Treasurer. The Chairman shall be elected on a reservation wide or at large basis for a term of two (2) years or until a successor shall have been elected and qualified. The Vice-Chairman shall be elected from within the Tribal Council and his only duty shall be to serve as presiding officer of the Council in the absence of the Chairman. The Secretary-Treasurer shall be selected by vote of the Tribal Council and the Chairman shall vote on same also if his vote is necessary to break a tie. (Amendment V, Approved April 26, 1962)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Chairman. He shall preside at all regular and special meetings. He shall vote only in the case of a tie. He may veto any resolution and ordinance that is passed by the Tribal Council members, however, he must provide a written rationale for the veto. Such vetoed resolution or ordinance must then be presented for a reconsideration vote of the Tribal Council at the next regularly scheduled meeting, but no later than thirty (30) days after the veto. Should the resolution or ordinance fail to pass with at least five (5) affirmative votes or in the event the Tribal Council fails to reconsider the vote within the required thirty (30) day time period, such resolution or ordinance shall be deemed vetoed and may not be reconsidered for ninety (90) days. The Chairman shall see that all resolutions and ordinances of the Tribal Council are carried into effect. He shall exercise general supervision of all other officers and employees and see that their respective duties are performed. He shall be the Chief Executive Officer of the Tribe. (Amendment XVI, Approved February 3, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>Secretary-Treasurer.  He shall keep the minutes at the principal office of the Tribal Council of all meetings of the Tribal Council. He shall keep the tribal roll, showing all changes therein as required by this Constitution or ordinance duly approved by the Tribal Council. He shall attend to all correspondence, distribution of tribal information or other duties incidental to his office including the reproduction of minutes, resolutions and ordinances and see to their distribution within the deadlines, if there be deadlines. He shall keep and maintain adequate and correct accounts of the properties and business transactions of the Tribal Council. He shall have care and custody of the funds and valuables of the Tribal Council and deposit same in the name of and to the credit of the Band with such depositors as the Tribal Council may direct and which are acceptable to the Area Director. Disburse funds of the Tribal Council as may be ordered by the Tribal Council, taking proper signed invoices, vouchers or other recordable data. Render to the Tribal Council a monthly statement and report of all his transactions as Treasurer and render also an annual financial statement in the form and with the detail required by the Tribal Council.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Tribal Council Procedures</heading>
+    <section>
+      <num>1</num>
+      <text>All Tribal Council meetings shall be open to the public and held in a publicly accessible place. A published agenda will be noticed to the Tribal membership at least three (3) days prior to the meeting time. A 30 day comment period must be provided prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting. Special closed meetings of the Tribal Council may be held without public attendance for matters regarding protected personnel privacy considerations and governmental contract concerns that require confidentiality. The Chairman or any three (3) members of the Tribal Council may call special meetings. (Amendment XV, Approved February 3, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>A quorum shall consist of five (5) members and no business shall be conducted in the absence of a quorum.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>The Tribal Council shall cause to be installed, maintained and audited, a complete and detailed accounting system.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>4</num>
+      <text>All officers and employees of the tribe responsible for the safety of property and money shall be bonded in an amount sufficient to insure the tribe from loss.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>5</num>
+      <text>The newly elected district representatives (Councilmen) and officers shall be installed in office at the first regular meeting of the Tribal Council after certifications of their election have been issued by the Secretary-Treasurer. In no event shall an individual convicted of a felony be installed into office. (Amendment XXI, Approved February 5, 1997).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6</num>
+      <text>The duties of any and all other officers or employees shall be prescribed by the Tribal Council. At all general or special meetings of the Tribal Council the members of the Tribal Council shall be paid at hourly rates set by resolution of the Tribal Council. All other officers will be paid per month.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Referendum and Recall</heading>
+    <section>
+      <num>1</num>
+      <text>Upon receipt of a petition by twenty percent (20%) of the resident voters, or by an affirmative vote of five (5) members of the Tribal Council any enacted or proposed resolution or ordinance of the Tribal Council shall within thirty (30) days be submitted to a referendum of the eligible voters of the Turtle Mountain Band of Chippewa Tribe. The majority of the votes cast in such referendum shall be conclusive and binding on the Tribal Council and if the resolution or ordinance is rejected by such vote, such resolution or ordinance shall be null and void, as of the date of the referendum, and shall not be reconsidered for a period of at least six (6) months. The Tribal Council shall call such referendum and prescribe the manner of conducting the vote.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>The Tribal Council shall enact ordinances which shall prescribe regulations, charges, and reasons for removal or recall of a district representative or officer. The grounds for removal, right of petition, and other factors shall be carefully framed to protect the interest of the Turtle Mountain Band of Chippewa Indians. Conviction of a felony is grounds for automatic removal of a district representative or other elected official. (Amendment XXII, Approved February 5, 1997).</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>The Tribal Council by an affirmative vote of the majority shall appoint a replacement to fill any vacancy of a district representative or other elected officer, caused by removal, death, or resignation, provided the term of the replacement shall not extend beyond the next regular election regardless of the length of the unexpired term.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IX</num>
+    <heading>Powers of the Tribal Council</heading>
+    <text>The Tribal Council shall exercise the following powers, subject to any limitations imposed by this Constitution and Bylaws or the laws and regulations of the Federal Government:</text>
+    <container path-omit="true">
+      <num>(a)</num>
+      <heading>Governmental Powers</heading>
+      <section>
+        <num>1</num>
+        <text>To represent the Band and to negotiate with the Federal, State and local governments and with private persons.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>2</num>
+        <text>To employ legal counsel, subject to the approval of the Secretary of the Interior, or his duly authorized representative, so long as such approval is required by federal law.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>3</num>
+        <text>To regulate and license where permitted by law all business and professional activities conducted upon the reservation, provided that any assessment upon non-members trading or residing within the jurisdiction of the Band shall be subject to review of the Secretary of the Interior, or his duly authorized representative, where required by law.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>4</num>
+        <text>To enact ordinances to remove from the reservation persons not legally entitled to reside thereon and whose presence may be injurious to the peace, happiness or welfare of the members of the Band, subject to the review of the Secretary of the Interior, or his duly authorized representative.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>5</num>
+        <text>To enact ordinances, subject to the review of the Secretary of the Interior, or his duly authorized representative, governing conduct of the members of the Band and Indians from other tribes on the reservation, providing for the maintenance of law and order and the administration of justice by establishing a police force and a tribal court and defining their powers and duties; and regulating the inheritance of property of the members of the Band except trust land.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>6</num>
+        <text>To enact ordinances to provide rules and regulations governing fishing, hunting and trapping on the reservation.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container path-omit="true">
+      <num>(b)</num>
+      <heading>Administrative Powers</heading>
+      <section>
+        <num>7</num>
+        <text>To administer any funds within the control of the Band; to make expenditures from available funds for tribal purposes, including salaries and expenses of tribal officials or employees. All expenditures of tribal funds under the control of the Tribal Council shall be authorized by resolution duly enacted by the Tribal Council in legal session and the amounts so expended shall be a matter of public record to the members of the Band at all reasonable times.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>8</num>
+        <text>The Tribal Council of the Band shall prepare annual budget requests for advancement to the control of the Band such money as now or may hereafter be deposited to the credit of the Band in the United States Treasury or which may hereafter be appropriated for the use of the Band.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>9</num>
+        <text>To deposit to the credit of the Band of Chippewa Indians tribal funds, without limitation on the amount in any account, in any approved National or State Bank whose deposits are insured by an agency of the Federal Government, or with a bonded disbursing officer of the United States whenever the conditions prescribed by the Secretary of the Interior, or his authorized representative, in connection with such advances required the advance to be so deposited.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container path-omit="true">
+      <num>(c)</num>
+      <heading>Business Powers</heading>
+      <section>
+        <num>10</num>
+        <text>To manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws. (Amendment X, approved October 25, 1990)</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>11</num>
+        <text>To engage in any business that will further the economic well-being of the members of the tribe, or to undertake any programs or projects designed for the economic advancement of the people. The services of a licensed attorney with training and experience in corporate law shall be secured and initiated to oversee programs or projects designed for the economic advancement of the tribe, on a continuing basis. (Amendment XXVI, Approved August 7, 2001)</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>12</num>
+        <text>To borrow money from the Federal Government, or other source, and to direct the use of such funds for productive purposes, or to loan the money thus borrowed to members of the tribe, with the approval of the Secretary of the Interior, or his authorized representative.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>13</num>
+        <text>To pledge or assign chattel or future income due or to become due, provided such agreement, pledge, assignment or extension thereof shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>14</num>
+        <text>To make and perform contracts and agreements of every description, not inconsistent with law or the provisions of this Constitution and Bylaws, provided that any contract shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
+        <annotations/>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>X</num>
+    <heading>Future and Reserved Powers</heading>
+    <section>
+      <num>1</num>
+      <text>The Tribal Council may exercise such powers as may in the future be granted to the Council by members of the Turtle Mountain Band or the Secretary of the Interior or by any other duly authorized official or agency of the Federal Government, provided such power is accepted by the Tribe by appropriate amendment of this Constitution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>Any right of power heretofore vested in the Turtle Mountain Band of Chippewa Indians, but not expressly referred to in this Constitution, shall remain in the Band, and may be exercised by the Turtle Mountain Band of Chippewa Indians or by the Tribal Council through the adoption of appropriate constitutional amendment if that be the wishes of the people.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XI</num>
+    <heading>Manner of Review</heading>
+    <section>
+      <num>1</num>
+      <text>Any resolution or ordinance which by the terms of this Constitution is subject to review by the Secretary of the Interior shall within ten (10) days of its enactment be presented to the Superintendent of the Turtle Mountain Agency who shall within ten (10) days after its receipt by him approve or disapprove it.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>If the Superintendent approves any resolution or ordinance it shall thereupon become effective, but the Superintendent shall transmit the enactment bearing his endorsement to the Secretary of the Interior, who may, within ninety (90) days of the date of its receipt by him rescind the resolution or ordinance for any cause by notifying the Turtle Mountain Tribal Council of his veto.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>If the Superintendent disapproves any resolution or ordinance, he shall within ten (10) days after its receipt by him advise the Tribal Council of his reasons therefore, and if these reasons appear to the Council insufficient, it may, by vote of the five (5) members, refer the resolution or ordinance to the Secretary of the Interior, and if approved by him in writing, it shall become effective. </text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XII</num>
+    <heading>Adoption</heading>
+    <section>
+      <num>1</num>
+      <text>This (revised) Constitution, when adopted by a majority vote of the tribal members voting at a special meeting called by the Secretary of the Interior, shall be submitted by the Secretary of the Interior, and shall be in full force and effect from the date of such approval.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XIII</num>
+    <heading>Amendment</heading>
+    <section>
+      <num>1</num>
+      <text>This Constitution and Bylaws may be amended by a majority of the qualified voters of the Turtle Mountain Band of Chippewa Indians at an election called for that purpose; provided that at least twenty per cent (20%) of the resident voters of the Tribe entitled to vote shall vote in such election, but no amendment shall become effective until it shall have been approved by the Secretary of the Interior or his delegated representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>It shall be the duty of the Tribal Council to call such election on any proposed amendment upon receipt of a petition signed by twenty per cent (20%) of the qualified resident voters of the Tribe or the Tribal Council may call such an election by an affirmative vote of five (5) members of the Tribal Council.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XIV</num>
+    <heading>Separation of Powers</heading>
+    <text class="center">(Amendment XI approved November 3, 1992)</text>
+    <text class="center">
+      <strong>Judiciary</strong>
+    </text>
+    <section>
+      <num>1</num>
+      <heading>Purpose</heading>
+      <text>To provide for a separate branch of government free from political interference and conflicts of interest for the development and enhancement of the fair administration of justice.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <heading>Establishment</heading>
+      <text>This section shall create a separate and equal judicial branch of government. All judicial powers of the Turtle Mountain Band of Chippewa Indians shall be vested in the Judicial Branch of government (exhaustion of any applicable administrative remedy requirement is still required) and such branch shall consist of the Turtle Mountain Appellate Court, the Tribal Court, the Judicial Board and the elected officials, appointees and employees of said courts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <heading>Powers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Judicial Branch of government of the Turtle Mountain Band of Chippewa Indians shall have jurisdiction, as determined by legislative action pursuant to Chapter 1.05 and Chapter 2.01 of the Turtle Mountain Tribal Code and applicable federal law, to adjudicate actual cases an controversies that arise under the Turtle Mountain Constitution, statutes, resolutions, civil and criminal causes of action and legal decisions, and to ensure due process, equal protection, and protection of rights arising under the Indian Civil Rights Act of 1968, as amended, for all persons and entities subject to the criminal and civil jurisdiction on the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Judicial Branch shall have authority to independently develop its operating budget and independently secure funding for its operations directly from funding sources. Nothing within this section shall prohibit the Tribal Council from providing funds from its general accounts to supplement the budget of the court or assist the court in obtaining needed funding.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>4</num>
+      <heading>Selection of Judges and Chief Clerk of Court:</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Office of Chief Judge shall be filled as follows: Persons who possess the requisite qualifications as developed by the Judicial Board and approved by the Tribal Council, shall file their intention of seeking such office with the Secretary/Treasurer in the manner described in ARTICLE V, Section 4 (a) and 4 (b) of the Turtle Mountain Constitution. Properly registered candidates for the Office of Chief Judge shall then be subjected to a reservation-wide or at large election. The candidate receiving the most votes, as determined by the vote of the people at a duly held election held in conjunction with the tribal general election, shall then be seated as the Chief Judge of the Turtle Mountain Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The position of Associate Judge shall be filled as follows: Persons who possess the requisite qualifications as developed by the Judicial Board and approved by the Tribal Council, shall file their intention of seeking such office with the Secretary/Treasurer in the manner described in ARTICLE V, Section 4(a) and 4 (b) of the Turtle Mountain Constitution. Properly registered candidates for the Office of the Associate Judge shall then be subjected to a reservation-wide or at large election. The candidate receiving the most votes, as determined by the vote of the people at a duly held election held in conjunction with the tribal general election, shall then be seated as the Associated Judge of the Turtle Mountain Tribe. The candidate in the general election for the position of Associate Judge who shall receive the second largest popular vote for this position shall also be seated as an Associate Judge of the Turtle Mountain Tribe if more than one Associate Judge is required. The determination of the number of Associate Judges needed to serve the court shall be made by the Judicial Board prior to the election.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The position of Chief Clerk of Court shall be filled as follows: Persons who possess the requisite qualifications as developed by the Judicial Board and approved by the Tribal council, shall file their intention of seeking such office with the Secretary/Treasurer in the manner described in ARTICLE V, Section 4 (a) and 4 (b) of the Turtle Mountain Constitution. Properly registered candidates for the office of Chief Clerk of Court shall then be subjected to a reservation-wide or at large election. The candidate receiving the most votes, as determined by the vote of the people at a duly held election held in conjunction with the tribal general election, shall then be seated as the Chief Clerk of the Tribal Court of the Turtle Mountain Tribe. The Chief Clerk of court shall not serve in any judicial capacity.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All Trial and/or Special judges shall be appointed in the manner as presently provided in Section 1.0506 of the Turtle Mountain Tribal Code.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The term of office of the Chief Judge of the Turtle Mountain Tribe and all other judges and Chief Clerk of Court shall be four years. Vacancy in the office of Chief Judge by reason of impeachment, illness or incapacity shall be filled by appointment of one of the currently sitting judges of the Judicial Branch by the Judicial Board. This appointment shall be effective only for the remaining term of the duly elected Chief Judge. Associate Judges, during the first election term of judges pursuant to this amendment, shall serve for a period of two years. Thereafter, all terms of Associate Judge(s) shall be for a four-year term. The effect of this provision to provide continuity to the court by providing staggered terms for the Chief Judge and Associate Judge(s). Vacancy in the Office of Associate Judge(s) shall be filled by appointment in the manner presently provided in Section 1.0506 of the Turtle Mountain Tribal code. This appointment shall be effective only for the remaining term of the duly elected Associate Judge.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Appellate Court Judges shall be appointed by the Judicial Branch of Government and ratified by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>No justice of the appellate court or judge of the tribal court shall engage in the practice of law before the Turtle Mountain Tribal or Appellate Court nor shall they hold any public office, elective or appointive, not judicial in nature.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>All other employees of the judicial branch of government shall be deemed staff employees and shall not serve in any judicial capacity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>5</num>
+      <heading>Impeachment of Judges, including Chief Judge:</heading>
+      <para>
+        <num>(a)</num>
+        <text>All judges of the judicial branch of government shall be subject to impeachment based only upon cause, as developed by the Judicial Board, only after due process of law is provided. The applicable standard shall be clear and convincing evidence.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Impeachment proceedings shall be heard before an impeachment judge empowered to hear only impeachment hearings and who shall serve n no other capacity in the Turtle Mountain Judicial Branch of Government.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Qualifications of said special Impeachment Judge: This judge must be currently licensed to practice law in any State with previous experience as a tribal, state or federal judge. This position shall be appointed by the Judicial Board and ratified by the Tribal Council. Funding for this position shall be provided by the Tribal Council.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6</num>
+      <heading>Judicial Board</heading>
+      <para>
+        <num>(a)</num>
+        <text>This section shall establish a Judicial Board that shall consist of the following voting members:</text>
+        <para>
+          <num>(i)</num>
+          <text>one lay person from each district; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>one lay person elected at large who shall serve as the Chairperson of the Judicial Board; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>one member of the Turtle Mountain Tribal Council; and</text>
+        </para>
+        <text>The following non-voting advisors:</text>
+        <para>
+          <num>(iv)</num>
+          <text>two attorneys; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>one member of the Turtle Mountain Judicial Branch.</text>
+        </para>
+        <text>The lay members of the Judicial Board must be enrolled members of the Turtle Mountain Tribe residing within the district he/she represents and must not serve in any tribal elective or appointive position. Attorneys must be licensed in the Turtle Mountain Tribal Court and be members in good standing with any state or federal court. (Amendment XVII, Approved February 3, 1995)</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Duties: The Judicial Board shall have authority to develop, and implement the overall general policy of the Judicial Branch of government, to develop and implement a code of judicial and professional ethics, to establish rules of procedure for the court, develop and implement impeachment procedures and to recommend legislative change to the Tribal Council for the enhancement and development of the Judicial Branch of Government. Nothing within this policy shall be construed to grant the Judicial Board authority to regulate the day-to-day activities of the court, develop the court’s budget or to interfere with the administration of justice.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Selection of Judicial Board members and terms of Office:   District lay members shall be enrolled members of the Turtle Mountain Band of Chippewa, residents of the districts they represent (See also Section 6(a) above) and shall be elected by majority vote of eligible voters of each district at the regularly scheduled general election. Candidates for the Judicial Board shall file their candidacy with the Secretary/Treasurer in the manner described in ARTICLE V, Section 4 (b) of the Turtle Mountain Constitution. Attorney Positions shall be appointed by the Judicial Branch of government by consensus of the Chief Judge and Associate Judge(s). The Judicial Branch representatives shall be appointed by consensus of all judges, except the impeachment judge, of the judicial branch of government. The Tribal Council representative shall be appointed by the majority vote of the Tribal Council. Terms of office shall be for a two-year period. No member of the Judicial Board may serve more than two consecutive terms but may be reappointed after their absence from the Judicial Board by at least one term.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A special election shall be held no later than 45 days after the effective date of ARTICLE XIV for the purpose of selection the lay members of the Judicial Board. Thereafter, the election of lay members shall occur in conjunction with the regularly scheduled general election.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>7</num>
+      <heading>Implementation and Saving Clause:</heading>
+      <text>This amendment establishing an independent Judicial Branch of Government shall take effect 30 days after affirmative vote by the voters of the Turtle Mountain Tribe subject to the following limitation: Section 4 (a) Selection of Judges; The Missouri Plan of judicial appointment shall remain in effect until the next regularly scheduled general election at which time all judicial appointments made pursuant to the Missouri Plan, except for trial and/or special judges shall terminate.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>8</num>
+      <heading>Reservation of powers by Tribal Council and saving provision of the Tribal Constitution:</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only those sections and articles of the current Constitution and Tribal Code are repealed that are necessary to give effect to the above provisions. The Turtle Mountain Tribal Council retains any and all power not provided to the Judicial Branch of Government under this Article. Nothing within this amendment is or shall be construed as a waiver of the sovereignty currently enjoyed by the Turtle Mountain Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</document>
