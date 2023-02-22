@@ -19,7 +19,7 @@
     <section>
       <num>52.0102</num>
       <heading>Authority</heading>
-      <text>Article IX, Sections (a) (2-6) of the Turtle Mountain Band of Chippewa Indians Constitution ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      <text>Article IX, Sections (a) (2-6) of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
@@ -31,47 +31,47 @@
       <text>The primary duty of the Department of Tribal Public Health is the promotion and protection of the Tribe's overall health, wellness, and safety; the prevention of disease; and responding to issues and events related to Public Health Services.</text>
       <text>The Department of Tribal Public Health's duties shall be as follows:</text>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>Assess and monitor population health status, factors that influence health, and community needs and assets.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>Investigate, diagnose, and address health problems and hazards affecting the population.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text>Communicate effectively to inform and educate people about health, factors that influence it, and how to improve it.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>(4)</num>
         <text>Strengthen, support, and mobilize communities and partnerships to improve health.</text>
       </para>
       <para>
-        <num>5.</num>
+        <num>(5)</num>
         <text>Create, champion, and implement policies, plans, and laws that impact health.</text>
       </para>
       <para>
-        <num>6.</num>
+        <num>(6)</num>
         <text>Utilize legal and regulatory actions designed to improve and protect the public's health.</text>
       </para>
       <para>
-        <num>7.</num>
+        <num>(7)</num>
         <text>Assure an effective system that enables equitable access to the individual services and care needed to be healthy.</text>
       </para>
       <para>
-        <num>8.</num>
+        <num>(8)</num>
         <text>Build and support a diverse and skilled public health workforce.</text>
       </para>
       <para>
-        <num>9.</num>
+        <num>(9)</num>
         <text>Improve and innovate public health functions through ongoing evaluation, research, and continuous quality improvement.</text>
       </para>
       <para>
-        <num>10.</num>
+        <num>(10)</num>
         <text>Build and maintain a strong organizational infrastructure for public health.</text>
       </para>
       <para>
-        <num>11.</num>
+        <num>(11)</num>
         <text>Promulgate regulations and policies consistent with the purposes of this code.</text>
       </para>
       <annotations>
@@ -111,19 +111,19 @@
       <heading>Strategic Planning and Reporting</heading>
       <text>The Turtle Mountain Band of Chippewa Department of Tribal Public Health's Strategic Planning and Reporting guidelines are as follows;</text>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>The Director of the Department of Tribal Public Health shall be responsible for creating a Departmental Strategic Plan.  This strategic plan shall at a minimum consist of the Departmental Mission Statement, goals of the Department in support of that mission, the actions necessary to achieve those goals, and a timeline to regularly review and update the strategic plan as necessary.  The plan will be presented to the Tribal Council upon completion,</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>The Director shall assess, at minimum, quarterly progress made toward annual goals and objectives as defined within the Department's Strategic Plan, as well as the goals and objectives stated in the annual budget.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text>The Director shall conduct an annual review of the Department's Strategic Plan, and make updates or revisions, if necessary, to accomplish its mission and purpose.  The updated Departmental Strategic Plan shall be presented to the Tribal Council annually.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>(4)</num>
         <text>Periodic reviews of Departmental Strategic Plans, as requested by the Tribal Council, shall be presented to the Tribal Council by the Director upon completion.</text>
       </para>
       <annotations>
@@ -205,345 +205,342 @@
       <num>52.0202</num>
       <heading>Jurisdiction</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>The Tribal Court shall have general jurisdiction over isolation and quarantine matters as set forth under <cite path="52">this Title</cite>.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text><u>Personal Jurisdiction</u>. Persons and businesses subject to the Tribe's quarantine, isolation, and public health emergency powers include:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>Enrolled members of the Turtle Mountain Band of Chippewa Indians;</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>Turtle Mountain descendants who reside within the exterior boundaries of the Turtle Mountain Reservation;</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>Indians enrolled in the federally recognized tribes who reside within the exterior boundaries of the Turtle Mountain Reservation;</text>
         </para>
         <para>
-          <num>d.</num>
+          <num>(d)</num>
           <text>All businesses with physical locations within the Territorial jurisdiction of the Tribe; and</text>
         </para>
         <para>
-          <num>e.</num>
+          <num>(e)</num>
           <text>All other persons other than those over whom jurisdiction is not prohibited by Federal law.</text>
         </para>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text><u>Territorial jurisdiction</u>. For the purpose of enforcement of <cite path="52">this Title</cite>, the territorial jurisdiction of the Tribe shall be consistent with Article II of the Constitution.</text>
-        <text class="center">
-          <strong>
-            <cite path="52.03">Chapter 52.03</cite>
-          </strong>
-        </text>
-        <text class="center">
-          <strong>Definitions</strong>
-        </text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
       </annotations>
     </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>52.03</num>
+    <heading>Definitions</heading>
     <section>
       <num>52.0301</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="52.02">this chapter</cite>, unless the context otherwise requires:</text>
+      <text>As used in <cite path="52.03">this chapter</cite>, unless the context otherwise requires:</text>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>"Communicable disease" means a disease or condition that causes serious illness, serious disability, or death, the infectious agent of which may pass or be carried, directly or indirectly, from the body of one person to the body of another.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>"Confinement" means quarantine or isolation.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text>"Constitution" means the Constitution of the Tribe.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>(4)</num>
         <text>"Court" means the Tribal Court.</text>
       </para>
       <para>
-        <num>5.</num>
+        <num>(5)</num>
         <text>"Court of Appeals" means the Tribal Court of appeals.</text>
       </para>
       <para>
-        <num>6.</num>
+        <num>(6)</num>
         <text>"Health Officer" means the Health Officer of the Tribe.</text>
       </para>
       <para>
-        <num>7.</num>
+        <num>(7)</num>
         <text>"Isolation" means the physical separation and restrictions on movement or travel of an individual or groups of individuals who are infected or reasonably believed to be infected with a contagious or possibly contagious disease from non-isolated individuals, to prevent or limit the transmission of the disease to non-isolated individuals.</text>
       </para>
       <para>
-        <num>8.</num>
+        <num>(8)</num>
         <text>"Public health emergency" means an occurrence or imminent threat to the health of the public either through an illness or other health condition caused by bio terrorism, toxic waste spill, epidemic or pandemic disease, or a novel and highly fatal infectious agent or biological toxin, or through widespread violence, caused by riots, gang turf warfare, acts of terrorism, or other incidents that poses a substantial risk of a significant number of human facilities, or permanent or long term disability.</text>
       </para>
       <para>
-        <num>9.</num>
+        <num>(9)</num>
         <text>"Quarantine" means the physical separation and restrictions on movement or travel of an individual or groups of individuals, who are or may have been exposed to a contagious or possibly contagious disease and who do not show signs or symptoms of a contagious disease, from nonquarantined individuals to prevent or limit the transmission of the disease to nonquarantined individuals.</text>
       </para>
       <para>
-        <num>10.</num>
-        <text>"Respondent" means the person or group of persons ordered to be confined or restricted under <cite path="52.02">this chapter</cite></text>
+        <num>(10)</num>
+        <text>"Respondent" means the person or group of persons ordered to be confined or restricted under <cite path="52.03">this chapter</cite></text>
       </para>
       <para>
-        <num>11.</num>
+        <num>(11)</num>
         <text>"Shelter in place" means finding a safe location indoors and staying at said location, leaving only for essential activities, as defined by the Health Officer, until otherwise instructed by the Health Officer.</text>
       </para>
       <para>
-        <num>12.</num>
+        <num>(12)</num>
         <text>"Tribal Council" means the Tribal Council of the Tribe.</text>
       </para>
       <para>
-        <num>13.</num>
+        <num>(13)</num>
         <text>"Tribe" means the Turtle Mountain Band of Chippewa Indians.</text>
         <text>The following public health definitions shall apply in the interpretation and enforcement of public health activities:</text>
       </para>
       <para>
-        <num>14.</num>
+        <num>(14)</num>
         <text><strong>Accreditation</strong>—The development of a set of standards, a process to measure health department performance against those standards, and some form of reward or recognition for those agencies meeting the standards.</text>
       </para>
       <para>
-        <num>15.</num>
+        <num>(15)</num>
         <text><strong>Assessment</strong>—One of public health's three core functions. The regular collection, analysis, and sharing of information about health conditions, risks, and resources in a community. Assessment is needed to identify health problems and priorities and the resources available to address the priorities and monitor improvement progress.</text>
       </para>
       <para>
-        <num>16.</num>
+        <num>(16)</num>
         <text><strong>Assurance</strong>—One of the three core functions in public health. Making sure that all populations have access to appropriate and cost-effective care, including health promotion and disease prevention services. These services are assured by encouraging actions by others, collaboration with other organizations, requiring action through regulation, and/or by direct provision of services.</text>
       </para>
       <para>
-        <num>17.</num>
+        <num>(17)</num>
         <text><strong>Bioterrorism</strong>—The intentional use of any microorganism, virus, infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product, to cause death disease, or other biological malfunction in a human, animal, plant, or another living organism to influence the conduct of government or to intimidate or coerce a civilian population.</text>
       </para>
       <para>
-        <num>18.</num>
+        <num>(18)</num>
         <text><strong>Capacity</strong>—The ability to perform the core public health functions of assessment, policy development, and assurance on a continuous, consistent basis, made possible by maintenance of the basic infrastructure of the public health system, including human, capital, and technology resources.</text>
       </para>
       <para>
-        <num>19.</num>
+        <num>(19)</num>
         <text><strong>Chronic disease</strong>—A disease that has one or more of the following characteristics: it is permanent, leaves residual disability, is caused by a nonreversible pathological alteration, requires special training of the patient for rehabilitation, or may be expected to require a long period of supervision, observation or care.</text>
       </para>
       <para>
-        <num>20.</num>
+        <num>(20)</num>
         <text><strong>Clinical services/medical services/personal medical services</strong>—Care administered to an individual to treat an illness or injury.</text>
       </para>
       <para>
-        <num>21.</num>
+        <num>(21)</num>
         <text><strong>Climate Change</strong>- Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle.</text>
       </para>
       <para>
-        <num>22.</num>
+        <num>(22)</num>
         <text><strong>Determinants of health</strong>—The range of personal, social, economic, and environmental factors that determine the health status of individuals or populations.</text>
       </para>
       <para>
-        <num>23.</num>
+        <num>(23)</num>
         <text><strong>Disease</strong>—A state of dysfunction of organs or organ systems that can result in diminished quality of life. Disease is largely socially defined and may be attributed to a multitude of factors. Thus, drug dependence is presently seen by some as a disease, when it previous was considered to be a moral or legal problem.</text>
       </para>
       <para>
-        <num>24.</num>
+        <num>(24)</num>
         <text><strong>Disease management</strong>—To assist an individual to reach his or her optimum level of wellness and functional capability as a way to improve the quality of health care and lower health care costs.</text>
       </para>
       <para>
-        <num>25.</num>
+        <num>(25)</num>
         <text><strong>Endemic</strong>—Prevalent in or peculiar to a particular locality or people.</text>
       </para>
       <para>
-        <num>26.</num>
+        <num>(26)</num>
         <text><strong>Entomologist</strong>—An expert on insects.</text>
       </para>
       <para>
-        <num>27.</num>
+        <num>(27)</num>
         <text><strong>Epidemic</strong>—A group of cases of a specific disease or illness clearly over what one would normally expect in a particular geographic area. There is no absolute criterion for using the term epidemic; as standards and expectations change, so might the definition of an epidemic, such as an epidemic of violence.</text>
       </para>
       <para>
-        <num>28.</num>
+        <num>(28)</num>
         <text><strong>Epidemiology</strong>—The study of the distribution and determinants of diseases and injuries in human populations. Epidemiology is concerned with the frequencies and types of illnesses and injuries in groups of people and with the factors that influence their distribution.</text>
       </para>
       <para>
-        <num>29.</num>
+        <num>(29)</num>
         <text><strong>Foodborne illness</strong>—Illness caused by the transfer of disease organisms or toxins from food to humans.</text>
       </para>
       <para>
-        <num>30.</num>
+        <num>(30)</num>
         <text><strong>Health</strong>—The state of complete physical, mental, and social well-being, and not merely the absence of disease or infirmity. Health has many dimensions-anatomical, physiological, and mental-and is largely culturally defined. Most attempts at measurement have been assessed in terms of morbidity and mortality.</text>
       </para>
       <para>
-        <num>31.</num>
+        <num>(31)</num>
         <text><strong>Health disparities</strong>—Differences in morbidity and mortality due to various causes experience by specific sub-populations.</text>
       </para>
       <para>
-        <num>32.</num>
+        <num>(32)</num>
         <text><strong>Health education</strong>—Any combination of learning opportunities designed to facilitate voluntary adaptations of behavior (in individuals, groups, or communities) conducive to health.</text>
       </para>
       <para>
-        <num>33.</num>
+        <num>(33)</num>
         <text><strong>Health Equity</strong>- Health equity is achieved when every person has the opportunity to "attain his or her full health potential" and no one is "disadvantaged from achieving this potential because of social position or other socially determined circumstances." Health inequities are reflected in differences in length of life; quality of life; rates of disease, disability, and death; severity of disease; and access to treatment.</text>
       </para>
       <para>
-        <num>34.</num>
+        <num>(34)</num>
         <text><strong>Health promotion</strong>—Any combination of health education and related organizational, political, and economic interventions designed to facilitate behavioral and environmental adaptations that will improve or protect health.</text>
       </para>
       <para>
-        <num>35.</num>
+        <num>(35)</num>
         <text><strong>Health status indicators</strong>—Measurements of the state of health of a specific individual, group, or population.</text>
       </para>
       <para>
-        <num>36.</num>
+        <num>(36)</num>
         <text><strong>Incidence</strong>—The number of cases of disease that have their onset during a prescribed time. It is often expressed as a rate. Incidence is a measure of morbidity or other events that occur within a specified time. See related prevalence.</text>
       </para>
       <para>
-        <num>37.</num>
+        <num>(37)</num>
         <text><strong>Infant mortality rate</strong>—The number of live-born infants who die before their first birthday per 1,000 live births.</text>
       </para>
       <para>
-        <num>38.</num>
+        <num>(38)</num>
         <text><strong>Infectious</strong>—Capable of causing infection or disease by the entrance of organisms (e.g., bacteria, viruses, protozoan, fungi) into the body, which then grow and multiply. Often used synonymously with "communicable".</text>
       </para>
       <para>
-        <num>39.</num>
+        <num>(39)</num>
         <text><strong>Intervention</strong>—A term used in public health to describe a program or policy designed to have an effect on a health problem. Health interventions include health promotion, specific protection, early case finding and prompt treatment, disability limitation, and rehabilitation.</text>
       </para>
       <para>
-        <num>40.</num>
+        <num>(40)</num>
         <text><strong>Infrastructure</strong>—The human, organizational, information, and fiscal resources of the public health system that provide the capacity for the system to carry out its functions.</text>
       </para>
       <para>
-        <num>41.</num>
+        <num>(41)</num>
         <text><strong>Isolation</strong>—means the physical separation and restrictions on movement or travel of an individual or travel of an individual or groups of individuals, who are or may have been infected or exposed to a contagious or possibly contagious disease and who do not show signs or symptoms of a contagious disease, from nonquarantined individuals signs or symptoms of a contagious disease, form nonquarantined individuals to prevent or limit the transmission of the disease to nonquarantined individuals.</text>
       </para>
       <para>
-        <num>42.</num>
+        <num>(42)</num>
         <text><strong>Morbidity</strong>—A measure of disease incidence or prevalence in a given population, location, or other groupings of interest.</text>
       </para>
       <para>
-        <num>43.</num>
+        <num>(43)</num>
         <text><strong>Mortality</strong>—A measure of deaths in a given population, location, or other groupings of interest.</text>
       </para>
       <para>
-        <num>44.</num>
+        <num>(44)</num>
         <text><strong>Non-infectious</strong>—Not spread by infectious agents. Often used synonymously with "non-communicable".</text>
       </para>
       <para>
-        <num>45.</num>
+        <num>(45)</num>
         <text><strong>Outcomes</strong>—Sometimes referred to as results of the health system. These are indicators of health status, risk reduction, and quality of life enhancement.</text>
       </para>
       <para>
-        <num>46.</num>
+        <num>(46)</num>
         <text><strong>Outcome standards</strong>—Long-term objectives that define optimal, measurable future levels of health status; maximum acceptable levels of disease, injury, or dysfunction; or prevalence of risk factors.</text>
       </para>
       <para>
-        <num>47.</num>
+        <num>(47)</num>
         <text><strong>Pandemic-</strong> A widespread occurrence of an infectious disease over a whole country or the world at a particular time.</text>
       </para>
       <para>
-        <num>48.</num>
+        <num>(48)</num>
         <text><strong>Pathogen</strong>—Any agent that causes disease, especially a microorganism such as a bacterium or fungus.</text>
       </para>
       <para>
-        <num>49.</num>
+        <num>(49)</num>
         <text><strong>Police power</strong>—A basic power of government that allows restriction of individual rights to protect the safety and interests of the entire population.</text>
       </para>
       <para>
-        <num>50.</num>
+        <num>(50)</num>
         <text><strong>Population-based</strong>—Pertaining to the entire population in a particular area. Population-based public health services extend beyond medical treatment by targeting underlying risks, such as tobacco, drug, and alcohol use; diet and sedentary lifestyles; and environmental factors.</text>
       </para>
       <para>
-        <num>51.</num>
+        <num>(51)</num>
         <text><strong>Prevalence</strong>—The number of cases of a disease, infected people, or people with some other attribute present during a particular interval of time. It often is expressed as a rate.</text>
       </para>
       <para>
-        <num>52.</num>
+        <num>(52)</num>
         <text><strong>Prevention</strong>—Actions taken to reduce susceptibility or exposure to health problems (primary prevention), detect and treat disease in early stages (secondary prevention), or alleviate the effects of disease and injury (tertiary prevention).</text>
       </para>
       <para>
-        <num>53.</num>
+        <num>(53)</num>
         <text><strong>Primary medical care</strong>—Clinical preventive services, first contact treatment services, and ongoing care for commonly encountered medical conditions.</text>
       </para>
       <para>
-        <num>54.</num>
+        <num>(54)</num>
         <text><strong>Protection</strong>—Elimination or reduction of exposure to injuries and occupational or environmental hazards.</text>
       </para>
       <para>
-        <num>55.</num>
+        <num>(55)</num>
         <text><strong>Protective factor</strong>—An aspect of life that reduces the likelihood of negative outcomes, either directly or by reducing the effects of risk factors.</text>
       </para>
       <para>
-        <num>56.</num>
+        <num>(56)</num>
         <text><strong>Public health</strong>—Activities that society does collectively to assure the conditions in which people can be healthy. This includes organized community efforts to prevent, identify, preempt and counter threats to the public's health.</text>
       </para>
       <para>
-        <num>57.</num>
+        <num>(57)</num>
         <text><strong>Public health department/district</strong>—Local health agency, operated by local government, with oversight and direction from a local board of health, which provides public health services throughout a defined geographic area.</text>
       </para>
       <para>
-        <num>58.</num>
+        <num>(58)</num>
         <text><strong>Public Health Officer </strong>means the individual designated by the Tribe to be the executive responsible for the execution of <cite path="52">this Title</cite>.</text>
       </para>
       <para>
-        <num>59.</num>
+        <num>(59)</num>
         <text><strong>Public health practice</strong>—Organizational practices or processes that are necessary and sufficient to assure that the core functions of public health are being carried out effectively.</text>
       </para>
       <para>
-        <num>60.</num>
+        <num>(60)</num>
         <text><strong>Quality assurance</strong>—Monitoring and maintaining the quality of public health services through licensing and discipline of health professionals, licensing of health facilities, and the enforcement of standards and regulations.</text>
       </para>
       <para>
-        <num>61.</num>
+        <num>(61)</num>
         <text><strong>Rate</strong>—A measure of the intensity of the occurrence of an event. For example, the mortality rate equals the number who die in one year divided by the number at risk of dying. Rates usually are expressed using a standard denominator such as 1,000 or 100,000 people.</text>
       </para>
       <para>
-        <num>62.</num>
+        <num>(62)</num>
         <text><strong>Risk assessment</strong>—Identifying and measuring the presence of direct causes and risk factors that, based on scientific evidence or theory, are thought to directly influence the level of a specific health problem.</text>
       </para>
       <para>
-        <num>63.</num>
+        <num>(63)</num>
         <text><strong>Risk factor</strong>—Personal qualities or societal conditions that lead to the increased probability of a problem or problems developing.</text>
       </para>
       <para>
-        <num>64.</num>
+        <num>(64)</num>
         <text><strong>Screening</strong>—The use of technology and procedures to differentiate those individuals with signs or symptoms of the disease from those less likely to have the disease.</text>
       </para>
       <para>
-        <num>65.</num>
+        <num>(65)</num>
         <text><strong>Social marketing</strong>—A process for influencing human behavior on a large scale, using marketing principles for societal benefit rather than for commercial profit.</text>
       </para>
       <para>
-        <num>66.</num>
+        <num>(66)</num>
         <text><strong>Social norm</strong>—Expectations about behavior, thoughts, or feelings that are appropriate and sanctioned within a particular society. Social norms can play a powerful role in the health status of individuals.</text>
       </para>
       <para>
-        <num>67.</num>
+        <num>(67)</num>
         <text><strong>Standards</strong>—Accepted measures of comparison that have quantitative or qualitative value.</text>
       </para>
       <para>
-        <num>68.</num>
+        <num>(68)</num>
         <text><strong>State health agency</strong>—The unit of state government that has leading responsibility for identifying and meeting the health needs of the state's citizens. State health agencies can be free-standing or units of multipurpose health and human service agencies.</text>
       </para>
       <para>
-        <num>69.</num>
+        <num>(69)</num>
         <text><strong>Structural Violence-</strong> Structural violence is "invisible, embedded in ubiquitous social structures, normalized by stable institutions and regular experience," and "occurs whenever people are disadvantaged by political, legal, economic, or cultural traditions."</text>
       </para>
       <para>
-        <num>70.</num>
+        <num>(70)</num>
         <text><strong>Surveillance</strong>—Systematic monitoring of the health status of a population. Threshold standards—Rate or level of illness or injury in a community or population that, if exceeded, call for closer attention and may signal the need for renewed or redoubled action.</text>
       </para>
       <para>
-        <num>71.</num>
+        <num>(71)</num>
         <text><strong>TMBCI Health Board-</strong>The eleven (11) member authoritative body, recognized by the Tribal Council, to assist in improving health conditions within the Turtle Mountain Jurisdiction through the alleviation of immediate and felt health problems of the people of the Turtle Mountains.</text>
       </para>
       <para>
-        <num>72.</num>
+        <num>(72)</num>
         <text><strong>Tribal Public Health Department</strong>- A federally recognized Tribal government, Tribal organization, or inter-Tribal consortium, as defined in the Indian Self-Determination and Education Assistance Act, as amended having jurisdictional authority to provide public health services, as evidenced by constitution, resolution, ordinance, executive order, or other legal means, intended to promote and protect the Tribe's overall health, wellness, and safety; prevent disease, and respond to issues and events.</text>
       </para>
       <para>
-        <num>73.</num>
+        <num>(73)</num>
         <text><strong>Years of potential life lost</strong>—A measure of the effects of disease or injury in a population that calculates years of life lost before a specific age (often ages 64 or 75). This approach places additional value on deaths that occur at earlier ages.</text>
       </para>
       <annotations>
@@ -596,50 +593,50 @@
       <num>52.0405</num>
       <heading>Powers and Duties of the Health Officer</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>The Health Officer shall, upon the approval of Tribal Council, have the authority to appoint and manage a reasonable staff as required to carry out the powers and duties of the Health Officer.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>The Health Officer shall have the following powers and duties:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>Conduct, promote, and finance, in full or in part, with the approval of the Tribal Council, studies, investigations, programs and research, independently or in cooperation with universities, colleges, scientific organizations, and public or private agencies;</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>Order the enforcement of such quarantine and isolation orders as necessary for the protection of public health;</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>Recommend, as necessary, to Tribal Council appropriate responses to public health emergencies, including, but not limited to:</text>
           <para>
-            <num>i.</num>
+            <num>(i)</num>
             <text>The closure of businesses or appropriate limits to the operations of businesses;</text>
           </para>
           <para>
-            <num>ii.</num>
+            <num>(ii)</num>
             <text>Social distancing;</text>
           </para>
           <para>
-            <num>iii.</num>
+            <num>(iii)</num>
             <text>Shelter in place;</text>
           </para>
           <para>
-            <num>iv.</num>
+            <num>(iv)</num>
             <text>Removal or exclusion of non-Indian individuals from the Tribe's jurisdiction;</text>
           </para>
         </para>
         <para>
-          <num>d.</num>
+          <num>(d)</num>
           <text>Recommend to Tribal Council policies and regulations governing the control of communicable disease within the Tribe's jurisdiction;</text>
         </para>
         <para>
-          <num>e.</num>
+          <num>(e)</num>
           <text>Communicate with tribal government authorities and businesses to coordinate responses to public health emergencies; and</text>
         </para>
         <para>
-          <num>f.</num>
+          <num>(f)</num>
           <text>Communicate and coordinate responses to public health emergencies and issues with State, federal, or Tribal Health Officers and State Public Health Units.</text>
         </para>
       </para>
@@ -652,18 +649,18 @@
       <num>52.0406</num>
       <heading>Confinement Order</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>The Health Officer may order any person or group into confinement by a written directive if there are reasonable grounds to believe that:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>The person or group is infected with any communicable disease;</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>The person or group poses a substantial threat to the public health; and</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>Confinement is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
         </para>
       </para>
@@ -676,42 +673,42 @@
       <num>52.0407</num>
       <heading>Conditions and Principles</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>The Health Officer shall adhere to the following conditions and principles when isolating or quarantining individuals or groups of individuals:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>Isolation and quarantine must be by the least restrictive means necessary to prevent the spread of a contagious or possibly contagious disease to others and may include confinement to private homes or other private and public premises.</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>Isolated individuals must be confined separately from quarantined individuals.</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>The health status of isolated and quarantined individuals must be monitored regularly to determine if they require quarantine or isolation.</text>
         </para>
         <para>
-          <num>d.</num>
+          <num>(d)</num>
           <text>If a quarantined individual subsequently becomes infected or is reasonably believed to have become infected with a contagious or possibly contagious disease the individual must promptly be removed to isolation.</text>
         </para>
         <para>
-          <num>e.</num>
+          <num>(e)</num>
           <text>Isolated and quarantined individuals must be immediately released when they pose no substantial risk of transmitting a contagious or possibly contagious disease to others.</text>
         </para>
         <para>
-          <num>f.</num>
+          <num>(f)</num>
           <text>Isolated and quarantined individuals must be provided adequate information, in a manner that such individuals can understand, on the scope of their quarantine or isolation order, including, but not limited to: acceptable movement outside of the quarantine or isolation premises, acceptable contact with persons outside the quarantine or isolation order, and the boundaries of the quarantine or isolation premises.</text>
         </para>
         <para>
-          <num>g.</num>
+          <num>(g)</num>
           <text>The needs of persons isolated and quarantined must be addressed in a systematic and competent fashion, including providing adequate food, clothing, shelter, means of communication with those in quarantine or isolation and outside these settings, medication, and competent medical care.</text>
         </para>
         <para>
-          <num>h.</num>
+          <num>(h)</num>
           <text>Premises used for isolation and quarantine must be maintained in a safe and hygienic manner and be designed to minimize the likelihood of further transmission of infection or other harm to persons isolated and quarantined.</text>
         </para>
         <para>
-          <num>i.</num>
+          <num>(i)</num>
           <text>To the extent possible, cultural and religious beliefs must be considered in addressing the needs of individuals and establishing and maintaining isolation and quarantine premises.</text>
         </para>
       </para>
@@ -733,15 +730,15 @@
       <num>52.0409</num>
       <heading>Entry into Quarantine or Isolation Premises</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>Authorized entry. The Health Officer may authorize physicians, health care workers, or others access to individuals in quarantine or isolation as necessary to meet the needs of isolated or quarantined individuals.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>Unauthorized entry. A person, other than a person authorized by the state or local health officer, must not enter quarantine or isolation premises. Failure to obey this provision is a class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text>Potential quarantine or isolation. A person entering a quarantine or isolation premises with or without authorization of the state or local health officer may be isolated or quarantined pursuant to <cite path="52|52.03|52.0309">Section 52.0309</cite>.</text>
       </para>
       <annotations>
@@ -753,11 +750,11 @@
       <num>52.0410</num>
       <heading>Limitations</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text><cite path="52|52.04|52.0410">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any medical facility within the Tribe's jurisdiction.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text><cite path="52|52.04|52.0410">This section</cite> does not authorize the Health Officer to commandeer, in whole or in part, any tribal government facility or tribal business facility without prior authorization for such action from Tribal Council.</text>
       </para>
       <annotations>
@@ -819,39 +816,39 @@
       <num>52.0502</num>
       <heading>Contents of Petition for Quarantine or Isolation</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>A petition under Section a must:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>Specify the identity of the individual or groups of individuals subject to quarantine or isolation, including identification by characteristics if actual identification is impossible or impractical;</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>The premises subject to quarantine or isolation;</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>The date and time at which quarantine or isolation commenced or shall commence;</text>
         </para>
         <para>
-          <num>d.</num>
+          <num>(d)</num>
           <text>The suspected contagious disease if known;</text>
         </para>
         <para>
-          <num>e.</num>
+          <num>(e)</num>
           <text>Recommended decontamination, treatment, or preventative measures for the suspected contagious disease;</text>
         </para>
         <para>
-          <num>f.</num>
+          <num>(f)</num>
           <text>A statement of compliance with the conditions and principles authorizing isolation and quarantine under <cite path="52">this Title</cite>; and</text>
         </para>
         <para>
-          <num>g.</num>
+          <num>(g)</num>
           <text>A statement that quarantine or isolation is necessary and is the least restrictive alternative to protect or preserve the public health accompanied by any supporting documentation and/or evidence for this statement.</text>
         </para>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>The petition must be accompanied by the sworn affidavit of Health Officer attesting to the facts asserted in the petition, with any further information that may be relevant and material to the Court's consideration.</text>
       </para>
       <annotations>
@@ -863,18 +860,18 @@
       <num>52.0503</num>
       <heading>Submission of a Petition to Tribal Court</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>As soon as is practicable after submission of the petition to the Court, the Judge shall examine the petition to determine whether it complies with the requirements of <cite path="52|52.05|52.0502">Section 52.0502</cite>. If the petition meets the requirements set forth in <cite path="52|52.05|52.0502">Section 52.0502</cite>, the Court shall schedule a hearing on the petition for no later than five (5) business days after the date of receipt of the petition.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>Prior to the hearing on the petition, the Tribal Court may:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>Issue an emergency ex-parte order for the immediate quarantine or isolation of the individual or group of individuals identified in the petition; or</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>Issue an emergency ex-parte order requiring the individual or group of individuals identified in the position to follow all orders issued by the Health Officer.</text>
         </para>
       </para>
@@ -910,35 +907,35 @@
       <num>52.0601</num>
       <heading>Court Hearing Requirements</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>A hearing must be held on a petition filed under <cite path="52|52.05|52.0503">Section 52.0503</cite> within five (5) days of filing the petition. A record of the proceedings pursuant to <cite path="52|52.06|52.0601">this section</cite> must be made and retained. If parties cannot personally appear before the Court due to risks of contamination or the spread of disease, proceedings may be conducted by their authorized representatives and/ or be held via any means that allows all parties to fully participate, including, but not limited to, video call or teleconference. The respondent, respondent's representative, or respondent's counsel has the right to cross-examine witnesses testifying at the hearing.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>The respondent has a right to counsel, at the respondent's own expense.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>(3)</num>
         <text>A petition for a hearing does not stay a written directive ordering confinement.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>(4)</num>
         <text>At the conclusion of the hearing, the Court shall determine by a preponderance of the evidence:</text>
         <para>
-          <num>a.</num>
+          <num>(a)</num>
           <text>If the respondent is infected with a communicable disease;</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(b)</num>
           <text>If the respondent poses a substantial threat to the public health; and</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(c)</num>
           <text>If confinement is necessary and is the least restrictive alternative to protect or preserve the public health.</text>
         </para>
       </para>
       <para>
-        <num>5.</num>
+        <num>(5)</num>
         <text>The Court shall also determine whether to order the respondent to follow the Health Officer's directive for decontamination, treatment, or preventative measures if the petition is granted.</text>
       </para>
       <annotations>
@@ -950,11 +947,11 @@
       <num>52.0602</num>
       <heading>Access to Records</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>Before a hearing conducted under <cite path="52">this Title</cite>, the respondent, respondent's representative, or respondent's counsel, and the Tribal attorney must be afforded access to all records, accessible by the Health Officer, as allowed under federal and tribal privacy laws, including hospital records if the respondent is hospitalized.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>(2)</num>
         <text>If the respondent is hospitalized at the time of the hearing, the hospital shall make available at the hearing for use by the respondent, respondent's representative, respondent's counsel, and the Tribal Attorney all records in its possession relating to the conditions of the respondent.</text>
       </para>
       <annotations>
@@ -975,7 +972,7 @@
       <num>52.0604</num>
       <heading>Court Findings and Orders</heading>
       <para>
-        <num>1.</num>
+        <num>(1)</num>
         <text>If the Court finds by a preponderance of the evidence that the respondent is infected with a communicable disease, poses a substantial threat to the public health, and that confinement of the respondent is necessary and is the least restrictive alternative to protect or preserve the public health, the Court may order the continued confinement of the respondent under any conditions and restrictions the Court determines appropriate for decontamination, treatment, or prevention, including remand to the Health Officer, until the Health Officer determines that the respondent's release would not constitute a substantial threat to the public health, or may order the release of the respondent under any conditions and restrictions the Court determines appropriate to protect the public health. If the Court fails to find that the conditions required for an order for confinement have been proven, the Court shall order the immediate release of the respondent.</text>
       </para>
       <annotations>

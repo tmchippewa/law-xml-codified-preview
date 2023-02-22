@@ -11,7 +11,7 @@
       <num>47.0101</num>
       <heading>Purpose of Code</heading>
       <text>The purpose of this Severance Tax Code is as follows:</text>
-      <text>To impose a tax upon the severance of non-renewable energy minerals from tribal  trust lands, tribally owned fee lands, and allotted or restricted lands  within the Territory and jurisdiction of the Tribe is defined in Article II, Section 2, Jurisdiction , of the Turtle Mountain Band of Chippewa Indians Constitution;</text>
+      <text>To impose a tax upon the severance of non-renewable energy minerals from tribal  trust lands, tribally owned fee lands, and allotted or restricted lands  within the Territory and jurisdiction of the Tribe is defined in Article II, Section 2, Jurisdiction , of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite>;</text>
       <text>To provide to the Tribe a source of revenue which can help sustain the economic viability of the Tribe following the severance, depletion or exhaustion of minerals from lands within  the jurisdiction of the Tribe;</text>
       <text>To provide the Tribe a current source of revenue to help fund the delivery of services.</text>
       <annotations/>
@@ -42,7 +42,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Maximum Territory Price" means the value obtained as a result of applying the formula set forth in <cite path="47|47.02|47.0208">Section 47.0208</cite>(2) of this Code.</text>
+        <text>Maximum Territory Price" means the value obtained as a result of applying the formula set forth in <cite path="47|47.02|47.0208|(2)">Section 47.0208(2)</cite> of this Code.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -78,7 +78,7 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>"Transportation Costs" means reasonable, actual costs incurred by the taxpayer for moving marketable products described in <cite path="47|47.01|47.0101">Section 47.0101</cite> (2) of this code to a point of sale or other point of final disposition that is remote from the point of initial severance, separation, treatment or measurement (generally the point approved by the Bureau of Land Management for the purposes of royalty measurement).  Not included in this definition are costs incurred by the taxpayer for the movement or removal from the production stream of products not described in <cite path="47|47.02|47.0201">Section 47.0201</cite> or products whose value is otherwise exempted from application of this Code or for compression intended to enhance production or to meet pipeline delivery pressure requirements. When costs are incurred on a transportation system owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, and depreciation and return on undepreciated capital investment directly associated with the transportation system. The basis and method of depreciation shall not be changed once used, regardless of any changes in ownership of the system.</text>
+        <text>"Transportation Costs" means reasonable, actual costs incurred by the taxpayer for moving marketable products described in <cite path="47|47.01|47.0101|(2)">Section 47.0101 (2)</cite> of this code to a point of sale or other point of final disposition that is remote from the point of initial severance, separation, treatment or measurement (generally the point approved by the Bureau of Land Management for the purposes of royalty measurement).  Not included in this definition are costs incurred by the taxpayer for the movement or removal from the production stream of products not described in <cite path="47|47.02|47.0201">Section 47.0201</cite> or products whose value is otherwise exempted from application of this Code or for compression intended to enhance production or to meet pipeline delivery pressure requirements. When costs are incurred on a transportation system owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, and depreciation and return on undepreciated capital investment directly associated with the transportation system. The basis and method of depreciation shall not be changed once used, regardless of any changes in ownership of the system.</text>
       </para>
       <para>
         <num>(16)</num>
@@ -177,7 +177,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>volumes used, for the benefit of operations on the leased  premises  from which such substances are produced, prior to removal therefrom  or sale; provided ,  that  volumes attributable to use off the lease from which such mineral s are produced are not exempt from severance tax except as set forth in <cite path="47|47.02|47.0204">Section 47.0204</cite> (4)  below:</text>
+        <text>volumes used, for the benefit of operations on the leased  premises  from which such substances are produced, prior to removal therefrom  or sale; provided ,  that  volumes attributable to use off the lease from which such mineral s are produced are not exempt from severance tax except as set forth in <cite path="47|47.02|47.0204|(4)">Section 47.0204 (4)</cite>  below:</text>
       </para>
       <para>
         <num>(4)</num>
@@ -246,7 +246,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Notwithstanding the provision of <cite path="47|47.02|47.0208">Section 47.0208</cite>(1), the taxpayer may elect to base its monthly tax payment on the Maximum Territory Price.  This election must be made prior to October 1st of each year by written notice to the Tax Commissioner and cannot be modified until the following year. The formula for the calculation of the Maximum Territory Price is as follows:</text>
+        <text>Notwithstanding the provision of <cite path="47|47.02|47.0208|(1)">Section 47.0208(1)</cite>, the taxpayer may elect to base its monthly tax payment on the Maximum Territory Price.  This election must be made prior to October 1st of each year by written notice to the Tax Commissioner and cannot be modified until the following year. The formula for the calculation of the Maximum Territory Price is as follows:</text>
         <text>H1 + <em>Hi +</em> ...Hu- X = Calculated Territory Price where the followi ng:</text>
         <text>N</text>
         <text>H = The arithmetic average of the highest prices (Bid week or first of the month publication) in the range of all index pricing points in the San Juan Basin as published in each valid  index publication.</text>
@@ -314,7 +314,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>In addition to such other interest or penalties provided by the foregoing Subsections. any taxpayer who employs electronic flow measurement devices in compliance with the provisions in <cite path="47|47.02|47.0207">Section 47.0207</cite>(5) but who fails to establish and maintain an auditable record of raw flow measurement data shall be subject to a civil penalty on a per meter basis not to exceed One Thousand Dollars ($1000.00) per day for each day that such information is lacking. Any taxpayer who fails to repair or correct an electronic flow measurement device malfunction in a timely manner shall be subject to a civil penalty on a per meter basis not to exceed one hundred dollars ($100.00) per day for each day that the metering device is not timely repaired or corrected.</text>
+        <text>In addition to such other interest or penalties provided by the foregoing Subsections. any taxpayer who employs electronic flow measurement devices in compliance with the provisions in <cite path="47|47.02|47.0207|(5)">Section 47.0207(5)</cite> but who fails to establish and maintain an auditable record of raw flow measurement data shall be subject to a civil penalty on a per meter basis not to exceed One Thousand Dollars ($1000.00) per day for each day that such information is lacking. Any taxpayer who fails to repair or correct an electronic flow measurement device malfunction in a timely manner shall be subject to a civil penalty on a per meter basis not to exceed one hundred dollars ($100.00) per day for each day that the metering device is not timely repaired or corrected.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -350,7 +350,7 @@
       <heading>Bonds and Other Security for Taxes</heading>
       <para>
         <num>(1)</num>
-        <text>Except as set forth in <cite path="47|47.02|47.0214">Section 47.0214</cite> (2), below, all working interest owners or operators paying taxes shall post with the Tribe a security in an amount equal to the highest tax liability having previously accrued to that working interest owner or operator during a two-month period. Such security may be in the form of a surety bond, a cash deposit to the treasury of the Tribe to be held in suspense, an assignment to the Tribe of a certificate of deposit, or an irrevocable letter of credit with any federally insured bank or savings and loan association. Any form of security shall be released after the taxpayer ceases to be subject to the requirements of this Code and after the Tax Commissioner determines that no tax penalty or interest liability exists.</text>
+        <text>Except as set forth in <cite path="47|47.02|47.0214|(2)">Section 47.0214 (2)</cite>, below, all working interest owners or operators paying taxes shall post with the Tribe a security in an amount equal to the highest tax liability having previously accrued to that working interest owner or operator during a two-month period. Such security may be in the form of a surety bond, a cash deposit to the treasury of the Tribe to be held in suspense, an assignment to the Tribe of a certificate of deposit, or an irrevocable letter of credit with any federally insured bank or savings and loan association. Any form of security shall be released after the taxpayer ceases to be subject to the requirements of this Code and after the Tax Commissioner determines that no tax penalty or interest liability exists.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -366,7 +366,7 @@
     <section>
       <num>47.0216</num>
       <heading>Audits and Records Requests</heading>
-      <text>The Tribal Council or its authorized representative shall have the authority to conduct audits and internal desk reviews to ascertain that correct volumes of severed minerals arc being reported and that the correct amount of tax is being remitted. During the course of such audits, the taxpayer will be given credit for any tax found to have been overpaid. In exercise of this authority, the Tribal Council or its authorized representative may request records from any entity involved in producing, transporting, treating, marketing, or processing minerals subject to this Code. Additionally, the Tribal Council or its authorized representative may request information maintained by the Bureau of Land Management, the Minerals Management Service, the Bureau of Indian Affairs, the State of North Dakota, or other governmental agencies that may be relevant to compliance with this Code. Retention of records by a taxpayer during the pendency of an audit shall be in accordance with <cite path="47|47.02|47.0206">Section 47.0206</cite> (2) of this Code.</text>
+      <text>The Tribal Council or its authorized representative shall have the authority to conduct audits and internal desk reviews to ascertain that correct volumes of severed minerals arc being reported and that the correct amount of tax is being remitted. During the course of such audits, the taxpayer will be given credit for any tax found to have been overpaid. In exercise of this authority, the Tribal Council or its authorized representative may request records from any entity involved in producing, transporting, treating, marketing, or processing minerals subject to this Code. Additionally, the Tribal Council or its authorized representative may request information maintained by the Bureau of Land Management, the Minerals Management Service, the Bureau of Indian Affairs, the State of North Dakota, or other governmental agencies that may be relevant to compliance with this Code. Retention of records by a taxpayer during the pendency of an audit shall be in accordance with <cite path="47|47.02|47.0206|(2)">Section 47.0206 (2)</cite> of this Code.</text>
       <annotations/>
     </section>
     <section>
