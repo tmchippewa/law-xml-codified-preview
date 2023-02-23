@@ -1,112 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>60</num>
   <heading>Public Records Access and Disclosure Law: Public Records Act of 2018</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>60.01</num>
     <heading>Public Records - Access and Disclosure</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>60.0101</num>
+      <num>60.01.010</num>
       <heading>Short Title</heading>
-      <text><cite path="60">This Title</cite> shall be known and may be cited as the "Public Records Act of 2018."</text>
-      <annotations/>
+      <text><cite path="60">This title</cite> shall be known and may be cited as the "Public Records Act of 2018."</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.01.010 was formerly codified as 60.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0102</num>
+      <num>60.01.020</num>
       <heading>Findings and Purpose</heading>
       <para>
-        <num>(1)</num>
-        <text>The Tribe finds that it is vital in a democratic society that public business be performed in an open and public manner. Toward this end. provisions of <cite path="60">this Title</cite> must be construed so as to make it possible for members of the Turtle Mountain Band of Chippewa Indians, or their representatives, to have access to public records at a minimum cost and with minimum delay to the persons seeking access.</text>
+        <num>(a)</num>
+        <text>The Tribe finds that it is vital in a democratic society that public business be performed in an open and public manner. Toward this end. provisions of <cite path="60">this title</cite> must be construed so as to make it possible for members of the Turtle Mountain Band of Chippewa Indians, or their representatives, to have access to public records at a minimum cost and with minimum delay to the persons seeking access.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Members and their representatives have a right to know the basis of the formulation of public policy. Therefore, it is the public policy of this Tribe that members shall be advised of the performance of public officials and of the decisions that are reached in public activity.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.01.020 was formerly codified as 60.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0103</num>
+      <num>60.01.030</num>
       <heading>Application</heading>
       <para>
-        <num>(1)</num>
-        <text><cite path="60">This Title</cite> applies to the tribal records identified in <cite path="60">this Title</cite> and governed by Tribal law. It does not apply to records that are governed by the federal law including, but not limited to, the federal Privacy Act, the Freedom of Information Act and the Health Insurance Portability and Accountability Act.</text>
+        <num>(a)</num>
+        <text><cite path="60">This title</cite> applies to the tribal records identified in <cite path="60">this title</cite> and governed by Tribal law. It does not apply to records that are governed by the federal law including, but not limited to, the federal Privacy Act, the Freedom of Information Act and the Health Insurance Portability and Accountability Act.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Nothing in <cite path="60">this Title</cite> prohibits public bodies and their employees and agents from obtaining, accessing, using, copying and sharing records and information governed by <cite path="60">this Title</cite> if the action is necessary for the performance of official job-related duties.</text>
-      </para>
-      <annotations/>
-    </section>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>60.02</num>
-    <heading>Definitions.</heading>
-    <section>
-      <num>60.0201</num>
-      <heading>Definitions in This Title:</heading>
-      <para>
-        <num>(1)</num>
-        <text>"Member" means a member of the Tribe or his or her agent or representative.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>"Person" includes any individual, corporation, partnership, firm, organization, or association.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>"Public Body" means the government of the Turtle Mountain Band of Chippewa Indians and any of its agencies, enterprises, entities, gaming enterprises, all casinos, authorities, boards, commissions, committees, subcommittees, organizations or corporations supported in whole or in part by funds created, managed, disbursed or passed-through by the Tribe or which expends such funds under the care of the Tribe, including any quasi-governmental body of the Tribe, the business enterprises of the Tribe and its political subdivisions.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>"Public record" includes all books, papers, maps, photographs, cards, tapes, recordings, or other documentary materials regardless of physical form or characteristics prepared, owned, used, in possession of, or retained by a public body.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Records such as income tax returns, medical records, hospital medical staff reports, law enforcement investigative files and names of confidential informants, scholastic records, adoption records, records related to registration, and circulation of library materials which contain names or other personally identifying details regarding the users of public, private, school, college, technical college, university, and state institutional libraries and library systems, supported in whole or in part by public funds or expending public funds, or records which reveal the identity of the library patron checking out or requesting an item from the library or using other library services, except non-identifying administrative and statistical reports of registration and circulation, and other records which by law are required to be closed to the public are not considered to be made open to the public under the provisions of this act.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>"Tribal Council or Council" means the elected Body of the Turtle Mountain Band of Indians, as defined in the Constitution.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>"Tribe or Tribal" means the Turtle Mountain Band of Chippewa Indians.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>"Proprietary records" means data belonging to the Gaming Enterprises or Tribal Business Enterprises, which may include but is not limited to financial information, intellectual property, such as concepts, designs, techniques, technical documentation, artwork, and the related data.</text>
+        <num>(b)</num>
+        <text>Nothing in <cite path="60">this title</cite> prohibits public bodies and their employees and agents from obtaining, accessing, using, copying and sharing records and information governed by <cite path="60">this title</cite> if the action is necessary for the performance of official job-related duties.</text>
       </para>
       <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+        <annotation type="Prior Codifications">§60.01.030 was formerly codified as 60.0103</annotation>
       </annotations>
     </section>
   </container>
   <container>
+    <num>60.02</num>
+    <heading>Definitions.</heading>
     <prefix>Chapter</prefix>
+    <section>
+      <num>60.02.010</num>
+      <heading>Definitions in This Title:</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Member" means a member of the Tribe or his or her agent or representative.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Person" includes any individual, corporation, partnership, firm, organization, or association.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Public Body" means the government of the Turtle Mountain Band of Chippewa Indians and any of its agencies, enterprises, entities, gaming enterprises, all casinos, authorities, boards, commissions, committees, subcommittees, organizations or corporations supported in whole or in part by funds created, managed, disbursed or passed-through by the Tribe or which expends such funds under the care of the Tribe, including any quasi-governmental body of the Tribe, the business enterprises of the Tribe and its political subdivisions.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Public record" includes all books, papers, maps, photographs, cards, tapes, recordings, or other documentary materials regardless of physical form or characteristics prepared, owned, used, in possession of, or retained by a public body.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Records such as income tax returns, medical records, hospital medical staff reports, law enforcement investigative files and names of confidential informants, scholastic records, adoption records, records related to registration, and circulation of library materials which contain names or other personally identifying details regarding the users of public, private, school, college, technical college, university, and state institutional libraries and library systems, supported in whole or in part by public funds or expending public funds, or records which reveal the identity of the library patron checking out or requesting an item from the library or using other library services, except non-identifying administrative and statistical reports of registration and circulation, and other records which by law are required to be closed to the public are not considered to be made open to the public under the provisions of this act.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribal Council or Council" means the elected Body of the Turtle Mountain Band of Indians, as defined in the Constitution.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Tribe or Tribal" means the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Proprietary records" means data belonging to the Gaming Enterprises or Tribal Business Enterprises, which may include but is not limited to financial information, intellectual property, such as concepts, designs, techniques, technical documentation, artwork, and the related data.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+        <annotation type="Prior Codifications">§60.02.010 was formerly codified as 60.0201</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
     <num>60.03</num>
     <heading>Right to Inspect And/Or Copy Public Records</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>60.0301</num>
+      <num>60.03.010</num>
       <heading>Right to Inspect and Copy Public Records</heading>
       <para>
         <num>(a)</num>
-        <text>Any person has a right to inspect or copy any public record of a public body, except as otherwise provided by <cite path="60">this Title</cite>, and in accordance with reasonable rules concerning time and place of access.</text>
+        <text>Any person has a right to inspect or copy any public record of a public body, except as otherwise provided by <cite path="60">this title</cite>, and in accordance with reasonable rules concerning time and place of access.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>A request to inspect or copy a public record must be in writing. The writing may be handwritten and informal but must express the request with enough clarity to enable the public body to accurately identify the record sought. The request must also state the date, name, address and telephone number of the requesting member, and must be signed by the requesting member.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.010 was formerly codified as 60.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0302</num>
+      <num>60.03.020</num>
       <heading>Fees</heading>
       <para>
         <num>(a)</num>
-        <text>The intent of <cite path="60|60.03|60.0302">this section</cite> is to establish that the records should be furnished at the lowest possible cost to the person requesting the records while ensuring that the requestor pays for the searching and copying of the record and to not have the public body bear the cost of searching and copying.</text>
+        <text>The intent of <cite path="§60.03.020">this section</cite> is to establish that the records should be furnished at the lowest possible cost to the person requesting the records while ensuring that the requestor pays for the searching and copying of the record and to not have the public body bear the cost of searching and copying.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -118,37 +127,68 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="60|60.03|60.0302">this section</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
+        <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">this section</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.020 was formerly codified as 60.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0302</num>
+      <num>60.03.030</num>
       <heading>Form of Records</heading>
-      <text>Public records must be provided in a form that is both convenient and practical for use by the person requesting copies of the records; provided, however, nothing in <cite path="60">this Title</cite> requires the public body to provide the record in a form other than that in which it is normally stored, or to create a new record.</text>
-      <annotations/>
-    </section>
-    <section>
-      <num>60.0302</num>
-      <heading>Notification After Request</heading>
       <para>
         <num>(a)</num>
-        <text>When a public body receives a written request to inspect or copy a public record, the public body must, within 15 days (excepting Saturdays, Sundays, and Tribal government holidays) of the receipt of the written request, notify in writing the person making the request of its determination and the reasons for its determination. Nothing in <cite path="60">this Title</cite> shall supersede Tribal law or policy relating to access to records by members of Tribal Council, the Chairman or his or her representative. The determination shall constitute the final opinion of the public body as to the public availability of the requested public record.</text>
+        <text>The intent of <cite path="§60.03.020">Section 60.03.020</cite> is to establish that the records should be furnished at the lowest possible cost to the person requesting the records while ensuring that the requestor pays for the searching and copying of the record and to not have the public body bear the cost of searching and copying.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If the request to inspect or copy a public record is granted, the record must be furnished or made available for inspection or copying within a reasonable time.</text>
+        <text>The public body may establish and collect fees not to exceed the actual cost of searching for and/or making copies of public records. Fees charged by a public body must be uniform for copies of the same records or document. However, members of the Tribal Council may receive copies of records or documents at no charge from public bodies when their request relates to their legislative duties.</text>
       </para>
-      <annotations/>
+      <para>
+        <num>(c)</num>
+        <text>When appropriate, records may be furnished without charge or at a reduced charge where the public body determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">Section 60.03.020</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.030 was formerly codified as 60.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0303</num>
+      <num>60.03.040</num>
+      <heading>Notification After Request</heading>
+      <para>
+        <num>(a)</num>
+        <text>The intent of <cite path="§60.03.020">Section 60.03.020</cite> is to establish that the records should be furnished at the lowest possible cost to the person requesting the records while ensuring that the requestor pays for the searching and copying of the record and to not have the public body bear the cost of searching and copying.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The public body may establish and collect fees not to exceed the actual cost of searching for and/or making copies of public records. Fees charged by a public body must be uniform for copies of the same records or document. However, members of the Tribal Council may receive copies of records or documents at no charge from public bodies when their request relates to their legislative duties.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When appropriate, records may be furnished without charge or at a reduced charge where the public body determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Fees may not be charged for examination and review to determine if the documents are subject to disclosure. Nothing in <cite path="§60.03.020">Section 60.03.020</cite> prevents a public body from charging a reasonable hourly rate for making records available to the public or from requiring a reasonable deposit of these costs before searching for or making copies of the records.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.040 was formerly codified as 60.0302</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>60.03.050</num>
       <heading>Presumption upon Failure to Give Notice</heading>
-      <text>If the public body does not mail or personally deliver written notification of its determination regarding the availability of the requested public record to the person requesting the record, within the 15 days allowed in <cite path="60">this Title</cite>, the request must be considered disapproved and the requestor may appeal the denial using the procedure provided in <cite path="60">this Title</cite>.</text>
-      <annotations/>
+      <text>If the public body does not mail or personally deliver written notification of its determination regarding the availability of the requested public record to the person requesting the record, within the 15 days allowed in <cite path="60">this title</cite>, the request must be considered disapproved and the requestor may appeal the denial using the procedure provided in <cite path="60">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.050 was formerly codified as 60.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0304</num>
+      <num>60.03.060</num>
       <heading>Records to Be Available When Requestor Appears in Person</heading>
       <text>When the requestor appears in person, a public body shall make following public records available for public inspection and copying during the hours of operation of the public body without the requestor being required to make a written request to inspect or copy the records:</text>
       <para>
@@ -159,10 +199,12 @@
         <num>(b)</num>
         <text>Documents identifying persons confined in any jail, detention center, or</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.03.060 was formerly codified as 60.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0305</num>
+      <num>60.03.070</num>
       <heading>Records Exempt from Disclosure</heading>
       <text>A public body may exempt from disclosure the following information.</text>
       <para>
@@ -182,7 +224,7 @@
         <text>Documents of, and documents incidental to, a proposed RFP, bid, contractual arrangement or proposed sale or purchase of real property; however:</text>
         <para>
           <num>(1)</num>
-          <text>These documents are not exempt from disclosure once a contract is entered into or the property is sold or purchased except as otherwise provided in <cite path="60|60.03|60.0305">this section</cite>.</text>
+          <text>These documents are not exempt from disclosure once a contract is entered into or the property is sold or purchased except as otherwise provided in <cite path="§60.03.070">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -194,70 +236,71 @@
         </para>
       </para>
       <para>
-        <num>(a)</num>
+        <num>(e)</num>
         <text>Judicial or quasi-judicial records associated with juvenile cases, mental health or addiction commitment, guardianship, and probate matters.</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num>(f)</num>
         <text>Correspondence, work-products and/or communications of legal counsel for a public body and any other material that would violate attorney-client relationships, or concerning the prosecution, defense, settlement or litigation of any judicial action, or any administrative or other type of proceeding to which the Tribe is a party or by which it is or may be directly affected. Written communication and copies there of shall not be open to public inspection, examination or copying unless specifically made public by the Tribal Council.</text>
       </para>
       <para>
-        <num>(c)</num>
-        <text>Memoranda, correspondence, and working papers in the possession of individual members of the executive and legislative branches or persons employed in their immediate staffs; however, nothing herein may be construed as limiting or restricting public access to source documents or records, factual data or summaries of factual data, papers, minutes, or reports otherwise considered to be public information under the provisions of <cite path="60">this Title</cite> and not specifically exempted by any other provisions of <cite path="60">this Title</cite>.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Memoranda, correspondence, documents, and working papers relative to efforts or activities of a public body to attract business or industry to invest within the Tribe.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>A record of a public or of its fiduciary agents that discloses deliberations about, or a tentative or final decision on, investments or other financial matters is exempt from the disclosure requirements of <cite path="60">this Title</cite>, to the extent and so long as disclosure would jeopardize the ability to implement an investment or financial decision, or to execute the program or plan or to achieve investment, financial, plan or program objectives.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>The identity, information tending to reveal the identity, of any individual who in good faith makes a complaint or otherwise discloses information, which alleges a violation or potential violation of law or regulation by a public body; provided, however, that if the complaint or information is used in a prosecution in a judicial or quasi-judicial proceeding, this subsection shall not preclude the defendant's due process rights to confront and examine the complainant and witnesses.</text>
-      </para>
-      <para>
         <num>(g)</num>
-        <text>If any public record contains material which is not exempt under <cite path="60|60.03|60.0305">this section</cite>, the public body shall separate or redact the exempt and the nonexempt material and make the nonexempt material available in accordance with the requirements of <cite path="60">this Title</cite>.</text>
+        <text>Memoranda, correspondence, and working papers in the possession of individual members of the executive and legislative branches or persons employed in their immediate staffs; however, nothing herein may be construed as limiting or restricting public access to source documents or records, factual data or summaries of factual data, papers, minutes, or reports otherwise considered to be public information under the provisions of <cite path="60">this title</cite> and not specifically exempted by any other provisions of <cite path="60">this title</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Tax information of a public body except as determined by the Chairman.</text>
+        <text>Memoranda, correspondence, documents, and working papers relative to efforts or activities of a public body to attract business or industry to invest within the Tribe.</text>
       </para>
       <para>
         <num>(i)</num>
-        <text>Information and records the disclosure of which would reveal an account number used for payment or collection of money.</text>
+        <text>A record of a public or of its fiduciary agents that discloses deliberations about, or a tentative or final decision on, investments or other financial matters is exempt from the disclosure requirements of <cite path="60">this title</cite>, to the extent and so long as disclosure would jeopardize the ability to implement an investment or financial decision, or to execute the program or plan or to achieve investment, financial, plan or program objectives.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Financial records of the Tribe's casinos and the Tribal Casino Gaming Enterprises.</text>
+        <text>The identity, information tending to reveal the identity, of any individual who in good faith makes a complaint or otherwise discloses information, which alleges a violation or potential violation of law or regulation by a public body; provided, however, that if the complaint or information is used in a prosecution in a judicial or quasi-judicial proceeding, this subsection shall not preclude the defendant's due process rights to confront and examine the complainant and witnesses.</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>Information that is part of negotiations in a proposed land purchase by the Tribe until that land purchase is completed.</text>
+        <text>If any public record contains material which is not exempt under <cite path="§60.03.070">this section</cite>, the public body shall separate or redact the exempt and the nonexempt material and make the nonexempt material available in accordance with the requirements of <cite path="60">this title</cite>.</text>
       </para>
       <para>
         <num>(l)</num>
-        <text>Records describing the health, condition, family status, parentage, care, placement or adoption of juveniles who are in the custody of a public body other than a public law enforcement agency or public emergency medical services agency. In this subsection, a juvenile is a person who is younger than 18 years of age.</text>
+        <text>Tax information of a public body except as determined by the Chairman.</text>
       </para>
       <para>
         <num>(m)</num>
+        <text>Information and records the disclosure of which would reveal an account number used for payment or collection of money.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Financial records of the Tribe's casinos and the Tribal Casino Gaming Enterprises.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Information that is part of negotiations in a proposed land purchase by the Tribe until that land purchase is completed.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>Records describing the health, condition, family status, parentage, care, placement or adoption of juveniles who are in the custody of a public body other than a public law enforcement agency or public emergency medical services agency. In this subsection, a juvenile is a person who is younger than 18 years of age.</text>
+      </para>
+      <para>
+        <num>(q)</num>
         <text>Financial records of the Tribe's Gaming Enterprises and Tribal Business Enterprises which are proprietary records</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1519-11-18"/>
+        <annotation type="Prior Codifications">§60.03.070 was formerly codified as 60.0305</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>60.04</num>
     <heading>Certain Matters Declared Public Information.</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>60.0401</num>
+      <num>60.04.010</num>
       <heading>Public Information</heading>
-      <text>Without limiting the meaning of other sections of <cite path="60">this Title</cite>, the following categories of information are specifically made public information subject to disclosure except as restricted in <cite path="60">this Title</cite>:</text>
+      <text>Without limiting the meaning of other sections of <cite path="60">this title</cite>, the following categories of information are specifically made public information subject to disclosure except as restricted in <cite path="60">this title</cite>:</text>
       <para>
         <num>(a)</num>
         <text>The names, sex, race, title, and dates of employment of all employees and officers of public bodies;</text>
@@ -310,10 +353,12 @@
           <text>Non-testimonial identification orders.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.010 was formerly codified as 60.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0402</num>
+      <num>60.04.020</num>
       <heading>Law Enforcement Records</heading>
       <para>
         <num>(a)</num>
@@ -336,8 +381,8 @@
         </para>
       </para>
       <para>
-        <num>(a)</num>
-        <text>Unless otherwise prohibited by subsection (a) or other provision of Tribal law, the following are public records within the meaning of <cite path="60">this Title</cite> and may be disclosed:</text>
+        <num>(b)</num>
+        <text>Unless otherwise prohibited by subsection (a) or other provision of Tribal law, the following are public records within the meaning of <cite path="60">this title</cite> and may be disclosed:</text>
         <para>
           <num>(1)</num>
           <text>The time, date, location, and nature of a violation or apparent violation of the law reported to a public law enforcement agency.</text>
@@ -363,57 +408,73 @@
           <text>The name, sex, age, and address of a victim or complaining witness; provided, however, that a public law enforcement agency or public safety agency shall temporarily withhold the name or address of a victim or complaining witness if release of the information is reasonably likely to pose a threat to the mental health, physical health, or personal safety of the complaining witness or victim or materially</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.020 was formerly codified as 60.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0403</num>
+      <num>60.04.030</num>
       <heading>Use of Information for Commercial Solicitation Prohibited</heading>
       <text>A public record and any information in a public record may not be used for commercial solicitation except as approved by Tribal Council by resolution. Any person or entity who uses public records or information therein for commercial solicitation without Tribal Council's approval, and any person who assists such person knowing of their intent to use the record or information for commercial, may be fined in an amount not to exceed $5,000.00 per violation; provided, however, this provision must not be interpreted to restrict access by members to information contained in public records.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.030 was formerly codified as 60.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0404</num>
+      <num>60.04.040</num>
       <heading>Jurisdiction</heading>
-      <text>Any member who requests, obtains or uses a public record or information therein, which records and information are governed by <cite path="60">this Title</cite>, is subject to the personal and subject matter jurisdiction of the Turtle Mountain Band of Chippewa Indian's Court for violations of <cite path="60">this Title</cite>.</text>
-      <annotations/>
+      <text>Any member who requests, obtains or uses a public record or information therein, which records and information are governed by <cite path="60">this title</cite>, is subject to the personal and subject matter jurisdiction of the Turtle Mountain Band of Chippewa Indian's Court for violations of <cite path="60">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.040 was formerly codified as 60.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0405</num>
+      <num>60.04.050</num>
       <heading>Declaratory and Injunctive Relief; Costs and Attorney's Fees</heading>
       <para>
         <num>(a)</num>
-        <text>A member may file a complaint in the Turtle Mountain Band of Chippewa Indian's Court seeking a declaratory judgment or injunctive relief, or both, to enforce the provisions of <cite path="60">this Title</cite> in appropriate cases so long as the complaint is made no later than one year following the date on which the alleged violation occurred. No other form of action is permitted. The court may order equitable relief as it considers appropriate. A violation of <cite path="60">this Title</cite> is considered to be an irreparable injury for which no adequate remedy at law exists.</text>
+        <text>A member may file a complaint in the Turtle Mountain Band of Chippewa Indian's Court seeking a declaratory judgment or injunctive relief, or both, to enforce the provisions of <cite path="60">this title</cite> in appropriate cases so long as the complaint is made no later than one year following the date on which the alleged violation occurred. No other form of action is permitted. The court may order equitable relief as it considers appropriate. A violation of <cite path="60">this title</cite> is considered to be an irreparable injury for which no adequate remedy at law exists.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>If a member seeking such relief prevails, the member may be awarded reasonable attorney fees and other costs of litigation. If the member loses in part and prevails in part, the court may, in its discretion, award the member reasonable attorney fees or an appropriate portion thereof.</text>
         <text>No other damages may be awarded.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.050 was formerly codified as 60.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0406</num>
+      <num>60.04.060</num>
       <heading>Provisions as Cumulative</heading>
-      <text>The provisions of <cite path="60">this Title</cite> are cumulative to existing law.</text>
-      <annotations/>
+      <text>The provisions of <cite path="60">this title</cite> are cumulative to existing law.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.060 was formerly codified as 60.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0407</num>
+      <num>60.04.070</num>
       <heading>Severability</heading>
-      <text>The provisions of <cite path="60">this Title</cite> are severable and if any part of provision hereof shall be held void the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this act.</text>
-      <annotations/>
+      <text>The provisions of <cite path="60">this title</cite> are severable and if any part of provision hereof shall be held void the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this act.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.070 was formerly codified as 60.0407</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0408</num>
+      <num>60.04.080</num>
       <heading>Budgeting of Funds</heading>
-      <text>The Tribe shall budget funds to effectuate the purpose of <cite path="60">this Title</cite>.</text>
-      <annotations/>
+      <text>The Tribe shall budget funds to effectuate the purpose of <cite path="60">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.080 was formerly codified as 60.0408</annotation>
+      </annotations>
     </section>
     <section>
-      <num>60.0409</num>
+      <num>60.04.090</num>
       <heading>Rules and Regulations</heading>
-      <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="60">this Title</cite>.</text>
-      <annotations/>
+      <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="60">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§60.04.090 was formerly codified as 60.0409</annotation>
+      </annotations>
     </section>
   </container>
 </container>

@@ -1,529 +1,611 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>14</num>
   <heading>Housing Authority</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.01</num>
     <heading>Declaration of Need</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0101</num>
+      <num>14.01.010</num>
       <heading>Declaration of Need</heading>
       <text>That there exists on the Turtle Mountain Indian Reservation, unsanitary, unsafe and overcrowded dwelling accommodations; that there is a shortage of safe or sanitary dwelling accommodations available at rents or prices which persons of low income can afford; and that such shortage forces such persons to occupy unsanitary, unsafe and overcrowded dwelling accommodations.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.010 was formerly codified as 14.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0102</num>
+      <num>14.01.020</num>
       <heading>Purposes</heading>
       <text>The providing of decent, safe and sanitary dwelling accommodations for persons of low income are public uses and purposes for which money may be spent and private property acquired and are governmental functions of Tribal concern, therefore, the Housing Authority will be organized and operated for the purpose of serving the mandates of the Tribal Council, whose primary concerns regarding <cite path="14">this title</cite> consist of:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Remedying on the Reservation unsafe and unsanitary housing conditions that are injurious to the public health, safety and morals;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Alleviating the acute shortage of decent, safe and sanitary dwellings for families of low income; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Providing employment opportunities on the Reservation through the construction, reconstruction, improvement, extension, alteration or repair and operation of low income dwellings.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.01.020 was formerly codified as 14.0102</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.02</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0201</num>
+      <num>14.02.010</num>
       <heading>Definitions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"Board" means the Board of Commissioners of the Authority.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"Council" means the Turtle Mountain Chippewa Tribal Council.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Federal Government" includes the United States of America, the Public Housing Administration, or any other agency or instrumentality, corporation or otherwise, of the United States of America.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"Area of Concern" means any area where dwellings predominate which by reason of dilapidation, overcrowding, faulty arrangement or design, lack of ventilation, light or sanitary facilities, or any combination of these factors are detrimental to safety, health and morals.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"Housing Project" or "project" means any work or undertaking:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>to demolish, clear, or remove buildings from any area of concern,</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>to provide decent, safe and sanitary dwellings, apartments, or other living accommodations for persons of low income;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>to accomplish a combination of the foregoing.</text>
           <text>Such work or undertaking may include buildings, land, leaseholds, equipment, facilities and other real or personal property for necessary, convenient, or desirable appurtenances, for streets, sellers, water service, utilities, parks, site preparation or landscaping, and for administrative, community, health, recreational, welfare, or other purposes. The term "Housing Project" also may be applied to the planning of the buildings and improvements, the acquisition of property or any interest therein the demolition of existing structures, the construction, reconstruction, rehabilitation, alteration or repair of the improvements or other property and all other work in connection therewith, and the term shall include all other real and personal property and all tangible or intangible assets held or used in connection with the housing project.</text>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"Persons of low income" means persons or families who lack the amount of income which is necessary to enable them, without financial assistance, to live in decent, safe, and sanitary dwellings, without overcrowding for their use.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>"Bonds" means any bonds, notes, interim certificates, debentures, or other obligations issued by the Authority pursuant to <cite path="14">this Title</cite>.</text>
+        <num>(g)</num>
+        <text>"Bonds" means any bonds, notes, interim certificates, debentures, or other obligations issued by the Authority pursuant to <cite path="14">this title</cite>.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"Obligee" includes any bondholder agent or trustee for any bondholder or lessor passing to the Authority property used in connection with a project, or any assignee or assignees of such lessor's interest or any part thereof, and the Federal government when it is a party to any contract with the Authority in respect to a housing project.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"Home Buyer" means a person who has executed a lease-purchase agreement with the Authority, and who has not yet achieved ownership.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.02.010 was formerly codified as 14.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.03</num>
     <heading>Organization</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0301</num>
+      <num>14.03.010</num>
       <heading>Appointment of Board Members</heading>
       <text>The Board serves at the discretion of the Tribal Council to achieve the purposes of the Authority. The Authority will be an agency of tribal government and, as such, the Board members shall be appointed, and may be reappointed by the Tribal Council. Any board member may be a member or non-member of the Tribal Council. A certificate of the Secretary of the Council as to the appointment or reappointment of any board member shall be conclusive evidence of the due and proper appointment of the board member. The Board shall consist of five (5) members.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.010 was formerly codified as 14.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0302</num>
+      <num>14.03.020</num>
       <heading>Term of Office</heading>
       <text>All appointments are at the discretion of the Council and the term of office shall be for two (2) years, except that in the case of a prior vacancy, an appointment shall be only for the length of the unexpired term. Each member of the Board shall hold office until his successor has been appointed and has qualified.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.020 was formerly codified as 14.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0303</num>
+      <num>14.03.030</num>
       <heading>Officers</heading>
       <text>The Tribal Council shall name one (1) of the commissioners as Chairperson of the Board. The Board shall elect from among its members a Vice-Chairperson, a Secretary, and a Treasurer, and any member may hold two (2) of these positions, except for the Chairperson and the Vice-Chairperson. In the absence of the Chairperson, the Vice-Chairperson shall preside; and in the absence of both the Chairperson and the Vice-Chairperson, the Secretary shall preside.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.030 was formerly codified as 14.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0304</num>
+      <num>14.03.040</num>
       <heading>Removal</heading>
       <text>The Council may remove, without notice, any member of the Board at any time, for any reason or no reason. This position is granted by political appointment only and a removed Board member has no right of appeal.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.040 was formerly codified as 14.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0305</num>
+      <num>14.03.050</num>
       <heading>Compensation</heading>
       <text>The Board shall receive as compensation for their services the sum of $25.00 for one regular monthly meeting, and shall also be entitled to compensation for expenses, including traveling expenses, incurred in the discharge of their duties.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.050 was formerly codified as 14.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0306</num>
+      <num>14.03.060</num>
       <heading>Meetings</heading>
       <text>Three (3) members of the Board shall constitute a quorum for the transaction of business, notwithstanding the existence of any vacancies. Meetings of the Board shall be held at regular intervals as provided in the bylaws. Emergency meetings may be held upon twenty-four (24) hours actual notice and business transacted, provided that three (3) or more members concur in the proposed action.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.060 was formerly codified as 14.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0307</num>
+      <num>14.03.070</num>
       <heading>Minutes of Meetings</heading>
       <text>The Secretary shall keep complete and accurate records of all meetings and action taken by the Board.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.070 was formerly codified as 14.0307</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0308</num>
+      <num>14.03.080</num>
       <heading>Financial Records</heading>
-      <text>The treasurer shall keep full and accurate financial records, make periodic reports to the Board and submit a complete annual report, in written form, to the Council as required by <cite path="14|14.06|14.0601">Section 14.0601</cite> of <cite path="14">this Title</cite>. (1) The Treasurer shall be bonded in such amount as prescribed by the Council or by any agreement to which the Authority is a party. (2) The Board shall have authority to exercise, by majority vote of those present and voting, any and all powers delegated to the Authority by <cite path="14">this title</cite> or any amendments thereto, except as provided in <cite path="14|14.05|14.0504">Section 14.0504</cite> for the adoption of bond resolutions.</text>
-      <annotations/>
+      <text>The treasurer shall keep full and accurate financial records, make periodic reports to the Board and submit a complete annual report, in written form, to the Council as required by <cite path="§14.06.010">Section 14.06.010</cite> of <cite path="14">this title</cite>. (1) The Treasurer shall be bonded in such amount as prescribed by the Council or by any agreement to which the Authority is a party. (2) The Board shall have authority to exercise, by majority vote of those present and voting, any and all powers delegated to the Authority by <cite path="14">this title</cite> or any amendments thereto, except as provided in <cite path="§14.05.040">Section 14.05.040</cite> for the adoption of bond resolutions.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.03.080 was formerly codified as 14.0308</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.04</num>
     <heading>Powers</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0401</num>
+      <num>14.04.010</num>
       <heading>Authority</heading>
-      <text>The Council hereby gives its irrevocable consent to allowing the Authority to sue and be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under <cite path="14">this Title</cite>, however, prohibits the Authority from agreeing to any contract to waive sovereign immunity unless permission is expressly granted by the Council. In no event shall the Tribe be liable for the debts or obligations of the Authority, except insofar as expressly authorized by <cite path="14">this title</cite>.</text>
-      <annotations/>
+      <text>The Council hereby gives its irrevocable consent to allowing the Authority to sue and be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under <cite path="14">this title</cite>, however, prohibits the Authority from agreeing to any contract to waive sovereign immunity unless permission is expressly granted by the Council. In no event shall the Tribe be liable for the debts or obligations of the Authority, except insofar as expressly authorized by <cite path="14">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.010 was formerly codified as 14.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0402</num>
+      <num>14.04.020</num>
       <heading>Corporate Seal</heading>
       <text>To adopt and use a corporate seal.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.020 was formerly codified as 14.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0403</num>
+      <num>14.04.030</num>
       <heading>Contracts and Agreements</heading>
-      <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, State or Local (including the Council), or with any person, partnership, corporation or Indian tribe, and to agree to any conditions attached to Federal financial assistance subject to <cite path="14|14.04|14.0401">Section 14.0401</cite>.</text>
-      <annotations/>
+      <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, State or Local (including the Council), or with any person, partnership, corporation or Indian tribe, and to agree to any conditions attached to Federal financial assistance subject to <cite path="§14.04.010">Section 14.04.010</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.030 was formerly codified as 14.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0404</num>
+      <num>14.04.040</num>
       <heading>Wages</heading>
       <text>To agree to any conditions attached to Federal financial assistance relating to the determination of prevailing salaries or wages or payment of not less than prevailing salaries or wages or compliance with labor standards, in the development or administration of projects, and to include in any contract left in connection with a project, stipulations requiring that the contractor and any subcontractors comply with requirements as to minimum salaries or wages and maximum hours of labor, and comply with any conditions which the Federal government may have attached to its financial aid of the project.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.040 was formerly codified as 14.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0405</num>
+      <num>14.04.050</num>
       <heading>Conveyance to Federal Government</heading>
       <text>In any contract with the Federal government for annual contributions to the Authority, the Authority may obligate itself to convey to the Federal government possession of, or title to, the project to which such contract relates, upon the occurrence of a substantial default (as defined in such contract) with respect to the covenant or conditions to which the Authority is subject; and such contract may further provide that in case of such conveyance, the Federal government may complete, operate, manage, lease, convey or otherwise deal with the project and funds in accordance with the terms of such contract. Provided, that the contract requires that, as soon as practicable after the Federal government is satisfied that all defaults with respect to the project have been cured and that the project will thereafter be operated in accordance with the terms of the contract, the Federal government shall recovery to the Authority the project as then constituted. It is the purpose and intent of <cite path="14">this title</cite> to authorize the Authority to do any and all things necessary or desirable to secure the financial aid or cooperation of the Federal government in the undertaking, construction, maintenance or operation of any project by the Authority.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.050 was formerly codified as 14.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0406</num>
+      <num>14.04.060</num>
       <heading>Negotiate Leases</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To lease property from the tribe and others for such periods as are authorized by law, and to hold and manage or to sublease the same.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To lease or rent any dwellings, accommodations, lands, buildings, or facilities embraced within any project; to establish and revise rents; and to make rules and regulations concerning the occupancy, rental, care and management of its low income housing units. Such rules and regulations may establish priorities for the admission of tenants, and provide for the eviction of tenants for failure to pay rent, for failure to comply with rules and regulations, or for failure to maintain the premises in satisfactory condition. The Board shall insure that dwelling accommodations in a housing project shall be made available only to families of low income at rentals within their financial reach by:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>establishing lower than average rentals for especially needy families; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>by establishing income limits for admission and continued occupancy by low income families. In making these determinations, the Board may take into consideration, family size, composition, age, physical handicaps or other factors which might affect the financial ability of the family to pay rental and shall consider as well such economic factors as may affect the financial stability and solvency of the project.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.060 was formerly codified as 14.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0407</num>
+      <num>14.04.070</num>
       <heading>Borrow Money</heading>
-      <text>To borrow money, to issue temporary or long-term evidence of indebtedness, and to repay the same. Corporate bonds shall be issued and repaid in accordance with the provisions of <cite path="14.05">Chapter 14.05</cite> of <cite path="14">this title</cite>.</text>
-      <annotations/>
+      <text>To borrow money, to issue temporary or long-term evidence of indebtedness, and to repay the same. Corporate bonds shall be issued and repaid in accordance with the provisions of <cite path="14|14.05">Chapter 14.05</cite> of <cite path="14">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.070 was formerly codified as 14.0407</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0408</num>
+      <num>14.04.080</num>
       <heading>Mortgage Property</heading>
       <text>To pledge the assets and receipts of the Authority as security for debts; and to acquire, sell, lease, exchange, transfer or assign personal property or interest therein.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.080 was formerly codified as 14.0408</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0409</num>
+      <num>14.04.090</num>
       <heading>Acquire Land</heading>
       <text>To purchase land or interests in land or take the same by gift; to lease land or interests in land to the extent provided by law.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.090 was formerly codified as 14.0409</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0410</num>
+      <num>14.04.100</num>
       <heading>Conduct Research</heading>
       <text>To undertake and carry out studies and analysis of the housing needs on the Reservation, to provide housing plans, to execute the same, to operate projects and to provide for the construction, reconstruction, improvement, extension, alteration or repair of any project or any part thereof</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.100 was formerly codified as 14.0410</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0411</num>
+      <num>14.04.110</num>
       <heading>Investment of Funds</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To purchase insurance in any stock or mutual company for any property or against any risks or hazards.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To invest such funds as are not required for immediate disbursement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.110 was formerly codified as 14.0411</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0412</num>
+      <num>14.04.120</num>
       <heading>Banking of Funds</heading>
       <text>To establish and maintain such bank accounts as may be necessary or convenient.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.120 was formerly codified as 14.0412</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0413</num>
+      <num>14.04.130</num>
       <heading>Staff</heading>
       <text>To employ an executive director, technical and maintenance personnel and such other officers and employees, permanent or temporary, as it may require; and to delegate to such officers and employees such powers or duties as the board shall deem proper. The employment of an executive director and the terms of employment of such executive director must see approval by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.130 was formerly codified as 14.0413</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0414</num>
+      <num>14.04.140</num>
       <heading>Income Limits</heading>
       <text>To establish income limits for admission that insure that dwelling accommodations in a housing project shall be made available only to persons of low income.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.140 was formerly codified as 14.0414</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0415</num>
+      <num>14.04.150</num>
       <heading>Eviction</heading>
       <text>To terminate any lease or rental agreement or lease-purchase agreement when the tenant or home buyer has violated the terms of such agreement, or failed to meet any of its obligations there under, or when such termination is otherwise authorized under the provisions of such agreement; and to bring action for eviction against such tenant or home buyer.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.150 was formerly codified as 14.0415</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0416</num>
+      <num>14.04.160</num>
       <heading>Other</heading>
       <text>To take such further actions as are commonly engaged in by corporate bodies of this character as the Board may deem necessary and desirable to effectuate the purposes of the Authority. To adopt such bylaws as the Board deems necessary and appropriate. No title or other enactment of the Tribe with respect to the acquisition, operation, or disposition of Tribal property shall be applicable to the Authority in its operations pursuant to <cite path="14">this title</cite> unless the Council shall specifically so state.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.04.160 was formerly codified as 14.0416</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.05</num>
     <heading>Bonds</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0501</num>
+      <num>14.05.010</num>
       <heading>Issuance of Bonds</heading>
       <text>The Authority may issue bonds from time to time in its discretion for any of its corporate purposes and may also issue refunding bonds for the purpose of paying or retiring bonds previously issued by it. The Authority may issue such types of bonds as it may determine, including bonds on which the principal and interest are payable:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Exclusively from the income and revenues of the project financed with the proceeds of such bonds, or with such income and revenues together with a grant from the Federal government in aid of such project;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Exclusively from the income and revenues of certain designated projects whether or not they were financed in whole or in part with the proceeds of such bonds; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>From its revenues generally. Any of such bonuses may be additionally secured by a pledge of any revenues of any project, projects or other property of the Authority.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.010 was formerly codified as 14.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0502</num>
+      <num>14.05.020</num>
       <heading>Liability</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Neither the Commissioner of the Authority, nor any person executing the bonds shall be liable personally on the bonds by reason of the issuance thereof.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The bonds and other obligations of the Authority shall not be a debt of the Tribe and the bonds and obligations shall so state on their face.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.020 was formerly codified as 14.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0503</num>
+      <num>14.05.030</num>
       <heading>Tax</heading>
       <text>Bonds of the Authority are declared to be issued for an essential public and governmental purpose and to be public instrumentalities and, together with interest thereon and income there from, shall be exempt from taxes. The tax exemption provisions of <cite path="14">this title</cite> shall be considered part of the security for the repayment of bonds and shall constitute, by virtue of <cite path="14">this title</cite> and without necessity of being restated in the bonds, a contract between (1) the Authority and the Tribe, and (2) the bondholders and each of them, including all transferees of the bonds from time to time.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.030 was formerly codified as 14.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0504</num>
+      <num>14.05.040</num>
       <heading>Sale Procedure</heading>
       <text>Bonds shall be issued and sold in the following manner:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Bonds of the Authority shall be authorized by a resolution adopted by the vote of an absolute majority of the Board and may be issued in one (1) or more series.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The bonds shall bear such dates, mature at such times, bear interest at such rates, be in such denominations, be in such form, either coupon or registered, carry such conversion or registration privileges, have such rank or priority, be executed in such manner, be payable in such medium of payments, at such places and be subject to such terms of redemption, with or without premium, as such resolution may provide.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The bonds may be sold at public or private sale at not less than par.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>In case of any of the Commissioners of the Authority whose signatures appear on any bonds or coupons cease to be commissioners before the delivery of such bonds, the signature shall, nevertheless, be valid and sufficient for all purposes, the same as if the commissioners had remained in office until delivery.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.040 was formerly codified as 14.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0505</num>
+      <num>14.05.050</num>
       <heading>Bonds of the Authority Shall Be Fully Negotiable</heading>
-      <text>In any suit, action or proceedings involving the validity or enforcement of any bond of the Authority or the security thereof, any such bond reciting in substance that it has been issued by the Authority pursuant to <cite path="14">this title</cite> shall be conclusively deemed to have been issued for such purpose and the project for which such bond was issued shall be conclusively deemed to have been planned, located and carried out in accordance with the purposes and provisions of <cite path="14">this Title</cite>.</text>
-      <annotations/>
+      <text>In any suit, action or proceedings involving the validity or enforcement of any bond of the Authority or the security thereof, any such bond reciting in substance that it has been issued by the Authority pursuant to <cite path="14">this title</cite> shall be conclusively deemed to have been issued for such purpose and the project for which such bond was issued shall be conclusively deemed to have been planned, located and carried out in accordance with the purposes and provisions of <cite path="14">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.050 was formerly codified as 14.0505</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0506</num>
+      <num>14.05.060</num>
       <heading>Administration of Bonds</heading>
       <text>In connection with the issuance of bonds or incurring of obligations under leases and in order to secure the payment of such bonds or obligations, the Authority, subject to the limitations in <cite path="14">this title</cite>, may:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Pledge all or any part of its gross or net rents, fees or revenues to which its right then exists or may thereafter come into existence.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Provide for the powers and duties of obligee and limit their liabilities and provide the terms and conditions on which such obligee may enforce any covenant or rights securing or relating to the bonds.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Covenant against pledging all or any part of its rents, fees and revenues or against mortgaging any or all or its real or personal property to which its title or right then exists or may thereafter come into existence or permitting or suffering any lien on such revenues or property.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Covenant with respect to limitations on its right to sell, lease or otherwise dispose of any project or any part thereof.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Covenant as to what other or additional debts or obligations may be incurred by it.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Covenant as to the bonds to be issued and as to the issuance of such bonds in escrow or otherwise, and as to the use and disposition of the proceeds thereof</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Provide for the replacement of lost, destroyed or mutilated bonds.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Covenant against extending the time for the payment of its bonds or interest thereon.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>Redeem the bonds and covenant for their redemption and provide the terms and conditions thereof.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>Covenant covering the rents and fees to be charged in the operation of a project or projects, the amount to be raised each year or other period of time by rents, fees and other revenues, and as to the use and disposition to be made thereof.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>Create or authorize the creation of special funds by moneys held for construction or operating costs, debt service, reserves or other purposes, and covenant as to the use and disposition of the moneys held in such funds.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>Prescribe the procedure, if any, by which the terms of any contract with bondholders may be amended or abrogated, the proportion of outstanding bonds the holders of which must consent thereto, and the manner in which such consent may be given.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>Covenant as to the use, maintenance and replacement of its real or personal property, the insurance to be carried thereon and the use and disposition of insurance moneys.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>Covenant as to the rights, liabilities, powers and duties arising upon the breach by it of any covenant, condition or obligation.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>Covenant and prescribe as to events of default and terms and conditions upon which any or all of its bonds or obligations become or may be declared due before maturity, and as to the terms and conditions upon which such declaration and its consequences may be waived.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>Vest in any obligee or any proportion of them the right to enforce the payment of the bonds or any covenants securing or relating to the bonds.</text>
       </para>
       <para>
-        <num>(17)</num>
-        <text>Exercise all or any part or combination of the powers granted in <cite path="14|14.05|14.0506">this section</cite>.</text>
+        <num>(q)</num>
+        <text>Exercise all or any part or combination of the powers granted in <cite path="§14.05.060">this section</cite>.</text>
       </para>
       <para>
-        <num>(18)</num>
-        <text>Make covenants other than and in addition to the covenants expressly authorized in <cite path="14|14.05|14.0506">this section</cite>, of like or different character.</text>
+        <num>(r)</num>
+        <text>Make covenants other than and in addition to the covenants expressly authorized in <cite path="§14.05.060">this section</cite>, of like or different character.</text>
       </para>
       <para>
-        <num>(19)</num>
-        <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its bonds, or, in the absolute discretion of the Authority tending to make the bonds more marketable although the covenants, acts or things are not enumerated in <cite path="14|14.05|14.0506">this section</cite>.</text>
+        <num>(s)</num>
+        <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its bonds, or, in the absolute discretion of the Authority tending to make the bonds more marketable although the covenants, acts or things are not enumerated in <cite path="§14.05.060">this section</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.05.060 was formerly codified as 14.0506</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.06</num>
     <heading>Miscellaneous</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0601</num>
+      <num>14.06.010</num>
       <heading>Reports</heading>
       <text>The Authority shall submit a detailed annual report, signed by the Chairman of the board, to the Council showing:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The names of occupants of all the housing units;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The number of vacancies, if any;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The status of construction, maintenance and repair of all housing units;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Any significant problems and accomplishments;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Plans for the future; and</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Such other information as the Authority or the</text>
         <text>Council shall deem pertinent.</text>
         <text>The Authority will also be required to submit to the Council any request for a special report within ten (10) days of request by the Council. This special report shall be signed by the Chairman of the Board.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.06.010 was formerly codified as 14.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0602</num>
+      <num>14.06.020</num>
       <heading>Conflict of Interests</heading>
-      <text>During his tenure and for one (1) year thereafter, no officer or employee of the Authority shall, without first obtaining a waiver from the United States Department of HUD (Housing and Urban Development), voluntarily acquire any interest, direct or indirect in any project or in any property included or planned to be included in any project, or in any contract or proposed contract relating to any project. If any such officer or employee involuntarily acquires any such interest, or voluntarily or involuntarily acquired any such interest prior to appointment or employment as an officer or employee, the officer or employee, in any such event, shall immediately disclose his interest in writing to the Authority and such disclosure shall be entered upon the minutes of the Authority and the officer or employee shall not participate in any action by the Authority relating to the property or contract in which he has any interest. Any violation of the foregoing provisions of <cite path="14|14.06|14.0602">this section</cite> shall constitute misconduct in the office. <cite path="14|14.06|14.0602">This section</cite> shall not be applicable to the acquisition of any interest in notes or bonds of the Authority issued in connection with any project, or to the execution of agreements by banking institutions for the deposit or handling of funds in connection with a project or to act as trustee under any trust indenture, or to utility services the rates for which are fixed or controlled by a governmental agency.</text>
-      <annotations/>
+      <text>During his tenure and for one (1) year thereafter, no officer or employee of the Authority shall, without first obtaining a waiver from the United States Department of HUD (Housing and Urban Development), voluntarily acquire any interest, direct or indirect in any project or in any property included or planned to be included in any project, or in any contract or proposed contract relating to any project. If any such officer or employee involuntarily acquires any such interest, or voluntarily or involuntarily acquired any such interest prior to appointment or employment as an officer or employee, the officer or employee, in any such event, shall immediately disclose his interest in writing to the Authority and such disclosure shall be entered upon the minutes of the Authority and the officer or employee shall not participate in any action by the Authority relating to the property or contract in which he has any interest. Any violation of the foregoing provisions of <cite path="§14.06.020">this section</cite> shall constitute misconduct in the office. <cite path="§14.06.020">This section</cite> shall not be applicable to the acquisition of any interest in notes or bonds of the Authority issued in connection with any project, or to the execution of agreements by banking institutions for the deposit or handling of funds in connection with a project or to act as trustee under any trust indenture, or to utility services the rates for which are fixed or controlled by a governmental agency.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.06.020 was formerly codified as 14.0602</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0603</num>
+      <num>14.06.030</num>
       <heading>Construction Codes</heading>
       <text>All projects of the Authority shall be subject to the planning, zoning, sanitation and building regulations applicable to the locality in which the planned project is situated. The Authority shall not construct or operate any project for profit. The property of the Authority is declared to be public property used for essential public and governmental purposes and such property and the Authority are exempt from all taxes and special assessments of the Tribe.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.06.030 was formerly codified as 14.0603</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0604</num>
+      <num>14.06.040</num>
       <heading>Liens or Judgments</heading>
-      <text>All property including funds acquired or held by the Authority pursuant to <cite path="14">this title</cite> shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Authority be a charge or lien upon such property; provided, however, that the provisions of <cite path="14|14.06|14.0604">this section</cite> shall not apply to or limit the right of obligee to pursue any remedies for the enforcement of any pledge or lien given by the Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provisions of <cite path="14">this title</cite> or the right of the Authority to bring eviction actions.</text>
-      <annotations/>
+      <text>All property including funds acquired or held by the Authority pursuant to <cite path="14">this title</cite> shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Authority be a charge or lien upon such property; provided, however, that the provisions of <cite path="§14.06.040">this section</cite> shall not apply to or limit the right of obligee to pursue any remedies for the enforcement of any pledge or lien given by the Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provisions of <cite path="14">this title</cite> or the right of the Authority to bring eviction actions.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§14.06.040 was formerly codified as 14.0604</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0605</num>
+      <num>14.06.050</num>
       <heading>Fidelity Bond</heading>
       <text>The Authority shall obtain or provide for the obtaining of adequate fidelity bond to insure against loss resulting from embezzlement by any board member or employee authorized to handle cash, sign checks, or certify vouchers.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.06.050 was formerly codified as 14.0605</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.07</num>
     <heading>Cooperation in Connection with Projects</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0701</num>
+      <num>14.07.010</num>
       <heading>Cooperation in Connection with Projects</heading>
       <text>For the purpose of aiding in the planning, construction and operation of projects, the Tribe agrees that:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>It will not levy, or impose any real or personal property taxes or special assessments upon the Authority or any project so long as the project is used for low income purposes and any bonds issued in connection with such project remain unpaid.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>It will furnish or cause to be furnished to the Authority and the tenants of projects all services and facilities of the same character and to the same extent as the Tribe furnishes from time to time without cost or charge to other dwellings and inhabitants on the Reservation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Insofar as it may lawfully do so, it will grant such deviations from any present or future building code of the Tribe as are reasonable and necessary to promote economy and efficiency in the development and administration of any project, and at the same time safeguard health and safety, and make such changes in any zoning of the site and surrounding territory of any project as are reasonable and necessary for the development and protection of such project and the surrounding territory.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>It will join in any disposition of project property or interest therein by the Authority and make assignments or other appropriate disposition of the underlying land as permitted by law, where such action is required in order to grant the maximum interest therein permitted by law.</text>
         <text>The Council hereby declares that the powers of tribal government shall be vigorously utilized to enforce eviction of a tenant or home buyer for non-payment or other contract violations and the tribal courts shall have jurisdiction to hear and determine an action for eviction of a tenant or home buyer. The Council also declares that the powers of the tribal government shall be vigorously utilized to enforce eviction of a tenant or homebuyer for non-payment or other contract violations.</text>
-        <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or administration of low-income housing, including the Federal Government, the provisions of <cite path="14.07">this chapter</cite> shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
+        <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or administration of low-income housing, including the Federal Government, the provisions of <cite path="14|14.07">this chapter</cite> shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.010 was formerly codified as 14.0701</annotation>
+      </annotations>
     </section>
     <section>
-      <num>14.0702</num>
+      <num>14.07.020</num>
       <heading>Sovereign Immunity</heading>
       <text>In no event does the Tribe waive sovereign immunity except insofar as expressly authorized by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.07.020 was formerly codified as 14.0702</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>14.08</num>
     <heading>Approval by Secretary of the Interior</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>14.0801</num>
+      <num>14.08.010</num>
       <heading>Financial Assistance</heading>
       <text>With respect to any financial assistance contract between the Authority and the Federal Government, the Authority shall obtain the approval of the Secretary of the Interior or his designee.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§14.08.010 was formerly codified as 14.0801</annotation>
+      </annotations>
     </section>
   </container>
 </container>

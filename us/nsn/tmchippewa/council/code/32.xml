@@ -1,641 +1,725 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>32</num>
   <heading>Tribal Employment Rights Ordinance</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.01</num>
     <heading>General Provisions and Purpose</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0101</num>
+      <num>32.01.010</num>
       <heading>Name</heading>
       <text>This Ordinance shall be known as the Turtle Mountain Band of Chippewa Indians Tribal Employment Rights Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.01.010 was formerly codified as 32.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0102</num>
+      <num>32.01.020</num>
       <heading>Findings</heading>
       <text>It is the policy of the Turtle Mountain Tribal Council to promote employment opportunities for Indians and business opportunities for Indian firms and contractors, and to provide direction, management and business standards for the Turtle Mountain Indian Reservation.  The work force of the Tribe must be given an opportunity to gain employment on or off the reservation and the Tribal council will promote that preference in harmony with congressional enactments giving Indians special employment rights.  It is also the Council's responsibility to monitor Indian preference along with collecting from those doing business on the Turtle Mountain Indian Reservation a fair fee for that privilege.  Thus, the Tribal Council has enacted and hereby amends an ordinance called "Tribal Employment Rights Ordinance (TERO)."</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.01.020 was formerly codified as 32.0102</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.02</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0201</num>
+      <num>32.02.010</num>
       <heading>Definitions</heading>
       <text>Employers/contractors may seek clarification as to all TERO requirements and definitions at the pre-bid conference for any on-reservation construction project, or otherwise by directing inquiries to the Tribal TERO Commission.</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"Chairman" shall mean the chairman of the Turtle Mountain Chippewa Tribal Employment Rights Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"Commission" shall mean the Turtle Mountain Chippewa Tribal Employment Rights Commission.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Commissioner" shall mean a Commissioner of the Turtle Mountain Chippewa Tribal Employment Rights Commission</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"Union" shall mean duly organized workers as recognized by any labor organization recognized as such under the national Labor Relations Act.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"Council" shall mean the Tribal Council of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"TERO Director" shall mean the individual hired by the Tribal Council to keep the Council, Commission, employees and employers informed of this Ordinance and its violations.  The Director has authority to resolve informal disputes on behalf of the Commission.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"TERO" shall mean the Tribal Employment Rights Ordinance.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"EEOC" shall mean the Equal Employment Opportunities Commission of the United States.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"Employer" shall mean any person, business, company, contractor, subcontractor, or other entity located or engaged in work on the reservation, or other tribal land owned by the Tribe, employing one or more persons, and without regard for whether the employer or its owner is Indian or Non-Indian or a member of the Turtle Mountain Band of Chippewa Indians or not.  The term "Employer" excludes federal, state, county and tribal government, only if these employers do the work in-house using their regular company employees and using their own company equipment without contracting any portion out.  Tribally-owned or tribally-chartered private, for profit corporations are employers under this definition.  Tribally owned or tribally chartered, non-profit corporations are employers under this definition.  Tribally chartered or state chartered non-profit corporations authorized by the Tribe to contract with any federal agency pursuant to P.L. 93-638 or to enter into a grant agreement pursuant to P.L. 100-297 are employers under this definition.  Tribally owned corporations are employers under this definition.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>An employer is "engaged in business on the reservation" if in connection with any portion of a business enterprise or specific project, contract or subcontract, the employer or any of its employees or agents performing work within the exterior boundaries of the reservation.  Employers who have both on-reservation and off-reservation business locations shall also be subject to the TERO in their off-reservation locations if those off-reservation locations are on lands adjacent to the reservation.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>"Indian" shall mean any person recognized as an Indian     by the United States Government pursuant to its trust responsibility.  In complying with and implementing the TERO, following additional preferences shall be recognized and enforced.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>Indians residing in Rolette County, North Dakota. Indians residing in other counties in the State of North Dakota.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>Any Indian recognized by the U.S. Government pursuant to its trust responsibility wherever residing.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>The terms "residence" or "residing" shall mean the place of domicile of an applicant on the date the applicant seeks employment or contracting preference under the TERO and resides within 90 days prior to such application.  Domicile shall mean the place where an individual Indian has his true, fixed, and permanent home and principal establishment, and to which whenever he is absent he has the intention of returning;</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>The term "Indian-owned business" shall mean a business entity (in whatever form) of which at least 51% is owned by any federally recognized Indian Tribe or by Indians and which has been screened and certified as an "Indian-owned business" by the MBE/WBE office in Bismarck, North Dakota or the Indian Business Development Center in Bismarck.  A copy of MBE/WBE certification will be furnished to the TERO Office.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>The term "Joint Venture" shall require that any Tribal member (s) or Tribe who enters a Joint Venture contract must control at least 51% of the Joint Venture and receive at least 51% of profits of the Joint venture.  The Joint Venture shall show proof of Joint Venture to the TERO office by providing copies of ownership, state contractors license, bond and liability insurance.  The Joint Venture must be certified and screened by the MBE/WBE office in Bismarck, North Dakota.</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(q)</num>
         <text>Any employer is "located on the reservation" if in connection with any portion of a business enterprise or specific project contract or subcontract, he/she is doing business or performing work within the exterior boundaries of the reservation.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(r)</num>
         <text>The term "OFCCP" shall mean the Office of Federal Contract Compliance Programs of the United States.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(s)</num>
         <text>The term "Reservation" shall mean the Turtle Mountain Indian Reservation proper and all tribal land and trust property held by the U.S. Government for the Tribe in Rolette County, North Dakota, including all land within the exterior boundaries of said reservation proper and said tribal land and trust property.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(t)</num>
         <text>The term "Secretary" shall mean the Secretary of the Interior or his duly authorized representative.</text>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(u)</num>
         <text>The term "Tribe" shall mean the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(v)</num>
         <text>"Key Position" means an ongoing position where a person is a permanent employee for a period of one year prior to the contract and it is vital to the contractor's ability to perform the contract as he bid it or to the special operation of a crew familiar with each other in their duties to perform, that said person or persons be used on the project in said position(s).</text>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(w)</num>
         <text>MBE means "Minority Business Enterprises". WBE means "Women's Business Enterprise".</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(x)</num>
         <text>"Informal Dispute Resolution"; Clarifying and trying to remedy a situation without a hearing.(See 32.0702,32.0703 and 32.0704)</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.02.010 was formerly codified as 32.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.03</num>
     <heading>Turtle Mountain Chippewa Tribal Employment Rights Commission.</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0301</num>
+      <num>32.03.010</num>
       <heading>Appointment</heading>
       <text>The Turtle Mountain Chippewa Tribal Employment Rights Commission shall consist of one council member (and one alternate council member) appointed by the Tribal Council, four members appointed by the Tribal Council at large from the reservation community.  Chairman of the board will be appointed by the Tribal Council.  The alternate council member may vote in place of the appointed council member in the absence of that member.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.010 was formerly codified as 32.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0302</num>
+      <num>32.03.020</num>
       <heading>Term of Office</heading>
       <text>Commissioners shall hold office for a period of two years.  Commissioners shall hold office after expiration of their terms of office until their successors are duly appointed and approved.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.020 was formerly codified as 32.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0303</num>
+      <num>32.03.030</num>
       <heading>Removal from Office</heading>
       <text>A Commissioner may be removed from office by the Tribal Council upon conviction of a crime, or for gross neglect of duty, misfeasance of malfeasance in office, or ineligibility to serve as a Commissioner or where the Commissioner misses three consecutive meeting without good cause.  Specific written charges shall be prepared and served upon the Commissioner by the Tribal council at least ten days before a Council hearing upon the matter, and he shall be given an opportunity to answer to the charges at the hearing, before Tribal Council action.  If the Commissioner refuses to appear before the Tribal Council, the Council shall nonetheless proceed to vote upon his removal.  The decision of the Council shall be final.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.030 was formerly codified as 32.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0304</num>
+      <num>32.03.040</num>
       <heading>Vacancy and Interim Appointment</heading>
       <text>If a Commissioner shall die, resign, be incapacitated or leave the reservation or be removed from office, the Tribal Council shall appoint an eligible person to fill the vacant position for the remainder of the term of the office of the Commissioner whose position it has to fill.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.040 was formerly codified as 32.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0305</num>
+      <num>32.03.050</num>
       <heading>Chairman</heading>
       <text>The Chairman of the Commissioner shall be appointed by the Tribal Council and will be liaison between the Council and the Commission when needed.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.050 was formerly codified as 32.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0306</num>
+      <num>32.03.060</num>
       <heading>Duties of Commission</heading>
       <text>The Commission shall administer the employment rights program of the Turtle Mountain Band of Chippewa Indians in accordance with this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.060 was formerly codified as 32.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0307</num>
+      <num>32.03.070</num>
       <heading>Powers of Commission</heading>
       <text>The Commission shall have the power:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To establish rules and regulations governing all activities of the Commission, subject to prior approval of the Tribal Council.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To set minimum wage scale for construction employment at the beginning of each calendar year (see <cite path="32|32.01|32.014">Section 32.014</cite>), subject to prior approval of the Tribal Council.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To expend operating funds appropriated by the Council for the use of the Turtle Mountain Chippewa Tribal Employment Rights Program.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>To obtain funding from federal, state or other sources to supplement Council appropriations, subject to prior approval of the Tribal Council.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>To impose numerical hiring goals and timetables, specifying the fair minimum number of Indians an employer may hire by craft or skill level.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>To promote employers to establish or participate in such training programs as the Commission deems appropriate to increase the pool of Indian eligible for employment on the reservation.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>To assist the TERO Director in administering a tribal hiring hall.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>To require that employers may hire non-Indians for non-key positions only after the tribal hiring hall has certified that qualified Indians are unavailable to fill vacant job positions.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>To prohibit employers from using job qualifications criteria a personnel requirement that bar Indians from employment unless such criteria or requirements are required by business necessity.  Commission regulations may adopt EEOC guidelines or may adopt additional requirements to eliminate employment barriers unique to Indians and the reservation, subject to prior approval of the Tribal Council.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>To enter into agreements with the unions to insure union compliance with the Ordinance.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>To give preference to Tribal and other Indian-owned business in the award of contracts or subcontractors.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>To establish counseling programs to assist Indians to retail employment.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>To hold hearings and to subpoena witnesses and documents in accordance with this Ordinance.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>To require employers to submit reports and take all actions deemed necessary by the Commission for the fair and vigorous implementation of this Ordinance.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>To enter into cooperative agreements with federal employments rights agencies such as EEOC and OFCCP to eliminate discrimination against Indians both on and off the Reservation.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>To take such other actions as deemed necessary to achieve the purpose and objectives of the Turtle Mountain Chippewa Tribal Employment Rights Program established in this Ordinance.</text>
       </para>
       <text>In exercising the above-specified powers, the Commission shall have the discretion to implement certain powers only or to apply one or more such powers to limited classes or numbers of employers.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.03.070 was formerly codified as 32.0307</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.04</num>
     <heading>Turtle Mountain Chippewa Tribal Employment Rights Program</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0401</num>
+      <num>32.04.010</num>
       <heading>Coverage</heading>
       <text>All employers are required to give preference to equally qualified Indians and non-members married to an enrolled tribal member of one-quarter (1/4) or more degree of Indian blood and who resides in Rolette County<em>,</em> in hiring, promotion, training, and all other aspects of employment, contracting and subcontracting, and must comply with this Ordinance and the rules, regulations and orders of the Commission.  The above requirements shall apply only to facilities or components or divisions of an employer located on or engaged in business on the reservation, or for employers who have both on-reservation and off-reservation business locations, the employer shall also be subject to this TERO in their off-reservation locations, if those off-reservation locations are on lands adjacent to the reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.010 was formerly codified as 32.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0402</num>
+      <num>32.04.020</num>
       <heading>Contractors, Subcontractors, and Minority Businesses</heading>
       <text>The Indian preference requirements contained in the Ordinance shall be binding on all contractors, subcontractors, and minority businesses of employers, regardless of tier, shall be deemed a part of all resulting contract and specifications.  The TERO Commission shall have the initial and primary responsibility for insuring that all contractors, subcontractors, and minority businesses comply with these requirements and contractors, subcontractors, and minority businesses shall be subject to penalties provided herein for violation of this Ordinance if the contractor or subcontractor, subcontractors, and minority businesses fails to comply.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.020 was formerly codified as 32.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0403</num>
+      <num>32.04.030</num>
       <heading>Minimum Numerical Goals and Timetables for Indian Employment</heading>
       <text>The Commission will establish the minimum number of Indians, which is set at seventy-five (75%) percent each employer should employ on his work force during any year that he or any of his employees are located or engaged in work on the reservation or Tribal adjacent land.  Noncompliance will require rational between employer and Commission.  Numerical goals shall be set for each craft, skill area, classification, etc., used by the employer and shall include, but not be limited to, administrators, supervisory, and professional categories.  The goals shall be expressed in terms of number of Indian employment as a percentage of the total man hours worked by the employer's workforce in the job classification involved.  Numerical goals shall be based upon surveys of the available Indian manpower pool and of projected employment opportunities.  Both the TERO Director and the License Compliance/Employment Officer shall be involved in the formation of hiring goals for each employer.</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>For new employer, the goals shall meet with the Commission or Director as long before he actually begins work as possible and shall furnish the Commission with a precise list of the number, the kind of employees he expects to employ.  The Commission or Director shall then set specific goals and timetables for the employer after considering any special factors or goals into his plan for complying with this Ordinance and shall agree in writing to meet these goals.  Any employer who fails to provide such a written agreement to the TERO Commission shall not be permitted to commence work on the reservation.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>For an existing employer on the reservation, the goals shall be a percentage of the new employees expected to be employed during the ensuing year.  The employer shall incorporate the goals into his plan for complying with this Ordinance and shall agree in writing to meet these goals.  Any employer who fails to provide such a written statement will not be permitted to commence work on the reservation.  The TERO Commission shall maintain on file the current plan of each employer authorized to undertake work on the reservation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>For both new and existing employers, the goals shall be reviewed by the Commission at least annually and shall be revised as necessary to reflect changes in the number of Indians available or changes in employer hiring plans.  Each employer shall submit a monthly report to the Director on a form provided by the employer, indicating the number of Indians in his work force, how close he is to meeting his goals, all persons hired or fired during the month, the job positions involved and other information required by the Commission.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>Each employer shall meet his minimum goals for the employment of Indians.  Whenever the Commission or Director has reason to believe that an employer is violating this Ordinance by not meeting his goals, the Commission or Director may file a complaint and notify the employer of the alleged violation pursuant to <cite path="32.07">Chapter 32.07</cite> of this Ordinance.  The Commission shall bear the initial burden of providing that an employer has failed to or is failing to meet its goals.  Upon a prima facie proof of such failure, the employer shall then bear the burden of proving that it has met or is meeting its goals or has made a good faith effort to meet its goals.  It shall not be an excuse for such failure that the union with which the employer has a collective bargaining agreement providing for exclusive referral failed to refer Indians.</text>
+        <num>(d)</num>
+        <text>Each employer shall meet his minimum goals for the employment of Indians.  Whenever the Commission or Director has reason to believe that an employer is violating this Ordinance by not meeting his goals, the Commission or Director may file a complaint and notify the employer of the alleged violation pursuant to <cite path="32|32.07">Chapter 32.07</cite> of this Ordinance.  The Commission shall bear the initial burden of providing that an employer has failed to or is failing to meet its goals.  Upon a prima facie proof of such failure, the employer shall then bear the burden of proving that it has met or is meeting its goals or has made a good faith effort to meet its goals.  It shall not be an excuse for such failure that the union with which the employer has a collective bargaining agreement providing for exclusive referral failed to refer Indians.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.030 was formerly codified as 32.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0404</num>
+      <num>32.04.040</num>
       <heading>Training</heading>
       <text>Every employer shall be required by the Commission to participate in training programs to assist Indians to become qualified in the various job classifications used by the employer.  Every employer shall employ the maximum number of Indian trainees or apprentices possible.  The ratio of Indian trainees to fully qualified workers shall be set by the Commission after consultation with employer.  For construction projects, the number of Indian trainees shall be no less than the minimum ratio established by the Department of Labor (one trainee for every four journeyman).  Every employer with a collective bargaining agreement with a union shall be required to obtain agreement from the union to establish an advanced journeyman upgrade and apprenticeship program.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.040 was formerly codified as 32.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0405</num>
+      <num>32.04.050</num>
       <heading>Qualified and Personnel Requirements</heading>
-      <text>Every employer is prohibited for using job qualification criteria or personnel requirements which bar Indians from employment.  The Commission shall bear the initial burden of proving that a job qualification criterion or personnel requirements is not required by business necessity.   Upon a prima facie proof that a job qualification or personnel criterion is not required necessity, employer shall then bear the burden of proving that it is.  If that burden is not met, the employer will be required to eliminate the job qualification criterion or personnel acquirements at issue.  In implementing <cite path="32|32.04|32.0405">this section</cite>, the Commission shall be guided by principles established in the EEOC in order to eliminate employment barriers unique to Indians and the reservation.  If the employer and the Commission or Director is unable to agree upon any matter in <cite path="32|32.04|32.0405">this section</cite>, the Commission may invoke the hearing procedure provided in <cite path="32.07">Chapter 32.07</cite> of this Ordinance.</text>
-      <annotations/>
+      <text>Every employer is prohibited for using job qualification criteria or personnel requirements which bar Indians from employment.  The Commission shall bear the initial burden of proving that a job qualification criterion or personnel requirements is not required by business necessity.   Upon a prima facie proof that a job qualification or personnel criterion is not required necessity, employer shall then bear the burden of proving that it is.  If that burden is not met, the employer will be required to eliminate the job qualification criterion or personnel acquirements at issue.  In implementing <cite path="§32.04.050">this section</cite>, the Commission shall be guided by principles established in the EEOC in order to eliminate employment barriers unique to Indians and the reservation.  If the employer and the Commission or Director is unable to agree upon any matter in <cite path="§32.04.050">this section</cite>, the Commission may invoke the hearing procedure provided in <cite path="32|32.07">Chapter 32.07</cite> of this Ordinance.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.050 was formerly codified as 32.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0406</num>
+      <num>32.04.060</num>
       <heading>Tribal Hiring Hall</heading>
       <text>The Commission shall establish and administer a tribal hiring hall to assist employers in identifying and hiring qualified Indians in job positions, employ and supervise a License Compliance/Employment Officer to oversee the hiring hall, labor survey, and employee referral functions under this ordinance.  An employer may recruit and hire workers from whatever sources are available to it and by whatever process it chooses, provided that it may not hire a non-Indian until it has given the Commission or Director a reasonable time to locate a qualified Indian and the tribal hiring hall has certified that a qualified Indian is unavailable to fill the vacant job position.</text>
       <text>For purpose of this Ordinance, "reasonable time" shall be defined as follows:  Three (3) working days to locate and refer a qualified Indian.  The Commission may grant a waiver of these time periods upon a showing by the employer that such time periods impose an undue burden upon it.  An employer subject to a collective bargaining agreement with the union shall be exempt from this procedure if the union agrees to refer Indians from a listing supplied by the Commission or Director.  However, if any union fails to meet this obligation to refer Indians to an employer, the Commission or Director may require the employer to accept Indian referrals from sources other than the union.</text>
       <text>In administering a tribal hiring hall, a hiring list may be maintained by the License Compliance/Employment Officer.  Individuals who desire to obtain employment in areas within the scope of this TERO Ordinance may enter their names on this hiring list.  Names shall be entered in chronological order by the date and time of sign-up.  The list may be utilized by the License Compliance/Employment Officer on a first come, first served basis in placing individuals of comparable skills in various crafts with various employers:  Comparably skilled individuals shall be referred for placement in the order their names appear on the list.</text>
-      <text>If any non-Indian worker is found to be employed in a job in violation of <cite path="32|32.04|32.0406">this section</cite>, the employer shall be required by the Commission or Director to remove employee immediately and said employer shall be subject to the penalties in <cite path="32.08">Chapter 32.08</cite> of this Ordinance.</text>
-      <annotations/>
+      <text>If any non-Indian worker is found to be employed in a job in violation of <cite path="§32.04.060">this section</cite>, the employer shall be required by the Commission or Director to remove employee immediately and said employer shall be subject to the penalties in <cite path="32|32.08">Chapter 32.08</cite> of this Ordinance.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.060 was formerly codified as 32.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0407</num>
+      <num>32.04.070</num>
       <heading>Counseling and Support Programs</heading>
       <text>The Commission will establish counseling and other support programs to assist Indians to retain employment.  Every employee shall be required to cooperate with the Commission regarding such counseling and support programs.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.070 was formerly codified as 32.0407</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0408</num>
+      <num>32.04.080</num>
       <heading>Preference in Contracting and Subcontracting</heading>
       <text>Every employer that is soliciting for bids or quotes in the Turtle Mountain Jurisdiction and Tribal adjacent land in an open market advertisement shall be awarded to the low responsible bidder with a percentage preference given to Indian Owned firm. 5% preference for Indian Owned Prime contractor and 10% for Indian Owned Subcontractors and suppliers. Employers shall be required to take every step feasible to identify or locate Indian-owned businesses. These businesses then must assume the responsibility of submitting a timely bid or otherwise lose the right of being considered.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
+        <annotation type="Prior Codifications">§32.04.080 was formerly codified as 32.0408</annotation>
       </annotations>
     </section>
     <section>
-      <num>32.0408.01</num>
+      <num>32.04.090</num>
+      <heading>_</heading>
       <text>Every prime contractor must list their subcontractors and suppliers for each contract to prevent bid shopping. Each contractor must have a valid Tribal License up to date through TERO in order for their bid to be considered.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
+        <annotation type="Prior Codifications">§32.04.090 was formerly codified as 32.0408.01</annotation>
       </annotations>
     </section>
     <section>
-      <num>32.0408.02</num>
+      <num>32.04.100</num>
+      <heading>_</heading>
       <text>Every employer must provide a copy of current Liability Insurance to the TERO office before a TERO license is issued.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
+        <annotation type="Prior Codifications">§32.04.100 was formerly codified as 32.0408.02</annotation>
       </annotations>
     </section>
     <section>
-      <num>32.0409</num>
+      <num>32.04.110</num>
       <heading>Lay-Offs</heading>
       <text>In all lay-offs and reduction in force, no Indian worker shall be terminated if a non-Indian worker in the same job classification is still employed unless the termination is pursuant to a prior lay-off procedure agreed to by the Commission in writing.  Unless otherwise agreed in advance per such lay-off procedure, the non-Indian must first be terminated if the Indian possesses the minimum qualifications for the job classification.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.110 was formerly codified as 32.0409</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0410</num>
+      <num>32.04.120</num>
       <heading>Promotion</heading>
       <text>Every employer shall give Indians preferential consideration for all promotion opportunities and shall encourage Indians to seek such opportunities.  For every supervisory position filled by a non-Indian, the employer shall file a report with the Commission stating what efforts were made to inform Indian workers about the position, what Indians, if any, applied for the position, and the reasons why each Indian was not hired for the position.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.120 was formerly codified as 32.0410</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0411</num>
+      <num>32.04.130</num>
       <heading>Summer Students</heading>
       <text>Every employer shall give Indian students preferential consideration for summer student employment.  The employer shall make every effort to promote after school, summer and vacation employment for Indian students.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.04.130 was formerly codified as 32.0411</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.05</num>
     <heading>Fee Assessment</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0500</num>
+      <num>32.05.010</num>
       <heading>Fee Assessment</heading>
-      <text>Fee Assessment to Provide Tribal Revenue and Operation of the Commission Pursuant to Article 9, Sections 3 and 4 of the Turtle Mountain Band of Chippewa Indian Constitution. Fees will apply to all educational purposes and contracted purposes except computers, books, classroom desks and classroom supplies and materials. (moved from <cite path="32|32.05|32.0503">section 32.0503</cite>)</text>
-      <annotations/>
+      <text>Fee Assessment to Provide Tribal Revenue and Operation of the Commission Pursuant to Article 9, Sections 3 and 4 of the Turtle Mountain Band of Chippewa Indian Constitution. Fees will apply to all educational purposes and contracted purposes except computers, books, classroom desks and classroom supplies and materials. (moved from <cite path="§32.05.040">Section 32.05.040</cite>)</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.05.010 was formerly codified as 32.0500</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0501</num>
+      <num>32.05.020</num>
       <heading>Contractors, Subcontractors and Minority Businesses</heading>
       <text>Every contractor, subcontractor or business entity with a negotiated contract of $10,000 including all change orders or more shall pay a one-time fee of 4% of the total amount of the contract. The fee will be paid in full when receiving first progress payment of within 45 days from date of award, or whichever comes later.</text>
       <text>This Ordinance shall apply, but not be limited to, the following categories of contractors, subcontractors or employers: Construction Contractors, Manufacturers Materialmen and Suppliers. 4% will also apply to Professional Services, such as A/E Firms, Consultants and Legal Services, attorneys, and all educational purchases and contracted purposes, except for computers, reading books, classroom desks and classroom supplies and materials.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.05.020 was formerly codified as 32.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0502</num>
+      <num>32.05.030</num>
       <heading>Accounting</heading>
       <text>Four (4%) percent TERO fees collected shall be paid to the TERO Office and deposited in a special account.  One (1%) percent EPA fee collected will be transferred to the tribal landfill account and the remaining 3% percent will remain in the special account and will be used to support the TERO Program.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
+        <annotation type="Prior Codifications">§32.05.030 was formerly codified as 32.0502</annotation>
       </annotations>
     </section>
     <section>
-      <num>32.0503</num>
+      <num>32.05.040</num>
       <heading>Tribal Business License</heading>
       <text>Any person, employer, or vendor doing business in the reservation shall be required to obtain and maintain in force a tribal business license before any work will commence.  All licenses are issued annually, and must be renewed before due date of each calendar year.  Tribal business license applications will be obtained at the TERO Office.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.05.040 was formerly codified as 32.0503</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.06</num>
     <heading>Compliance by Unions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0600</num>
+      <num>32.06.010</num>
       <heading>Notice</heading>
       <text>Every union with a collective bargaining agreement with an employer must file a written agreement stating that the union will comply with this Ordinance and the rules, regulations and orders of the Commission.  Until such agreement is filed with the Commission or Director, the employer may not commence work on the reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.06.010 was formerly codified as 32.0600</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0601</num>
+      <num>32.06.020</num>
       <heading>Contents of Union Agreements</heading>
       <text>Every union agreement with an employer or   filed with the Commission or Director must provide:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Indian Preference. The union will give absolute preference to Indian residents in job referrals regardless of which union referral list they are on.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Cooperation with Commission. The union will cooperate with the Commission or Director in all respects.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Registration. The union will establish a mechanism allowing Indians to register for job referral lists by telephone or mail.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Training Programs. The union will establish a journeyman upgrade and advanced apprenticeship program.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Include all Indians. The union will "include" all Indians who qualify for journeyman or apprenticeship status and wish to join the union.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Temporary Work Permits. The union will grant temporary work permits to Indians who do not wish to join the union.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.06.020 was formerly codified as 32.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0602</num>
+      <num>32.06.030</num>
       <heading>Model Union Agreement</heading>
       <text>The employer will provide a model union agreement for use by all unions who have collective bargaining agreements with any employer.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.06.030 was formerly codified as 32.0602</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0603</num>
+      <num>32.06.040</num>
       <heading>Recognition of Unions</heading>
       <text>Nothing herein or any activity by the Commission authorized hereby shall constitute official tribal recognition of any union or tribal endorsement of any union activities on the reservation.  No union activities shall take place without prior approval of the Turtle Mountain Chippewa Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.06.040 was formerly codified as 32.0603</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0604</num>
+      <num>32.06.050</num>
       <heading>No Waiver of Sovereign Immunity</heading>
       <text>Nothing in this Ordinance is a waiver of the Turtle Mountain Band of Chippewa Indian's sovereign immunity as against any person, agency or governmental entity including, but not limited to, the National Labor Relations Board and the Federal Office of Contract Compliance.  Nothing in this Ordinance is a "consent to be sued" as defined by the Turtle Mountain Chippewa Tribal Code, Section.  The Tribe's sovereign immunity also extends to members of the TERO Commission and Staff.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.06.050 was formerly codified as 32.0604</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.07</num>
     <heading>Complaints and Hearings</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0701</num>
+      <num>32.07.010</num>
       <heading>Notice</heading>
-      <text>If a hearing is requested by the Commission or Director, an individual employee, or union pursuant to <cite path="32|32.07|32.0701">this section</cite>, a written notice of hearing shall be given to all parties concerned of the nature, time and place of the hearing and the evidence to be presented, and shall advise such parties of their rights to be present at the hearing, to present any testimony of witness and other evidence to be represented by counsel at their own expense, and that the Commission may be represented by general counsel for the Turtle Mountain Chippewa Tribe.</text>
-      <annotations/>
+      <text>If a hearing is requested by the Commission or Director, an individual employee, or union pursuant to <cite path="§32.07.010">this section</cite>, a written notice of hearing shall be given to all parties concerned of the nature, time and place of the hearing and the evidence to be presented, and shall advise such parties of their rights to be present at the hearing, to present any testimony of witness and other evidence to be represented by counsel at their own expense, and that the Commission may be represented by general counsel for the Turtle Mountain Chippewa Tribe.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.07.010 was formerly codified as 32.0701</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0702</num>
+      <num>32.07.020</num>
       <heading>Commission Complaint and Procedure</heading>
-      <text>If the Commission or Director believes that an employer, contractor, subcontractor, or union has failed to comply with the Ordinance or any rules, regulations or orders of the Commission, it may file a complaint and notify such party of the alleged violations.  The Commission or Director will attempt to achieve an informal settlement of the matter, but if an informal settlement cannot be achieved, the Commission or Director may request a hearing upon the matter pursuant <cite path="32|32.07|32.0701">Section 32.0701</cite></text>
-      <annotations/>
+      <text>If the Commission or Director believes that an employer, contractor, subcontractor, or union has failed to comply with the Ordinance or any rules, regulations or orders of the Commission, it may file a complaint and notify such party of the alleged violations.  The Commission or Director will attempt to achieve an informal settlement of the matter, but if an informal settlement cannot be achieved, the Commission or Director may request a hearing upon the matter pursuant <cite path="§32.07.010">Section 32.07.010</cite></text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.07.020 was formerly codified as 32.0702</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0703</num>
+      <num>32.07.030</num>
       <heading>Individual Complaint Procedure</heading>
-      <text>If an Indian believes that an employer has failed to comply with this Ordinance or rules, regulation or orders of the Commission, or believes he/she has been discriminated against by an employer because he/she is an Indian, he/she may file a complaint in writing with the Director specifying the alleged violation.  Upon receipt of the complaint, the Director shall investigate and attempt to achieve an informal settlement of the matter.  If an informal settlement cannot be achieved, the individual or Director may request a hearing upon the matter pursuant to <cite path="32|32.07|32.0701">Section 32.0701</cite>.</text>
-      <text>If an employer fires, lays off, or penalizes in any manner, an Indian employee who utilizes the individual complaint procedure provided herein or exercises any right provided herein, the employer shall be subject to the penalties in <cite path="32.08">Chapter 32.08</cite> of this Ordinance.</text>
-      <annotations/>
+      <text>If an Indian believes that an employer has failed to comply with this Ordinance or rules, regulation or orders of the Commission, or believes he/she has been discriminated against by an employer because he/she is an Indian, he/she may file a complaint in writing with the Director specifying the alleged violation.  Upon receipt of the complaint, the Director shall investigate and attempt to achieve an informal settlement of the matter.  If an informal settlement cannot be achieved, the individual or Director may request a hearing upon the matter pursuant to <cite path="§32.07.010">Section 32.07.010</cite>.</text>
+      <text>If an employer fires, lays off, or penalizes in any manner, an Indian employee who utilizes the individual complaint procedure provided herein or exercises any right provided herein, the employer shall be subject to the penalties in <cite path="32|32.08">Chapter 32.08</cite> of this Ordinance.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.07.030 was formerly codified as 32.0703</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0704</num>
+      <num>32.07.040</num>
       <heading>Employer or Union Complaint Procedure</heading>
-      <text>If an employer or union believes that any provision of this Ordinance or any rule, regulations or order of the Commission or Director is illegal or unclear, it may file a complaint in writing with the Director specifying the alleged illegality or error.  Upon receipt of the complaint, the Director shall investigate and attempt to achieve an informal settlement of the matter.  If an informal settlement cannot be achieved, the employer, union or Commission may request a hearing upon the matter pursuant to <cite path="32|32.07|32.0701">Section 32.0701</cite>.</text>
-      <annotations/>
+      <text>If an employer or union believes that any provision of this Ordinance or any rule, regulations or order of the Commission or Director is illegal or unclear, it may file a complaint in writing with the Director specifying the alleged illegality or error.  Upon receipt of the complaint, the Director shall investigate and attempt to achieve an informal settlement of the matter.  If an informal settlement cannot be achieved, the employer, union or Commission may request a hearing upon the matter pursuant to <cite path="§32.07.010">Section 32.07.010</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.07.040 was formerly codified as 32.0704</annotation>
+      </annotations>
     </section>
     <section>
-      <num>32.0705</num>
+      <num>32.07.050</num>
       <heading>Hearing Procedure</heading>
       <text>Hearing before the Commission shall be governed by the following rules of procedure:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All parties may present testimony of witnesses and other evidence and may be represented by counsel at their own expense.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall be responsible for taping the proceedings and preserving such tapes and all pleading and physical evidence submitted at the hearing.  These items shall constitute the record on appeal if any appeal should be taken after the hearing.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission may have the advice and assistance at the hearing of general counsel for the Tribe.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Chairman of the Commission or the Vice Chairman may preside.  No formal rules of evidence of procedure need to be followed, but the Commission shall proceed to ascertain the facts in a reasonable and orderly fashion.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Any matter to be proven must be proven to the satisfaction of the Commission or by the preponderance of the evidence.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The hearing may be continued at the discretion of the Commission or Director.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>At the final close of the hearing, the Commission may take immediate action or take the matter under advisement.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission or Director shall notify all parties within 30 days after its decision in the matter.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>The Commission may require the presence of persons and documents at the hearing by service of subpoena(s) issued by the Commission.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>Any party leaving a scheduled meeting will be subject to entry of an adverse finding by default, unless authorized by the Commission.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>Any party not appearing for a scheduled meeting will be subject to an adverse finding by default unless prior written approval must be submitted in writing to the Director.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>Complaints must be filed within 30 days of incident with the TERO Office otherwise complaint will not be processed.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.07.050 was formerly codified as 32.0705</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.08</num>
     <heading>Penalties for Violation</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0801</num>
+      <num>32.08.010</num>
       <heading>Penalties for Violation</heading>
       <text>Any employer, contractor, subcontractor or union who violates this Ordinance or rules, regulations or orders of this Commission shall be subject to penalties for such violations, including, but not limited to:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Denial of right to commence or continue business inside the reservation or Adjacent Tribal Land.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Suspension of all operations inside the reservation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Payment of back pay and damages to compensate any injured party.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>An order to summarily remove employees hired in violation of this Ordinance or rules, regulations and orders of the Commission.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Imposition of monetary civil penalties.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Prohibition from engaging in any future operations on the reservation.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>An order requiring employment, promotion and training of Indians injured by the violation.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>An order requiring changes in procedures and policies necessary to eliminate the violation.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>An order making any other provision deemed by the Commission necessary to eliminate violations.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>The maximum civil penalty, which may be imposed, is $500.00 for each violation.  Each day during which a violation exists shall constitute a separate violation.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>The Commission or Director may apply to the Tribal Court of the Turtle Mountain Band of Chippewa Indians for a judicial order or decree after notice and hearing to the other party or parties to enforce any final ruling or order of the Commission.  The Tribal Court shall act on such requests on an expedited basis.  The Tribal Court shall not have jurisdiction to re-examine the merits of any such Commission determination, but may grant, deny, or modify the relief sought as applicable law and equitable circumstances warrant.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.08.010 was formerly codified as 32.0801</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.09</num>
     <heading>Appeals</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.0901</num>
+      <num>32.09.010</num>
       <heading>Appeals</heading>
       <text>Any party to a Commission hearing shall have the right to appeal any decision, ruling or order of the Commission to the Tribal Court of Appeals of the Turtle Mountain Chippewa Tribe of the Turtle Mountain Indian Reservation, North Dakota.  The Court of Appeals (with a law trained judge presiding) shall have jurisdiction to reverse, affirm or modify any Commission decision, order or ruling if such Court determines on the basis of the record made at the Commission hearing that the Commission action was (a) not supported by substantial evidence: or, (b) was clearly erroneous as a matter of law.  Otherwise, the Commission decisions shall be affirmed.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.09.010 was formerly codified as 32.0901</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.10</num>
     <heading>Tribal Training Program</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1001</num>
+      <num>32.10.010</num>
       <heading>Tribal Training Program</heading>
       <text>The Tribe shall appropriate such tribal funds necessary and available to establish training programs to prepare the tribal members for job opportunities developed pursuant to the Turtle Mountain Chippewa Tribal Employment Rights Ordinance.  The Commission shall negotiate a training program in cooperation with employers, state, federal and tribal officials.  Such programs shall follow applicable federal standards (if any).</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.10.010 was formerly codified as 32.1001</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.11</num>
     <heading>Publication of Ordinance</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1101</num>
+      <num>32.11.010</num>
       <heading>Publication of Ordinance</heading>
       <text>The Commission or Director shall notify all employers of this Ordinance and their obligations to comply.  All bid announcements issued by any tribal, federal, state or private or public entities shall contain a statement that the successful bidder will be obligated to comply with this Ordinance and all rules, regulations and orders of the Commission.</text>
       <text>The Tribal Council may issue business licenses to prospective employers planning to work on the reservation upon review and approval of the prospective employers business license application in conformity with applicable tribal law and procedure.  The TERO office shall make available to the Council the name of each business to whom a tribal business license has been issued.  The Commission shall advise such employer or prospective employers of their obligations under this Ordinance, rules, regulations and order of the Commission.</text>
       <text>The Director shall send a copy of this Ordinance to every employer operating on the reservation and any amendments or revisions thereto.  A small fee may be charged for this service.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.11.010 was formerly codified as 32.1101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.12</num>
     <heading>Compliance Plan</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1201</num>
+      <num>32.12.010</num>
       <heading>Compliance Plan</heading>
       <text>As of the effective date of this Ordinance, no new employer may commence work on the reservation until it has been issued a license from the Tribe and consulted with the Commission or Director and developed a plan occupied by the Commission for meeting its obligations under this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.12.010 was formerly codified as 32.1201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.13</num>
     <heading>Reporting and On-Site Inspection</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1301</num>
+      <num>32.13.010</num>
       <heading>Reporting and On-Site Inspection</heading>
-      <text>Employers shall submit reports and other information requested by the Director or Commission.  The Director or his designee shall have the right to make on-site inspections during regular working hours in order to monitor any employer's compliance with this Ordinance and rules, regulations and orders of the Commission.  The Director or his Designee shall have the right to inspect and copy all relevant records of any employer, of any signatory union or subcontractor of any employer and shall have a right to speak to workers and conduct an investigation on the job site.  All information collected by the Director or his Designee shall be kept confidential unless disclosure is required during a hearing or appeal as provided in <cite path="32.07">Chapter 32.07</cite>, 32.08 and 32.09.</text>
-      <annotations/>
+      <text>Employers shall submit reports and other information requested by the Director or Commission.  The Director or his designee shall have the right to make on-site inspections during regular working hours in order to monitor any employer's compliance with this Ordinance and rules, regulations and orders of the Commission.  The Director or his Designee shall have the right to inspect and copy all relevant records of any employer, of any signatory union or subcontractor of any employer and shall have a right to speak to workers and conduct an investigation on the job site.  All information collected by the Director or his Designee shall be kept confidential unless disclosure is required during a hearing or appeal as provided in <cite path="32|32.07">Chapter 32.07</cite>, 32.08 and 32.09.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§32.13.010 was formerly codified as 32.1301</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.14</num>
     <heading>Tribal Minimum Wage Scale</heading>
+    <prefix>Chapter</prefix>
     <text>
       <u>Apprentice Bricklayer									17.00</u>
     </text>
@@ -780,63 +864,71 @@
     <text>This is the most current Tribal minimum wage rates as of July 30, 2013.  The tribal wage scale is subject to revision on an annual or other periodic basis by the Tribe.  Employers may secure the most current rates from the TERO Director.</text>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.15</num>
     <heading>Severeability</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1501</num>
+      <num>32.15.010</num>
       <heading>Severability</heading>
       <text>If any provision of this Ordinance, or its application to any person or circumstances is held invalid, the remainder of the Ordinance, or the application of the provision to other persons or circumstances is not affected.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.15.010 was formerly codified as 32.1501</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.16</num>
     <heading>Relation to Federal Indian Preference Requirements</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1601</num>
+      <num>32.16.010</num>
       <heading>Relation to Federal Indian Preference Requirements</heading>
       <text>The Tribal Indian preference requirements impose by this Ordinance is separate from the supplemental to any and all applicable federal Indian preference requirements.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.16.010 was formerly codified as 32.1601</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.17</num>
     <heading>Special Tero Rules for Large Tribal Construction Projects</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1701</num>
+      <num>32.17.010</num>
       <heading>Special Tero Rules for Large Tribal Construction Projects</heading>
       <text>For construction projects in amounts over $500,000, where the Tribe, the Turtle Mountain Housing Authority or any other tribal agency or instrumentality solicits bids for section of one or more prime contractors, the following special TERO rules shall apply:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>For all such projects which the entity soliciting bids for one or more prime construction contractors has appointed a project team to oversee the project the TERO Director shall serve as a non-voting member of the project team during the pre-bid and construction phases of the project.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>For all such projects, the minimum numerical goals and timetables for Indian employment under <cite path="32|32.04|32.0403">Section 32.0403</cite> for the prime contractor(s)and all subcontractors and the approved plan for how the contractor or subcontractors are to meet these goals under this ordinance shall not be finalized by the TERO Director or Commission or become legally effective until approved by the project team for that project, and no TERO enforcement proceedings (including the conduct of hearings under <cite path="32|32.07|32.0705">Section 32.0705</cite> and the imposition of penalties under <cite path="32.08">Chapter 32.08</cite> or application for tribal court action there under) shall be initiated by the TERO Director or Commission as to said projects until cleared by the project team.</text>
+        <num>(b)</num>
+        <text>For all such projects, the minimum numerical goals and timetables for Indian employment under <cite path="§32.04.030">Section 32.04.030</cite> for the prime contractor(s)and all subcontractors and the approved plan for how the contractor or subcontractors are to meet these goals under this ordinance shall not be finalized by the TERO Director or Commission or become legally effective until approved by the project team for that project, and no TERO enforcement proceedings (including the conduct of hearings under <cite path="§32.07.050">Section 32.07.050</cite> and the imposition of penalties under <cite path="32|32.08">Chapter 32.08</cite> or application for tribal court action there under) shall be initiated by the TERO Director or Commission as to said projects until cleared by the project team.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All written requests for pre-bid interpretations of TERO requirements received by the TERO office on such projects shall be answered in writing by the TERO office or the Tribe's legal counsel for the project after clearance of said answers by the tribal project manager for the project.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>All day-to-day TERO office functions including, but not limited to, compliance review, hiring hall, labor survey, employee referral, hiring plan negotiations and other TERO efforts to secure TERO compliance through informal means, shall continue to apply to such projects as otherwise set out in this ordinance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.17.010 was formerly codified as 32.1701</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>32.18</num>
     <heading>Effective Date</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>32.1801</num>
+      <num>32.18.010</num>
       <heading>Effective Date</heading>
       <text>This Ordinance is a revision of Tribal Ordinance No. 32 approved July, 28, 1981. Provisions in this Ordinance regarding Indian Preference are continuous. This Ordinance as hereby amended supersedes any all prior resolutions and ordinances of the Turtle Mountain Band of Chippewa Indians to the extent of any conflict or inconsistency.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§32.18.010 was formerly codified as 32.1801</annotation>
+      </annotations>
     </section>
   </container>
 </container>

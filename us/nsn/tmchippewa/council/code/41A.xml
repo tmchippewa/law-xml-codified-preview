@@ -1,484 +1,526 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>41A</num>
   <heading>Taxation: Special Fuels Taxes</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>41A.01</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>41A.0101</num>
+      <num>41A.01.010</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="41A.01">this Chapter</cite>, unless the context otherwise requires:</text>
+      <text>As used in <cite path="41A|41A.01">this chapter</cite>, unless the context otherwise requires:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"AGRICULTURAL PURPOSE" means the science, art, and business of farming.  It includes raising crops, ranching, beekeeping, tree nurseries, agricultural units of colleges and universities, custom combining, manure spreading, and stack moving operations. Fuel used for an agricultural purpose includes fuel used In a vehicle, engine, or machine, movable or immovable, operated in whole or part by internal combustion. It does not include fuel used to operate a licensed motor vehicle.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"CLEAR DIESEL FUEL" means all diesel fuel not dyed red for Federal motor fuel tax exemption purposes.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"COMMISSIONER" means the Tribal Commissioner (or Tribal Tax Director).</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"COMMON CARRIER" or "CONTRACT CARRIER" means a person involved in the movement of special fuel from a terminal or movement of special fuel imported into the jurisdiction of the Tribe, who is not an owner of the special fuel.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"CONSUMER" means a user of special fuel including any person purchasing special fuel within the jurisdiction of the Tribe for use in a licensed motor vehicle; any person importing special fuel within the jurisdiction of the Tribe for agricultural, industrial, or railroad purpose; or any person purchasing special fuel within the jurisdiction of the Tribe for use in recreational or any other types of motor vehicles. It does not include a person importing or purchasing fuel for resale.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"DISTRIBUTOR" means a person, other than a retailer, who acquires special fuel from a refiner or supplier for subsequent wholesale distribution in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"EXPORTER" means a refiner, supplier, or distributor who exports special fuel out of jurisdiction of the Tribe in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"GALLON" means a United States gallon [3.79 1iters] measured on a gross volume basis.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"GROSS VOLUME" means measurement in United States gallons [3.79 liters) without temperature or barometric adjustment.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>"HEATING FUEL USE" means use of special fuel to heat homes, private and public office buildings, or private and public commercial buildings or use of special fuel in stoves or burners or for any other heating purposes.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>"HIGHWAY PURPOSE" means any use of special fuel in any motor vehicle in any phase of construction, reconstruction, repair, or maintenance or public roads or highways, but does not include that special fuel used for heating of oils, gravel, bituminous mixture, or in any equipment used in the preparation of any materials to be used on any type of road or highway surfacing.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>"IMPORTER" means a refiner, supplier, or distributor who imports motor vehicle fuel into the jurisdiction of the Tribe in bulk or transport load by truck, railcar, or in a barrel, drum, or other receptacle.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>"INDUSTRIAL PURPOSE" means:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A manufacturing warehouse, or loading dock operation;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Construction;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Sand and gravel processing;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Well drilling, well testing, or well servicing;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Maintenance of business premises, golf courses, or cemeteries;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>A commercial  or contact painting operation;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Electrical services:</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>A refrigeration unit on a truck;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>A power-take off unit; and</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>Other similar business activity.</text>
           <text>Fuel used for an industrial purpose includes fuel used in a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion. It does not include heating fuel, fuel used for an agricultural purpose, fuel used for a railroad purpose, or fuel used to operate a licensed motor vehicle.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(n)</num>
         <text>"JURISDICTION OF THE TRIBE" shall mean and include all areas within the original exterior boundaries of the Turtle Mountain Reservation and all lands held by the United States in trust for the Tribe outside the exterior borders of the Turtle Mountain Reservation.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(o)</num>
         <text>"LICENSED MOTOR VEHICLE" means any motor vehicle licensed for operation upon public roads or highways, but does not include a vehicle with a permanently mounted manure spreader or stack moving unit.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>"MOTOR VEHICLE" means a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion using one or more of the special fuels defined in <cite path="41A.01">this chapter</cite>, but does not include aircraft.</text>
+        <num>(p)</num>
+        <text>"MOTOR VEHICLE" means a vehicle, engine, or machine, movable or immovable, operated in whole or in part by internal combustion using one or more of the special fuels defined in <cite path="41A|41A.01">this chapter</cite>, but does not include aircraft.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(q)</num>
         <text>"PERSON" means every individual, partnership, firm, association, joint venture corporation or limited liability company, estate, business, trust, receiver, or any other group or combination acting as a unit.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(r)</num>
         <text>"PERSONS SUBJECT TO THE JURISDICTION OF THE TRIBE" means individual members of the Tribe, nonmember Indians residing within the jurisdiction of the Tribe and any other persons subject to the taxing jurisdiction of the Tribe that are not subject to state taxing authority.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(s)</num>
         <text>"PHYSICAL INVENTORY READING" means a measurement of special fuel available for distribution in a terminal, an underground storage tank, an aboveground storage tank, or in a tank wagon, bulk delivery vehicle, railcar, barrel, drum or other receptacle.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(t)</num>
         <text>"PUBLIC ROAD OR HIGHWAY" means every way or place generally open to the use of the public as a manner of right, for the purpose of motor vehicle travel, notwithstanding that it may be temporarily closed or subject to restricted travel due to construction, reconstruction, repair, or maintenance.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(u)</num>
         <text>"RACK" means a mechanism used to dispense special fuel from a terminal.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(v)</num>
         <text>"RAILROAD PURPOSE" means the operation of railroad locomotives and the construction, reconstruction, repair, and maintenance of railroads. Fuel used for a railroad purpose includes fuel used to operate a railroad locomotive, and fuel used in a motor vehicle for purposes of construction, reconstruction, repair, and maintenance of railroads. It does not include fuel used in a licensed motor vehicle.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(w)</num>
         <text>"REFINER" means a person who produces, manufactures, or refines special fuels.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(x)</num>
         <text>"RETAIL LOCATION" means a site at which special fuel is dispensed through a pump from an underground or aboveground storage unit into the supply tank of a motor vehicle.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(y)</num>
         <text>"RETAILER" means a person who acquires special fuel from a supplier or distributor for resale to a consumer at a retail location.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(z)</num>
         <text>"SALE" means, with respect to special fuel, the transfer of title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means, for consideration.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(aa)</num>
         <text>"SPECIAL FUEL" means all clear diesel fuel sold for use in a licenses motor vehicle on public roads.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(bb)</num>
         <text>"SUPPLIER" means a refiner who distributes special fuel from a terminal within the jurisdiction of the Tribe, or a person who acquires special fuel by pipeline from a state, territory, or possession of the United States or from a foreign country, for storage at and distribution from a terminal, or a person who acquires special fuel by truck or railcar for storage at and distribution from a terminal within the jurisdiction of the Tribe.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(cc)</num>
         <text>"TAX COMMISSION" means the Tribal Tax Commission"</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(dd)</num>
         <text>"TAXPAYER" means a refiner, supplier, distributor, importer, exporter, terminal operator or retailer.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(ee)</num>
         <text>"TERMINAL" means a special fuel storage and distribution facility that is supplies by a refinery pipeline and from which the special fuel may be removed from the rack.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(ff)</num>
         <text>"TERMINAL OPERATOR" means a person who by ownership or contractual agreement who is charged with the responsibility for, or physical control over, and operation of the terminal.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(gg)</num>
         <text>"WHOLESALE DISTRIBUTION" means the sale of fuel by a supplier or distributor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.010 was formerly codified as 41A.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0102</num>
+      <num>41A.01.020</num>
       <heading>Tax Imposed</heading>
       <para>
-        <num>(1)</num>
-        <text>Except as otherwise provided in <cite path="41A.01">this chapter</cite>, an excise tax of twenty-three cents per gallon (3.79 liters) is imposed on all special fuel sold at retail locations within the jurisdiction of the Tribe and sold in bulk for license motor vehicle use to person subject to the jurisdiction of the Tribe.</text>
+        <num>(a)</num>
+        <text>Except as otherwise provided in <cite path="41A|41A.01">this chapter</cite>, an excise tax of twenty-three cents per gallon (3.79 liters) is imposed on all special fuel sold at retail locations within the jurisdiction of the Tribe and sold in bulk for license motor vehicle use to person subject to the jurisdiction of the Tribe.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>A supplier, distributor, or retailer shall remit the tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> on special fuel used and on direct sales of special fuel to consumers.</text>
+        <num>(b)</num>
+        <text>A supplier, distributor, or retailer shall remit the tax imposed by <cite path="§41A.01.020">this section</cite> on special fuel used and on direct sales of special fuel to consumers.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> does not apply on sales by a supplier to another supplier, on a sale by a supplier to a distributor, on a sale by a distributor to another distributor, on a sale by a distributor to a retailer, on an export, or on a sale to an exempt consumer.</text>
+        <num>(c)</num>
+        <text>The tax imposed by <cite path="§41A.01.020">this section</cite> does not apply on sales by a supplier to another supplier, on a sale by a supplier to a distributor, on a sale by a distributor to another distributor, on a sale by a distributor to a retailer, on an export, or on a sale to an exempt consumer.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> does not apply to special fuels purchased for use in operating vehicles of the government of the United States or any of its agencies, any state, or any political subdivision of any state, or any Tribe or any of its agencies or political subdivision.</text>
+        <num>(d)</num>
+        <text>The tax imposed by <cite path="§41A.01.020">this section</cite> does not apply to special fuels purchased for use in operating vehicles of the government of the United States or any of its agencies, any state, or any political subdivision of any state, or any Tribe or any of its agencies or political subdivision.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>The tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> does not apply to bulk delivery sales of special fuel within the jurisdiction of the Tribe for use in non­ licensed equipment for agricultural or industrial purposes, or to the Tribe or any of its agencies or political subdivisions.</text>
+        <num>(e)</num>
+        <text>The tax imposed by <cite path="§41A.01.020">this section</cite> does not apply to bulk delivery sales of special fuel within the jurisdiction of the Tribe for use in non­ licensed equipment for agricultural or industrial purposes, or to the Tribe or any of its agencies or political subdivisions.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>The person required to remit the tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> shall pass the tax on to the consumer.</text>
+        <num>(f)</num>
+        <text>The person required to remit the tax imposed by <cite path="§41A.01.020">this section</cite> shall pass the tax on to the consumer.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>The person required to remit the tax imposed by <cite path="41A|41A.01|41A.0102">this section</cite> shall pay the tax to the Commissioner by the twenty-filth day of the calendar month after the month during which the special fuel was sold or used by the person. When the twenty- fifth day of the calendar month falls on a Saturday, Sunday, or legal holiday, the due date is the first working day after the Saturday, Sunday or legal holiday.  When payment is made by mail, the payment is timely if the envelope containing the payment is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
+        <num>(g)</num>
+        <text>The person required to remit the tax imposed by <cite path="§41A.01.020">this section</cite> shall pay the tax to the Commissioner by the twenty-filth day of the calendar month after the month during which the special fuel was sold or used by the person. When the twenty- fifth day of the calendar month falls on a Saturday, Sunday, or legal holiday, the due date is the first working day after the Saturday, Sunday or legal holiday.  When payment is made by mail, the payment is timely if the envelope containing the payment is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.020 was formerly codified as 41A.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0103</num>
+      <num>41A.01.030</num>
       <heading>Tax Collection Allowance</heading>
       <text>The person required to remit the tax shall deduct one percent from the amount of tax due, up to a maximum of three hundred dollars per mouth, to cover the cost of collecting the tax and remitting it to the Commissioner. This provision does not apply to additional tax assessed during an audit.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.030 was formerly codified as 41A.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0104</num>
+      <num>41A.01.040</num>
       <heading>Credit for Taxes Paid on Worthless Accounts and Refunds</heading>
       <text>Taxes paid on special fuels represented by accounts found to be worthless, and actually charged off for income tax purposes, may be taken as a credit against subsequent taxes due provided the accounts charged off included the cost of the fuel as well as the taxes due.  If the worthless account is subsequently collected, the tax must be remitted on the amount collected. If in any case the credit or any part of it cannot be utilized because of a discontinuance of a business or for other valid reason, the amount may be refunded.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.040 was formerly codified as 41A.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0105</num>
+      <num>41A.01.050</num>
       <heading>Refiner, Supplier, Distributor, Importer, Exporter, Retailer, and Terminal Operator Required to Secure License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A person may not engage in business within the jurisdiction of the Tribe as a refiner, supplier, distributor, importer, exporter, retailer, or terminal operator of special fuel unless that person holds an unrevoked license issued by the Commissioner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The person shall file an application for a license with the Commissioner providing such information as required by the Commissioner and on a form or in a format as required by the Commissioner.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>An applicant for a single or multiple license as a refiner, supplier, distributor, importer, exporter, or terminal operator shall pay to the commissioner a license fee of one hundred fifty dollars. The license fee must be paid at the time the application is made.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.050 was formerly codified as 41A.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0106</num>
+      <num>41A.01.060</num>
       <heading>Application for License; Issuance of License; Denial of License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Upon receipt and approval of an application for a license and the license fee, the Commissioner shall issue a license which shall be valid until it is suspended, revoked for cause, or otherwise canceled. The license is not transferable.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A multiple license must be issued to a person who applies and qualifies for more than one type of license.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commissioner may refuse to issue a license to a person who has failed to provide the information requested on the application, who previously held a license which was revoked by the Commissioner or any state, who is subterfuge for the real party In interest who previously held a license that was revoked by the Commissioner or any state, or upon other sufficient cause being shown.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.060 was formerly codified as 41A.0106</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0107</num>
+      <num>41A.01.070</num>
       <heading>Revocation of License; Hearing to Show Case; Reinstatement</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The commissioner may revoke a license for reasonable cause. Before revoking a license, the Tax Commissioner shall grant a hearing in accordance with the rules and regulations prescribed by the Tax Commission to allow the person to show cause why the license should not be revoked.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Before a new license may be issued to a person who is obligated to remit the tax imposed by <cite path="41A.01">this chapter</cite> and whose license was revoked, the person shall pay to the commissioner the amount of any delinquent tax, penalties, and interest remaining.</text>
+        <num>(b)</num>
+        <text>Before a new license may be issued to a person who is obligated to remit the tax imposed by <cite path="41A|41A.01">this chapter</cite> and whose license was revoked, the person shall pay to the commissioner the amount of any delinquent tax, penalties, and interest remaining.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.070 was formerly codified as 41A.0107</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0108</num>
+      <num>41A.01.080</num>
       <heading>Retention of Records; Subject to Inspection</heading>
       <text>A refiner, supplier, distributor, importer, exporter, terminal operator, and retailer shall maintain and retain records of all motor vehicle fuel refined, purchased, imported, or otherwise acquired within the jurisdiction of the Tribe; of all special fuel exported, sold, distributed, and used; and of all inventory records, for a period of not less than three (3) years. Inventory records include physical readings, metered readings of sales, delivery tickets, and delivery readings. The records are open to inspection by the Commissioner or by any agent or employee authorized by the Commission during regular business hours.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.080 was formerly codified as 41A.0108</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0109</num>
+      <num>41A.01.090</num>
       <heading>Reports by Refiner, Supplier, Distributor, Retailer, Importer, or Exporter Required</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A refiner, supplier, distributor, retailer, importer, or exporter shall file a monthly report with the Commissioner no later than the twenty-fifty day of each calendar month covering special fuel sold and used within the jurisdiction of the Tribe during the preceding calendar month. When the twenty-fifty day of the calendar month is on a Saturday, Sunday or legal holiday, the due date is the first working day after the Saturday, Sunday or legal holiday. When the report is filed by mail, the report is timely if the envelope containing the report is postmarked by the United States postal service or other postal carrier service before midnight of the due date.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The report to the Commission must be on a form prescribed and furnished by the Commissioner. This report must contain the information as required by the Commissioner including:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A detailed schedule of special fuel refined, purchased, imported, and exported.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>A detailed schedule of special fuel sold to a person eligible to purchase the special fuel without the tax imposed by <cite path="41A.01">this chapter</cite>.</text>
+          <num>(2)</num>
+          <text>A detailed schedule of special fuel sold to a person eligible to purchase the special fuel without the tax imposed by <cite path="41A|41A.01">this chapter</cite>.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A detailed schedule of special fuel sold tax-paid to a person for resale, including a list of persons who purchased the special fuel for resale.</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>The total number of gallons of special fuel sold and used subject to tax imposed by <cite path="41A.01">this chapter</cite>.</text>
+          <num>(4)</num>
+          <text>The total number of gallons of special fuel sold and used subject to tax imposed by <cite path="41A|41A.01">this chapter</cite>.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The total number of gallons of special fuel sold tax- exempt to a qualified consumer.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>The number of number of gallons of special fuel inventory at the beginning of the calendar month, the number of gallons in inventory at the close of the calendar month, and any gains or losses experienced.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(c)</num>
         <text>The report must be signed by the taxpayer to be valid and must contain a written declaration that it is made and subscribed under penalties of perjury. The Commissioner may prescribe alternative methods for signing, subscribing, or verifying a report filed by electronic means, including telecommunications, that shall have the same validity and consequence as the actual signature and written declaration for a paper return.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.090 was formerly codified as 41A.0109</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0110</num>
+      <num>41A.01.100</num>
       <heading>Common or Contract Carrier; License Required; Records; Diverted Loads; Commissioner to Audit Records</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A common or contract carrier shall obtain a license issued by the Commissioner. The application for a license must be made on a form prescribed by the Commissioner and contain the information required by the Commissioner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A common or contract carrier transporting special fuel in a vehicle, railcar, or vessel into the jurisdiction of the Tribe from another jurisdiction shall insure that a bill of lading indicating a destination within the jurisdiction of the Tribe has been issued by the terminal or bulk plant from which the fuel was removed. If the bill of lading issued by the terminal or the bulk plant indicates a destination outside the jurisdiction of the Tribe, the transporter shall issue a diversion ticket indicating within the jurisdiction of the Tribe.  If a bill of lading was not issued by the terminal or bulk plant, the transporter shall issue a bill of lading for each shipment indicating a destination within the Jurisdiction of the Tribe. A copy of a diversion ticket and bill of lading prepared by the transporter shall be mailed, faxed, or electronically transmitted to the Commissioner before the fuel enters the jurisdiction of the Tribe.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A common or contract carrier transporting special fuel within the jurisdiction of the Tribe shall provide a copy of the bill of lading accompanying the shipment, along with any drop load tickets and diversion tickets issued for the delivered fuel to the refiner, supplier, distributor, importer, retailer, or consumer to whom delivery of the shipment was made.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A refiner, supplier, distributor, importer, retailer or consumer may not knowingly accept delivery of special fuels into storage facilities within the jurisdiction of the Tribe if that delivery is not accompanied by a bill of lading or diversion ticket issued by the terminal operator, bulk plant operator, or transporter which specifically indicates a destination within the jurisdiction of the Tribe.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>If a common or contract carrier unloads only a portion of a shipment at a location or if the load is loaded at a location other than what is indicated in the bill of lading or diversion ticket, the transporter shall issue a drop ticket. If the fuel is dropped at more than one location, the drop load ticket must identify the name and address of all locations and type of fuel and gallonage dropped. A copy of the ticket must be maintained on board and a copy must accompany the bill of lading that is provided to the refiner, supplier distributor, importer, retailer, or consumer taking delivery of the fuel.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>The Commissioner may audit the records of the common or contract carrier. whether or not licensed by the Commissioner, and may impose such penalties as authorized by <cite path="41A.01">this chapter</cite>.</text>
+        <num>(f)</num>
+        <text>The Commissioner may audit the records of the common or contract carrier. whether or not licensed by the Commissioner, and may impose such penalties as authorized by <cite path="41A|41A.01">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.100 was formerly codified as 41A.0110</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0111</num>
+      <num>41A.01.110</num>
       <heading>Commissioner to Audit Report and Assess Tax</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commissioner, or an authorized representative, may audit the records, books, and papers and examine fuel and any equipment used to store, transport, or dispense fuel, or a refiner, supplier, distributor, importer, exporter, terminal operator, retailer, or common or contract carrier.  For a person required to file a report, the examination and audit must be done no later than three years after the due date of a report, or three years after the report was filed, whichever period expires later. The Commissioner is authorized to make assessments of tax, plus penalty and interest, or to issue credit or refunds as determined on the basis of the examination and audit.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If it is determined upon audit that the tax due was twenty-five percent or more above the amount reported on a report, the tax may be assessed, or a proceeding in court or the collection of the tax may be begun without such assessment, at anytime within six years after the due date of the report, or six years after the reports was filed, whichever period expires later.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>Except as otherwise provided in <cite path="41A.01">this chapter</cite>, the Commissioner may audit any consumer's claim for a refund of tax, and, not later than three years after the due date of the claim or three years after the claim was filed, whichever period expires later, assess additional tax or issue an additional refund. If additional tax is found due or if an additional tax refund applies, the Commissioner shall notify the claimant in detail of the reason for the increase or decrease.  For any claim selected for audit, the claimant shall provide additional verification as required by the Commissioner of fuel purchases, payment of the tax, use of the fuel for a purpose entitling the claimant to a refund, and use of the fuel other than in a licensed motor vehicle.</text>
+        <num>(c)</num>
+        <text>Except as otherwise provided in <cite path="41A|41A.01">this chapter</cite>, the Commissioner may audit any consumer's claim for a refund of tax, and, not later than three years after the due date of the claim or three years after the claim was filed, whichever period expires later, assess additional tax or issue an additional refund. If additional tax is found due or if an additional tax refund applies, the Commissioner shall notify the claimant in detail of the reason for the increase or decrease.  For any claim selected for audit, the claimant shall provide additional verification as required by the Commissioner of fuel purchases, payment of the tax, use of the fuel for a purpose entitling the claimant to a refund, and use of the fuel other than in a licensed motor vehicle.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>If a person gives false or fraudulent information in a tax report or in a claim for refund, or if the failure by a person to file a tax report due to the fraudulent intent or the willful attempt of the person to file a tax report is due to the fraudulent intent or the willful attempt of the person in any manner to evade the tax, the time limitations in <cite path="41A|41A.01|41A.0111">this section</cite> do not apply, and the tax may be assessed, or a proceeding in court for the collection of the tax may be begun without such assessment, at any time.</text>
+        <num>(d)</num>
+        <text>If a person gives false or fraudulent information in a tax report or in a claim for refund, or if the failure by a person to file a tax report due to the fraudulent intent or the willful attempt of the person to file a tax report is due to the fraudulent intent or the willful attempt of the person in any manner to evade the tax, the time limitations in <cite path="§41A.01.110">this section</cite> do not apply, and the tax may be assessed, or a proceeding in court for the collection of the tax may be begun without such assessment, at any time.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>If, before the expiration of the time prescribed in <cite path="41A.01">this chapter</cite> for the assessment of tax, the Commissioner and the person consent in writing to the extension of time for the assessment of the tax, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.</text>
+        <num>(e)</num>
+        <text>If, before the expiration of the time prescribed in <cite path="41A|41A.01">this chapter</cite> for the assessment of tax, the Commissioner and the person consent in writing to the extension of time for the assessment of the tax, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>A determination of additional tax due issued to a person fixes the tax finally and irrevocably unless the person against whom it is assessed, within thirty days after the giving of notice of the determination, protests the determination under rules adopted by the Tax Commission.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>A determination that a claim for a tax credit or refund is disallowed becomes finally and irrevocably fixed unless the person claiming the refund, and within thirty days after the giving of notice of the determination, protests the determination under rules adopted by the Tax Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.110 was formerly codified as 41A.0111</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0112</num>
+      <num>41A.01.120</num>
       <heading>Penalty and Interest; Violations</heading>
       <para>
-        <num>(1)</num>
-        <text>If a person fails to file the required report or to pay the full amount of the tax as required by <cite path="41A.01">this chapter</cite>, there is imposed a penalty of five dollars or a sum equal to five percent of the tax due, whichever is greater, with interest at the rate of one percent per month on the tax due, for each calendar month or fraction of a month during which the delinquency continues, excepting the month within which the tax became due. If a person files a false or fraudulent report with intent to evade the tax imposed by <cite path="41A.01">this chapter</cite>, there is imposed a penalty equal to ten percent of the deficiency, with interest at the rate of two percent per month on the deficiency, for each calendar month or fraction of a month during which the deficiency continues.</text>
+        <num>(a)</num>
+        <text>If a person fails to file the required report or to pay the full amount of the tax as required by <cite path="41A|41A.01">this chapter</cite>, there is imposed a penalty of five dollars or a sum equal to five percent of the tax due, whichever is greater, with interest at the rate of one percent per month on the tax due, for each calendar month or fraction of a month during which the delinquency continues, excepting the month within which the tax became due. If a person files a false or fraudulent report with intent to evade the tax imposed by <cite path="41A|41A.01">this chapter</cite>, there is imposed a penalty equal to ten percent of the deficiency, with interest at the rate of two percent per month on the deficiency, for each calendar month or fraction of a month during which the deficiency continues.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>If a consumer fails to pay any tax under <cite path="41A.01">this chapter</cite>, there shall be imposed a penalty of five dollars or a sum equal to five percent of the tax due, whichever is greater, together with interest at a rate of one percent per month on the tax due, for each calendar month or fraction of a month during which the delinquency continues, not including the month within which the tax became due. The Commissioner, for good cause shown, may waive all or a part of the penalty of the interest provided by this subsection. No refiner, supplier, distributor, importer, exporter, or retailer may be held liable for taxes due directly from a consumer.</text>
+        <num>(b)</num>
+        <text>If a consumer fails to pay any tax under <cite path="41A|41A.01">this chapter</cite>, there shall be imposed a penalty of five dollars or a sum equal to five percent of the tax due, whichever is greater, together with interest at a rate of one percent per month on the tax due, for each calendar month or fraction of a month during which the delinquency continues, not including the month within which the tax became due. The Commissioner, for good cause shown, may waive all or a part of the penalty of the interest provided by this subsection. No refiner, supplier, distributor, importer, exporter, or retailer may be held liable for taxes due directly from a consumer.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A person is guilty of a class A misdemeanor if:</text>
         <para>
-          <num>(a)</num>
-          <text>The person refuses or knowingly or intentionally fails to make and file any report required by <cite path="41A.01">this chapter</cite> in the manner or within the time required; or</text>
+          <num>(1)</num>
+          <text>The person refuses or knowingly or intentionally fails to make and file any report required by <cite path="41A|41A.01">this chapter</cite> in the manner or within the time required; or</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The person knowingly or with intent to evade or aid in the evasion of the tax imposed by <cite path="41A.01">this chapter</cite> makes any false statement or conceals any material fact in any application, record, report, or claim for a refund provided for in <cite path="41A.01">this chapter</cite>.</text>
+          <num>(2)</num>
+          <text>The person knowingly or with intent to evade or aid in the evasion of the tax imposed by <cite path="41A|41A.01">this chapter</cite> makes any false statement or conceals any material fact in any application, record, report, or claim for a refund provided for in <cite path="41A|41A.01">this chapter</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.120 was formerly codified as 41A.0112</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0113</num>
+      <num>41A.01.130</num>
       <heading>Determination If No Report Is Filed</heading>
-      <text>If a person, neglects, or refuses to file a special fuel tax report when due, the Commissioner shall, on the basis of available information, determine the tax liability for the period during which no return was filed, and to the tax thus determined shall add the penalty and interest. An assessment made under <cite path="41A|41A.01|41A.0113">this section</cite> is presumed to be correct, and in any case where the validity of the assessment is in question, the burden is on the person who challenges the assessment to establish by fair preponderance of evidence that it is erroneous or excessive.</text>
-      <annotations/>
+      <text>If a person, neglects, or refuses to file a special fuel tax report when due, the Commissioner shall, on the basis of available information, determine the tax liability for the period during which no return was filed, and to the tax thus determined shall add the penalty and interest. An assessment made under <cite path="§41A.01.130">this section</cite> is presumed to be correct, and in any case where the validity of the assessment is in question, the burden is on the person who challenges the assessment to establish by fair preponderance of evidence that it is erroneous or excessive.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.130 was formerly codified as 41A.0113</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0114</num>
+      <num>41A.01.140</num>
       <heading>Corporate Officer Liability</heading>
       <para>
-        <num>(1)</num>
-        <text>If a corporation holding a license issued under <cite path="41A.01">this chapter</cite> fails for any reason to file the required returns or to pay the tax due, the president, vice president, secretary, or treasurer, jointly or severally, having control or supervision of, or charged with the responsibility for making such returns and payments is personally liable for the failure. The dissolution of a corporation does not discharge an officer's liability for a prior failure of the corporation to make a return or remit the tax due. The sum due for such a liability may be assessed and collected under the provisions of <cite path="41A.01">this chapter</cite> for the assessment and collection of other liabilities.</text>
+        <num>(a)</num>
+        <text>If a corporation holding a license issued under <cite path="41A|41A.01">this chapter</cite> fails for any reason to file the required returns or to pay the tax due, the president, vice president, secretary, or treasurer, jointly or severally, having control or supervision of, or charged with the responsibility for making such returns and payments is personally liable for the failure. The dissolution of a corporation does not discharge an officer's liability for a prior failure of the corporation to make a return or remit the tax due. The sum due for such a liability may be assessed and collected under the provisions of <cite path="41A|41A.01">this chapter</cite> for the assessment and collection of other liabilities.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>If the corporate officers elect not to be personally liable for the failure to file the required returns or to pay the tax due, the corporation must be required to make a cash deposit.  The cash deposit provided for in <cite path="41A|41A.01|41A.0114">this section</cite> must be in an amount equal to the estimated annual special fuel tax liability of the corporation.</text>
+        <num>(b)</num>
+        <text>If the corporate officers elect not to be personally liable for the failure to file the required returns or to pay the tax due, the corporation must be required to make a cash deposit.  The cash deposit provided for in <cite path="§41A.01.140">this section</cite> must be in an amount equal to the estimated annual special fuel tax liability of the corporation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.140 was formerly codified as 41A.0114</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0115</num>
+      <num>41A.01.150</num>
       <heading>Governor and Manager Liability</heading>
       <para>
-        <num>(1)</num>
-        <text>If a limited liability company holding a license issued under <cite path="41A.01">this chapter</cite> fails for any reason to file the required returns or to pay the taxes due under <cite path="41A.01">this chapter</cite>, the governors or managers, jointly or severally, charged with the responsibility of supervising the preparation of such returns and payments are personally liable for such failure. The dissolution of a limited liability company does not discharge a governor's or manager's liability for a prior failure of the limited liability company to file a return or remit the tax due. The taxes, penalty, and interest may be assessed and collected pursuant to the provisions of <cite path="41A.01">this chapter</cite>.</text>
+        <num>(a)</num>
+        <text>If a limited liability company holding a license issued under <cite path="41A|41A.01">this chapter</cite> fails for any reason to file the required returns or to pay the taxes due under <cite path="41A|41A.01">this chapter</cite>, the governors or managers, jointly or severally, charged with the responsibility of supervising the preparation of such returns and payments are personally liable for such failure. The dissolution of a limited liability company does not discharge a governor's or manager's liability for a prior failure of the limited liability company to file a return or remit the tax due. The taxes, penalty, and interest may be assessed and collected pursuant to the provisions of <cite path="41A|41A.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>If the governors or managers elect not to be personally liable for the failure to file the required returns or pay the tax due, the limited liability company must be required to make a cash deposit.  The cash deposit provided for in <cite path="41A|41A.01|41A.0115">this section</cite> must be in an amount equal to the estimated annual special fuel tax liability of the limited liability company.</text>
+        <num>(b)</num>
+        <text>If the governors or managers elect not to be personally liable for the failure to file the required returns or pay the tax due, the limited liability company must be required to make a cash deposit.  The cash deposit provided for in <cite path="§41A.01.150">this section</cite> must be in an amount equal to the estimated annual special fuel tax liability of the limited liability company.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.150 was formerly codified as 41A.0115</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0116</num>
+      <num>41A.01.160</num>
       <heading>Erroneously or Illegally Collected Taxes</heading>
-      <text>If any taxes, penalties, or interest imposed by <cite path="41A.01">this chapter</cite> have barn erroneously or illegally collected from any person, the Commissioner may permit that person to take credit against a subsequent tax return for the amount of the erroneous or illegal overpayment. In the alternative, the Commissioner shall present a voucher to the Tribal Treasurer for payment of the amount erroneously or illegally collected.</text>
-      <annotations/>
+      <text>If any taxes, penalties, or interest imposed by <cite path="41A|41A.01">this chapter</cite> have barn erroneously or illegally collected from any person, the Commissioner may permit that person to take credit against a subsequent tax return for the amount of the erroneous or illegal overpayment. In the alternative, the Commissioner shall present a voucher to the Tribal Treasurer for payment of the amount erroneously or illegally collected.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.160 was formerly codified as 41A.0116</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0117</num>
+      <num>41A.01.170</num>
       <heading>Civil Action for Tax, Penalties and Interest</heading>
-      <text>In any case of the failure of a taxpayer to pay taxes imposed by <cite path="41A.01">this chapter</cite>, or penalties or interest due under <cite path="41A.01">this chapter</cite>, the amount due may be recovered in a civil action brought by the Tax Commission in the Turtle Mountain Tribal Court, or any other court of competent jurisdiction.  In any such action, if the Tribe prevails in whole or in part, the Tribe shall be entitled to recover its reasonable costs of bringing suit, including attorney's fees.</text>
-      <annotations/>
+      <text>In any case of the failure of a taxpayer to pay taxes imposed by <cite path="41A|41A.01">this chapter</cite>, or penalties or interest due under <cite path="41A|41A.01">this chapter</cite>, the amount due may be recovered in a civil action brought by the Tax Commission in the Turtle Mountain Tribal Court, or any other court of competent jurisdiction.  In any such action, if the Tribe prevails in whole or in part, the Tribe shall be entitled to recover its reasonable costs of bringing suit, including attorney's fees.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.170 was formerly codified as 41A.0117</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0118</num>
+      <num>41A.01.180</num>
       <heading>Administration; Assistance Authorized; Rules</heading>
-      <text>The Commissioner shall enforce the provisions of <cite path="41A.01">this chapter</cite>. The Commissioner may employ assistance and conduct investigations as may be necessary for the efficient administration and enforcement of <cite path="41A.01">this chapter</cite> and may adopt and enforce reasonable rules relating to the administration and enforcement of <cite path="41A.01">this chapter</cite>.</text>
-      <annotations/>
+      <text>The Commissioner shall enforce the provisions of <cite path="41A|41A.01">this chapter</cite>. The Commissioner may employ assistance and conduct investigations as may be necessary for the efficient administration and enforcement of <cite path="41A|41A.01">this chapter</cite> and may adopt and enforce reasonable rules relating to the administration and enforcement of <cite path="41A|41A.01">this chapter</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.180 was formerly codified as 41A.0118</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0119</num>
+      <num>41A.01.190</num>
       <heading>Rulemaking Authority</heading>
-      <text>The Tax Commission shall have the authority to prescribe, promulgate, and enforce written rules and regulations not inconsistent with <cite path="41A.01">this chapter</cite> for its detailed and efficient administration or to interpret or apply any Tribal tax laws as may be necessary to ascertain or compute the tax owing by any taxpayer or for the filing of any reports or returns required by any Tribal tax laws; or as shall be reasonably necessary for the efficient performance of its duties, or as may be required or permitted by law; or rules governing the conduct of hearings before the Tax Commission regarding any matters arising pursuant to <cite path="41A.01">this chapter</cite>.</text>
-      <annotations/>
+      <text>The Tax Commission shall have the authority to prescribe, promulgate, and enforce written rules and regulations not inconsistent with <cite path="41A|41A.01">this chapter</cite> for its detailed and efficient administration or to interpret or apply any Tribal tax laws as may be necessary to ascertain or compute the tax owing by any taxpayer or for the filing of any reports or returns required by any Tribal tax laws; or as shall be reasonably necessary for the efficient performance of its duties, or as may be required or permitted by law; or rules governing the conduct of hearings before the Tax Commission regarding any matters arising pursuant to <cite path="41A|41A.01">this chapter</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.190 was formerly codified as 41A.0119</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0120</num>
+      <num>41A.01.200</num>
       <heading>Adoption of Regulations</heading>
-      <text>No rule or regulation prescribed by the Tax Commission shall be effective until and unless such rule or regulation is deemed by the Treasurer as necessary to the efficient administration and enforcement of <cite path="41A.01">this chapter</cite>, and a certified copy of said rule or regulation bears the signature of the treasurer.</text>
-      <annotations/>
+      <text>No rule or regulation prescribed by the Tax Commission shall be effective until and unless such rule or regulation is deemed by the Treasurer as necessary to the efficient administration and enforcement of <cite path="41A|41A.01">this chapter</cite>, and a certified copy of said rule or regulation bears the signature of the treasurer.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.200 was formerly codified as 41A.0120</annotation>
+      </annotations>
     </section>
     <section>
-      <num>41A.0121</num>
+      <num>41A.01.210</num>
       <heading>Construction</heading>
-      <text><cite path="41A.01">This chapter</cite> shall be interpreted and applied in a manner consistent with all other codes, laws, ordinances, resolutions, and regulations of the Turtle Mountain Tribe.</text>
-      <annotations/>
+      <text><cite path="41A|41A.01">This chapter</cite> shall be interpreted and applied in a manner consistent with all other codes, laws, ordinances, resolutions, and regulations of the Turtle Mountain Tribe.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§41A.01.210 was formerly codified as 41A.0121</annotation>
+      </annotations>
     </section>
   </container>
 </container>

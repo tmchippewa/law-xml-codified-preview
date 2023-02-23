@@ -1,315 +1,341 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>57</num>
   <heading>Agriculture</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.01</num>
     <heading>General Provisions, Findings, and Purposes</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0101</num>
+      <num>57.01.010</num>
       <heading>Name. Department of Agriculture</heading>
-      <text>This enactment shall be known as the Department of Agriculture establishment Act and <cite path="57">this Title</cite> shall be codified as "Agriculture".</text>
-      <annotations/>
+      <text>This enactment shall be known as the Department of Agriculture establishment Act and <cite path="57">this title</cite> shall be codified as "Agriculture".</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.01.010 was formerly codified as 57.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0102</num>
+      <num>57.01.020</num>
       <heading>Findings</heading>
       <text>The Turtle Mountain Band of Chippewa ("Tribe") finds and declares that:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Sovereignty requires the Tribe to advance and protect economic opportunities for the Tribe and its members through the regulation of agricultural products, food &amp; medicines produced for the market and consumed by the public, including; extending legal protections to the many natural and human resources utilized to gather, produce, and market agricultural products.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A Department of Agriculture is necessary to govern agriculture systematically and comprehensively in order to safeguard the health and general welfare of the Turtle Mountain Tribe, its culture, its economy, its natural resources, and all persons would use such products.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Sovereignty requires the Tribe to grow the Tribal food and medicine economy for local Native producers and business ventures at every stage of this Agriculture enterprise including but not limited to: production, gathering, processing, packaging, marketing, storing, transporting, retailing, and reclaiming.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A private sector of the agriculture system is necessary to facilitate innovation and fair competition in every aspect of the agriculture enterprise, including production, gathering, processing, packaging, marketing, storing, transporting, retailing, and reclaiming.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>The Tribal Council understands that the substantive part of <cite path="57">this Title</cite> authorizing food regulation is still in the development stage and will be added to <cite path="57">this Title</cite> upon being duly enacted by the Council.</text>
+        <num>(e)</num>
+        <text>The Tribal Council understands that the substantive part of <cite path="57">this title</cite> authorizing food regulation is still in the development stage and will be added to <cite path="57">this title</cite> upon being duly enacted by the Council.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.01.020 was formerly codified as 57.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0103</num>
+      <num>57.01.030</num>
       <heading>Purposes. the Purposes of This Enactment Are:</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To establish a Department of Agriculture to regulate all agriculture in the territory of the Tribe and to manage all agriculture-related commerce and business in the territory of the Tribe for the primary purpose of assisting and facilitating, not inhibiting, economic development by and for tribal members;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To authorize the Department of Agriculture to establish an arm within the Department which shall operate all agri-business activities of the Tribe;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To authorize public and private partnerships between the Department agri-business entities and private entrepreneurs through contracting and procurement;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>To facilitate the use of real property, regardless of trust or fee status, including fractionated interests deriving from allotment and allotted lands, however large or small, to revitalize the production and gathering of traditional indigenous foods, plants, medicines and other products;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>To re-engage the People with traditional lifeways, with each other, and with the land; and</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>To establish a Title and Chapters in the Code for codifying these provisions.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.01.030 was formerly codified as 57.0103</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.02</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0201</num>
+      <num>57.02.010</num>
       <heading>Definitions</heading>
-      <text>Unless a term is defined in <cite path="57|57.02|57.0201">this section</cite>, the terms used in <cite path="57.02">this chapter</cite> shall have the meanings as defined in the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Food, Drug, and Cosmetics Act (FDCA).</text>
+      <text>Unless a term is defined in <cite path="§57.02.010">this section</cite>, the terms used in <cite path="57|57.02">this chapter</cite> shall have the meanings as defined in the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Food, Drug, and Cosmetics Act (FDCA).</text>
       <para>
-        <num>(1)</num>
-        <text>Active License – the term "Active License" shall mean a license duly issued by the Department pursuant to <cite path="57">this Title</cite> and which has not expired.</text>
+        <num>(a)</num>
+        <text>Active License – the term "Active License" shall mean a license duly issued by the Department pursuant to <cite path="57">this title</cite> and which has not expired.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Commission – the term "Commission" shall refer to the Agriculture Commission established by <cite path="57.02">this Chapter</cite>.</text>
+        <num>(b)</num>
+        <text>Commission – the term "Commission" shall refer to the Agriculture Commission established by <cite path="57|57.02">this chapter</cite>.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Department – the term "Department" shall refer to the Department of Agriculture established by Title 57.03.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Director – the term "Director" shall refer to the Director of the Department of Agriculture.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>License – the term "License" shall refer to a license issued by the Department pursuant to <cite path="57">this Title</cite>.</text>
+        <num>(e)</num>
+        <text>License – the term "License" shall refer to a license issued by the Department pursuant to <cite path="57">this title</cite>.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>Licensee – The term "Licensee" shall mean a person or entity holding an Active License from the Department under <cite path="57">this Title</cite>.</text>
+        <num>(f)</num>
+        <text>Licensee – The term "Licensee" shall mean a person or entity holding an Active License from the Department under <cite path="57">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.02.010 was formerly codified as 57.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.03</num>
     <heading>Department of Agriculture; Creation, Duties, and Powers</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0301</num>
+      <num>57.03.010</num>
       <heading>Creation</heading>
       <text>There is hereby created a Department of Agriculture.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.03.010 was formerly codified as 57.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0302</num>
+      <num>57.03.020</num>
       <heading>Composition of the Department</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Department of Agriculture shall be led by one Director. The Director shall possess relevant experience, education, training, and expertise in agriculture production, agriculture market development, and agricultural food and life sciences, to properly carry out the duties of the Department, oversee and develop a staff for the Department, and carry out the administrative and executive responsibilities related to agriculture, food, natural medicines, nutrition, and life sciences.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Department shall be comprised of several subordinate Divisions as established by the Council by law which shall be led by Deputy Directors as determined. At a minimum, a Deputy Director shall possess a minimum 2-year degree in agriculture related subjects, such as horticulture, organic chemistry, soil sciences, wildlife sciences, environmental science, or natural resources.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Department shall be comprised of the following Divisions and Deputy Directors:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Division of Compliance and Enforcement</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Division of Agri-Business</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Division of Hemp (Title 57)</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Division of Medical Marijuana (Title 56)</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Division of Timber and Wood Products</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Division of Soil, Plants and Medicines</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Division of Food and Nutrition, which shall include Programs or Offices of Food Agriculture, Commodity Food Distribution, and Food Sovereignty.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(d)</num>
         <text>The Director, Deputy Directors, and all staff shall be paid employees of the Tribe and shall be paid a compensation commensurate with the Human Resource Code and Manual, in accordance with their duties and qualifications.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.03.020 was formerly codified as 57.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0303</num>
+      <num>57.03.030</num>
       <heading>Powers and Duties of the Department</heading>
       <para>
-        <num>(1)</num>
-        <text>The Department shall carry out the requirements of <cite path="57">this Title</cite> and all regulations which have been duly promulgated by the Commission.</text>
+        <num>(a)</num>
+        <text>The Department shall carry out the requirements of <cite path="57">this title</cite> and all regulations which have been duly promulgated by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Department is hereby authorized to act as both a public agency of the Tribe with the authority to regulate agriculture and also to house one agri-business holding company which shall hold and manage all tribally-owned agri-business ventures and interests. The processing of medical marijuana pursuant to Title 56 shall be conducted only by a business entity owned, controlled, and regulated by the Tribe and the processing of hemp shall be conducted exclusively by a business entity owned, controlled, and regulated by the Tribe for a period of five years from commencing operations, at which time processing of hemp shall become available for licensing under <cite path="57">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>The Department is hereby authorized to act as both a public agency of the Tribe with the authority to regulate agriculture and also to house one agri-business holding company which shall hold and manage all tribally-owned agri-business ventures and interests. The processing of medical marijuana pursuant to Title 56 shall be conducted only by a business entity owned, controlled, and regulated by the Tribe and the processing of hemp shall be conducted exclusively by a business entity owned, controlled, and regulated by the Tribe for a period of five years from commencing operations, at which time processing of hemp shall become available for licensing under <cite path="57">this title</cite>.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>A tribally-owned agri-business shall be required to obtain a License under <cite path="57">this Title</cite> in the same manner as any other entity or tribal member.</text>
+        <num>(c)</num>
+        <text>A tribally-owned agri-business shall be required to obtain a License under <cite path="57">this title</cite> in the same manner as any other entity or tribal member.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Department shall keep the government and business functions of the Department separate within the Department. If the Tribe establishes a Tribe-wide umbrella holding company, the Department shall work with the umbrella holding company to facilitate agri-business.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Director shall be under the general supervision of, and shall report directly to, the Chairman of the Tribe.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Director or their delegate shall attend every meeting of the Commission.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>The Department shall have the power to approve or deny the issuance of any license or permit required under <cite path="57">this Title</cite> and to impose fines and other penalties authorized by <cite path="57">this Title</cite>. A Licensee under <cite path="57">this Title</cite> shall be required to comply with any and all other applicable licensing requirements of the Tribe.   All activity regulated under <cite path="57">this Title</cite> shall only be conducted with an active license from the Department.  No person shall conduct any activity regulated by <cite path="57">this Title</cite> without an active license issued by the Department. Any adverse decision by the Department shall be subject to appeal to the Commission by the specifically affected party and the Commission's decision shall be final for purposes of judicial review in Tribal Court.</text>
+        <num>(g)</num>
+        <text>The Department shall have the power to approve or deny the issuance of any license or permit required under <cite path="57">this title</cite> and to impose fines and other penalties authorized by <cite path="57">this title</cite>. A Licensee under <cite path="57">this title</cite> shall be required to comply with any and all other applicable licensing requirements of the Tribe.   All activity regulated under <cite path="57">this title</cite> shall only be conducted with an active license from the Department.  No person shall conduct any activity regulated by <cite path="57">this title</cite> without an active license issued by the Department. Any adverse decision by the Department shall be subject to appeal to the Commission by the specifically affected party and the Commission's decision shall be final for purposes of judicial review in Tribal Court.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Department shall be responsible for developing a vigorous grant and technical assistance portfolio through the building of key relationships with experts in the fields of both food and agriculture. The Department shall develop a portfolio of cooperative agreements and other contractual relationships appropriate to the functions of the Department that will ensure the proper administration of the Department's programs and authorities.</text>
       </para>
       <para>
-        <num>(9)</num>
-        <text>The Department shall maintain agreements with individuals and entities with the expertise, knowledge, and experience associated with the execution of <cite path="57">this Title</cite>.</text>
+        <num>(i)</num>
+        <text>The Department shall maintain agreements with individuals and entities with the expertise, knowledge, and experience associated with the execution of <cite path="57">this title</cite>.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>The Department shall maintain intergovernmental relationships with USDA, EPA, FDA, the North Dakota State Department of Agriculture, Educational institutions and any other relevant tribal, federal, state, and local regulatory bodies involved in food, traditional medicines, and agriculture.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>The Director and the Commission President shall provide any report or testimony, written or oral, to the Tribal Council in a manner determined by vote of the Tribal Council.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>The Department shall research and develop an intra-tribal business cooperative in conjunction with tribal members and tribal member-owned businesses dealing with any phase of agricultural product enterprise.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>The Department shall research and develop an inter-tribal business cooperative agreement in conjunction with other tribes to facilitate any phase of agricultural product enterprise.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>The Department is hereby authorized and required to develop integrated management plans for agriculture-related resources.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>The Department is hereby authorized to establish research and development protocols and projects with the Turtle Mountain Community College and other educational institutions on agriculture-related matters in compliance with the Research Protection Act.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>The Department is hereby required to develop agreements and protocols with relevant law enforcement agencies.</text>
       </para>
       <para>
-        <num>(17)</num>
-        <text>The Department is hereby authorized and required to enforce compliance with <cite path="57">this Title</cite> against any person or entity.</text>
+        <num>(q)</num>
+        <text>The Department is hereby authorized and required to enforce compliance with <cite path="57">this title</cite> against any person or entity.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.03.030 was formerly codified as 57.0303</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.04</num>
     <heading>Agriculture Commission and Advisory Board; Creation, Duties, and Powers.</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0401</num>
+      <num>57.04.010</num>
       <heading>Advisory Board for the Commission</heading>
-      <text>There is hereby required an Advisory Board for the Commission.  The Advisory Board shall be comprised of all persons holding an active License under <cite path="57">this Title</cite>.</text>
-      <annotations/>
+      <text>There is hereby required an Advisory Board for the Commission.  The Advisory Board shall be comprised of all persons holding an active License under <cite path="57">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.010 was formerly codified as 57.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0402</num>
+      <num>57.04.020</num>
       <heading>Commission of Agriculture; Creation</heading>
-      <text>There is hereby created an Agriculture Commission.  If any provision of <cite path="57.04">this Chapter</cite> shall be deemed to be in conflict with any other provisions of this Code, the provisions of <cite path="57.04">this Chapter</cite> shall supersede and control unless otherwise expressly provided. The Commission established under <cite path="57.04">this Chapter</cite> shall be the commission for all Divisions in the Department.</text>
-      <annotations/>
+      <text>There is hereby created an Agriculture Commission.  If any provision of <cite path="57|57.04">this chapter</cite> shall be deemed to be in conflict with any other provisions of this Code, the provisions of <cite path="57|57.04">this chapter</cite> shall supersede and control unless otherwise expressly provided. The Commission established under <cite path="57|57.04">this chapter</cite> shall be the commission for all Divisions in the Department.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.020 was formerly codified as 57.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0403</num>
+      <num>57.04.030</num>
       <heading>Composition of the Commission</heading>
       <text>The Commission shall consist of five (5) members, including one President and four Associate Commissioners.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.030 was formerly codified as 57.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0404</num>
+      <num>57.04.040</num>
       <heading>Selection of Commissioners</heading>
-      <text>The Chairman of the Tribe shall select the initial President of the Commission.  The Council shall make the initial selection of the four Associate Commissioners by Resolution. If Tribal Council does not make the initial selections within 60 days of passage of <cite path="57">this Title</cite>, then the Chairman shall appoint all initial Commissioners. Any Commissioner can be removed with good cause by the Tribal Council, or by the Tribal Chairman for cause. Absence from three consecutive Regular Monthly meetings shall be cause for removal.  Absence for five Regular Monthly meetings will be deemed an automatic vacancy.</text>
-      <annotations/>
+      <text>The Chairman of the Tribe shall select the initial President of the Commission.  The Council shall make the initial selection of the four Associate Commissioners by Resolution. If Tribal Council does not make the initial selections within 60 days of passage of <cite path="57">this title</cite>, then the Chairman shall appoint all initial Commissioners. Any Commissioner can be removed with good cause by the Tribal Council, or by the Tribal Chairman for cause. Absence from three consecutive Regular Monthly meetings shall be cause for removal.  Absence for five Regular Monthly meetings will be deemed an automatic vacancy.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.040 was formerly codified as 57.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0405</num>
+      <num>57.04.050</num>
       <heading>Vacancies on the Commission</heading>
-      <text>The Advisory Board established in <cite path="57.04">this Chapter</cite> shall create and maintain a list of twenty names used to fill vacancies on the Commission. To fill a vacancy on the Commission, the Tribal Chairman shall select a name from the list, subject to approval or disapproval by the Tribal Council. If Tribal Council does not approve or disapprove the Chairman's selection within thirty days, the appointment shall be deemed approved.</text>
-      <annotations/>
+      <text>The Advisory Board established in <cite path="57|57.04">this chapter</cite> shall create and maintain a list of twenty names used to fill vacancies on the Commission. To fill a vacancy on the Commission, the Tribal Chairman shall select a name from the list, subject to approval or disapproval by the Tribal Council. If Tribal Council does not approve or disapprove the Chairman's selection within thirty days, the appointment shall be deemed approved.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.050 was formerly codified as 57.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0406</num>
+      <num>57.04.060</num>
       <heading>Creation of Staff</heading>
       <text>The Commission is hereby authorized to employ staff with relevant qualifications to assist with the duties of the Commission.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.060 was formerly codified as 57.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0407</num>
+      <num>57.04.070</num>
       <heading>Powers and Duties of the Commission</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall act as a unit and all actions of the Commission shall be pursuant to a vote of the Commission. No individual Associate Commissioner shall have the power to act unilaterally on behalf of the Commission.  The President of the Commission shall act on behalf of the Commission to see that all actions of the Commission are properly communicated and carried out.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission is hereby authorized and required to promulgate regulations governing agriculture, both public and private, within the territory and or otherwise subject to the jurisdiction of the Tribe. Such rules and regulations must comport with all applicable tribal law.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The Commission is hereby authorized and required to promulgate regulations governing all licensing matters under <cite path="57">this Title</cite>, including but not limited to application requirements, suspension, revocation, and renewal.</text>
+        <num>(c)</num>
+        <text>The Commission is hereby authorized and required to promulgate regulations governing all licensing matters under <cite path="57">this title</cite>, including but not limited to application requirements, suspension, revocation, and renewal.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The Commission is hereby authorized and required to ensure that the Department and all Licensees shall act in compliance with <cite path="57">this Title</cite> and any other applicable laws.</text>
+        <num>(d)</num>
+        <text>The Commission is hereby authorized and required to ensure that the Department and all Licensees shall act in compliance with <cite path="57">this title</cite> and any other applicable laws.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission is hereby authorized, following basic requirements of due process, to hear appeals of any denial of license or permit by the Department and any fine or other penalty imposed by the Department and to reverse the decision of the Department, which shall be binding upon the Department.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>Any researcher associated with or operating under an institution of higher education under the control of the Tribe is exempt from obtaining a license described under <cite path="57|57.03|57.0303">section 57.0303</cite> to grow hemp. A researcher shall notify the Commission and the Director in writing of the researcher's intent to plant hemp and provide the following information to the Commission: a. The name and contact information of the primary investigator; and b. The legal description of all land where hemp will be grown as part of the project. The research institution shall ensure the principal investigator and all other project participants meet the criminal history background requirements and all requirements of the Research Protection Act.</text>
+        <num>(f)</num>
+        <text>Any researcher associated with or operating under an institution of higher education under the control of the Tribe is exempt from obtaining a license described under <cite path="§57.03.030">Section 57.03.030</cite> to grow hemp. A researcher shall notify the Commission and the Director in writing of the researcher's intent to plant hemp and provide the following information to the Commission: a. The name and contact information of the primary investigator; and b. The legal description of all land where hemp will be grown as part of the project. The research institution shall ensure the principal investigator and all other project participants meet the criminal history background requirements and all requirements of the Research Protection Act.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>The Commission shall adopt written procedures on the internal operations of the Commission.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission shall have responsibility to regulate commercial activities regarding the following subject matters, including but not limited to:</text>
         <para>
           <num>(1)</num>
@@ -408,58 +434,72 @@
           <text>Buffalo and other animals raised for food or physiological medicine</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.070 was formerly codified as 57.0407</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0408</num>
+      <num>57.04.080</num>
       <heading>Meetings</heading>
       <text>The Commission shall hold one monthly Regular Meeting and may hold Special Meetings as needed.  All hearings of appeals shall be conducted at a monthly Regular Meeting.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.080 was formerly codified as 57.0408</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0409</num>
+      <num>57.04.090</num>
       <heading>Compensation</heading>
       <text>The President of the Commission and Associate Commissioners shall be compensated per meeting in accordance with applicable law.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.090 was formerly codified as 57.0409</annotation>
+      </annotations>
     </section>
     <section>
-      <num>57.0410</num>
+      <num>57.04.100</num>
       <heading>Staggered Terms of Office for Commissioners</heading>
       <text>The initial terms of office for all positions on the Commission shall begin at the same time.  The initial term of President shall be four years, and the initial term for two Associate Commissioners shall be four years and the initial term for the remaining two Associate Commissioners shall be two years.  The terms of office of the President and Associate Commissioners shall be four years thereafter.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.04.100 was formerly codified as 57.0410</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.05</num>
     <heading>Sovereign Immunity</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0501</num>
+      <num>57.05.010</num>
       <heading>No Delegated Authority to Waive Sovereign Immunity of the Tribe</heading>
       <text>The Department and its affiliated businesses, the Commission, and any of their officers, employees, or Licensees shall not have the authority to waive the sovereign immunity or any other privilege or immunity of the Tribe without the express consent of the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§57.05.010 was formerly codified as 57.0501</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.06</num>
     <heading>Severability and Repeal</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0601</num>
+      <num>57.06.010</num>
       <heading>Severability and Repeal</heading>
-      <text>The provisions of <cite path="57">this Title</cite> are severable and if any part or provision shall be held void, the remaining parts or provisions shall remain in full force and effect.</text>
-      <annotations/>
+      <text>The provisions of <cite path="57">this title</cite> are severable and if any part or provision shall be held void, the remaining parts or provisions shall remain in full force and effect.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.06.010 was formerly codified as 57.0601</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>57.07</num>
     <heading>Funding</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>57.0701</num>
+      <num>57.07.010</num>
       <heading>Authorization, Budget, and Appropriation and Grant Seeking</heading>
-      <text>The authorization for all expenditures in <cite path="57">this Title</cite> shall be valid through 2031, with any funding from the Tribe contingent upon the Annual Budget and Appropriation of funding. The Department of Agriculture shall seek grant funding to perpetuate the execution of <cite path="57">this Title</cite>.</text>
-      <annotations/>
+      <text>The authorization for all expenditures in <cite path="57">this title</cite> shall be valid through 2031, with any funding from the Tribe contingent upon the Annual Budget and Appropriation of funding. The Department of Agriculture shall seek grant funding to perpetuate the execution of <cite path="57">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§57.07.010 was formerly codified as 57.0701</annotation>
+      </annotations>
     </section>
   </container>
 </container>

@@ -1,320 +1,356 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>33</num>
   <heading>Motor Vehicle Registration and Title Ordinance</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.01</num>
     <heading>Establishment of Division of Motor Vehicles; Findings and Purpose</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0101</num>
+      <num>33.01.010</num>
       <heading>Authority; Establishment of Division of Motor Vehicles</heading>
       <text>The Turtle Mountain Band of Chippewa Indians is a federally-recognized Indian Tribe, acting through its elected Turtle Mountain Tribal Council pursuant to its inherent sovereign governmental authority and the enumerated powers under the <cite doc="Turtle Mountain Constitution and By-laws">Constitution of the Turtle Mountain Band of Chippewa Indians</cite>, hereby creates and establishes the Division of Motor Vehicles of the Turtle Mountain Band of Chippewa Indians, and enacts this Motor Vehicle Registration and  Title Ordinance governing registration of a title to vehicles owned by  members of the Turtle Mountain Indian Reservation Service Area, Rolette County, North Dakota.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.01.010 was formerly codified as 33.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0102</num>
+      <num>33.01.020</num>
       <heading>Legislative Findings</heading>
       <text>The Tribal Council finds that members within the Tribal Service Area own, enter and operate vehicles upon the Reservation, its highways, roads, streets, alleys and driveways, and through the exercise of such privilege derive substantial benefit from the Reservation highways, law enforcement, laws and ordinances of the Tribe, and governmental services and benefits provided by the tribal government. The Tribal Council further finds that the ownership and use of vehicles upon the Reservation by those who reside within the Reservation boundaries have a substantial and direct effect upon the economic security, health, welfare and general well-being of the Tribe, its members within the Tribal Service Area and that licensing and registration of such motor vehicles by the Tribe is a necessary and proper exercise of the sovereign authority of the Tribe, and that such ownership and use of vehicles upon the Reservation is deemed a consent to the civil legislative and adjudicatory jurisdiction of the Tribe and the Tribal Court over such persons for all purposes arising from such ownership and use. The Tribal Council further finds that registration and licensing of such vehicles operating within the Tribal Service Area is a proper and essential exercise of the governmental functions of the Tribe and that licensing and registration of such vehicles by the State of North Dakota infringes upon the right of the Tribe to make its own laws and be governed by them and threatens the political integrity and self-government interests of the Tribe.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.01.020 was formerly codified as 33.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0103</num>
+      <num>33.01.030</num>
       <heading>Purpose</heading>
       <text>It is the purpose of the Tribe in enacting this Ordinance to provide for the orderly registration and licensing of vehicles owned by members of the Reservation and located or operated within the public roads and highways of tribal jurisdiction, to assist law enforcement in identifying the owners of such vehicles, to prevent fraudulent transfers, theft, conversion, or other wrongful transactions or use of vehicles, to provide positive identification of vehicles within the Reservation in cases of emergency, to provide revenue to the Tribe through taxation and the levying of fees and charges for the privilege of operating vehicles within the Service Area, to allow for the orderly transfer of title and other commercial transactions involving vehicles, including the giving of security to secure loans or other advances, and for other purposes. The regulation of licensing and registration of vehicles owned by members within the Service Area under this Ordinance; is exclusive, however, the Provision of this Ordinance shall remain voluntary to tribal members.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.01.030 was formerly codified as 33.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0104</num>
+      <num>33.01.040</num>
       <heading>Director of Motor Vehicles</heading>
       <text>The Tribal Council hereby establishes the position of Director of Motor Vehicles for the purpose of implementing and enforcing the provisions of this Ordinance. The Tribal Director of Motor Vehicles shall be a full-time paid employee of the Tribe and shall be subject to all applicable provisions of the Tribal Personnel Policy Manual. The Director shall exercise all authority provided for under this Ordinance, or as may be delegated to the Director by the Tribal Council by appropriate action.  The Director shall have such budget, staff, equipment and facilities as the Council may deem appropriate and necessary to carry out the duties under this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.01.040 was formerly codified as 33.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0105</num>
+      <num>33.01.050</num>
       <heading>Rules and Regulations</heading>
       <text>The Director may propose for enactment by the Council such written rules and regulations as are necessary to carry out the orderly implementation and enforcement of this Ordinance, including but not limited to rules and regulations relating to operational procedures of the Director and staff, interpretation upon application of the Ordinance as may be necessary to carry out its purposes, and any other matters deemed necessary by the Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.01.050 was formerly codified as 33.0105</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.02</num>
     <heading>General</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0201</num>
+      <num>33.02.010</num>
       <heading>Definitions</heading>
       <text>In this Ordinance the following words have the designated meanings unless a different meaning is expressly provided or the context clearly indicates a different meaning:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"DIRECTOR" means the Director of Motor Vehicles of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"HIGHWAY" means any road or roadway, whether public or private, within the Service Area, which is open to the public for vehicular travel, including all public highways of the State of North Dakota, county roads, Bureau of Indian Affairs roads, tribal roads, streets, alleys and driveways.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"MEMBER" means an <u>enrolled </u>member of the Turtle Mountain Band of Chippewa Indians living within the defined Reservation Service Area of Rolette County, North Dakota.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"MOTOR VEHICLE" means any vehicle which is self-propelled, including snowmobiles, motorcycles and all-terrain vehicles (ATV's).</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"OWNER" means a person who holds legal title to a vehicle.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"PERSON" means any natural individual or person, and also any corporation, partnership, association, cooperative whether incorporated or not, joint stock association, business trust, or other identifiable entity, and shall for purposes of this Ordinance, include the Tribe and any political or economic subordinate entity created by the Tribe within defined Service Area.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"RESERVATION" means the Turtle Mountain Indian Reservation, in the State of North Dakota and all lands as may be acquired by or in behalf of the Tribe and be added to such Reservation under the laws of the United States. For the purpose of this Ordinance, the Tribal jurisdictional area is limited to lands in Rolette County.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"MEMBER" means all permanently residing within the outer service area of Rolette County, North Dakota.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"TRIBE" means the Turtle Mountain Band of Chippewa Indians of the Turtle Mountain Indian Reservation, North Dakota.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>"ROADWAY" means that portion of a highway improved, designed, or ordinarily used for vehicular traffic, exclusive of the berm or shoulder. In the event a highway includes two or more separate roadways, the term "roadway" as used herein shall refer to any such roadway separately but not to all roadways collectively.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>"VEHICLE" means every device in, upon or by which any Indian or property is or may be transported or drawn upon a highway, horse trailers, etc.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>"LEASED VEHICLES FEES" are based on type of vehicle being leased. When registering a leased vehicle, a new title will be issued. Naming the leasing company as the Lessor and the name of the enrolled Tribal Member as lessee. The Lessor shall further be identified as the first lien holder.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>"SPECIAL PLATES FOR PHYSICALLY HANDICAPPED" The Director of the Tribal Motor Vehicle Department shall issue, upon application and payment of the regular fee, plates marked with a special identifying insignia or symbol making them distinctly different from other number plates, to any physically handicapped applicant upon submission by the applicant of a certificate issued by a qualified physical to the Director that the applicant is a physically handicapped person.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>"PARKING PRIVILEGES FOR PHYSICALLY HANDICAPPED" A mobility impaired window permit with recipient's name will be issued to all qualifying applicants. This permit must be displayed on the left-hand dashboard of the motor vehicle whenever the vehicle is occupying a space reserved for the mobility impaired.  The permit may be transferred from vehicle to vehicle.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.010 was formerly codified as 33.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0202</num>
+      <num>33.02.020</num>
       <heading>Use of Highways; Privilege</heading>
       <text>Entry upon the jurisdiction of the Turtle Mountain Tribe and the use of its highways is a privilege, the exercise of which is subject to reasonable conditions established by the Tribe. Nothing contained in this Ordinance shall be deemed to be a grant of any right to any person to enter or remain upon tribal jurisdiction or to use the highways of the Reservation unless otherwise permitted by applicable law.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.020 was formerly codified as 33.0202</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0203</num>
+      <num>33.02.030</num>
       <heading>Consent to Jurisdiction</heading>
       <text>Every "person," defined by this Ordinance who is a legal resident of the Reservation, and who owns or operates any vehicle within the boundaries of the Reservation, by the exercise of such privilege, shall be deemed to have consented to the regulatory and adjudicatory jurisdiction of the Tribe and the Tribal Court for all purposes relating to or arising under this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.030 was formerly codified as 33.0203</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0204</num>
+      <num>33.02.040</num>
       <heading>Statute of Limitations</heading>
       <text>No action upon an infraction under this Ordinance shall be maintained unless the action shall have been commenced within three (3) months of the commission of the infraction, provided that absence from the Reservation shall not count in computing the three (3) month period.</text>
       <text>No prosecution of an offense under this Ordinance shall be maintained unless the action shall have been commenced within one (1) year of the commission of the offense, provided that absence from the Reservation shall not count in computing the one (1) year period.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.040 was formerly codified as 33.0204</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0205</num>
+      <num>33.02.050</num>
       <heading>Enforcement Officers to Report Accidents</heading>
       <text>Every Reservation Law Enforcement Officer who, in the regular course of duty, investigates a motor vehicle accident either at the time of and at the scene of the accident or thereafter by interviewing the participants of witnesses shall, within 24 hours after completing such investigation, forward a written report of such accident to the Chief of Police who shall immediately thereafter give such accident report to the Director of the Motor Vehicle Department.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.050 was formerly codified as 33.0205</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0206</num>
+      <num>33.02.060</num>
       <heading>Fines Not Otherwise Prescribed</heading>
       <text>Any person who is found to have committed an infraction enumerated in this Ordinance for which a civil fine is not otherwise prescribed shall be subject to a civil fine of not more than $50.00 for each such infraction, and the</text>
       <text>Tribal Council shall take into consideration any circumstances urged for imposition of a civil fine of lesser amount.</text>
-      <text>Any member who is convicted of an offense enumerated in this Ordinance for which the fine is not otherwise prescribed shall be sentenced under <cite path="33|33.02|33.0206">this section</cite> to a fine or not more than $50.00 for each such offense, and the Tribal Court shall take into consideration any circumstances urged for the imposition of a criminal fine or lesser amount.</text>
-      <annotations/>
+      <text>Any member who is convicted of an offense enumerated in this Ordinance for which the fine is not otherwise prescribed shall be sentenced under <cite path="§33.02.060">this section</cite> to a fine or not more than $50.00 for each such offense, and the Tribal Court shall take into consideration any circumstances urged for the imposition of a criminal fine or lesser amount.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§33.02.060 was formerly codified as 33.0206</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.03</num>
     <heading>Registration</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0301</num>
+      <num>33.03.010</num>
       <heading>Vehicle Registration Required; Exemption</heading>
       <text>All vehicles owned by members of the Reservation must be registered annually with the Tribe unless exempted by 33.0301(2) or 33.0309. For the purpose of this Ordinance, Tribal members can voluntarily choose Tribal license registration, however, tribal members must have either a tribal or registration of another legal entity.</text>
-      <text>Registration under this Ordinance must be renewed each year pursuant to the requirements of <cite path="33.03">this Chapter</cite>.  Application for renewal must be received by the Director on a yearly basis.</text>
+      <text>Registration under this Ordinance must be renewed each year pursuant to the requirements of <cite path="33|33.03">this chapter</cite>.  Application for renewal must be received by the Director on a yearly basis.</text>
       <text>A vehicle, even though operated upon a highway of the Reservation, is exempt from registration when said vehicle:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>is a non-resident or foreign registered vehicle exempt from registration pursuant to 33.0309 or;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>is a farm vehicle used exclusively in or incidental to agricultural operations or;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>is a trailer or semi-trailer permanently equipped with a well-drilling outfit and used exclusively for such purposes or;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>is a forklift truck, a specially constructed road or truck tractor used for shunting trailers or semi-trailers in terminal areas or a trailer which is used principally off the highway or;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>is a trailer or semi-trailer having a gross weight of 3,000 pounds or less and not used for hire or;</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>is a trailer or semi-trailer not operated in conjunction with a motor vehicle or;</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>is a motor vehicle being towed or;</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>is a piece of road machinery or;</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>is a motor truck which is operated upon a highway only when directly crossing such highway.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.010 was formerly codified as 33.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0302</num>
+      <num>33.03.020</num>
       <heading>Application for Registration</heading>
       <text>Application for original registration and for annual renewal of registration shall be made to the Director upon forms prescribed by the Director and shall be accompanied by the required fee.</text>
       <text>Applications for original registration of a vehicle shall contain the following information:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The name of the owner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The address of the owner.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A description of the vehicle, including make, model, identifying number and any other information which the Director may require for proper identification of the vehicle.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Certificate of title or pending application for a certificate of title.   If the applicant for registration holds a valid certificate of title previously issued by the Director for the vehicle in question, that is prima facie evidence that such person is the owner of the vehicle, i.e. notarized bill of sale, sheriff's statement of abandoned vehicle, and need not apply for a new certificate of title each time such person applies for registration.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Such further information as the Director may reasonably require to enable the Director to determine whether the vehicle is by law entitled to registration or to enable the Director to determine the proper registration fee for the vehicle.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Applications for renewal of registration shall contain the information required in 33.0302(2) for original applications or such parts thereof as the Director deems necessary to assure the proper registration of the vehicle.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>If the applicant for a certificate of registration is under 18 years of age, the application shall be accompanied by a statement made and signed by the applicant's father if the father has custody of the applicant; or if neither parent has custody, then by person or guardian having such custody, stating that the applicant has the consent of such person or guardian to register such vehicle in the applicant's name. The signature on such statement shall not impute any liability for the negligence or misconduct of the applicant while operating such motor vehicle on the highways. Any person who violates <cite path="33|33.03|33.0302">this section</cite> may be subject to a civil fine or not more than $150.00.</text>
+        <num>(g)</num>
+        <text>If the applicant for a certificate of registration is under 18 years of age, the application shall be accompanied by a statement made and signed by the applicant's father if the father has custody of the applicant; or if neither parent has custody, then by person or guardian having such custody, stating that the applicant has the consent of such person or guardian to register such vehicle in the applicant's name. The signature on such statement shall not impute any liability for the negligence or misconduct of the applicant while operating such motor vehicle on the highways. Any person who violates <cite path="§33.03.020">this section</cite> may be subject to a civil fine or not more than $150.00.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.020 was formerly codified as 33.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0303</num>
+      <num>33.03.030</num>
       <heading>Grounds for Refusing Registration</heading>
       <text>The Director shall refuse registration of a vehicle under the following circumstances:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The applicant is not a member of the Reservation; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The required fee has not been paid; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The applicant has failed to furnish the information or documents required by the Tribe pursuant to this Ordinance; or</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The applicant does not hold a valid certificate of title and is not entitled to the issuance of a certificate of title; or</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The applicant's registration is suspended or revoked in accordance with 33.0313 and such suspension or revocation still is in effect.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Must show proof of liability insurance</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Any person suffering legal wrong or adversely affected or aggrieved by an action of the Director in refusing registration is entitled to judicial review thereof under the provisions of Chapter 6 herein.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.030 was formerly codified as 33.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0304</num>
+      <num>33.03.040</num>
       <heading>Contents; Issuance and Display of Certificate of Registration; Issuance of Duplicate Certificate</heading>
       <text>The Director upon registering a vehicle shall issue and deliver to the owner a certificate of registration. The certificate shall contain the name and address of the owner, a brief description of the vehicle, the registration number assigned and the date of expiration of registration. The certificate shall be in such form and may contain such additional information as the Director deems advisable.</text>
       <text>The Director shall issue a duplicate certificate of registration upon application therefore by any person I n whose name the vehicle is registered and upon payment of the fee of $5.00.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.040 was formerly codified as 33.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0305</num>
+      <num>33.03.050</num>
       <heading>Design; Procurement and Issuance of Registration Plates</heading>
       <text>The Director upon registering a vehicle pursuant to this Ordinance shall issue and deliver prepaid to the applicant two (2) registration plates for each automobile, motor truck, motor bus, school bus or self-propelled mobile home registered, and one plate for other vehicles registered unless the Director believes that two (2) plates will better serve the interests of law enforcement.</text>
       <text>The Council shall determine the size, color and design of registration plates with a view toward making them visible evidence of the period for which the vehicle is registered, as well as making them a ready means of identifying the specific vehicle or owner for which the plates were issued;</text>
       <text>All registration plates shall have displayed upon them the following:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The registration number of letters assigned to the vehicle or owner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The name Turtle Mountain Indian Tribe, or an abbreviation thereof.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>An insert tag indicating the period for which the specific registration is issued, including the year of expiration of registration.</text>
         <text>All registration plates issued shall be treated with a reflectorized material as others are made.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.050 was formerly codified as 33.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0306</num>
+      <num>33.03.060</num>
       <heading>Display of Registration Plates</heading>
       <text>Whenever two (2) registration plates are issued for a vehicle, one such plate shall be attached to the front and one to the rear of the vehicle. Whenever only one registration plate is issued, the plate shall be attached to the front, if the vehicle is a truck tractor or road tractor; otherwise, it shall be attached to the rear.</text>
-      <text>Registration plates shall be attached firmly and rigidly in a horizontal position and in a conspicuous place. The plates shall at all times be maintained in a legible condition and shall be so displayed that they can be readily and distinctly seen and read. Any peace officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by <cite path="33|33.03|33.0306">this section</cite>.</text>
+      <text>Registration plates shall be attached firmly and rigidly in a horizontal position and in a conspicuous place. The plates shall at all times be maintained in a legible condition and shall be so displayed that they can be readily and distinctly seen and read. Any peace officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by <cite path="§33.03.060">this section</cite>.</text>
       <text>A civil fine of $75.00 may be imposed upon any of the following:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A person who operates a vehicle for which current registration plate or insert tag has been issued without such plate or tag being attached to the vehicle.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A person who operates a vehicle with a registration plate attached in a non-rigid or non-horizontal manner or in an inconspicuous place so as to make it difficult to see and read the plate.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A person who operates a vehicle with registration plate in an illegible condition due to the accumulation of dirt or other foreign matter.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.060 was formerly codified as 33.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0307</num>
+      <num>33.03.070</num>
       <heading>Issuance of Duplicate Plates</heading>
       <text>Whenever a current registration plate is lost or destroyed, the owner of the vehicle to which the plate was attached shall immediately apply to the Director for replacement. Upon satisfactory proof of the loss or destruction of the plate and upon payment of $5.00, the Director shall issue a replacement.</text>
       <text>Whenever a current registration plate become illegible, the owner of the vehicle to which the plate is attached shall apply to the Director for a replacement.  Upon receipt of the satisfactory proof of illegibility, and upon payment of a fee of $5.00, the Director shall issue a replacement. Upon receipt of the replacement plate, the applicant shall forthwith surrender to the Director the illegible plate.</text>
       <text>When issuing a replacement plate, the Director may assign a new number and issue a new plate rather than a duplicate of the original if in the Director's judgment that is in the best interests of economy or prevention of fraud.</text>
       <text>Any person issued replacement plates who fails to surrender the illegible plates as required by 33.0307(2) shall be subject to a civil fine or not more than $75.00.</text>
       <text>The Director shall keep an accurate and updated list of all registration plates issued, the number thereof, the name of the owner and the description of the motor vehicle.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.070 was formerly codified as 33.0307</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0308</num>
+      <num>33.03.080</num>
       <heading>Annual Vehicle Registration Fee</heading>
       <text>An annual registration fee shall be paid each calendar year for all motor vehicles not exempted by 33.0301 or 33.0308, as a condition precedent to registration and for the privilege of operating a motor vehicle upon the public streets and highways of the Reservation on the following basis.</text>
       <text>During the first three years of vehicle life, $50.00 per calendar year.</text>
@@ -325,368 +361,410 @@
       <text>A registration fee of $8.00 shall be paid for all snowmobiles for a period of two calendar years.</text>
       <text>A registration fee of $9.00 shall be paid for all ATV's for a period of two years.</text>
       <text>A registration fee of $15.00 annually for recreational vehicles.</text>
-      <text>The annual registration fee paid under <cite path="33|33.03|33.0308">this section</cite> shall be treated as tax paid to the Tribe for purposes of any state or local tax or federal income or other tax, as may be allowed under applicable tax law.</text>
-      <annotations/>
+      <text>The annual registration fee paid under <cite path="§33.03.080">this section</cite> shall be treated as tax paid to the Tribe for purposes of any state or local tax or federal income or other tax, as may be allowed under applicable tax law.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.080 was formerly codified as 33.0308</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0309</num>
+      <num>33.03.090</num>
       <heading>Nonresident Exemption</heading>
       <text>Any vehicle which is registered in another jurisdiction is exempt from the vehicle registration laws of the Tribe if:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The vehicle carries a valid and current registration plate indicating registration in such other jurisdiction; and</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The vehicle is owned by a nonresident of the Reservation; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The jurisdiction in which the vehicle is registered allows such vehicle when registered by the Tribe to be operated tax free upon highways under conditions substantially as favorable to residents of the Reservation as to residents of such other jurisdiction.</text>
         <text>If a vehicle of an individual is registered in another jurisdiction, but the owner becomes a resident of the Reservation, after 60 days of residency on the Reservation such person is subject to the vehicle registration laws of the Tribe or State.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.090 was formerly codified as 33.0309</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0310</num>
+      <num>33.03.100</num>
       <heading>Fraudulent Application for Registration or License</heading>
       <text>Any person who gives a false or fictitious name or address in an application for license or registration, or for any reason applies in the name of a person other than the true owner or lessee, shall be subject to a civil fine of not more than $100.00</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.100 was formerly codified as 33.0310</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0311</num>
+      <num>33.03.110</num>
       <heading>Improper Use of Evidence of Registration</heading>
       <text>A civil fine of $75.00 may be imposed upon any of the following:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A person who lends to another a registration plate, knowing that the person borrowing the plate is not authorized by law to use it; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A person who displays upon a vehicle or registration plate not issued for such vehicle or not other otherwise authorized by law to be used thereon; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A person who willfully twists, paints, alters or adds to or cuts off any portion of a registration plate or sticker; or who places or deposits, or caused to be placed or deposited on such plate or sticker any substance to hinder the normal readings of such plate; or who defaces, disfigures, changes or attempts to change any letter or figure thereon.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.110 was formerly codified as 33.0311</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0312</num>
+      <num>33.03.120</num>
       <heading>False Evidence of Registration</heading>
       <text>Any person who operates or possesses a motor vehicle, mobile home, trailer or semi-trailer or other vehicle subject to registration which has attached thereto any plate or similar device fashioned in imitation of or altered so as to resemble the current registration plate issued by the Tribe may be subject to a civil fine of not more than $100.00.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.120 was formerly codified as 33.0312</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0313</num>
+      <num>33.03.130</num>
       <heading>Registration Suspended</heading>
       <text>The Director shall suspend the vehicle registration when the Director finds that:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The registration was completed through fraud or error and the person who registered the vehicle does not or cannot register the vehicle properly; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The required fee has not been paid and the same is not paid upon reasonable notice and demand.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The issuance or possession of a registration or certificate of title for the registered vehicle is prohibited by law.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>Any registration suspended pursuant to <cite path="33|33.03|33.0313">this section</cite> continues to be suspended until reinstatement is authorized by the Director. The Director shall reinstate the registration when the reason for the suspension has been removed.</text>
+        <num>(d)</num>
+        <text>Any registration suspended pursuant to <cite path="§33.03.130">this section</cite> continues to be suspended until reinstatement is authorized by the Director. The Director shall reinstate the registration when the reason for the suspension has been removed.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Whenever the registration of a vehicle is suspended under <cite path="33|33.03|33.0313">this section</cite> the owner or person in possession of the registration plates shall forthwith return them to the Director. Any person who fails to return the plates as required by <cite path="33|33.03|33.0313">this section</cite> shall be subject to a civil fine of not more than</text>
+        <num>(e)</num>
+        <text>Whenever the registration of a vehicle is suspended under <cite path="§33.03.130">this section</cite> the owner or person in possession of the registration plates shall forthwith return them to the Director. Any person who fails to return the plates as required by <cite path="§33.03.130">this section</cite> shall be subject to a civil fine of not more than</text>
         <text>$75.00</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.130 was formerly codified as 33.0313</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0314</num>
+      <num>33.03.140</num>
       <heading>Fine for Operating Unregistered or Improperly Registered Vehicle</heading>
       <text>It is unlawful for any person to operate or for an owner to consent to the operation on any highway of the Reservation any motor vehicle, mobile home, trailer or semi-trailer or any other vehicle unless at the time of operation, the vehicle in question is wither registered by the Tribe or exempt from registration.</text>
       <text>A vehicle may be operated by a person after the date of purchase of such vehicle by such private person or after the date such person became a resident of the Reservation if application for registration and certification of title has been made.</text>
       <text>All vehicles subject to renewal of registration may be operated provided that the application for registration has been made.</text>
       <text>Any person violating 33.0301(1) shall be subject to a civil fine of not more than $75.00. In addition to the civil fine, the Court shall order the offender to make application for registration or re-registration and to pay the fee thereunder.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.03.140 was formerly codified as 33.0314</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.04</num>
     <heading>Certificate of Title</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0401</num>
+      <num>33.04.010</num>
       <heading>When Certificate of Title Is Required</heading>
       <text>The owner of a vehicle subject to registration pursuant to this Ordinance, whether or not such vehicle is operated on any highway of the Reservation, shall make application for Certificate of Title for the vehicle under the following circumstances.</text>
       <text>If the person has newly acquired the vehicle.</text>
       <text>If the person applies for registration of a vehicle for which there is not a valid certificate of title previously issued by the Director for the vehicle in question, such person shall at the same time apply for a Certificate of Title.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.010 was formerly codified as 33.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0402</num>
+      <num>33.04.020</num>
       <heading>Application for Certificate of Title</heading>
       <text>An application for a Certificate of Title shall be made to the Director upon a form prescribed by the Director and shall be accompanied by the required fee. Each application for Certificate of Title shall contain the following information:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The name and address of the owner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A description of the vehicle, including make, model, identifying number and any other information which the Director may reasonable require for proper identification of the vehicle.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The date of purchase by the applicant, the name and address of the person from who the vehicle was acquired, and the names and addresses of any secured parties in the order of their priority and the dates of their security agreements.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If the vehicle is a new vehicle being registered for the first time, the signature of a dealer authorized to sell such new vehicle.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Any further evidence of ownership, which may reasonable be required by the Director to enable the Director to determine whether the owner is entitled to a Certificate of Title and to determine the existence or nonexistence of security interests in the vehicle.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Authorization from any bank, finance company shall be required prior to Certificate of Title.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>If the vehicle is a used motor vehicle which was last previously  registered in another jurisdiction, the applicant shall furnish the title or other proof or ownership issued by the other jurisdiction, and a statement pertaining to the title history and ownership of such motor vehicle, such statement to be in the form the Director prescribes, and shall furnish a certification by a law enforcement officer or by an employee designated by the Director to the effect that the physical description of the motor vehicle has been checked and conforms to the description given in the application.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Any person who knowingly makes a false statement for a Certificate of Title shall be subject to a civil fine of not more than $75.00.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.020 was formerly codified as 33.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0403</num>
+      <num>33.04.030</num>
       <heading>Maintenance of Records</heading>
       <text>The Director shall maintain a record of all applications and all Certificates of Titled issued by the Director:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>According to the title number.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Alphabetically, according to the name of owner.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>In a fire proofed type of vault.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>In any manner which the Director shall desire.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.030 was formerly codified as 33.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0404</num>
+      <num>33.04.040</num>
       <heading>Contents of Certificate of Title</heading>
       <text>Each Certificate of Title issued by the Director shall contain:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The name and address of the owner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The names of any secured parties in the order of priority as shown on the application or, if the application is based on another Certificate of Title, as shown on such certificate.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The title number assigned to the vehicle.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A description of the vehicle, including make, model and identifying number.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Any other data which the Director deems pertinent and desirable.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Certificate of Title shall contain forms for assignment and warranty of title by the owner, and for assignment and warranty of title by a transferee, and for the naming of a secured party and the assignment or release of a security interest.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>A certificate of title issued by the Director is prima facie evidence of the facts appearing on it.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.040 was formerly codified as 33.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0405</num>
+      <num>33.04.050</num>
       <heading>Grounds for Refusing Issuance of a Certificate of Title</heading>
       <text>The Director shall refuse issuance of a certificate of title if any required fee is not paid or if the Director has reasonable grounds to believe that:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The person alleged to be the owner of the vehicle is not the owner; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The application contains false or fraudulent statements; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The applicant fails to furnish the information or documents required by this Ordinance.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A person shall be refused certificate of title if such person fails to obtain title from any lienholder.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Does not provide proof of liability insurance.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Any person suffering legal wrong or adversely affected or aggrieved by an action of the Director in refusing issuance of a certificate of title is entitled to review thereof under the provisions of Chapter 6 herein.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.050 was formerly codified as 33.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0406</num>
+      <num>33.04.060</num>
       <heading>Lost, Stolen or Mutilated Certificates</heading>
       <text>If a certificate of title is lost, stolen, mutilated, destroyed or becomes illegible, the owner or legal representative of the owner named in the certificate, as shown by the records of the Director, shall promptly make application for and may obtain a duplicate certificate of title shall contain the legend:  "This is a duplicate certificate and may be subject to the  rights of a person under the original certificate."</text>
       <text>The Director shall not issue a new certificate of title to a transferee upon application made on a duplicate until 15 days after receipt of the application.</text>
       <text>A person recovering an original certificate of title for which a duplicate has been issued shall promptly surrender the original certificate to the Director.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.060 was formerly codified as 33.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0407</num>
+      <num>33.04.070</num>
       <heading>Fees</heading>
       <text>The Director shall collect the following fees:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>For filing an application for a first certificate of title, $5.00 by the owner of the vehicle.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>For the original notation and subsequent release of each security interest noted upon a certificate of title, $5.00 by the owner of the vehicle.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>For a duplicate of certificate of title, $5.00 by the owner of the vehicle.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The fee for the physically handicap parking privilege permit is $2.00 per calendar year.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.070 was formerly codified as 33.0407</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0408</num>
+      <num>33.04.080</num>
       <heading>Suspension or Revocation of Certificate</heading>
       <text>The Director shall suspend or revoke a certificate of title if the Director finds:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The certificate of title was fraudulently procured, erroneously issued; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The vehicle has been scrapped, dismantled or destroyed; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The holder of the certificate of title is no longer the owner of the vehicle and no vehicle transfer has been made; or</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A transfer of title is set aside by a court by order judgment.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The issuance or possession of a title is prohibited by law.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Suspension or revocation of a certificate of title does not, in fact, affect the validity of a security interested noted on it.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Any person suffering legal wrong or adversely affected or aggrieved by an action of the Director in suspending or revoking a certificate of title is entitled to review thereof under the provisions of Chapter 6 herein.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>When the Director suspends or revokes a certificate of title, the owner or person in possession of it shall, immediately upon receiving notice of the suspension or revocation, mail or deliver the certificate to the Director.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>The Director may seize and impound any certificate of title which has been suspended or revoked.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.080 was formerly codified as 33.0408</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0409</num>
+      <num>33.04.090</num>
       <heading>Fine for Operating Vehicle Without Certificate of Title or with Improper Certificate of Title</heading>
       <text>It is unlawful for any person to operate or for an owner to consent to the operation on any highway of the reservation any vehicle unless at the time of operation, the vehicle in question has a certificate of title issued by the Tribe or is exempt from obtaining a certificate of title under this ordinance.</text>
       <text>A vehicle may be operated by a person after the date of purchase of such vehicle by such person or after the date such person became a resident of the</text>
       <text>reservation if application for registration any certificate of title has been made.</text>
-      <text>Any person violating <cite path="33|33.04|33.0409">this section</cite> shall be subject to a civil fine of not more than $75.00. In addition to imposing the civil fine, the court shall order the offender to make application for certificate of title or reapplication and to pay the fee therefore.</text>
-      <annotations/>
+      <text>Any person violating <cite path="§33.04.090">this section</cite> shall be subject to a civil fine of not more than $75.00. In addition to imposing the civil fine, the court shall order the offender to make application for certificate of title or reapplication and to pay the fee therefore.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§33.04.090 was formerly codified as 33.0409</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.05</num>
     <heading>Transfer of Title</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0501</num>
+      <num>33.05.010</num>
       <heading>Transfer of Interest in a Vehicle</heading>
       <text>If an owner transfers an interest in a vehicle, the owner shall, at the time of the delivery of the vehicle, execute an assignment and warranty of title to the transferee in the space provided therefore on the certificate, and such the certificate to be mailed or delivered to the transferee.</text>
       <text>The transferee shall, promptly after delivery of the vehicle, execute the application for a new certificate of title in the space provided therefore on the certificate, and such the certificate and application to be mailed or delivered to the Director.</text>
-      <text>A transfer by owner is not effective until the provisions of <cite path="33|33.05|33.0501">this section</cite> has been complied with. An owner who has delivered possession of the vehicle to the transferee and has complied with the provisions of <cite path="33|33.05|33.0501">this section</cite>, requiring action by the owner, is not liable as owner for any damages thereafter resulting from operation of the vehicle.</text>
+      <text>A transfer by owner is not effective until the provisions of <cite path="§33.05.010">this section</cite> has been complied with. An owner who has delivered possession of the vehicle to the transferee and has complied with the provisions of <cite path="§33.05.010">this section</cite>, requiring action by the owner, is not liable as owner for any damages thereafter resulting from operation of the vehicle.</text>
       <text>Any owner of a vehicle for which a certificate of title has been issued who upon transfer of the vehicle fails to execute and deliver the assignment and warranty of title required by 33.0401(1) shall be subject to a civil fine of not more than $75.00.</text>
       <text>Any transferee of a vehicle who fails to make application for a new certificate of title immediately upon transfer of the vehicle shall be subject to a civil fine or not more than $75.00. A certificate is considered to have been applied for when the application accompanied by the required fee has been delivered to the Director or deposited in the mail properly addressed with postage prepaid.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.010 was formerly codified as 33.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0502</num>
+      <num>33.05.020</num>
       <heading>When Director to Issue a New Certificate</heading>
       <text>The Director, upon receipt of a properly assigned certificate of title with an application for a new certificate of title, the required fee, and any other transfer documents required by this ordinance to support the transfer, shall issue a new certificate of title in the name of the transferee as owner.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.020 was formerly codified as 33.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0503</num>
+      <num>33.05.030</num>
       <heading>Perfection of Security Interests</heading>
       <text>A security interest in a vehicle of a type for which a certificate of title is required is not valid against creditors of the owner or subsequent transferees or secured parties of the vehicle unless perfected as provided in 33.0506(2).</text>
       <text>A security interest is perfected by the delivery to the Director of the existing certificate of title, if any, an application for a certificate of title containing the name and address of the secured party and the date of the security agreement, and the required fee. It is perfected as of the time of its creation if such delivery is completed within ten (10) days thereafter.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.030 was formerly codified as 33.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0504</num>
+      <num>33.05.040</num>
       <heading>Duties on Creation of Security Interests</heading>
       <text>If an owner creates a security interest in a vehicle:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The owner shall immediately execute, in the space provided therefore on the certificate of title or on a separate form prescribed by the Director, an application to name the security party on the certificate, showing the</text>
         <text>name and address of the secured party and the date of the security agreement, and cause the certificate, application and the required fee to be delivered to the secured party.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The secured party shall immediately cause the certificate, application, and the required fee to be mailed or delivered to the Director.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Upon receipt of the certificate of title, application and the required fee, the Director shall issue to the owner a new certificate containing the name and address of the new secured party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.040 was formerly codified as 33.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0505</num>
+      <num>33.05.050</num>
       <heading>Assignment of Security Interest</heading>
       <text>A secured party may assign, absolutely or otherwise, a security interest in the vehicle to a person other than the owner without affecting the interest of the owner or the validity of the security interest, but any person without notice of the assignment is protected in dealing with the security party as the holder of the security interest, and the secured party remains liable for any obligations as a secured party until the assignee is named as secured party on the certificate.</text>
       <text>The assignee may, to perfect the assignment, have the certificate of title endorsed or issued with the assignee named as secured party, upon delivering to the Director the certificate and an assignment by the secured party named in the certificate in the form.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.050 was formerly codified as 33.0505</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0506</num>
+      <num>33.05.060</num>
       <heading>Release of Security Interest</heading>
       <text>Whenever there is no outstanding obligation, and no commitment to make advances, incur obligations or otherwise give value, secured by the security interest in a vehicle under a security agreement between the owner and the secured party, the secured party shall execute and deliver to the owner, as the Director prescribed, a release of the security interest in the form and manner prescribed by the Director.</text>
       <text>The owner, other than a dealer holding the vehicle for resale, shall promptly cause the certificate and release to be mailed or delivered to the Director, which shall release the secured party's rights on the certificate and issue a new certificate.</text>
@@ -697,181 +775,213 @@
       <text>Page 12 of 15</text>
       <text>December 2012</text>
       <text>any person who delivers to the lienholder an authorization from the owner to receive it. The lienholder in possession of the certificate of title shall either deliver the certificate of title to the owner or the person authorized by the owner for delivery to the department or, upon receipt of the release, mail or deliver it with the certificate of title to the department which shall, upon the payment of a five dollar ($5.00) fee, issue a new certificate.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.060 was formerly codified as 33.0506</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0507</num>
+      <num>33.05.070</num>
       <heading>Method of Perfecting Exclusive</heading>
       <text>The method provided in this ordinance of perfecting and giving notice of security interests subject to this ordinance is exclusive.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.05.070 was formerly codified as 33.0507</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.06</num>
     <heading>Decisions of Director; Appeals; Judicial Review</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0601</num>
+      <num>33.06.010</num>
       <heading>Notice Required; Content</heading>
       <text>Any decision of the Director refusing registration under 33.0303, refusing issuance of a certificate of title under 33.0405, suspending or revoking a certificate of title under 33.0405, suspending or revoking a certificate of title under 33.0408, or any other action, decision of determination of the Director made pursuant to this ordinance, except the filing of a civil complaint for enforcement of any fine or other provision of this ordinance, shall become effective only after notice is provided to the person to whom  the Director's action shall apply. For purposes of this ordinance, notice shall mean actual notice personally delivered or served upon a person, or mailed to a person at such person's last known address, by certified mail, return receipt requested. In any case where personal service or service by certified mail cannot be accomplished because the person to be served notice cannot, after reasonable diligence, be located within the service area, or because the person to be served notice has not accepted certified mail delivery for three (3) consecutive days, notice shall be deemed to have been given and received five (5) days after such notice is deposited in the United States mails, postage prepaid, and addressed to the person to be notified at such person's last known mailing address.</text>
-      <text>Any notice required under <cite path="33|33.06|33.0601">this Section</cite> shall include, at a minimum, the following:</text>
+      <text>Any notice required under <cite path="§33.06.010">this section</cite> shall include, at a minimum, the following:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A description of the action taken by the Director.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The grounds for taking such action.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The effective date and the effective period of such action.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The authority of the Director to take such action.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Things that must be done in order that the person notified can comply with the notice and this ordinance.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The person's right to seek review of the Director's action.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.010 was formerly codified as 33.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0602</num>
+      <num>33.06.020</num>
       <heading>Appeal from Decision of Director</heading>
       <text>The Director upon receipt of a challenge to a decision shall within ten (10) days of receipt convene the Board of Commissioners to hear the facts in the matter.  The individual shall, by registered mail, be notified of the time and place.</text>
       <text>The Board upon findings of fact shall within five (5) days respond to the complainant.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.020 was formerly codified as 33.0602</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0603</num>
+      <num>33.06.030</num>
       <heading>Right of Judicial Review</heading>
       <text>A person suffering legal wrong or adversely affected or aggrieved because of an action of the Motor Vehicle Department is entitled to judicial review thereof.</text>
       <text>An action in Tribal Court seeking relief other than money against the Motor Vehicle Department shall not be dismissed nor relief be denied on the ground that it is against the Tribe or that the Tribe is an indispensable party and,</text>
       <text>Page 13 of 15</text>
       <text>December 2012</text>
-      <text>for the limited purposes of judicial review under <cite path="33.06">this Chapter</cite>, the Tribe hereby waives its immunity from suit in Tribal Court only.</text>
+      <text>for the limited purposes of judicial review under <cite path="33|33.06">this chapter</cite>, the Tribe hereby waives its immunity from suit in Tribal Court only.</text>
       <text>Nothing herein either affects other limitations on judicial review or the power or duty of the Tribal Court to dismiss any action or deny relief on any other appropriate legal or equitable ground, or confers authority to grant relief if any other statute that grants consent to suit expressly or impliedly forbids the relief which is sought.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.030 was formerly codified as 33.0603</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0604</num>
+      <num>33.06.040</num>
       <heading>Actions Reviewable</heading>
-      <text>Directors action made reviewable by <cite path="33.06">this Chapter</cite> and final Director action for which there is no other adequate remedy in court are subject to judicial review. A preliminary, procedural, or intermediate action or decision of the Director not directly reviewable is subject to review of the final Director action.</text>
-      <annotations/>
+      <text>Directors action made reviewable by <cite path="33|33.06">this chapter</cite> and final Director action for which there is no other adequate remedy in court are subject to judicial review. A preliminary, procedural, or intermediate action or decision of the Director not directly reviewable is subject to review of the final Director action.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.040 was formerly codified as 33.0604</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0605</num>
+      <num>33.06.050</num>
       <heading>Relief Pending Review</heading>
       <text>When the Director finds that justice so requires, the Director may postpone the effective date of action taken, pending judicial review. On such conditions as may be required, and to the extend necessary, to prevent irreparable injury, the Tribal Court may issue all necessary and appropriate process to postpones the effective date of an action of the Director or to preserve the status quo or rights pending conclusion of the review proceedings.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.050 was formerly codified as 33.0605</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0606</num>
+      <num>33.06.060</num>
       <heading>Scope of Review</heading>
       <text>To the extent necessary to render a decision and when presented, the Tribal Court shall decide all relevant questions of law, interpret constitution and statutory provisions, and determine the meaning or applicability of the terms of the Director's action.   The review court may:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Compel Director action unlawfully withheld or unreasonable delayed;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Hold unlawful and set aside Director action, findings, and conclusion found to be:</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Arbitrary,  capricious, an  abuse   of  discretion, or  otherwise   not in accordance with law;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Contrary to right, power, privilege, or immunity accorded by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> or the Indian Civil Rights Act, 25 USC 1301 <u>et seq.;</u></text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>In excess of statutory or code jurisdiction, authority, or limitations, or short of statutory rights; or</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Without observance of procedure required by law.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>In making the foregoing determinations, the court shall review the whole record before the Director or other parts of it cited by a party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.060 was formerly codified as 33.0606</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0607</num>
+      <num>33.06.070</num>
       <heading>Appeals to the Court of Appeals</heading>
       <text>The Director or the person aggrieved, after the entry of judgment in the Tribal Court upon judiciary review of a final order or decision of the Director may prosecute an appeals to the Turtle Mountain Court of Appeals under the provisions of the Law and Order Ordinance of the Turtle Mountain Band of Chippewa Indians.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.06.070 was formerly codified as 33.0607</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.07</num>
     <heading>Reciprocal Powers, Agreements and Plans</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0701</num>
+      <num>33.07.010</num>
       <heading>Reciprocity Powers</heading>
       <text>The Tribal Council shall have the power to facilitate agreements, compacts, plans, or declarations involving the reciprocal use of highways or of public or private areas designated for vehicular use on the reservation, involving the reciprocal use between the Tribe and any other jurisdiction, including the State of North Dakota, on matters relating to vehicle registration, certificates of title, vehicle security interests, financial responsibility,</text>
       <text>Page 14 of 15</text>
       <text>December 2012</text>
       <text>traffic law enforcement, vehicle inspection, vehicle size and weight, and other matters relating to implementation and enforcement of vehicle registration, vehicle certificates of title and related matters under this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.07.010 was formerly codified as 33.0701</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.08</num>
     <heading>Enforcement</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0801</num>
+      <num>33.08.010</num>
       <heading>Purpose</heading>
       <text>The civil fines imposed under this Ordinance are intended to be remedial and not punitive and are designed to compensate the Tribe for damage to the peace, security, economy and general welfare of the Tribe and to compensate the Tribe for damages sustained by reason of violations of this Ordinance.  The civil fines under this Ordinance are also intended to coerce persons into complying with the Ordinance and the laws and regulations of the Turtle Mountain Band of Chippewa Indians and not to punish such persons for violation of such laws and regulations.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.08.010 was formerly codified as 33.0801</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0802</num>
+      <num>33.08.020</num>
       <heading>Jurisdiction of Tribal Court</heading>
       <text>Consistent with the consent provisions of 33.0202 and 33.0203 of this Ordinance, the Turtle Mountain Tribal Court shall have exclusive jurisdiction over any action brought by the Tribe or by the Director on behalf of the  Tribe to enforce any provision of this Ordinance against any person made subject to the provisions of this Ordinance, including enforcement of any civil fine provided for in this Ordinance against any person. The Turtle Mountain Tribal Court shall have equitable jurisdiction over any person to enforce any provision of this Ordinance, including declaratory and injunctive relief and other equitable remedies. The Turtle Mountain Tribal Court shall have jurisdiction to make and enforce civil and criminal contempt orders and such other orders and judgments as may be necessary to allow complete enforcement of the provisions of this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.08.020 was formerly codified as 33.0802</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0803</num>
+      <num>33.08.030</num>
       <heading>Civil Action</heading>
       <text>In enforcing the civil infraction provisions of this Ordinance, the Director shall proceed, in the name of the Tribe, against a person for violation of such provision by civil complaint pursuant to the provisions of the Turtle Mountain Tribal Code. The Tribe in such action shall have the burden of showing by the preponderance of the evidence that such person violated the applicable provision of this Ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.08.030 was formerly codified as 33.0803</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0804</num>
+      <num>33.08.040</num>
       <heading>Cumulative Fines</heading>
       <text>All civil fines accruing under this Ordinance shall be cumulative and a suit for the recovery of one fine shall not bar or affect the recovery of any  other find, judgment, penalty, forfeiture or damages, nor bar the power to punish for contempt.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.08.040 was formerly codified as 33.0804</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>33.09</num>
     <heading>Inconsistent Laws and Ordinances; Effective Date</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>33.0901</num>
+      <num>33.09.010</num>
       <heading>Inconsistent Laws and Ordinances</heading>
       <text>The provisions of this Ordinance shall supersede any other provision of  tribal law enacted prior to the effective date of this Ordinance to the  extent such laws are contrary to or inconsistent with the provisions of this Ordinance, including, without limitation, 38.0101,Display of plates; Transfer of Title; 1.23 Snowmobiles, of the Turtle Mountain Tribal.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.09.010 was formerly codified as 33.0901</annotation>
+      </annotations>
     </section>
     <section>
-      <num>33.0902</num>
+      <num>33.09.020</num>
       <heading>Effective Date</heading>
       <text>The effective date of this Ordinance shall be the date of approval by the Secretary of the Interior or the Secretary's delegated representative.</text>
       <text>Page 15 of 15</text>
       <text>December 2012</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§33.09.020 was formerly codified as 33.0902</annotation>
+      </annotations>
     </section>
   </container>
 </container>

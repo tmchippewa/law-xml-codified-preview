@@ -1,1126 +1,1186 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>58</num>
   <heading>Food Code</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.01</num>
     <heading>Purpose and Applicability</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0101</num>
+      <num>58.01.010</num>
       <heading>Purpose</heading>
       <para>
-        <num>(1)</num>
-        <text><cite path="58">This Title</cite> should be applied to promote the purpose of this ordinance described in subsection (3), below, and to promote the health and general welfare of the Turtle Mountain Band of Chippewa Indians] people, their culture, economy, and natural resources through food and agricultural production using materials hunted, fished and gathered pursuant to the Turtle Mountain Band of Chippewa Indians</text>
+        <num>(a)</num>
+        <text><cite path="58">This title</cite> should be applied to promote the purpose of this ordinance described in subsection (3), below, and to promote the health and general welfare of the Turtle Mountain Band of Chippewa Indians] people, their culture, economy, and natural resources through food and agricultural production using materials hunted, fished and gathered pursuant to the Turtle Mountain Band of Chippewa Indians</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>It is not the intent of <cite path="58">this Title</cite> to waive the sovereign immunity of the Turtle Mountain Band of Chippewa Indians or any of its agencies or instrumentalities through the passage of <cite path="58">this Title</cite> or with regards to any provisions contained therein. Nothing in <cite path="58">this Title</cite> or amendments thereto shall be construed as a waiver of sovereign immunity on the part of the Turtle Mountain Band of Chippewa Indians absent a recorded, express waiver of sovereign immunity.</text>
+        <num>(b)</num>
+        <text>It is not the intent of <cite path="58">this title</cite> to waive the sovereign immunity of the Turtle Mountain Band of Chippewa Indians or any of its agencies or instrumentalities through the passage of <cite path="58">this title</cite> or with regards to any provisions contained therein. Nothing in <cite path="58">this title</cite> or amendments thereto shall be construed as a waiver of sovereign immunity on the part of the Turtle Mountain Band of Chippewa Indians absent a recorded, express waiver of sovereign immunity.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Our traditional foods are derived from the plant, fish, and animal beings living within the Ceded Territories, given as gifts by Gichi-Manidoo, and thus are integral to the spiritual and cultural identity of the Anishinaabeg. Access to these traditional foods, for all Anishinaabeg, is critical for our survival, to decrease incidents of chronic disease and to achieve overall wellness. Without the continued availability of plants, fishes, and animals, the Anishinaabeg would cease to be as Gichi-Manidoo made us.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.01.010 was formerly codified as 58.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0102</num>
+      <num>58.01.020</num>
       <heading>Applicability</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The provisions contained herein apply to all individuals and facilities involved in the harvesting, processing, transporting, packing and holding of food products derived from wild animals and plants harvested by a member or members of the Turtle Mountain Band of Chippewa Indians within the Tribe's Ceded Territories and/or within the exterior boundaries of the Turtle Mountain Reservation for processing as food for commercial sale and donation to Indian Tribal Operations and Child Nutrition Programs and do not apply to the following activities:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Informal commercial sale, as defined in Sec. 58.0201 Definitions, located within the exterior boundaries of the Turtle Mountain Reservation;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Home use of treaty-harvested foods, including informal distribution of treaty harvested foods among tribal families;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Community feasts, as defined in Sec. 58.0201 Definitions; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Sale of whole deer and elk carcasses pursuant to the tribes' applicable off reservation conservation codes.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.01.020 was formerly codified as 58.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0103</num>
+      <num>58.01.030</num>
       <heading>Territorial Applicability and Jurisdiction</heading>
       <para>
-        <num>(1)</num>
-        <text><cite path="58">This Title</cite> shall apply within the exterior boundaries of the Turtle Mountain Reservation. The Turtle Mountain Band of Chippewa Indians assumes and retains jurisdiction over all lands and waters not within the exterior boundaries of the Turtle Mountain Reservation as permitted by any law, convention, charter, compact and/or agreement.</text>
+        <num>(a)</num>
+        <text><cite path="58">This title</cite> shall apply within the exterior boundaries of the Turtle Mountain Reservation. The Turtle Mountain Band of Chippewa Indians assumes and retains jurisdiction over all lands and waters not within the exterior boundaries of the Turtle Mountain Reservation as permitted by any law, convention, charter, compact and/or agreement.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Tribal Court of the Turtle Mountain Band of Chippewa Indians shall have exclusive jurisdiction to prosecute violations of <cite path="58">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>The Tribal Court of the Turtle Mountain Band of Chippewa Indians shall have exclusive jurisdiction to prosecute violations of <cite path="58">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.01.030 was formerly codified as 58.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0104</num>
+      <num>58.01.040</num>
       <heading>Rights Reserved</heading>
       <text>Nothing in <cite path="58">this title</cite>, or any regulations adopted pursuant hereto, shall diminish the rights reserved by the Turtle Mountain Band of Chippewa Indians and its members or deprive the governing body of the Turtle Mountain Band of Chippewa Indians of the right to modify, amend or repeal <cite path="58">this title</cite>.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.01.040 was formerly codified as 58.0104</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.02</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0201</num>
+      <num>58.02.010</num>
       <heading>Definitions</heading>
-      <text>The words in quotations shall be defined within <cite path="58">this Title</cite> as follows:</text>
+      <text>The words in quotations shall be defined within <cite path="58">this title</cite> as follows:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text><strong>"Adequate"</strong> means that which is needed to accomplish the intended purpose in keeping with good public health practice.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text><strong>"Adequately reduce microorganisms of public health significance"</strong> means reduce the    presence of such microorganisms to an extent sufficient to prevent illness.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text><strong>"Adulteration" or "Adulterated"</strong> means food that:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Bears or contains any poisonous or deleterious substance in a quantity which may render it injurious to human health, including containing any hard, inedible fragments of material measuring 7 mm or larger in any direction; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Bears or contains any poisonous or deleterious substance for which no safe tolerance has been established by law; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Consists in whole or in part of any filthy, putrid or decomposed substance, or is otherwise unfit for human consumption; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Has been processed, packed or held in unsanitary conditions whereby it may have become contaminated with filth, or whereby it may have become injurious to human health; or</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Has been processed, prepared, packed or held under any insanitary conditions whereby there is a reasonable probability that it might have been contaminated with filth or rendered injurious to health; or</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Is in whole or in part the product of a diseased animal or an animal which has died otherwise than by slaughter or lawful harvest in the wild with the application of appropriate field-dressing techniques; or</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Is packaged within a container comprised in whole or in part of any poisonous or deleterious substance which may render the contents injurious to health.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text><strong>"Amenable wild-harvest food"</strong> means safe, wholesome and unspoiled foods derived from free-ranging animals, plants and fungus available for harvest by Anishinaabeg of the Turtle Mountain Band of Chippewa Indians within the Turtle Mountain Reservation.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text><strong>"Animal excreta"</strong> means liquid or solid animal waste.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text><strong>"Class 1 food" </strong>means those foods processed pursuant to <cite path="58">this Title</cite>, available for sale within the exterior boundaries of the Turtle Mountain Band of Chippewa Indians Reservation, to individual tribal members only.</text>
+        <num>(f)</num>
+        <text><strong>"Class 1 food" </strong>means those foods processed pursuant to <cite path="58">this title</cite>, available for sale within the exterior boundaries of the Turtle Mountain Band of Chippewa Indians Reservation, to individual tribal members only.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text><strong>"Class 2 food"</strong> means those foods processed pursuant to <cite path="58">this Title</cite>, available for sale to Indian Tribal Organizations and Child Nutrition Programs for which a majority of the consumers served are tribal members.</text>
+        <num>(g)</num>
+        <text><strong>"Class 2 food"</strong> means those foods processed pursuant to <cite path="58">this title</cite>, available for sale to Indian Tribal Organizations and Child Nutrition Programs for which a majority of the consumers served are tribal members.</text>
       </para>
       <para>
-        <num>(8)</num>
-        <text><strong>"Class 3 food"</strong> means those foods processed pursuant to <cite path="58">this Title</cite>, available for sale to a general consumer base, which includes non-tribal members and retail institutions.</text>
+        <num>(h)</num>
+        <text><strong>"Class 3 food"</strong> means those foods processed pursuant to <cite path="58">this title</cite>, available for sale to a general consumer base, which includes non-tribal members and retail institutions.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text><strong>"Community feast"</strong> means the provision of ready-to-eat food for an Anishinaabe cultural or spiritual purpose by members of the TMBCI, where no monetary exchange is necessary or expected.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text><strong>"Corrective action"</strong> means procedures to be followed when a deviation occurs.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text><strong>"Covered produce"</strong> means produce (e.g. Juneberries, raspberries, salad greens, etc.), which strawberries, snake berries are consumed raw and not subject to commercial processing that adequately reduces the presence of microorganism of public health significance. Covered produce does not include produce that is rarely consumed raw, such as wild mushrooms, dandelions. Traditional foods and medicines: sage, sweet grass</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text><strong>"Critical Control Point"</strong> means a point, step or procedure in a food process at which a control can be applied, and a food safety hazard can as a result, be prevented, eliminated or reduced to acceptable levels.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text><strong>"Critical limit"</strong> means the maximum or minimum value to which a physical, biological or chemical parameter must be controlled at a critical control point to prevent, eliminate or reduce to an acceptable level, the occurrence of the identified food safety hazard.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text><strong>"Cross-contact"</strong> means unintentional incorporation of a food allergen into another food through accidental transfer.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text><strong>"Cross-contamination"</strong> means transfer of pathogens from food or a surface to another food or food contact surface.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text><strong>"Field dressing"</strong> means the removal of internal organs of a wildlife carcass, which is performed at or near the point of kill.</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(q)</num>
         <text><strong>"Fish"</strong> means a limbless cold-blooded vertebrate animal with gills and fins, living wholly in water.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(r)</num>
         <text><strong>"Fishery product"</strong> means any human food product in which fish is a characterizing ingredient.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(s)</num>
         <text><strong>"Food"</strong> means any raw, cooked, or processed edible substance, or beverage, or ingredient intended for human consumption and includes ice and water.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(t)</num>
         <text><strong>"Food contact surface"</strong> means those surfaces that contact human food, including the surfaces of equipment and utensils, and those surfaces from which drainage, or other transfer, onto food or other food surfaces ordinarily occurs during the normal course of operations.</text>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(u)</num>
         <text><strong>"Food processing plant" </strong>means any place used primarily for the processing of class 2 and 3 foods. Food processing plant does not include a residential dwelling or any of the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A retail food establishment, restaurant, or other similar establishment if the amenable wild-harvest food processing activities at the establishment are authorized by a license;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A harvest vessel, if practices are limited to those such as heading, eviscerating or freezing fish for holding on board;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A place used solely for washing or packaging fresh or otherwise unprocessed produce;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>A place solely used for fielddressing wild game prior to further processing; or</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>A place solely used for processing a limited volume of low-risk foods and/or class 1 meat products and/or class 1 fish products.</text>
         </para>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(v)</num>
         <text><strong>"Food safety hazard"</strong> means any biological, chemical or physical property that may cause a food to be unsafe for human consumption.</text>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(w)</num>
         <text><strong>"Game animal"</strong> means an individual of a wildlife species of animal used by the Anishinaabe for food that has not been raised in captivity.</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(x)</num>
         <text><strong>"HACCP system" </strong>means the HACCP plan in operation, including the HACCP plan itself.</text>
       </para>
       <para>
-        <num>(25)</num>
+        <num>(y)</num>
         <text><strong>"Hazard or hazardous"</strong> means any biological or chemical agent that has the potential to cause injury in the absence of its control.</text>
       </para>
       <para>
-        <num>(26)</num>
+        <num>(z)</num>
         <text><strong>"Harvest"</strong> when used in reference to wildlife animals, means the killing of the animal.</text>
       </para>
       <para>
-        <num>(27)</num>
+        <num>(aa)</num>
         <text><strong>"Informal commercial sale"</strong> means the provision of ready-to-eat food, in an irregular or non-reoccurring basis, prepared on behalf of the Turtle Mountain Band of Chippewa Indians or by members of the Turtle Mountain Band of Chippewa Indians for a commercial purpose, where the majority of the consumers are members of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(bb)</num>
         <text><strong>"Information fact panel" or "IFP"</strong> means a label with required information that appears on a location on the product other than the front of the product.</text>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(cc)</num>
         <text><strong>"Jerky"</strong> means a ready-to-eat (RTE) dried meat product that is considered shelf stable (i.e. does not require refrigeration after proper processing). (31) "Low-acid fruit preserves" means fruit jelly, fruit jam and fruit preserves with a pH of 4.6 or lower.</text>
       </para>
       <para>
-        <num>(30)</num>
+        <num>(dd)</num>
         <text><strong>"Low-acid pickled produce"</strong> means produce, which has been pickled or packed in a can or jar for pickling, with a pH of 4.6 or lower.</text>
       </para>
       <para>
-        <num>(31)</num>
+        <num>(ee)</num>
         <text><strong>"Low-risk food"</strong> means a food item intended for human consumption that does not require a time and temperature control or refrigeration to remain safe, and has been shown to not support the growth of pathogenic bacterial or other foodborne pathogens.</text>
       </para>
       <para>
-        <num>(32)</num>
+        <num>(ff)</num>
         <text><strong>"Lot"</strong> means the food produced during a period of time indicated by a specific code.</text>
       </para>
       <para>
-        <num>(33)</num>
+        <num>(gg)</num>
         <text><strong>"Microorganism" </strong>means yeasts, molds, bacteria, viruses, protozoa and microscopic parasites and includes species having public health significance.</text>
       </para>
       <para>
-        <num>(34)</num>
+        <num>(hh)</num>
         <text><strong>"Monitor" </strong>means to conduct a planned sequence of observations or measurements to assess whether a process, point or procedure is under control and, when required, to produce an accurate record of the observation or measurement.</text>
       </para>
       <para>
-        <num>(35)</num>
+        <num>(ii)</num>
         <text><strong>"Package or packaging"</strong> means to contain food within a bottle, can, carton, or secure wrapping.</text>
       </para>
       <para>
-        <num>(36)</num>
+        <num>(jj)</num>
         <text><strong>"Packing"</strong> means placing food into a container other than packaging and also includes activities performed incidental to packing or re-packing a food (e.g. sorting, culling, grading and weighing or conveying incidental to packing or re-packing), but does not include any process that would transform the food from its raw, uncooked state.</text>
       </para>
       <para>
-        <num>(37)</num>
+        <num>(kk)</num>
         <text><strong>"Plant harvesting" </strong>means the removal of raw wild plant matter or fungi from the place where it grows in order to prepare it for use as human food. Examples of plant harvesting include brushing off dirt from its surface, cooling, field coring, filtering, gathering, drying, parching, hulling, shelling, threshing, trimming off outer leaves and washing. Plant harvesting does not encompass activities that constitute processing.</text>
       </para>
       <para>
-        <num>(38)</num>
+        <num>(ll)</num>
         <text><strong>"Preventative measure"</strong> means physical, chemical or other factors that can be used to control an identified food safety hazard.</text>
       </para>
       <para>
-        <num>(39)</num>
+        <num>(mm)</num>
         <text><strong>"Principal display panel" or "PDP"</strong> means the part of the food label most likely to be displayed to the customer when the product is offered for sale, also refers to the front label on a product.</text>
       </para>
       <para>
-        <num>(40)</num>
+        <num>(nn)</num>
         <text><strong>"Process-monitoring instrument"</strong> means an instrument or device used to indicate conditions during processing at a critical control point.</text>
       </para>
       <para>
-        <num>(41)</num>
+        <num>(oo)</num>
         <text><strong>"Processing" </strong>means the manufacture or preparation of foods for sale through the process of canning, extracting, fermenting, distilling, pickling, freezing, baking, smoking, grinding, cutting, deboning, mixing, coating, stuffing, bottling, packaging or through any other treatment or preservation process. Processing does not include the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Harvesting, transporting or storing wild foods or wild food products, without otherwise engaging in processing;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Practices such as heading, eviscerating or freezing fish, and field-dressing animals, solely to prepare that fish or animal for transportation from the water or the field; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The operation of a retail food establishment.</text>
         </para>
       </para>
       <para>
-        <num>(42)</num>
-        <text><strong>"Processor"</strong> means any person engaged in the processing of food for sale or donation pursuant to <cite path="58">this Title</cite>.</text>
+        <num>(pp)</num>
+        <text><strong>"Processor"</strong> means any person engaged in the processing of food for sale or donation pursuant to <cite path="58">this title</cite>.</text>
       </para>
       <para>
-        <num>(43)</num>
+        <num>(qq)</num>
         <text><strong>"Produce"</strong> means any fruit, vegetable or mushroom and includes tree nuts and herbs. A fruit is the edible reproductive body of a seed plant or tree nut (e.g. blueberry or hazelnut). A vegetable is the edible part of an herbaceous plant (e.g. fiddlehead fern or wild ramp) or the fleshy fruiting body of a mushroom (e.g. morel mushroom). Produce does not include food grains, such as wild rice and amaranth seeds.</text>
       </para>
       <para>
-        <num>(44)</num>
+        <num>(rr)</num>
         <text><strong>"Qualified small and very small business" </strong>means a plant harvester that is subject to any of the requirements of Chapter 7 [Produce], and on a rolling basis, the average monetary value of the produce they sold during the last 3 years is no more than $500,000, and the majority of sales are direct sales to consumers of the food; or restaurants, food service institutions or retail food establishments that are located:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>in the same state or Indian reservation as that the produce was harvested; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>is located no more than 275 miles from the plant harvester's residence.</text>
         </para>
       </para>
       <para>
-        <num>(45)</num>
+        <num>(ss)</num>
         <text><strong>"Raw plant material"</strong> means an agricultural commodity in its raw or natural state, including all fruits, vegetables and mushrooms that are washed, brushed off or otherwise treated in the uncut natural form, and manoomin that is parched, threshed and sorted.</text>
       </para>
       <para>
-        <num>(46)</num>
+        <num>(tt)</num>
         <text><strong>"Ready-to-eat foods" or "RTE foods"</strong> means foods that require no further processing prior to consumption.</text>
       </para>
       <para>
-        <num>(47)</num>
+        <num>(uu)</num>
         <text><strong>"Retail food establishment"</strong> means a permanent unit or location within the exterior boundaries of the Turtle Mountain Reservation within which food is processed on site, or made available, intended for individual consumption, and where goods may be purchased by individuals or entities who are not members of any federally recognized Indian tribe. The term includes any such place whether consumption is on or off premises, including but not limited to the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A restaurant or eating/drinking establishment;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A market or grocery;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A catering business;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>A bakery or confectionary; or</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>A convenience store or gas station.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Food Trucks/ food stands</text>
         </para>
       </para>
       <para>
-        <num>(48)</num>
+        <num>(vv)</num>
         <text><strong>"Sanitize"</strong> means to adequately treat cleaned surfaces by a process that is effective in destroying vegetative cells of microorganisms of public health significance, and in substantially reducing numbers of other undesirable microorganisms, but without adversely affecting the product or its safety for the consumer.</text>
       </para>
       <para>
-        <num>(49)</num>
+        <num>(ww)</num>
         <text><strong>"Sanitization"</strong> means effective treatment by a process that provides enough accumulative heat or concentration of chemicals for enough time to reduce the count of microorganisms of public health significance to a safe level on clean surfaces, utensils and equipment.</text>
       </para>
       <para>
-        <num>(50)</num>
+        <num>(xx)</num>
         <text><strong>"Smoked or smoke-flavored fishery products"</strong> means the finished food prepared by:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Treating fish with salt (sodium chloride); and/or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Subjecting it to the direct action of smoke from burning wood, sawdust or similar material and/or imparting to it the flavor by a means such as immersing it in a solution of wood smoke.</text>
         </para>
       </para>
       <para>
-        <num>(51)</num>
+        <num>(yy)</num>
         <text><strong>"Syrup" </strong>means a liquid derived from sugar-rich tree sap, which is not less     than 66 degrees Brix.</text>
       </para>
       <para>
-        <num>(52)</num>
+        <num>(zz)</num>
         <text><strong>"Sugar"</strong> means a solid, grainy or viscous substance derived from sugar-rich tree sap, which was boiled beyond 66 degrees Brix and stirred.</text>
       </para>
       <para>
-        <num>(53)</num>
+        <num>(aaa)</num>
         <text><strong>"Toxic"</strong> means any substance which may have an adverse physiological effect on a person or persons, or land.</text>
       </para>
       <para>
-        <num>(54)</num>
+        <num>(bbb)</num>
         <text><strong>"Traditional food" </strong>means foods and beverages from pre-colonization times that are or have become part of the Anishinaabe diet and food ways.</text>
       </para>
       <para>
-        <num>(55)</num>
+        <num>(ccc)</num>
         <text><strong>"Traditionally safe methods"</strong> means a way of producing and/or preparing food using cultural practices specific to the Turtle Mountain Band of Chippewa Indians that have been proven to be safe over past generations.</text>
       </para>
       <para>
-        <num>(56)</num>
+        <num>(ddd)</num>
         <text><strong>"Tribal mushroom harvester"</strong> means a member of the TMBCI who harvests, picks or collects wild mushrooms for sale or donation as a class 1, 2 or 3 food.</text>
       </para>
       <para>
-        <num>(57)</num>
+        <num>(eee)</num>
         <text><strong>"Utensil"</strong> means any implement used in the storage, preparation, transportation or service of food.</text>
       </para>
       <para>
-        <num>(58)</num>
+        <num>(fff)</num>
         <text><strong>"Vehicle"</strong> means any van, truck, trailer, cab, bus, cycle, automobile, push cart, wagon or any other means of conveying food on land.</text>
       </para>
       <para>
-        <num>(59)</num>
+        <num>(ggg)</num>
         <text><strong>"Wildlife Animal" </strong>means an undomesticated mammal or bird found within free-ranging populations within the TMBCI.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.02.010 was formerly codified as 58.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.03</num>
     <heading>General Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0301</num>
+      <num>58.03.010</num>
       <heading>Zhawenindiwag; Respect for Traditional Foods and Consumers</heading>
       <para>
-        <num>(1)</num>
-        <text>All individuals and entities harvesting and processing food pursuant to <cite path="58">this Title</cite> shall handle that food in a respectful manner in order to prevent their adulteration and to remain consistent with our cultural traditions.</text>
+        <num>(a)</num>
+        <text>All individuals and entities harvesting and processing food pursuant to <cite path="58">this title</cite> shall handle that food in a respectful manner in order to prevent their adulteration and to remain consistent with our cultural traditions.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Only food which is amenable wild-harvest food may be donated or sold pursuant to <cite path="58">this Title</cite>. No adulterated food may be donated or sold pursuant to <cite path="58">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>Only food which is amenable wild-harvest food may be donated or sold pursuant to <cite path="58">this title</cite>. No adulterated food may be donated or sold pursuant to <cite path="58">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.010 was formerly codified as 58.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0302</num>
+      <num>58.03.020</num>
       <heading>Debwewin; Truth in Labeling</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All foods processed in accordance with <cite path="58">this title</cite> shall be labeled in a truthful manner and not be labeled in a manner that is false or misleading. The information required to be displayed on labels as described in this subsection shall be prominently displayed in readable format, with letters and numbers measuring no less than one-sixteenth of an inch.</text>
-        <text><cite path="58|58.03|58.0301">Section 58.0301</cite> sets a general standard related to overall food safety. Keeping food safe requires individuals and entities to respect necessary food safety standards, many of which are contained in this code. TMBCI may have specific standards related to the manner in which various foods are harvested or processed.</text>
+        <text><cite path="§58.03.010">Section 58.03.010</cite> sets a general standard related to overall food safety. Keeping food safe requires individuals and entities to respect necessary food safety standards, many of which are contained in this code. TMBCI may have specific standards related to the manner in which various foods are harvested or processed.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Wild rice shall not be labeled "natural wild rice" or "hand-harvested wild rice" unless the contents of the package consist entirely of hand-harvested wild rice and contain no mechanically-harvested wild rice or wild rice grown with the use of chemical fertilizers or herbicides.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Mushrooms shall be contained within packaging materials consistent with Sec.7.03(2), segregated by mushroom species, bearing a label containing the following information:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>Common name of mushroom species (e.g. "Morels"), followed by scientific name (e.g. Craterellus cornucopioides);</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>Harvester name and address;</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>The following consumer advisory, "WILD MUSHROOMS: CLEAN WELL AND COOK THOROUGHLY BEFORE CONSUMING"; and</text>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(D)</num>
             <text>Date of harvest.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Except for produce, all class 2 and 3 foods shall be labeled according to the regulations stated in the policy and procedures manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.020 was formerly codified as 58.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0303</num>
+      <num>58.03.030</num>
       <heading>Food Additives</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Added Flavors. The label of a Class 2 or 3 food product to which spices or other natural flavors are added shall declare such flavors in the list of ingredients, as required, in order by weight, with the largest quantity listed first. (Please refer to food code policy and regulations for more information).</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.030 was formerly codified as 58.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0304</num>
+      <num>58.03.040</num>
       <heading>Personnel</heading>
       <para>
-        <num>(1)</num>
-        <text>Each individual engaged in the harvesting of plants or animals intended as a class 1, 2 or 3 food, or the processing, packaging, packing, transporting or holding of food donated or sold pursuant to <cite path="58">this Title</cite> (including temporary and seasonal personnel) or in the supervision thereof must complete all education, training, and experience necessary as stated in the food code policy and regulation manual.</text>
+        <num>(a)</num>
+        <text>Each individual engaged in the harvesting of plants or animals intended as a class 1, 2 or 3 food, or the processing, packaging, packing, transporting or holding of food donated or sold pursuant to <cite path="58">this title</cite> (including temporary and seasonal personnel) or in the supervision thereof must complete all education, training, and experience necessary as stated in the food code policy and regulation manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.040 was formerly codified as 58.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0305</num>
+      <num>58.03.050</num>
       <heading>Equipment and Utensils</heading>
       <para>
-        <num>(1)</num>
-        <text>All equipment and utensils used in processing, packing or holding food sold or donated pursuant to <cite path="58">this Title</cite> must be so designed, and of such material and workmanship, as to be adequately cleaned and sterilized through the application of sanitation SSOPs, HACCP plans or Harvest Safety Plans, as applicable. Refer to the Food Code policy and Regulation manual for detailed list of requirements for equipment and utensils.</text>
+        <num>(a)</num>
+        <text>All equipment and utensils used in processing, packing or holding food sold or donated pursuant to <cite path="58">this title</cite> must be so designed, and of such material and workmanship, as to be adequately cleaned and sterilized through the application of sanitation SSOPs, HACCP plans or Harvest Safety Plans, as applicable. Refer to the Food Code policy and Regulation manual for detailed list of requirements for equipment and utensils.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.050 was formerly codified as 58.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0306</num>
+      <num>58.03.060</num>
       <heading>Handling of Inedible Food Byproducts</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All inedible food bi-products shall be immediately separated from wholesome food products and placed into waste bins clearly marked as "CONDEMNED, NOT FOR USE AS FOOD," which are covered and disposed of at or before the close of the day upon which they were condemned. These waste bins shall not be used for any other purpose. Inedible fish and plant waste may be disposed of in an off-site composting facility, as appropriate.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Waste generated by any licensed facility or vendor must be regularly removed from the facility and grounds by a waste handler licensed to handle those waste products, or transported to a waste handling facility in a sanitary manner, with care taken to avoid the contamination of any food, or object or container that will come into contact with food.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.060 was formerly codified as 58.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0307</num>
+      <num>58.03.070</num>
       <heading>Sanitation Control Procedures; Good Manufacturing Practices</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Sanitation SOP. Each establishment licensed as a food processing plant (Sec. 58.0311), retail food establishment (Sec. 58.0312), and each facility of a class 1 meat vendor (Sec. 58.0509) or class 1 fish vendor (Sec. 50.0605), shall have and implement a written sanitation standard operating procedure (herein referred to as SSOP) or similar document that is specific to each location (including mobile processing station) where food products are produced, stored and/or sold. The SSOP should specify how the establishment will meet those sanitation conditions and practices that are to be monitored in accordance the Food Code policy and regulation manual. The SSOP shall be signed and dated by the individual with overall authority in the establishment. This signature shall signify that the establishment will implement the SSOPs in accordance with the requirements set forth in subsection</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The SSOP shall be signed and dated upon initially implementing the SSOP and upon any modification to the SSOP.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.070 was formerly codified as 58.0307</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0308</num>
+      <num>58.03.080</num>
       <heading>Variance</heading>
-      <text>Operators, owners and agents in charge of a food processing plant, retail food establishment and class 1 meat vendors, class 1 fish vendors, low risk food vendors and non-exempt produce harvester may request from the TMBCI tribal licensing authority, a variance from requirements set forth in <cite path="58">this Title</cite>. All variance requests must be written documents specifying:</text>
+      <text>Operators, owners and agents in charge of a food processing plant, retail food establishment and class 1 meat vendors, class 1 fish vendors, low risk food vendors and non-exempt produce harvester may request from the TMBCI tribal licensing authority, a variance from requirements set forth in <cite path="58">this title</cite>. All variance requests must be written documents specifying:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The provisions that require a variance;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The reason for the request; and</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>Alternative procedures that will be employed in lieu of the standards in <cite path="58">this Title</cite>.</text>
+        <num>(c)</num>
+        <text>Alternative procedures that will be employed in lieu of the standards in <cite path="58">this title</cite>.</text>
         <text>In making decisions on variance requests, the TMBCI tribal licensing authority shall consider:</text>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(d)</num>
         <text>The type of foods that are handled within the food processing plant, retail food establishment or by that vendor;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(e)</num>
         <text>The food safety risks associated with those foods; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(f)</num>
         <text>Whether the alternative procedures proposed are sufficiently protective of health and safety.</text>
         <text>Procedures that are consistent with ways of producing and preparing foods using cultural practices specific to the Turtle Mountain Band of Chippewa Indians that have proven to be safe over past generations shall be eligible for the issuance of variances. If a variance is approved by the TMBCI tribal licensing authority, the decision shall be issued in writing, and dated. The requestor shall maintain a copy of the decision consistent with the schedules contained within Sec. 58.0309 [Recordkeeping].</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.080 was formerly codified as 58.0308</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0309</num>
+      <num>58.03.090</num>
       <heading>Recordkeeping</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Sanitation Control Records. Each food processor, which is not exempt from Sec. 58.0307 [Sanitation Control Procedures], shall create and maintain sanitation control records that, at a minimum, document the sanitation monitoring and corrections as prescribed the Food Code policy and regulation manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.090 was formerly codified as 58.0309</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0310</num>
+      <num>58.03.100</num>
       <heading>Food Processing Plants</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>General requirement. Each licensed food processing plant shall be maintained in a manner sufficient to prevent the creation of unsanitary conditions, to ensure that products produced are not adulterated, and consistent with the standards stated in the TMBCI Food Code Policy and Regulation Manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.100 was formerly codified as 58.0310</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0311</num>
+      <num>58.03.110</num>
       <heading>Retail Food Establishments</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A retail food vendor license is required for the retail sale of class 3 foods to individuals who are not members of a federally recognized Indian tribe, except that manoomin, maple syrup and maple sugar may be sold to any individual by a vendor who has not obtained a retail food vendor license.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>No person or persons, corporation or firm shall operate a retail food establishment within the exterior boundaries of the Turtle Mountain Reservation either permanent or temporary without a valid, unsuspended, unrevoked retail food vendor license issued by the TMBCI tribal licensing authority. Only a person or persons, corporation or firm that complies with the requirements of <cite path="58|58.03|58.0311">this Section</cite>, and the applicable food code pertaining to retail food establishments, shall be entitled to receive and retain a retail food vendor license. The valid license shall be prominently displayed in every retail food establishment.</text>
+        <num>(b)</num>
+        <text>No person or persons, corporation or firm shall operate a retail food establishment within the exterior boundaries of the Turtle Mountain Reservation either permanent or temporary without a valid, unsuspended, unrevoked retail food vendor license issued by the TMBCI tribal licensing authority. Only a person or persons, corporation or firm that complies with the requirements of <cite path="§58.03.110">this section</cite>, and the applicable food code pertaining to retail food establishments, shall be entitled to receive and retain a retail food vendor license. The valid license shall be prominently displayed in every retail food establishment.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All retail food establishments must meet the general requirements of the [current FDA Food Code].</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The TMBCI tribal licensing authority shall issue a retail food vendor license following receipt of any required fees, inspection of the premises and assurances from the tribal inspector that the applicant has met the conditions required for a satisfactory score pursuant to the Federal Food Code Guidelines with the Hazard Analysis Critical Control Point, Techniques of Quality Control.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Retail food vendor licenses shall be issued by the TMBCI tribal licensing authority for a 12-month period. Retail establishments selling class 3 foods in operation at the time that <cite path="58">this Title</cite> is enacted, shall have 6 months to obtain a valid retail food establishment license.</text>
+        <num>(e)</num>
+        <text>Retail food vendor licenses shall be issued by the TMBCI tribal licensing authority for a 12-month period. Retail establishments selling class 3 foods in operation at the time that <cite path="58">this title</cite> is enacted, shall have 6 months to obtain a valid retail food establishment license.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Inspections.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Inspections of food service premises by the TMBCI tribal licensing authority shall occur twice a year.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>At any time during the term of the license, either upon receipt of a complaint or upon its own volition, the TMBCI tribal licensing authority may conduct an unscheduled inspection of a vendor's food preparation site. Any reinspection conducted as a result of a prior violation of applicable law will result in an additional fee to the establishment and satisfactory action must be taken to cure the violation.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.110 was formerly codified as 58.0311</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0312</num>
+      <num>58.03.120</num>
       <heading>Enforcement</heading>
       <para>
-        <num>(1)</num>
-        <text>Strict compliance with the specific laws found in <cite path="58">this Title</cite> and any other applicable standards are required to protect the public health, safety and welfare.</text>
+        <num>(a)</num>
+        <text>Strict compliance with the specific laws found in <cite path="58">this title</cite> and any other applicable standards are required to protect the public health, safety and welfare.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>License Required. Operating a business which engages in the processing, distribution or sale of amenable wild-harvest food, which requires a specific license as listed below, without a valid, unrevoked and unsuspended license issued by the TMBCI tribal licensing authority within the exterior boundaries of the Turtle Mountain Reservation is strictly prohibited and will result in a fine and/or suspension of the right to operate, sell or receive amenable wild-harvested food:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Food processing plant (Sec. 58.0310);</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Retail food establishment (Sec. 58.0311);</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Class 1 meat vendor (Sec. 58.0503);</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Class 1 fish vendor (Sec. 58.0601);</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Non-exempt produce harvester (Sec. 58.0701); and</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Low risk food vendor (Sec. 58.0801).</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The owner, operator or agent in charge of a facility listed in subs. (2)(a)-(f), above, shall submit a registration application to the TMBCI tribal licensing authority on the prescribed form. The TMBCI tribal licensing authority shall compile and maintain an up-to-date list of facilities and vendors that are registered under <cite path="58">this Title</cite>.</text>
+        <num>(c)</num>
+        <text>The owner, operator or agent in charge of a facility listed in subs. (2)(a)-(f), above, shall submit a registration application to the TMBCI tribal licensing authority on the prescribed form. The TMBCI tribal licensing authority shall compile and maintain an up-to-date list of facilities and vendors that are registered under <cite path="58">this title</cite>.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Each registration form shall contain the information necessary to notify the TMBCI tribal licensing authority of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the email address and phone numbers for the contact person of the facility, and the general food category of the foods processed, packed or held at such facility. The registration form shall contain an assurance that the TMBCI tribal licensing authority will be permitted to inspect such facilities at the times and in the same manner as permitted by Section 704 of the Food, Drug and Cosmetic Act. The registrant shall notify the TMBCI tribal licensing authority in a timely manner of changes to such information.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>All facilities required to be registered pursuant to <cite path="58|58.03|58.0312">this Section</cite> shall have six (6) months from the date of adoption of <cite path="58">this Title</cite> to become compliant. During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration form under subsection (4), above, shall submit to the TMBCI tribal licensing authority a renewal registration containing the information described in subsection (3), above.</text>
+        <num>(e)</num>
+        <text>All facilities required to be registered pursuant to <cite path="§58.03.120">this section</cite> shall have six (6) months from the date of adoption of <cite path="58">this title</cite> to become compliant. During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration form under subsection (4), above, shall submit to the TMBCI tribal licensing authority a renewal registration containing the information described in subsection (3), above.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>A food production or distribution license will be suspended by the TMBCI tribal licensing authority and the operation closed down if the licensee is non-compliant with any applicable requirement of <cite path="58">this Title</cite>, any other applicable law or regulation, or for any other reason related to the protection of the community's public health, safety or welfare.</text>
+        <num>(f)</num>
+        <text>A food production or distribution license will be suspended by the TMBCI tribal licensing authority and the operation closed down if the licensee is non-compliant with any applicable requirement of <cite path="58">this title</cite>, any other applicable law or regulation, or for any other reason related to the protection of the community's public health, safety or welfare.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Failure to pass an inspection conducted by the TMBCI tribal licensing authority will be cause for a penalty, revocation or suspension of the license.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The TMBCI tribal licensing authority may close down an operation immediately on an emergency basis upon evidence of an imminent or serious health or safety threat to the community.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>Holding order.</text>
         <para>
-          <num>(a)</num>
-          <text>The TMBCI tribal licensing authority may issue a holding order preventing the sale or movement of any food if reasonable grounds exist to suspect that the food is adulterated or misbranded, or otherwise fails to meet the standards set forth in <cite path="58">this Title</cite>. The TMBCI tribal licensing authority may issue a holding order pending further examination or analysis to determine whether the food is adulterated or misbranded, or otherwise fails to meet the standards set forth in <cite path="58">this Title</cite>.</text>
+          <num>(1)</num>
+          <text>The TMBCI tribal licensing authority may issue a holding order preventing the sale or movement of any food if reasonable grounds exist to suspect that the food is adulterated or misbranded, or otherwise fails to meet the standards set forth in <cite path="58">this title</cite>. The TMBCI tribal licensing authority may issue a holding order pending further examination or analysis to determine whether the food is adulterated or misbranded, or otherwise fails to meet the standards set forth in <cite path="58">this title</cite>.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The TMBCI tribal licensing authority shall serve a holding order by delivering it to the owner or custodian of the food, or by placing a copy in a conspicuous place on or near the food products.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A holding order remains in effect for 14 days unless it is withdrawn. A holding order may be extended by 14 days by re-issuing and serving the re-issued holding order in subsection (b), above.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>No person may sell, move or alter any food under holding order, except with the written permission of the TMBCI tribal licensing authority. The TMBCI tribal licensing authority may authorize the owner or custodian to take corrective action.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The TMBCI tribal licensing authority may release a holding order if the TMBCI tribal licensing authority finds that the suspect product is not adulterated or misbranded, or that the violation has been corrected.</text>
         </para>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>Condemnation Order.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the TMBCI tribal licensing authority finds that food is adulterated, misbranded, or a class 2 or 3 meat product is not derived from a carcass that passed inspection pursuant to Sec. 5.05 [Post-Mortem Inspection], the TMBCI tribal licensing authority may order the owner or custodian to do any of the following:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>Correct the violation within a reasonable time period in a manner specified by the TMBCI tribal licensing authority in writing.</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>Dispose of the product, in a manner specified by the TMBCI tribal licensing authority in writing. The product may be ordered disposed if a violation cannot be corrected, or if the owner or custodian fails to correct the violation in the time period specified in subsection (i), above.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The TMBCI tribal licensing authority shall serve an order under subsection (a), above, by delivering a copy of the order to the owner or custodian of the food, or by placing a copy in a conspicuous place on or near the food product. An order takes place when served.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>No person may sell, move or alter any food covered by a condemnation order, except as directed by the TMBCI tribal licensing authority.</text>
         </para>
       </para>
       <para>
-        <num>(11)</num>
-        <text>The TMBCI tribal licensing authority may order a person to correct a violation of <cite path="58">this Title</cite>, and may specify a deadline for correcting the violation.</text>
+        <num>(k)</num>
+        <text>The TMBCI tribal licensing authority may order a person to correct a violation of <cite path="58">this title</cite>, and may specify a deadline for correcting the violation.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>The TMBCI tribal licensing authority may issue an order prohibiting the use of unsanitary facilities, equipment or utensils that may contaminate class 1, 2 or 3 food. The TMBCI tribal licensing authority may issue an order under this subsection by applying a "REJECTED" tag to the facilities, equipment or utensils. A person may not use those facilities, equipment or utensils until the violation is corrected and the order is withdrawn.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>Any food processing plant, retail food establishment, or facility of a class 1 meat vendor, class 1 fish vendor, low risk food vendor or non-exempt produce harvester that has been closed down by the TMBCI tribal licensing authority due to evidence of a serious health or safety threat must provide evidence of satisfactorily corrected compliance to the TMBCI tribal licensing authority prior to being reopened for business.</text>
         <para>
-          <num>(a)</num>
-          <text>Any food production or distribution establishment that has been closed due to a violation of the applicable law must be re-inspected by the TMBCI tribal licensing authority at the vendor's cost with a resulting satisfactory inspection pursuant to the applicable standards contained in <cite path="58">this Title</cite> and any other standards that apply to the operations.</text>
+          <num>(1)</num>
+          <text>Any food production or distribution establishment that has been closed due to a violation of the applicable law must be re-inspected by the TMBCI tribal licensing authority at the vendor's cost with a resulting satisfactory inspection pursuant to the applicable standards contained in <cite path="58">this title</cite> and any other standards that apply to the operations.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Any food production or distribution establishment that has been ordered closed, may only receive a probationary license for six months upon evidence of satisfactory compliance with applicable sections of <cite path="58">this Title</cite> and any other standards that apply to the operations.</text>
+          <num>(2)</num>
+          <text>Any food production or distribution establishment that has been ordered closed, may only receive a probationary license for six months upon evidence of satisfactory compliance with applicable sections of <cite path="58">this title</cite> and any other standards that apply to the operations.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>After six months of compliance with applicable sections of <cite path="58">this Title</cite> and any other standards that apply to the operations, as determined by the TMBCI tribal licensing authority, the licensee may apply to receive an annual license.</text>
+          <num>(3)</num>
+          <text>After six months of compliance with applicable sections of <cite path="58">this title</cite> and any other standards that apply to the operations, as determined by the TMBCI tribal licensing authority, the licensee may apply to receive an annual license.</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>Any food production or distribution establishment operator who violates any provision of <cite path="58">this Title</cite>, upon conviction, shall forfeit not less than $5.00 nor more than $500.00, together with the costs of prosecution. In default of payment of such forfeitures and costs, the food production or distribution establishment shall be closed down or remain closed until such forfeitures and costs are paid and all other areas of non-compliance with <cite path="58">this Title</cite> or other applicable standards have been cured.</text>
+          <num>(4)</num>
+          <text>Any food production or distribution establishment operator who violates any provision of <cite path="58">this title</cite>, upon conviction, shall forfeit not less than $5.00 nor more than $500.00, together with the costs of prosecution. In default of payment of such forfeitures and costs, the food production or distribution establishment shall be closed down or remain closed until such forfeitures and costs are paid and all other areas of non-compliance with <cite path="58">this title</cite> or other applicable standards have been cured.</text>
         </para>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>Appeals.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Parties who disagree with the decisions of the TMBCI tribal licensing authority regarding issues of licensing or inspections may appeal to the TMBCI Court (b) Hearings will be conducted according to [the Rules of Civil Procedure] as established by Title 18.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.120 was formerly codified as 58.0312</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0314</num>
+      <num>58.03.130</num>
       <heading>Prohibited Practices</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Process or sell, as a class 1, 2 or 3 food, any adulterated or food labeled inconsistent with Sec. 3.02 [Debwewin; Truth in Labeling].</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Process, store, handle, transport or sell any class 1, 2, or 3 food under conditions that may render the food adulterated.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Make any false, deceptive or misleading statement, when submitting a Harvester Certificate of Guarantee related to any of the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The time, date or location of harvest;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The condition of a wildlife animal prior to being killed; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The manner in which a wildlife animal carcass, fish, plant or fungus was transported, processed or stored.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Obstruct an official of the TMBCI tribal licensing authority performing their duties. Obstruction includes any of the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Physical interference.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Verbal or physical assault or abuse.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Threatening behavior or communications.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Refusal to carry out legitimate directives.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Intentional acts that impede the full, effective and efficient performance of the official's duties.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Concealing records, ingredients, food, labels, packaging materials or other items that may be inspected pursuant to Sec. 3.13 [Enforcement].</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Wrongfully alter, deface or remove a tribal tag, legend or mark applied under <cite path="58">this Title</cite>.</text>
+        <num>(e)</num>
+        <text>Wrongfully alter, deface or remove a tribal tag, legend or mark applied under <cite path="58">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.03.130 was formerly codified as 58.0314</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.04</num>
     <heading>Hazard Analysis Critical Control Point</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0401</num>
+      <num>58.04.010</num>
       <heading>Hazard Analysis Critical Control Point (Haccp) Plan</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Every food processing plant, class 1 meat vendor and class 1 fish vendor shall conduct, or have conducted for it or them, a hazard analysis to determine whether there are food safety hazards that are reasonably likely to occur for each kind of raw and finished food product processed by that facility and to identify the preventative measures that the processor can apply to control those hazards. Such food safety hazards can be introduced both within and outside the processing plant environment, including food safety hazards that can occur before, during and after entry into the food processing environment. A food safety hazard that is reasonably likely to occur is one for which a prudent processor would establish controls because experience, illness, data, scientific reports or other information provide a basis to conclude that there is a reasonable possibility that the hazard will occur in the particular type of product being processed, in absence of those controls.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The HACCP Plan. Every food processing plant, class 1 meat vendor and class 1 fish vendor shall have, and implement, a written HACCP plan whenever a hazard analysis reveals one or more food safety hazards that are reasonably likely to occur, as described in Sec. 4.01(1). See the TMBCI Food Code Policy and Regulation Manual for specific minimum requirements.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.04.010 was formerly codified as 58.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0402</num>
+      <num>58.04.020</num>
       <heading>Corrective Actions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Whenever a deviation from a critical limit occurs, a processor shall take corrective action by following the procedures stated in the TMBCI Food Code Policy and Regulation Manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.04.020 was formerly codified as 58.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0403</num>
+      <num>58.04.030</num>
       <heading>Verification</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Overall verification. Every processor shall verify that the HACCP plan is adequate to control food safety hazards that are reasonably likely to occur, and that the plan is being effectively implemented as stated in the TMBCI Food Code Policy and Regulation Manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.04.030 was formerly codified as 58.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0404</num>
+      <num>58.04.040</num>
       <heading>Records</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>General requirements. All records required by this part shall refer to the TMBCI Food Code Policy and Regulation Manual.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.04.040 was formerly codified as 58.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0405</num>
+      <num>58.04.050</num>
       <heading>Training on Haccp</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>At a minimum, the following functions shall be performed by an individual who has successfully completed training in the application of HACCP principles to treaty harvested food product processing at least equivalent to that received under standardized curriculum recognized as adequate by the TMBCI tribal licensing authority or who is otherwise qualified through job experience to perform these functions; the individual need not be an employee of the establishment. Job experience will qualify an individual to perform these functions if it has provided knowledge at least equivalent to that provided through the standardized curriculum.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.04.050 was formerly codified as 58.0405</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.05</num>
     <heading>Meat</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0501</num>
+      <num>58.05.010</num>
       <heading>Harvesting Wildlife Animals for Processing as a Class 1, 2, and 3 Foods</heading>
       <para>
-        <num>(1)</num>
-        <text>Only those wildlife animals who are healthy and alive at the time they are harvested, and whose carcasses do not exhibit any signs of injury or disease which pose a risk to human health, shall be suitable for processing for pursuant to <cite path="58">this Title</cite>. Compliance with Chapter 4 [Hazard Analysis Critical Control Point] is not required for the harvesting and handling wildlife animals outside of tribally-licensed food processing plants; however, wildlife animal carcasses which are not accompanied by a complete Harvester Certificate of Guarantee, signed by the harvester and certifying compliance with all applicable subsections of Sec. 5.01 to 5.04, may not be sold or donated pursuant to <cite path="58">this Title</cite>.</text>
+        <num>(a)</num>
+        <text>Only those wildlife animals who are healthy and alive at the time they are harvested, and whose carcasses do not exhibit any signs of injury or disease which pose a risk to human health, shall be suitable for processing for pursuant to <cite path="58">this title</cite>. Compliance with Chapter 4 [Hazard Analysis Critical Control Point] is not required for the harvesting and handling wildlife animals outside of tribally-licensed food processing plants; however, wildlife animal carcasses which are not accompanied by a complete Harvester Certificate of Guarantee, signed by the harvester and certifying compliance with all applicable subsections of Sec. 5.01 to 5.04, may not be sold or donated pursuant to <cite path="58">this title</cite>.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>No member shall hunt wildlife animals for sale as a class 1, 2 or 3 food unless the outdoor air temperature in the tribal deer management unit within which the animal is killed, is 41° Celsius or cooler, when the animal is slaughtered and field-dressed.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(c)</num>
         <text>If a wildlife animal is harvested or killed by the use of a firearm, only nontoxic ammunition may be used. Only small game animals may be harvested or killed with projectile shot (pellets).</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Harvesters shall comply with all applicable tribal conservation code provisions, including Title 35 Fish and Game Code. The Harvester Certificate of Guarantee for each wildlife animal sold or donated pursuant to <cite path="58">this Title</cite> shall reference the sequence of numbers, symbols and/or letters listed on the commercial harvest tag, carcass tag or other registration document, as applicable. The harvester shall also document the following on the Harvester Certificate of Guarantee:</text>
+        <num>(d)</num>
+        <text>Harvesters shall comply with all applicable tribal conservation code provisions, including Title 35 Fish and Game Code. The Harvester Certificate of Guarantee for each wildlife animal sold or donated pursuant to <cite path="58">this title</cite> shall reference the sequence of numbers, symbols and/or letters listed on the commercial harvest tag, carcass tag or other registration document, as applicable. The harvester shall also document the following on the Harvester Certificate of Guarantee:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The date, time of location of the kill;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The ambient air temperature at the time of killing, or the range of temperatures in the 24-hour period between trap checks, as applicable, and the ambient air temperature while field dressing;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The manner of killing (i.e. "killed by gunshot wound to the upper right shoulder.");</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Type of ammunition, or type of killing trap, used.</text>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(e)</num>
         <text>Harvesters shall comply with any requirement of the TMBCI tribal natural   resources department and/or [tribal licensing authority] to collect and submit samples of tissue from the carcass for disease testing.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.05.010 was formerly codified as 58.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0502</num>
+      <num>58.05.020</num>
       <heading>Small Game Animal Harvesting</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>No member shall hunt or trap any small game animals for sale or donation as class 1, 2 or 3 food unless a harvest season is listed for the animal in the TMBCI Turtle Mountain Band of Chippewa's Title 35, Tribal Fish and Game Code however, food derived from the following species shall not be considered amenable wild-harvest food: bobcat, coyote, grey fox and red fox. Food containing the meat of migratory birds may not be sold.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.05.020 was formerly codified as 58.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0503</num>
+      <num>58.05.030</num>
       <heading>Class 1 Meat Products</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Class 1 meat products are limited to fresh and frozen cuts of meat that have not been ground. Chapter 4 [Hazard Analysis Critical Control Point] apply to the production of all Class 1 meat products.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>A valid class 1 meat vendor license issued by the Turtle Mountain Band of Chippewa is required to produce class 1 meat products outside of a tribally-licensed food processing plant. Class 1 meat vendor licenses shall be issued upon the submission of complete applications and satisfactory inspections, if inspection is required. Class 1 meat vendor licenses may be revoked or suspended for non-compliance with the standards set forth within <cite path="58.05">this Chapter</cite>. The TMBCI tribal licensing authority may refuse to issue a class 1 meat vendor license to an individual with ownership or management interest in an operation which has been subject to any serious, or ongoing or unresolved violations of <cite path="58.05">this Chapter</cite>. An application for a class 1 meat vendor permit must be submitted to the TMBCI tribal licensing authority annually, for each physical location and mobile processing unit used to process meat as a Class 1 food, containing the following information:</text>
+        <num>(b)</num>
+        <text>A valid class 1 meat vendor license issued by the Turtle Mountain Band of Chippewa is required to produce class 1 meat products outside of a tribally-licensed food processing plant. Class 1 meat vendor licenses shall be issued upon the submission of complete applications and satisfactory inspections, if inspection is required. Class 1 meat vendor licenses may be revoked or suspended for non-compliance with the standards set forth within <cite path="58|58.05">this chapter</cite>. The TMBCI tribal licensing authority may refuse to issue a class 1 meat vendor license to an individual with ownership or management interest in an operation which has been subject to any serious, or ongoing or unresolved violations of <cite path="58|58.05">this chapter</cite>. An application for a class 1 meat vendor permit must be submitted to the TMBCI tribal licensing authority annually, for each physical location and mobile processing unit used to process meat as a Class 1 food, containing the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The name of the food producer and mailing address;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Physical address of the facility or residence used to process the meat;</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>A statement agreeing to comply with the requirements and standards set forth in <cite path="58.05">this Chapter</cite>, including any required inspections required by the TMBCI tribal licensing authority; and</text>
+          <num>(3)</num>
+          <text>A statement agreeing to comply with the requirements and standards set forth in <cite path="58|58.05">this chapter</cite>, including any required inspections required by the TMBCI tribal licensing authority; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Payment of required fees.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Inspections</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>An annual inspection is required for all facilities used to process and package class 1 meat.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The TMBCI tribal regulatory agency may inspect facilities licensed to process and package class 1 meat upon a reasonable belief that the operation is in violation of the requirements contained in <cite path="58.05">this chapter</cite> or in response to a public health emergency (e.g. such as a foodborne illness outbreak associated with the consumption of foods produced by the operation).</text>
+          <num>(2)</num>
+          <text>The TMBCI tribal regulatory agency may inspect facilities licensed to process and package class 1 meat upon a reasonable belief that the operation is in violation of the requirements contained in <cite path="58|58.05">this chapter</cite> or in response to a public health emergency (e.g. such as a foodborne illness outbreak associated with the consumption of foods produced by the operation).</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Inspections may include a walk-through of the premises used for the cleaning and sanitizing of surfaces, tools and equipment, for processing and packaging cuts of meat and storage areas, and review of the facility's records. Additionally, during the inspection, the vendor must demonstrate an understanding of the applicable food safety standards and the capacity to comply with those standards.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.05.030 was formerly codified as 58.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>58.0504</num>
+      <num>58.05.040</num>
       <heading>Class 2 and 3 Meat Products</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Class 2 meat products are limited to fresh and frozen cuts of meat, and fresh and frozen ground meat. The provisions of Sec. 3.11 [Food Processing Plants] and Chapter 4 [Hazard Analysis Critical Control Point] apply to the production of all Class 2 meat products.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Class 3 meat products are limited to fresh and frozen cuts of meat, fresh and frozen ground meat and dehydrated meat products. The provisions of Sec. 3.11 [Food Processing Plants] and Chapter 4 [Hazard Analysis Critical Control Point] apply to the production of all Class 3 meat products.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Licensed food processing plants shall make and retain records related to meat from an animal processed by the facility for human consumption, which shall be retained pursuant to Sec. 58.0309 [Recordkeeping]. The record shall include the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The date and time the animal was harvested;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The date and time the animal was processed</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The type and amount of meat processed, the disposition of that meat, and any lot number or other identifier created for that meat;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Harvester Certificate of Guarantee; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Any other information required by the TMBCI tribal licensing authority.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>All establishments which produce class 2 and 3 meat products shall create a written recall plan to protect the public from products that may cause health problems or possible death. Written recall plans must include the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Identification of recall personnel, with their roles and responsibilities specified.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Detailed specification of the procedures that will take place.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Evaluation of the health hazards as identified in the establishment's HACCP plans.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Scope of the recall (dependent on the type of product and risks involved).</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Depth of the recall (dependent on the degree of hazard, extent of distribution and the amount of product distributed).</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Recall communication plan, including notification of retail and other establishments distributing the product.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Public notification.</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Effectiveness checks to ensure that retail and other establishments took the appropriate action.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>Returned product control and disposition.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>Recall simulations conducted periodically by the establishment.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.05.040 was formerly codified as 58.0504</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.06</num>
     <heading>Fish</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0601</num>
+      <num>58.06.010</num>
       <heading>Receipt and Processing of Freshly Harvested Fish</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Each lot of raw, unfrozen fish received by a food processing plant, and prior to beginning any processing, shall be inspected prior to being received by the food processing plant to ensure that the product is fresh and wholesome, and arrives consistent with one or more of the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Accompanied by transportation records that show that the product was held at or below an ambient or internal temperature of 38°F or below throughout transit; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Completely surrounded by ice at the time of delivery; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Delivered under a sufficient quantity of chemical cooling media that remain frozen, have kept the product at an internal temperature of 38°F or below throughout transit, and the internal temperature of the product at the time of delivery is 38°F or below; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Delivered refrigerated with a transit time of 4 hours or less, verified by transportation records, and the internal temperature of the product at the time of delivery is 38°F or less.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Only fish accompanied by proof of legal harvest shall be received by a food processing plant. For Class 1 fish products, produced outside of a fish processing plant, the processor shall receive proof of legal harvest. These records shall be maintained by the processor consistent with the schedules set forth in Sec. 3.10 [Recordkeeping].</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All fish sold to anyone, donated to a tribal government program or school, or transferred to a food processing plant shall be accompanied by a Harvester Certificate of Guarantee documenting the waterbody of harvest. Fish harvested from water bodies with mercury do not eat consumption guidance published by the Great Lakes Indian Fish and Wildlife Commission for pregnant women, women of childbearing age and children under 15 years of age, for that species of fish, may not be sold, donated or received by a food processing plant.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.06.010 was formerly codified as 58.0601</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.07</num>
     <heading>Produce</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0701</num>
+      <num>58.07.010</num>
       <heading>General Provisions</heading>
       <para>
-        <num>(1)</num>
-        <text>All personnel engaged in activities that involve the handling of produce sold or donated pursuant to <cite path="58">this Title</cite> shall be in the TMBCI Policy and Regulations.</text>
+        <num>(a)</num>
+        <text>All personnel engaged in activities that involve the handling of produce sold or donated pursuant to <cite path="58">this title</cite> shall be in the TMBCI Policy and Regulations.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.07.010 was formerly codified as 58.0701</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>58.08</num>
     <heading>Low-Risk Foods</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>58.0801</num>
+      <num>58.08.010</num>
       <heading>General Provisions</heading>
       <para>
-        <num>(1)</num>
-        <text><cite path="58.08">This chapter</cite> applies to the production of low-risk foods. Low-risk foods are foods that carry a lower risk of food-borne pathogens and can be safely produced outside of tribally-licensed food processing plants. A non-exclusive list of low-risk foods includes: manoomin (wild rice) and manoomin flours, low-acid fruit preserves, low-acid pickled produce, dried teas or dried tea blends, dried fruit (excepting melons), candy, syrups and sugar made from tree sap.</text>
+        <num>(a)</num>
+        <text><cite path="58|58.08">This chapter</cite> applies to the production of low-risk foods. Low-risk foods are foods that carry a lower risk of food-borne pathogens and can be safely produced outside of tribally-licensed food processing plants. A non-exclusive list of low-risk foods includes: manoomin (wild rice) and manoomin flours, low-acid fruit preserves, low-acid pickled produce, dried teas or dried tea blends, dried fruit (excepting melons), candy, syrups and sugar made from tree sap.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>A valid low-risk food vendor license issued by the Turtle Mountain Band of Chippewa Indians is required for the production of low-risk foods produced outside of a tribally-licensed food processing plant, except that Class 1 manoomin and Class 1 syrup and sugar may be processed without a low-risk food vendor license. Low-risk food vendor licenses shall be issued upon the submission of complete applications and satisfactory inspection. Low-risk food vendor licenses may be revoked or suspended for non-compliance with the standards set forth within <cite path="58.08">this Chapter</cite>. The TMBCI tribal licensing authority may refuse to issue a low-risk food vendor license to an individual with ownership or management interest in an operation which has been subject to any serious, or ongoing or unresolved violations of any applicable portions of <cite path="58">this Title</cite>. An application for a low-risk food vendor permit must be submitted to the TMBCI tribal licensing authority annually, for each physical location used to produce a low-risk food, containing the following information will be located in TMBCI Policy and Regulations.</text>
+        <num>(b)</num>
+        <text>A valid low-risk food vendor license issued by the Turtle Mountain Band of Chippewa Indians is required for the production of low-risk foods produced outside of a tribally-licensed food processing plant, except that Class 1 manoomin and Class 1 syrup and sugar may be processed without a low-risk food vendor license. Low-risk food vendor licenses shall be issued upon the submission of complete applications and satisfactory inspection. Low-risk food vendor licenses may be revoked or suspended for non-compliance with the standards set forth within <cite path="58|58.08">this chapter</cite>. The TMBCI tribal licensing authority may refuse to issue a low-risk food vendor license to an individual with ownership or management interest in an operation which has been subject to any serious, or ongoing or unresolved violations of any applicable portions of <cite path="58">this title</cite>. An application for a low-risk food vendor permit must be submitted to the TMBCI tribal licensing authority annually, for each physical location used to produce a low-risk food, containing the following information will be located in TMBCI Policy and Regulations.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§58.08.010 was formerly codified as 58.0801</annotation>
+      </annotations>
     </section>
   </container>
 </container>

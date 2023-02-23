@@ -1,34 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>61</num>
   <heading>Open Public Meetings Act of 2018</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>61.01</num>
     <heading>Open Meetings and Notice to the Public</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>61.0101</num>
+      <num>61.01.010</num>
       <heading>Authority</heading>
       <text>Article VII and Article IX § a of the Constitution grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.010 was formerly codified as 61.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0102</num>
+      <num>61.01.020</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="61">this Title</cite> is to ensure that the Tribe's governmental business is conducted in an open and public manner. <cite path="61">This Title</cite> will ensure the people of the Tribe remain informed on the affairs of the Tribe, their elected government officials, and the governmental systems created by the people of the Tribe.</text>
-      <annotations/>
+      <text>The purpose of <cite path="61">this title</cite> is to ensure that the Tribe's governmental business is conducted in an open and public manner. <cite path="61">This title</cite> will ensure the people of the Tribe remain informed on the affairs of the Tribe, their elected government officials, and the governmental systems created by the people of the Tribe.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.020 was formerly codified as 61.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0103</num>
+      <num>61.01.030</num>
       <heading>Declaration of Policy</heading>
       <para>
         <num>(a)</num>
-        <text>Meetings of public bodies, Commissions, Boards, and Tribal Council of the Tribe shall be conducted openly, notices shall be provided for such meetings, and such notices include the information reasonably necessary to inform the public of the matters to be discussed or decided at the meeting. The Judiciary shall take into account this policy and shall construe and interpret any provision of <cite path="61">this Title</cite> in favor of open and public meetings.</text>
+        <text>Meetings of public bodies, Commissions, Boards, and Tribal Council of the Tribe shall be conducted openly, notices shall be provided for such meetings, and such notices include the information reasonably necessary to inform the public of the matters to be discussed or decided at the meeting. The Judiciary shall take into account this policy and shall construe and interpret any provision of <cite path="61">this title</cite> in favor of open and public meetings.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The policy of the TMBCI Tribe is as follows and as further specified in <cite path="61">this Title</cite>.</text>
+        <text>The policy of the TMBCI Tribe is as follows and as further specified in <cite path="61">this title</cite>.</text>
         <para>
           <num>(1)</num>
           <text>When the Tribal Council Titles in its law-making function, such actions shall be taken at an open meeting.</text>
@@ -39,15 +43,17 @@
         </para>
       </para>
       <para>
-        <num>(a)</num>
-        <text>All meetings, including District Meetings, under <cite path="61">this Title</cite> shall be subject to zero tolerance for alcohol and drugs. This policy shall apply to the members of the public body and the attending public.</text>
+        <num>(c)</num>
+        <text>All meetings, including District Meetings, under <cite path="61">this title</cite> shall be subject to zero tolerance for alcohol and drugs. This policy shall apply to the members of the public body and the attending public.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.030 was formerly codified as 61.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0104</num>
+      <num>61.01.040</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="61">this Title</cite>, the following shall have the meaning provided here:</text>
+      <text>As used in <cite path="61">this title</cite>, the following shall have the meaning provided here:</text>
       <text>"Bylaws" mean the rules adopted by a public body for its internal governance.</text>
       <text>"Executive Session" means that portion of a meeting not open to the public.</text>
       <text>"Judiciary" means the Courts of the TMBCI Tribe and any of its boards or committees.</text>
@@ -57,51 +63,55 @@
       <text>"Public" means enrolled members of the TMBC1 Tribe, and other persons as authorized by the Tribal Council, Executive Branch, Judiciary, or General Council to attend a meeting.</text>
       <text>"Public Body" means any official entity in which a quorum is required to conduct public business and which performs a governmental function for the Tribe. Public bodies shall include the Judiciary and the Tribal Council, including its Committees and the following type and defined public bodies:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text><u>Authority</u>. A public agency or corporation established by the Tribal Council with autonomous administrative powers in a specified field.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text><u>Commission</u>. An official body established by the Constitution or the Tribal Council empowered with specific regulatory and rulemaking powers and duties.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text><u>Boards</u>. The TMBCI Tribe recognizes the following types of boards:</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text><u>Board</u>. A board other than a board of directors or an advisory board that is established by law and administered by the Chairman to exercise certain authorities and have oversight or control of certain matters.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text><u>Board of Directors</u>. An official body required by the Constitution, established by the Tribal Council, and administered by the Chairman to serve in an advisory capacity to the Executive Director of a Department.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text><u>Advisory Board</u>. An official representative body established by the Tribal Council and administered by the Chairman to provide a department or program counseling and advice, which is neither imperative nor conclusive.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text><u>Work Group or Task Force</u>. A temporary short-term ad hoc body established by a governmental entity for a focused effort on a specific issue. The body's charter may or may not require a quorum to conduct its business.</text>
         <text>Quorum means a majority of the members of the Tribal Council, a Board, or Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.040 was formerly codified as 61.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0105</num>
+      <num>61.01.050</num>
       <heading>Open Meetings</heading>
       <para>
         <num>(a)</num>
-        <text>Every meeting of a public body shall be open to the public and the public shall be permitted to attend and listen to the deliberations and proceedings except when an executive session is called pursuant to <cite path="61">this Title</cite> or when an individual engages in disruptive behavior.</text>
+        <text>Every meeting of a public body shall be open to the public and the public shall be permitted to attend and listen to the deliberations and proceedings except when an executive session is called pursuant to <cite path="61">this title</cite> or when an individual engages in disruptive behavior.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>A member of the public shall not be required to register his or her name, provide other information, or complete any form or document as a precondition to attend a meeting. A voluntary registration form or other document may be circulated to members of the public who are present at a meeting; however, completion of such form or document shall not be required in order for the public to attend a meeting. Non-members of the Tribe who are authorized to attend a meeting may be required to identify themselves as non-members of the Tribe.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.050 was formerly codified as 61.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0106</num>
+      <num>61.01.060</num>
       <heading>Executive Session</heading>
       <text>In the spirit of open meetings, public bodies shall limit their executive sessions to only those essential matters requiring confidentiality. The Tribal Council reserves the right to examine executive session minutes to ensure that executive sessions are only convened for appropriate matters.</text>
       <para>
@@ -141,13 +151,15 @@
         </para>
       </para>
       <para>
-        <num>(a)</num>
+        <num>(b)</num>
         <text>Any member of the public body and any other persons authorized by the public body shall be permitted to attend an executive session.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.060 was formerly codified as 61.0106</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0107</num>
+      <num>61.01.070</num>
       <heading>Public Notice</heading>
       <para>
         <num>(a)</num>
@@ -165,10 +177,12 @@
         <num>(d)</num>
         <text>Meeting locations and times cannot be changed unless there is an emergency.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.070 was formerly codified as 61.0107</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0108</num>
+      <num>61.01.080</num>
       <heading>Minutes and Publishing of Minutes</heading>
       <para>
         <num>(a)</num>
@@ -211,21 +225,23 @@
         </para>
       </para>
       <para>
-        <num>(a)</num>
+        <num>(b)</num>
         <text>After each meeting of a public body, the approved minutes and supporting documentation shall be forwarded to the Tribal Records Department either digitally or by paper copy. This shall be performed within 5 days of passage of the minutes.</text>
       </para>
       <para>
-        <num>(b)</num>
+        <num>(c)</num>
         <text>The minutes to a meeting of a public body, except the minutes to a meeting of an executive session, shall be made available for general distribution. The public may inspect and photocopy the minutes of a meeting of a public body, except executive session minutes, during normal business hours; however, photocopying of executive session minutes shall not be permitted.</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num>(d)</num>
         <text>The Tribal Council shall have access to all minutes of all meetings of a public body including minutes of an executive session.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.080 was formerly codified as 61.0108</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0109</num>
+      <num>61.01.090</num>
       <heading>Membership</heading>
       <para>
         <num>(a)</num>
@@ -238,31 +254,33 @@
           <num>(1)</num>
           <text>If the Tribal Council passes a Resolution prohibiting a certain public body from having an immediate family member serve on a public body, under the following two (2) circumstances an immediate family member may continue to serve on that public body:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>If the immediate family member is serving on a public body at the time of passage of the Resolution, he or she may continue to serve on that public body until such time as he or she must be re-appointed to that public body.</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>If an immediate family member is serving on a public body and a Legislator is newly elected to the Tribal Council, the immediate family member may continue to serve on that public body until such time as he or she must be re-appointed to that public body.</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>If the Tribal Council passes a Resolution prohibiting certain public bodies from having immediate family relatives serving on a public body, the passage of the Resolution along with the name of the public body shall be notated in the law or resolution.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(a)</num>
+        <num>(c)</num>
         <text>Immediate family is defined as parent, grandparent, sibling, child, step relative, spouse, or cohabitant.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.090 was formerly codified as 61.0109</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0110</num>
+      <num>61.01.100</num>
       <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
-        <text>Any member of the public shall have the power to enforce the requirements of <cite path="61">this Title</cite> by filing suit in the Tribe's Trial Court. Such actions shall be filed prior to or within thirty (30) days after the violation arises or after discovery of the violation.</text>
+        <text>Any member of the public shall have the power to enforce the requirements of <cite path="61">this title</cite> by filing suit in the Tribe's Trial Court. Such actions shall be filed prior to or within thirty (30) days after the violation arises or after discovery of the violation.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -274,52 +292,66 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>A public body may ratify an action taken in violation of this law at a public meeting properly held within thirty (30) days after discovery of the violation or after such discovery should have been made using reasonable diligence. The effective date of action ratified pursuant to <cite path="61|61.01|61.0110">this Section</cite> shall be the date of the original enactment.</text>
+        <text>A public body may ratify an action taken in violation of this law at a public meeting properly held within thirty (30) days after discovery of the violation or after such discovery should have been made using reasonable diligence. The effective date of action ratified pursuant to <cite path="§61.01.100">this section</cite> shall be the date of the original enactment.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.100 was formerly codified as 61.0110</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0111</num>
+      <num>61.01.110</num>
       <heading>Sovereign Immunity/Remedy</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise specifically provided herein, nothing in <cite path="61">this Title</cite> shall be construed as a waiver of the Tribe's sovereign immunity from suit, which is expressly reserved.</text>
+        <text>Except as otherwise specifically provided herein, nothing in <cite path="61">this title</cite> shall be construed as a waiver of the Tribe's sovereign immunity from suit, which is expressly reserved.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Nothing in <cite path="61">this Title</cite> shall be construed to grant a party any remedies other than those included in <cite path="61|61.01|61.0111">this section</cite>.</text>
+        <text>Nothing in <cite path="61">this title</cite> shall be construed to grant a party any remedies other than those included in <cite path="§61.01.110">this section</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.110 was formerly codified as 61.0111</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0112</num>
+      <num>61.01.120</num>
       <heading>Exemption</heading>
-      <text>The provisions of <cite path="61">this Title</cite> shall not apply to any judicial deliberations or judicial proceedings regarding child welfare cases, provided, that judicial commissions or quasi-judicial bodies involved in setting policy and procedures of the Judiciary shall not be exempt from the provisions of this law.</text>
-      <annotations/>
+      <text>The provisions of <cite path="61">this title</cite> shall not apply to any judicial deliberations or judicial proceedings regarding child welfare cases, provided, that judicial commissions or quasi-judicial bodies involved in setting policy and procedures of the Judiciary shall not be exempt from the provisions of this law.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.120 was formerly codified as 61.0112</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0113</num>
+      <num>61.01.130</num>
       <heading>Business/Enterprise Entities</heading>
-      <text>A private Board of Directors of a corporation organized under the TMBCI Tribe Business Corporation Ordinance or a Board of Managers of a limited liability company organized under the TMBCI Tribe Limited Liability Company Code are not subject to <cite path="61">this Title</cite>, but may adopt its provisions if desired.</text>
-      <annotations/>
+      <text>A private Board of Directors of a corporation organized under the TMBCI Tribe Business Corporation Ordinance or a Board of Managers of a limited liability company organized under the TMBCI Tribe Limited Liability Company Code are not subject to <cite path="61">this title</cite>, but may adopt its provisions if desired.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.130 was formerly codified as 61.0113</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0114</num>
+      <num>61.01.140</num>
       <heading>Severability</heading>
-      <text>If any provision or provisions of <cite path="61">this Title</cite> shall in the future be declared invalid by the Judiciary, the invalid provision or provisions shall be severed and the remaining provisions shall continue in full force and effect.</text>
-      <annotations/>
+      <text>If any provision or provisions of <cite path="61">this title</cite> shall in the future be declared invalid by the Judiciary, the invalid provision or provisions shall be severed and the remaining provisions shall continue in full force and effect.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.140 was formerly codified as 61.0114</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0115</num>
+      <num>61.01.150</num>
       <heading>Budgeting of Funds</heading>
-      <text>The Tribe shall budget funds to effectuate the purpose of <cite path="61">this Title</cite>.</text>
-      <annotations/>
+      <text>The Tribe shall budget funds to effectuate the purpose of <cite path="61">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.150 was formerly codified as 61.0115</annotation>
+      </annotations>
     </section>
     <section>
-      <num>61.0116</num>
+      <num>61.01.160</num>
       <heading>Rules and Regulations</heading>
-      <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="61">this Title</cite>.</text>
-      <annotations/>
+      <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="61">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§61.01.160 was formerly codified as 61.0116</annotation>
+      </annotations>
     </section>
   </container>
 </container>

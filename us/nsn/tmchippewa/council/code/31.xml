@@ -1,276 +1,359 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>31</num>
   <heading>Zoning of Shorelands</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.01</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0101</num>
+      <num>31.01.010</num>
       <heading>Definitions as Used in This Ordinance</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Council" means the Turtle Mountain Band of Chippewa Tribal Council.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Reservation" means the Turtle Mountain Band of Chippewa Reservation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Tribal Secretary" means the secretary of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"Shorelands" means the area within the following distances from the ordinary high-water mark of:  one thousand feet from a lake, pond or flowage and three hundred feet from a river or stream or to the landward side of a floodplain, whichever distance is greater.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"Tribe" and "Tribal" means the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.01.010 was formerly codified as 31.0101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.02</num>
     <heading>Purpose</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0201</num>
-      <text>It is the purpose of <cite path="31.02">this chapter</cite> to promote the public health, safety, convenience and general welfare; to encourage planned and orderly shoreland development; to recognize the needs of agriculture, forestry, industry and business in future growth; to encourage the protection of groundwater resources; to preserve wetlands; to conserve soil, water and forest resources; to protect the beauty and amenities of the landscape; to provide healthy surroundings for family life; and to promote the efficient and economical use of Tribal funds.</text>
-      <annotations/>
+      <num>31.02.010</num>
+      <heading>_</heading>
+      <text>It is the purpose of <cite path="31|31.02">this chapter</cite> to promote the public health, safety, convenience and general welfare; to encourage planned and orderly shoreland development; to recognize the needs of agriculture, forestry, industry and business in future growth; to encourage the protection of groundwater resources; to preserve wetlands; to conserve soil, water and forest resources; to protect the beauty and amenities of the landscape; to provide healthy surroundings for family life; and to promote the efficient and economical use of Tribal funds.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.02.010 was formerly codified as 31.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.03</num>
     <heading>Tribal Zoning Agency</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0301</num>
+      <num>31.03.010</num>
+      <heading>_</heading>
       <text>The Council shall create a planning and zoning committee as a Tribal Council agency consisting wholly of persons who are not members of the Council, designated the Tribal Zoning Agency, authorized to act in all matters pertaining to shoreland planning and zoning.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.010 was formerly codified as 31.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0302</num>
+      <num>31.03.020</num>
+      <heading>_</heading>
       <text>The Chairman shall appoint the commission, subject to confirmation by the Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.020 was formerly codified as 31.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0303</num>
+      <num>31.03.030</num>
+      <heading>_</heading>
       <text>From its members, the Tribal Zoning Agency shall elect a chairperson whose term shall be for 2 years, and the Tribal Zoning Agency may create and fill other offices.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.030 was formerly codified as 31.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0304</num>
-      <text>The Tribal Zoning Agency shall have the administrative powers and duties specified for the Tribal Zoning Agency under <cite path="31|31.03|31.0304">this section</cite>, and the Tribal Zoning Agency shall be only a policy-making body determining the broad outlines and principles governing such administrative powers and duties and shall be a quasi-judicial body with decision-making power that includes but is not limited to conditional use, planned unit development and zoning.</text>
-      <annotations/>
+      <num>31.03.040</num>
+      <heading>_</heading>
+      <text>The Tribal Zoning Agency shall have the administrative powers and duties specified for the Tribal Zoning Agency under <cite path="§31.03.040">this section</cite>, and the Tribal Zoning Agency shall be only a policy-making body determining the broad outlines and principles governing such administrative powers and duties and shall be a quasi-judicial body with decision-making power that includes but is not limited to conditional use, planned unit development and zoning.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.040 was formerly codified as 31.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0305</num>
+      <num>31.03.050</num>
+      <heading>_</heading>
       <text>Subject to change by the Council, the Tribal Zoning Agency may adopt such rules and regulations governing its procedures as it considers necessary or advisable. The Tribal Zoning Agency shall keep a record of its planning and zoning studies, its resolutions, transactions, findings, and determinations.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.050 was formerly codified as 31.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0306</num>
+      <num>31.03.060</num>
+      <heading>_</heading>
       <text>Tribal Zoning Agency may accept, review and expend funds, grants and services and may contract with respect thereto and may provide such information and reports as may be necessary to secure such financial aid and services. Within such funds as may be made available, the Tribal Zoning Agency may employ, or contract for the services of, such professional planning technicians and staff as are considered necessary for the discharge of the duties and responsibilities of the Tribal Zoning Agency.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.03.060 was formerly codified as 31.0306</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.04</num>
     <heading>Tribal Zoning Agency Authority</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0401</num>
-      <text>To accomplish the purpose of <cite path="31|31.04|31.0401">this section</cite>, the Tribal Zoning Agency shall be authorized to act in all matters pertaining to planning and zoning of all shorelands located within the Turtle Mountain Reservation.</text>
-      <annotations/>
+      <num>31.04.010</num>
+      <heading>_</heading>
+      <text>To accomplish the purpose of <cite path="§31.04.010">this section</cite>, the Tribal Zoning Agency shall be authorized to act in all matters pertaining to planning and zoning of all shorelands located within the Turtle Mountain Reservation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.04.010 was formerly codified as 31.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0402</num>
-      <text>Whenever a public hearing is specified under <cite path="31|31.04|31.0402">this section</cite>, the hearing shall be conducted by the Tribal Zoning Agency in the Turtle Mountain tribal offices. The Tribal Zoning Agency shall give notice of the public hearing by publication in an appropriate newspaper.</text>
-      <annotations/>
+      <num>31.04.020</num>
+      <heading>_</heading>
+      <text>Whenever a public hearing is specified under <cite path="§31.04.020">this section</cite>, the hearing shall be conducted by the Tribal Zoning Agency in the Turtle Mountain tribal offices. The Tribal Zoning Agency shall give notice of the public hearing by publication in an appropriate newspaper.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.04.020 was formerly codified as 31.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0403</num>
+      <num>31.04.030</num>
+      <heading>_</heading>
       <text>Whenever a development plan, part thereof or amendment thereto is adopted by resolution or zoning ordinance or amendment thereto is enacted by-the Council, a duplicate copy shall be certified by the Tribal Secretary and sent to the municipal clerks of the municipalities affected thereby.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.04.030 was formerly codified as 31.0403</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.05</num>
     <heading>Shorelands Preservation Plan</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0501</num>
+      <num>31.05.010</num>
+      <heading>_</heading>
       <text>The Tribal Zoning Agency shall direct the preparation of a shoreland development plan for the physical development of shorelands within the Turtle Mountain Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.05.010 was formerly codified as 31.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0502</num>
+      <num>31.05.020</num>
+      <heading>_</heading>
       <text>The development plan may include: comprehensive surveys, studies and analysis of the history, existing land use, population and population density, economy, soil characteristic, forest cover, wetland and flood plain conditions and other human and natural features of the county.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.05.020 was formerly codified as 31.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0503</num>
+      <num>31.05.030</num>
+      <heading>_</heading>
       <text>Based on the comprehensive surveys, studies and analysis, the plan may identify goals and objectives for the future physical development of the shorelands with respect to: public and private use of land and other natural resources; highways including bridges, viaducts, parkways and other public ways; parks, playgrounds, hunting and fishing grounds, forests and other facilities of a recreational nature; public buildings including schools; sanitary and storm sewers, drainage and measures for disposal of refuse and waste; reducing and preventing stream and lake pollution; flood control; public and private utilities including water, light, heat, transportation, pipelines and other services; industrial and commercial sites; historic districts; and other factors which will improve the physical and economic situation of the Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.05.030 was formerly codified as 31.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0504</num>
+      <num>31.05.040</num>
+      <heading>_</heading>
       <text>The development plan may be in the form of descriptive material, reports, charts, diagrams or maps. Each element of the development plan shall describe its relationship to other elements of the plan and to the statements of goals, objectives, principles, policies or standards.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.05.040 was formerly codified as 31.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0505</num>
+      <num>31.05.050</num>
+      <heading>_</heading>
       <text>The Tribal Zoning Agency shall hold a public hearing on the development plan before approving it by resolution. The development plan shall serve as a guide for public and private actions' and decisions to assure the appropriate development of shoreland property.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.05.050 was formerly codified as 31.0505</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.06</num>
     <heading>Extent of Authority</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0601</num>
+      <num>31.06.010</num>
+      <heading>_</heading>
       <text>For purposes of promoting the public health, safety and general welfare the Council may by ordinance establish districts of such number, shape, and area, and adopt regulations for each district as the Council considers best suited to carry out the purposes of this ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.06.010 was formerly codified as 31.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0602</num>
-      <text>The powers granted by <cite path="31|31.06|31.0602">this section</cite> shall be exercised through ordinances which may determine, establish, regulate and restrict:</text>
+      <num>31.06.020</num>
+      <heading>_</heading>
+      <text>The powers granted by <cite path="§31.06.020">this section</cite> shall be exercised through ordinances which may determine, establish, regulate and restrict:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The areas within which agriculture, forestry, industry, mining, trades, business, and recreation may be conducted.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The areas in which residential uses may be regulated or prohibited.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The areas in and along natural watercourses, channels, streams and creeks in which trades or industries, filling or dumping, erection of structures and the location of buildings may be prohibited or restricted.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Trailer camps, tourist camps, motels, and mobile home parks.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Designate certain areas, uses or purposes which may be subjected to special regulation.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The location of buildings and structures that are designated for specific uses and designation of uses for which building and structures may not be used or altered.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>The location, height, bulk, number of stories and size of buildings and other structures.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Location of roads and schools.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>Building setback lines.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>The density and distribution of population.</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>The percentage of a lot which may be occupied, size of yards, courts and other open spaces.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>Places, structures or objects with a special character, historic interest, aesthetic interest or other significant value, historic landmarks and historic districts.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.06.020 was formerly codified as 31.0602</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.07</num>
     <heading>Formation of Zoning Ordinances</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0701</num>
+      <num>31.07.010</num>
+      <heading>_</heading>
       <text>When the Tribal Zoning Agency has completed a draft of the proposed zoning ordinance, the Tribal Zoning Agency shall hold a public hearing thereon, following publication in an appropriate newspaper. After such hearing the Tribal Zoning Agency may make such revisions in the draft as it considers necessary, or it may submit the draft without revision to the Council with recommendations for adoption.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.07.010 was formerly codified as 31.0701</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0702</num>
+      <num>31.07.020</num>
+      <heading>_</heading>
       <text>When the draft of the ordinance, recommended for enactment by the Tribal Zoning Agency is received by the Council, it may enact the ordinance as submitted, or reject it, or return it to the agency with such recommendations as the Council may see fit to make. In the event of such return, subsequent procedure by the Tribal Zoning Agency shall be as if the Tribal Zoning Agency were acting under the original directions;</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.07.020 was formerly codified as 31.0702</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0703</num>
-      <text>The Council may by a single ordinance repeal an existing shoreland zoning ordinance and reenact a comprehensive revision thereto in accordance with <cite path="31.07">this chapter</cite>. "Comprehensive revision," in this paragraph, means a complete rewriting of an existing zoning ordinance which changes numerous zoning provisions and alters or adds zoning districts.</text>
-      <annotations/>
+      <num>31.07.030</num>
+      <heading>_</heading>
+      <text>The Council may by a single ordinance repeal an existing shoreland zoning ordinance and reenact a comprehensive revision thereto in accordance with <cite path="31|31.07">this chapter</cite>. "Comprehensive revision," in this paragraph, means a complete rewriting of an existing zoning ordinance which changes numerous zoning provisions and alters or adds zoning districts.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.07.030 was formerly codified as 31.0703</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0704</num>
+      <num>31.07.040</num>
+      <heading>_</heading>
       <text>The Council may amend an ordinance or change the district boundaries. The procedures for such amendments or changes is as follows:</text>
       <text>A petition for amendment of a shoreland zoning ordinance may be made by a property owner in the area to be affected by the amendment, by any member of the Council, or by the Tribal Zoning Agency. The petition shall be filed with the Tribal Secretary who shall immediately refer it to the Tribal Zoning Agency for consideration, report, and recommendations. A report of all petitions referred under this paragraph shall be made to the county board at its next succeeding meeting.</text>
       <text>Upon receipt of the petition by the Tribal Zoning Agency, the Tribal Zoning Agency shall call a public hearing on the petition. Notice of the time and place of the hearing shall be given by publication in an appropriate newspaper.</text>
       <text>As soon as possible after the public hearing, the Tribal Zoning Agency shall act on the petition either approving, modifying and approving, or disapproving it. If the action is favorable to granting the requested change or any modification thereof, it shall cause an ordinance to he drafted effectuating its determination and shall submit the proposed ordinance directly to the board with its recommendations. If the Tribal Zoning Agency after its public hearing recommends denial of the petition it shall report its recommendation directly to the Council with its reasons for the action.</text>
       <text>Upon receipt of the Tribal Zoning Agency report the Council may enact the ordinance as drafted by the Tribal Zoning Agency or with amendments, or it may deny the petition for amendment, or it may refuse to deny the petition as recommended by the agency in which case it shall re-refer the petition to the agency with directions to draft an ordinance to effectuate the petition and report the ordinance back to the Council which may then enact or reject the ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.07.040 was formerly codified as 31.0704</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.08</num>
     <heading>Zoning Variances</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0801</num>
+      <num>31.08.010</num>
+      <heading>_</heading>
       <text>Any persons proposing to erect a structure not in conformity to this ordinance or to use an existing structure for a purpose not permitted. by this ordinance may apply to the Tribal Zoning Agency in writing for a variance by stating the nature of the proposed structure, which shall be posted in a public place, together with notification of when (and where interested persons may appeal before the Tribal Zoning Agency to present objections.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.08.010 was formerly codified as 31.0801</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0802</num>
+      <num>31.08.020</num>
+      <heading>_</heading>
       <text>After holding a meeting as stated in the public notice, the Tribal Zoning Agency shall decide in accordance with the standards of 31.0703 whether or not to grant a variance in whole or in part.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.08.020 was formerly codified as 31.0802</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.0803</num>
+      <num>31.08.030</num>
+      <heading>_</heading>
       <text>A variance shall be granted only if the applicant can show:</text>
       <para>
-        <num>(1)</num>
-        <text>That the proposed use will not materially interfere with the object of the zoning ordinance as defined in <cite path="31.02">Chapter 31.02</cite> of this Code; and</text>
+        <num>(a)</num>
+        <text>That the proposed use will not materially interfere with the object of the zoning ordinance as defined in <cite path="31|31.02">Chapter 31.02</cite> of this Code; and</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>That unless such variance is granted, applicant will sustain hardship in disproportion to the public gain achieved by compliance with the ordinance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.08.030 was formerly codified as 31.0803</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.09</num>
     <heading>Nonconforming Uses</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.0901</num>
+      <num>31.09.010</num>
+      <heading>_</heading>
       <text>An ordinance enacted under <cite path="31">this title</cite> may not prohibit the continuation of the lawful use of any building or premises for any trade or industry for which such building or premises is used at the time that the ordinances take effect, but the alteration of, or addition to, or repair in excess of 50% of its assessed value of any existing building or structure for the purpose of carrying on any prohibited trade or new industry within the district where such buildings or structures are located, may be prohibited. The continuance of the nonconforming use of a temporary structure may be prohibited. If the nonconforming use is discontinued for a period of 12 months, any future use of the building and premises shall conform to the ordinance.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.09.010 was formerly codified as 31.0901</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>31.10</num>
     <heading>Procedure for Enforcement of Shoreland Zoning Ordinance</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>31.1001</num>
-      <text>The Council shall prescribe rules, regulations and administrative procedures and provide such administrative personnel as it considers necessary for the enforcement of <cite path="31|31.10|31.1001">this section</cite> and all ordinances enacted in pursuance thereof. The rules and regulations authorized by <cite path="31">this title</cite> shall be prescribed by ordinances which shall be declared to be for the purpose of promoting the public health, safety and general welfare.</text>
-      <annotations/>
+      <num>31.10.010</num>
+      <heading>_</heading>
+      <text>The Council shall prescribe rules, regulations and administrative procedures and provide such administrative personnel as it considers necessary for the enforcement of <cite path="§31.10.010">this section</cite> and all ordinances enacted in pursuance thereof. The rules and regulations authorized by <cite path="31">this title</cite> shall be prescribed by ordinances which shall be declared to be for the purpose of promoting the public health, safety and general welfare.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§31.10.010 was formerly codified as 31.1001</annotation>
+      </annotations>
     </section>
     <section>
-      <num>31.1002</num>
+      <num>31.10.020</num>
+      <heading>_</heading>
       <text>The ordinances shall be enforced by appropriate forfeitures. Compliance with such ordinances may also be enforced by injunctional order at the suit of the Tribe or an owner of real estate affected by the regulation. All jurisdiction over such actions is vested with the Tribal Court.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§31.10.020 was formerly codified as 31.1002</annotation>
+      </annotations>
     </section>
   </container>
 </container>

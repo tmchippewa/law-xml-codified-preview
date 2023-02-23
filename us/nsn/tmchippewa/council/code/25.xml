@@ -1,1051 +1,1134 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>25</num>
   <heading>Gaming Code</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.01</num>
     <heading>Gaming Commission &amp; General Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0101</num>
+      <num>25.01.010</num>
       <heading>Gaming Commission Established</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>There is hereby established the Turtle Mountain Band of Chippewa Gaming Commission, (Commission), which shall regulate all Class II and III gaming activities conducted on Indian Land as defined by the Indian Gaming Regulatory Act, (IGRA), 25 U.S.C. §§ 2701 <em>et seq</em>. The Commission shall consist of five (5) members, composed of a chairman and four (4) associate Commissioners.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The chairman and associate Commissioners shall be appointed and approved by resolution of the Tribal Council.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Within ninety (90) days of approval of this Restated Title 25 by the Indian Gaming Commission pursuant to the Indian Gaming Regulatory Act (IGRA), the Tribal Council shall appoint the initial chairman to a three-year term ending in December of 2021; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The remaining members to an initial two-year term ending in December of 2020.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Thereafter, the Tribal Council shall appoint by resolution, the chairman and associate Commissioners to terms of three years.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Commissioners are not employees but serve as needed for Gaming Commission meetings.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Qualifications for Commissioners:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Tribal Chairman shall conduct or cause to be conducted an inquiry into each appointee's financial stability, integrity, and good reputation prior to appointing a member to the Commission with tribal, federal and state law enforcement agencies and shall make an appropriate eligibility determination based upon the outcome of the investigation prior to appointment to the Commission.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Tribal Council shall ensure that criminal background checks are prepared for all candidates for the Commission.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The Candidates for Commission are enrolled TMBCI Tribal members.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Prohibitions on service</text>
         <para>
-          <num>(a)</num>
-          <text>No individual who has a conflict of interest prohibited by <cite path="25">this Title</cite> shall be eligible for appointment to or service on the Commission;</text>
+          <num>(1)</num>
+          <text>No individual who has a conflict of interest prohibited by <cite path="25">this title</cite> shall be eligible for appointment to or service on the Commission;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>No individual who has been convicted of a felony, or a gaming offense may serve on the Commission.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>No individual with a conviction for a gaming offense under any jurisdiction's laws will be eligible to serve on the Gaming Commission.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Tribal Council may consider a person with a felony<s>,</s> for appointment to the Commission provided the Council has made a written determination that such a person is sufficiently rehabilitated and the conviction did not involve a gaming offense.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The chairman of the Commission shall have overall supervision and responsibility of the Commission activities. It shall be the duty of the chairman, with the concurrence of the four (4) associate Commissioners, to establish a plan of organization for the Commission and its staff.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Two Tribal Council elected officials shall be appointed as liaison to the Commission to ensure good communication between the Commission and the government. They are not members of the Commission and are non-voting partners.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.010 was formerly codified as 25.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0102</num>
+      <num>25.01.020</num>
       <heading>Establishment of the Tribal Gaming Regulatory Authority</heading>
       <text>The Tribe establishes the office of Tribal Gaming Regulatory Authority (TGRA) office whose responsibilities are to provide support services to the Commission so that the Commission may perform its duties and shall report to the Commission as follows:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To ensure that the licensed gaming establishments comply with gaming laws of the United States, the Tribe, and applicable Tribal - North Dakota State Compact.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To perform background checks are performed on gaming employees and vendors;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To call for hold monthly meetings of the Commission to ensure the Commission's responsibilities are met;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>TGRA are employees of the Tribe and subject to the Human Resource policies of the Tribe.</text>
       </para>
       <para>
-        <num>(5)</num>
-        <text>To conduct all business necessary in the enforcement of <cite path="25">this Title</cite>.</text>
+        <num>(e)</num>
+        <text>To conduct all business necessary in the enforcement of <cite path="25">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.020 was formerly codified as 25.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0103</num>
+      <num>25.01.030</num>
       <heading>No Delegated Authority to Waive Sovereign Immunity of the Tribe</heading>
       <text>In the exercise of its powers and duties, neither the Commission nor any of its members nor any of its employees shall waive the immunity of the Commission or of the Turtle Mountain Band of Chippewa from suit without the expressed consent of the Tribal Council of the Turtle Mountain Band of Chippewa.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.030 was formerly codified as 25.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0104</num>
+      <num>25.01.040</num>
       <heading>Bonding</heading>
       <text>Commission members and Commission personnel, if any, must be bonded in an amount of at least $10,000, which cost shall be borne from the Commission's budget.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.040 was formerly codified as 25.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0105</num>
+      <num>25.01.050</num>
       <heading>Conflict of Interest</heading>
       <para>
-        <num>(1)</num>
-        <text>No Commission member or TGRA employee of the shall solicit, accept or receive any gift, gratuity, emolument, or employment from any person, officer, agent, or employee of a gaming entity, supplier or contractor, or any applicant for work permit or license subject to the provisions of <cite path="25">this Title</cite>.</text>
+        <num>(a)</num>
+        <text>No Commission member or TGRA employee of the shall solicit, accept or receive any gift, gratuity, emolument, or employment from any person, officer, agent, or employee of a gaming entity, supplier or contractor, or any applicant for work permit or license subject to the provisions of <cite path="25">this title</cite>.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>No such Commission member or TGRA employee shall solicit, request from, or recommend, directly or indirectly, to any gaming entity, supplier, contractor or applicant subject to <cite path="25">this Title</cite>, or to any officer, agent, or employee thereof, the appointment of any person to any place or position of employment.</text>
+        <num>(b)</num>
+        <text>No such Commission member or TGRA employee shall solicit, request from, or recommend, directly or indirectly, to any gaming entity, supplier, contractor or applicant subject to <cite path="25">this title</cite>, or to any officer, agent, or employee thereof, the appointment of any person to any place or position of employment.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>Every such person subject to regulation, under <cite path="25">this Title</cite>, and every officer, agent, or employee thereof, is hereby forbidden to offer to any member of the Commission, or to any person appointed or employee by the Commission any gift, gratuity, emolument, or employment.</text>
+        <num>(c)</num>
+        <text>Every such person subject to regulation, under <cite path="25">this title</cite>, and every officer, agent, or employee thereof, is hereby forbidden to offer to any member of the Commission, or to any person appointed or employee by the Commission any gift, gratuity, emolument, or employment.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>No member of the Commission or TGRA employees, if any, may work for any Tribal gaming entity, contractor, or supplier during such appointment or employment or for a period of one year after termination of their appointment to or employment with the Commission.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>No Commission official or member of their immediate household shall receive any payment for the purpose of obtaining or maintaining a gaming management contract, or any license or work permit.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>No Commission official or member of their immediate household and no member of the Tribal Council shall be an owner, partner, beneficiary, shareholder, director, officer, or employee of the entity holding the management contract for any Turtle Mountain Band of Chippewa gaming operation.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>No tribal member or non-member may be appointed as a Commissioner or hired as an employee of the Commission or TGRA while holding any position of employment or accepting a position of employment with any gaming enterprise or gaming supplier or contractor; nor may any member or non-member be appointed as a Commissioner or hired as an employee of the Commission while any member of their immediate household is holding any position of employment with any gaming supplier or contractor.</text>
       </para>
       <para>
-        <num>(8)</num>
-        <text>For the purposes of <cite path="25|25.01|25.0105">this section</cite> "immediate household" is defined as son(s), daughter(s), step-son(s), or step-daughter(s), spouse, or spouse recognized by common law, members living in the same household, and any individual who has a pecuniary interest in common with a Commission member or TGRA employee.</text>
+        <num>(h)</num>
+        <text>For the purposes of <cite path="§25.01.050">this section</cite> "immediate household" is defined as son(s), daughter(s), step-son(s), or step-daughter(s), spouse, or spouse recognized by common law, members living in the same household, and any individual who has a pecuniary interest in common with a Commission member or TGRA employee.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>The TGRA shall perform the day to day duties for the Commission and the Commission shall meet at least monthly to perform its responsibilities.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.050 was formerly codified as 25.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0106</num>
+      <num>25.01.060</num>
       <heading>Removal of Commissioners</heading>
       <text>Commission members may be removed from their position by a majority vote of the Tribal Council at a meeting at which a quorum is present only for neglect of duty, misconduct, malfeasance or other acts that would render Commissioner unqualified for the position.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.060 was formerly codified as 25.0106</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0107</num>
+      <num>25.01.070</num>
       <heading>Vacancies</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>In the event of a vacancy occurring on the Commission for any reason, the vacancy shall be filled for the remainder of the term by appointment of the Tribal Council.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Upon expiration of the term of the vacated Commissioner position, the procedure and qualifications set forth herein <cite path="25">this Title</cite> shall apply.</text>
+        <num>(b)</num>
+        <text>Upon expiration of the term of the vacated Commissioner position, the procedure and qualifications set forth herein <cite path="25">this title</cite> shall apply.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.070 was formerly codified as 25.0107</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0108</num>
+      <num>25.01.080</num>
       <heading>Meetings</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Due to the need for ongoing oversight of gaming operations, management and key employees, the Commission shall hold meetings at a minimum of once every 30 days.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Full minutes are to be kept and filed of all Commission meetings, subject to all the Tribe's laws on confidentiality, proprietary information, and HIPAA.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>After approval of the minutes the minutes shall be forwarded to the Tribal Secretary as required by the Open Records Act of 2018.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Special meetings may be called by the chairman or vice-chairman, upon adequate notice to all members of the Commission and upon direction of the Tribal Council when circumstances require Commission action.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.080 was formerly codified as 25.0108</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0109</num>
+      <num>25.01.090</num>
       <heading>Quorum</heading>
       <text>Three members of the Commission shall constitute a quorum, with all matters governed by a majority vote of the quorum.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.090 was formerly codified as 25.0109</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0110</num>
+      <num>25.01.100</num>
       <heading>Compensation</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe shall pay members of the Commission such amounts as are normally given to Tribal members serving on other Tribal boards and Commissions.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall also reimburse members for expenses on behalf of the Commission's activities all reimbursable expenses shall conform to prevailing tribal government administrative procedures.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.100 was formerly codified as 25.0110</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0111</num>
+      <num>25.01.110</num>
       <heading>Audits, and Corrective Action Plans</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall cause to be conducted independent audits of gaming operations annually and shall submit the results to NIGC and the Tribal Council in such form as may be specified certifying conformance of each gaming enterprise to applicable tribal and federal law and licensing requirements, applicable tribal-state compact provisions, and to the Commission's regulations in the conduct of tribally operated gaming enterprises.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall ensure that licensed gaming operations and the Tribal Gaming Regulatory Authority shall set forth corrective action plans within 45 days of the completion of the audits for any audit findings.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Audits shall be made available as required by the Public Records Act of 2018.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>All gaming-related contracts that result in the purchase of supplies, services or concessions for more than $25,000 in any year (except contracts for professional legal and accounting services) shall be specifically included within the scope of the audit conducted.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.110 was formerly codified as 25.0111</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0112</num>
+      <num>25.01.120</num>
       <heading>Funding</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission shall annually adopt and assess a fee upon the gross revenue of all tribally licensed gaming entities; excluding para-mutual wagering, whether live or simulcast wagering, and not to exceed two (2) per cent for the purpose of paying costs incurred in carrying out its specific investigative oversight, and operational responsibilities. Assessments must be duly recorded and filed for audit purposes. The fee assessed pursuant to <cite path="25|25.01|25.0112">this section</cite> shall be payable quarterly and shall be in addition to any fee(s) required to be paid by licensees to the National Indian Gaming Commission and also in addition to any funds which are required to be set aside pursuant to the tribal-state gaming compact as approved by the Secretary of the Interior on March 11, 2013.</text>
+        <num>(a)</num>
+        <text>The Commission shall annually adopt and assess a fee upon the gross revenue of all tribally licensed gaming entities; excluding para-mutual wagering, whether live or simulcast wagering, and not to exceed two (2) per cent for the purpose of paying costs incurred in carrying out its specific investigative oversight, and operational responsibilities. Assessments must be duly recorded and filed for audit purposes. The fee assessed pursuant to <cite path="§25.01.120">this section</cite> shall be payable quarterly and shall be in addition to any fee(s) required to be paid by licensees to the National Indian Gaming Commission and also in addition to any funds which are required to be set aside pursuant to the tribal-state gaming compact as approved by the Secretary of the Interior on March 11, 2013.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>No monies may be expended by the Commission until a budget has been submitted for review and approval by the Tribal Council. All Commission operating revenues and expenditures must be reviewed by the Tribal Chairman or his designate for conformance with standard tribal administrative financial procedures.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Any Commission funding needs and expenditures beyond one (1) per cent of gross revenues of all tribally operated gaming enterprises and those enterprises licensed by the Commission must be submitted to the Tribal Council for review and approval, and appropriation in amounts necessary for the operation of the Commission. Residual funds collected in excess of expenditures shall be returned to the Tribal Council to be deposited into the tribal general fund at the end of the tribe's fiscal year.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.120 was formerly codified as 25.0112</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0113</num>
+      <num>25.01.130</num>
       <heading>Financial Records and Audit</heading>
       <text>The Commission shall maintain accurate and complete records of the financial affairs of the Commission, and shall cause an annual audit of the Commission's financial affairs to be conducted by a certified public accountant in accordance with generally accepted accounting principles, consistently applied, and shall furnish an annual budget, an annual balance sheet and complete report of the Commission to the Tribal Council within three months of the close of the tribe's fiscal year,</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.130 was formerly codified as 25.0113</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0114</num>
+      <num>25.01.140</num>
       <heading>Confidential Records</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission shall maintain a file listing all applications for licenses and work permits under <cite path="25">this Title</cite>, and a record of all Commission actions on such applications, and such records shall not be confidential.</text>
+        <num>(a)</num>
+        <text>The Commission shall maintain a file listing all applications for licenses and work permits under <cite path="25">this title</cite>, and a record of all Commission actions on such applications, and such records shall not be confidential.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Confidential information shall include:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>records and financial data acquired by the Commission in carrying out its background investigations of potential gaming entities, managers, and key employees; and</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Proprietary financial data is prohibited from public disclosure either by the Commission or by individual Commissioners. Confidential or proprietary records, in whole or in part, shall not be included as sections of or attachments to Commission budget documents, annual reports, minutes or audit findings. Copies of confidential or proprietary records may be forwarded to the National Indian Gaming Commission upon the written request of that agency or in compliance with the appropriate reporting requirements of <cite path="25">this Title</cite>, the Indian Gaming Regulatory Act and the tribal-state compact.</text>
+          <num>(2)</num>
+          <text>Proprietary financial data is prohibited from public disclosure either by the Commission or by individual Commissioners. Confidential or proprietary records, in whole or in part, shall not be included as sections of or attachments to Commission budget documents, annual reports, minutes or audit findings. Copies of confidential or proprietary records may be forwarded to the National Indian Gaming Commission upon the written request of that agency or in compliance with the appropriate reporting requirements of <cite path="25">this title</cite>, the Indian Gaming Regulatory Act and the tribal-state compact.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Decisions related to an applicant's license are not confidential, but shall be available to the public.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The confidentiality requirements set forth in <cite path="25|25.01|25.0114">this section</cite> do not apply to request for such records or information from any tribal, federal, or state law enforcement or regulatory agency, or for the use of such records or information by the Commission and staff in the performance of their official duties.</text>
+        <num>(d)</num>
+        <text>The confidentiality requirements set forth in <cite path="§25.01.140">this section</cite> do not apply to request for such records or information from any tribal, federal, or state law enforcement or regulatory agency, or for the use of such records or information by the Commission and staff in the performance of their official duties.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.140 was formerly codified as 25.0114</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0115</num>
+      <num>25.01.150</num>
       <heading>Indemnity</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall indemnify, where Commission funds are available, any past, present, not future Commissioner for actual losses, expenses, costs of defense, or liabilities incurred in connection with any claim or suit brought against the Commissioner.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The indemnification shall be for alleged negligence or wrongful conduct while providing service to the Commission;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>This indemnification shall not include any claim or liability arising out of the Commissioner's own willful misconduct conduct outside the scope of his or her authorized powers or duties set forth in <cite path="25">this title</cite>; and</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The herein authorized indemnity shall be limited to the extent that the insurance coverage does not adequately indemnify or make the individual Commissioner whole.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.150 was formerly codified as 25.0115</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0116</num>
+      <num>25.01.160</num>
       <heading>Tgra Staff and Authority to Hire Attorneys and Necessary Consultants</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The TGRA shall adhere to standardized tribal Human Resource Laws and administrative practices in regard to any staff recruitment, employment reduction in force, promotion training and related employment actions to a publicly announced policy and practice of extending preferential treatment to Indians living on or near the Turtle Mountain Band of Chippewa Reservation.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission is empowered to employ non-Indians when no qualified Indian living on or near the Turtle Mountain Band of Chippewa Reservation can be recruited, trained or upgraded to fill the given hiring need of the Commission.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission shall hire a general counsel and other person as necessary for purposes of consultation investigations, or operational support of the Commission and shall compensate such persons at amounts within funding or budgets approved by the Tribal Council.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission may contract for the technical expertise of outside consultants in carrying out its authorized functions; provided such contracting conforms to standard tribal contracting administrative procedures.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.160 was formerly codified as 25.0116</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0117</num>
+      <num>25.01.170</num>
       <heading>Gaming Commission's_authority, Powers, and Duties</heading>
       <text>The Turtle Mountain Band of Chippewa Gaming Commission shall have the following powers and duties with respect to gaming on tribal lands:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Conduct background investigations, or cause such investigations to be conducted, for primary management officials and key employees;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Review and approve all investigative work conducted in connection with the background investigations of primary management officials and key employees;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Create and maintain investigative reports based on the background investigations of primary management officials and key employees;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Obtain and process fingerprints, or designate a law enforcement agency to obtain and process fingerprints;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Make licensing eligibility determinations, which shall be signed by the Chair of the Commission;</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Submit a notice of results to the NIGC of the background investigations done for each primary management official and key employee applicant;</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Issue gaming licenses to primary management officials and key employees of the operation, if warranted by the eligibility determination;</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Establish standards for licensing Tribal gaming facilities;</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>Issue gaming licenses to Tribal gaming facilities;</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>Inspect, examine and monitor all of the Tribe's gaming activities, and have immediate access to review, inspect, examine, photocopy and audit all records of the gaming establishment;</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(k)</num>
         <text>Ensure compliance with all Tribal, state and federal laws, rules and regulations regarding Indian gaming;</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>Investigate any suspicion of wrongdoing associated with any gaming activities;</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>Hold hearings on patron complaints, in accordance with procedures established in this ordinance and the Tribal gaming regulations;</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>Comply with any and all reporting requirements under IGRA, the NIGC's regulations and any tribal-state compact to which the Tribe is a party, and any other applicable law;</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>Promulgate and issue regulations necessary to comply with applicable internal control standards;</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>Promulgate and issue regulations on the levying of fees and/or taxes associated with gaming license applications;</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(q)</num>
         <text>Promulgate and issue regulations on the levying of fines and/or the suspension or revocation of gaming licenses for violations of this ordinance or any Tribal, federal or state gaming regulations, if applicable;</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(r)</num>
         <text>Establish a list of persons not allowed to game in the Tribe's gaming facilities in order to maintain the integrity of the gaming operation;</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(s)</num>
         <text>Establish a list of persons who have voluntarily agreed to be excluded from the Tribal gaming facility, and create regulations for enforcing the exclusions;</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(t)</num>
         <text>Provide referrals and information to the appropriate law enforcement officials when such information indicates a violation of Tribal, federal or state statutes, ordinances, regulations, codes or resolutions;</text>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(u)</num>
         <text>Create a list of regulatory authorities that conduct background investigations of, and license, vendors who are recognized as trustworthy;</text>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(v)</num>
         <text>Draft regulations exempting vendors from the licensing and/or background investigation requirements if they have received a license from a recognized regulatory authority;</text>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(w)</num>
         <text>Perform such other duties the Commission deems appropriate for the proper regulation of the Tribal gaming operation; and</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(x)</num>
         <text>Promulgate such regulations and guidelines as deemed appropriate to implement the provisions of this ordinance, so long as they are in furtherance of, and not in conflict with, any provisions of this ordinance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.170 was formerly codified as 25.0117</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0118</num>
+      <num>25.01.180</num>
       <heading>Specific Authority with Respect to Licenses; Enforcement Powers</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission shall exercise its gaming oversight and shall issue, renew or disapprove any application, or limit, suspend or revoke gaming licenses and work permits every two years and in accordance with the procedures set forth in <cite path="25">this Title</cite> regarding licenses for "key employees" and "primary management officials" as defined by federal law, regulations, and the Tribal/State Compact for Class III gaming.</text>
+        <num>(a)</num>
+        <text>The Commission shall exercise its gaming oversight and shall issue, renew or disapprove any application, or limit, suspend or revoke gaming licenses and work permits every two years and in accordance with the procedures set forth in <cite path="25">this title</cite> regarding licenses for "key employees" and "primary management officials" as defined by federal law, regulations, and the Tribal/State Compact for Class III gaming.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Any license or work permit granted under <cite path="25">this Title</cite> is a revocable privilege, and no licensee or permittee holds any vested right to such license.</text>
+        <num>(b)</num>
+        <text>Any license or work permit granted under <cite path="25">this title</cite> is a revocable privilege, and no licensee or permittee holds any vested right to such license.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission is authorized to carry out investigations of all prospective and existing gaming licensees, to initiate hearings and to conduct or cause to be conducted announced or unannounced inspections of all gaming premises in order to ensure compliance with tribal and federal law. All licensees are obligated to comply immediately to such Commission requests for information and review of all licensee papers, books and records, or inspection of premises on an announced or unannounced basis,</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>In connection with the issuance or denial of any license, the Commission may hold hearings, take testimony, receive evidence, and administer oaths or affirmations to witnesses appearing before the Commission in accordance with procedural rules to be adopted by the Commission.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission regulations shall not restrict the Tribal Council or the Tribal Chairman from exercising contractual rights to terminate any gaming management contract or exercise other contractual remedies due to default or breach of the management contract by the management contractor.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Commission shall, when its investigations of gaming indicate a violation of federal or tribal laws or regulations, provide information of indicated violations to appropriate law enforcement officials.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>It is hereby recognized that theft from gaming establishments on Indian lands and thefts by officers or employees of such gaming establishments are punishable by substantial fines and imprisonments pursuant to 18 U.S.C. Sections 1167 and 1168; and that tribal operators and management contractors may be separately fined up to twenty five thousand dollars ($25,000) per violation of <cite path="25">this Title</cite> or the Indian Gaming Regulatory Act by the chairman of the National Indian Gaming Commission.</text>
+        <num>(g)</num>
+        <text>It is hereby recognized that theft from gaming establishments on Indian lands and thefts by officers or employees of such gaming establishments are punishable by substantial fines and imprisonments pursuant to 18 U.S.C. Sections 1167 and 1168; and that tribal operators and management contractors may be separately fined up to twenty five thousand dollars ($25,000) per violation of <cite path="25">this title</cite> or the Indian Gaming Regulatory Act by the chairman of the National Indian Gaming Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.180 was formerly codified as 25.0118</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0119</num>
+      <num>25.01.190</num>
       <heading>Hours and Rules</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Gaming Commission shall regulate compliance with the hours and rules specified in such regulations as may be issued by the Commission for Class II and Class III gaming activities; but shall not restrict gaming hours to less than the specified time frame in any gaming management contract.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Each Class II and Class III gaming facility must conspicuously display notice of hours and rules of play.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.190 was formerly codified as 25.0119</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0120</num>
+      <num>25.01.200</num>
       <heading>Minors Prohibited</heading>
       <text>No one under the age of 18 years may be permitted on the premises of a tribal Class II or Class III gaming facility.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.200 was formerly codified as 25.0120</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0121</num>
+      <num>25.01.210</num>
       <heading>Complaints</heading>
-      <text>Notice of warning regarding the improper conduct set forth in <cite path="25|25.01|25.0121">this Section</cite> or other gaming rules established by regulation adopted by the Tribal Gaming Commission shall be posted at the entrance of each gaming establishment and/or given to the customer upon entering the premises.</text>
+      <text>Notice of warning regarding the improper conduct set forth in <cite path="§25.01.210">this section</cite> or other gaming rules established by regulation adopted by the Tribal Gaming Commission shall be posted at the entrance of each gaming establishment and/or given to the customer upon entering the premises.</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The following improper conduct shall result in ejection of a customer from any gaming establishment:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Cheating;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Possession of weapons in the gaming establishment;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Possession of alcohol that has been brought by a customer into the gaming establishment;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Possession of a controlled substance in the gaming establishment;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Disorderly conduct including the willful, or wanton disregard for the rights of others, and;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Any other act which is disruptive of the gaming operation.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Failure by a customer to provide proof of age when requested by security or gaming operational personnel shall result in ejection of the customer from the premises.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>If necessary, ejection of a customer from the premises shall be accomplished by Turtle Mountain Agency Law Enforcement personnel, upon request of the gaming operation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.210 was formerly codified as 25.0121</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0122</num>
+      <num>25.01.220</num>
       <heading>Patron Disputes</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Patrons with complaints against the gaming establishment shall have as their sole remedy the right to file a petition for relief with the Tribal Gaming Commission. Complaints shall be submitted in writing.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall hold a hearing within 30 days of receipt of the petitioner's complaint.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The petitioner may have counsel present at the hearing.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The petitioner may be allowed to present evidence, at the discretion of the Commission.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>After the hearing, the Commission shall render a decision in a timely fashion.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>All such decisions will be final when issued. Any patron complaint must be submitted to the Commission within thirty (30) days of the incident giving rise to the complaint.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>All claims by patrons shall be limited to a maximum recovery of $1,000 per occurrence, and a cumulative limit of $3,000 per patron in any 12-month period, except disputes relating to a patron's entitlement to a game prize, which shall be limited to the amount of such prize. The Commission's decision shall constitute the complainant's final remedy.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Complaints and Disputes must be mailed to the Gaming Commission at P.O. Box 900, Belcourt, ND 58316.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.220 was formerly codified as 25.0122</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0123</num>
+      <num>25.01.230</num>
       <heading>Violations of Laws and Minimum Internal Controls, Fines and Forfeitures</heading>
       <para>
-        <num>(1)</num>
-        <text>Notwithstanding anything to the contrary in any other Title of the Tribal Code, any person found in violation of any provisions of <cite path="25.01">this Chapter</cite>, or any rule or regulation authorized hereunder, shall be guilty of a Class 4 offense pursuant to the Tribal Code and subject to the highest penalty which the Tribal Court may lawfully enforce.</text>
+        <num>(a)</num>
+        <text>Notwithstanding anything to the contrary in any other Title of the Tribal Code, any person found in violation of any provisions of <cite path="25|25.01">this chapter</cite>, or any rule or regulation authorized hereunder, shall be guilty of a Class 4 offense pursuant to the Tribal Code and subject to the highest penalty which the Tribal Court may lawfully enforce.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Failure of a licensee to comply with Standard Operating Procedures (SOP's) or Tribal Internal Controls (TIC's) shall result in a notice of violation with the following schedule of penalties:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>First offense a forfeiture of no less than Fifty Dollars ($50);</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Second offense a forfeiture of no less than One Hundred and Fifty Dollars ($150);</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Third offense suspension of license for up to three months with a requirement of retraining on the relevant TIC's;</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To lift the suspension and allow for license reinstatement the licensee must pay any previously ordered forfeitures and provide proof of compliance with the retraining requirement;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>In the event of non-compliance with the suspension requirements, the licensee shall lose his or her license for at least two (2) years.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Revocations may be for periods of two years or more. A restoration of the right to a license shall be by petition to the Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.230 was formerly codified as 25.0123</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0124</num>
+      <num>25.01.240</num>
       <heading>Jurisdiction</heading>
       <para>
-        <num>(1)</num>
-        <text>The Turtle Mountain Band of Chippewa's courts shall have jurisdiction over all violations of <cite path="25">this Title</cite> and over all persons who are parties to a management contract entered pursuant hereto, except where otherwise provided by federal statute, where arbitration is provided for by contract or where otherwise provided by express agreement of the parties pursuant to a management contract, and may grant relief as is necessary and proper for the enforcement of <cite path="25">this Title</cite> and of the provisions of any management contract entered pursuant thereto, including but not limited to injunctive relief against acts in violation there of.</text>
+        <num>(a)</num>
+        <text>The Turtle Mountain Band of Chippewa's courts shall have jurisdiction over all violations of <cite path="25">this title</cite> and over all persons who are parties to a management contract entered pursuant hereto, except where otherwise provided by federal statute, where arbitration is provided for by contract or where otherwise provided by express agreement of the parties pursuant to a management contract, and may grant relief as is necessary and proper for the enforcement of <cite path="25">this title</cite> and of the provisions of any management contract entered pursuant thereto, including but not limited to injunctive relief against acts in violation there of.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Nothing, however, in <cite path="25">this Title</cite> shall be construed to authorize or require the criminal trial and punishment in tribal courts of non-Indians except to the extent allowed by any applicable present or future act of Congress or any applicable federal court decision.</text>
+        <num>(b)</num>
+        <text>Nothing, however, in <cite path="25">this title</cite> shall be construed to authorize or require the criminal trial and punishment in tribal courts of non-Indians except to the extent allowed by any applicable present or future act of Congress or any applicable federal court decision.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.240 was formerly codified as 25.0124</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0125</num>
+      <num>25.01.250</num>
       <heading>Facility Licenses</heading>
       <text>The Commission shall issue a separate license to each place, facility or location on Indian lands where Class II and Class III gaming is conducted.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.250 was formerly codified as 25.0125</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0126</num>
+      <num>25.01.260</num>
       <heading>Environment and Public Health and Safety</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Each gaming facility shall be constructed, maintained, and operated in a manner that adequately protects the environment and the health and safety of the public.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Tribal government shall identify and set forth enforcement laws and agents to enforce such health and safety laws.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.260 was formerly codified as 25.0126</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0127</num>
+      <num>25.01.270</num>
       <heading>Agent for Service of Process</heading>
       <text>The Tribe designates the following individuals as agents for service of process:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Gaming Inspector;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Chairman of the Gaming Commission;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Chairman of the Tribe;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Legal Counsel for the Gaming Commission; and</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Legal Counsel for the Tribe.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.270 was formerly codified as 25.0127</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0128</num>
+      <num>25.01.280</num>
       <heading>Authority to Adopt; Amend; Repeal; Regulations</heading>
-      <text>The Commission shall, from time to time, adopt, amend or repeal such regulations consistent with <cite path="25">this Title</cite> and other Tribal law as it may deem necessary or required by federal law and regulation, subject to passage and approval by the Tribal Council.</text>
-      <annotations/>
+      <text>The Commission shall, from time to time, adopt, amend or repeal such regulations consistent with <cite path="25">this title</cite> and other Tribal law as it may deem necessary or required by federal law and regulation, subject to passage and approval by the Tribal Council.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.280 was formerly codified as 25.0128</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0129</num>
+      <num>25.01.290</num>
       <heading>Amendments</heading>
-      <text>Amendments to <cite path="25">this Title</cite> may be amended as necessary to meet the requirements of changes to federal law and policy. The Amendment must be approved by Chairman of NIGC and shall not be effective until approved.</text>
-      <annotations/>
+      <text>Amendments to <cite path="25">this title</cite> may be amended as necessary to meet the requirements of changes to federal law and policy. The Amendment must be approved by Chairman of NIGC and shall not be effective until approved.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.290 was formerly codified as 25.0129</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0130</num>
+      <num>25.01.300</num>
       <heading>Compliance with Federal Law</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe shall comply with the Indian Gaming Regulatory Act, 25 U.S.C. Section 2701 et seq. (IGRA) and the regulations adopted thereto.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>To the extent any provisions of <cite path="25">this Title</cite> are inconsistent with the provisions of the Tribal-State Gaming Compact or the IGRA, the provisions of the Tribal-State Gaming compact or IGRA will apply.</text>
+        <num>(b)</num>
+        <text>To the extent any provisions of <cite path="25">this title</cite> are inconsistent with the provisions of the Tribal-State Gaming Compact or the IGRA, the provisions of the Tribal-State Gaming compact or IGRA will apply.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Tribe shall comply with the Bank Secrecy Act, 31 U.S.C. § 5311 <em>et seq</em>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.300 was formerly codified as 25.0130</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0131</num>
+      <num>25.01.310</num>
       <heading>Records Retention</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribal Gaming Commission shall retain, for no less than three years from the date a primary management official or key employee is terminated from employment with the Tribe, the following documentation:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Applications for licensing;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Investigative Reports; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Eligibility Determinations.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.310 was formerly codified as 25.0131</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0132</num>
+      <num>25.01.320</num>
       <heading>Use of Gaming Revenue</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Net revenues from Class II and III gaming shall be used only for the following purposes: to fund tribal government operations and programs; provide for the general welfare of the Tribe and its members; promote tribal economic development; donate to charitable organizations; or help fund operations of local government agencies. The use of such net revenues may be further subject to the restrictions set forth in Section VII of the Tribal-State Gaming Compact.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If the Tribe elects to make per capita payments to tribal members, it shall authorize such payments only upon approval of a plan submitted to the Secretary of the Interior under 25 U.S.C. § 2710(b)(3).</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.320 was formerly codified as 25.0132</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0133</num>
+      <num>25.01.330</num>
       <heading>Per Capita Payments</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Net revenues from any [class II and/or class III] gaming activities conducted or licensed by the Tribe may be used to make per capita payments to Tribal members if:</text>
         <para>
-          <num>(a)</num>
-          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <cite path="25">this Title</cite>;</text>
+          <num>(1)</num>
+          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <cite path="25">this title</cite>;</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses described in <cite path="25|25.01|25.0131">Section 25.0131</cite>;</text>
+          <num>(2)</num>
+          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses described in <cite path="§25.01.310">Section 25.01.310</cite>;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The interests of minors and other legally incompetent persons who are entitled to receive any of the per capita payments are protected and preserved, and the per capita payments are disbursed to the parents or legal guardian of such minors or legal incompetents in such amounts as may be necessary for the health, education, or welfare of the minor or other legally incompetent person; and</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The per capita payments are subject to Federal taxation and the Tribe notifies its members of such tax liability when payments are made.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.330 was formerly codified as 25.0133</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0134</num>
+      <num>25.01.340</num>
       <heading>Repeal</heading>
       <text>To the extent that they are inconsistent with this ordinance, all prior Tribal gaming ordinances are hereby repealed.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.340 was formerly codified as 25.0134</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0135</num>
+      <num>25.01.350</num>
       <heading>Effective Date</heading>
       <text>This ordinance shall take effect immediately upon its approval by the NIGC Chair.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.350 was formerly codified as 25.0135</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0136</num>
+      <num>25.01.360</num>
       <heading>Severability</heading>
-      <text>If any provision of <cite path="25">this Title</cite> is ruled unconstitutional, it shall be severed from the remainder of the Title, and the remaining provisions shall stand without the unconstitutional provision.</text>
-      <annotations/>
+      <text>If any provision of <cite path="25">this title</cite> is ruled unconstitutional, it shall be severed from the remainder of the Title, and the remaining provisions shall stand without the unconstitutional provision.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§25.01.360 was formerly codified as 25.0136</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.02</num>
     <heading>Background Checks and Licensing of Employees and Vendors.</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0201</num>
+      <num>25.02.010</num>
       <heading>Requirement of a Licensing and Background Check for Class Ii and Class Iii Gaming</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Federal, Tribal, and Tribal/State compact require licenses for key employees, primary management officials, and vendors of gaming supplies and machines and the Commission shall issue licenses.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>In furtherance of this process the applicants shall be required to submit to fingerprinting and a background check.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>License which are issued to Key Employees and Primary Management Officials shall be renewed every two years.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Key Employees, Primary Management Officials, and Vendors with gaming licenses have an affirmative duty to report to the TGRA any changes in circumstances, household moves, arrests for criminal activity by any jurisdiction, and changes which would affect an individual's suitability for a license as set forth in 25 CFR § 556.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.010 was formerly codified as 25.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0202</num>
+      <num>25.02.020</num>
       <heading>Fingerprints</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall perform a background investigation for each primary management official and key employee of the gaming operation which shall include a check of criminal history records information maintained by the Federal Bureau of Investigations.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall request fingerprints from each primary management official and key employee.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Fingerprints shall be taken by <strong>Live Scan</strong><sup><strong>TM</strong></sup><strong> – electronically, in accordance with the MOU</strong> between the National Indian Gaming Commission and the Federal Bureau of Investigation and shall be conducted in the TGRA office by the <strong>Background Investigator</strong>.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Fingerprints will then be forwarded to the NIGC for processing through the Federal Bureau of Investigation ("FBI") and the National Criminal Information Center to determine the applicant's criminal history, if any.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.020 was formerly codified as 25.0202</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0203</num>
+      <num>25.02.030</num>
       <heading>Licenses for Key Employees and Primary Management Officials</heading>
-      <text>The Tribe shall ensure that the policies and procedures set out in <cite path="25|25.02|25.0203">this section</cite> are implemented with respect to key employees and primary management officials employed at any Class II gaming enterprise operated on Indian lands:</text>
+      <text>The Tribe shall ensure that the policies and procedures set out in <cite path="§25.02.030">this section</cite> are implemented with respect to key employees and primary management officials employed at any Class II gaming enterprise operated on Indian lands:</text>
       <para>
-        <num>(1)</num>
-        <text>Definitions. For the purposes of <cite path="25|25.02|25.0203">this section</cite>, the following definitions apply:</text>
+        <num>(a)</num>
+        <text>Definitions. For the purposes of <cite path="§25.02.030">this section</cite>, the following definitions apply:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>"Key Employee" means a person who performs one or more of the following functions:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Bingo Caller</text>
           </para>
           <para>
-            <num>(1)</num>
+            <num>(B)</num>
             <text>Counting room supervisor</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(C)</num>
             <text>Chief of security</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(D)</num>
             <text>Custodian of gaming supplies or cash</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(E)</num>
             <text>Floor manager</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(F)</num>
             <text>Pit boss</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(G)</num>
             <text>Dealer</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(H)</num>
             <text>Croupier</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(I)</num>
             <text>Approver of credit, or</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(J)</num>
             <text>Custodian of gambling devices, including persons with access to cash and accounting records within such devices;</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If not otherwise included, any other person whose total cash compensation is in excess of fifty thousand dollars ($50,000) per year, or;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>If not otherwise included, the four most highly compensated persons in the gaming operation.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>"Primary Management Official" means:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The person having management responsibility for a management contract;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Any person who has authority:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>To hire and fire employees; or</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>To set up working policy for the gaming operation; or</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>The chief financial officer or other person who has financial management responsibility.</text>
           </para>
         </para>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 427-04-21"/>
+        <annotation type="Prior Codifications">§25.02.030 was formerly codified as 25.0203</annotation>
       </annotations>
     </section>
     <section>
-      <num>25.0204</num>
+      <num>25.02.040</num>
       <heading>Application Forms</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The following notice shall be placed on the application form for a key employee or a primary management official before that form is filled out by an applicant:</text>
         <text>In compliance with the Privacy Act of 1974, the following information is provided: Solicitation of the information on this form is authorized by 25 U.S.C. §§ 2701 <em>et seq</em>. The purpose of the requested information is to determine the eligibility of individuals to be granted a gaming license. The information will be used by the Tribal gaming regulatory authorities and by the National Indian Gaming Commission members and staff who have need for the information in the performance of their official duties. The information may be disclosed by the Tribe or the NIGC to appropriate Federal, Tribal, State, local or foreign law enforcement and regulatory agencies when relevant to civil, criminal or regulatory investigations or prosecutions or when pursuant to a requirement by a tribe or the NIGC in connection with the issuance, denial, or revocation of a gaming license, or investigations of activities while associated with a tribe or a gaming operation. Failure to consent to the disclosures indicated in this notice will result in a tribe being unable to license you for a primary management official or key employee position.</text>
         <text>The disclosure of your Social Security Number (SSN) is voluntary. However, failure to supply a SSN may result in errors in processing your application.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Existing key employees and primary management officials shall be notified in writing that they shall either:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Complete a new application form that contains a Privacy Act notice; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Sign a statement that contains the Privacy Act notice and consent to the routine uses described in that notice.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The following notice shall be placed on the application form for a key employee or a primary official before that form is filled out by an applicant:</text>
         </para>
         <text>A false statement on any part of your license application may be grounds for denying a license or the suspension or revocation of a license. Also, you may be punished by fine or imprisonment (U.S. Code, title 18, § 1001).</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Tribe shall notify in writing existing key employees and primary management officials that they shall either:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Complete a new application form that contains a notice regarding false statements; or,</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Sign a statement that contains the notice regarding false statements;</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.040 was formerly codified as 25.0204</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0205</num>
+      <num>25.02.050</num>
       <heading>Background Investigations</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall request from each Primary Management Official and from each Key Employee all of the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Full name, other names used (oral or written), social security number(s), birth date, place of birth, citizenship, gender, all languages (spoken or written);</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Currently and for the previous five (5) years: business and employment positions held, ownership, interests in those businesses, business and residence addresses, and drivers license numbers;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The names and current addresses of at least three personal references, including one personal reference who was acquainted with the applicant during each period of residence listed within this Background Investigations section;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Current business, cellular, and residence telephone numbers;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>A description of any existing and previous business relationships with Indian Tribes, including ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>The name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>For each felony for which there is an ongoing prosecution or a conviction, the charge, the name and address of the court involved, and the date and disposition, if any;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>For each misdemeanor conviction of ongoing misdemeanor prosecution (excluding minor traffic violations), within 10 years of the date of the application, the name and address of the court involved and the date and disposition;</text>
         </para>
         <para>
-          <num>(j)</num>
-          <text>For each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within ten (10) years of the date of the application and is not otherwise listed pursuant to paragraph (1)(h) or (1)(i) of <cite path="25|25.02|25.0205">this section</cite>, the criminal charge, the name and address of the court involved and the date and disposition;</text>
+          <num>(10)</num>
+          <text>For each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within ten (10) years of the date of the application and is not otherwise listed pursuant to paragraph (1)(h) or (1)(i) of <cite path="§25.02.050">this section</cite>, the criminal charge, the name and address of the court involved and the date and disposition;</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(11)</num>
           <text>The name and address of any licensing or regulatory agency with which the person has filed an application for an occupational license or permit, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(12)</num>
           <text>A current photograph;</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(13)</num>
           <text>Any other information the Commission procedures adopted by the Tribe according to 25 C.F.R § 522.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Commission shall conduct an investigation sufficient to make a determination of eligibility as required by <cite path="25">this Title</cite>. In conducting a background investigation, the Tribe or its agent shall promise to keep confidential the identity of each person interviewed in the course of the investigation.</text>
+        <num>(b)</num>
+        <text>The Commission shall conduct an investigation sufficient to make a determination of eligibility as required by <cite path="25">this title</cite>. In conducting a background investigation, the Tribe or its agent shall promise to keep confidential the identity of each person interviewed in the course of the investigation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>When a primary management official or key employee is employed by the Tribe a complete application file, containing all of the information required within the subsection of this provision shall be maintained.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.050 was formerly codified as 25.0205</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0206</num>
+      <num>25.02.060</num>
       <heading>Investigative Reports</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe shall create and maintain an investigative report for each background investigation of a primary management official or key employee.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Investigative reports shall include all of the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Steps taken in conducting the investigation;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Results obtained;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Conclusions reached; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The basis for those conclusions.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission, and its investigators, shall keep confidential the identity of each person interviewed in the course of conducting a background investigation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.060 was formerly codified as 25.0206</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0207</num>
+      <num>25.02.070</num>
       <heading>Eligibility Determination</heading>
       <para>
         <num>(a)</num>
@@ -1059,1114 +1142,1192 @@
         <num>(c)</num>
         <text>The Commission shall send copies of the eligibility determination and shall include the notice of results to the NIGC before the licensing of a primary management official or key employee.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.070 was formerly codified as 25.0207</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0208</num>
+      <num>25.02.080</num>
       <heading>Procedures for Forwarding Applications and Reports for Key Employees and Primary Management Officials to the Nigc</heading>
       <para>
-        <num>(1)</num>
-        <text>When a key employee or primary management official begins work at a gaming operation authorized by, this ordinance, the Tribe shall forward to the National Indian Gaming Commission a completed application for employment and conduct the background investigation and make the determination referred to in Eligibility Determination of <cite path="25">this Title</cite>.</text>
+        <num>(a)</num>
+        <text>When a key employee or primary management official begins work at a gaming operation authorized by, this ordinance, the Tribe shall forward to the National Indian Gaming Commission a completed application for employment and conduct the background investigation and make the determination referred to in Eligibility Determination of <cite path="25">this title</cite>.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Tribe shall forward the report referred to in "Notice of Results of Background Investigations" of <cite path="25">this Title</cite> to the NIGC within 60 days after an employee begins work or within sixty (60) days of the approval of this ordinance by the Chairman of the NIGC.</text>
+        <num>(b)</num>
+        <text>The Tribe shall forward the report referred to in "Notice of Results of Background Investigations" of <cite path="25">this title</cite> to the NIGC within 60 days after an employee begins work or within sixty (60) days of the approval of this ordinance by the Chairman of the NIGC.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The gaming operation shall not employ as a key employee or primary management official who does not have a license after 90 days.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.080 was formerly codified as 25.0208</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0209</num>
+      <num>25.02.090</num>
       <heading>Report to the National Indian Gaming Commission Required for Revocations and Non-License Issued</heading>
-      <text>The Commission shall submit, with the report, a copy of the eligibility determination made under <cite path="25">this Title</cite>. If a license is not issued to an applicant, the Commission:</text>
+      <text>The Commission shall submit, with the report, a copy of the eligibility determination made under <cite path="25">this title</cite>. If a license is not issued to an applicant, the Commission:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Shall notify the NIGC; and</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>May forward copies of its eligibility determination and investigative report (if any) to the National Indian Gaming Commission for inclusion in the Indian Gaming Individuals Records System.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.090 was formerly codified as 25.0209</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0210</num>
+      <num>25.02.100</num>
       <heading>Notice of Results of Background Investigations</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Before issuing a license to a primary management official or key employee, the Commission shall prepare a notice of results of the applicant's background investigation to submit to the NIGC.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The notice of results must be submitted to the NIGC no later than 60 days after the applicant begins working for the Tribe.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The notice of results shall include the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The applicant's name, date of birth, and social security number;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The date on which the applicant began, or will begin, working as primary management official or key employee;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A summary of the information presented in the investigative report, including:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>licenses that have previously been denied;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>gaming licenses that have been revoked, even if subsequently reinstated;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>every known criminal charge brought against the applicant within the last 10 years of the date of the application;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>every felony offense of which the applicant has been convicted or any ongoing prosecution; and</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>copy of the eligibility determination made in accordance herein.</text>
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.100 was formerly codified as 25.0210</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0211</num>
+      <num>25.02.110</num>
       <heading>Granting a Gaming License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All primary management officials and key employees of the gaming operation must have a gaming license issued by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission is responsible for granting and issuing gaming licenses to primary management officials and key employees.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The Commission may license a primary management official or key employee applicant after submitting a notice of results of the applicant's background investigation to the NIGC, as enumerated in <cite path="25">this Title</cite>.</text>
+        <num>(c)</num>
+        <text>The Commission may license a primary management official or key employee applicant after submitting a notice of results of the applicant's background investigation to the NIGC, as enumerated in <cite path="25">this title</cite>.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission shall notify the NIGC of the issuance of a license to a primary management official or key employee within 30 days of issuance.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission shall not employ an individual in a primary management official or key employee position who does not have a license after 90 days of beginning work at the gaming operation.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Commission must reconsider a license application for a primary management official or key employee if it receives a statement of itemized objections to issuing such a license from the NIGC, and those objections are received within 30 days of the NIGC receiving a notice of results of the applicant's background investigation.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>The Commission shall take the NIGC's objections into account when reconsidering a license application.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission will make the final decision whether to issue a license to an applicant for a primary management official or key employee position.</text>
       </para>
       <para>
-        <num>(9)</num>
-        <text>If the Commission has issued a license to a primary management official or key employee before receiving the NIGC's statement of objections, notice and a hearing shall be provided to the licensee, as set forth in <cite path="25">this Title</cite>.</text>
+        <num>(i)</num>
+        <text>If the Commission has issued a license to a primary management official or key employee before receiving the NIGC's statement of objections, notice and a hearing shall be provided to the licensee, as set forth in <cite path="25">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.110 was formerly codified as 25.0211</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0212</num>
+      <num>25.02.120</num>
       <heading>License Suspension</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>If, after the issuance of a gaming license, the Tribe receives from the NIGC reliable information indicating that a key employee or a primary management official is not eligible for employment the Tribe shall</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Immediately suspend such license;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Provide the licensee with notice in writing the licensee of the suspension and the proposed revocation;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Provide the licensee with notice of a time and place for a hearing on the proposed revocation of the license.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>After a revocation hearing, the Tribe shall decide to revoke or to reinstate a gaming license.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Tribe shall notify the NIGC of its decision to revoke or reinstate a license within 45 days of receiving notification from the NIGC that a Primary Management Official or Key Employee is not eligible for a license.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If an individual license applicant refuses to accept service of the notice of revocation by certified mail or by other service methods, a public notice of the intent to revoke may be offered in the newspapers.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.120 was formerly codified as 25.0212</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0213</num>
+      <num>25.02.130</num>
       <heading>Limitations on Licensee</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Licensees may not participate in contracts with the facility in which he or she is licensed for employment;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Licensees may not engage in banked gaming in the facility in which he or she is licensed in.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Restricted Employees:  The gaming departments listed below have restrictions on employee gambling as described:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Table games:  Manager and Assistant Manager are not allowed to play Table Games.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Poker:  Manager and Assistant Manager of the Poker Department are not allowed to play Poker.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Slot machines:  Slot Department employees, with the exception of Slot Attendants, are not allowed to play slot machines.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Simulcast:  Simulcast employees are not allowed to participate in any type of betting in this area.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Bingo:  Bingo employees, including Snack Shack employees are not allowed to play Bingo.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Pulltabs:  No Pulltab employee and no Main Bank employee is allowed to play Pull Tabs sold within the Casino.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The support departments listed below have restrictions on employee gambling as described:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Drop Department:  Drop department employees are not allowed to play slot machines:</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Accounting Department:  The following restrictions apply in the Accounting Department.</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Slot Auditor and Assistant Slot Auditor are not allowed to play slot machines.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Table Games/Poker Auditor are not allowed to play Table Games or Poker.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Simulcast Auditor is not allowed to play/bet in Simulcast.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>Bingo Auditor is not allowed to play Bingo.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Employee Gambling Policy. The following is the policy of the Turtle Mountain Chippewa authorizing employees to play games of chance.</text>
         <para>
-          <num>(a)</num>
-          <text>Purpose.  The purpose of <cite path="25|25.02|25.0213">this Section</cite> is to set forth Employee Gambling Policies that uphold the integrity of the gaming operation.  Employee gambling is defined as playing slot machines, table games (including poker, simulcast, and bingo and any other gaming activity that may be added in the future.</text>
+          <num>(1)</num>
+          <text>Purpose.  The purpose of <cite path="§25.02.130">this section</cite> is to set forth Employee Gambling Policies that uphold the integrity of the gaming operation.  Employee gambling is defined as playing slot machines, table games (including poker, simulcast, and bingo and any other gaming activity that may be added in the future.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Three Factors:  In general there are three factors when considering prohibition, restriction, and allowance of employee gambling.  All three factors are indicators that gambling by these employees should be prohibited or restricted because of the appearance of impropriety if these employees win jackpots and/or promotional prizes:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Management level of the individual concerned.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Possession or access to proprietary and insider knowledge of slot machine percentages or detailed knowledge of any other gaming activity (such as gaming department managers) or employees who design and conduct promotions.</text>
             <text>Note:  Employees with proprietary and inside knowledge of gaming activities are required and expected to communicate this information on a need-to-know basis only.)</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Regulatory and compliance employees (whether tribal or gaming operation.)</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Prohibited Employees:  The employees listed below are prohibited from Gambling in the Sky Dancer Casino and Grand Treasure Casino if the are employed within the facility :y Dancer Casino:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>General Manager</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Assistant General Manager</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Comptroller</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Comptroller Assistant (General Ledger Accountant)</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Marketing Director</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Player Development Personnel</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>MIS employees</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Surveillance employees</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>Casino Compliance Officer</text>
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>TGRA employees General rules on Employee Gambling.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>Employees shall not:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Participate in any promotion;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Play progressive slot machines that Sky Dancer contributes to;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Play in tournaments when the casino contributes to the prize money; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Possess a Players Club card.</text>
         </para>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>Employees will be allowed to gamble before or after their scheduled shift; however, no employee will be allowed to gamble while in uniform or to wear a jacket that covers the uniform.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>This policy has flexibility in its design.  In evaluating whether a new position should be prohibited or restricted from gambling, the Three Factors section shall give guidance on this issue.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.02.130 was formerly codified as 25.0213</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.03</num>
     <heading>Class Ii</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0301</num>
+      <num>25.03.010</num>
       <heading>Purpose</heading>
       <para>
-        <num>(1)</num>
-        <text>The Tribal Council (hereinafter "Tribe"), empowered by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> to enact ordinances, hereby enacts <cite path="25.03">this Chapter</cite> of its Gaming Code in order to set the terms for Class II and III gaming operations on Indian lands subject to the Jurisdiction of the Tribe.</text>
+        <num>(a)</num>
+        <text>The Tribal Council (hereinafter "Tribe"), empowered by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> to enact ordinances, hereby enacts <cite path="25|25.03">this chapter</cite> of its Gaming Code in order to set the terms for Class II and III gaming operations on Indian lands subject to the Jurisdiction of the Tribe.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The purpose of <cite path="25|25.03|25.0301">this section</cite> is to ensure Class II and Class III gaming is regulated, fair, and fun for the general public.</text>
+        <num>(b)</num>
+        <text>The purpose of <cite path="§25.03.010">this section</cite> is to ensure Class II and Class III gaming is regulated, fair, and fun for the general public.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.010 was formerly codified as 25.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0302</num>
+      <num>25.03.020</num>
       <heading>Gaming Authorized</heading>
       <text>Class II gaming as defined in the Indian Gaming Regulatory Act, 25 U.S.C. § 2701 <em>et seq.("</em>IGRA") and by the regulations promulgated by the National Indian Gaming Commission at 25 C.F.R. Sections 500-585. is hereby authorized.</text>
       <text>Sole proprietary interest</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.020 was formerly codified as 25.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0303</num>
+      <num>25.03.030</num>
       <heading>Ownership of Gaming</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by this Ordinance, except as expressly provided in this Ordinance.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>No person or entity, other than the Tribe, shall conduct gaming without obtaining a license from the Commission prior to commencement of gaming.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission may issue a license for individually-owned gaming so long as:</text>
         <para>
-          <num>(a)</num>
-          <text>The individually owned gaming operation is licensed and regulated pursuant to <cite path="25">this Title</cite>;</text>
+          <num>(1)</num>
+          <text>The individually owned gaming operation is licensed and regulated pursuant to <cite path="25">this title</cite>;</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The income to the Tribe from an individually owned gaming operation is used only for the purposes listed in <cite path="25">this Title</cite>;</text>
+          <num>(2)</num>
+          <text>The income to the Tribe from an individually owned gaming operation is used only for the purposes listed in <cite path="25">this title</cite>;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Not less than 60 percent of the net revenues of the individually-owned gaming operation shall be income to the Tribe;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The owner of the individually owned gaming pays an annual assessment to NIGC pursuant to 25 C.F.R. § 514.1; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The Commission applies licensing standards that are at least as restrictive as those established by State law governing similar gaming;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>The Commission determines that the owner of the individually owned gaming would be eligible to receive a State license to conduct the same activity within the jurisdiction of the surrounding State.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.030 was formerly codified as 25.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0304</num>
+      <num>25.03.040</num>
       <heading>Use of Gaming Revenue</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Net revenues from Class II gaming shall be used only for the following purposes; to fund tribal government operations and programs; provide for the general welfare of the Tribe and its members; promote tribal economic development; donate to charitable organizations; or help fund operations of local government agencies.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If the Tribe elects to make per capita<s>l</s> payments to tribal members, it shall authorize such payments only upon approval of a plan submitted to the Secretary of the Interior under 25 U.S.C. § 271O(b)(3) and 25 C.F.R. §§ 522.4 and 522.6.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Net revenues from any Class II and/or Class III gaming activities conducted or licensed by the Tribe may be used to make per capita payments to Tribal members if:</text>
         <para>
-          <num>(a)</num>
-          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <cite path="25">this Title</cite>;</text>
+          <num>(1)</num>
+          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <cite path="25">this title</cite>;</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses in <cite path="25">this Title</cite>;</text>
+          <num>(2)</num>
+          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses in <cite path="25">this title</cite>;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The interests of minors and other legally incompetent persons who are entitled to receive any of the per capita payments are protected and preserved, and the per capita payments are disbursed to the parents or legal guardian of such minors or legal incompetents in such amounts as may be necessary for the health, education, or welfare of the minor or other legally incompetent person; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The per capita payments are subject to Federal taxation and the Tribe notifies its members of such tax liability when payments are made.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.040 was formerly codified as 25.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0305</num>
+      <num>25.03.050</num>
       <heading>Conduct of Class Ii Games of Chance</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Class II games of chance shall be governed by the IGRA; and</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall enact regulations, minimum internal controls, system internal controls, and standard operating procedures to monitor enforce the requirements of IGRA.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.050 was formerly codified as 25.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0306</num>
+      <num>25.03.060</num>
       <heading>Authorized Games</heading>
       <text>Bingo in all Forms: The Tribe hereby authorizes the licensing of and provides basic rules for the operation of the game commonly known as bingo including, but not limited to, all other forms of bingo and Class II poker</text>
       <text>approved by the Commission and authorized by IGRA.</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>No ceiling shall be imposed upon any tribally-operated or tribally-managed bingo game with regard to the cash value of any prize or the value of any merchandise that may awarded to any winner. A tribal high stakes bingo game is hereby authorized pursuant to rules approved by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall approve a ceiling upon the cash value of any prize or the value of any merchandise that may be awarded to any winner.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Ceiling on Prizes for Class II Private Bingo Games:</text>
         <text>The specific restrictions of a bingo operation include, but are not limited to the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Each operator shall charge all players a uniform amount for the bingo cards to be used in each such game.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The rate to be charged each player for a bingo card shall be fixed by each operator and posted conspicuously on the premises of each gaming establishment. No person shall be allowed to play in any bingo game without first paying the uniform charge.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Each person who pays to play in a bingo game shall be given a bingo card which shall be numbered and readily identifiable as belonging to the operator of the gaming establishment for use during a particular game.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The prizes which may be won by a player in each bingo game shall be clearly made known to all players prior to the sale of any bingo card for such sale.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>An example of all winning patterns shall be provided to each player in any bingo game or otherwise displayed in a conspicuous place in the room in which such game is to be played.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>A bingo card shall only be sold and paid for within the two-hour period immediately before the day's gaming begins. Any other advanced sales of bingo packages shall require the advanced approval of the Commission. Unless other arrangements are approved in advance by the Commission, each sale of a bingo card shall take place upon the premises on which the game is to be played</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>No license shall allow any manager or employee to play in a bingo game while on duty. No licensee shall allow any person who, without payment, assists in the operation of any bingo game conducted by the licensee, to play in any bingo game conducted by such licensee within 24 hours of the time such assistance was provided.</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Each bingo prize shall be won by a player who matches the letters and numbers on the bingo card with letters and numbers called by the competition with other paying players.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>Each numbered ball, or other device, used in or for the selection of numbers to be called in play hall be of the same weight as each such other ball or device used for such purpose in such game. Immediately following the calling of each number, the caller shall display to the players that portion of the ball or other device used to determine which number is chosen so that each player may know that the proper number has been called out.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>Any licensee who fails to return any money paid by a patron to play in a canceled bingo game, or who fails to provide the advertised prize, shall be subject to civil suit to collect only the amount owed plus court fees. No damage suits shall be authorized.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission hereby authorizes the licensing of and provides basic rules for the operation of games commonly known as pull-tabs or punchboards or tip jars.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Any person who desires to sell pull-tabs, operate punchboards, or tip jars shall obtain a Class II tribal gaming license.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Specific restrictions on a pull-tab, punchboard, or tip jar operation include, but are not limited to the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Each licensee is prohibited from printing, manufacturing, or constructing pull-tab equipment or materials.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Unless all of the highest denominations of winners have been sold, or unless otherwise permitted by Commission regulation, a licensee engaged in the selling of chances from jars of pull-tab or punchboards shall not discard any remaining pull-tabs or punchboards once the contents of that jar of pull-tabs or punchboards are offered for sale to players.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The maximum price per pull-tab or punchboard chance shall not exceed $25.00.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Each pull-tab and punchboard shall be numbered    and shall display the winning combinations. Winning combinations shall also be posted near the place where pull-tabs or punchboards are sold.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The amount won by the holder of any winning pull-tab or punchboard shall be paid upon demand and shall only be paid out by the licensee at its licensed establishment.</text>
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>No Ceiling on Prizes for Tribally-Owned or Tribally Managed Gaming shall be imposed upon any pull-tab, punchboard or tip jar operation with regard to the cash value of any prize or the value of any merchandise that may be awarded to a winner.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission shall approve a ceiling upon the cash value of any prize or the value of any merchandise that may be awarded to any winner in any pull-tab, punchboard, or tip jar operation by a tribal social or charitable organization.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>No tribal social or charitable pull-tab, punchboard or tip jar operation shall award prizes whose cash value exceeds that allowed by state law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.03.060 was formerly codified as 25.0306</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.04</num>
     <heading>Class Iii (Casino-Type) Gaming</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0401</num>
+      <num>25.04.010</num>
       <heading>Purpose</heading>
-      <text>The Tribal Council (hereinafter "Tribe"), delegated the authority to enact laws by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> hereby enacts <cite path="25.04">this Chapter</cite> of its Gaming Title in order to set the terms for Class III gaming operations on Tribal lands.</text>
-      <annotations/>
+      <text>The Tribal Council (hereinafter "Tribe"), delegated the authority to enact laws by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> hereby enacts <cite path="25|25.04">this chapter</cite> of its Gaming Title in order to set the terms for Class III gaming operations on Tribal lands.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.010 was formerly codified as 25.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0402</num>
+      <num>25.04.020</num>
       <heading>Incorporation of Tribal-State Compact: Games Authorized</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The conduct of all Class III gaming activities as defined in the Indian Gaming Regulatory Act ("IGRA"), 25 U.S.C. Section 2703(8), on tribal lands within the Tribe's jurisdiction shall be governed by the Tribal-State Compact as duly executed by authorized tribal and state officials and approved by the Department of the Interior according to the IGRA on March 11, 2013.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The provisions of such Tribal-State Gaming Compact shall be incorporated hereby in the Turtle Mountain Band of Chippewa Indians Code.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Only those games approved as mentioned above are permitted to be conducted by the Turtle Mountain Band of Chippewa.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The Tribal-State Compact's terms may change from time to time and such changes are authorized by <cite path="25">this Title</cite> and incorporated into <cite path="25">this Title</cite> for requirements of administration.</text>
+        <num>(d)</num>
+        <text>The Tribal-State Compact's terms may change from time to time and such changes are authorized by <cite path="25">this title</cite> and incorporated into <cite path="25">this title</cite> for requirements of administration.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.020 was formerly codified as 25.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0403</num>
+      <num>25.04.030</num>
       <heading>Ownership of Gaming</heading>
-      <text>The Tribe shall have the sole propriety interest in and responsibility for the conduct of any gaming operation authorized by <cite path="25">this Title</cite>.</text>
-      <annotations/>
+      <text>The Tribe shall have the sole propriety interest in and responsibility for the conduct of any gaming operation authorized by <cite path="25">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.030 was formerly codified as 25.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0404</num>
+      <num>25.04.040</num>
       <heading>Additional Compact Requirements for Class Iii Employment Licenses</heading>
       <text>The Commission shall comply with all such requirements of licensing of Class III gaming employments requirements set forth in the Tribal-State Gaming Compact and subsequent amendments.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.040 was formerly codified as 25.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0405</num>
+      <num>25.04.050</num>
       <heading>Conduct of Class Iii Games of Chance</heading>
       <text>Until such time as additional regulations are deemed necessary by the Commission, the conduct of all Class III games shall be governed by those applicable provisions of the Tribal-State Gaming Compact.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.050 was formerly codified as 25.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0406</num>
+      <num>25.04.060</num>
       <heading>Compliance with Terms of Tribal-State Gaming Compact</heading>
       <text>In the conduct and operation of any Class III gaming facilities, the Commission shall comply with all terms of the Tribal-State Gaming Compact adopted by law from time to time and authorized by the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.04.060 was formerly codified as 25.0406</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.05</num>
     <heading>Vendor Licensing</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0501</num>
+      <num>25.05.010</num>
       <heading>Licenses for Vendors</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Vendors of Gaming Services or supplies, with a value of $25,000 or more annually, must have a vendor license from the Tribal Gaming Commission in order to transact business with the Tribal gaming operations.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Contracts for professional legal and accounting services are excluded from this provision.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.010 was formerly codified as 25.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0502</num>
+      <num>25.05.020</num>
       <heading>Submission of a Vendor License Application</heading>
       <text>In order to obtain a gaming vendor license, the business must complete a vendor application and submit to background checks of itself and its principals. Principals of a business include those officers, directors, managers, owners, partners, and non-institutional stockholders that either own 10% or more of the business' stock or are the 10 largest stockholders, as well as the on-site supervisors or managers designated in an agreement with the Tribe, if applicable.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.020 was formerly codified as 25.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0503</num>
+      <num>25.05.030</num>
       <heading>Contents of the Vendor License Application</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Applications for gaming vendor licenses must include the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Name of business, business address, business telephone number(s), federal tax identification number (or social security number, if a sole proprietorship), main office address (if different from business address), any other names used by the applicant in business, and type of service(s) applicant will provide;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Whether the applicant is a partnership, corporation, limited liability company, sole proprietorship or other entity;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>If the applicant is a corporation, the state of incorporation and the qualification to do business in the State of North Dakota, if the gaming operation is in a different state than the state of incorporation.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Trade name, other names ever used and names of any wholly owned subsidiaries or other businesses owned by the vendor or its principals;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>General description of the business and its activities;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Whether the applicant will be investing in, or loaning money to, the gaming operation, and, if so, how much;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>A list of Indian tribes with which the vendor has an existing or previous business relationship, including ownership, financial or management interests in any non-gaming activity;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>If the vendor has extensive interaction with Indian tribes, a tribe may want to limit this list to the ten (10) biggest contracts;</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>A tribe may want to consider naming a higher amount for larger or publicly traded companies.;</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(11)</num>
           <text>Names, addresses and telephone numbers of three (3) business references with whom the company has regularly done business for the last five (5) years;</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(12)</num>
           <text>The name and address of any licensing or regulatory agency with which the business has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(13)</num>
           <text>If the business has ever had a license revoked for any reason, the circumstances involved;</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(14)</num>
           <text>A list of lawsuits to which the business has been a defendant, including the name and address of the court involved, and the date and disposition, if any;</text>
         </para>
         <para>
-          <num>(o)</num>
+          <num>(15)</num>
           <text>A list the business' funding sources and any liabilities of $50,000 or more;</text>
         </para>
         <para>
-          <num>(p)</num>
+          <num>(16)</num>
           <text>A list of the principals of the business, their social security numbers, addresses, telephone numbers, titles, and percentage of ownership in the company; and</text>
         </para>
         <para>
-          <num>(q)</num>
+          <num>(17)</num>
           <text>Any further information the Tribe deems relevant.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The following notice shall be placed on the application form for a vendor and its principals:</text>
         <text>Inclusion of false or misleading information in the vendor application may be grounds for denial or revocation of the Tribe's vendor license.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A vendor may submit to the Commission a copy of a recent license application to another jurisdiction if it contains the information listed above. The vendor will be required to submit, in writing, any changes in the information since the other license application was filed, and any information requested by the Tribe not contained in the other application.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.030 was formerly codified as 25.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0504</num>
+      <num>25.05.040</num>
       <heading>Vendor Background Investigations</heading>
       <text>The Commission shall employ or otherwise engage an investigator to complete an investigation of a gaming vendor. This investigation shall include, at a minimum, the following steps:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Verification of the vendor's business' incorporation status and qualifications to do business in the state where the gaming operation is located;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Obtaining a business credit report, if available, and conducting a Better Business Bureau check on the vendor;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Conducting a check of the vendor's business' credit history;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Calling and questioning each of the references listed in the vendor application; and</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Conducting an investigation of the principals of the vendor's business, including facilitating a criminal history check, obtaining criminal history check results, obtaining a credit report, and interviewing the personal references listed.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.040 was formerly codified as 25.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0505</num>
+      <num>25.05.050</num>
       <heading>Vendor License Fees</heading>
       <text>The TGRA may charge a license fee, to be set by the Commission, to cover its expenses in investigating and licensing vendors of the gaming operation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.050 was formerly codified as 25.0505</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0506</num>
+      <num>25.05.060</num>
       <heading>Vendor Background Investigation Reports</heading>
       <text>The investigator shall complete an investigative report covering each of the steps taken in the background investigation of the gaming vendor and its principals, and present it to the Commission.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.060 was formerly codified as 25.0506</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0507</num>
+      <num>25.05.070</num>
       <heading>Exemption for Vendors Licensed by Recognized Regulatory Authorities</heading>
       <text>The Commission may adopt regulations naming specific licensing authorities that it recognizes and may authorize exemptions to the vendor licensing process for vendors who have received a license from one of the named regulatory authorities, which are Nevada, South Dakota, North Dakota, Colorado, and Mississippi.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.05.070 was formerly codified as 25.0507</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.06</num>
     <heading>Fair Hearing Procedures</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0601</num>
+      <num>25.06.010</num>
       <heading>Practice and Procedures for Commission Hearings</heading>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.010 was formerly codified as 25.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.1</num>
+      <num>25.06.020</num>
       <heading>Commission Hearing Provisions:</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission will post its agenda 3 days prior to meetings and will provide 30 days notice and publication or proposed code, regulatory, and internal minimum controls amendments for public comment.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission will afford an applicant an opportunity for a hearing any final action a license application.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The burden of proving fitness and suitability for a license will be on the applicant.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Notice to Applicant. The Commission will provide written notice to the applicant or licensee of the hearing at least ten (10) business days (Monday -Friday) prior to the date set for the hearing. The notice will be sent by certified mail, or may be personally served upon the applicant. The notice will state the date, time and place of the hearing. The notice will also state the purpose of the hearing, including, but not limited to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Whether the Commission is holding the hearing for the purpose of obtaining further infom1ation; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Whether the Commission will be considering the grant or denial of the license application.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.020 was formerly codified as 25.0601.1</annotation>
+      </annotations>
     </section>
     <section>
-      <num>26.0601.2</num>
+      <num>25.06.030</num>
       <heading>Ex Parte Communications, Threat, or Offer of Reward Prohibited</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Ex parte communication, threat, or offer of reward relative to any matter(s) being considered by the Commission will be prohibited between an applicant, its legal counsel, representative, agent or employee and any member of the Commission, Tribal Council, or the Tribe's Chairman before a decision is rendered by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>For the purpose of <cite path="25|25.06|26.0601.2">this Section</cite> only, "any matter(s) being considered by the Commission," means those matters identified in the written notice as well as any other matters that are actually considered by the Commission during a hearing.   All matters identified in the written notice will be subject to the prohibition against ex parte communications.  All matters not identified in the written notice that are considered by the Commission during a hearing become subject to the prohibition against ex parte communications as soon as they are discussed during the hearing.</text>
+        <num>(b)</num>
+        <text>For the purpose of <cite path="§25.06.030">this section</cite> only, "any matter(s) being considered by the Commission," means those matters identified in the written notice as well as any other matters that are actually considered by the Commission during a hearing.   All matters identified in the written notice will be subject to the prohibition against ex parte communications.  All matters not identified in the written notice that are considered by the Commission during a hearing become subject to the prohibition against ex parte communications as soon as they are discussed during the hearing.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any member of the Commission, Tribal Council, or the Tribal Chairman who receives an ex parte communication, threat, or offer of reward relative to any matter(s) being considered by the Commission will immediately report such communication in writing to the Gaming Inspector and the Gaming Commission's Counsel.  The Commissioner shall not participate in the hearing unless his or her inability to participate would make it impossible for the Commission to obtain a Quorum.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Nothing in <cite path="25|25.06|26.0601.2">this Section</cite> will prohibit the applicant or its authorized agent from communicating with the Gaming Commission's Counsel or its authorized agents.</text>
+          <num>(2)</num>
+          <text>Nothing in <cite path="§25.06.030">this section</cite> will prohibit the applicant or its authorized agent from communicating with the Gaming Commission's Counsel or its authorized agents.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The Commission will have the power to impose any sanction pursuant to this Ordinance upon its determination that an applicant, his or her legal counsel, agent, representative or employee has violated <cite path="25|25.06|26.0601.2">this Section</cite>.</text>
+        <num>(c)</num>
+        <text>The Commission will have the power to impose any sanction pursuant to this Ordinance upon its determination that an applicant, his or her legal counsel, agent, representative or employee has violated <cite path="§25.06.030">this section</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.030 was formerly codified as 26.0601.2</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.3</num>
+      <num>25.06.040</num>
       <heading>Appearance Through Counsel</heading>
       <para>
-        <num>(1)</num>
-        <text>Parties to all hearings governed by <cite path="25|25.06|25.0601.3">this Section</cite> of the Ordinance may appear personally or through an attorney, except that a party must personally attend any hearing on the merits unless attendance has been waived, in writing, by the Commission.</text>
+        <num>(a)</num>
+        <text>Parties to all hearings governed by <cite path="§25.06.040">this section</cite> of the Ordinance may appear personally or through an attorney, except that a party must personally attend any hearing on the merits unless attendance has been waived, in writing, by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>When a party has appeared through an attorney, service of all notices, motions, orders, decisions, and other papers, including verbal communications, will thereafter be made upon the attorney, unless the party requests or permits otherwise in writing.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>When a party is represented by an attorney, the attorney will sign all motions, notices, requests, and other papers on behalf of the party.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>An attorney retained to represent an applicant, his or her representative, agent or employee, will file proof of eligibility to practice law in the Turtle Mountain Band of Chippewa Bar with the Commission prior to the scheduled hearing.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.040 was formerly codified as 25.0601.3</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.4</num>
+      <num>25.06.050</num>
       <heading>Discovery</heading>
       <para>
-        <num>(1)</num>
-        <text>The Gaming Office or its Counsel and the applicant (respondent) will exchange a list of persons that each party intends to call as witnesses no later than seven (7) business days (Monday-Friday) before a scheduled hearing.  Each witness will be identified by name, if known, position, and business address.  If no business address is available, a home address for the witness will be provided.  Any witness not identified in accordance with <cite path="25|25.06|25.0601.4">this Section</cite> may be prohibited from testifying at a hearing in the Commission's discretion.</text>
+        <num>(a)</num>
+        <text>The Gaming Office or its Counsel and the applicant (respondent) will exchange a list of persons that each party intends to call as witnesses no later than seven (7) business days (Monday-Friday) before a scheduled hearing.  Each witness will be identified by name, if known, position, and business address.  If no business address is available, a home address for the witness will be provided.  Any witness not identified in accordance with <cite path="§25.06.050">this section</cite> may be prohibited from testifying at a hearing in the Commission's discretion.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Gaming Office or its Counsel and the applicant (respondent) will exchange a copy of all documents or tangible evidence that he or she intends to offer as evidence in support of the party's case in chief.  This exchange will be made to the opposing party no later than three (3) business days (Monday-Friday) before a scheduled hearing.  Failure to make available any document or tangible evidence in accordance with <cite path="25|25.06|25.0601.4">this Section</cite> may, in the Commission's discretion, be grounds to deny the admission of such document or tangible evidence.</text>
+        <num>(b)</num>
+        <text>Gaming Office or its Counsel and the applicant (respondent) will exchange a copy of all documents or tangible evidence that he or she intends to offer as evidence in support of the party's case in chief.  This exchange will be made to the opposing party no later than three (3) business days (Monday-Friday) before a scheduled hearing.  Failure to make available any document or tangible evidence in accordance with <cite path="§25.06.050">this section</cite> may, in the Commission's discretion, be grounds to deny the admission of such document or tangible evidence.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.050 was formerly codified as 25.0601.4</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.5</num>
+      <num>25.06.060</num>
       <heading>Confidential Materials Procedure</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Prior to making any documents available to the Gaming Office or its Counsel, the applicant (respondent) may designate any document he or she believes to contain confidential information as "Subject to a Confidentiality Claim" by so marking the document prior to providing a copy of the document to Gaming Office or its Counsel.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>No document provided to the Gaming Office or its Counsel, which has been marked in accord with <cite path="25|25.06|25.0601.5">this section</cite> and no non-public information contained with the document will be made a part of the public record of the Commission proceedings or otherwise disclosed by the Commission to any person other than its authorized agents (or except as may be required under any laws, regulations, court order, or the Compact), without first  providing the respondent with the opportunity to seek a ruling by the Commission that the documents and/or non-public information contained therein should not be made public.  The request for such a ruling and any discussion relating to the document will be heard and ruled upon by the Commission in an executive session, the bearing session will be adjourned and the Commission will conduct an executive session meeting in order to hear and rule upon the respondent's request.  The applicant (respondent) may present to the Commission, in executive session, written and oral arguments regarding the confidentiality claim, along with any facts the applicant (respondent) believes to be relevant to such argument.</text>
+        <num>(b)</num>
+        <text>No document provided to the Gaming Office or its Counsel, which has been marked in accord with <cite path="§25.06.060">this section</cite> and no non-public information contained with the document will be made a part of the public record of the Commission proceedings or otherwise disclosed by the Commission to any person other than its authorized agents (or except as may be required under any laws, regulations, court order, or the Compact), without first  providing the respondent with the opportunity to seek a ruling by the Commission that the documents and/or non-public information contained therein should not be made public.  The request for such a ruling and any discussion relating to the document will be heard and ruled upon by the Commission in an executive session, the bearing session will be adjourned and the Commission will conduct an executive session meeting in order to hear and rule upon the respondent's request.  The applicant (respondent) may present to the Commission, in executive session, written and oral arguments regarding the confidentiality claim, along with any facts the applicant (respondent) believes to be relevant to such argument.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>When weighing the public's right to be informed of the information before the Gaming Commission, the Commission in executive session will evaluate the evidence present as "Subject to a Confidentiality Claim" as follows:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Commission will balance the applicant's (respondent's)claims of confidentiality against the materiality of the information to the license application or renewal decision;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Commission will balance the public's right to know the information against the applicant's (respondent's) claim of confidentiality;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The Commission will balance its own accountability as a public service regulatory body to create a public record for the Licensure against the applicant's (respondent 's) claim of confidentiality; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Commission will consider all facts and circumstances relevant to making a proper ruling, this will include but is not limited to the public's safety, tradition and custom of the Tribe, the standard evidentiary privileges which includes but is not limited to doctor-patient privilege, clergy privilege, and/or attorney-client privilege.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>After considering the record ''Subject to a Confidentiality Claim" in executive session and determining that the record will be made a part of the public record of the applicant's (respondent's) application or licensure, renewal proceedings, the Commission will rule in public session on the record as to which documents are "Subject to a Confidentiality Claim."</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>If the Commission rules against the Confidentiality Claim and the applicant (respondent) continues to contest that the record or document should continue to be "Subject to a Confidentiality Claim," the applicant (respondent) will be permitted to:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>Withdraw his or her license application or licensure application from consideration by the Commission; or</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>withdraw the record or document from the Commission's</text>
             <text>proceeding.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If the applicant (respondent) selects the option to withdraw the evidence from the hearing the Commission when making the licensure decision shall weigh the withdrawal of the record or document along with other evidence in making the determination. Withdrawal of the documents from the application process ordinarily will be considered with disfavor and, depending on the facts and circumstances of the public record, the Commission may deem the withdrawal of the record or document to be sufficient cause in and of itself for denial of the license application or licensure renewal.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>In the event that the Commission rules during executive session that the document and/or information contained therein should not be made part of the public record, but will be considered in the license application or renewal, the record or document shall be designated "Confidential," sealed, and will not be made part of the public record. The Commission may consider the document and information contained within the confidential record or document, in camera in making its determination</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>At the conclusion of the Commission' s proceedings, the Commission will</text>
         <text>return to the applicant (respondent) all documents marked as "Subject to a Confidentiality Claim" which were not made part of the public record or were viewed in camera and designated as "Confidential."</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.060 was formerly codified as 25.0601.5</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.6</num>
+      <num>25.06.070</num>
       <heading>Subpoenas</heading>
       <text>The Commission is hereby authorized to issue subpoenas within its jurisdiction of authority when considering license applications or renewals.</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Subpoenas may be issued to cause a witness to appear and give oral testimony, or to produce documents or other tangible evidence.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If a party wishes to have a subpoena issued by the Commission within its jurisdiction of authority, a properly prepared subpoena will be furnished by the party, including information necessary for service of process, at least three (3) calendar days prior to the hearing.  When service has been completed, the Commission will provide proof of service to all parties.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>If a party or Commission wishes to include witnesses who are not within the Commission's jurisdiction of authority, but wishes to personally request the appearance of the intended witness(es) on his or her behalf, the party is required to provide notice of the intended witness(es).</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If a party does not timely request a subpoena, the party will not be entitled to a postponement because of the absence of the witness(es).</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>If the subpoena has been timely issued, the Commission may, in its discretion, postpone the hearing due to the absence of the witness(es).</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.070 was formerly codified as 25.0601.6</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.7</num>
+      <num>25.06.080</num>
       <heading>Postponement</heading>
       <text>The Commission may postpone a hearing upon the request of a party, upon agreement of all parties, or at the Commission's discretion for good cause, and on such terms as the Commission deems just.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.080 was formerly codified as 25.0601.7</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.8</num>
+      <num>25.06.090</num>
       <heading>Hearing Procedures</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Chairman will preside over all hearings, call the proceedings to order, control the presentation of evidence, the appearance of witnesses, and the order of the proceedings.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission has the authority to require any person including, but not limited to, any agent, employee or representative of any person, to appear and testify before the Commission with regard to any matter within the Commission's jurisdiction at such time and place as it may designate.  Such testimony will be under oath and may include any matters which the Commission deems relevant to the discharge of the Commission's official duties. Testimony will be recorded by a duly certified court reporter and may be used by the Commission as evidence in any proceeding or matter before the Commission. Failure to appear and testify fully at the time and place designated will result in sanctions.  Failure to appear may constitute grounds for:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The refusal to grant a license to the person summoned, and/or that person's principal or employer;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The suspension or revocation of a license held by the person summoned, and/or that person's principal or employer; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The inference that the testimony of the person summoned would have been adverse to that person and/or that person's principal or employer.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Any party to the hearing may call and examine witnesses.  The Commission will exercise its discretion to limit the testimony of witnesses where that testimony is irrelevant, argumentative or repetitive.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Any party to the hearing may conduct cross-examinations reasonably required for a full and true disclosure of the facts.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission may ask questions of witnesses, and may request or allow additional evidence at any time.</text>
         <text>Persons will be permitted to speak only when recognized by the Chairman.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Commission will have the authority to eject from the hearings any person who is disruptive, disorderly, or who shows a lack of proper respect for the Commission or the nature of the proceedings.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>All hearings held under this Ordinance will be open to all members of the Tribe and to such other persons who, in the discretion of the Commission or the Gaming Office or its Counsel, should be allowed to attend.</text>
         <text>The Commission, in its discretion, has the power to exclude witnesses from the hearing until which time as the witness is required to testify.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.090 was formerly codified as 25.0601.8</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.9</num>
+      <num>25.06.100</num>
       <heading>Evidence</heading>
       <para>
-        <num>(1)</num>
-        <text>In   hearings subject to <cite path="25">this Title</cite>, the Commission will not be bound by technical rules relating to evidence and witnesses. The Commission will admit all testimony that tends to prove a relevant issue to the hearing, but will exclude immaterial, irrelevant or unduly repetitious testimony. The Commission will give effect to the rules of privilege, unless such privilege is waived. The submission of evidence or taking of testimony shall be controlled by basic principles of relevancy, materiality and whether or not the evidence or testimony relates to a relevant issue of the bearing. Objections to evidentiary offers and offers of proof of evidence not admitted may be made and will be noted.</text>
+        <num>(a)</num>
+        <text>In   hearings subject to <cite path="25">this title</cite>, the Commission will not be bound by technical rules relating to evidence and witnesses. The Commission will admit all testimony that tends to prove a relevant issue to the hearing, but will exclude immaterial, irrelevant or unduly repetitious testimony. The Commission will give effect to the rules of privilege, unless such privilege is waived. The submission of evidence or taking of testimony shall be controlled by basic principles of relevancy, materiality and whether or not the evidence or testimony relates to a relevant issue of the bearing. Objections to evidentiary offers and offers of proof of evidence not admitted may be made and will be noted.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All evidence, including records and documents in the possession of the Commission or which the Commission desires to avail itself, will be duly offered and made a part of the record in the case.  Each party will be afforded and made a part of the record in the case.  Each party will be afforded adequate opportunity to rebut or offer countervailing evidence.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission may take official notice of any generally recognized fact or any established technical or scientific fact; but parties will be notified either before or during the hearing or by full reference in preliminary reports or otherwise, of the facts so noticed, and they will be afforded an opportunity to contest the validity of the official notice.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Documentary evidence may be received in the form of copies or excerpts, if the original is not readily available. Upon request, parties will be given an opportunity to compare the copy to the original.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The record in a hearing governed by this Ordinance will include:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>applications, pleadings, intermediate rulings and exhibits and appendices thereto;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>evidence received or considered, stipulations and admissions, including but not limited to confidential evidence.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>a statement of matters officially noticed;</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Questions and offers of proof, objections and ruling thereon;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Any proposed findings or decisions and exceptions;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Any decision, opinion or report by the Court; and</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>The audio recording or transcript from such audio recording prepared by a duly certified court reporter.</text>
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.100 was formerly codified as 25.0601.9</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.10</num>
+      <num>25.06.110</num>
       <heading>Determination by the Commission</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission will make all determinations of issues, questions, and claims before it.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All significant determinations made by the Commission will be documented in a written decision and will require a Quorum at a duly called meeting of the Commission, and shall include the grant, denial, renewal, or failure to renew a license.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>A copy of any decision reached pursuant to <cite path="25|25.06|25.0601.10">this Section</cite> will be served upon the applicant (respondent) by registered or certified mail, or may be served personally.</text>
+        <num>(c)</num>
+        <text>A copy of any decision reached pursuant to <cite path="§25.06.110">this section</cite> will be served upon the applicant (respondent) by registered or certified mail, or may be served personally.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.110 was formerly codified as 25.0601.10</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.11</num>
+      <num>25.06.120</num>
       <heading>Sanctions</heading>
       <text>The Commission may impose the following sanctions:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>An order prohibiting the use of any witness, document or tangible evidence which should have been disclosed, produced, exhibited or exchanged pursuant to this Ordinance, the Commission's Rules of Practice and Procedure, or any order of the Commission;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>An order that designated facts will be taken as established;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>An order that the disobedient party may not support or oppose designated claims or defenses;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>An order striking pleadings or parts thereof, or staying further proceedings or dismissing the proceeding or any part thereof, or entering a judgment by default against the disobedient party; and</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>A finding against the disobedient party.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>A forfeiture not to exceed a $1000 per incident.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.120 was formerly codified as 25.0601.11</annotation>
+      </annotations>
     </section>
     <section>
-      <num>25.0601.12</num>
+      <num>25.06.130</num>
       <heading>Appeals</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Decisions of the Commission denying or not renewing a license shall be final and may only be appealed to the Court.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Appeals must be filed within 30 days of service of the determination.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.06.130 was formerly codified as 25.0601.12</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>25.07</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>25.0701</num>
+      <num>25.07.010</num>
       <heading>Definitions</heading>
       <text>Definitions. Except where otherwise defined in <cite path="25">this title</cite>, words used will have their commonly understood meaning:</text>
       <para>
@@ -2200,15 +2361,15 @@
           <num>(1)</num>
           <text>The game of chance commonly known as bingo (whether or not electronic, computer, or other technological aids are used in connection therewith):</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Which is played for prizes, including monetary prizes, with cards bearing numbers or other designs; and</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>In which the holder of the card covers such numbers or designs when objects, similarly numbered or designated, are drawn or electronically determined; and</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(C)</num>
             <text>In which the game is won by the first person covering the previously designated arrangement of numbers or designs on such cards, including (if played, in the same location) pull-tabs, lotto, punch boards, tip jars, instant bingo, and other games similar to bingo.</text>
           </para>
         </para>
@@ -2216,11 +2377,11 @@
           <num>(2)</num>
           <text>Card games that:</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Are explicitly authorized by the laws of the state; or</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>Are not explicitly prohibited by the laws of the state and are played at any location in the state, but only if such card games are played in conformity with those laws and regulations (if any) of the state regarding hours and periods of operation of such card games or limitations on wagers or pot sizes in such card games.</text>
           </para>
         </para>
@@ -2235,7 +2396,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>"Commission" or "Gaming Commission" means the Turtle Mountain Band of Chippewa Indians Gaming Commission established pursuant to Sections 13 and 14 of <cite path="25">this Title</cite>.</text>
+        <text>"Commission" or "Gaming Commission" means the Turtle Mountain Band of Chippewa Indians Gaming Commission established pursuant to Sections 13 and 14 of <cite path="25">this title</cite>.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -2255,7 +2416,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>"Ex parte communication" means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given and in which not all parties subject to the hearing are present, but it will not include requests for status reports on any matter or proceeding covered by <cite path="25">this Title</cite>.</text>
+        <text>"Ex parte communication" means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given and in which not all parties subject to the hearing are present, but it will not include requests for status reports on any matter or proceeding covered by <cite path="25">this title</cite>.</text>
       </para>
       <para>
         <num>(n)</num>
@@ -2318,35 +2479,35 @@
         <text>"License" means a privilege granted for a limited time to a person or entity to perform certain acts; a License will not convey any property or liberty interest to the licensee.</text>
       </para>
       <para>
-        <num>(aa)</num>
+        <num>(w)</num>
         <text>"Management contract" means any contract, subcontract or collateral agreement between the Tribe and a contractor or between a contract and a subcontractor if such contract or agreement provides for the management of all or part of any gaming operation.  Management encompasses many activities (e.g., planning, organizing, directing, coordinating, and controlling). The performance of any one of such activities with respect to all or part of a gaming operation constitutes management for the purpose of determining whether any contract or agreement for the performance of such activities is a management contract. A management contract will typically have, but is not limited to, the following types of activities or requirements with respect to the gaming operation: maintenance of adequate accounting procedures and preparation of verifiable financial reports on a monthly basis; payment of a minimum guaranteed amount to the Nat ion; development and construction costs incurred or financed by a party other than the term of contract that establishes an ongoing relationship ; compensation based on percentage fee (performance); and provision  for assignment or subcontracting of responsibilities.</text>
       </para>
       <para>
-        <num>(bb)</num>
+        <num>(x)</num>
         <text>"Territory and Jurisdiction" means the area defined in the TMBCI Constitution in Article II.</text>
       </para>
       <para>
-        <num>(cc)</num>
+        <num>(y)</num>
         <text>"Tribe" means the Turtle Mountain Band of Chippewa Indians, any of its subdivisions, enterprises, agencies or instrumentality, subdivisions of such enterprises, agencies or instrumentality, corporations chartered under federal, state, or tribal law which are not wholly owned by any of the foregoing, and authorized officials, agents and representatives of any of the foregoing.</text>
       </para>
       <para>
-        <num>(dd)</num>
+        <num>(z)</num>
         <text>"NIGC" means the National Indian Gaming Commission established pursuant to the IGRA, 25 U.S.C. § 2704.</text>
       </para>
       <para>
-        <num>(ee)</num>
+        <num>(aa)</num>
         <text>"Net revenues" means gross revenues of an Indian gaming operation less amounts paid out as,or paid for prizes and total gaming-related operating expenses excluding management fees.</text>
       </para>
       <para>
-        <num>(ff)</num>
+        <num>(bb)</num>
         <text>Reserved.</text>
       </para>
       <para>
-        <num>(gg)</num>
+        <num>(cc)</num>
         <text>Reserved.</text>
       </para>
       <para>
-        <num>(hh)</num>
+        <num>(dd)</num>
         <text>"Owner or Controlling Person " means:</text>
         <para>
           <num>(1)</num>
@@ -2370,29 +2531,29 @@
         </para>
       </para>
       <para>
-        <num>(ii)</num>
+        <num>(ee)</num>
         <text>"Person" means any individual and any partnership (general and limited), association, corporation, or other legal entity.</text>
       </para>
       <para>
-        <num>(jj)</num>
+        <num>(ff)</num>
         <text>"Chairman" means the duly elected Chairman of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(kk)</num>
+        <num>(gg)</num>
         <text>"Premises" or "Licensed Premises" means any place, facility, or location on Indian lands at which Class II or Class III gaming is conducted.</text>
       </para>
       <para>
-        <num>(ll)</num>
+        <num>(hh)</num>
         <text>"Primary Management Official" means any person designated as a direct employee of the Tribe or in any management contract as having management responsibility of all or any part of any gaming operation:</text>
         <para>
           <num>(1)</num>
           <text>Any person who has the authority:</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>To hire and fire employees of a gaming operation; or</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>To set up working policy for a gaming operation; or</text>
           </para>
         </para>
@@ -2402,34 +2563,36 @@
         </para>
       </para>
       <para>
-        <num>(mm)</num>
+        <num>(ii)</num>
         <text>"Quorum" means a majority of the Members of the Gaming Commission and represents the number of Gaming Commission Members who must be present before a decision may be reached by the Gaming Commission.  Unless the Tribe passes a Resolution lowering the number of Gaming Commissioners necessary to constitute a quorum, any three (3) Commissioners present at a duly called meeting will constitute a quorum.</text>
       </para>
       <para>
-        <num>(nn)</num>
-        <text>"Relative of or "Directly related to" means any person's spouse or spousal relationship partner, child, sibling, parent, grandparent, or grandchild. For the purpose of <cite path="25">this Title</cite>, this meaning will include relatives by adoption and step-relatives.</text>
+        <num>(jj)</num>
+        <text>"Relative of or "Directly related to" means any person's spouse or spousal relationship partner, child, sibling, parent, grandparent, or grandchild. For the purpose of <cite path="25">this title</cite>, this meaning will include relatives by adoption and step-relatives.</text>
       </para>
       <para>
-        <num>(oo)</num>
-        <text>"Respondeat superior" means the doctrine that an employer or supervisor of an employee is responsible for the actions of the employee while the employee works within the scope of employment.  The definition of respondeat superior is further limited for purposes of imposing sanctions on supervisors as provided in <cite path="25">this Title</cite>.</text>
+        <num>(kk)</num>
+        <text>"Respondeat superior" means the doctrine that an employer or supervisor of an employee is responsible for the actions of the employee while the employee works within the scope of employment.  The definition of respondeat superior is further limited for purposes of imposing sanctions on supervisors as provided in <cite path="25">this title</cite>.</text>
       </para>
       <para>
-        <num>(pp)</num>
+        <num>(ll)</num>
         <text>"Suitability" means a standard whereby the Gaming Commission looks to an applicant's, licensee's, or vendor's prior activities, criminal record, if any, or reputation, habits and or associations to determine whether or not these prior actions pose a threat to the public interest or to the effective regulation and control of gaming conducted under <cite path="25">this title</cite>, or create or enhance the dangers of unsuitable, we1fair, or illegal practices, and methods, and activities in the conduct of such gaming.</text>
       </para>
       <para>
-        <num>(qq)</num>
+        <num>(mm)</num>
         <text>"Treasurer" means the individual designated as the Treasurer of the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(rr)</num>
+        <num>(nn)</num>
         <text>"Trial Court" or "Court" means the Turtle Mountain Band of Chippewa Indians' Court.</text>
       </para>
       <para>
-        <num>(ss)</num>
+        <num>(oo)</num>
         <text>"Vendors" means any person or legal entity including, but not limited to: a merchant; retail dealer; supplier; importer; wholesale distributor who transfers property; goods or other services by sale or lease to a gaming facility, whether gaming or nongaming related; provided, that the definition of "Vendor" will not include those above persons or entities who provide entertainment services at a gaming facility or operation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§25.07.010 was formerly codified as 25.0701</annotation>
+      </annotations>
     </section>
   </container>
 </container>

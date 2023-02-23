@@ -1,442 +1,456 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>48</num>
   <heading>Public Service Act</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>48.01</num>
     <heading>Public Service Commission</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>48.0101</num>
+      <num>48.01.010</num>
       <heading>Statement of Purpose</heading>
       <text>The purpose of this Public Services Act is to create a Department of Public Services to bring transparency, accountability, and community involvement into delivering public services at affordable, fair, and reasonable rates.</text>
       <text>The Purpose of the Department shall be to:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>provide safe and adequate public utility services to the people at the lowest practicable rates;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>regulate, build, manage, operate, maintain, or replace systems consistent with applicable law to provide public utility services for the Turtle Mountain Tribe, its territory, and its members;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>coordinate the Department's activities with all other tribal Departments and Programs, any federal or state entities, and any private public service providers whose work affects public service and utilities;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>create and implement a "Master Public Utility Records System" which shall include a system recording all existing and future utility infrastructure; and</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>create and implement a one year, a five year, and a twenty year "Master Public Service and Utility Plan" for all pending or proposed or future projects requiring public service and utility infrastructure.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.010 was formerly codified as 48.0101</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0102</num>
+      <num>48.01.020</num>
       <heading>Definitions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text><u>"Contract Service"</u> shall mean public service provided by either a private for-profit, investor-owned organization or a cooperative, user-owned organization with which a Division of the Department contracts to provide.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text><u>"Direct Service"</u> shall mean public service provided by the respective Division of the Department.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"<u>Excess Revenue"</u> shall mean annually budgeted revenue remaining after all budgeted or fiscal year Projects or phases of Projects have been completed and paid.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"<u>New or Rehabilitated Infrastructure Priority List</u> shall mean a list established by the Commission, subject to review and modification by the Council, of all planned new, replaced, rehabbed, or repaired public utility infrastructure Projects.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"<u>Project</u>" shall refer to a public utility or service project undertaken directly or by contract and funded with PSC rates revenue or any other appropriated, grant, or loan funding.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"<u>Public Service</u>" shall refer to the provision and transportation of electricity, heating oil or gas, water, sewer, telecommunications services, sanitary services, solid waste disposal, or other community service or utility authorized or regulated by the PSC.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"<u>Public Utility</u>" means every corporation, company, Division, person, association, or their lessees or trustees created, or receivers appointed by any court, producing, transmitting, delivering, or furnishing heat, light, water, power, sanitary services, telecommunications, and other community services authorized or regulated by the PSC through Direct Service or by Contract Service.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.020 was formerly codified as 48.0102</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0103</num>
+      <num>48.01.030</num>
       <heading>Adoption and Amendment</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>This law is adopted under the authority of Article IX of the Constitution of the Turtle Mountain Tribe and pursuant to Resolution No. TMBC775-05-16.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Tribal Council, acting in accordance with the constitution and legislative rules of the Turtle Mountain Tribe, may amend this law.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.030 was formerly codified as 48.0103</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0104</num>
+      <num>48.01.040</num>
       <heading>Sovereign Immunity</heading>
       <text>This Act shall not be construed to waive the sovereign immunity or any other immunities or privileges of the Turtle Mountain Tribe that may exist. This Act shall not be construed to waive the sovereign immunity or any other immunities or privileges of the PSC or any of its Divisions or other subordinate entities that may exist. This Act shall not be construed to authorize the PSC or any of its subordinate entities to waive the sovereign immunity or any other immunities or privileges of the Turtle Mountain Tribe.  Any waiver of immunity for the PSC or its several Divisions shall be subject to approval of the Council.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.040 was formerly codified as 48.0104</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0105</num>
+      <num>48.01.050</num>
       <heading>Applicability</heading>
       <text>This law shall apply to all utilities and services provided to the public within the territory or otherwise subject to the jurisdiction of the Turtle Mountain Tribe.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.050 was formerly codified as 48.0105</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0106</num>
+      <num>48.01.060</num>
       <heading>Effective Date</heading>
       <text>This Code shall become effective upon enactment.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.060 was formerly codified as 48.0106</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0107</num>
+      <num>48.01.070</num>
       <heading>Budgeting of Funds</heading>
       <text>There is hereby authorized to be budgeted and appropriated an amount necessary to carry out the purpose of this law.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.070 was formerly codified as 48.0107</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0108</num>
+      <num>48.01.080</num>
       <heading>Establishment of Turtle Mountain Tribe Department of Public Services (Dps)</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <heading>CREATION.</heading>
         <text>The Turtle Mountain Tribal Council hereby creates the Turtle Mountain Tribe Department of Public Service ("DPS").</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <heading>COMPOSITION OF DEPARTMENT.</heading>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text><u>Public Service Commission</u>. The DPS shall be comprised of one Public Service Commission ("PSC") and several Divisions within the Department.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text><u>Divisions of Public Service</u>. The Divisions shall include:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Division of Water</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Division of Wastewater</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Division of Solid Waste</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>Division of Communications</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>Division of Electric Power</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(F)</num>
             <text>Division on Energy</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(G)</num>
             <text>Division of Technology</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(H)</num>
             <text>any other Division which the Tribe may from time-to-time establish.</text>
           </para>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text><u>Direct or Contract Services</u>.  Each Division is authorized, subject to approval by the Commission, to provide Direct Services or to procure private Contract Services for providing the services to ratepayers, or some combination formula that provides the best services at the affordable, fair, and reasonable rates to the ratepayers.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <heading>SELECTION OF COMMISSIONERS.</heading>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text>Turtle Mountain Tribe Public Service Commission shall consist of five (5) Commissioners, including one President and four members.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text>The Council shall select the four Commission Members and the Chairman shall appoint the President of the Commission.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text>If a vacancy occurs for a Member through death, resignation, or otherwise, the Council shall fill such vacancy.  If a vacancy occurs for President, the vacancy shall be filled according to subparagraph (2). The newly appointed President or Member shall serve the remainder of the vacating Commissioner's term.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <heading>TERM OF OFFICE.</heading>
         <text>The four members shall serve four (4) year terms, unless sooner resigned from the Commission or removed for cause.  The first Commission shall serve staggered terms, with two Commission Members serving four year terms and two members serving two year terms as determined by the Council.  The President shall serve a two-year term commensurate with the election cycle of the Council Chairman.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <heading>REMOVAL.</heading>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text>The Council may remove the Commission President or any Commission Member if there is reasonable cause to believe that the Commission Member is unable to adequately perform the duties of the office, has engaged in conduct that is unbecoming of the office, or otherwise becomes unfit to conduct the business of the Commission.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text>A decision to remove the Commission President shall be subject to Judicial Review.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text>The Commission President, when subjected to removal, shall be afforded due process rights, including 1) a Preliminary Notice to Remove; 2) a notice published in the Turtle Mountain Times and the Turtle Mountain Star; 3) to be represented by counsel; and 4) to provide testimony and evidence in a public hearing before the Council.  The public hearing shall be held no sooner than thirty (30) days and no longer than sixty (60) days of published notice.  The Court shall render a final decision within thirty days after providing an evidentiary hearing.</text>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>ELIGIBILITY</text>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text>Four Commissioners shall be residential utility consumers and one Commissioner shall also be a business utility consumer.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text>Commissioners must be at least 25 years of age.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text>Two Commissioners shall have a minimum four-year baccalaureate college degree minimum and all Commissioners must have a minimum high school diploma.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(4)</num>
           <text>No member of the Commission shall be an elected tribal official.</text>
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>COMPENSATION</text>
-        <text>Commissioners of the PSC shall be compensated for each meeting.  Such compensation shall not exceed fifty dollars ($50) for each regular monthly meeting, twenty-five dollars ($25) for each special meeting, and one hundred dollars ($100) for each hearing set forth in subsection (a) of <cite path="48|48.01|48.0114">Section 48.0114</cite>.</text>
+        <text>Commissioners of the PSC shall be compensated for each meeting.  Such compensation shall not exceed fifty dollars ($50) for each regular monthly meeting, twenty-five dollars ($25) for each special meeting, and one hundred dollars ($100) for each hearing set forth in subsection (a) of <cite path="§48.01.140">Section 48.01.140</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.080 was formerly codified as 48.0108</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0109</num>
+      <num>48.01.090</num>
       <heading>Reorganization of Power Company</heading>
       <text>The Electric Power Company established by Council Resolution TMBC775-05-16 shall be within the business branch of Division of Electric Power.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.090 was formerly codified as 48.0109</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0110</num>
+      <num>48.01.100</num>
       <heading>General Powers and Duties of the Psc</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Department and the PSC shall operate as an independent body, subject to all applicable law, but independent in its daily operations.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Department shall be responsible for seeing that all Public Services are provided to as great a number of citizens and members of the Territory as practicable, either through Direct Service or Contract Service, by constructing, maintaining, operating, repairing, and preplacing public service and public utilities infrastructure, whether owned by the Tribe and by a private Contract Service Provider, including but not limited to all electric power water, telecommunications, and waste, including but not limited to main transmission mechanisms, storage mechanisms, power stations, transfer stations, main lines, turnouts, valves, hydrants, treatment facilities, pumping stations, pumps for septic tanks, and solid waste collection and disposal.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The PSC shall conduct an annual review of public service rates, connection charges, and any other fee or charge assessed by any Direct or Contract Service provider to determine the appropriateness of the provider, the reasonableness of rates and fees, essential operating requirements of the public utility, and similar rates and fees in comparable communities. The Commission shall compile a summary annual report and shall provide such report to the Council at an Open Public Meeting.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission shall also consider the following factors in determining the appropriateness of the provider and the reasonableness and equity of rates, charges, and fees:</text>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text>Promotion and preservation of competition (when appropriate and available) to keep consumer costs down;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text>Promotion of consumer choice (when appropriate and available);</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text>Impact on the quality of life for the tribal members, including privacy considerations;</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(4)</num>
           <text>Promotion of universal service; and</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(5)</num>
           <text>Promotion of efficiency and productivity.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The PSC shall have the power to regulate rates for public utility service regardless whether Direct Service or Contract Service. The PSC President shall call at least two Special Meetings to hold public hearings prior to adopting any rate regulations. Any rate, charge, or fee increase occurring as a result of such regulation by the Commission shall not take effect until at least ninety (90) days after the second hearing.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Each Division shall have the power to negotiate for Contract Service, including the rates, connection charges, and other fees assessed by any public service provider, regardless whether Direct or Contract, subject to approval by the Commission and applicable law.  The PSC President shall call at least two Special Meetings to hold public hearings prior to any rate, charge, or fee increase taking effect.  Any rate, charge, or fee increase established as a result of such negotiation shall not take effect until at least ninety (90) days after the second hearing.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Prior to adopting proposed regulations or approving a proposed negotiated agreement, which may increase rates, charges, or fees, the Commission shall notify the Council of such regulations or negotiations.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission shall have the authority to monitor and order maintenance upon any public service or public utility infrastructure or project, regardless whether such infrastructure is operated, maintained, repaired, or replaced by a Division of the Department or a Contract Service provider.</text>
       </para>
       <para>
-        <num>(9)</num>
-        <text>The Council reserves the authority to select public utility providers and to negotiate or set rates, charges, or fees by written resolution without regard to the Department, Commission, or <cite path="48">this Title</cite>.</text>
+        <num>(i)</num>
+        <text>The Council reserves the authority to select public utility providers and to negotiate or set rates, charges, or fees by written resolution without regard to the Department, Commission, or <cite path="48">this title</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.100 was formerly codified as 48.0110</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0111</num>
+      <num>48.01.110</num>
       <heading>Public Meetings &amp; Rate Increases</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall hold one Regular Meeting every calendar month.  The Commission shall hold Special Meetings as called by the President or any three (3) Members.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>When the Commission regulations or Department negotiation will or may result in a rate increases for any public service, prior to adopting such regulations or approving the result of such negotiations, the Commission shall publish two successive notices in both the Turtle Mountain Times and the Turtle Mountain Star of the agenda for a public hearing conducted by the Commission, and after the two public hearings are conducted the Commission shall present such proposed regulations or negotiations at an Open Public Meeting of the Council.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>In addition to specific requirements for publishing a notice in newspapers, the Commission shall post notice of all public meetings and hearings in conspicuous places least ten (10) days prior to the meeting and shall state the time, place, agenda, and a short written explanation for the purpose of such meeting.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.110 was formerly codified as 48.0111</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0112</num>
+      <num>48.01.120</num>
       <heading>Grievances</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Any ratepayer or customer may for any reason file a grievance against the Department, the Commission, any Division or entity within the Department, or any Department employee.  Grievances may be filed with the Commission if any rate, toll, charge, schedule, joint rate, regulation, measurement, or any other action or practice relating to the provision of a public service, including but not limited to electricity, heat, water, sewer, telecommunications services, sanitary services, solid waste disposal, or community service is unreasonable, inadequate, unjustly discriminatory, or cannot be obtained.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Grievances shall be in writing and shall contain sufficient details to notify the Commission of the nature of the grievance.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission shall:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>document receipt of every grievance; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>assign each grievance to an employee who shall see that the grievance is processed to completion; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>investigate every grievance with the assigned employee; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>issue a written record of the disposition.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission may address the grievance at a regular meeting or may make the grievance the reason to conduct a public hearing under Sec. 14.  The Commission shall notify the appropriate Division prior to the matter being addressed at any regular meeting being conducted on the matter.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.120 was formerly codified as 48.0112</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0113</num>
+      <num>48.01.130</num>
       <heading>Appeals by Ratepayers or Contract Service Providers</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Ratepayers or Contract Service Providers may file an Appeal against the Commission or any division for any decision which denies or suspends service to that ratepayer or which imposes a punitive fine or fee against the ratepayer.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Appeals shall be in writing and shall contain sufficient details to notify the Commission of the nature of the Appeal.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission shall investigate the Appeal and provide all due process in considering the Appeal.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission shall notify the appropriate public service provider, if any, of any hearing being conducted to resolve the ratepayer's Appeal.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.130 was formerly codified as 48.0113</annotation>
       </annotations>
     </section>
     <section>
-      <num>48.0114</num>
+      <num>48.01.140</num>
       <heading>Hearings</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission has the authority to hold hearings on ratepayer or consumer Grievances or Appeals.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall provide at least ten (10) day notice of the time and place of the hearing and the matter to be heard to the grievant or appellant and to the Division or public utility providing Direct Service or Contract Service at issue.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All interested parties shall have an opportunity to be heard.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission may issue subpoenas at the request of the Parties.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission shall issue its final ruling, in writing, to the parties within thirty (30) days of the hearing date.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Commission shall issue a decision on the Appeal with at least the following three separate sections, stating separately and clearly:</text>
         <para>
-          <num>(A)</num>
+          <num>(1)</num>
           <text>findings of facts;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(2)</num>
           <text>conclusion of law based on such facts; and</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(3)</num>
           <text>an Order.</text>
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Such Commission Order shall be deemed final for purposes of Judicial Review.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 775-05-16"/>
+        <annotation type="Prior Codifications">§48.01.140 was formerly codified as 48.0114</annotation>
       </annotations>
     </section>
   </container>

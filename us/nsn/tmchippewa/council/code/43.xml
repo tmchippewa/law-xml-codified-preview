@@ -1,71 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>43</num>
   <heading>Tribal Lending Code</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>43.01</num>
     <heading>Establishment of the Tribal Lending Code and Lending Regulatory Commission</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>43.0101</num>
+      <num>43.01.010</num>
       <heading>Title &amp; Purpose</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>This Law shall be referred to as the Turtle Mountain Band of Chippewa Tribal Lending Code. This code may be cited as the "Tribal Lending Code."</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Turtle Mountain Band of Chippewa (the "Tribe") is a federally recognized sovereign American Indian Tribal government empowered by its Constitution to enact Codes and hereby enacts this Code to regulate certain loans made from Tribal lands and to establish the Turtle Mountain Band of Chippewa Tribal Lending Regulatory Commission (the Commission) to regulate lending by the Tribe and Tribal Entities.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The purpose of this Code is to ensure that all lending operations by the Tribe and Tribal entities:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>are conducted in a manner that is fair, honest, and transparent;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>regulated in accordance with this Code and applicable Tribal Consumer Protection Laws; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>provides consumers with timely and understandable information and protects consumers in their interactions with the Tribe and Tribal Entities.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Tribe hereby directs and proclaims that:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The provision of Covered Loans from Tribal Lands shall be conducted strictly in accordance with this Code.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>All Covered Loans, Lending Operations, and Service Provers are subject to regulation by the Tribal Lending Regulatory Commission (Commission) as set forth in this Code.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The Commission is vested with all privileges and immunities of the Tribe, except where explicitly waived by the Tribal Council.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Commission shall promulgate regulations in accordance with this Code and have the responsibility to regulate Covered Loans made from Tribal Lands.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Each Lending Operation on Tribal Lands shall be owned by the Tribe or a Tribal Entity and conducted in accordance with Tribal Law and this Code.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>The objective of each Lending Operation is to generate governmental revenue for the Tribe that shall be used solely to: (i) provide for the health, education, and general welfare of Tribal members; (ii) promote tribal economic development and self-sufficiency; and (iii) fund Tribal government operations.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.01.010 was formerly codified as 43.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0105</num>
+      <num>43.01.020</num>
       <heading>Definitions</heading>
       <text>For purposes of this Code, the following definitions shall apply:</text>
       <para>
@@ -196,153 +198,157 @@
         <num>(t)</num>
         <text>"Tribe" means the Turtle Mountain Band of Chippewa.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.01.020 was formerly codified as 43.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0106</num>
+      <num>43.01.030</num>
       <heading>Tribal Lending Regulatory Commission</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe hereby establishes the Turtle Mountain Band of Chippewa Tribal Lending Regulatory Commission ("Commission") to regulate loans, Covered Loans, Loan Products, Lending Operations, Regulated Entities, and Service Providers' activities related to Covered Loans. The Commission shall act independently and autonomously from the Tribal Council and Lending Operations. As part of the Tribe's government, the Commission possesses all the privileges and immunities of Tribal sovereignty as established by Tribal law and recognized by federal law. Nothing in this Code, nor any action of the Commission shall be deemed or construed to be a waiver of sovereign immunity of the Tribe from suit or counterclaim or consent of the Tribe to the jurisdiction of any court.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall, in accordance with this Code:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>promulgate rules, regulations, policies, and guidelines as needed to implement all provisions of this Code;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>issue Licenses;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>examine on-site each Licensee annually and more frequently if the Commission considers it necessary;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>supervise the activities of Lending Operations and applicable activities of Service Providers in connection with services provided to Lending Operations to ensure compliance with Tribal Law, this Code, and applicable Tribal Consumer Protection Laws;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>ensure that Covered Loan borrowers have adequate and accessible opportunities to enforce their rights under Covered Loan agreements, this Code, and applicable Tribal Consumer Protection Laws;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>ensure that Licensees abide by Commission orders or orders issued through binding arbitration.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>perform all other duties the Commission deems appropriate for the proper regulation of the Lending Operations, Service Providers, Covered Loans and Loan Products;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>engage consultants as needed to conduct regulatory compliance examinations of the Lending Operations and perform other functions as requested by the Commission; and</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>assess initial and annual licensing fees, which may be paid in quarterly installments.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission shall consist of at least 1 and as many as 3 Commissioners. The Tribal Council may, by resolution, increase the number of Commissioners as it deems necessary to conduct the governmental operations of the Commission.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Tribal Council shall make nominations by motion for each Commissioner position at either a regularly scheduled meeting or a special meeting of the Tribal Council. The Tribal Council shall, by majority vote, either approve by resolution or motion the appointment of a Commissioner or disapprove the candidate.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Commissioners shall serve a renewable term of 3 years and shall be removable by the Tribal Council for cause prior to the expiration of that term.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Commissioner compensation shall be established from time to time by the Tribal Council.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Any person appointed as a Commissioner must be at least 21 years of age; show proof of high school diploma or equivalent; possess expertise, experience, education, or a combination thereof in lending, finance, management, business, governmental regulation, law, and/or Tribal policy; and, in the Tribal Council's sole opinion, the organizational abilities to effectively manage the business of the Commission and make decisions on behalf of the Commission. No person shall serve as a Commissioner if convicted of or has entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or, in the Tribal Council's sole discretion, has reputation, habits, or associations that could undermine the integrity of the Commission or its role in protecting Consumers.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>A Member of the Commission may not:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>be a Tribal Council member, while serving as such;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>possess a financial or managerial interest in a Service Provider or a Lending Operation, except for any interest that derives solely from being a member of the Tribe;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>apply for or obtain Covered Loans with a Lending Operation; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>have a spouse, child, sibling, parent, stepchild, stepparent, as well as mother-, father-, son, daughter-, brother- or sister-in-law, and any other person living with them or who is otherwise a dependent that are Key Employees or Officers of a Lending Operation.</text>
         </para>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>No Person in possession of a Commission record that the Commission has not already made public, shall disclose such records or duplicates thereof, without authorization, to any person who is not an employee of the Commission. All Commission records authorized for disclosure shall remain the Commission's property unless the Commission provides otherwise.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.01.030 was formerly codified as 43.0106</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>43.02</num>
     <heading>Issuance of Licenses &amp; Regulation of Licensees</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>43.0201</num>
+      <num>43.02.010</num>
       <heading>Lending Operations, Loans, and Loan Products; Use of Revenues</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe shall have a substantial beneficial interest in all Lending Operations.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Each Lending Operation shall:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>be authorized and licensed in accordance with this Code;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>be owned and controlled by the Tribe or a Tribal Entity; but nothing in this Code shall prohibit Lending Operations from entering into contracts with Service Providers, including contracts for management, marketing, or other services related to the Lending Operation or the provision of Covered Loans;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>comply with Tribal Law, this Code, and Tribal Consumer Protection Laws;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>maintain a Compliance Management System designed to ensure that the Lending Operation is in full compliance with Tribal Law and applicable Tribal Consumer Protection Laws. "Compliance Management System" is the process that must be established by a Lending Operation to:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>establish its compliance responsibilities;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>communicate those responsibilities to employees;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>ensure that responsibilities for meeting legal requirements and internal policies are incorporated into business processes;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>review operations to ensure responsibilities are carried out and legal requirements are met;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>take corrective action and update tools, systems, and materials as necessary; and</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(F)</num>
             <text>maintain independent control components that address:</text>
             <para>
               <num>(i)</num>
@@ -363,564 +369,580 @@
           </para>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The Compliance Management System shall include, at a minimum:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>the designation of an individual responsible for day-to-day compliance with this Code;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>compliance policies and procedures, risk-focused internal controls, and a Service Provider management program for compliance with this Code;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>ongoing internal oversight, testing, and auditing of compliance procedures, recording of results, and reporting of results to management and the Commission;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>initial and ongoing training in Code compliance for all employees and managers, consistent with respective positions, and a consumer complaint response protocol that allows for recording of complaints, prompt resolution, and the incorporation of information gathered into compliance program revisions; and</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>risk-based transaction testing and recording of results, and reporting of results to management and the Commission.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Revenue from Lending Operations shall be used only for the purposes set forth in Section 1.4(e).</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>All Loan Products shall be Licensed and adhere to this Code and the Tribal Consumer Protection Laws. Licensed Loan Products offered under this Code shall not be void under the law of any other jurisdiction. Without limiting the general application of the foregoing, the following conduct is required under this Code:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>all Loan Product terms and conditions must be presented clearly and conspicuously in a manner that is readily understandable; if an interest rate is used to describe a loan term, it must be stated as an annual percentage rate, calculated in accordance with Regulation Z;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>each Loan Product shall be subject to a written agreement between the Lending Operation and the borrower that contains each of the following:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>a clause allowing binding arbitration and which provides borrowers the instructions for filing an arbitration claim;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>a choice of law provision that expressly states that the loan and any disputes arising shall be interpreted in accordance with Tribal Law and this Code;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>an acknowledgement by the borrower that the loan originates on Tribal land, therefore the loan and the borrower—with respect to the loan—are subject to Tribal Law and this Code.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>All Service Providers shall be Licensed and adhere to this Code and the Tribal Consumer Protection Laws. Service Providers shall be subject to applicable sections of this Code without regard to place of incorporation or headquarters location.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>All Key Employees shall be Licensed and adhere to this Code and the Tribal Consumer Protection Laws. Licensed Key Employees shall be subject to applicable sections of this Code without regard to place of residence or Tribal membership.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.02.010 was formerly codified as 43.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0202</num>
+      <num>43.02.020</num>
       <heading>Lending Licenses Required, Applications, and License Fees</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Each Lending Operation, Key Employee, Service Provider, and Loan Product shall be licensed by the Commission. The form and content of the license application shall be determined by the Commission. The Commission may promulgate rules regarding licensing, provisional, and temporary licenses, and application materials.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Each application shall include payment of the appropriate license fee as set forth by the Commission.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Each License shall be valid for 5 years.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A License may not be assigned or transferred and is only valid for use by the Person in whose name it is issued.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Evidence that the Commission has licensed the Lending Operation shall be conspicuously displayed in all marketing materials related to Covered Loans.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Every Person who applies for a License and accepts that License thereby acknowledges the civil enforcement jurisdiction and authority of the Commission and consents to that authority and jurisdiction.</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>Consistent with <cite path="43.04">Chapter 43.04</cite> of this Code, the Commission may deny, suspend, revoke, or refuse renewal of any License issued under this Code only if the Commission issues a final order that the applicant or Licensee has:</text>
+        <num>(g)</num>
+        <text>Consistent with <cite path="43|43.04">Chapter 43.04</cite> of this Code, the Commission may deny, suspend, revoke, or refuse renewal of any License issued under this Code only if the Commission issues a final order that the applicant or Licensee has:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>intentionally or recklessly used any deceptive, unfair, or abusive practice;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>forged another Person's name on any Covered Loan application;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>discriminated on a prohibited basis against any Person in the application or servicing of Covered Loans;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>engaged in a pattern or practice of violating any provision of this Code;</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>refused to comply with an order issued under <cite path="43.04">Chapter 43.04</cite> of this Code.</text>
+          <num>(5)</num>
+          <text>refused to comply with an order issued under <cite path="43|43.04">Chapter 43.04</cite> of this Code.</text>
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>The Commission shall make the final administrative decision as to whether a License shall be issued, suspended, or revoked. License denials, suspension, revocation, or refusal shall be subject to review by binding arbitration.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.02.020 was formerly codified as 43.0202</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>43.03</num>
     <heading>Substantive Laws and Prohibited Acts</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>43.0301</num>
+      <num>43.03.010</num>
       <heading>Debt Collections</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribe hereby directs and proclaims that current and past-due accounts be collected in a manner that is fair, honest, and convenient for Covered Loan borrowers. Licensees under this Code shall include fair and honest debt collection practices as part of its Compliance Management System and shall:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>implement a debt collection compliance policy consistent with this Code;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>review the performance of employees who interact with borrowers;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>periodically monitor collection activities for both incoming and outgoing Communications;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>provide regular debt collection compliance training to all employees and contractors involved with debt collection;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>evaluate compensation practices to ensure they do not incentivize behavior that would result in a heightened risk to borrowers;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>ensure that any Person involved in debt collection on behalf of the Lending Operation complies with this Code, if applicable.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Licensees and Regulated Entities, in connection with the collection of any debt or to obtain information about a borrower in connection with the collection of any account, shall not:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>represent without a basis in fact that the debt collector is, or is vouched for, bonded by, employed by, contracted by, or affiliated with: a government; an attorney or law firm; any government's court, official, or agency; a credit reporting agency; an individual; or a business, company, or organization that does not, in fact, have the relationship with the Licensee that is represented;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>represent without a basis in fact that the nonpayment of any debt will result in an action: (1) that is improbable in light of the debt's status, amount, or character; (2) that cannot be lawfully taken; (3) where legal conditions or prerequisites to that action have not occurred; or (4) that is a violation of this Code;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Communicate or threaten to Communicate to any Person: (1) credit information which is known to be false, that does not accurately represent the debt obligation or actions taken on the account, including the failure to report that a disputed debt is disputed; or (2) that the consumer committed any crime or other conduct that might disgrace the consumer.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The following conduct is an unfair means to collect or attempt to collect a debt and is a violation of <cite path="43|43.03|43.0301">this section</cite>:</text>
+        <num>(c)</num>
+        <text>The following conduct is an unfair means to collect or attempt to collect a debt and is a violation of <cite path="§43.03.010">this section</cite>:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>obfuscating or otherwise preventing any Person from understanding the legal enforceability of a Covered Loan;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>collecting or attempting to collect any amount that is not authorized by the agreement creating the debt or permitted by this Code;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>chicanery involving postdated checks, postdated monetary instruments, electronic payments, automated clearinghouse transactions, or other payment methods, including:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>taking any action to debit a deposit account prior to the date authorized by agreement with the consumer;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>taking any action to debit a deposit account more than one time in any 24-hour period;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>taking any action to debit a deposit account when the Licensee knows or has reason to know that the debit will not be honored or will cause the deposit account owner to incur non-sufficient fund fees;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>taking any action to debit a deposit account for an amount greater than an amount authorized by the agreement creating the debt or permitted by this Code; or</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>taking any action to debit a deposit account when such debit was not authorized by an agreement with a holder of that deposit account;</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Communicating with a consumer in a method that the Licensee knows will cause the consumer to incur fees, provided that it is not a violation of this subsection to communicate with the consumer using the method, number, or address that the consumer provided to the Licensee or using a payment method authorized by the Licensee;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>taking or threatening to take any action to effect dispossession or disablement of property if: (1) there is no present right to possession of the property; (2) the legal conditions or other prerequisites to taking such action have not occurred; or (3) the property is exempt by law from dispossession or disablement;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Communicating with a consumer regarding a debt using a method that the Licensee knows or has reason to know will be observed by a member of the General Public;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Communicating with a consumer outside the hours of 8:00 a.m. through 9:00 p.m. in that consumer's respective time zone as identified by the consumer's address of record; or</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>failing to credit a debt payment consistent with the terms of the agreement creating the debt.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Consumer requests regarding the time and method of Communications shall be honored, consistent with the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>verbal requests to limit Communications to certain days or hours shall be valid for no less than 30 days;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>verbal requests to cease Communications shall be valid for no less than 30 days;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>written requests to limit Communications to certain days or hours or to cease Communications shall be valid as to the Person in receipt of the written request indefinitely or for the period specified by the consumer;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Licensees shall provide clearly and conspicuously to consumers the address for receipt of written requests to cease Communications; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>upon sale or transfer of any past due account, the Licensee will identify Covered Loans for which a consumer has requested that Communications cease.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
-        <text>It is not a violation of <cite path="43|43.03|43.0301">this Section</cite> or this Code for Licensees to do the following:</text>
+        <num>(e)</num>
+        <text>It is not a violation of <cite path="§43.03.010">this section</cite> or this Code for Licensees to do the following:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>accept payments for a Covered Loan in any form or through any method offered by or agreed to by the consumer, including mobile payment services, cyber currency, or another credit instrument;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Communicate with the consumer by voice or written message at a number or address provided by the consumer, unless the Licensee knows that the number or address is incorrect;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Communicate to an authorized representative of a decedent debtor the existence of the debt, that the decedent's estate is responsible for the debt, and to truthfully answer the representative's questions about the account or debt;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>file a proof of claim in a bankruptcy court for an obligation  that arose directly or indirectly from a Covered Loan, provided that the claim is substantiated; or</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>file a claim for payment or for enforcement of an arbitration award in any state court for an obligation  that arose directly or indirectly from a Covered Loan, provided that the claim is substantiated.</text>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Safe Harbor for Remediated Violations</text>
-        <text>In the event that a Licensee or Regulated Entity violates or allegedly violates any provision of <cite path="43|43.03|43.0301">this Section</cite> and reverses, corrects, and remediates fully the effects of such violation, no Person may initiate an administrative or civil proceeding for penalties or damages against the Licensee or Regulated entity provided that:</text>
+        <text>In the event that a Licensee or Regulated Entity violates or allegedly violates any provision of <cite path="§43.03.010">this section</cite> and reverses, corrects, and remediates fully the effects of such violation, no Person may initiate an administrative or civil proceeding for penalties or damages against the Licensee or Regulated entity provided that:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>the Licensee or Regulated Entity fully remediates any harm within a reasonable time after discovering the harm, including reimbursing borrowers for Non-sufficient fund fees proximately caused by the violation;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>the Licensee or Regulated Entity performs an investigation into the cause of the violation or alleged violation and takes reasonable measures to prevent such violation from reoccurring;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>the act or omission was not due to willful, knowing, reckless, or grossly negligent conduct; and</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>the Licensee or Regulated Entity informs the Commission within 48 hours of the violation or alleged violation's discovery, informs the Commission of the remediating measures taken under <cite path="43|43.03|43.0301">this Section</cite>, as applicable, and cooperates in any special examination arising from the violation or alleged violation.</text>
+          <num>(4)</num>
+          <text>the Licensee or Regulated Entity informs the Commission within 48 hours of the violation or alleged violation's discovery, informs the Commission of the remediating measures taken under <cite path="§43.03.010">this section</cite>, as applicable, and cooperates in any special examination arising from the violation or alleged violation.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.03.010 was formerly codified as 43.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0302</num>
+      <num>43.03.020</num>
       <heading>Regulation of Consumer Data</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All Personal Information that is collected from an applicant for a Covered Loan by any Regulated Entity acting in connection with a Covered Loan shall be deemed to have entered into Tribal Lands and is protected by this Code and Tribal Consumer Protection Laws. Such Personal Information is within the regulation of the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All Personal Information shall be protected from corruption, unauthorized transfer, or unauthorized use with physical, contractual, electronic, and encryption security measures appropriate for the nature of the data.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Licensees shall limit access to Personal Information to those Persons with a business need use or access such Personal Information.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Licensees shall monitor access to Personal Information.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Licensees shall destroy in a method appropriate for the nature of the data any Personal Information that does not have a business purpose.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Licensees shall possess a data breach response and remediation plan appropriate for the nature of Personal Information it accesses.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Licensees shall report to the Commission all discovered security breaches and unauthorized transfers as soon as possible, but not later than forty-eight hours after a breach or unauthorized transfer was discovered.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Licensees shall implement data and record retention schedules based on industry-wide security protocols and retention periods required by applicable federal law (which may include federal tax law). Where not otherwise specified, records may generally be destroyed after five years.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Regulated Entities that have consumer contact must disclose clearly and conspicuously to applicants for a Covered Loan that Personal Information is protected by this Code, Tribal Consumer Protection Laws, and any regulations promulgated hereunder.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Regulated Entities that have consumer contact must accurately disclose clearly and conspicuously by any means to all Covered Loan applicants within 5 days of receiving the Covered Loan application the Regulated Entity's policies and practices regarding:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>disclosure of Personal Information to affiliated and nonaffiliated third parties for any purpose, including: marketing; furnishing information to consumer reporting agencies; servicing Covered Loans; first or third-party collecting of Covered Loans; or for any other purpose;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>consumers' ability to opt-out of Personal Information disclosures to third parties; and</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>the process, if any, for communicating the preference to opt-out of such disclosures.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Adherence to the policies and practices disclosed under <cite path="43|43.03|43.0302">this Section</cite> 7.3(a) shall be warrantied on any contract for a Covered Loan, disclosed on any public internet site or other electronic media portal operated by applicable Persons, and shall be made available by electronic linking on any email communications to borrowers of Covered Loans.</text>
+          <num>(2)</num>
+          <text>Adherence to the policies and practices disclosed under <cite path="§43.03.020">this section</cite> 7.3(a) shall be warrantied on any contract for a Covered Loan, disclosed on any public internet site or other electronic media portal operated by applicable Persons, and shall be made available by electronic linking on any email communications to borrowers of Covered Loans.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A Regulated Entity's or Service Provider's policies and practices related to Personal Information shall be warrantied and are a material term of any contract related to the provision of Covered Loans.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Absent an express agreement providing otherwise, or as required by law, a Regulated Entity's or Service Provider's license to use Personal Information shall be rescinded upon the termination of any contract with a Licensee related to the provision of Covered Loans. It is not a violation for a Regulated Entity or Service Provider to keep data that cannot be reasonably returned or destroyed, so long as the data is protected by sufficient security and is not used or transferred to any Person.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The Commission shall promulgate rules to regulate further the handling of Personal Information, data, and record retention.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.03.020 was formerly codified as 43.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0303</num>
+      <num>43.03.030</num>
       <heading>Prohibited Acts; Violations</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Prohibited Acts:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>No Person other than the Tribe or a Tribal Entity may engage in providing loans from Tribal Lands;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>No Person shall provide Covered Loans without a Lending Operation License and Loan Product License issued by the Commission in accordance with this Code;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>No Person shall knowingly submit misleading information, or make false statements to the Commission or the Tribe, or make an omission of data or facts in an attempt to mislead the Commission;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>No Person shall falsely attribute any consumer financial product or service to the Tribe or Tribal Lands;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>No Person shall offer a Loan Product that does not comply with this Code and Tribal Consumer Protection Law.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Unfair, Deceptive, or Abusive Acts and Practices are prohibited. The Commission may take any action authorized under this Code to prevent a Regulated Entity from committing or engaging in an unfair, deceptive, or abusive act or practice in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>An unfair act or practice is one that: (1) causes or will cause substantial injury to consumers; (2) those consumers cannot avoid the injury without taking unreasonable actions; and (3) the benefits to consumers or to competition of those same acts or practices do not outweigh the substantial injury to consumers.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A representation, omission, act, or practice is deceptive when: (1) it misleads or is likely to mislead the consumer or another; (2) the interpretation of the representation, omission, act, or practice is reasonable under the circumstances; and (3) the misleading representation, omission, act, or practice materially affects the consumer to the consumer's detriment.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>An abusive act or practice is one that: (1) materially interferes with a consumer's ability to understand a term or condition of a Covered Loan or Loan Product; or (2) takes unreasonable advantage of any of the following: (A) the consumer's lack of understanding of the material risks, costs, or conditions of a Covered Loan or Loan Product; (B) the consumer's inability to protect the consumers' interests in selecting or using a Covered Loan or Loan Product; or (C) the reasonable reliance by the consumer on a Licensee to act in the consumer's interest.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Any Person with privity of contract with a Licensee may file a claim for binding arbitration to enforce rights and seek remedies under the contract or this Code. Licensees shall not abridge consumer's rights under this subsection by contract or otherwise.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.03.030 was formerly codified as 43.0303</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>43.04</num>
     <heading>Enforcement Powers</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>43.0401</num>
+      <num>43.04.010</num>
       <heading>Notice of Violation</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission, upon complaint or upon its own initiative, or whenever it may deem it necessary in the performance of its duties or the exercise of its powers, may investigate and examine operations and facilities related to Covered Loans.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission may use any means, designated by regulation or otherwise, to inform Regulated Entities that they are violating Code provisions or engaging in activities that are likely to violate Code provisions and to identify matters requiring attention or correction. The Commission may resolve such matters by consent.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission may issue a Notice of Violation ("NOV") to any Person for violation of any provision of this Code, with or without notice pursuant to subsection 9.2.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The "NOV" shall include:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>a citation to the Code provision that has been or is being violated;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>a description of the circumstances surrounding the violation;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>measures required to correct the violations;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>a statement that the violation must be corrected within a specified number of calendar days from the date the notice was issued; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>a statement of the alleged violator's procedural rights.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.04.010 was formerly codified as 43.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0402</num>
+      <num>43.04.020</num>
       <heading>Civil Penalties</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>In issuing a NOV, the Commission may impose a civil penalty for each violation in accordance with a schedule of civil penalties, and if such violation is a continuing one, for each day the violation occurs.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Procedures for assessment of a civil fine:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>within 10 calendar days after service of a Notice of Violation, the alleged violator may submit written information to the Commission about the violation and any corrective measures undertaken or any mitigating factors, which shall be taken into account by the Commission in determining the penalty;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>within 20 calendar days after service of a Notice of Violation, the Commission shall serve a copy of the proposed civil penalty on the alleged violator;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>within 30 calendar days after service of a Notice of Violation, the alleged violator may request a hearing pursuant to Section 12 of this Code and applicable regulations to review any portion of the Notice of Violation or civil penalty;</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>the Commission may extend deadlines under <cite path="43|43.04|43.0402">this Section</cite> for good cause shown.</text>
+          <num>(4)</num>
+          <text>the Commission may extend deadlines under <cite path="§43.04.020">this section</cite> for good cause shown.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Final Assessment:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the alleged violator fails to request a hearing as provided in this Code, the proposed civil penalty shall become a final order of the Commission; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>the Commission shall donate all civil penalties paid under this Code to a Certified Native American Community Development Financial Institution or other non-profit organization that provides education to Native Americans.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.04.020 was formerly codified as 43.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0403</num>
+      <num>43.04.030</num>
       <heading>Enforcement</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission can take any one or a combination of the following actions with respect to any Regulated Entity who violates any provision of this Code:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>order any Licensee to discontinue its relationship with any Regulated Entity who violates any provision of this Code;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>revoke, suspend, or refuse to renew the License of an applicant, subject to the limitations of Code Section 5.7; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>impose one or more of the following sanctions:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>enjoin activities of a Regulated Entity;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>collect any unpaid fees, interest, penalties, or any civil fines unpaid after 30 calendar days; or</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>garnishment or execution of any nonexempt property of a violator located within the exterior boundaries of Trust Land; or</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>restitution, contract rescission, disgorgement, compensatory damages, money penalties, or other relief as justice may require.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
-          <text>Any party to any proceeding under <cite path="43|43.04|43.0403">this Section</cite> may obtain a review of any order served pursuant to <cite path="43|43.04|43.0403">this Section</cite> (other than an order issued with the consent of the person concerned) by the filing of a written petition for binding arbitration praying that the Commission's order be modified, terminated, remanded for further consideration, or set aside. The judgment and decree of the arbitrator shall be final.</text>
+          <num>(4)</num>
+          <text>Any party to any proceeding under <cite path="§43.04.030">this section</cite> may obtain a review of any order served pursuant to <cite path="§43.04.030">this section</cite> (other than an order issued with the consent of the person concerned) by the filing of a written petition for binding arbitration praying that the Commission's order be modified, terminated, remanded for further consideration, or set aside. The judgment and decree of the arbitrator shall be final.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The Commission is empowered to seek comity and enforcement of the orders of the Commission or arbitrator by the court of any other jurisdiction whose assistance may be required to give effect to the orders of the Commission or arbitrator; such action does not waive sovereign immunity or submit the Tribe or Commission to the court's authority or jurisdiction.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>All matters and occurrences, contrary to this Code, rules or regulations promulgated by the Commission which are not covered under a criminal code shall be deemed to be a civil violation.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.04.030 was formerly codified as 43.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0404</num>
+      <num>43.04.040</num>
       <heading>Hearings and Appeals</heading>
       <para>
         <num>(a)</num>
@@ -928,7 +950,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Upon timely submission of a hearing request related to: (a) a violation alleged in a Notice of Violations; or (b) civil fines proposed by the Commission,  the Commission shall set the matter for hearing no later than 30 business days and no sooner than 3 business days after receipt of the petition. Within 90 days after the hearing, the Commission shall issue its final decision and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of <cite path="43|43.04|43.0404">this section</cite>. Review of any such order shall be exclusively by binding arbitration.</text>
+        <text>Upon timely submission of a hearing request related to: (a) a violation alleged in a Notice of Violations; or (b) civil fines proposed by the Commission,  the Commission shall set the matter for hearing no later than 30 business days and no sooner than 3 business days after receipt of the petition. Within 90 days after the hearing, the Commission shall issue its final decision and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of <cite path="§43.04.040">this section</cite>. Review of any such order shall be exclusively by binding arbitration.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -938,110 +960,116 @@
         <num>(d)</num>
         <text>Any Licensee aggrieved by a decision or action taken by the Commission after notice and opportunity for hearing may petition the Commission for reconsideration. The reconsideration petition must be filed with the Commission no later than 30 business days after the Commission's decision or action. The Commission may, upon establishing that it has jurisdiction, affirm, modify, reverse, and/or vacate the Commission's prior order. Unless determined upon a motion, the petition for reconsideration does not stay the order.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.04.040 was formerly codified as 43.0404</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>43.05</num>
     <heading>Miscellaneous Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>43.0501</num>
+      <num>43.05.010</num>
       <heading>Savings Provision</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>If any provision of this Code or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of the Code, which can be given effect without the invalid provisions or application, and, to this end, the provisions of this Code are severable.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>In interpreting the provisions of this Code, unless otherwise plainly declared or clearly apparent from the context:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Words in the present tense shall include the future tense;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>"Including," shall not be limiting;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(3)</num>
           <text>Words in masculine, feminine, and neuter genders shall include all genders; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(4)</num>
           <text>Words in the singular shall include the plural, and words in the plural shall include the singular.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.05.010 was formerly codified as 43.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>43.0502</num>
+      <num>43.05.020</num>
       <heading>Effective Date- Exemptions for Banks and Others</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Provisions of this Code shall be in full force and effect as follows:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>effective immediately upon the Tribal Council's adoption of this Code: Part One - Establishment of the Tribal Lending Code and Lending Regulatory Commission, which includes Sections 1, 2, and 3; and Part Five – Miscellaneous Provisions, which includes Sections 13 and 14;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>effective 30 days after the Tribal Council's adoption of this Code: Part Two - Issuance of Licenses &amp; Regulation of Licensees, which includes Sections 4 and 5;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>effective 90 days after the Tribal Council's adoption of this Code: Part Three - Substantive Laws and Prohibited Acts, which includes Sections 6, 7 and 8;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>effective 90 days after the Tribal Council's adoption of this Code: Part Four - Enforcement Powers, which includes Sections 9, 10, 11 and 12;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Nothing in this Code, nor any action of the Commission, shall be deemed or construed to be a waiver of sovereign immunity of the Tribe from suit or counterclaim or consent of the Tribe to the jurisdiction of any court.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(b)</num>
         <text>The following persons or entities are expected to comply with applicable laws but are otherwise exempt from any other provision or application of this Code:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>any Person or third-party provider of products or services whose only connection to the Lending Operation is:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>in support of a Licensee business not related to Covered Loans;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>participating in future revenues of Covered Loans;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>providing a funding source or access to a revolving credit line to a Licensee; or</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>providing technical service or software support to a Licensee;</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>any credit reporting agency, payment processor, entity engaged in the business of insurance, or any third-party that is subject to supervision under federal law, including the Consumer Financial Protection Act, Securities and Exchange Act, Federal Credit Union Act, Commodities and Futures Trading Commission Act, Farm Credit Administration, or the Federal Reserve Act;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>any financial institution insured by the Federal Deposit Insurance Corporation;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>any employee of the above; or</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>any Person the Commission designates by regulation as providing a product or service to a Licensee that poses no or attenuated risk of causing consumer harm.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§43.05.020 was formerly codified as 43.0502</annotation>
+      </annotations>
     </section>
   </container>
 </container>

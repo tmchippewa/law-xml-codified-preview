@@ -1,841 +1,927 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>12</num>
   <heading>Sales</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>12.01</num>
     <heading>General Obligation and Construction of Contract</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>12.0101</num>
+      <num>12.01.010</num>
       <heading>Formation of Contract for Sale; in General</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Subject to the provisions of this Code a contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognize the existence of such a contract.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Even though one (1) or more terms are left open, a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.010 was formerly codified as 12.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0102</num>
+      <num>12.01.020</num>
       <heading>General Obligations of the Parties</heading>
       <text>The obligation of the seller is to transfer and deliver and that of the buyer is to accept and pay in accordance with the contract. Payment is due at the time and place at which the buyer is to receive the goods.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.020 was formerly codified as 12.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0103</num>
+      <num>12.01.030</num>
       <heading>Absence of Specified Place for Delivery</heading>
       <text>Unless otherwise agreed:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The place for delivery of goods is the seller's place of business, or if he has none, his residence; but</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>In a contract for the sale of identified goods, which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.030 was formerly codified as 12.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0104</num>
+      <num>12.01.040</num>
       <heading>Absence of Specific Time Provisions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The time for shipment or delivery or any other action under a contract if not agreed upon, shall be a reasonable time.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Termination of a contract by one party, except on the happening of an agreed event, requires that reasonable notification be received by the other party.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.040 was formerly codified as 12.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0105</num>
+      <num>12.01.050</num>
       <heading>Price</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The price of goods may be fixed by the contract, or may be left to be fixed in such manner as may be agreed, or it may be determined by the course of dealing between the parties.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The price can be made payable in money or in any other personal or real property as agreed. If all or part of the price is payable in an interest in realty the transfer of goods and the seller's obligations with reference to them are subject to this Code, but not the transfer of the interest in realty of the transferor's obligations in connection therewith.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>If the price is not settled at the time of contracting, the price is a reasonable price at the time for delivery if:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Nothing is said as to price; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The price is left to be agreed by the parties and they fail to agree; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The price is to be fixed in terms of some agreed market or other standard as set or recorded by a third person or agency, and it is not so set or recorded.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A price to be fixed by the seller or by the buyer means a price for him to fix in good faith.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>When a price left to be fixed otherwise than by agreement of the parties fails to be fixed through fault of one (1) party, the other may at his option treat the contract as cancelled or himself fix a reasonable price.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Where, however, the parties intend not to be bound unless the price be fixed or agreed, and it is not fixed or agreed, there is no contract.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.050 was formerly codified as 12.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0106</num>
+      <num>12.01.060</num>
       <heading>Delivery in Single Lot or Several Lots</heading>
       <text>Unless otherwise agreed, all goods called for by a contract for sale must be tendered in a single delivery, and payment is due only on such tender. Where the circumstances give either party option to make or demand delivery in lots, the price, if it can be apportioned, may be demanded for each lot.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.060 was formerly codified as 12.0106</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0107</num>
+      <num>12.01.070</num>
       <heading>Warranty of Title and Against Infringement</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Subject to subsection (b) there is in a contract for sale a warranty by the seller that:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The title conveyed shall be good, and its transfer rightful; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The goods shall be delivered free from any security interest or other lien or encumbrance of which the buyer at the time of contracting has no knowledge.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A warranty under subsection (a) will be excluded or modified only by specific language, or by circumstances which give the buyer reason to know that the person selling does not claim title in himself, or that he is purporting to sell only such right or title as he or a third person may have.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.070 was formerly codified as 12.0107</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0108</num>
+      <num>12.01.080</num>
       <heading>Express Warranties</heading>
       <text>Any affirmation of fact or promise made by the seller to the buyer which relates to the goods, or any description of the goods, or any sample or model offered as representative of the goods, is an express warranty if the natural tendency of such affirmation, promise description, or sample is to induce the buyer to purchase the goods. No affirmation of the value of the goods, nor any statement purporting to be a statement of the seller's opinion only shall be construed as a warranty.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.080 was formerly codified as 12.0108</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0109</num>
+      <num>12.01.090</num>
       <heading>Implied Warranty of Merchantability</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Unless excluded or modified, a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a merchant with respect to goods of that kind.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Goods to be merchantable must be at least such as:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Pass without objection in the trade under the contract description; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Are fit for the ordinary purposes for which such goods are used; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Are adequately contained, packaged, and labeled as the agreement may require; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Conform to the promises or affirmations of fact made on the container or label if any.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Unless excluded or modified, other implied warranties may arise from course of dealing or usage of trade.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.090 was formerly codified as 12.0109</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0110</num>
+      <num>12.01.100</num>
       <heading>Implied Warranty of Fitness for a Particular Purpose</heading>
       <text>Where the seller, at the time of contracting, has reason to know any particular purpose for which the goods are required, and that the buyer is relying on the seller's skill or judgment to select or furnish suitable goods, there is, unless excluded or modified, an implied warranty that the goods shall be fit for such purpose.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.100 was formerly codified as 12.0110</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0111</num>
+      <num>12.01.110</num>
       <heading>Exclusion or Modification of Warranties</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it, the language must mention the word merchantability, and in the case of a writing must be conspicuous.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Subject to subsection (3), to exclude or modify an implied warranty of fitness for a particular purpose, the exclusion must be in writing and conspicuous.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Notwithstanding subsections (1) and (2), unless the circumstances indicate otherwise, all implied warranties are excluded by expressions such as "as is", "with all faults", or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty. When the buyer, before entering into the contract, has examined the goods or the sample or model as fully as he desired, or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought, in the circumstances, to have revealed to him.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.110 was formerly codified as 12.0111</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0112</num>
+      <num>12.01.120</num>
       <heading>Third Party Beneficiaries of Warranties</heading>
-      <text>A seller's warranty, whether express or implied, extends to any person who is in the family or household of his buyer or who is a guest in his home if it is reasonable to expect that such person may use, consume, or be affected by the goods, and who is injured in person by breach of the warranty. A seller may not exclude or limit the operation of <cite path="12|12.01|12.0112">this Section</cite>.</text>
-      <annotations/>
+      <text>A seller's warranty, whether express or implied, extends to any person who is in the family or household of his buyer or who is a guest in his home if it is reasonable to expect that such person may use, consume, or be affected by the goods, and who is injured in person by breach of the warranty. A seller may not exclude or limit the operation of <cite path="§12.01.120">this section</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.120 was formerly codified as 12.0112</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0113</num>
+      <num>12.01.130</num>
       <heading>Sale by Auction</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>In a sale by auction if goods are put up in lots each lot is the subject of a separate sale.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A sale by auction is complete when the auctioneer so announces by the fall of the hammer or in other customary manner. Where a bid is made while the hammer is falling in acceptance of a prior bid the auctioneer may in his discretion reopen the bidding or declare the goods sold under the bid on which the hammer was falling.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A sale at auction is with reserve unless the goods are advertised as being put up without reserve. In an auction with reserve the auctioneer may withdraw the goods at any time before he announces completion of the sale. In an auction without reserve, after the auctioneer calls for bids on an article or lot, that article or lot cannot be withdrawn unless no bid is made within reasonable time. In either case a bidder may retract his bid until the auctioneer's announcement of completion of the sale, but a bidder's retraction does not revive any previous bid.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If the auctioneer knowingly receives a bid on the seller's behalf, or the seller makes or procures such a bid, and notice has not been given that liberty for such bidding is reserved, the buyer may, at his option, avoid the sale or take the goods at the price of the last good faith bid prior to the completion of the sale. This Subsection shall not apply to any bid at a forced sale.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.01.130 was formerly codified as 12.0113</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>12.02</num>
     <heading>Title, Creditors, and Good Faith Purchasers</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>12.0201</num>
+      <num>12.02.010</num>
       <heading>Passing of Title</heading>
-      <text>Each provision of <cite path="12">this Title</cite> with regard to the rights, obligations, and remedies of the seller, the buyer, purchasers, or other third parties applies irrespective of title to the goods except where the provision refers to such title. When matters concerning title become material, the following rules apply:</text>
+      <text>Each provision of <cite path="12">this title</cite> with regard to the rights, obligations, and remedies of the seller, the buyer, purchasers, or other third parties applies irrespective of title to the goods except where the provision refers to such title. When matters concerning title become material, the following rules apply:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Title to goods cannot pass under a contract for sale prior to their identification to the contract, and unless otherwise explicitly agreed the buyer acquires by their identification a special property as limited by <cite path="12">this title</cite>. Any retention or reservation by the seller of the title (property) in goods shipped or delivered to the buyer is limited in effect to a reservation of a security interest. Subject to these provisions, title to goods passes from the seller to the buyer in any manner and on any conditions explicitly agreed on by the parties.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Unless otherwise explicitly agreed, title passes to the buyer at the time and place at which the seller completes his performance with reference to the physical delivery of the goods, despite any reservation of a security interest, and even though a document of title is to be delivered at a different time or place; and in particular and despite any reservation of a security interest:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the contract requires or authorizes the seller to send the goods to the buyer, but does not require him to deliver them at a destination, title passes to the buyer at the time and place of shipment; but</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If the contract requires delivery at a destination, title passes on tender there.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Unless otherwise explicitly agreed, where delivery is to be made without moving the goods,</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the seller is to deliver a document of title, title passes at the time when and the place where he delivers such documents; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If the goods are, at the time of contracting, already identified, and no documents are to be delivered, title passes at the time and place of contracting.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Upon rejection or other refusal by the buyer to receive or retain the goods, whether or not justified, or upon justified revocation of acceptance, title to the goods is revested in the seller. Such revesting occurs by operation of law and is no "sale".</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.02.010 was formerly codified as 12.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0202</num>
+      <num>12.02.020</num>
       <heading>Power to Transfer; Good Faith Purchaser of Goods</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A purchaser of goods acquires all title which his transferor had or had power to transfer, except that a purchaser of a limited interest acquires rights only to the extent of the interest purchased. A person with imperfect or voidable title has power to transfer a good title to a good faith purchaser for value. When goods have been acquired under a purchase transaction, the purchaser has such power even though:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The original seller was deceived as to the true identity of the purchaser; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The delivery was in exchange for a check which is later dishonored; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>It was agreed that the transaction was to be a cash sale; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The delivery was procured through fraud punishable as a crime.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Any entrusting of possession of goods to a merchant who deals in goods of that kind gives him power to transfer all rights of the person who so entrusts the goods to a buyer in ordinary course of business.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Entrusting" includes any delivery and any giving up of possession regardless of any condition expressed between the parties to the delivery or giving up of possession, and regardless of whether the procurement of the entrusting or the disposition of the goods have been such as to be larcenous under the criminal law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.02.020 was formerly codified as 12.0202</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>12.03</num>
     <heading>Performance</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>12.0301</num>
+      <num>12.03.010</num>
       <heading>Buyer's Interest in Goods; Manner of Identification of Goods</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The buyer obtains a special property and an insurable interest in goods by identification of existing goods as goods to which the contract refers even though the goods so identified are nonconforming and he has an option to return or reject them. Such identification can be made at any time and in any manner explicitly agreed to by the parties. In the absence of explicit agreement identification occurs:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>When the contract is made if it is for the sale of goods already existing and identified;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If the contract is for the sale of future goods other than those described in paragraph (3), when goods are shipped, marked, or otherwise designated by the seller as goods to which the contract refers;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>When crops are planted or otherwise become growing crops or the young are conceived if the contract is for the sale of unborn young or crops to be harvested. In a contract for sale of unborn young, birth must occur or be expected to occur within twelve (12) months of the date of contracting. In a cc tract for sale of crops to be harvested, harvesting must occur within twelve (12) months of the date of contracting or at the time of the next normal harvest season after contracting, whichever time period is longer.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The seller retains an insurable interest in goods so long as title to or any security interest in the goods remains in him. Where the identification is to be made by the seller alone, he may, until he defaults or until he notifies the buyer that the identification is final, substitute other goods for those identified.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.010 was formerly codified as 12.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0302</num>
+      <num>12.03.020</num>
       <heading>Manner of Seller's Tender of Delivery</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Tender of delivery requires that the seller make available to the buyer conforming goods and give the buyer any notification reasonably necessary to enable him to take delivery. The manner, time, and place for tender are determine by the agreement and this Code, and in particular:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Tender must be at a reasonable hour, and the goods must be kept available for the period reasonably necessary to enable the buyer to take possession; but</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Unless otherwise agreed, the buyer must furnish facilities reasonably suited to the receipt of the goods.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the contract requires the seller to deliver documents he must tender all such documents in correct form.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.020 was formerly codified as 12.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0303</num>
+      <num>12.03.030</num>
       <heading>Effect of Seller's Tender</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Tender of delivery is a condition of the buyer's duty to accept the goods and, unless otherwise agreed, to his duty to pay for them. Tender entitles the seller to acceptance by the buyer of the goods and to payment according to the contract.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where payment is due and demanded on the delivery to the buyer of goods or documents of title, his right as against the seller to retain or dispose of the goods is conditional upon his making the payment due.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.030 was formerly codified as 12.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0304</num>
+      <num>12.03.040</num>
       <heading>Cure by Seller of Improper Tender or Delivery; Replacement</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Where the buyer rejects any tender or delivery by the seller because the goods or the manner of tender or delivery is not in conformance with the contract, and the time for performance of the seller's duties under the contract has not yet expired, the seller may, within a reasonable time, notify	the buyer of his intention to cure the defect, and the seller then may, within the contract time, make a conforming delivery.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the buyer rejects a non-conforming tender, which the seller had reasonable grounds to believe would be acceptable, the seller may, if he notifies the buyer within a reasonable time, have a further    reasonable time to substitute a conforming tender.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.040 was formerly codified as 12.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0305</num>
+      <num>12.03.050</num>
       <heading>Risk of Loss in the Absence of Breach</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Where the contract requires or authorizes the seller to ship the goods to the buyer:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If it does not require him to deliver them at a particular destination, the risk of loss passes to the buyer when the goods are properly delivered to the shipper; but</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If the contract requires the seller to deliver the goods at a particular destination, the risk of loss passes to the buyer only when the goods are properly tendered at the destination.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the buyer on:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Acknowledgment by the bailee of the buyer's right to possession of the goods; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Upon the buyer's receipt of a document of title covering the goods; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Upon the receipt by the bailee of a written direction by the seller to deliver the goods to the buyer.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>In any case not within Subsections(1) and (2), the risk of loss passes to the buyer upon his receipt of the goods if the seller is a merchant, otherwise the risk passes to the buyer on tender of delivery.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.050 was formerly codified as 12.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0306</num>
+      <num>12.03.060</num>
       <heading>Effect of Breach or Risk of Loss</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Where a tender of delivery of goods so fails to conform to the contract as to give a right of rejection to the buyer, the risk of their loss remains on the seller until cure or acceptance.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the buyer rightfully revokes acceptance, the risk of loss is considered as having rested on the seller from the beginning. If the buyer has insured his interest in the goods and subsequently rightfully revokes his acceptance, he may, to the extent of any deficiency on his effective insurance coverage, treat the risk of loss as having rested on the seller from the beginning.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>If the buyer repudiates or otherwise breaches the contract after conforming goods have been identified to the contract for sale, and before the risk of loss has passed to him, the seller may to the extent of any deficiency in his effective insurance coverage treat the risk of loss has as resting on the buyer for a commercially reasonable time.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.060 was formerly codified as 12.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0307</num>
+      <num>12.03.070</num>
       <heading>Tender of Payment by Buyer</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Unless otherwise agreed, tender of payment is a condition to the seller's duty to tender and complete any delivery.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Tender of payment is sufficient when made by any means or in any manner currently accepted in the ordinary course of business, unless the seller demands payment in legal tender and gives any extension of time reasonably necessary to procure it.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Payment by check is conditional. If the check is dishonored on due presentment, the tender of payment is defeated and is no longer valid.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.070 was formerly codified as 12.0307</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0308</num>
+      <num>12.03.080</num>
       <heading>Buyer's Right to Inspection of Goods</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Unless otherwise agreed, where goods are tendered, or delivered, or identified to the contract for sale, the buyer has a right before payment or acceptance to inspect them at any reasonable place and time and in any reasonable manner. When the seller is required or authorized to send the goods of the buyer, the inspection may be after their arrival.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Expenses of the inspection must be borne by the buyer, but may be recovered from the seller if the goods do not conform and are rejected.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>If the contract requires payment before inspection, nonconformity of the goods does not excuse the buyer from so making payment unless the nonconformity is so apparent that it appears without inspection. If payment is required before inspection, such payment does not constitute final acceptance of the goods, nor does such payment impair any of the buyer's remedies.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.080 was formerly codified as 12.0308</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0309</num>
+      <num>12.03.090</num>
       <heading>Buyer's Rights on Improper Delivery</heading>
       <text>Subject to provisions on breach of installment contracts and unless otherwise agreed by the parties, if the goods or the tender of delivery fail in any respect to conform to the contract, the buyer may:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Reject the whole; or</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Accept the whole; or</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Accept any commercial unit or units and reject the rest.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.03.090 was formerly codified as 12.0309</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>12.04</num>
     <heading>Breach, Repudiation and Excuse</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>12.0401</num>
+      <num>12.04.010</num>
       <heading>Manner and Effect of Rightful Rejection</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Rejection of goods must be within a reasonable time after their delivery or tender. Such rejection is ineffective unless the buyer notifies the seller within a reasonable time.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Subject to (3) and (4), if the buyer has, before rejection, taken physical possession of the goods, he is under a duty after rejection to hold them with reasonable care at the seller's disposition for a time sufficient to permit the seller to remove them. The buyer has no further obligations with regard to goods rightfully rejected.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>If the buyer is a merchant, upon rightful rejection of goods in his possession, he is under a duty to follow any reasonable instructions received from the seller with respect to the goods. In the absence of such instructions the merchant buyer is under a duty to make reasonable efforts to sell the goods for the seller's account if they are perishable or threaten to decline in value rapidly. When the buyer sells goods under this subsection he is entitled to reimbursement for all reasonable expenses accrued. The buyer, in complying with <cite path="12|12.04|12.0401">this section</cite> is held only to good faith, and good faith conduct hereunder is neither acceptance nor conversion nor the basis of an action for damages.</text>
+        <num>(c)</num>
+        <text>If the buyer is a merchant, upon rightful rejection of goods in his possession, he is under a duty to follow any reasonable instructions received from the seller with respect to the goods. In the absence of such instructions the merchant buyer is under a duty to make reasonable efforts to sell the goods for the seller's account if they are perishable or threaten to decline in value rapidly. When the buyer sells goods under this subsection he is entitled to reimbursement for all reasonable expenses accrued. The buyer, in complying with <cite path="§12.04.010">this section</cite> is held only to good faith, and good faith conduct hereunder is neither acceptance nor conversion nor the basis of an action for damages.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>If the goods are not perishables and thus subject to Subsection (3), and the seller gives no instructions regarding the goods within a reasonable time after notification of rejection, the buyer may store the goods for the seller's account or reship them to the seller or resell them for seller's account with reimbursement according to Subsection (3). Such action is not acceptance or conversion.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.010 was formerly codified as 12.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0402</num>
+      <num>12.04.020</num>
       <heading>What Constitutes Acceptance of Goods</heading>
       <para>
-        <num>(1)</num>
-        <text>Acceptance of goods occurs when the buyer signifies to the seller that he has accepted them, or when the goods have been delivered to him, and he does any act in relation to the goods which is inconsistent with the seller's ownership, or when the seller fails to make an effective rejection under <cite path="12|12.04|12.0401">Section 12.0401</cite> of this Code.</text>
+        <num>(a)</num>
+        <text>Acceptance of goods occurs when the buyer signifies to the seller that he has accepted them, or when the goods have been delivered to him, and he does any act in relation to the goods which is inconsistent with the seller's ownership, or when the seller fails to make an effective rejection under <cite path="§12.04.010">Section 12.04.010</cite> of this Code.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Acceptance of any part of any commercial unit is acceptance of the entire unit.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.020 was formerly codified as 12.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0403</num>
+      <num>12.04.030</num>
       <heading>Effect of Acceptance; Notice of Breach</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The buyer must pay at the contract rate for any goods accepted.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Once goods are accepted they may not be rejected. If acceptance is made with knowledge of a nonconformity it cannot be revoked because of the nonconformity unless the buyer accepted on the reasonable assumption that the nonconformity would be repaired.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Unless otherwise agreed, acceptance of the goods by the buyer shall not discharge the seller from liability in damages or other legal remedy for breach of any promise or warranty in the contract. The buyer will, however, be barred from any remedy unless, after acceptance and within a reasonable time after he discovered, or should have discovered, any breach, he notifies the seller of the breach.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.030 was formerly codified as 12.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0404</num>
+      <num>12.04.040</num>
       <heading>Revocation of Acceptance</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The buyer may revoke his acceptance if the nonconformity in the goods substantially impairs their value and if his acceptance was:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Based on the reasonable assumption that the nonconformity would be cured and, after the passage of a reasonable time, it has not been cured; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Made without discovery of the nonconformity if the acceptance was reasonably induced either by the difficulty of discovery before acceptance or by the seller's assurances.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Revocation of acceptance must occur within a reasonable time after the buyer discovers, or should have discovered, the ground for it, and before any substantial change in condition of the goods which is not caused by their own defects. Revocation of acceptance is not effective until the buyer notifies the seller.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A buyer who so revokes has the same rights and duties with regard to the goods involved as if he had rejected them.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.040 was formerly codified as 12.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0405</num>
+      <num>12.04.050</num>
       <heading>Anticipatory Repudiation; Retraction</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>When either party repudiates the contract with respect to a performance not yet due, the loss of which will substantially impair the value of the contract to the other, the aggrieved party may:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Await performance by the repudiating party for a commercially reasonable time; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Resort to any remedy for breach; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>In either case, suspend his own performance.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Until the repudiating party's next performance is due, he can retract his repudiation, unless the aggrieved party has since the repudiation cancelled or materially changed his position, or otherwise indicated that he considers the repudiation final.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Retraction reinstates the repudiating party's rights under the contract with due allowance to the aggrieved party for any delay occasioned by the repudiation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.050 was formerly codified as 12.0405</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0406</num>
+      <num>12.04.060</num>
       <heading>Breach of Installment Contract</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The buyer may reject any installment which is nonconforming if the nonconformity substantially impairs the value of that installment and cannot be cured. If the nonconformity does not fall within Subsection (b), and the seller gives adequate assurance of its cure, the buyer must accept that installment.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Whenever nonconformity or default with respect to one (1) or more installments substantially impairs the value of the whole contract, there is a breach of the whole contract. But the aggrieved party reinstates the contract if he accepts a nonconforming installment without notifying of cancellation, or if he brings an action with respect only to past installments, or demands performance as to future installments.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.060 was formerly codified as 12.0406</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0407</num>
+      <num>12.04.070</num>
       <heading>Substituted Performance</heading>
       <text>Where, without fault of either party, the agreed manner of delivery becomes commercially impracticable, but a commercially reasonable substitute is available, such substitute performance must be tendered and accepted.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.04.070 was formerly codified as 12.0407</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>12.05</num>
     <heading>Remedies</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>12.0501</num>
+      <num>12.05.010</num>
       <heading>Seller's Remedies in General</heading>
       <text>Where the buyer wrongfully rejects or revokes acceptance of goods, fails to make a payment due on or before delivery, or repudiates with respect to a part of the whole of the contract, then with respect to any goods directly affected and, if the breach is of the whole contract, then also with respect to the whole undelivered balance, the aggrieved seller may:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Withhold delivery of such goods;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Stop delivery by any bailee;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Proceed under <cite path="12|12.06|12.0603">Section 12.0603</cite>;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Resell and recover damages;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Recover damages for non-acceptance or in a proper case recover the price;</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Cance1.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.010 was formerly codified as 12.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0502</num>
+      <num>12.05.020</num>
       <heading>Seller's_ Right to Identify or Salvage Goods After Breach</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>An aggrieved seller may:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Identify to the contract conforming goods not already identified if at the time he learned of the breach the goods were in his possession or control;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Treat as the subject of resale goods which have demonstrably been intended for the particular contract even though those goods are unfinished.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the goods are unfinished an aggrieved seller may, in the exercise of reasonable commercial judgment, for the purposes of avoiding loss either complete the manufacture and wholly identify the goods to the contract, or cease manufacture and resell for scrap or salvage value, or proceed in any other reasonable manner.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.020 was formerly codified as 12.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0503</num>
+      <num>12.05.030</num>
       <heading>Se11Er's Resale</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Under the conditions stated in <cite path="12|12.06|12.0601">Section 12.0601</cite> of this Code, the seller may resell the goods or the undelivered balance thereof. When the resale is made in good faith and in a commercially reasonable manner, the seller may recover the difference between the resale price and the contract price with any incidental damages acquired, but less expenses saved in consequence of the buyer's breach.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Unless otherwise agreed, resale may be at a public or private sale. Every aspect of the sale must be commercially reasonable. Where the resale is at a private sale, the seller must give the buyer reasonable notice of his intention to resell.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Where the resale is at public sale it must be made at a usual place or market for public sale if one is reasonably available. Reasonable notice of the time and place of the sale must be given to the buyer unless the goods are perishable or threaten to decline in value rapidly.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>A purchaser who buys in good faith at a resale takes the goods free of any rights of the original buyer even though the seller fails to comply with one (1) or more of the requirements or <cite path="12|12.05|12.0503">this section</cite>.</text>
+        <num>(d)</num>
+        <text>A purchaser who buys in good faith at a resale takes the goods free of any rights of the original buyer even though the seller fails to comply with one (1) or more of the requirements or <cite path="§12.05.030">this section</cite>.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The seller is not accountable to the buyer for any profit made on the resale.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.030 was formerly codified as 12.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0504</num>
+      <num>12.05.040</num>
       <heading>Seller's Damages for Non-Acceptance or Repudiation</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Subject to Subsection (2), the measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price, together with any incidental damages, but less expenses saved in consequence of the buyer's breach.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If the measure of damages provided in Subsection (1) is inadequate to put the seller in as good a position as performance would have done, then the measure of damages is the profit which the seller would have made from full performance by the buyer, together with any incidental damages incurred.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.040 was formerly codified as 12.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0505</num>
+      <num>12.05.050</num>
       <heading>Action for the Price</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>When the buyer fails to pay the price as it becomes due, the seller may recover, together with any incidental damages, the price:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Of goods accepted; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price, or the circumstances reasonably indicate that such effort will be unavailing.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the seller sues for the price he must hold for the buyer any goods which have been identified to the contract and are still in his control, except that if resale becomes possible he may resell them at any time prior to the collection of the judgment. The net proceeds of any such sale must be credited to the buyer.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.050 was formerly codified as 12.0505</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0506</num>
+      <num>12.05.060</num>
       <heading>Buyer's Remedies in General</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Where the seller fails to make delivery or repudiates or the buyer rightfully rejects or justifiably revokes acceptance, then with respect to the whole if the breach goes to the whole contract, the buyer may cancel and may in addition to recovering so much of the price as has been paid:</text>
         <para>
-          <num>(a)</num>
-          <text>"Cover" arid recovery damages under <cite path="12|12.05|12.0507">Section 12.0507</cite> of this Code, as to all the goods affected, whether or not they have been identified to the contract; or</text>
+          <num>(1)</num>
+          <text>"Cover" arid recovery damages under <cite path="§12.05.070">Section 12.05.070</cite> of this Code, as to all the goods affected, whether or not they have been identified to the contract; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Recover damages for nondelivery.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Where the seller fails to deliver or repudiates, the buyer may also:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Recover the goods if they have been identified; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>In a proper case obtain specific performance or replevy the goods.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.060 was formerly codified as 12.0506</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0507</num>
+      <num>12.05.070</num>
       <heading>Cover</heading>
       <para>
-        <num>(1)</num>
-        <text>After a breach within <cite path="12|12.05|12.0506">Section 12.0506</cite>, the buyer may "cover" by making in good faith and without unreasonable delay any reasonable purchase of or contract to purchase goods in substitution for those due from the seller.</text>
+        <num>(a)</num>
+        <text>After a breach within <cite path="§12.05.060">Section 12.05.060</cite>, the buyer may "cover" by making in good faith and without unreasonable delay any reasonable purchase of or contract to purchase goods in substitution for those due from the seller.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The buyer may recover from the seller as damages, the difference between the cost of "cover" and the contract price together with any incidental or consequential damages, but less expenses saved in consequence of the seller's breach.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.070 was formerly codified as 12.0507</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0508</num>
+      <num>12.05.080</num>
       <heading>Buyer's Damages for Nondelivery or Repudiation</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The measure of damages for nondelivery or repudiation by the seller is the difference between the market price at the time when the buyer learned of the breach and the contract price, together with any consequential and incidental damages, but less expenses saved in consequence of the seller's breach.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Market price is to be determined as of the place of tender or, in cases of rejection after arrival or revocation of acceptance, as of the place of arrival.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.080 was formerly codified as 12.0508</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0509</num>
+      <num>12.05.090</num>
       <heading>Buyer's Damages for Breach in Regard to Accepted Goods</heading>
       <text>The measure of damages or breach of warranty is the difference at the time and place of acceptance between the value of the goods accepted and the value they would have had if they had been as warranted, unless special circumstances show proximate damages of a different amount.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.090 was formerly codified as 12.0509</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0510</num>
+      <num>12.05.100</num>
       <heading>Buyer's Incidental and Consequential Damages</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Incidental damages resulting from the seller's breach include expenses reasonably incurred in inspection, receipt, transportation, and care and custody of goods rightfully rejected, any commercially reasonable charges, expenses or commissions in connection with affecting cover, and any a reasonable expense incident to the delay or other breach.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Consequential damages resulting from the seller's breach include:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any loss resulting from general or particular requirements and needs of which the seller at the time of contracting had reason to know and which could not reasonably be prevented by cover or otherwise; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Injury to person or property proximately resulting from any breach of warranty.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.100 was formerly codified as 12.0510</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0511</num>
+      <num>12.05.110</num>
       <heading>Buyer's Right to Specific Performance or Replevin</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Specific performance may be decreed where the goods are unique or in other proper circumstances.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The decree for specific performance may include such terms and conditions as to payment the price, damages, or other relief as the Court may deem just.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The buyer has a right to replevin for goods identified to the contract if after reasonable effort he is unable to effect cover for such goods or the circumstances reasonably indicate that such effort will be unavailing or if the goods have been shipped under reservation and satisfaction of the security interest in them been made or tendered.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.110 was formerly codified as 12.0511</annotation>
+      </annotations>
     </section>
     <section>
-      <num>12.0512</num>
+      <num>12.05.120</num>
       <heading>Proof of Market Price; Time and Place</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>If an action based on anticipatory repudiation comes to trial before the time for performance with respect to some or all of the goods any damages based on market price shall be determined according to the price of such goods prevailing at the time when the aggrieved party learned of the repudiation.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>If evidence of a price prevailing at the times or places described in this Code is not readily available the price prevailing within any reasonable time before or after the time described or at any other place which in commercial judgment or under usage of trade would serve as a reasonable substitute for the one described may be used, making any proper a11owance for the cost of transporting the goods to or from such other place.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Evidence of a relevant price prevailing at a time or place other than the one described in this Code offered by one party is not admissible unless and until he has given the other party such notice as the Court finds sufficient to prevent unfair surprise.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§12.05.120 was formerly codified as 12.0512</annotation>
+      </annotations>
     </section>
   </container>
 </container>

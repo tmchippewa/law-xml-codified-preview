@@ -1,188 +1,230 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>15</num>
   <heading>Construction Codes and Standards</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>15.01</num>
     <heading>Zoning</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>15.0101</num>
+      <num>15.01.010</num>
       <heading>Townsites</heading>
       <text>Townsites, once established, shall be mapped to indicate the zones for residential, industrial, commercial, recreational areas and other facilities.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.01.010 was formerly codified as 15.0101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>15.02</num>
     <heading>Building and Construction</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>15.0201</num>
+      <num>15.02.010</num>
       <heading>Foundation</heading>
       <text>All buildings moved to or constructed upon town lots shall be placed on concrete or masonry foundations, the depth and width of such foundations to be determined by the size and approximate weight of buildings to be placed thereon.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.010 was formerly codified as 15.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0202</num>
+      <num>15.02.020</num>
       <heading>Material Quality</heading>
       <text>All buildings moved to or constructed upon town lots shall be substantial and constructed in a workmanlike manner. "Substantial" is intended to mean that materials of good quality and of sufficient size for the type of building to be constructed shall be used.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.020 was formerly codified as 15.0202</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0203</num>
+      <num>15.02.030</num>
       <heading>Location</heading>
       <text>Location of buildings on lots shall be placed a minimum distance of twenty (20) feet from front lot lines.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.030 was formerly codified as 15.0203</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0204</num>
+      <num>15.02.040</num>
       <heading>Footings</heading>
       <text>Homes shall have 8" x 16" poured concrete footings with 12" thick (min.) sidewalls either poured or four (4) courses of concrete block as a minimum. Footings shall have two (2) rows of ½" rebar, lapped and tied on corners. Concrete to be five (5) parts aggregate to one (1) part concrete as a minimum. Foundations should be vented. Proper ventilation louvers installed in gable ends.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.040 was formerly codified as 15.0204</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0205</num>
+      <num>15.02.050</num>
       <heading>Access</heading>
       <text>Access to attic and adequate crawl space is to be provided in homes.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.050 was formerly codified as 15.0205</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0206</num>
+      <num>15.02.060</num>
       <heading>Joists</heading>
       <text>Floor joists to be 2 x 8 – 16 o.c. or 2 x 10 – 24 o.c. and not to exceed 12-foot free span on floor joists without support. Spans over 8" shall have briding.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.060 was formerly codified as 15.0206</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0207</num>
+      <num>15.02.070</num>
       <heading>Flooring</heading>
       <text>Rough flooring should be at least ¾" overlayed with from 3/8" to ½" plywood or like materials. Final floor finish should be tile, linoleum or like materials.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.070 was formerly codified as 15.0207</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0208</num>
+      <num>15.02.080</num>
       <heading>Walls</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Wall studs to be 16" o.c. ceiling joists to be 16" o.c. and roof rafters to be no more than 24" o.c. Roof to be not less than ½" plywood sheathing. Eaves to be a minimum of 12" boxed in.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Sidewalls with not less than 3" bat insulation and ceilings insulated with not less than 6" bat insulation.</text>
         <text>Ceiling heights to be not less than 7'3". No less than ½" sheetrock or like material on interior walls. Ceilings not less than 3/8" covering.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Outside wall studs to be covered with not less than 25/32 sheathing or 3/4" wood siding. Sheathing to be covered with any approved finish siding (shakes, lap siding, drop siding, etc.).</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.080 was formerly codified as 15.0208</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0209</num>
+      <num>15.02.090</num>
       <heading>Windows</heading>
       <text>Windows to be good grade and weather-stripped. Suggest outside storm and screen combination.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.090 was formerly codified as 15.0209</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0210</num>
+      <num>15.02.100</num>
       <heading>Shingles</heading>
       <text>Shingles to be lock tab or self-sealing. 235 pounds.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.100 was formerly codified as 15.0210</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0211</num>
+      <num>15.02.110</num>
       <heading>Doors</heading>
       <text>Suggest all outside doors be minimum 1 3/4 good grade hollow core or solid panel fir or pine. Hardware to conform in quality to door. Inside 1 3/8 hollow core. Inside trim to be not less than 2 1/4" milled trim.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.110 was formerly codified as 15.0211</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0212</num>
+      <num>15.02.120</num>
       <heading>Space</heading>
       <text>Consider minimum floor space for family 150' for first person and an additional 100' for each additional person, this space not to include bathroom.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.120 was formerly codified as 15.0212</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0213</num>
+      <num>15.02.130</num>
       <heading>Chimneys</heading>
       <text>Chimneys shall be brick, tile, prefabed chimneys or steel construction and shall be constructed to meet the needs of the stove or heating unit used. Under no circumstances shall homeowners be permitted to use stovepipe for chimneys.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.130 was formerly codified as 15.0213</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0214</num>
+      <num>15.02.140</num>
       <heading>Plumbing and Sewage</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All plumbing vents and sewer line shall be governed by the current National Plumbing Code.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Bathroom not to be opened directly into kitchen area.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Bathroom, water heater and kitchen sink to be medium grade (or better) recognized brand such as Crane, American or comparable brand. Three-fourths inch (3/4") coppery water-line-1 grade or better from street to building.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Copper L-grade inside building. Hard-L-grade recommended underground or better. Four-inch vitrified clay tile, 4" cement asbestos or 4" iron sewer pipe to be used. Connections to be made in accordance with good plumbing practices.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Hot water heaters to be not less than 30-gallon capacity.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>Privies for Rural Areas. Should be standardized and should be constructed to meet sanitary standards. Privies do not require foundations but materials used for floors should be treated with a wood preservative to prevent rot. Privies as well as other buildings should be painted to present a neat looking appearance.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>Rural residents should construct and use garbage disposal pits that meet sanitary standards. Pit covers for garbage disposal pits should be treated with a wood preservative to prevent rot. Approved incinerators should be used for paper.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.140 was formerly codified as 15.0214</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0215</num>
+      <num>15.02.150</num>
       <heading>Electricity</heading>
       <text>Installation of wiring and electrical fixtures must be performed to meet the minimum safe requirements as set forth in the current edition of the REA or Otter Tail Power Company. All houses to have porch lights over doors.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.150 was formerly codified as 15.0215</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0216</num>
+      <num>15.02.160</num>
       <heading>Log Buildings</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Construction shall be substantial and performed in a workmanlike manner. Log buildings should be placed on concrete foundations.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Framing for floor, ceiling, roof, and partitions for a log building should be performed in the same manner and in accordance with standards recommended for frame buildings.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.160 was formerly codified as 15.0216</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0217</num>
+      <num>15.02.170</num>
       <heading>Fencing</heading>
       <text>Barbed wire for the construction of fences within the residential area will not be permitted.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.170 was formerly codified as 15.0217</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0218</num>
+      <num>15.02.180</num>
       <heading>Trailer Houses</heading>
       <text>Trailer houses should be parked in a trailer court.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.180 was formerly codified as 15.0218</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0219</num>
+      <num>15.02.190</num>
       <heading>Housing Code</heading>
       <text>Minimum standards for housing are as adopted. It should be the goal of all residents within the town to meet or exceed the minimum standards for housing.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.190 was formerly codified as 15.0219</annotation>
+      </annotations>
     </section>
     <section>
-      <num>15.0220</num>
+      <num>15.02.200</num>
       <heading>Consideration</heading>
       <text>Consideration to be given where strict enforcement of codes would work a hardship on families due to lack of finances and in the case of plumbing code, lack of water supply.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§15.02.200 was formerly codified as 15.0220</annotation>
+      </annotations>
     </section>
   </container>
 </container>

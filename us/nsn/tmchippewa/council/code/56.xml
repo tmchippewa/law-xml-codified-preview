@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>56</num>
   <heading>Medical Marijuana Control Act</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.01</num>
     <heading>General Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0101</num>
+      <num>56.01.010</num>
       <heading>Short Title</heading>
-      <text><cite path="56">This Title</cite> may be cited as the Medical Marijuana Control Act.</text>
-      <annotations/>
+      <text><cite path="56">This title</cite> may be cited as the Medical Marijuana Control Act.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.01.010 was formerly codified as 56.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0102</num>
+      <num>56.01.020</num>
       <heading>Findings and Purpose</heading>
       <text>The Turtle Mountain Band of Chippewa ("Tribe") hereby finds and declares that:</text>
       <para>
@@ -39,41 +41,47 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Turtle Mountain Band of Chippewa has decided to make the medical use of Marijuana legal and lawful within its jurisdiction as an internal tribal matter for purposes of use, possession, consumption, cultivation, processing, distribution and research by enacting <cite path="56">this Title</cite> to the TMBCI Code.</text>
+        <text>Turtle Mountain Band of Chippewa has decided to make the medical use of Marijuana legal and lawful within its jurisdiction as an internal tribal matter for purposes of use, possession, consumption, cultivation, processing, distribution and research by enacting <cite path="56">this title</cite> to the TMBCI Code.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.01.020 was formerly codified as 56.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0103</num>
+      <num>56.01.030</num>
       <heading>Control of Marijuana</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="56">This Title</cite> shall govern the cultivation, processing, and distribution of Marijuana on the reservation, will increase the ability of Tribe to control the possession and consumption of Marijuana on the reservation, and will provide an additional source of revenue for regulating and controlling Marijuana and drug related activity.</text>
+        <text><cite path="56">This title</cite> shall govern the cultivation, processing, and distribution of Marijuana on the reservation, will increase the ability of Tribe to control the possession and consumption of Marijuana on the reservation, and will provide an additional source of revenue for regulating and controlling Marijuana and drug related activity.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Tribal regulation of the possession, consumption, cultivation, processing, distribution, and research of Marijuana on the reservation is necessary to protect the health, security, and general welfare of the Tribal community, and to address tribal concerns relating to use of Marijuana on the reservation. In order to further these goals and to provide an additional source of governmental revenue, the Tribe has adopted <cite path="56">this Title</cite>, which shall be liberally construed to fulfill the purposes for which it has been adopted.</text>
+        <text>Tribal regulation of the possession, consumption, cultivation, processing, distribution, and research of Marijuana on the reservation is necessary to protect the health, security, and general welfare of the Tribal community, and to address tribal concerns relating to use of Marijuana on the reservation. In order to further these goals and to provide an additional source of governmental revenue, the Tribe has adopted <cite path="56">this title</cite>, which shall be liberally construed to fulfill the purposes for which it has been adopted.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing in <cite path="56">this Title</cite> shall be deemed by the Tribe Judiciary or law enforcement to be in positive conflict with the federal Controlled Substances Act, 21 U.S.C. section 801 <em>et seq</em>.</text>
+        <text>Nothing in <cite path="56">this title</cite> shall be deemed by the Tribe Judiciary or law enforcement to be in positive conflict with the federal Controlled Substances Act, 21 U.S.C. section 801 <em>et seq</em>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Nothing in <cite path="56">this Title</cite> shall be deemed to legalize or create a right to use, grow, harvest, process, or distribute Marijuana for recreational purposes.</text>
+        <text>Nothing in <cite path="56">this title</cite> shall be deemed to legalize or create a right to use, grow, harvest, process, or distribute Marijuana for recreational purposes.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.01.030 was formerly codified as 56.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0104</num>
+      <num>56.01.040</num>
       <heading>Sovereign Immunity</heading>
-      <text>Nothing in <cite path="56">this Title</cite> shall be construed to limit the jurisdiction of the Tribe, the Court or law enforcement personnel and nothing herein shall limit or constitute a waiver of the sovereign immunity of the Tribe or its officers, instrumentalities, employees, elected officials, and agents or authorize any form a prospective waiver of such sovereign immunity.</text>
-      <annotations/>
+      <text>Nothing in <cite path="56">this title</cite> shall be construed to limit the jurisdiction of the Tribe, the Court or law enforcement personnel and nothing herein shall limit or constitute a waiver of the sovereign immunity of the Tribe or its officers, instrumentalities, employees, elected officials, and agents or authorize any form a prospective waiver of such sovereign immunity.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.01.040 was formerly codified as 56.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0105</num>
+      <num>56.01.050</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="56">this Title</cite>, the following words shall have the following meanings unless the context clearly requires otherwise:</text>
+      <text>As used in <cite path="56">this title</cite>, the following words shall have the following meanings unless the context clearly requires otherwise:</text>
       <para>
         <num>(a)</num>
         <text>"Critical fluid extraction Marijuana concentrate" means a Marijuana concentrate that was produced by extracting cannabinoids from Marijuana through the use of a hydrocarbon solvent, such as butane or propane, Carbon Dioxide, or substantially similar process.</text>
@@ -174,15 +182,17 @@
         <num>(y)</num>
         <text>"Water-based Marijuana concentrate" means a Marijuana Concentrate that was produced by extracting cannabinoids from Marijuana through the use of only water or ice.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.01.050 was formerly codified as 56.0105</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.02</num>
     <heading>Prohibited Acts and Affirmative Defenses</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0201</num>
+      <num>56.02.010</num>
       <heading>Exemption from Prosecution for Certain Acts</heading>
       <para>
         <num>(a)</num>
@@ -202,16 +212,18 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>No person may be subject to prosecution or civil penalty imposed by the Commission or by the Tribal Court for constructive possession, conspiracy, or any other criminal offense solely for being in the presence or vicinity of the use of Marijuana in accordance with the provisions of <cite path="56">this Title</cite>.</text>
+        <text>No person may be subject to prosecution or civil penalty imposed by the Commission or by the Tribal Court for constructive possession, conspiracy, or any other criminal offense solely for being in the presence or vicinity of the use of Marijuana in accordance with the provisions of <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>No employee of a Marijuana Business shall be subject to prosecution or civil penalty in the Tribal Court for the cultivation, production or distribution of Marijuana in accordance with <cite path="56">this Title</cite>.</text>
+        <text>No employee of a Marijuana Business shall be subject to prosecution or civil penalty in the Tribal Court for the cultivation, production or distribution of Marijuana in accordance with <cite path="56">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.02.010 was formerly codified as 56.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0202</num>
+      <num>56.02.020</num>
       <heading>No Exemption from Prosecution for Certain Acts</heading>
       <para>
         <num>(a)</num>
@@ -229,10 +241,12 @@
           <text>Delivering Marijuana in exchange for money or for consideration to any person, regardless of whether the recipient lawfully holds a valid Registration card.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.02.020 was formerly codified as 56.0202</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0203</num>
+      <num>56.02.030</num>
       <heading>Minors</heading>
       <para>
         <num>(a)</num>
@@ -246,21 +260,25 @@
         <num>(c)</num>
         <text>Minors who have a medical physician' written recommendation may consume Marijuana under the supervision of a parent or guardian with legal custody of the minor.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.02.030 was formerly codified as 56.0203</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0204</num>
+      <num>56.02.040</num>
       <heading>Deleterious Outcomes</heading>
       <text>The Tribe, including its officers, employees, agents, representatives, successors, and assigns, shall not be held responsible for any deleterious outcomes from the use of Marijuana by any person.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.02.040 was formerly codified as 56.0204</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.03</num>
     <heading>Licensing</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0301</num>
+      <num>56.03.010</num>
       <heading>Marijuana Businesses; Operating Fee</heading>
       <para>
         <num>(a)</num>
@@ -272,7 +290,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A Marijuana Business shall meet all licensing requirements under <cite path="56">this Title</cite>.</text>
+        <text>A Marijuana Business shall meet all licensing requirements under <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -280,16 +298,18 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The operating fee assessed under <cite path="56|56.03|56.0301">this section</cite> shall be due and payable on the fifteenth day following the close of the fiscal quarter and shall be subject to interest and applicable penalties.  A penalty of 20% percent of the amount of any underpayment shall be added to the fee. For purposes of <cite path="56|56.03|56.0301">this section</cite>, the underpayment amount shall be equal to the difference between the total amount of the operating fee imposed by <cite path="56|56.03|56.0301">this section</cite> less the amount paid.</text>
+        <text>The operating fee assessed under <cite path="§56.03.010">this section</cite> shall be due and payable on the fifteenth day following the close of the fiscal quarter and shall be subject to interest and applicable penalties.  A penalty of 20% percent of the amount of any underpayment shall be added to the fee. For purposes of <cite path="§56.03.010">this section</cite>, the underpayment amount shall be equal to the difference between the total amount of the operating fee imposed by <cite path="§56.03.010">this section</cite> less the amount paid.</text>
       </para>
       <para>
         <num>(f)</num>
         <text>All operating fees shall be remitted to the Commission, which shall keep accurate records of all such receipts, and the Commission shall then deposit all such fees into the Tribe's General Account for Commission operating expenses, Judiciary, and drug-related law enforcement.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.010 was formerly codified as 56.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0302</num>
+      <num>56.03.020</num>
       <heading>Licensure Requirement</heading>
       <para>
         <num>(a)</num>
@@ -336,7 +356,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>A statement in writing that the applicant has read <cite path="56">this Title</cite>, Commission regulations, and certifies under penalty of perjury that all the information contained in the application is true and correct; and</text>
+          <text>A statement in writing that the applicant has read <cite path="56">this title</cite>, Commission regulations, and certifies under penalty of perjury that all the information contained in the application is true and correct; and</text>
         </para>
         <para>
           <num>(11)</num>
@@ -348,10 +368,12 @@
         <text>Each Marijuana Employee License shall include the following printed statement and the application for the license shall require the individual applicant to acknowledge in writing the following warning:</text>
       </para>
       <text>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.020 was formerly codified as 56.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0303</num>
+      <num>56.03.030</num>
       <heading>Term, Renewals and Fees</heading>
       <para>
         <num>(a)</num>
@@ -369,21 +391,25 @@
         <num>(d)</num>
         <text>The license fee shall not include fingerprinting, photographing or background check costs and shall be in addition to any other actual costs or fees imposed by the Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.030 was formerly codified as 56.0303</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0304</num>
+      <num>56.03.040</num>
       <heading>Eligibility Determination</heading>
       <text>The Commission shall review an applicant's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility for employment in a cultivation facility, distribution facility or processing facility.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.040 was formerly codified as 56.0304</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0305</num>
+      <num>56.03.050</num>
       <heading>Grounds for Denial of Marijuana Employee License</heading>
       <text>The grounds for denial of a Marijuana Employee License shall be one or more of the following:</text>
       <para>
         <num>(a)</num>
-        <text>The applicant, within the past three (3) years, has violated <cite path="56">this Title</cite> or any state law, statute, rule or regulation relating to the cultivation, processing or distribution of Marijuana.</text>
+        <text>The applicant, within the past three (3) years, has violated <cite path="56">this title</cite> or any state law, statute, rule or regulation relating to the cultivation, processing or distribution of Marijuana.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -405,10 +431,12 @@
         <num>(f)</num>
         <text>The required application or renewal fees have not been paid within a reasonable time.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.050 was formerly codified as 56.0305</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0306</num>
+      <num>56.03.060</num>
       <heading>Reconsideration of Denial</heading>
       <para>
         <num>(a)</num>
@@ -416,12 +444,14 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Following review of the petition for reconsideration, the Council may issue the Marijuana Employee License subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Tribe and its tribal members or it may deny the issuance of the Marijuana Employee License for any of the grounds specified in <cite path="56">this Title</cite>. The decision of the Council shall be final and not subject to judicial review.</text>
+        <text>Following review of the petition for reconsideration, the Council may issue the Marijuana Employee License subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Tribe and its tribal members or it may deny the issuance of the Marijuana Employee License for any of the grounds specified in <cite path="56">this title</cite>. The decision of the Council shall be final and not subject to judicial review.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.060 was formerly codified as 56.0306</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0307</num>
+      <num>56.03.070</num>
       <heading>License Suspension or Revocation</heading>
       <para>
         <num>(a)</num>
@@ -435,10 +465,12 @@
         <num>(c)</num>
         <text>After a suspension and pending revocation hearing, the Commission shall decide to revoke or to reinstate a Marijuana Employee License. The decision of the Commission shall be final for purposes of judicial review.  The Court shall not have the power to impose an injunction upon the effect of a suspension or revocation but may, after a full hearing on the merits of a revocation, order dissolution of the revocation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.070 was formerly codified as 56.0307</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0308</num>
+      <num>56.03.080</num>
       <heading>Reinstatement</heading>
       <para>
         <num>(a)</num>
@@ -453,7 +485,7 @@
         <text>The petitioner will have the burden of proving by clear, cogent, and convincing evidence that,</text>
         <para>
           <num>(1)</num>
-          <text>the petitioner meets the criteria requirements of <cite path="56.03">Chapter 56.03</cite> of <cite path="56">this title</cite>;</text>
+          <text>the petitioner meets the criteria requirements of <cite path="56|56.03">this chapter</cite> of <cite path="56">this title</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -465,18 +497,20 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>the petitioner paid all fees required under <cite path="56|56.03|56.0303">Section 56.0303</cite> of <cite path="56">this title</cite>.</text>
+          <text>the petitioner paid all fees required under <cite path="§56.03.030">Section 56.03.030</cite> of <cite path="56">this title</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.03.080 was formerly codified as 56.0308</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.04</num>
     <heading>Cultivating Marijuana</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0401</num>
+      <num>56.04.010</num>
       <heading>Cultivation Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
@@ -526,22 +560,28 @@
         <num>(b)</num>
         <text>A copy of all operating procedures must be maintained and be publicly available at every cultivation facility.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.04.010 was formerly codified as 56.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0402</num>
+      <num>56.04.020</num>
       <heading>On-Site Consumption</heading>
       <text>The use or consumption of Marijuana shall be prohibited at each cultivation facility.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.04.020 was formerly codified as 56.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0403</num>
+      <num>56.04.030</num>
       <heading>Quality Assurance; Adulteration Prohibited</heading>
       <text>Within twelve months of the establishment of this ordinance, all Marijuana cultivated must be tested for safety and quality assurance. A cultivation facility may not treat or otherwise adulterate Marijuana with any chemical or other compound whatsoever to alter its color, appearance, weight, or smell.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.04.030 was formerly codified as 56.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0404</num>
+      <num>56.04.040</num>
       <heading>Research and Development</heading>
       <para>
         <num>(a)</num>
@@ -555,10 +595,12 @@
         <num>(c)</num>
         <text>The cultivation of locally-grown and organic Marijuana is encouraged.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.04.040 was formerly codified as 56.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0405</num>
+      <num>56.04.050</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -597,7 +639,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Pesticide chemicals shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this Title</cite> and any applicable tribal or federal law, rule, or regulation.</text>
+          <text>Pesticide chemicals shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this title</cite> and any applicable tribal or federal law, rule, or regulation.</text>
         </para>
       </para>
       <para>
@@ -644,15 +686,17 @@
           <text>Marijuana that can support the rapid growth of undesirable microorganisms shall be held in a manner that prevents the growth of these microorganisms.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.04.050 was formerly codified as 56.0405</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.05</num>
     <heading>Processing Marijuana</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0501</num>
+      <num>56.05.010</num>
       <heading>Processing Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
@@ -678,10 +722,12 @@
           <text>Require standards for the packaging of edibles and other similar products. Such packaging shall be nondescript and shall not mimic, resemble or be representational of candy, cookies or other food products that might attract or entice children.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.05.010 was formerly codified as 56.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0502</num>
+      <num>56.05.020</num>
       <heading>Food Safety Course</heading>
       <para>
         <num>(a)</num>
@@ -715,16 +761,20 @@
           <text>Emergency procedures (fire, flood, sewer backup).</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.05.020 was formerly codified as 56.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0503</num>
+      <num>56.05.030</num>
       <heading>Quality Assurance</heading>
       <text>Within twelve months of the establishment of this ordinance, Marijuana processed and each Marijuana product must be tested for safety and quality assurance, including but limited to, potency testing, residual solvents testing, microbial testing, aflatoxin testing, pesticide testing, and heavy metal testing.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.05.030 was formerly codified as 56.0503</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0504</num>
+      <num>56.05.040</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -763,7 +813,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Toxic cleaning compounds, sanitizing agents, solvents used in the production of Marijuana concentrates shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this Title</cite> and any applicable tribal, state, or federal law, rule, or regulation.</text>
+          <text>Toxic cleaning compounds, sanitizing agents, solvents used in the production of Marijuana concentrates shall be identified, held, and stored in a manner that protects against contamination of Marijuana, and in a manner that is in accordance with <cite path="56">this title</cite> and any applicable tribal, state, or federal law, rule, or regulation.</text>
         </para>
       </para>
       <para>
@@ -814,10 +864,12 @@
           <text>All contact surfaces, including utensils and equipment used for the preparation of a Marijuana product, shall be cleaned and sanitized as frequently as necessary to protect against contamination. Equipment and utensils shall be so designed and of such material and workmanship as to be adequately cleanable, and shall be properly maintained.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.05.040 was formerly codified as 56.0504</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0505</num>
+      <num>56.05.050</num>
       <heading>Marijuana Concentrates</heading>
       <para>
         <num>(a)</num>
@@ -923,15 +975,17 @@
           <text>Establish a standard operating procedure for each type of Critical Fluid Extraction Marijuana Concentrate to be produced that is designed to maximize employee safety and minimize potential contamination of products with residual solvents or microbials and mold.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.05.050 was formerly codified as 56.0505</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.06</num>
     <heading>Distributing Marijuana</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0601</num>
+      <num>56.06.010</num>
       <heading>Distribution Facility Operating Procedures</heading>
       <para>
         <num>(a)</num>
@@ -961,10 +1015,12 @@
           <text>The procedure and documentation process for determining patient dosage including testing for the major active agents in the Marijuana (e.g., cannabinoids Tetrahydrocannabinol (THC), Cannabidiol (CBD) and Cannabinol (CBN).</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.010 was formerly codified as 56.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0602</num>
+      <num>56.06.020</num>
       <heading>Access</heading>
       <para>
         <num>(a)</num>
@@ -982,10 +1038,12 @@
         <num>(d)</num>
         <text>Notwithstanding these requirements, nothing shall prohibit tribal law enforcement from entering any area of the facility upon presentation of official credentials identifying them as such.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.020 was formerly codified as 56.0602</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0603</num>
+      <num>56.06.030</num>
       <heading>Duties of Distribution Facility</heading>
       <para>
         <num>(a)</num>
@@ -1007,10 +1065,12 @@
         <num>(b)</num>
         <text>Each distribution facility shall be staffed with at least one person during hours of operation who shall not be responsible for dispensing Marijuana. The distribution facility shall have a responsible person who shall be at least twenty-one (21) years of age and shall be on the premises to act as manager at all times during which the distribution facility is open to the public or any portion thereof.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.030 was formerly codified as 56.0603</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0604</num>
+      <num>56.06.040</num>
       <heading>Precautions and Specific Requirements</heading>
       <para>
         <num>(a)</num>
@@ -1052,10 +1112,12 @@
           <text>The distribution of Marijuana shall not adversely affect the health or safety of the employees, volunteers or the facility in which it is distributed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.040 was formerly codified as 56.0604</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0605</num>
+      <num>56.06.050</num>
       <heading>Packaging</heading>
       <para>
         <num>(a)</num>
@@ -1102,10 +1164,12 @@
           <text>A product expiration date, for perishable Marijuana products, upon which the product will no longer be fit for consumption, or a use-by-date, upon which the product will no longer be optimally fresh. Once a label with a use-by or expiration date has been affixed to a container of a Marijuana product, it may not be altered in any way or have a new label affixed with a later use-by or expiration date.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.050 was formerly codified as 56.0605</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0606</num>
+      <num>56.06.060</num>
       <heading>Electronic Verification System</heading>
       <para>
         <num>(a)</num>
@@ -1141,21 +1205,23 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing in <cite path="56|56.06|56.0606">this section</cite> prohibits more than one distribution facility from co-owning an electronic verification system in cooperation with another distribution facility, or sharing the information obtained therefrom.</text>
+        <text>Nothing in <cite path="§56.06.060">this section</cite> prohibits more than one distribution facility from co-owning an electronic verification system in cooperation with another distribution facility, or sharing the information obtained therefrom.</text>
       </para>
       <para>
         <num>(d)</num>
         <text>A distribution facility must exercise reasonable care to ensure that the personal identifying information of persons who hold valid Registration cards, which is contained in an electronic verification system is encrypted, protected and not divulged for any purpose not specifically authorized by law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.06.060 was formerly codified as 56.0606</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.07</num>
     <heading>Transportation of Marijuana</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0701</num>
+      <num>56.07.010</num>
       <heading>Transportation</heading>
       <para>
         <num>(a)</num>
@@ -1165,10 +1231,12 @@
         <num>(b)</num>
         <text>Any person who while transporting or delivering Marijuana or Marijuana products shall not possess or carry on his person or in his vehicle (a) an excessive amount of Marijuana, (b) an excessive amount of cash, (c) one or more weapons, or (d) illicit drugs.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.07.010 was formerly codified as 56.0701</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0702</num>
+      <num>56.07.020</num>
       <heading>Shipping Containers</heading>
       <para>
         <num>(a)</num>
@@ -1178,10 +1246,12 @@
         <num>(b)</num>
         <text>Only management employees at a receiving facility or government officials having custody of a shipping container of Marijuana or Marijuana products, may break the seal for legitimate reasons.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.07.020 was formerly codified as 56.0702</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0703</num>
+      <num>56.07.030</num>
       <heading>Transportation Security Program</heading>
       <para>
         <num>(a)</num>
@@ -1207,21 +1277,25 @@
           <text>Any other measures the Commission promulgates by regulation to ensure the security and integrity of transporting Marijuana or Marijuana products.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.07.030 was formerly codified as 56.0703</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0704</num>
+      <num>56.07.040</num>
       <heading>Transportation Outside the Reservation</heading>
       <text>Delivery or transportation of Marijuana or Marijuana products beyond the exterior boundaries of the reservation is prohibited.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.07.040 was formerly codified as 56.0704</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.08</num>
     <heading>Security, Site Management and Inventory Control</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0801</num>
+      <num>56.08.010</num>
       <heading>Security and Site Management</heading>
       <para>
         <num>(a)</num>
@@ -1251,16 +1325,20 @@
           <text>All points of ingress and egress shall have commercial-grade, nonresidential door locks.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.08.010 was formerly codified as 56.0801</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0802</num>
+      <num>56.08.020</num>
       <heading>Disturbances of the Peace</heading>
       <text>Every Marijuana Business shall take all reasonable steps to discourage and correct disturbances of peace, open public consumption of Marijuana or alcohol, excessive pedestrian or vehicular traffic, illegal drug activity, harassment of passersby, excessive littering, excessive loitering, illegal parking, excessive loud noises, especially late at night or early in the morning hours, lewd conduct or police detentions and arrests.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.08.020 was formerly codified as 56.0802</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0803</num>
+      <num>56.08.030</num>
       <heading>Inventory Control System</heading>
       <para>
         <num>(a)</num>
@@ -1281,12 +1359,14 @@
           <num>(3)</num>
           <text>Such other information as the Commission may require by regulation.</text>
         </para>
-        <text>Nothing in <cite path="56|56.08|56.0803">this section</cite> prohibits a cultivation facility, processing facility, or distribution facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</text>
+        <text>Nothing in <cite path="§56.08.030">this section</cite> prohibits a cultivation facility, processing facility, or distribution facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.08.030 was formerly codified as 56.0803</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0804</num>
+      <num>56.08.040</num>
       <heading>Audits</heading>
       <para>
         <num>(a)</num>
@@ -1294,23 +1374,27 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Every Marijuana Business shall undergo an annual health and sanitary audit of any facility by an independent consultant. The scope of the audit may include, but not limited to, whether each facility and laboratory is in compliance with the requirements set forth in <cite path="56">this Title</cite> and other applicable health, sanitary or food handling laws, rules and regulations. Failure to perform to the independent audit may result in suspension of operations until the completion of the independent audit and the implementation of any required remedial measures is made.</text>
+        <text>Every Marijuana Business shall undergo an annual health and sanitary audit of any facility by an independent consultant. The scope of the audit may include, but not limited to, whether each facility and laboratory is in compliance with the requirements set forth in <cite path="56">this title</cite> and other applicable health, sanitary or food handling laws, rules and regulations. Failure to perform to the independent audit may result in suspension of operations until the completion of the independent audit and the implementation of any required remedial measures is made.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.08.040 was formerly codified as 56.0804</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0805</num>
+      <num>56.08.050</num>
       <heading>Training</heading>
-      <text>All employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding Marijuana in compliance with <cite path="56">this Title</cite>.</text>
-      <annotations/>
+      <text>All employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding Marijuana in compliance with <cite path="56">this title</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.08.050 was formerly codified as 56.0805</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.09</num>
     <heading>Marijuana Control Commission</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.0901</num>
+      <num>56.09.010</num>
       <heading>Commission Establishment; Duration; Attributes</heading>
       <para>
         <num>(a)</num>
@@ -1322,7 +1406,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In carrying out its purposes under <cite path="56">this Title</cite>, the Commission shall function as an arm of the Tribe.</text>
+        <text>In carrying out its purposes under <cite path="56">this title</cite>, the Commission shall function as an arm of the Tribe.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1368,14 +1452,16 @@
         <num>(g)</num>
         <text>The Commission shall meet at the call of the Chairman of the Commission, the Chairman of the Tribe, or by motion of the Council at a scheduled meeting.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.010 was formerly codified as 56.0901</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0902</num>
+      <num>56.09.020</num>
       <heading>Sovereign Immunity</heading>
       <para>
         <num>(a)</num>
-        <text>The Commission shall enjoy all of the privileges and immunities of the Tribe, except as specifically limited by <cite path="56">this Title</cite>, including sovereign immunity from suit in any state, federal, or tribal court.</text>
+        <text>The Commission shall enjoy all of the privileges and immunities of the Tribe, except as specifically limited by <cite path="56">this title</cite>, including sovereign immunity from suit in any state, federal, or tribal court.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1383,29 +1469,31 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing in <cite path="56">this Title</cite> shall be deemed or construed to be a waiver of the Commission's sovereign immunity from suit except in equity to enforce licensing decisions.</text>
+        <text>Nothing in <cite path="56">this title</cite> shall be deemed or construed to be a waiver of the Commission's sovereign immunity from suit except in equity to enforce licensing decisions.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Nothing in <cite path="56">this Title</cite> shall be deemed or construed as consent of the Commission to the jurisdiction of the United States, any state, or any other Tribe with regard to the business or affairs of the Commission.</text>
+        <text>Nothing in <cite path="56">this title</cite> shall be deemed or construed as consent of the Commission to the jurisdiction of the United States, any state, or any other Tribe with regard to the business or affairs of the Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.020 was formerly codified as 56.0902</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0903</num>
+      <num>56.09.030</num>
       <heading>Specific Powers of the Commission</heading>
       <text>The Commission shall have the power and responsibility to:</text>
       <para>
         <num>(a)</num>
-        <text>Enforce <cite path="56">this Title</cite>.</text>
+        <text>Enforce <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Promulgate regulations governing any purpose or function delegated to it in <cite path="56">this Title</cite>.</text>
+        <text>Promulgate regulations governing any purpose or function delegated to it in <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Accept, review, approve, or disapprove any application for a license pursuant to <cite path="56">this Title</cite>, including Marijuana Employee Licenses and licenses for Marijuana Businesses for cultivating, processing, and distribution of Marijuana grown in accordance with <cite path="56">this Title</cite>.</text>
+        <text>Accept, review, approve, or disapprove any application for a license pursuant to <cite path="56">this title</cite>, including Marijuana Employee Licenses and licenses for Marijuana Businesses for cultivating, processing, and distribution of Marijuana grown in accordance with <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1413,7 +1501,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Impose any fees necessary to the regulation of the cultivation, processing, and distribution of Marijuana grown, and to collect any fees imposed by <cite path="56">this Title</cite> or the Commission.</text>
+        <text>Impose any fees necessary to the regulation of the cultivation, processing, and distribution of Marijuana grown, and to collect any fees imposed by <cite path="56">this title</cite> or the Commission.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1425,16 +1513,18 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Adopt regulations to implement the provisions of <cite path="56">this Title</cite>, including for the assessment and collection of civil fines against any person(s) in violation of <cite path="56">this Title</cite>.</text>
+        <text>Adopt regulations to implement the provisions of <cite path="56">this title</cite>, including for the assessment and collection of civil fines against any person(s) in violation of <cite path="56">this title</cite>.</text>
       </para>
       <para>
         <num>(i)</num>
         <text>To issue an order of temporary closure of a Marijuana Business in the event the Commission determines that immediate closure is necessary to protect public safety.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.030 was formerly codified as 56.0903</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0904</num>
+      <num>56.09.040</num>
       <heading>Duties of Commission</heading>
       <text>The Commission:</text>
       <para>
@@ -1451,16 +1541,18 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>May demand access to and inspect, examine, photocopy, and audit all papers, books, and records respecting gross revenues of the cultivation, processing, and distribution of Marijuana, conducted within the boundaries of the Tribe and any other matters necessary to carry out the duties of the Commission under <cite path="56">this Title</cite>;</text>
+        <text>May demand access to and inspect, examine, photocopy, and audit all papers, books, and records respecting gross revenues of the cultivation, processing, and distribution of Marijuana, conducted within the boundaries of the Tribe and any other matters necessary to carry out the duties of the Commission under <cite path="56">this title</cite>;</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Shall promulgate such regulations and guidelines as it deems appropriate to implement the provisions of <cite path="56">this Title</cite>.</text>
+        <text>Shall promulgate such regulations and guidelines as it deems appropriate to implement the provisions of <cite path="56">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.040 was formerly codified as 56.0904</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0905</num>
+      <num>56.09.050</num>
       <heading>Limitation of Commission Powers</heading>
       <para>
         <num>(a)</num>
@@ -1470,70 +1562,86 @@
         <num>(b)</num>
         <text>The Commission shall not regulate the revenues or funds derived from fees or costs of the cultivation, processing, and distribution of Marijuana once such revenues have been distributed to the Tribe.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.050 was formerly codified as 56.0905</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0906</num>
+      <num>56.09.060</num>
       <heading>Compensation of the Commission</heading>
       <text>The members of the Commission shall each be paid an equal amount out of the Commission's operating budget at the rate set by the Council, except the Chairman may be paid reasonable supplemental amount to account for time attributable to administrative duties. If no action is taken by the Council, the compensation for Commission members shall remain the same as the previous year.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.060 was formerly codified as 56.0906</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.0907</num>
+      <num>56.09.070</num>
       <heading>Quarterly Reports</heading>
       <text>The Commission shall provide a quarterly report to the Council summarizing the Commission's official actions, activities, investigative reports, and reports received from any Marijuana Business as it deems necessary to keep the Council fully informed as to the status of the Commission's activities.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.09.070 was formerly codified as 56.0907</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.10</num>
     <heading>Marijuana and Hemp Research and Development</heading>
+    <prefix>Chapter</prefix>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>56.11</num>
     <heading>Miscellaneous Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>56.1101</num>
+      <num>56.11.010</num>
       <heading>Severability</heading>
-      <text>The provisions of <cite path="56">this Title</cite> are declared to be separate and severable. If the Tribal Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <cite path="56">this Title</cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <cite path="56">this Title</cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or chapter of <cite path="56">this Title</cite> as adjudged to be invalid or unconstitutional.</text>
-      <annotations/>
+      <text>The provisions of <cite path="56">this title</cite> are declared to be separate and severable. If the Tribal Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <cite path="56">this title</cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <cite path="56">this title</cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or chapter of <cite path="56">this title</cite> as adjudged to be invalid or unconstitutional.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.11.010 was formerly codified as 56.1101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.1102</num>
+      <num>56.11.020</num>
       <heading>Interpretation and Applicability</heading>
       <para>
         <num>(a)</num>
-        <text>No part of <cite path="56">this Title</cite> shall be deemed to be in positive conflict with federal law as contained in the Controlled Substances Act, 21 U.S.C. section 800 <em>et seq</em>., nor to otherwise permit any activity that is prohibited under that Act or any other tribal, state or federal law, statute, rule or regulation.</text>
+        <text>No part of <cite path="56">this title</cite> shall be deemed to be in positive conflict with federal law as contained in the Controlled Substances Act, 21 U.S.C. section 800 <em>et seq</em>., nor to otherwise permit any activity that is prohibited under that Act or any other tribal, state or federal law, statute, rule or regulation.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Nothing in <cite path="56">this Title</cite> is intended, nor shall it be construed, to burden any defense to criminal prosecution otherwise afforded by tribal law.</text>
+        <text>Nothing in <cite path="56">this title</cite> is intended, nor shall it be construed, to burden any defense to criminal prosecution otherwise afforded by tribal law.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing is <cite path="56">this Title</cite> is intended, nor shall it be construed, to make legal any cultivation, transportation, sale, or other use of Marijuana that is otherwise prohibited under tribal law.</text>
+        <text>Nothing is <cite path="56">this title</cite> is intended, nor shall it be construed, to make legal any cultivation, transportation, sale, or other use of Marijuana that is otherwise prohibited under tribal law.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§56.11.020 was formerly codified as 56.1102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.1103</num>
+      <num>56.11.030</num>
       <heading>Renumbering and Re-Designation</heading>
-      <text>Authority is given to the Records Office of the Tribe to renumber, re-designate, or to cite the provisions of <cite path="56">this Title</cite> as necessary for uniformity and accessibility.</text>
-      <annotations/>
+      <text>Authority is given to the Records Office of the Tribe to renumber, re-designate, or to cite the provisions of <cite path="56">this title</cite> as necessary for uniformity and accessibility.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.11.030 was formerly codified as 56.1103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.1104</num>
+      <num>56.11.040</num>
       <heading>Effective Date</heading>
-      <text><cite path="56">This Title</cite> shall be in full force and effect immediately according to its terms upon full passage.</text>
-      <annotations/>
+      <text><cite path="56">This title</cite> shall be in full force and effect immediately according to its terms upon full passage.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.11.040 was formerly codified as 56.1104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>56.1105</num>
+      <num>56.11.050</num>
       <heading>Violations</heading>
-      <text>Any violation of <cite path="56">this Title</cite> is subject to administrative, civil, or criminal penalties, in addition to being subject to other remedies provided by law, including but not limited to injunctive relief and revocation of the Marijuana Employee License.</text>
-      <annotations/>
+      <text>Any violation of <cite path="56">this title</cite> is subject to administrative, civil, or criminal penalties, in addition to being subject to other remedies provided by law, including but not limited to injunctive relief and revocation of the Marijuana Employee License.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§56.11.050 was formerly codified as 56.1105</annotation>
+      </annotations>
     </section>
   </container>
 </container>

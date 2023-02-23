@@ -1,436 +1,464 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>39</num>
   <heading>Exclusion and Removal Code</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>39.01</num>
     <heading>General Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>39.0101</num>
+      <num>39.01.010</num>
       <heading>Purpose and Intent</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Turtle Mountain Band of Chippewa Indians, hereby finds and determines that it is necessary to provide a means whereby the  Tribe can protect itself, its members and other persons living in Indian Country within its territory and jurisdiction and all land of the Turtle Mountain Band of Chippewa Indians from people whose presence or activities are harmful to or threatens harm to the peace, health, safety, morals, political integrity, economic security and general welfare of such members and other persons.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Exclusion is necessary in order to allow the Tribe to maintain and protect the aforementioned interests of enrolled Tribal members and community members free from harm or the threat of harm, to protect the cultural identity and resources of the Tribe, and to protect those residents living within its territory and jurisdiction.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Exclusion of said individuals is further intended to preserve the peace, health, safety, morals, political integrity, economic security and general welfare of all members and other persons who may be imposed upon, harmed or otherwise disadvantaged and to clamp down on repeat of<em>fenders</em> who pose a continuing nuisance and/or threat to the people living within the territory and jurisdiction.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text><cite path="39">This Title</cite> provides notice and process to those affected by its execution.</text>
+        <num>(d)</num>
+        <text><cite path="39">This title</cite> provides notice and process to those affected by its execution.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.010 was formerly codified as 39.0101</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0102</num>
+      <num>39.01.020</num>
       <heading>Statement of Authority</heading>
       <text>The Turtle Mountain Band of Chippewa Indians has the inherent power to exclude persons from Indian Country within its territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians and is delegated the power to exclude by virtue of <cite doc="Turtle Mountain Constitution and By-laws" path="IX|4">Article IX, Section 4 of the Constitution of the Turtle Mountain Band of Chippewa Indians</cite>.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.020 was formerly codified as 39.0102</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0103</num>
+      <num>39.01.030</num>
       <heading>Reserved for Future Use</heading>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.030 was formerly codified as 39.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0104</num>
+      <num>39.01.040</num>
       <heading>Persons Subject to Exclusion and Removal</heading>
       <text>Any Tribal member or non-member may be temporarily or permanently excluded and/or removed from the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians for conduct which disturbs the peace and dignity of the community.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.040 was formerly codified as 39.0104</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0105</num>
+      <num>39.01.050</num>
       <heading>Grounds for Exclusion and Removal</heading>
       <text>A person subject to exclusion and removal as provided herein may be excluded or removed from any or all the territory and jurisdiction upon any one or more of the following grounds:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Indians and/or non-Indians dealing, transporting (or assisting in the transport of) and/or selling drugs of any kind (and any derivative forms of such drugs), including but not limited to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Methamphetamine/Crank</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Cocaine</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Crack Cocaine</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Heroin</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Prescription drugs not prescribed to the person using them</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Marijuana</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Indian or Non-Indians convicted in any jurisdiction of one or more crimes involving sexual violence (i.e., including but not limited to rape, incest, sexual abuse of a minor, etc.)</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Non-Indians who engage in habitual criminal behavior which adversely affects the peace and dignity of the Turtle Mountain Band of Chippewa Indians, conviction shall not be required, but may commence upon probable cause that crimes are alleged and have been committed in the past.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Non-Indians committing frauds, confidence games, or usury against Indian people residing or lawfully present within any or all portions of Indian Country under the jurisdiction of the Turtle Mountain Band of Chippewa Indians by inducing them to enter into grossly unconscionable contracts of any kind.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Non-Indians doing or threatening to do any act within any or all portions of Indian Country under the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians that seriously threatens the peace, health, safety, morals or general welfare of the Tribe, its members, or other persons living or lawfully.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.050 was formerly codified as 39.0105</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0106</num>
+      <num>39.01.060</num>
       <heading>Exclusion, Removal and Other Civil Penalties</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A member of the Tribe or non-member charged in Tribe, State, or Federal Court or upon a probable cause affidavit of one or more of the above offenses shall be subject to civil exclusion and removal as provided herein from Indian Country under the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians for the following periods  of time:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Indians Dealing, Transporting (or assisting in the transport of) and/or Selling Drugs of Any Kind:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>First Offense (Tribal or Federal) – warning</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Second Offense (Tribal or Federal) – three-year exclusion</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Third or further Offense (Tribal or Federal) – lifetime exclusion</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Non-Indians Dealing, Transporting (or assisting in the transport of) and/or Selling Drugs of Any Kind:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>First Offense (Tribal or Federal) –three-year exclusion.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Second or further Offense (Tribal or Federal) – lifetime exclusion.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Other Non-Drug-Related Grounds for Removal of Non-Indians Only:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>First Offense –Six Month Exclusion</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Second Offense - One Year Exclusion</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Third and subsequent Offenses – Five Year Exclusion for each offense</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Indians and/or Non-Indians Convicted of Repeated Sex Crimes:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>First Offense –One Year Exclusion</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Second and subsequent Offense – One Year Exclusion to lifetime exclusion</text>
           </para>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Non-Indians who are habitually criminal and disturb the peace and dignity of the territory and jurisdiction of the Tribe.</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>First Offense (Tribal or Federal) –three-year exclusion.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Second or further Offense (Tribal or Federal) – lifetime exclusion.</text>
           </para>
         </para>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.060 was formerly codified as 39.0106</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0107</num>
+      <num>39.01.070</num>
       <heading>Proceedings for Exclusion and Removal</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Tribal Member Complaint. Upon complaint of the Exclusion Ordinance Board, any member of the Tribe, or other person lawfully residing in the territory and jurisdiction.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Chairman may determine whether the accused person has committed any of the aforementioned actions constituting grounds for exclusion and removal and whether or not the removal and/or exclusion of such person is to be ordered.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>Such proceedings shall be conducted as provided herein.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>Exclusion and/or removal may be affected only upon an order of the Tribal Chairman.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.070 was formerly codified as 39.0107</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0108</num>
+      <num>39.01.080</num>
       <heading>Formation and Appointment of the Exclusion Board</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribal Council of the Turtle Mountain Band of Chippewa Indians hereby creates an Exclusion Board.  Such Board shall consist of five Tribal members to be appointed by the Tribal Council.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Board members shall serve staggered four-year terms. In order to establish staggered terms, the Tribal Council shall initially designate two Board members to serve two-year terms and three Board members to serve four-year terms. The Exclusion Board shall meet at least quarterly to review convictions requiring exclusion as a penalty.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The sole function of the Exclusion Board shall be to investigate and make recommendations to the Tribal Chairman regarding convictions requiring exclusion as a penalty.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.080 was formerly codified as 39.0108</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0109</num>
+      <num>39.01.090</num>
       <heading>Authority of the Exclusion Board</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Exclusion Board is authorized to create policies and procedures to utilize to investigate convictions requiring exclusion as a penalty as provided herein, and to enforce all provisions of this Exclusion Ordinance.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Nothing herein shall be construed to limit the authority of the Tribal Court, upon its own initiative or upon motion by the Tribal Prosecutor, to issue an Exclusion Order under other existing provisions of Tribal law.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.090 was formerly codified as 39.0109</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0110</num>
+      <num>39.01.100</num>
       <heading>Administrative Hearing on Exclusion and Removal in Non-Emergency Situations</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>In non-emergency cases of exclusion and/or removal, the Exclusion Board shall cause to be served upon the offending person a copy of the Petition and Notice of Hearing by personal service, or if such service is not reasonably possible, by registered mail, return receipt requested, to the last known address of such person. Such Notice shall contain:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>the date and time of the administrative pre-exclusion hearing,</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>hearing shall be not less than three days from the date of service, and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>shall further inform the person that he or she may appear with counsel at his or her own expense and present evidence in his or her own behalf.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(b)</num>
         <text>The administrative pre-exclusion hearing on a proposed exclusion and/or removal may be held at a regular session of the Exclusion Board.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(c)</num>
         <text>The Exclusion Board shall hear the evidence presented, and if appropriate, recommend the exclusion and/or removal of the person to the Tribal Chairman. If the person is not present at such hearing, or if a decision thereon is not rendered until after the hearing, appropriate notice shall be served on the person in the manner provided above, informing him of the action of the Tribal Chairman. Such notice shall include a copy of any recommendation made by the Exclusion Board to the Tribal Chairman for exclusion and/or removal that affects such person.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.100 was formerly codified as 39.0110</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0111</num>
+      <num>39.01.110</num>
       <heading>Emergency Exclusion and Removal Without Prior Hearing</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Whenever the Tribal Council finds that there is an immediate need to order the exclusion and/or removal of a person from any or all portions of  Indian Country under the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians and that the granting of notice and opportunity to be heard to such person prior to making such order would cause a delay seriously  detrimental to the interests of the Tribe, its members, or the other persons resident in or on any or all portions of Indian Country under the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians on all land  on the Turtle Mountain Indian Reservation the Tribal Chairman is hereby empowered to immediately order such exclusion and/or removal and provide for post-exclusion Notice and opportunity for review of such decision as outlined below.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Whenever the exclusion and/or removal of a person is ordered without a prior hearing as provided herein, the person shall be served with a Notice of such action. Such notice</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Shall state the nature and extent of the exclusion and/or removal so ordered,</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Shall state the reasons why no prior hearing was held,</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Shall inform the person that once he or she has complied with the order he or she may immediately petition the Exclusion Board for a hearing to reconsider the Exclusion Order.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>That he or she may be represented by counsel at such hearing at his or her own expense and present evidence in his or her own defense, and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Shall inform him that his or her compliance with such Exclusion Order to be enforced by Tribal or other police officers given the responsibility to do so.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>A copy of the Exclusion Order shall be served with the Notice upon the person to be excluded and such service may be accomplished by personal service or, if personal service is not reasonably possible, by mailing to the person by United States registered mail, return receipt requested, to his or her last known address.</text>
         </para>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(c)</num>
         <text>Upon receipt of a petition for a hearing, the Exclusion Board shall schedule an administrative hearing to allow the person to present evidence. Such hearing shall be held within two weeks of receipt of the Petition for Removal, provided, however, that except for purposes of attending this hearing, the Exclusion and/or Removal Order shall remain in full force and effect pending the reconsideration hearing and a decision thereon.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(d)</num>
         <text>After such hearing, the Exclusion Board shall recommend to the Tribal Chairman to affirm, modify or rescind his or her previous Exclusion Order. If the decision is not rendered thereon until after the hearing, the Exclusion Ordinance Board shall give the person written Notice of such decision in the same manner as provided above for service of the Notice.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.110 was formerly codified as 39.0111</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0112</num>
+      <num>39.01.120</num>
       <heading>Orders of Exclusion and Removal Shall Not Be Subject to Judicial Review</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>After an administrative hearing has been held thereon before the Exclusion Board, the decision of the Tribal Chairman shall be final with respect to Exclusion and/or Removal Orders.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All emergency Exclusion and/or Removal Orders shall remain in full force and effect during periods of hearing by the Exclusion Board or review by the Tribal Chairman.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.120 was formerly codified as 39.0112</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0113</num>
+      <num>39.01.130</num>
       <heading>Enforcement of Exclusion And/Or Removal Orders</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All law enforcement officers of the Turtle Mountain Band of Chippewa Indians and the United States Government are hereby empowered to carry into effect any Exclusion and/or Removal Order of the Tribal Chairman according to the terms of such Exclusion Order.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A violation of any Exclusion or Removal Order shall constitute a charge of Civil Contempt enforceable in the Turtle Mountain Tribal Court.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The harboring of a person duly excluded and/or removed from the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians shall be added as a crime appropriately to the Turtle Mountain Tribal Code.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The names of any and all excluded and/or removed persons shall be published in the local newspapers.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Turtle Mountain Band of Chippewa Indians reserves the right to suspend the Tribal membership of any member excluded and/or removed under this Ordinance so that such individual becomes ineligible for any and all Tribal and/or federal benefits associated with Tribal membership during the period of exclusion and/or removal.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>In the event the Turtle Mountain Band of Chippewa Indians notifies the Enrollment Office of the Bureau of Indian Affairs that it wishes to exercise its right to suspend the Tribal membership of any member excluded and/or removed under this exclusion Ordinance, the Turtle Mountain Band of Chippewa Indians will instruct a Tribal official to provide Notice of such exclusion and/or removal to the Enrollment Office of the Bureau of Indian Affairs. Such Notice shall include a copy of the excluded individual's Exclusion and/or Removal Order. Once such Tribal official has provided Notice of such exclusion and/or removal to the Enrollment Office of the Bureau of Indian Affairs, such Tribal official shall instruct the Enrollment Office to affix a notation to the enrollment record of such member to the effect that the individual's Tribal enrollment has been suspended for the period stated in the Exclusion and/or Removal Order.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.130 was formerly codified as 39.0113</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0114</num>
+      <num>39.01.140</num>
       <heading>Civil Burden of Proof</heading>
       <text>This law is civil in construction and the burden of proof shall be a preponderance of the evidence.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.140 was formerly codified as 39.0114</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0115</num>
+      <num>39.01.150</num>
       <heading>No Double Jeopardy</heading>
       <text>This law is civil in nature and not punitive and as such is not subject to double jeopardy considerations. See, <em>Smith v. Doe</em>, 538 U.S. 105-106 (2003), and <em>North Dakota v. Meador</em>, 785 N.W.2d 886 (N.D. 2010). (</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.150 was formerly codified as 39.0115</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0116</num>
+      <num>39.01.160</num>
       <heading>Incorporation into Tribal Code</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Tribal Records Department of the Turtle Mountain Band of Chippewa Indians is hereby empowered to incorporate this Exclusion Ordinance into the appropriate portion of the Turtle Mountain Tribal Code.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Once such Exclusion is incorporated into the Turtle Mountain Tribal Code, the Tribal Records Department shall cause the placement of such Exclusion to be published for citation purposes.</text>
       </para>
       <text>(</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.160 was formerly codified as 39.0116</annotation>
       </annotations>
     </section>
     <section>
-      <num>39.0117</num>
+      <num>39.01.170</num>
       <heading>Interpretation</heading>
       <text>In the interpretation and application of the provisions of this article, said provisions shall be held to the minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other power or authority of the Tribe.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.170 was formerly codified as 39.0117</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0118</num>
+      <num>39.01.180</num>
       <heading>Severability</heading>
       <text>If any section, provision, or portion of this article is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this article shall not be affected thereby. The Tribe declares there is no lability on the part of the Tribe, its agencies, or employees that may occur as a result of reliance upon the conformance with this article.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.180 was formerly codified as 39.0118</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0119</num>
+      <num>39.01.190</num>
       <heading>Sovereign Immunity</heading>
       <text>This article shall not be construed as a waiver, limited or otherwise, of the Tribe's sovereign immunity.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.190 was formerly codified as 39.0119</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0120</num>
+      <num>39.01.200</num>
       <heading>Applicability</heading>
       <text>The policies in this article shall apply to all members and employees of the Tribe, all activities on lands owned by the Tribe or held in trust by the United States for the benefit of the Tribe, all individuals occupying Tribal lands, and all lands owned in fee by the Tribe or a member of the Tribe within the boundaries of the Tribe's Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.200 was formerly codified as 39.0120</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0121</num>
+      <num>39.01.210</num>
       <heading>Budgeting of Funds</heading>
-      <text>The Tribe shall budget funds to effectuate the enforcement of <cite path="39">this Title</cite> and shall seek grants and foundation funding.</text>
-      <annotations/>
+      <text>The Tribe shall budget funds to effectuate the enforcement of <cite path="39">this title</cite> and shall seek grants and foundation funding.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§39.01.210 was formerly codified as 39.0121</annotation>
+      </annotations>
     </section>
     <section>
-      <num>39.0122</num>
+      <num>39.01.220</num>
       <heading>Repeal of Inconsistent Provisions</heading>
-      <text>Upon adoption any existing laws, rules, resolutions, and policies which are inconsistent with <cite path="39">this Title</cite> are hereby repealed.</text>
+      <text>Upon adoption any existing laws, rules, resolutions, and policies which are inconsistent with <cite path="39">this title</cite> are hereby repealed.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 855-03-20"/>
+        <annotation type="Prior Codifications">§39.01.220 was formerly codified as 39.0122</annotation>
       </annotations>
     </section>
   </container>

@@ -1,126 +1,150 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>20</num>
   <heading>Recreational Development Authority</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>20.01</num>
     <heading>Purpose</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>20.0101</num>
+      <num>20.01.010</num>
       <heading>Purpose</heading>
       <text>The Authority is created and established to operate, manage, maintain and carry out all of the responsibilities, obligations, and privileges, of the Turtle Mountain Band of Chippewa Indians in respect to the Recreational Development of Tribal owned or leased land on the Turtle Mountain Indian Reservation.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.01.010 was formerly codified as 20.0101</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>20.02</num>
     <heading>Organization</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>20.0201</num>
+      <num>20.02.010</num>
       <heading>Management of Authority and Appointment of Board Members</heading>
       <text>The affairs of the Turtle Mountain Recreational Development Authority shall be managed by a seven (7) member Board of Commissioners composed of persons appointed by the Tribal Council of the Turtle Mountain Band of Chippewa Indians.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.010 was formerly codified as 20.0201</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0202</num>
+      <num>20.02.020</num>
       <heading>Composition and Terms of Original Board of Commissioners</heading>
       <text>The term of office of the Board members appointed at the expiration of each regular term shall be six (6) years.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.020 was formerly codified as 20.0202</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0203</num>
+      <num>20.02.030</num>
       <heading>Terms of Board Members After Original Board</heading>
       <text>The term of office of the Board members appointed at the expiration of each regular term shall be six (6) years.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.030 was formerly codified as 20.0203</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0204</num>
+      <num>20.02.040</num>
       <heading>Officers of Board of Commissioners</heading>
       <text>The officers of the Board shall be a Chairman, a Vice-Chairman and a Secretary-Treasurer elected by the members of the Board at their first meeting. The Tribal Council appoints new members each year in September of each odd numbered year.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.040 was formerly codified as 20.0204</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0105</num>
+      <num>20.02.050</num>
       <heading>Compensation and Reimbursement of Board Members</heading>
       <text>The Board members shall receive compensation for their services, as established by the Board, and may be entitled to reimbursement, as established by the Tribal Council, for expenses, including traveling expenses if any incurred in the discharge of their Authority duties. All Board members authorized to handle funds shall be bonded to the Tribal Council in the amount of five thousand dollars ($5,000).</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.050 was formerly codified as 20.0105</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0206</num>
+      <num>20.02.060</num>
       <heading>Quorum Required for Transaction of Business</heading>
       <text>Four (4) members of the Board shall constitute a quorum for the transaction of Authority business.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.060 was formerly codified as 20.0206</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0207</num>
+      <num>20.02.070</num>
       <heading>Duties of the Secretary-Treasurer</heading>
       <text>The Secretary-Treasurer of the Board shall keep complete and accurate records of all meetings and action taken by the Board, and shall keep full and accurate financial records, and make quarterly reports to the Board and to the Tribal Council, and submit a yearly audit by a public accountant to the Tribal Council.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.070 was formerly codified as 20.0207</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0208</num>
+      <num>20.02.080</num>
       <heading>Authority of Board</heading>
       <text>The Board shall have authority to exercise, by majority vote of those present and voting, any and all powers delegated to the Authority pursuant to Provision III below.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.080 was formerly codified as 20.0208</annotation>
+      </annotations>
     </section>
     <section>
-      <num>20.0209</num>
+      <num>20.02.090</num>
       <heading>Meetings; Who to Call and When</heading>
       <text>Meetings of the Board shall be held as the Authority business warrants, and upon call of the Chairman of the Board. The Board shall meet at least every three (3) months in any event.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.02.090 was formerly codified as 20.0209</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>20.03</num>
     <heading>Powers</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>20.0301</num>
+      <num>20.03.010</num>
       <heading>Powers</heading>
       <text>The Authority shall have the following powers, which it may exercise through its Board of Commissioners, consistent with the purposes for which the Authority is established:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, State, or local including the Tribal Council of the Turtle Mountain Band of Chippewa Indians or with any person, partnership, corporation or Indian Tribe, and to agree with any conditions attached to Federal financial assistance consistent with the purposes of such authority as described herein.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>To take whatever steps it deems necessary to manage, operate, and maintain the buildings, and the realty on which said buildings are situated, and to institute, operate, manage and conduct recreational enterprises on the Turtle Mountain Indian Reservation.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>To enter into and execute long-term leases, as lessee, with the Turtle Mountain Band of Chippewa Indians or Bureau of Indian Affairs, or individual owners, as lessor, covering any realty located on the Turtle Mountain Indian Reservation, or other Tribal-owned lands.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>To hold, manage, and to rent or sublet, all or any part of the space of buildings or realty under their control, and to establish such rules and regulations concerning the rental, subletting, and use of all or any part of the buildings or realty leased.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>To execute mortgages of leasehold interests created pursuant to Subsection (c) above, and to offer said mortgages of the leasehold interests to any Federal agency, or other lender as security for loan funds obtained from any Federal agency, or other lender in the financing of Recreational Development projects.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>To maintain accounts in any National or State Bank in North Dakota for any Recreational Developments, and any other income derived from the use of the buildings or realty shall be deposited intact to the same bank accounts. All disbursements therefrom, including the monthly installment payments to the Federal agencies or other lenders to repay loans, shall be paid out of the aforesaid bank accounts by check or checks signed by the Chairman and the Secretary-Treasurer of the Board.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>To carry out all the obligations, and to protect all the interests of the Turtle Mountain Band of Chippewa Indians in and to the provisions of all contracts and agreements hereafter executed by the Tribal Council of the said Tribe concerning the Recreational Development projects.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.03.010 was formerly codified as 20.0301</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>20.04</num>
     <heading>Dissolution</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>20.0401</num>
+      <num>20.04.010</num>
       <heading>Dissolution</heading>
       <text>The Authority shall not be dissolved for a period of fifty (50) years, or until such time as the mortgages of the leasehold interests executed pursuant to Provision III(e) have been satisfied in full, or until such time as any loans executed pursuant to Provision II(c) have expired.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§20.04.010 was formerly codified as 20.0401</annotation>
+      </annotations>
     </section>
   </container>
 </container>

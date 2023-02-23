@@ -1,1311 +1,1383 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
-  <prefix>Title</prefix>
   <num>51</num>
   <heading>Hemp Code</heading>
+  <prefix>Title</prefix>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.01</num>
     <heading>General Provisions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0101</num>
+      <num>51.01.010</num>
       <heading>Findings</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Turtle Mountain Tribal Council hereby finds and declares that:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Hemp is a valuable agricultural crop</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text><cite path="51">This Title</cite> will protect the health, safety, and welfare of the Tribe by becoming the primary regulatory authority over the production and processing of hemp within the Tribe's jurisdiction;</text>
+          <num>(2)</num>
+          <text><cite path="51">This title</cite> will protect the health, safety, and welfare of the Tribe by becoming the primary regulatory authority over the production and processing of hemp within the Tribe's jurisdiction;</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>The adoption of <cite path="51">this Title</cite> is in the Tribe's best interest; and</text>
+          <num>(3)</num>
+          <text>The adoption of <cite path="51">this title</cite> is in the Tribe's best interest; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Agriculture Improvement Act of 2018 (commonly known as the 2018 Farm Bill) allows for the growth and processing of hemp, subject to regulations, so long as the hemp has a THC concentration of less than the acceptable hemp THC level; and</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>The Tribe has sufficient resources and personnel to carry out the practices and procedures described in <cite path="51">this Title</cite>.</text>
+          <num>(5)</num>
+          <text>The Tribe has sufficient resources and personnel to carry out the practices and procedures described in <cite path="51">this title</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.01.010 was formerly codified as 51.0101</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0102</num>
+      <num>51.01.020</num>
       <heading>Policy and Purpose</heading>
       <para>
-        <num>(1)</num>
-        <text><cite path="51">This Title</cite> establishes the requirements for the licensing, cultivation and processing of hemp. The purposes of this Plan are to:</text>
+        <num>(a)</num>
+        <text><cite path="51">This title</cite> establishes the requirements for the licensing, cultivation and processing of hemp. The purposes of this Plan are to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Promote the production of hemp, and the development of new commercial markets for farmers and business through the sale of hemp products;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Promote the creation of the Tribe's hemp industry to the maximum extent permitted by law; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Regulate hemp as an agricultural commodity in compliance with Federal law.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.01.020 was formerly codified as 51.0102</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0103</num>
+      <num>51.01.030</num>
       <heading>Compliance with Federal Law</heading>
-      <text>Nothing in <cite path="51">this Title</cite> authorizes any Person to violate any Federal Law or regulation.</text>
-      <annotations/>
+      <text>Nothing in <cite path="51">this title</cite> authorizes any Person to violate any Federal Law or regulation.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§51.01.030 was formerly codified as 51.0103</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0104</num>
+      <num>51.01.040</num>
       <heading>Sovereign Immunity Preserved</heading>
-      <text>Nothing in <cite path="51">this Title</cite> shall be interpreted as a waiver of the Turtle Mountain Band of Chippewa Indians sovereign immunity from unconsented lawsuit, or as authorization for claim for money damages against the Tribe.</text>
-      <annotations/>
+      <text>Nothing in <cite path="51">this title</cite> shall be interpreted as a waiver of the Turtle Mountain Band of Chippewa Indians sovereign immunity from unconsented lawsuit, or as authorization for claim for money damages against the Tribe.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§51.01.040 was formerly codified as 51.0104</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0105</num>
+      <num>51.01.050</num>
       <heading>Jurisdiction</heading>
-      <text>All applicants and license holders acknowledge and agree that, by submitting a License Application under <cite path="51">this Title</cite>, the applicant or Licensee submits to the jurisdiction of the Tribe and Tribal Court.</text>
-      <annotations/>
+      <text>All applicants and license holders acknowledge and agree that, by submitting a License Application under <cite path="51">this title</cite>, the applicant or Licensee submits to the jurisdiction of the Tribe and Tribal Court.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§51.01.050 was formerly codified as 51.0105</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.02</num>
     <heading>Definitions</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0201</num>
+      <num>51.02.010</num>
       <heading>Definitions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>"Acceptable Hemp THC level" means when the application of the measurement of uncertainty to the reported delta-9 tetrahydrocannabinol content concentration level on a dry weight basis for a hemp sample produces a distribution or range that includes 0.3% or less.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>"Applicant" means a person, or a person who is authorized to sign for a business entity, who submits an application under <cite path="51">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>"Applicant" means a person, or a person who is authorized to sign for a business entity, who submits an application under <cite path="51">this title</cite>.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>"Building" means any single standing structure with walls and a roof but shall not include separate structures connected by corridor or breezeways.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>"Commission" means the Tribal Hemp Regulatory Commission, a regulatory arm of the Tribal government.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>"Contiguous field" means any contiguous tract of land used for the cultivation of hemp and may include contiguous tracts of land occasionally intersected by roads, streams or other natural features but shall not include a tract or tracts of land intersected by property owned by a third party or gaps in the cultivation of hemp exceeding one quarter of a mile.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>"Commercial Sales" means the sale of a product in the stream of commerce at retail or at wholesale, including sales on the Internet.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(g)</num>
         <text>"Constitution" means the <cite doc="Turtle Mountain Constitution and By-laws">Constitution of the Turtle Mountain Band of Chippewa Indians</cite><strong>.</strong></text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(h)</num>
         <text>"Cultivate" means to plant, water, grow, or harvest a plant or crop.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(i)</num>
         <text>"Cultivation site" means the contiguous field, building, or other area hemp may be lawfully cultivated.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(j)</num>
         <text>"Culpable mental state greater than negligence" means to act intentionally, knowingly, willfully, recklessly, or with criminal negligence.</text>
       </para>
       <para>
-        <num>(11)</num>
-        <text>"Disqualifying drug conviction" means a conviction related to a controlled substance that is either a felony under state or federal law or equivalent to a Schedule 5 offense under Title 26 Offenses and Penalties of the Turtle Mountain Band of Chippewa Indians Tribal Code that occurred before, on or after the enactment of the 2018 Farm Bill and which disqualifies an individual from obtaining a License under <cite path="51">this Title</cite> for ten (10) years following the date of the conviction.  An exception applies to a person who was lawfully growing hemp under the 2014 Farm Bill before December 20, 2018 and whose conviction also occurred before that date.</text>
+        <num>(k)</num>
+        <text>"Disqualifying drug conviction" means a conviction related to a controlled substance that is either a felony under state or federal law or equivalent to a Schedule 5 offense under Title 26 Offenses and Penalties of the Turtle Mountain Band of Chippewa Indians Tribal Code that occurred before, on or after the enactment of the 2018 Farm Bill and which disqualifies an individual from obtaining a License under <cite path="51">this title</cite> for ten (10) years following the date of the conviction.  An exception applies to a person who was lawfully growing hemp under the 2014 Farm Bill before December 20, 2018 and whose conviction also occurred before that date.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(l)</num>
         <text>"FSA" means the USDA Farm Service Agency.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(m)</num>
         <text>"GPS" means global positioning system.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(n)</num>
         <text>"Handling" means processing or storing hemp plants for any period of time on premises owned, operated, or controlled by a person licensed to cultivate or process hemp. "Handling" also includes possessing or storing hemp in a vehicle for any period of time other than during its actual transport from the premises of a licensed person to cultivate or process industrial hemp to the premises of another licensed person. "Handling" does not mean possessing or storing finished hemp products.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(o)</num>
         <text>"Health Department" means the Tribe's Health Department.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(p)</num>
         <text>"Hemp" means the plant <em>Cannabis sativa  L</em>., and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a THC concentration of not more than three tenths of one percent (.3%) on a dry weight basis, or as otherwise defined in Federal law, whichever is greater.</text>
       </para>
       <para>
-        <num>(17)</num>
-        <text>"Hemp processing facility" means any building where hemp plants may be lawfully processed under <cite path="51">this Title</cite>.</text>
+        <num>(q)</num>
+        <text>"Hemp processing facility" means any building where hemp plants may be lawfully processed under <cite path="51">this title</cite>.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(r)</num>
         <text>"Hemp Regulatory Officer" means the Officer of the Hemp Regulatory Commission.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(s)</num>
         <text>"Jurisdiction" means the Tribe's jurisdiction as defined in Article II of the Constitution. The Tribe hereby asserts jurisdiction over any cultivation site on fee land within the Tribe's Reservation boundaries.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(t)</num>
         <text>"Key Participant" means the individual applying for or holding a Hemp Production License, and any owners, directors, subcontractors, or other persons who have a direct or indirect interest in the entity producing hemp.</text>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(u)</num>
         <text>"Licensee" means any person or corporation possessing a license issued by the Commission to participate in hemp production or processing within the Tribe's jurisdiction.</text>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(v)</num>
         <text>"Negligence" means the failure to exercise the standard of care that a reasonably prudent person would have exercised in a similar situation.</text>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(w)</num>
         <text>"Process" means to covert an agricultural commodity into marketable form using any manner of mechanical, chemical, or other processing technique.</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(x)</num>
         <text>"Produce" means to grow or cultivate hemp within the Tribe's jurisdiction.</text>
       </para>
       <para>
-        <num>(25)</num>
+        <num>(y)</num>
         <text>"Subcontractor" means a person or business entity that has contracted with a Licensee and provides supplies, labor, land, or expertise related to the Licensee's license.</text>
       </para>
       <para>
-        <num>(26)</num>
+        <num>(z)</num>
         <text>"THC" means delta-9 tetrahydrocannabinol measured post decarboxylation.</text>
       </para>
       <para>
-        <num>(27)</num>
+        <num>(aa)</num>
         <text>"Tribe" means the Turtle Mountain Band of Chippewa Indians.</text>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(bb)</num>
         <text>"USDA" means the United States Department of Agriculture.</text>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(cc)</num>
         <text>"Variety" means a group of plants or an individual plant that exhibits distinctive observable physical characteristic(s) or has a distinct genetic composition.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.02.010 was formerly codified as 51.0201</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.03</num>
     <heading>Creation of the Hemp Regulatory Commission</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0301</num>
+      <num>51.03.010</num>
       <heading>Hemp Regulatory Officer Appointment</heading>
       <text>The Tribal Council shall appoint a Hemp Regulatory Officer, who shall be the chief administrative officer of the Hemp Regulatory Commission. The Hemp Regulatory Officer shall be selected on the basis of administrative ability and general knowledge of tribal agriculture and hemp production.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.03.010 was formerly codified as 51.0301</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0302</num>
+      <num>51.03.020</num>
       <heading>Powers and Duties of the Hemp Regulatory Officer</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Hemp Regulatory Officer shall have the authority to appoint and manage a reasonable staff as required to carry out the powers and duties of the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>In addition to any other powers and duties set forth in <cite path="51">this Title</cite>, the Hemp Regulatory Officer shall supervise and control all activities, functions, and employees of the Commission and shall oversee the enforcement of the provisions of <cite path="51">this Title</cite>, including any rules and regulations promulgated by the Commission.</text>
+        <num>(b)</num>
+        <text>In addition to any other powers and duties set forth in <cite path="51">this title</cite>, the Hemp Regulatory Officer shall supervise and control all activities, functions, and employees of the Commission and shall oversee the enforcement of the provisions of <cite path="51">this title</cite>, including any rules and regulations promulgated by the Commission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.03.020 was formerly codified as 51.0302</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0303</num>
+      <num>51.03.030</num>
       <heading>General Powers of the Hemp Regulatory Commission</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Hemp Regulatory Commission shall have the following powers to regulate hemp production and processing within the Tribe's jurisdiction:</text>
         <para>
-          <num>(a)</num>
-          <text>Promulgate implementing regulations for <cite path="51">this Title</cite> as is necessary and appropriate;</text>
+          <num>(1)</num>
+          <text>Promulgate implementing regulations for <cite path="51">this title</cite> as is necessary and appropriate;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Set the policies and procedures and establish and collect license and testing fees for all hemp production and processing;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Modify, adapt, or amend such policies and procedures as necessary, to keep them in line with best industry practices and procedures as well as applicable Tribal, state, or federal law;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Review applications and issue licenses for hemp cultivation and processing;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Conduct (or cause to be conducted) the sampling, testing, and inspection of industrial hemp fields and industrial hemp handling facilities, including places where hemp is grown, stored, processed, or handled;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Conduct (or cause to be conducted) the inspection of hemp processing facilities to ensure compliance with all applicable construction, workplace safety, or food handling laws, regulations, or requirements;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Conduct (or cause to be conducted) record audits of industrial hemp Licensees;</text>
         </para>
         <para>
-          <num>(h)</num>
-          <text>Produce and maintain all forms for application, registration, reporting, or other activity required under <cite path="51">this Title</cite>, Commission policy, or regulations promulgated under <cite path="51">this Title</cite>;</text>
+          <num>(8)</num>
+          <text>Produce and maintain all forms for application, registration, reporting, or other activity required under <cite path="51">this title</cite>, Commission policy, or regulations promulgated under <cite path="51">this title</cite>;</text>
         </para>
         <para>
-          <num>(i)</num>
-          <text>Set administrative procedures for and impose appropriate corrective action for violations of <cite path="51">this Title</cite>; and</text>
+          <num>(9)</num>
+          <text>Set administrative procedures for and impose appropriate corrective action for violations of <cite path="51">this title</cite>; and</text>
         </para>
         <para>
-          <num>(j)</num>
-          <text>Advise the Chairman and Tribal Council and make recommendations pertaining to hemp production or processing on the Reservation and annual budgets required to accomplish the purposes of <cite path="51">this Title</cite>.</text>
+          <num>(10)</num>
+          <text>Advise the Chairman and Tribal Council and make recommendations pertaining to hemp production or processing on the Reservation and annual budgets required to accomplish the purposes of <cite path="51">this title</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.03.030 was formerly codified as 51.0303</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.04</num>
     <heading>License Application</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0401</num>
+      <num>51.04.010</num>
       <heading>General Procedures for a Hemp License Application</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Any person or individual holding more than ten percent of the equity interest in an entity that desires to produce or process hemp within the Tribe's jurisdiction must have a valid Hemp Production License and or Hemp Processing License from the Commission prior to engaging in any such activity. A valid license means the license is unexpired, unsuspended, and unrevoked. Any person who does not hold a valid license from the Commission shall not engage in hemp production or processing within the Tribe's jurisdiction. If an Applicant wishes to engage in both hemp production and processing activities, the applicant must obtain a Hemp Production License and Hemp Processing License.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Any person who wishes to produce or process hemp within the Tribe's jurisdiction, including, but not limited to, employees and contractors, shall submit a complete license application to the Tribe annually. An applicant must be at least eighteen years of age to be eligible to receive a license.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>An applicant must submit a complete Hemp Production License Application or Hemp Processing License Application, on the form designated by the Commission, to the Commission. All applications must be complete in every material detail. All applications must include all attachments or supplemental information required by the current forms supplied by the Commission. The application and attached materials will become the property of the Commission upon submission.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.04.010 was formerly codified as 51.0401</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0402</num>
+      <num>51.04.020</num>
       <heading>Hemp Production License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>An applicant for a Hemp Production License shall submit, at a minimum, his or her full name, mailing address, telephone number, and email address. If the applicant represents a business entity, the applicant shall submit the full name of the business, the jurisdiction of formation, the principal business address, the full name of the person who will have the power to bind the entity, his or her phone number and email address, and the employer identification number ("EIN") of the business. The applicant must also submit the legal description of the area where hemp will be produced.  The Commission may require additional information for licensure, as the Commission deems necessary. Any application that is missing required information shall be denied.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All Hemp Production License applicants must provide the Commission with a complete criminal history report for all key participants in the entity producing hemp on a form determined by the Commission. Any applicant may be required to establish his or her identity and age by official documents. Applicants may be required to sign an authorization to release information as prescribed by the Tribe. All applicants shall undergo and pay for an annual criminal background check.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A license modification is required if there is any change to the information submitted in the application including, but not limited to, sale of a business, production of hemp in a new location, or a change in the key participants producing under a license.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A license will not be issued unless:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The application submitted for Commission review is complete and accurate;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The criminal history report(s) confirm that all key participants covered by the license have not had disqualifying drug conviction under state, Tribal, or federal law in the last ten (10) years;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The application contains no materially false statements or misrepresentations and the applicant has not previously submitted an application with any materially false statements or misrepresentations; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The applicant is currently in good standing with the Commission.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Grounds for denial of application. The Commission may consider certain factors when determining whether to accept or deny a license application, these factors include, but are not limited to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Whether the Licensee or any owner, director, manager, or subcontractor has a disqualifying drug conviction;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Licensee materially falsified information on the;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Any prior administrative actions taken by the Commission against the Licensee; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Any other reasonable factor.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.04.020 was formerly codified as 51.0402</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0403</num>
+      <num>51.04.030</num>
       <heading>Hemp Processing License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>An applicant for a Hemp Processing License shall submit, at a minimum, his or her full name, mailing address, telephone number, and email address. If the applicant represents a business entity, the applicant shall submit the full name of the business, the jurisdiction of formation, the principal business address, the full name of the person who will have the power to bind the entity, his or her phone number and email address, and the employer identification number ("EIN") of the business. The applicant must also submit the legal description of the land on which the hemp processing facility will be located and a basic building plan of the entire hemp processing facility, including any storage facilities. The Commission may require additional information for licensure, as the Commission deems necessary. Any application that is missing required information shall be denied.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>An applicant for a Hemp Processing License will not be required to submit a criminal history report, unless requested by the Commission to do so. The applicant shall submit a signed affidavit for all key participants stating that he or she does not currently have any disqualifying drug convictions as defined in 2.01(11) of <cite path="51">this Title</cite> and shall immediately report any such convictions to the Commission.</text>
+        <num>(b)</num>
+        <text>An applicant for a Hemp Processing License will not be required to submit a criminal history report, unless requested by the Commission to do so. The applicant shall submit a signed affidavit for all key participants stating that he or she does not currently have any disqualifying drug convictions as defined in 2.01(11) of <cite path="51">this title</cite> and shall immediately report any such convictions to the Commission.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A license modification is required if there is any change to the information submitted in the application including, but not limited to, sale of a business, a change in location for the hemp processing facility, or a change in the key participants producing under a license.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A license will not be issued unless:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The application submitted for Commission review is complete and accurate;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The application contains no materially false statements or misrepresentations and the applicant has not previously submitted an application with any materially false statements or misrepresentations; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The applicant is currently in good standing with the Commission.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Grounds for denial of application. The Commission may consider certain factors when determining whether to accept or deny a license application, these factors include, but are not limited to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Whether the Licensee or any owner, director, manager, or subcontractor has a disqualifying drug conviction;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Licensee materially falsified information on the License Application;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Any prior administrative actions taken by the Commission against the Licensee; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Any other reasonable factor.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.04.030 was formerly codified as 51.0403</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0404</num>
+      <num>51.04.040</num>
       <heading>Issuance of a Hemp Production License or Hemp Processing License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall apply the same standard of scrutiny to each license application and shall not deny an application without good cause.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall notify the applicant of the application's acceptance or denial by email or letter within a reasonable amount of time:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the application is approved, a license will be issued.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>If the application is denied, the Commission shall provide the applicant with an explanation as to why the application was denied.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Commission shall retain all information collected through the license application for a period of at least three (3) calendar years.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.04.040 was formerly codified as 51.0404</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0405</num>
+      <num>51.04.050</num>
       <heading>Fees</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>In addition to submitting a Hemp Production or Hemp Processing License Application, each applicant shall submit any application fee(s) set by the Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The n may set and collect reasonable additional fees, including license, renewal, and testing fees in amounts that are reasonable and necessary to cover the costs of administering and enforcing <cite path="51">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>The n may set and collect reasonable additional fees, including license, renewal, and testing fees in amounts that are reasonable and necessary to cover the costs of administering and enforcing <cite path="51">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.04.050 was formerly codified as 51.0405</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.05</num>
     <heading>Hemp Production License and Hemp Processing License</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0501</num>
+      <num>51.05.010</num>
       <heading>Hemp Licenses Generally</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall assign each Hemp Production License and Hemp Processing License a license or authorization identifier in the format prescribed by the USDA.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A Hemp Production License and Hemp Production License must be renewed annually at a time determined by the Commission. To renew a License, the Licensee must submit a License Renewal Application, on a form determined by the Commission.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All Licenses issued under <cite path="51">this title</cite> shall not be assigned or transferred. An individual seeking to obtain a Hemp Production License or Hemp Processing License may only submit an application on his or her behalf. The applicant shall not submit an application to act as a stand in for another individual who is ineligible to receive a license. If the Commission determines that an individual submitted an application for the purpose of acting as a stand in, the Commission shall immediately deny the application or revoke the license and may take any further action as the Commission deems appropriate.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission may revoke a Hemp Production License if the Licensee:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Pleads guilty to or is convicted of any felony under state or federal law or schedule 5 offense under Tribal law related to a controlled substance; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Makes any materially false statement in any application, report, or inspection to Commission staff members or the USDA; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Is found to be growing cannabis exceeding the acceptable hemp THC level with a culpable mental state greater than negligence; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Is found to be growing cannabis outside of the licensed area with a culpable mental state greater than negligence; or</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>Negligently violated <cite path="51">this Title</cite> more than three times in five years; or</text>
+          <num>(5)</num>
+          <text>Negligently violated <cite path="51">this title</cite> more than three times in five years; or</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Any other reason deemed appropriate by the Commission.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission may revoke a Hemp Processing License if the Licensee:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Pleads guilty to or is convicted of any felony under state or federal law or schedule 5 offense under Tribal law related to a controlled substance; or</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Makes any materially false statement in any application, report, or inspection to Commission officials; or</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Processes hemp in a manner that is unsafe; or</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Operates a hemp processing facility in a manner that is unsafe;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Is found to be processing cannabis exceeding the acceptable THC level with a culpable mental state greater than negligence;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Is found to processing cannabis outside the licensed area with a culpable metal state greater than negligence; or</text>
         </para>
         <para>
-          <num>(g)</num>
-          <text>Negligently violated <cite path="51">this Title</cite> more than three times in five years; or</text>
+          <num>(7)</num>
+          <text>Negligently violated <cite path="51">this title</cite> more than three times in five years; or</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Any other reason deemed appropriate by the Commission.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.05.010 was formerly codified as 51.0501</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0502</num>
+      <num>51.05.020</num>
       <heading>License Terms and Conditions</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>By submitting a Hemp Production License Application or Hemp License Renewal Application, the applicant acknowledges and agrees to the following minimum terms and conditions:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any information provided to the Commission may be provided to law enforcement agencies and the USDA without further notice to the applicant or Licensee;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The applicant or Licensee shall allow and fully cooperate with any inspection and sampling, including random sampling, that the Commission deems necessary;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>All records relating to hemp production shall be made available for inspection by the Commission, at any time during reasonable business hours.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Pay for any inspection and laboratory analysis costs that the Commission deems necessary;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>To consent to forfeiture and destruction without compensation of:</text>
         </para>
         <para>
-          <num>(a)</num>
+          <num>(6)</num>
           <text>Material found to have measured THC greater than .3%;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(7)</num>
           <text>Plants located in unlicensed areas; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(8)</num>
           <text>Plants not accounted for in the required reporting.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(9)</num>
           <text>To submit all required information and reports to the Commission on the date specified by the Commission;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(10)</num>
           <text>To submit to a criminal history report for all required individuals in the form and at the times specified by the Commission;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(11)</num>
           <text>To report any felony convictions relating to controlled substances under state, Federal, or Tribal law to the Commission within five (5) business days of receiving notice of the conviction;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(12)</num>
           <text>To pay all fees imposed by the Tribe;</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(13)</num>
           <text>To consent to the jurisdiction of the Commission, the Tribe, and the Tribal Court.</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(14)</num>
           <text>That hemp shall not be produced in any location other than the location listed on the license application; and</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(15)</num>
           <text>That the Licensee shall comply with all restrictions and regulations established by the Commission and Tribe relating to hemp production.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>By submitting a Hemp Production License Application or Hemp License Renewal Application, the applicant acknowledges and agrees to the following minimum terms and conditions:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any information provided to the Commission may be provided to law enforcement agencies without further notice to the applicant or Licensee;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The applicant or Licensee shall allow and fully cooperate with any inspection of the hemp processing facility by the Commission or Health Authority;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The applicant or Licensee shall allow and fully cooperate with any inspection and sampling, including random sampling, that the Commission deems necessary of any hemp product being stored or processed at the processing facility;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>All records relating to hemp shall be made available for inspection by the Commission, at any time during reasonable business hours.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Pay for any inspection and laboratory analysis costs that the Commission deems necessary;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>To consent to forfeiture and destruction without compensation of:</text>
         </para>
         <para>
-          <num>(a)</num>
+          <num>(7)</num>
           <text>Hemp material found to have measured THC greater than .3%;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(8)</num>
           <text>Hemp material located in unlicensed areas; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(9)</num>
           <text>Hemp material found to be processed in an unsafe manner.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(10)</num>
           <text>To submit all required information and reports to the Commission on the date specified by the Commission;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(11)</num>
           <text>To pay all fees imposed by the Tribe;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(12)</num>
           <text>To consent to the jurisdiction of the Commission, the Tribe, and the Tribal Court.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(13)</num>
           <text>That hemp shall not be processed or stored in any location other than the location listed on the license application; and</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(14)</num>
           <text>That the Licensee shall comply with all restrictions and regulations established by the Commission and Tribe relating to hemp processing.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.05.020 was formerly codified as 51.0502</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0503</num>
+      <num>51.05.030</num>
       <heading>License Eligibility</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The following persons shall be ineligible for a Hemp Production License:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any Person convicted disqualifying drug conviction as defined in Section 2.01(11).</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>A Licensee that negligently violates <cite path="51">this Title</cite> three (3) times in a five (5) year period shall be ineligible to participate in the hemp production or processing for a period of five (5) years beginning on the date of the third violation.</text>
+          <num>(2)</num>
+          <text>A Licensee that negligently violates <cite path="51">this title</cite> three (3) times in a five (5) year period shall be ineligible to participate in the hemp production or processing for a period of five (5) years beginning on the date of the third violation.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>Any Person who materially falsifies any information contained in an application for a Hemp Production License shall be ineligible to obtain a License under <cite path="51">this Title</cite>.</text>
+          <num>(3)</num>
+          <text>Any Person who materially falsifies any information contained in an application for a Hemp Production License shall be ineligible to obtain a License under <cite path="51">this title</cite>.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The following persons shall be ineligible for a Hemp Processing License:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any Person convicted disqualifying drug conviction as defined in Section 2.01(11).</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>A Licensee that negligently violates <cite path="51">this Title</cite> three (3) times in a five (5) year period shall be ineligible to participate in the hemp production or processing for a period of five (5) years beginning on the date of the third violation.</text>
+          <num>(2)</num>
+          <text>A Licensee that negligently violates <cite path="51">this title</cite> three (3) times in a five (5) year period shall be ineligible to participate in the hemp production or processing for a period of five (5) years beginning on the date of the third violation.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>Any Person who materially falsifies any information contained in an application for a Hemp Processing License shall be ineligible to obtain a License under <cite path="51">this Title</cite>.</text>
+          <num>(3)</num>
+          <text>Any Person who materially falsifies any information contained in an application for a Hemp Processing License shall be ineligible to obtain a License under <cite path="51">this title</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.05.030 was formerly codified as 51.0503</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.06</num>
     <heading>Hemp Production Licensee Inspections, Reporting, and Recordkeeping</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0601</num>
+      <num>51.06.010</num>
       <heading>Inspection</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>The Commission shall have authority to conduct random inspections of all cultivation sites to verify compliance with all requirements of the license issued. Inspections may include sample collection by Commission inspectors of a Licensee's hemp or hemp product for testing to determine THC levels, or any other Commission-defined purpose.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Commission shall conduct inspections of cultivation sites to ensure that hemp is not being produced in violation of <cite path="51">this Title</cite>:</text>
+        <num>(b)</num>
+        <text>The Commission shall conduct inspections of cultivation sites to ensure that hemp is not being produced in violation of <cite path="51">this title</cite>:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Inspections shall be, at least, annually, may be randomly selected, and will be performed without advance notice.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>All Licensees shall grant the Commission unrestricted access to:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>All hemp, and other cannabis plants, if any, whether growing, or harvested;</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>All land, buildings, and/or other structures, if any, used for hemp production; and</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>All locations listed in the Hemp Production License.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Inspections may be conducted at any time during regular business hours.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>A Licensee may apply to the Commission for retesting and/or resampling of any non-complaint cultivation site within fourteen (14) calendar days from the date of notification of non-compliant test results, which may be approved or denied at the Commission's discretion.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All samples collected by the Commission shall become the property of the Commission the Commission shall owe no compensation to the Licensee for such samples.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Commission shall keep test results for all Hemp Products tested for a minimum of three (3) years.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.06.010 was formerly codified as 51.0601</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0602</num>
+      <num>51.06.020</num>
       <heading>Licensee Reporting</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All Hemp Production Licensees shall report hemp crop acreage with the USDA Farm Service Agency and shall provide, at a minimum, the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Street address and, to the extent practicable, geospatial location for each cultivation site or greenhouse where hemp will be produced. If a producer operates in more than one location, that information shall be provided for all production sites;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Acreage dedicated to the production of hemp, or greenhouse or indoor square footage dedicated to the production of hemp; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>License number.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All Licensees shall maintain records of all hemp plants acquired, produced, handled, or disposed of as will substantiate any required reports. All records and reports shall be maintained for at least three years.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>All Hemp Production Licensees shall also report to the Tribe the total acreage of hemp planted, harvested, and, if applicable, disposed of. The Tribe shall collect this information and report it to the USDA Agricultural Marketing Service.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A Licensee may submit a Crop Acreage Report (FSA-578 form) to the USDA.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.06.020 was formerly codified as 51.0602</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0603</num>
+      <num>51.06.030</num>
       <heading>Commission Recordkeeping and Reporting</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission shall retain all information required under <cite path="51">this Title</cite> for a Hemp Production License for a period of at least (3) calendar years.</text>
+        <num>(a)</num>
+        <text>The Commission shall retain all information required under <cite path="51">this title</cite> for a Hemp Production License for a period of at least (3) calendar years.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>The Commission shall submit to USDA, by the first of each month, a report providing the contact information and the status of the license or other authorization issued for each producer covered under <cite path="51">this Title</cite>. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. The report shall clearly state the reporting period and be submitted using a digital format compatible with USDA's information sharing systems, whenever possible.</text>
+        <num>(b)</num>
+        <text>The Commission shall submit to USDA, by the first of each month, a report providing the contact information and the status of the license or other authorization issued for each producer covered under <cite path="51">this title</cite>. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. The report shall clearly state the reporting period and be submitted using a digital format compatible with USDA's information sharing systems, whenever possible.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>For a newly licensed Hemp Production Licensee, the report must contain the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Licensee's license number;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Licensee's contact information including name, address, telephone number and email address and, if the Licensee is a business entity, the full name and contact information of all the entity's authorized representatives;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>If the Licensee is a business entity the:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>Full name of the business;</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>Address of the principal business location;</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>Full name and of all key participants in the business; and</text>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(D)</num>
             <text>EIN number of the business entity.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>A legal description of the land on which the Licensee will produce hemp within the Tribe's jurisdiction, including, to the extent practicable, its geospatial location;</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>For a Hemp Production Licensee whose information has been previously reported to the USDA, the report must contain the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Licensee's license number;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>For each Licensee that was included in a previous report and whose reported information has changed, the report shall include the previously reported information and the new information;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>For each Licensee that was included in a previous report and whose reported information has not changed, the report shall include a statement that there was no change during the current reporting cycle; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The status of the Licensee's license and, if applicable, reason for change in status.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>The Commission must report information for all non-compliant hemp materials disposed of pursuant to Section 8.06 to the USDA by the first of the month, or if the first of the month falls on a weekend or a holiday, by the first business day following the first of the month. The following information must be included in the report for all Licensee's subject to disposal:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Name and address of the Licensee;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Licensee's license number;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A legal description and, to the extent practicable, the geospatial location for the disposed of area;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Name and position of the agent handing the disposal;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Disposal completion date; and</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Total acreage for the disposed of area.</text>
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Commission shall submit a Tribal Annual Hemp Report to the USDA by December 15<sup>th</sup> of each year with the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Total planted acreage;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Total harvested acreage; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Total acreage disposed of.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.06.030 was formerly codified as 51.0603</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.07</num>
     <heading>Hemp Processing Licensee Inspections, Reporting, and Recordkeeping</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0701</num>
+      <num>51.07.010</num>
       <heading>Inspection</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission and, when applicable, the Health Authority shall have the authority to conduct random investigations of a Licensee's hemp processing facility to verify compliance with all requirements of <cite path="51">this Title</cite>, Commission or Health Authority-issued regulations and guidelines and tribal law.</text>
+        <num>(a)</num>
+        <text>The Commission and, when applicable, the Health Authority shall have the authority to conduct random investigations of a Licensee's hemp processing facility to verify compliance with all requirements of <cite path="51">this title</cite>, Commission or Health Authority-issued regulations and guidelines and tribal law.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>The Commission shall conduct annual inspections of a Licensee's hemp processing facility to verify all hemp-processing activities are conducted in compliance with this code and Commission-issued regulations and guidelines.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Tribal Health Authority, when applicable, shall have the authority to conduct inspections, random or otherwise, of a Licensee's hemp processing facility to ensure the facility and hemp processing activities are in compliance with tribal law and Health-Authority established health standards, regulations and guidelines.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>The Commission may randomly sample all hemp and hemp material at a hemp processing facility, at the Commission's discretion. If the Commission samples any hemp or hemp material, the Licensee shall set aside all sampled hemp and hemp material until the Licensee receives notice from the Commission of the hemp and hemp material's compliance with this Code. If the material is found to have a THC level greater than .3%, then the Licensee shall dispose of all non-compliant hemp and hemp material in the manner described in <cite path="51|51.08|51.0806">Section 51.0806</cite> of this Code.</text>
+        <num>(d)</num>
+        <text>The Commission may randomly sample all hemp and hemp material at a hemp processing facility, at the Commission's discretion. If the Commission samples any hemp or hemp material, the Licensee shall set aside all sampled hemp and hemp material until the Licensee receives notice from the Commission of the hemp and hemp material's compliance with this Code. If the material is found to have a THC level greater than .3%, then the Licensee shall dispose of all non-compliant hemp and hemp material in the manner described in <cite path="§51.08.060">Section 51.08.060</cite> of this Code.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>All inspections and random samplings may be conducted at any time during regular business hours.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.07.010 was formerly codified as 51.0701</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0702</num>
+      <num>51.07.020</num>
       <heading>Licensee Reporting</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All Hemp Processing Licensees shall submit an annual report to the Commission that provides the Commission with the following information:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Licensee's License number</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The name, address, and contact information for all hemp suppliers;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>A log of all hemp-related transactions that contains, at a minimum, the name of the purchaser and the amount of the transaction;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The name, address, and contact information for all purchasers of products marketed as CBD; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Any other information requested by the Commission.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>All Licensees shall maintain records of all hemp plants acquired, produced, handled, or disposed of as will substantiate any required reports. All records and reports shall be maintained for at least three (3) years.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.07.020 was formerly codified as 51.0702</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0703</num>
+      <num>51.07.030</num>
       <heading>Commission Recordkeeping and Reporting</heading>
       <para>
-        <num>(1)</num>
-        <text>The Commission shall retain all information required under <cite path="51">this Title</cite> for a Hemp Processing License for a period of at least three (3) calendar years.</text>
+        <num>(a)</num>
+        <text>The Commission shall retain all information required under <cite path="51">this title</cite> for a Hemp Processing License for a period of at least three (3) calendar years.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.07.030 was formerly codified as 51.0703</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.08</num>
     <heading>Procedure for Sampling and Testing</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0801</num>
+      <num>51.08.010</num>
       <heading>In General</heading>
-      <text>All compliance or other testing required by <cite path="51">this Title</cite> shall be conducted by a laboratory that meets all Tribal and applicable federal requirements.</text>
-      <annotations/>
+      <text>All compliance or other testing required by <cite path="51">this title</cite> shall be conducted by a laboratory that meets all Tribal and applicable federal requirements.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.010 was formerly codified as 51.0801</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0802</num>
+      <num>51.08.020</num>
       <heading>Requirements for Sampling</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All samples collected for compliance or inspection purposes must be collected:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>By an authorized Hemp Regulatory Commission staff member in the manner required by Commission established standards and procedures;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>From the flower material of sampled cannabis plant; and</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Using a method for sampling that ensures that a representative sample is collected that represents a homogenous composition of the cultivation.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>During a scheduled sample collection:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Commission shall have unrestricted access to:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>All hemp, and other cannabis plants, if any, whether growing or harvested;</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>All land, buildings, and/or other structures, if any, used for the hemp production; and</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>All locations listed in the Hemp Production License.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Licensee or an authorized representative of the Licensee shall be present for sampling.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.020 was formerly codified as 51.0802</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0803</num>
+      <num>51.08.030</num>
       <heading>Requirements for Testing</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All analytical testing done on samples collected by the Commission to test the concentration levels of THC for compliance purposes must, at a minimum:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Be done at a DEA registered laboratory that uses validated methods and procedures for all testing activities, or at laboratory that adheres to the standards of performance as outlined within the USDA Interim Final Rule of October 31, 2019, including the requirement to test for total THC employing post-decarboxylation or other similarly reliable methods;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Use post decarboxylation or other similarly reliable methods that meet applicable federal and Tribal standards, reliable methods include, but are not limited to gas or liquid chromatography with detection;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Consider the potential conversion of THCA in hemp into THC and the test result must reflect the total available THC derived from the sum of the THC and THCA content.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Determine the THC concentration level on a dry weight basis;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Ensure Samples of hemp plant material from one cultivation site shall not be commingled with hemp plant material from other cultivation sites;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Be sufficient at a confidence level of 95 percent that no more than one percent of the plants in the cultivation site would exceed the acceptable hemp THC level; and</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Include the estimated measurement of uncertainty in the report.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Any sample test result exceeding the acceptable hemp THC level shall be conclusive evidence that the cultivation site represented by the sample is not in compliance with <cite path="51">this Title</cite>.</text>
+        <num>(b)</num>
+        <text>Any sample test result exceeding the acceptable hemp THC level shall be conclusive evidence that the cultivation site represented by the sample is not in compliance with <cite path="51">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.030 was formerly codified as 51.0803</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0804</num>
+      <num>51.08.040</num>
       <heading>Pre-Harvest Sampling</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A Hemp Production Licensee shall arrange for a Hemp Regulatory Commission staff member to collect a representative sampling of a cultivation site not more than fifteen (15) days prior to the expected harvest date of the cultivation site for the purpose of ensuring that the crop does not exceed permissible THC concentration levels on a dry weight basis.</text>
       </para>
       <para>
-        <num>(2)</num>
-        <text>A Hemp Production Licensee shall not remove any plants from a cultivation site that has not been sampled and tested for compliance in accordance with <cite path="51|51.08|51.0804">this Section</cite>.</text>
+        <num>(b)</num>
+        <text>A Hemp Production Licensee shall not remove any plants from a cultivation site that has not been sampled and tested for compliance in accordance with <cite path="§51.08.040">this section</cite>.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Hemp Production Licensee shall harvest the sampled crop not more than fifteen (15) days after sampling. If the Licensee does not harvest the crop within fifteen (15) days of sampling, the Commission may re-sample the cultivation site at its discretion.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>A Hemp Production Licensee may request additional testing if it is believed that the original THC concentration level tests were in error.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Any sample test result exceeding the acceptable THC level shall be conclusive evidence that the cultivation site represented by the sample is not in compliance with this part.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.040 was formerly codified as 51.0804</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0805</num>
+      <num>51.08.050</num>
       <heading>Compliant Plants</heading>
       <para>
-        <num>(1)</num>
-        <text>The THC content for hemp produced or processed on the reservation may not exceed .3%. If .3% or less is within the sample's measurement of uncertainty distribution range, the sample will be considered hemp for the purposes of <cite path="51">this Title</cite>.</text>
+        <num>(a)</num>
+        <text>The THC content for hemp produced or processed on the reservation may not exceed .3%. If .3% or less is within the sample's measurement of uncertainty distribution range, the sample will be considered hemp for the purposes of <cite path="51">this title</cite>.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Cultivation sites that meet the acceptable THC level may be harvested and made available for commercial sale.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.050 was formerly codified as 51.0805</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0806</num>
+      <num>51.08.060</num>
       <heading>Non-Compliant Plants</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>All Hemp material with a THC content that tests higher than .3%, such that .3% or less is not within the sample's measurement of uncertainty distribution range, may not be further handled or processed, shall not enter into the stream of commerce and shall be promptly disposed of in a manner compliant with all applicable Tribal, and federal laws, and Commission, Tribal and federal regulations and rules.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A non-compliant sample requires the destruction of the entire cultivation site represented by that sample.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>The Licensee and Commission shall arrange for an authorized law enforcement or Commission staff member to come to the cultivation site or hemp processing facility and collect the non-complaint hemp materials.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(d)</num>
         <text>The Licensee shall cooperate with all Commission instructions and requirements for non-complaint hemp collection prior to collection.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(e)</num>
         <text>Once the non-complaint hemp material is collected, the Commission official shall ensure the non-compliant hemp material is timely destroyed in a manner approved by the Commission and that meets all applicable Tribal and federal requirements and standards.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(f)</num>
         <text>The Licensee may not remove, harvest, or otherwise handle any non-complaint plant material from the cultivation site or hemp processing facility.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.060 was formerly codified as 51.0806</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0807</num>
+      <num>51.08.070</num>
       <heading>Recordkeeping</heading>
       <text>The Commission must retain all documentation of sampling, testing, and non-compliant plant destruction for a period of at least three (3) calendar years.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.070 was formerly codified as 51.0807</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0808</num>
+      <num>51.08.080</num>
       <heading>Laboratory Reporting</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Each Licensee must ensure that the registered laboratory that conducts the test of the sample(s) from its cultivation sites reports the test results for all samples tested to USDA. Each test results report must contain the following information for each sample tested:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Licensee's license number;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Cultivation site identification number for the sample;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Name of Licensee;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Business address of Licensee;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Name and registration of laboratory;</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Date of test and report;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>Identification of a retest; and</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>Test result.</text>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.08.080 was formerly codified as 51.0808</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.09</num>
     <heading>Hemp Processing</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.0901</num>
+      <num>51.09.010</num>
       <heading>Activities Allowed Under a Hemp Processing License</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>A Hemp Processing Licensee may process, manufacture, package, and store hemp and hemp products.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A Hemp Processing Licensee may purchase hemp and hemp products from a hemp producer licensed in any jurisdiction.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A Hemp Processing Licensee may market and sell processed hemp and hemp products on or off the reservation.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>A Hemp Processor Licensee shall not accept or process any hemp material with a THC level greater than .3%. A hemp processor must ensure that all hemp received for processing was previously tested in a manner compliant with Chapter XX.0803 of <cite path="51">this Title</cite>.</text>
+        <num>(d)</num>
+        <text>A Hemp Processor Licensee shall not accept or process any hemp material with a THC level greater than .3%. A hemp processor must ensure that all hemp received for processing was previously tested in a manner compliant with Chapter XX.0803 of <cite path="51">this title</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.09.010 was formerly codified as 51.0901</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.0902</num>
+      <num>51.09.020</num>
       <heading>Hemp Processing Facility</heading>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Hemp Processing Licensee shall ensure a hemp processing facility structure complies with all applicable provisions of the Construction Code (Title 15 et seq.) and all related regulations and guidelines promulgated by the Tribe or Commission.</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>A hemp processing facility shall meet all requirements established by the Commission. The Commission shall notify all Hemp Processing Licensees of any change in requirements for a hemp processing facility.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.09.020 was formerly codified as 51.0902</annotation>
+      </annotations>
     </section>
   </container>
   <container>
-    <prefix>Chapter</prefix>
     <num>51.10</num>
     <heading>Violations</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>51.1001</num>
+      <num>51.10.010</num>
       <heading>Violations in General</heading>
-      <text>A violation of <cite path="51">this Title</cite> shall be subject to enforcement solely in accordance with <cite path="51|51.10|51.1001">this Section</cite>.</text>
-      <annotations/>
+      <text>A violation of <cite path="51">this title</cite> shall be subject to enforcement solely in accordance with <cite path="§51.10.010">this section</cite>.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§51.10.010 was formerly codified as 51.1001</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.1002</num>
+      <num>51.10.020</num>
       <heading>Negligent Violation</heading>
       <para>
-        <num>(1)</num>
-        <text>Below is a non-exclusive list of actions that constitute a negligent violation of <cite path="51">this Title</cite>:</text>
+        <num>(a)</num>
+        <text>Below is a non-exclusive list of actions that constitute a negligent violation of <cite path="51">this title</cite>:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Failing to provide an accurate legal description of any cultivation site or processing site;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Failing to provide an accurate building plan for a hemp processing facility;'</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Failing to obtain a license or other required authorization from the Commission, as applicable;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Producing hemp with a THC concentration of more than .3%, unless the Licensee took reasonable efforts to grow hemp and the cannabis produced does not have a THC concentration level of more than .5% on a dry weight basis;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Processing hemp with a THC concentration of more than .3%, unless the Licensee took reasonable efforts to ensure that hemp was appropriately tested prior to processing; and</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Processing hemp intended for human consumption in a manner that is unsanitary or unsafe.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>A Licensee who negligently violates <cite path="51">this Title</cite> shall comply with a corrective action plan established by the Commission and, if applicable, the Health Authority to correct the negligent violation. Each corrective action plan shall include, at a minimum, the following terms:</text>
+        <num>(b)</num>
+        <text>A Licensee who negligently violates <cite path="51">this title</cite> shall comply with a corrective action plan established by the Commission and, if applicable, the Health Authority to correct the negligent violation. Each corrective action plan shall include, at a minimum, the following terms:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A reasonable date by which the Licensee shall correct the negligent violation;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A requirement that the Licensee periodically report to the Commission on its compliance within this Plan for a period of (2) calendar years from the date of the negligent violation; and</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>A statement that the Commission shall conduct periodic inspections of the Licensee's cultivation sites to ensure that the plan has been implemented as submitted and continued compliance with the corrective action plan and <cite path="51">this Title</cite>.</text>
+          <num>(3)</num>
+          <text>A statement that the Commission shall conduct periodic inspections of the Licensee's cultivation sites to ensure that the plan has been implemented as submitted and continued compliance with the corrective action plan and <cite path="51">this title</cite>.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(c)</num>
         <text>A Licensee that negligently violates any State, Tribal, or USDA plan shall not, as a result of that violation, be subject to any criminal enforcement action by federal, state or Tribal officials.</text>
       </para>
       <para>
-        <num>(4)</num>
-        <text>A Licensee that negligently violates <cite path="51">this Title</cite> three (3) times in a five-year period shall be ineligible to produce or process hemp for a period of five (5) years beginning on the date of the third violation.</text>
+        <num>(d)</num>
+        <text>A Licensee that negligently violates <cite path="51">this title</cite> three (3) times in a five-year period shall be ineligible to produce or process hemp for a period of five (5) years beginning on the date of the third violation.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.10.020 was formerly codified as 51.1002</annotation>
+      </annotations>
     </section>
     <section>
-      <num>51.1003</num>
+      <num>51.10.030</num>
       <heading>Other Violations</heading>
       <para>
-        <num>(1)</num>
-        <text>If the Commission determines that the Licensee in the Tribe's jurisdiction has violated <cite path="51">this Title</cite> with a culpable mental state greater than negligence, the Commission shall immediately report the Licensee to:</text>
+        <num>(a)</num>
+        <text>If the Commission determines that the Licensee in the Tribe's jurisdiction has violated <cite path="51">this title</cite> with a culpable mental state greater than negligence, the Commission shall immediately report the Licensee to:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The United States Attorney General; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Chief Law Enforcement Officer of the Tribe.</text>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text><cite path="51|51.10|51.1002">Section 51.1002</cite> shall not apply to non-negligent violations.</text>
+        <num>(b)</num>
+        <text><cite path="§51.10.020">Section 51.10.020</cite> shall not apply to non-negligent violations.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="Prior Codifications">§51.10.030 was formerly codified as 51.1003</annotation>
+      </annotations>
     </section>
   </container>
 </container>
