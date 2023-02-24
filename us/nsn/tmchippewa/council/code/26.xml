@@ -1748,7 +1748,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>No. of children:        Ages:</text>
+        <text>No. of children:    Ages:</text>
       </para>
       <para>
         <num>(j)</num>
@@ -1761,7 +1761,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>Have you requested a pardon before?     If yes, when?  <u>__</u></text>
+        <text>Have you requested a pardon before?   If yes, when?  <u>__</u></text>
       </para>
       <para>
         <num>(m)</num>
@@ -1787,7 +1787,7 @@
       </para>
       <para>
         <num>(r)</num>
-        <text>Service No.     Type of discharge:  <u>___</u></text>
+        <text>Service No.   Type of discharge:  <u>___</u></text>
       </para>
       <para>
         <num>(s)</num>
@@ -1815,20 +1815,20 @@
       </para>
       <para>
         <num>(y)</num>
-        <text>Have you ever been  convicted   of  an  offense (include    motor vehicle violations) within tribal jurisdiction since the conviction for which  you are requesting a pardon? Yes   <u>__</u>No  <u>__</u></text>
+        <text>Have you ever been  convicted of  an  offense (include  motor vehicle violations) within tribal jurisdiction since the conviction for which  you are requesting a pardon? Yes <u>__</u>No  <u>__</u></text>
       </para>
       <para>
         <num>(z)</num>
         <text>If the answer to question 25 is yes, please provide details (attach a separate</text>
-        <text>sheet   if  more    space   is  needed.</text>
+        <text>sheet if  more  space is  needed.</text>
       </para>
       <para>
         <num>(aa)</num>
-        <text>Have you ever been arrested by federal authorities or by any other tribal authority other than Turtle Mountain authorities? Yes_    No <u>__</u></text>
+        <text>Have you ever been arrested by federal authorities or by any other tribal authority other than Turtle Mountain authorities? Yes_  No <u>__</u></text>
       </para>
       <para>
         <num>(bb)</num>
-        <text>If answer to question 27 is yes, please list each arrest giving the date and disposition of the case    (attach a separate  sheet if necessary</text>
+        <text>If answer to question 27 is yes, please list each arrest giving the date and disposition of the case  (attach a separate  sheet if necessary</text>
       </para>
       <para>
         <num>(cc)</num>
@@ -1844,7 +1844,7 @@
       </para>
       <para>
         <num>(ff)</num>
-        <text>How will a pardon substantially aid you in improving your life (attach a separate   sheet   if  more    space   is  needed)</text>
+        <text>How will a pardon substantially aid you in improving your life (attach a separate sheet if  more  space is  needed)</text>
       </para>
       <para>
         <num>(gg)</num>
@@ -1855,7 +1855,7 @@
       <para>
         <num>(hh)</num>
         <text>Please provide three (3) letters of reference from persons other than you or members of your family, attesting to your good character and  reputation.  Please list the names of individuals below:</text>
-        <text>Name/Relationship   Address Phone No.</text>
+        <text>Name/Relationship Address Phone No.</text>
         <para>
           <num>(1)</num>
           <text>
@@ -1869,7 +1869,7 @@
           <text>________________</text>
           <text>Pardon applicant</text>
           <text>Notice:  By submitting this application, you are consenting to public release of your name should a pardon be issued by the Chairman.</text>
-          <text>Subscribed and Sworn to before me this    day of  , 20<u>__</u></text>
+          <text>Subscribed and Sworn to before me this  day of  , 20<u>__</u></text>
           <text>Notary Public in and for the State of</text>
           <text>My commission expires:_____</text>
         </para>
@@ -4185,7 +4185,7 @@
       <text>A person convicted of one or more of the above offenses shall be subject to civil exclusion and removal as provided herein from Indian Country under the jurisdiction of the Turtle Mountain Band of Chippewa Indians on all land on the Turtle Mountain Indian Reservation in the State of North Dakota and to such other lands as may be acquired by or in behalf of said Tribe and be added thereto under the laws of the United States for the following added thereto under the laws of the United States for the following periods of time:</text>
       <para>
         <num>(a)</num>
-        <text>Indians and/or    Non-Indians Dealing,    Transporting (or assisting in the transport of) and/or Selling Drugs of Any Kind:</text>
+        <text>Indians and/or  Non-Indians Dealing,  Transporting (or assisting in the transport of) and/or Selling Drugs of Any Kind:</text>
         <para>
           <num>(1)</num>
           <text>First Offense (Tribal or Federal) – warning</text>
@@ -7423,14 +7423,14 @@
         <text>Engaging in repeated acts of physical abuse of the same child.</text>
         <para>
           <num>(1)</num>
-          <text>Whoever commits 3 or more violations under sub. (2), (3), or (4) within a three year period involving the same child is guilty of the following:</text>
+          <text>Whoever commits 3 or more violations under sub. (b), (c), or (d) within a three year period involving the same child is guilty of the following:</text>
           <para>
             <num>(A)</num>
             <text>A Class 5 Offense if at least one violation caused the death of the child.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>A Class 4 Offense if at least 2 violations were violations of sub. (2) (a).</text>
+            <text>A Class 4 Offense if at least 2 violations were violations of sub. (b) (2).</text>
           </para>
           <para>
             <num>(C)</num>
@@ -7443,7 +7443,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If an action under par. (a) is tried to a jury, in order to find the defendant guilty the members of the jury must unanimously agree that at least 3 violations of sub. (2), (3), or (4) occurred within the specified period but need not agree on which acts constitute the requisite number.</text>
+          <text>If an action under par. (a) is tried to a jury, in order to find the defendant guilty the members of the jury must unanimously agree that at least 3 violations of sub. (b), (c), or (d) occurred within the specified period but need not agree on which acts constitute the requisite number.</text>
         </para>
       </para>
       <annotations>
@@ -7581,26 +7581,26 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Within the period under par. (2), an individual must report to law enforcement a child as missing if the individual is the parent, stepparent, guardian, or legal custodian of the child.</text>
+          <text>Within the period under par. (b), an individual must report to law enforcement a child as missing if the individual is the parent, stepparent, guardian, or legal custodian of the child.</text>
           <para>
             <num>(A)</num>
             <text>The report must be made within 24 hours after the child is discovered to be missing if the child is under 13 years of age when the discovery is made.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>The report under par. (2) must be made within 48 hours after the child is discovered to be missing if the child is at least 13 years of age but under 16 years of age when the discovery is made.</text>
+            <text>The report under par. (b) must be made within 48 hours after the child is discovered to be missing if the child is at least 13 years of age but under 16 years of age when the discovery is made.</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>The report under par. (2) must be made within 72 hours after the child is discovered to be missing if the child is at least 16 years of age when the discovery is made.</text>
+            <text>The report under par. (b) must be made within 72 hours after the child is discovered to be missing if the child is at least 16 years of age when the discovery is made.</text>
           </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>Whoever violates par. (2) is guilty of the following:</text>
+          <text>Whoever violates par. (b) is guilty of the following:</text>
           <para>
             <num>(A)</num>
-            <text>Except as provided in subds. 2. to 3., a Class 3 Offense.</text>
+            <text>Except as provided in subds. b. to c., a Class 3 Offense.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -7658,7 +7658,7 @@
       <heading>Contributing to Truancy</heading>
       <para>
         <num>(a)</num>
-        <text>Except as provided in sub. (2), any person 17 years of age or older who, by any act or omission, knowingly encourages or contributes to the truancy, of a person 17 years of age or under is guilty of a Class 1 Offense. If an individual is charged with more than one offense and convicted of more than one offense within a three year period the second offense shall be a Class 2 Offense.</text>
+        <text>Except as provided in sub. (b), any person 17 years of age or older who, by any act or omission, knowingly encourages or contributes to the truancy, of a person 17 years of age or under is guilty of a Class 1 Offense. If an individual is charged with more than one offense and convicted of more than one offense within a three year period the second offense shall be a Class 2 Offense.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7686,7 +7686,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Whoever violates sub. (2) is guilty of:</text>
+        <text>Whoever violates sub. (b) is guilty of:</text>
         <para>
           <num>(1)</num>
           <text>A Class 3 Offense if the act results in or is likely to result in bodily harm to another.</text>
