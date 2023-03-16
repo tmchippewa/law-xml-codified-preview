@@ -1170,9 +1170,16 @@
     <section>
       <num>50.04.020</num>
       <heading>Authority</heading>
-      <text>The Turtle Mountain Band of Chippewa hereby creates the Clerk of Court office for the Turtle Mountain Tribal Court and Appellate Court.</text>
+      <para>
+        <num>(a)</num>
+        <text>The <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> specifically delegates law creations authority to the Tribal Council in Article IX, Section 5.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> elects a Chief Clerk of Court but does not define the scope or requirement of the office of the Clerk of Court, Article XIV, Section 4, (c).</text>
+      </para>
       <annotations>
-        <annotation type="Prior Codifications">§50.04.020 was formerly codified as 50.403</annotation>
+        <annotation type="Prior Codifications">§50.04.020 was formerly codified as 50.0403</annotation>
       </annotations>
     </section>
     <section>
@@ -5154,11 +5161,11 @@
             <text><u>Remove all </u><em><u>High-Combustibility</u></em><u> shrubs</u> (junipers) in the 30-foot zone within 20 feet of structures and from each other. <em>Low-Combustibility</em> ornamental shrubs/plants/trees that are well-pruned, well-spaced – (2X the height of the tallest shrub), and free of dead foliage shall be permitted.</text>
           </para>
           <text><em>High Combustibility</em> (fire-prone) Plants include the following:</text>
-          <text>	 Volatile resins, oils or waxes that ignite easily and burn intensely.</text>
-          <text>	Narrow leaves or needles (often evergreen).</text>
-          <text>	Waxy or fuzzy leaves.</text>
-          <text>	Accumulations of fine, twiggy, dry or dead material on the plant or on the ground under the plant.</text>
-          <text>	Loose, papery or thick bark.</text>
+          <text>  Volatile resins, oils or waxes that ignite easily and burn intensely.</text>
+          <text> Narrow leaves or needles (often evergreen).</text>
+          <text> Waxy or fuzzy leaves.</text>
+          <text> Accumulations of fine, twiggy, dry or dead material on the plant or on the ground under the plant.</text>
+          <text> Loose, papery or thick bark.</text>
           <para>
             <num>(C)</num>
             <text><u>Keep the 30-foot zone brushed out and mowed</u> (including in back of the house and trimmed up against structures, under trees, and under parked vehicles) to a height of four inches (4") or less.</text>
@@ -5466,16 +5473,17 @@
       <num>50.07.330</num>
       <heading>Rules and Regulations</heading>
       <text>The Tribe shall enact rules, regulations, and forms to effectuate the purpose of <cite path="50">this title</cite>.</text>
-      <text class="center">
-        <strong><cite path="50.08">CHAPTER 50.08</cite> - DIVISION Of CONSERVATION LAW ENFORCEMENT</strong>
-      </text>
       <annotations>
-        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1053-06-20"/>
         <annotation type="Prior Codifications">§50.07.330 was formerly codified as 50.0733</annotation>
       </annotations>
     </section>
+  </container>
+  <container>
+    <num>50.08</num>
+    <heading>Division of Conservation Law Enforcement</heading>
+    <prefix>Chapter</prefix>
     <section>
-      <num>50.07.340</num>
+      <num>50.08.010</num>
       <heading>Division of Conservation Law Enforcement</heading>
       <text>The Turtle Mountain Band of Chippewa Indians (TMBCI) Tribe hereby creates the Division of Conservation Law Enforcement.</text>
       <para>
@@ -5496,11 +5504,11 @@
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1053-06-20"/>
-        <annotation type="Prior Codifications">§50.07.340 was formerly codified as 50.0801</annotation>
+        <annotation type="Prior Codifications">§50.08.010 was formerly codified as 50.0801</annotation>
       </annotations>
     </section>
     <section>
-      <num>50.07.350</num>
+      <num>50.08.020</num>
       <heading>Conservation Law Enforcement Officer (Cleo) Authorities and Responsibilities</heading>
       <text>The TMBCI Tribe hereby creates a law enforcement position of Conservation Law Enforcement Officer. The Division of Conservation Law Enforcement, Conservation Law Enforcement Officer(s) (CLEO's) shall have responsibilities and duties as follows:</text>
       <para>
@@ -5609,7 +5617,7 @@
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 841-02-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1053-06-20"/>
-        <annotation type="Prior Codifications">§50.07.350 was formerly codified as 50.0802</annotation>
+        <annotation type="Prior Codifications">§50.08.020 was formerly codified as 50.0802</annotation>
       </annotations>
     </section>
   </container>

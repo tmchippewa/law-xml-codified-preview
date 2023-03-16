@@ -256,88 +256,85 @@
     <num>IX</num>
     <heading>Powers of the Tribal Council</heading>
     <text>The Tribal Council shall exercise the following powers, subject to any limitations imposed by this Constitution and Bylaws or the laws and regulations of the Federal Government:</text>
-    <container path-omit="true">
-      <num>(a)</num>
-      <heading>Governmental Powers</heading>
-      <section>
-        <num>1</num>
-        <text>To represent the Band and to negotiate with the Federal, State and local governments and with private persons.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>2</num>
-        <text>To employ legal counsel, subject to the approval of the Secretary of the Interior, or his duly authorized representative, so long as such approval is required by federal law.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>3</num>
-        <text>To regulate and license where permitted by law all business and professional activities conducted upon the reservation, provided that any assessment upon non-members trading or residing within the jurisdiction of the Band shall be subject to review of the Secretary of the Interior, or his duly authorized representative, where required by law.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>4</num>
-        <text>To enact ordinances to remove from the reservation persons not legally entitled to reside thereon and whose presence may be injurious to the peace, happiness or welfare of the members of the Band, subject to the review of the Secretary of the Interior, or his duly authorized representative.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>5</num>
-        <text>To enact ordinances, subject to the review of the Secretary of the Interior, or his duly authorized representative, governing conduct of the members of the Band and Indians from other tribes on the reservation, providing for the maintenance of law and order and the administration of justice by establishing a police force and a tribal court and defining their powers and duties; and regulating the inheritance of property of the members of the Band except trust land.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>6</num>
-        <text>To enact ordinances to provide rules and regulations governing fishing, hunting and trapping on the reservation.</text>
-        <annotations/>
-      </section>
-    </container>
-    <container path-omit="true">
-      <num>(b)</num>
-      <heading>Administrative Powers</heading>
-      <section>
-        <num>7</num>
-        <text>To administer any funds within the control of the Band; to make expenditures from available funds for tribal purposes, including salaries and expenses of tribal officials or employees. All expenditures of tribal funds under the control of the Tribal Council shall be authorized by resolution duly enacted by the Tribal Council in legal session and the amounts so expended shall be a matter of public record to the members of the Band at all reasonable times.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>8</num>
-        <text>The Tribal Council of the Band shall prepare annual budget requests for advancement to the control of the Band such money as now or may hereafter be deposited to the credit of the Band in the United States Treasury or which may hereafter be appropriated for the use of the Band.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>9</num>
-        <text>To deposit to the credit of the Band of Chippewa Indians tribal funds, without limitation on the amount in any account, in any approved National or State Bank whose deposits are insured by an agency of the Federal Government, or with a bonded disbursing officer of the United States whenever the conditions prescribed by the Secretary of the Interior, or his authorized representative, in connection with such advances required the advance to be so deposited.</text>
-        <annotations/>
-      </section>
-    </container>
-    <container path-omit="true">
-      <num>(c)</num>
-      <heading>Business Powers</heading>
-      <section>
-        <num>10</num>
-        <text>To manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws. (Amendment X, approved October 25, 1990)</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>11</num>
-        <text>To engage in any business that will further the economic well-being of the members of the tribe, or to undertake any programs or projects designed for the economic advancement of the people. The services of a licensed attorney with training and experience in corporate law shall be secured and initiated to oversee programs or projects designed for the economic advancement of the tribe, on a continuing basis. (Amendment XXVI, Approved August 7, 2001)</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>12</num>
-        <text>To borrow money from the Federal Government, or other source, and to direct the use of such funds for productive purposes, or to loan the money thus borrowed to members of the tribe, with the approval of the Secretary of the Interior, or his authorized representative.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>13</num>
-        <text>To pledge or assign chattel or future income due or to become due, provided such agreement, pledge, assignment or extension thereof shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
-        <annotations/>
-      </section>
-      <section>
-        <num>14</num>
-        <text>To make and perform contracts and agreements of every description, not inconsistent with law or the provisions of this Constitution and Bylaws, provided that any contract shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
-        <annotations/>
-      </section>
-    </container>
+    <text class="center">
+      <strong>(a) - Governmental Powers</strong>
+    </text>
+    <section>
+      <num>1</num>
+      <text>To represent the Band and to negotiate with the Federal, State and local governments and with private persons.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>2</num>
+      <text>To employ legal counsel, subject to the approval of the Secretary of the Interior, or his duly authorized representative, so long as such approval is required by federal law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>3</num>
+      <text>To regulate and license where permitted by law all business and professional activities conducted upon the reservation, provided that any assessment upon non-members trading or residing within the jurisdiction of the Band shall be subject to review of the Secretary of the Interior, or his duly authorized representative, where required by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>4</num>
+      <text>To enact ordinances to remove from the reservation persons not legally entitled to reside thereon and whose presence may be injurious to the peace, happiness or welfare of the members of the Band, subject to the review of the Secretary of the Interior, or his duly authorized representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>5</num>
+      <text>To enact ordinances, subject to the review of the Secretary of the Interior, or his duly authorized representative, governing conduct of the members of the Band and Indians from other tribes on the reservation, providing for the maintenance of law and order and the administration of justice by establishing a police force and a tribal court and defining their powers and duties; and regulating the inheritance of property of the members of the Band except trust land.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>6</num>
+      <text>To enact ordinances to provide rules and regulations governing fishing, hunting and trapping on the reservation.</text>
+      <annotations/>
+    </section>
+    <text class="center">
+      <strong>(b) - Administrative Powers</strong>
+    </text>
+    <section>
+      <num>7</num>
+      <text>To administer any funds within the control of the Band; to make expenditures from available funds for tribal purposes, including salaries and expenses of tribal officials or employees. All expenditures of tribal funds under the control of the Tribal Council shall be authorized by resolution duly enacted by the Tribal Council in legal session and the amounts so expended shall be a matter of public record to the members of the Band at all reasonable times.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>8</num>
+      <text>The Tribal Council of the Band shall prepare annual budget requests for advancement to the control of the Band such money as now or may hereafter be deposited to the credit of the Band in the United States Treasury or which may hereafter be appropriated for the use of the Band.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>9</num>
+      <text>To deposit to the credit of the Band of Chippewa Indians tribal funds, without limitation on the amount in any account, in any approved National or State Bank whose deposits are insured by an agency of the Federal Government, or with a bonded disbursing officer of the United States whenever the conditions prescribed by the Secretary of the Interior, or his authorized representative, in connection with such advances required the advance to be so deposited.</text>
+      <annotations/>
+    </section>
+    <text class="center">
+      <strong>(c) - Business Powers</strong>
+    </text>
+    <section>
+      <num>10</num>
+      <text>To manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws. (Amendment X, approved October 25, 1990)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>11</num>
+      <text>To engage in any business that will further the economic well-being of the members of the tribe, or to undertake any programs or projects designed for the economic advancement of the people. The services of a licensed attorney with training and experience in corporate law shall be secured and initiated to oversee programs or projects designed for the economic advancement of the tribe, on a continuing basis. (Amendment XXVI, Approved August 7, 2001)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>12</num>
+      <text>To borrow money from the Federal Government, or other source, and to direct the use of such funds for productive purposes, or to loan the money thus borrowed to members of the tribe, with the approval of the Secretary of the Interior, or his authorized representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13</num>
+      <text>To pledge or assign chattel or future income due or to become due, provided such agreement, pledge, assignment or extension thereof shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>14</num>
+      <text>To make and perform contracts and agreements of every description, not inconsistent with law or the provisions of this Constitution and Bylaws, provided that any contract shall be subject to the approval of the Secretary of the Interior, or his authorized representative.</text>
+      <annotations/>
+    </section>
   </container>
   <container>
     <prefix>Article</prefix>

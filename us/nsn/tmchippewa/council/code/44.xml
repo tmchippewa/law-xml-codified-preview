@@ -4,21 +4,21 @@
   <heading>Fema Floodplain Ordinance</heading>
   <prefix>Title</prefix>
   <container>
-    <num>44.00</num>
+    <num>44.01</num>
     <heading>Authorization, Findings of Fact, Purpose and Objectives</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.01</num>
+      <num>44.01.010</num>
       <heading>Authorization</heading>
       <text>Article IX (a)(1) Of the Turtle Mountain Chippewa Constitution authorizes the Tribal Council to represent the Band and to negotiate with the Federal, State, and local governments and with private persons; and</text>
       <text>Article IX I(10) of the Turtle Mountain Chippewa Constitution authorizes the Tribal Council to manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws.</text>
       <text>Under this authority, the Turtle Mountain Band of Chippewa Tribal Council hereby enacts the following:</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.01 was formerly codified as 44.0001</annotation>
+        <annotation type="Prior Codifications">§44.01.010 was formerly codified as 44.0001</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02</num>
+      <num>44.01.020</num>
       <heading>Findings of Fact</heading>
       <para>
         <num>(a)</num>
@@ -29,11 +29,11 @@
         <text>Flood losses caused by the cumulative effect of obstructions in the special flood hazard areas cause increases in flood heights and velocities.  Inadequately flood-proofed, elevated or otherwise unprotected structures also contribute to the flood loss.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.02 was formerly codified as 44.0002</annotation>
+        <annotation type="Prior Codifications">§44.01.020 was formerly codified as 44.0002</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.03</num>
+      <num>44.01.030</num>
       <heading>Statement of Purpose</heading>
       <para>
         <num>(a)</num>
@@ -68,11 +68,11 @@
         <text>To ensure that those who occupy or use the special flood hazard areas assume responsibility for their actions.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.03 was formerly codified as 44.0003</annotation>
+        <annotation type="Prior Codifications">§44.01.030 was formerly codified as 44.0003</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.04</num>
+      <num>44.01.040</num>
       <heading>Methods of Reducing Flood Losses</heading>
       <text>In order to accomplish its purposes, this ordinance includes methods and provisions for:</text>
       <para>
@@ -96,16 +96,16 @@
         <text>Preventing or regulating the construction of flood barriers which will unnaturally divert flood waters or which may increase flood hazards in other areas.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.04 was formerly codified as 44.0004</annotation>
+        <annotation type="Prior Codifications">§44.01.040 was formerly codified as 44.0004</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.01</num>
+    <num>44.02</num>
     <heading>Definitions</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.01.010</num>
+      <num>44.02.010</num>
       <heading>Definitions</heading>
       <text>Unless specifically defined below, words or phrases used in this ordinance shall be interpreted so as to give them the meaning they have in common usage and to give this ordinance it's most reasonable application.</text>
       <para>
@@ -245,48 +245,48 @@
         <text>"VARIANCE" means a grant of relief from the requirements of this ordinance which permits construction in a manner that would otherwise be prohibited by this ordinance.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.01.010 was formerly codified as 44.0101</annotation>
+        <annotation type="Prior Codifications">§44.02.010 was formerly codified as 44.0101</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.02</num>
+    <num>44.03</num>
     <heading>General Provisions</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.02.010</num>
+      <num>44.03.010</num>
       <heading>Lands to Which This Ordinance Applies</heading>
       <text>This ordinance shall apply to all special flood hazard areas within the jurisdiction of the Turtle Mountain Band of Chippewa Indians in Rolette County, North Dakota, including all Tribal Trust Land, Individual Indian Trust Land, Federally managed land, Tribally owned land, and individual Indian owned lands within jurisdiction.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.010 was formerly codified as 44.0201</annotation>
+        <annotation type="Prior Codifications">§44.03.010 was formerly codified as 44.0201</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02.020</num>
+      <num>44.03.020</num>
       <heading>Basis for Establishing the Special Flood Hazard Areas</heading>
       <text>The special flood hazard areas identified by the Federal Emergency Management Agency in a scientific and engineering report entitled "The Flood Insurance Study for the Turtle Mountain Indian Reservation (dated July 6, 2010)" with an accompanying Flood Insurance Rate Map and all subsequent revisions thereto is hereby adopted by reference and declared to be a part of this ordinance.  The Flood Insurance Study is on file at the Turtle Mountain Band of Chippewa Indians, Hwy 281 West, Belcourt, North Dakota.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.020 was formerly codified as 44.0202</annotation>
+        <annotation type="Prior Codifications">§44.03.020 was formerly codified as 44.0202</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02.030</num>
+      <num>44.03.030</num>
       <heading>Compliance</heading>
       <text>No structure or land shall hereafter be constructed, located, extended, converted, or altered without full compliance with the terms of this ordinance and other applicable tribal and federal regulations.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.030 was formerly codified as 44.0203</annotation>
+        <annotation type="Prior Codifications">§44.03.030 was formerly codified as 44.0203</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02.040</num>
+      <num>44.03.040</num>
       <heading>Greater Restrictions</heading>
       <text>This ordinance is not intended to repeal, remedy, or impair any existing easements, covenants, or deed restrictions.  However, where this ordinance and another ordinance, easement, covenant, or deed restriction conflict or overlap, whichever imposes the more stringent restrictions shall prevail.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.040 was formerly codified as 44.0204</annotation>
+        <annotation type="Prior Codifications">§44.03.040 was formerly codified as 44.0204</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02.050</num>
+      <num>44.03.050</num>
       <heading>Interpretation</heading>
       <text>In the interpretation and application of this ordinance, all provisions shall be:</text>
       <para>
@@ -302,24 +302,24 @@
         <text>Deemed neither to limit nor repeal any other powers of the Tribe.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.050 was formerly codified as 44.0205</annotation>
+        <annotation type="Prior Codifications">§44.03.050 was formerly codified as 44.0205</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.02.060</num>
+      <num>44.03.060</num>
       <heading>Warning and Disclaimer or Liability</heading>
       <text>The degree of flood protection required by this ordinance is considered reasonable for regulatory purposes and is based on scientific and engineering considerations.  Larger floods can and will occur on rare occasions.  Flood heights may be increased by manmade or natural causes.  This ordinance does not imply that land outside the special flood hazard areas or uses permitted within such areas will be free from flooding or flood damages.  This ordinance shall not create liability on the part of the Turtle Mountain Band of Chippewa Indians, any officer or employee thereof, or the Federal Emergency Management Agency, for any flood damages that result from reliance on this ordinance or any administrative decision lawfully made there under.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.02.060 was formerly codified as 44.0206</annotation>
+        <annotation type="Prior Codifications">§44.03.060 was formerly codified as 44.0206</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.03</num>
+    <num>44.04</num>
     <heading>Administration</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.03.010</num>
+      <num>44.04.010</num>
       <heading>Establishment of Development Permit</heading>
       <text>A development permit shall be obtained before construction or development begins within any special flood hazard area established in Section 3.2.  Application for a development permit shall be made on forms furnished by the  Tribe and may include, but not be limited to:  plans in duplicate drawn to scale showing the nature, location, dimensions, and elevations of the area in question; existing or proposed structures, fill storage materials, drainage facilities; and the location of the foregoing.  Specifically, the following information is required:</text>
       <para>
@@ -339,19 +339,19 @@
         <text>Description of the extent to which any watercourse will be altered or relocated as a result of proposed development.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.03.010 was formerly codified as 44.0301</annotation>
+        <annotation type="Prior Codifications">§44.04.010 was formerly codified as 44.0301</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.03.020</num>
+      <num>44.04.020</num>
       <heading>Designation of the Director of Natural Resources</heading>
       <text>The Director of Natural Resources (and his/her authorized delegate) is hereby appointed to administer and implement this ordinance by granting or denying development permit applications in accordance with its provisions.</text>
       <annotations>
-        <annotation type="Prior Codifications">§44.03.020 was formerly codified as 44.0302</annotation>
+        <annotation type="Prior Codifications">§44.04.020 was formerly codified as 44.0302</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.03.030</num>
+      <num>44.04.030</num>
       <heading>Duties and Responsibilities of the Director/Delegate</heading>
       <text>Duties of the Director/Delegate shall include, but not be limited to:</text>
       <para>
@@ -367,13 +367,13 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Review all development permits to determine if the proposed development is located in the floodway.  If located in the floodway, assure that the encroachment provisions of <cite path="§44.05.030|(a)">Section 44.05.030(a)</cite> are met.</text>
+          <text>Review all development permits to determine if the proposed development is located in the floodway.  If located in the floodway, assure that the encroachment provisions of <cite path="§44.06.030|(a)">Section 44.06.030(a)</cite> are met.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
         <text>Use of Other Base Flood Data.</text>
-        <text>When base flood elevation data has not been provided in accordance with Section 3.2, Basis For Establishing The Special Flood Hazard Areas, the                                                 Director/Delegate shall obtain, review, and reasonably utilize any base flood elevation data and floodway data available (known as best available data) from a federal, state, or other source, as criteria for requiring that new construction, substantial improvements, or other development in the floodplain are administered in accordance with <cite path="§44.05.020">Section 44.05.020</cite>, Specific Standards.</text>
+        <text>When base flood elevation data has not been provided in accordance with Section 3.2, Basis For Establishing The Special Flood Hazard Areas, the                                                 Director/Delegate shall obtain, review, and reasonably utilize any base flood elevation data and floodway data available (known as best available data) from a federal, state, or other source, as criteria for requiring that new construction, substantial improvements, or other development in the floodplain are administered in accordance with <cite path="§44.06.020">Section 44.06.020</cite>, Specific Standards.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -391,7 +391,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>maintain the flood-proofing certifications required in <cite path="§44.01.010|(c)">Section 44.01.010(c)</cite>.</text>
+            <text>maintain the flood-proofing certifications required in <cite path="§44.02.010|(c)">Section 44.02.010(c)</cite>.</text>
           </para>
         </para>
         <para>
@@ -419,19 +419,19 @@
       <para>
         <num>(e)</num>
         <text>Interpretation of Flood Insurance Rate Map (FIRM) Boundaries.</text>
-        <text>Make interpretation where needed, as to the exact location of the boundaries of the special flood hazard areas (for example, where there appears to be a conflict between a mapped boundary and actual field conditions).  The person contesting the location of the boundary shall be given a reasonable opportunity to appeal the interpretation as provided in <cite path="44|44.04">Chapter 44.04</cite>.</text>
+        <text>Make interpretation where needed, as to the exact location of the boundaries of the special flood hazard areas (for example, where there appears to be a conflict between a mapped boundary and actual field conditions).  The person contesting the location of the boundary shall be given a reasonable opportunity to appeal the interpretation as provided in <cite path="44|44.05">Chapter 44.05</cite>.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.03.030 was formerly codified as 44.0303</annotation>
+        <annotation type="Prior Codifications">§44.04.030 was formerly codified as 44.0303</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.04</num>
+    <num>44.05</num>
     <heading>Variance Procedure</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.04.010</num>
+      <num>44.05.010</num>
       <heading>Appeal Board</heading>
       <para>
         <num>(a)</num>
@@ -491,26 +491,26 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Generally, variances may be issued for new construction and substantial improvements to be erected on a lot of one-half acre to less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing items (a-k) in <cite path="§44.04.010|(c)">Section 44.04.010(c)</cite> have been fully considered.  As the lot size increases beyond the one-half acre, the technical justification required for issuing the variance increases.</text>
+        <text>Generally, variances may be issued for new construction and substantial improvements to be erected on a lot of one-half acre to less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing items (a-k) in <cite path="§44.05.010|(c)">Section 44.05.010(c)</cite> have been fully considered.  As the lot size increases beyond the one-half acre, the technical justification required for issuing the variance increases.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Upon consideration of the factors of <cite path="§44.04.010|(d)">Section 44.04.010(d)</cite> and the purposes of this ordinance, the Tribal Council may attach such conditions to the granting of variances as it deems necessary to further the purposes of this ordinance.</text>
+        <text>Upon consideration of the factors of <cite path="§44.05.010|(d)">Section 44.05.010(d)</cite> and the purposes of this ordinance, the Tribal Council may attach such conditions to the granting of variances as it deems necessary to further the purposes of this ordinance.</text>
       </para>
       <para>
         <num>(f)</num>
         <text>The Director/Delegate shall maintain the records of all appeal actions and report any variances to the Federal Emergency Management Agency upon request.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.04.010 was formerly codified as 44.0401</annotation>
+        <annotation type="Prior Codifications">§44.05.010 was formerly codified as 44.0401</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.04.020</num>
+      <num>44.05.020</num>
       <heading>Conditions for Variances</heading>
       <para>
         <num>(a)</num>
-        <text>Variances may be issued for the reconstruction, rehabilitation, or restoration of structures listed on the National Register of Historic Places or the State Inventory of Historic Places, without regard to the procedures set forth in the remainder of <cite path="§44.04.020">this section</cite>.</text>
+        <text>Variances may be issued for the reconstruction, rehabilitation, or restoration of structures listed on the National Register of Historic Places or the State Inventory of Historic Places, without regard to the procedures set forth in the remainder of <cite path="§44.05.020">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -533,7 +533,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>a determination that the granting of a variance will not result in increased flood heights, additional threats to public safety, cause fraud on or victimization of the public as identified in <cite path="§44.04.010|(d)">Section 44.04.010(d)</cite>, or conflict with existing local laws or ordinances.</text>
+          <text>a determination that the granting of a variance will not result in increased flood heights, additional threats to public safety, cause fraud on or victimization of the public as identified in <cite path="§44.05.010|(d)">Section 44.05.010(d)</cite>, or conflict with existing local laws or ordinances.</text>
         </para>
       </para>
       <para>
@@ -541,16 +541,16 @@
         <text>Any applicant to whom a variance is granted shall be given written notice that the structure will be permitted to be built with a lowest floor elevation below the base flood elevation and that the cost of flood insurance will be commensurate with the increased risk resulting from the reduced lowest floor elevation.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.04.020 was formerly codified as 44.0402</annotation>
+        <annotation type="Prior Codifications">§44.05.020 was formerly codified as 44.0402</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.05</num>
+    <num>44.06</num>
     <heading>Provisions for Flood Hazard Reduction</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.05.010</num>
+      <num>44.06.010</num>
       <heading>General Standards</heading>
       <text>In all special flood hazard areas the following standards are required:</text>
       <para>
@@ -618,13 +618,13 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.05.010 was formerly codified as 44.0501</annotation>
+        <annotation type="Prior Codifications">§44.06.010 was formerly codified as 44.0501</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.05.020</num>
+      <num>44.06.020</num>
       <heading>Specific Standards</heading>
-      <text>In all special flood hazard areas where base flood elevation data have been provided as set forth in <cite path="44.0301">Chapter 44.0301</cite>, Establishment of development permit, or <cite path="§44.03.020">Section 44.03.020</cite>, Use of Other Base Flood Data, the following provisions are required:</text>
+      <text>In all special flood hazard areas where base flood elevation data have been provided as set forth in <cite path="44.0301">Chapter 44.0301</cite>, Establishment of development permit, or <cite path="§44.04.020">Section 44.04.020</cite>, Use of Other Base Flood Data, the following provisions are required:</text>
       <para>
         <num>(a)</num>
         <text>Residential Construction.</text>
@@ -644,7 +644,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Be certified by a registered professional engineer or architect that the standards of this subsection are satisfied.  Such certification shall be provided to the official as set forth in <cite path="§44.03.030|(b)">Section 44.03.030(b)</cite>.</text>
+          <text>Be certified by a registered professional engineer or architect that the standards of this subsection are satisfied.  Such certification shall be provided to the official as set forth in <cite path="§44.04.030|(b)">Section 44.04.030(b)</cite>.</text>
         </para>
       </para>
       <para>
@@ -660,11 +660,11 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.05.020 was formerly codified as 44.0502</annotation>
+        <annotation type="Prior Codifications">§44.06.020 was formerly codified as 44.0502</annotation>
       </annotations>
     </section>
     <section>
-      <num>44.05.030</num>
+      <num>44.06.030</num>
       <heading>Floodways</heading>
       <text>Located within the special flood hazard areas established in Section 3.2 are areas designated as floodways.  Since the floodway is an extremely hazardous area due to the velocity of flood waters which carry debris, potential projectiles, and erosion potential, the following provisions apply:</text>
       <para>
@@ -673,19 +673,19 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>If <cite path="§44.05.030|(a)">Section 44.05.030(a)</cite> is satisfied, all new construction and substantial improvements shall comply with all applicable flood hazard reduction provisions of <cite path="44|44.05">this chapter</cite> Provisions for Flood Hazard Reduction.</text>
+        <text>If <cite path="§44.06.030|(a)">Section 44.06.030(a)</cite> is satisfied, all new construction and substantial improvements shall comply with all applicable flood hazard reduction provisions of <cite path="44|44.06">this chapter</cite> Provisions for Flood Hazard Reduction.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.05.030 was formerly codified as 44.0503</annotation>
+        <annotation type="Prior Codifications">§44.06.030 was formerly codified as 44.0503</annotation>
       </annotations>
     </section>
   </container>
   <container>
-    <num>44.06</num>
+    <num>44.07</num>
     <heading>Penalties for Violations</heading>
     <prefix>Chapter</prefix>
     <section>
-      <num>44.06.010</num>
+      <num>44.07.010</num>
       <heading>Penalties</heading>
       <para>
         <num>(a)</num>
@@ -696,7 +696,7 @@
         <text>Nothing herein contained shall prevent the Turtle Mountain Tribe from taking such other lawful action as is necessary to prevent or remedy any violation.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§44.06.010 was formerly codified as 44.0601</annotation>
+        <annotation type="Prior Codifications">§44.07.010 was formerly codified as 44.0601</annotation>
       </annotations>
     </section>
   </container>
