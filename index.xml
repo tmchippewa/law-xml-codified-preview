@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/tmchippewa/law-xml</xml-bulk>
       <html-bulk>https://github.com/tmchippewa/law-html</html-bulk>
-      <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
+      <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
       <html/>
     </canonical-urls>
     <history-start>0000-01-01</history-start>
