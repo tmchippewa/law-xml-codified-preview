@@ -90,8 +90,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In a civil case the equivalent to the amount of the judgment, including costs, or the value of the property, including costs, if the judgment is for the return of the property. The clerk of the Tribal Court, in</text>
-          <text>lieu of bond, may provide for the safe keeping of the property or accept the surrender of other property as collateral as long as such property is of comparable worth.</text>
+          <text>In a civil case the equivalent to the amount of the judgment, including costs, or the value of the property, including costs, if the judgment is for the return of the property. The clerk of the Tribal Court, in lieu of bond, may provide for the safe keeping of the property or accept the surrender of other property as collateral as long as such property is of comparable worth.</text>
         </para>
       </para>
       <para>
@@ -110,7 +109,7 @@
     <section>
       <num>4.02.010</num>
       <heading>Property Subject to Execution</heading>
-      <text>All property shall be subject to execution if not Tribal or Federal law.</text>
+      <text>All property shall be subject to execution if not otherwise exempted by Tribal or Federal law.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.02.010 was formerly codified as 4.0201</annotation>
       </annotations>
@@ -187,8 +186,7 @@
     <section>
       <num>4.02.050</num>
       <heading>Proceeds of Sale Exempt; Disposition</heading>
-      <text>If the sale of a homestead is made, the proceeds thereof, to the amount of the homestead exemption must be paid to the claimant and the residue applied</text>
-      <text>to the satisfaction of the execution. When the execution is against a married claimant whose spouse is living, the court may direct that the amount be deposited in court to be paid out only on the joint receipt of the husband and wife, and it shall possess all the protection against legal process and voluntary disposition by either spouse as did the original homestead premises whether paid directly to the claimant or to the husband and wife jointly. Any excess funds remaining after the sale shall be returned to the debtor. First right to repurchase the property shall be with the debtor. In addition, the debtor has the right to participate in any auction held pursuant to <cite path="4|4.02">this chapter</cite>.</text>
+      <text>If the sale of a homestead is made, the proceeds thereof, to the amount of the homestead exemption must be paid to the claimant and the residue applied to the satisfaction of the execution. When the execution is against a married claimant whose spouse is living, the court may direct that the amount be deposited in court to be paid out only on the joint receipt of the husband and wife, and it shall possess all the protection against legal process and voluntary disposition by either spouse as did the original homestead premises whether paid directly to the claimant or to the husband and wife jointly. Any excess funds remaining after the sale shall be returned to the debtor. First right to repurchase the property shall be with the debtor. In addition, the debtor has the right to participate in any auction held pursuant to <cite path="4|4.02">this chapter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.02.050 was formerly codified as 4.0205</annotation>
       </annotations>
@@ -275,8 +273,7 @@
     <section>
       <num>4.03.020</num>
       <heading>Assessment of Costs</heading>
-      <text>The Court may assess costs of the case against the party or parties   against</text>
-      <text>whom judgment is given. Such costs shall consist of the expenses of voluntary witnesses for which either party may be responsible and the fees of jurors in those cases where a jury trial is held. The Court may direct payment of incidental expenses to include attorney's or agent's fees unless specifically provided for elsewhere in this Code.</text>
+      <text>The Court may assess costs of the case against the party or parties against whom judgment is given. Such costs shall consist of the expenses of voluntary witnesses for which either party may be responsible and the fees of jurors in those cases where a jury trial is held. The Court may direct payment of incidental expenses to include attorney's or agent's fees unless specifically provided for elsewhere in this Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.03.020 was formerly codified as 4.0302</annotation>
       </annotations>
@@ -374,7 +371,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Person includes an individual, an individual's personal representative or other fiduciary, any two or more persons having a joint or common interest, a partnership, an association, a corporation, a limited liability company, and any other legal or commercial entity. Plaintiff means every judgment creditor.</text>
+        <text>Person includes an individual, an individual's personal representative or other fiduciary, any two or more persons having a joint or common interest, a partnership, an association, a corporation, a limited liability company, and any other legal or commercial entity.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Plaintiff means every judgment creditor.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§4.05.010 was formerly codified as 4.0501</annotation>
@@ -640,12 +641,8 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Adverse Interest. Enter on the line below any amounts claimed by other persons by reason of ownership or interest in the defendant's property. State each person's name and address and the nature of that person's claim, if known. (Any assignment of wages made by the defendant within ten</text>
-        <para>
-          <num>(1)</num>
-          <text>days before the receipt of the first garnishment on a debt is void and should be disregarded)</text>
-          <text>_______________________________________________</text>
-        </para>
+        <text>Adverse Interest. Enter on the line below any amounts claimed by other persons by reason of ownership or interest in the defendant's property. State each person's name and address and the nature of that person's claim, if known. (Any assignment of wages made by the defendant within ten (10) days before the receipt of the first garnishment on a debt is void and should be disregarded)</text>
+        <text>_______________________________________________</text>
       </para>
       <para>
         <num>(l)</num>

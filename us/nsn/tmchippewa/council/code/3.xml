@@ -35,7 +35,7 @@
     <section>
       <num>3.01.040</num>
       <heading>Claiming Privilege</heading>
-      <text>The objection that the communication is privileged must be made behalf of the person making the communication.</text>
+      <text>The objection that the communication is privileged must be made by or in behalf of the person making the communication.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.01.040 was formerly codified as 3.0104</annotation>
       </annotations>
@@ -244,8 +244,7 @@
     <section>
       <num>3.02.110</num>
       <heading>Inspection and Examination of Subject Matter by Experts; Cross-Examination of Experts</heading>
-      <text>Expert witnesses appointed by the Court shall, at the request of the Court or of any party, make such inspection and examination of the person or  subject</text>
-      <text>matter committed to them as they deem necessary for the full understanding thereof and such further reasonable inspection and examination as any party may request. Reasonable notice shall be given and each party shall be permitted to be represented at such inspection and examination. Expert witnesses shall be subject to cross-examination by any party on his qualifications and the subject of his testimony.</text>
+      <text>Expert witnesses appointed by the Court shall, at the request of the Court or of any party, make such inspection and examination of the person or subject matter committed to them as they deem necessary for the full understanding thereof and such further reasonable inspection and examination as any party may request. Reasonable notice shall be given and each party shall be permitted to be represented at such inspection and examination. Expert witnesses shall be subject to cross-examination by any party on his qualifications and the subject of his testimony.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.02.110 was formerly codified as 3.0211</annotation>
       </annotations>
@@ -590,7 +589,8 @@
     </section>
     <section>
       <num>3.03.150</num>
-      <heading>Admissibility of Declarations of Pedigree; Witness Has No Personal Knowledge. Evidence of a Hearsay Statement of a Matter Concerning a Declarant's Own Birth, Marriage, Divorce, Legitimacy, Relationship by Blood or Marriage, Race-Ancestry or Other Similar Fact of His Family History, Even Though the Witness Had No Means of Acquiring Personal Knowledge of the Matter Declared:</heading>
+      <heading>Admissibility of Declarations of Pedigree; Witness Has No Personal Knowledge.</heading>
+      <text>Evidence of a hearsay statement of a matter concerning a declarant's own birth, marriage, divorce, legitimacy, relationship by blood or marriage, race-ancestry or other similar fact of his family history, even though the witness had no means of acquiring personal knowledge of the matter declared:</text>
       <para>
         <num>(a)</num>
         <text>is admissible if the Court finds that the declarant is unavailable, and</text>

@@ -1927,33 +1927,33 @@
       </annotations>
     </section>
     <section>
-      <num>5.07.060</num>
+      <num>5.07.050</num>
       <heading>Confidentiality of Reporter; Immunity from Legal Liability</heading>
-      <text>Any person, other than the alleged perpetrator, acting in good faith in the making of a report of child abuse or neglect, or in providing protective services under this Code, is held immune from any liability, civil or criminal, that otherwise might result. For the purposes of <cite path="§5.07.060">this section</cite>, the good faith of any person mandated to report cases of child abuse or neglect shall be presumed. Any information regarding the source of the child abuse or neglect report shall be kept confidential and identity of the reporter shall not be disclosed.</text>
+      <text>Any person, other than the alleged perpetrator, acting in good faith in the making of a report of child abuse or neglect, or in providing protective services under this Code, is held immune from any liability, civil or criminal, that otherwise might result. For the purposes of <cite path="§5.07.050">this section</cite>, the good faith of any person mandated to report cases of child abuse or neglect shall be presumed. Any information regarding the source of the child abuse or neglect report shall be kept confidential and identity of the reporter shall not be disclosed.</text>
       <text>An individual who willfully makes a false report or provides information they know or should have known to be false is liable in a civil action for treble damages including exemplary damages.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.060 was formerly codified as 5.0705</annotation>
+        <annotation type="Prior Codifications">§5.07.050 was formerly codified as 5.0705</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>5.07.060</num>
+      <heading>To Whom Reported</heading>
+      <text>All persons mandated or permitted to report cases of known or suspected child abuse shall immediately file oral and/or written reports surrounding the circumstances with the Bureau of Indian Affairs Branch of Social Services for any Indian child whose home is located on the Turtle Mountain Indian Reservation or located on tribal jurisdiction. In the event the Indian child's family residence is not located on Turtle Mountain Indian Reservation or on tribal jurisdiction, such report shall be filed with the Rolette County Social Service office.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.060 was formerly codified as 5.0706</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.070</num>
-      <heading>To Whom Reported</heading>
-      <text>All persons mandated or permitted to report cases of known or suspected child abuse shall immediately file oral and/or written reports surrounding the circumstances with the Bureau of Indian Affairs Branch of Social Services for any Indian child whose home is located on the Turtle Mountain Indian Reservation or located on tribal jurisdiction. In the event the Indian child's family residence is not located on Turtle Mountain Indian Reservation or on tribal jurisdiction, such report shall be filed with the Rolette County Social Service office.</text>
-      <annotations>
-        <annotation type="Prior Codifications">§5.07.070 was formerly codified as 5.0706</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>5.07.080</num>
       <heading>Penalty for Not Reporting</heading>
       <text>Any person required by <cite path="5|5.07">this chapter</cite> to report or investigate a case of known or suspected child abuse who willfully fails to do so is guilty of an offense and upon conviction thereof shall be sentenced to labor for a period of time not to exceed thirty (30) days, or to a fine not to exceed one hundred dollars ($100.00) or to both such imprisonment and fine, with costs.</text>
       <text>Any individual required to report a suspected case of child abuse or neglect who fails to do so, and is not subject to the criminal jurisdiction of the Turtle Mountain Tribe shall be civilly liable for damages proximately caused for that failure.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.080 was formerly codified as 5.0707</annotation>
+        <annotation type="Prior Codifications">§5.07.070 was formerly codified as 5.0707</annotation>
       </annotations>
     </section>
     <section>
-      <num>5.07.090</num>
+      <num>5.07.080</num>
       <heading>Investigation of the Report</heading>
       <text>Upon receipt of a report of suspected child abuse or neglect, the Office of Tribal Social Services in cooperation with Bureau of Indian Affairs or tribal law enforcement shall conduct a joint investigation. If a statement of a suspect is obtained by law enforcement, a copy of the statement shall be provided to Tribal Social Services. Should a disagreement develop between social services and law enforcement, which significantly impedes the investigation, the tribal prosecutor shall conduct the investigation. Investigation shall consist of the following criteria:</text>
       <para>
@@ -1990,11 +1990,11 @@
         <text>Invoke the authority of the Tribal Court in situations where there is risk to the child, should he/she remain at home, or where there is active resistance to child protective intervention.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.090 was formerly codified as 5.0708</annotation>
+        <annotation type="Prior Codifications">§5.07.080 was formerly codified as 5.0708</annotation>
       </annotations>
     </section>
     <section>
-      <num>5.07.100</num>
+      <num>5.07.090</num>
       <heading>Emergency Removal</heading>
       <para>
         <num>(a)</num>
@@ -2050,27 +2050,27 @@
         <text>accomplished by a restraining order or protective custody proceedings.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.100 was formerly codified as 5.0709</annotation>
+        <annotation type="Prior Codifications">§5.07.090 was formerly codified as 5.0709</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>5.07.100</num>
+      <heading>Immediate Custody of Child</heading>
+      <text>If it appears, from an affidavit or sworn statement presented to the Tribal Judge, that the welfare of the child requires immediate protection, the Judge may endorse an emergency order for placement of the child in a facility or with an agency as designated by the Court.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.100 was formerly codified as 5.0710</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.110</num>
-      <heading>Immediate Custody of Child</heading>
-      <text>If it appears, from an affidavit or sworn statement presented to the Tribal Judge, that the welfare of the child requires immediate protection, the Judge may endorse an emergency order for placement of the child in a facility or with an agency as designated by the Court.</text>
+      <heading>Emergency Custody of Child</heading>
+      <text>If it appears that a child is in danger for whatever reason and the Court is unavailable to issue an emergency order, an officer of the Court including a police officer, a probation officer, or a social worker may make an emergency removal of a child and arrangements for appropriate medical shelter care if such removal is deemed necessary for the welfare of that child. Such removals shall be done on an emergency basis only. The officer and/or worker who makes an emergency removal of a child shall submit a written report on the incident along with the petition for a custody order before the end of the next working day of the Court.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.110 was formerly codified as 5.0710</annotation>
+        <annotation type="Prior Codifications">§5.07.110 was formerly codified as 5.0711</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.120</num>
-      <heading>Emergency Custody of Child</heading>
-      <text>If it appears that a child is in danger for whatever reason and the Court is unavailable to issue an emergency order, an officer of the Court including a police officer, a probation officer, or a social worker may make an emergency removal of a child and arrangements for appropriate medical shelter care if such removal is deemed necessary for the welfare of that child. Such removals shall be done on an emergency basis only. The officer and/or worker who makes an emergency removal of a child shall submit a written report on the incident along with the petition for a custody order before the end of the next working day of the Court.</text>
-      <annotations>
-        <annotation type="Prior Codifications">§5.07.120 was formerly codified as 5.0711</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>5.07.130</num>
       <heading>Termination of Emergency Protective Care</heading>
       <text>In no case shall emergency protective care extend beyond seventy-two (72) hours. At the expiration of this period, the Court shall:</text>
       <para>
@@ -2082,80 +2082,80 @@
         <text>Cause to be filed with the Tribal Court, a petition for declaration of an abused/neglected or deprived child in need of care, requesting temporary custody of the child pending proceedings upon the petition, as set forth in this part. Such petition shall be accompanied by a copy of the written report of the person taking the child into emergency protective care, setting forth the findings of the social service investigation into the case and the basis for Social Services request for temporary custody.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.130 was formerly codified as 5.0712</annotation>
+        <annotation type="Prior Codifications">§5.07.120 was formerly codified as 5.0712</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>5.07.130</num>
+      <heading>Cooperation Required</heading>
+      <text>All law and order officials, Tribal Court, and appropriate social service and health agencies, schools, and others shall cooperate in fulfillment of the purposes of <cite path="§5.07.130">this section</cite> of the Code.</text>
+      <annotations>
+        <annotation type="Prior Codifications">§5.07.130 was formerly codified as 5.0713</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.140</num>
-      <heading>Cooperation Required</heading>
-      <text>All law and order officials, Tribal Court, and appropriate social service and health agencies, schools, and others shall cooperate in fulfillment of the purposes of <cite path="§5.07.140">this section</cite> of the Code.</text>
+      <heading>Interviewing the Child</heading>
+      <text>When validation of a report of child abuse, neglect, or exploitation can be accomplished only through an interview with the child, this contact may take place in the school, hospital, other medical facility, or child care facility with private access to the child facilitated by the administrator/officer who is presumed acting in good faith.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.140 was formerly codified as 5.0713</annotation>
+        <annotation type="Prior Codifications">§5.07.140 was formerly codified as 5.0714</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.150</num>
-      <heading>Interviewing the Child</heading>
-      <text>When validation of a report of child abuse, neglect, or exploitation can be accomplished only through an interview with the child, this contact may take place in the school, hospital, other medical facility, or child care facility with private access to the child facilitated by the administrator/officer who is presumed acting in good faith.</text>
+      <heading>Disclosure of Information</heading>
+      <text>During the process of investigation, there may be need to gather information such as school records, police records, medical records, photographs, and records of other agencies. Such information shall be requested of the administrative officer of the facility, with civil immunity afforded such administrator/officer who is presumed acting in good faith.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.150 was formerly codified as 5.0714</annotation>
+        <annotation type="Prior Codifications">§5.07.150 was formerly codified as 5.0715</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.160</num>
-      <heading>Disclosure of Information</heading>
-      <text>During the process of investigation, there may be need to gather information such as school records, police records, medical records, photographs, and records of other agencies. Such information shall be requested of the administrative officer of the facility, with civil immunity afforded such administrator/officer who is presumed acting in good faith.</text>
+      <heading>Protective Custody by a Physician</heading>
+      <text>Any physician examining a child with respect to whom abuse or neglect is known or suspected, after reasonable person having responsibility for the care of the child, may, if it appears that the child's health is in danger, keep the child in the custody of the hospital or medical facility for a period of time not to exceed ninety-six (96) hours. He must immediately notify the Tribal Court in order that the child protective proceedings may be initiated.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.160 was formerly codified as 5.0715</annotation>
+        <annotation type="Prior Codifications">§5.07.160 was formerly codified as 5.0716</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.170</num>
-      <heading>Protective Custody by a Physician</heading>
-      <text>Any physician examining a child with respect to whom abuse or neglect is known or suspected, after reasonable person having responsibility for the care of the child, may, if it appears that the child's health is in danger, keep the child in the custody of the hospital or medical facility for a period of time not to exceed ninety-six (96) hours. He must immediately notify the Tribal Court in order that the child protective proceedings may be initiated.</text>
+      <heading>Emergency Medical Treatment And/Or Examination</heading>
+      <text>Upon the sworn testimony of one or more reputable physicians, the Tribal Court may order emergency medical or surgical treatment which is immediately necessary for a child concerning whom a petition has been filed, pending the services of summons and petition upon his parents, guardian, or custodian.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.170 was formerly codified as 5.0716</annotation>
+        <annotation type="Prior Codifications">§5.07.170 was formerly codified as 5.0717</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.180</num>
-      <heading>Emergency Medical Treatment And/Or Examination</heading>
-      <text>Upon the sworn testimony of one or more reputable physicians, the Tribal Court may order emergency medical or surgical treatment which is immediately necessary for a child concerning whom a petition has been filed, pending the services of summons and petition upon his parents, guardian, or custodian.</text>
+      <heading>Legal Authority</heading>
+      <text>Is granted by this Code to the physicians to examine any child suspected to be physically/sexually abused and/or neglected without written or verbal consent of the parent/custodian in the event the parent/custodian is alleged to be the perpetrator or refuses such exam.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.180 was formerly codified as 5.0717</annotation>
+        <annotation type="Prior Codifications">§5.07.180 was formerly codified as 5.0718</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.190</num>
-      <heading>Legal Authority</heading>
-      <text>Is granted by this Code to the physicians to examine any child suspected to be physically/sexually abused and/or neglected without written or verbal consent of the parent/custodian in the event the parent/custodian is alleged to be the perpetrator or refuses such exam.</text>
+      <heading>Photographs and X-Rays</heading>
+      <text>Any person or official required by this Code to report known or suspected child abuse, neglect, or deprivation, may cause to be taken color photographs of the areas of injury visible on a child who is the subject of a report and, if indicated by medical consultations, cause to be performed a radiological examination of the child without the consent of the child's parents or guardian.</text>
+      <text>All photographs taken pursuant to <cite path="§5.07.190">this section</cite> of the Code shall be taken by or under the direction of law enforcement officials upon the request of any person or official required to report under <cite path="5|5.07">this chapter</cite>. All photographs or x-rays taken, or copies of them, shall be made available to the Tribal Court at the time of the Court hearing.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.190 was formerly codified as 5.0718</annotation>
+        <annotation type="Prior Codifications">§5.07.190 was formerly codified as 5.0719</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.200</num>
-      <heading>Photographs and X-Rays</heading>
-      <text>Any person or official required by this Code to report known or suspected child abuse, neglect, or deprivation, may cause to be taken color photographs of the areas of injury visible on a child who is the subject of a report and, if indicated by medical consultations, cause to be performed a radiological examination of the child without the consent of the child's parents or guardian.</text>
-      <text>All photographs taken pursuant to <cite path="§5.07.200">this section</cite> of the Code shall be taken by or under the direction of law enforcement officials upon the request of any person or official required to report under <cite path="5|5.07">this chapter</cite>. All photographs or x-rays taken, or copies of them, shall be made available to the Tribal Court at the time of the Court hearing.</text>
+      <heading>Registry of Reports</heading>
+      <text>The Office of Tribal Social Services shall maintain a registry for the records of cases involving allegations of child abuse or neglect, which are deemed to be substantial after investigation. Records of unsubstantiated cases shall be destroyed after three (3) years. During this three-year period, the records of unsubstantiated cases shall be sealed but made available under court order should a civil case be filed based upon a false report due to malice or attempt to deflect personal responsibility.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.200 was formerly codified as 5.0719</annotation>
+        <annotation type="Prior Codifications">§5.07.200 was formerly codified as 5.0720</annotation>
       </annotations>
     </section>
     <section>
       <num>5.07.210</num>
-      <heading>Registry of Reports</heading>
-      <text>The Office of Tribal Social Services shall maintain a registry for the records of cases involving allegations of child abuse or neglect, which are deemed to be substantial after investigation. Records of unsubstantiated cases shall be destroyed after three (3) years. During this three-year period, the records of unsubstantiated cases shall be sealed but made available under court order should a civil case be filed based upon a false report due to malice or attempt to deflect personal responsibility.</text>
-      <annotations>
-        <annotation type="Prior Codifications">§5.07.210 was formerly codified as 5.0720</annotation>
-      </annotations>
-    </section>
-    <section>
-      <num>5.07.220</num>
       <heading>A Prosecution for the Sexual Abuse Child; Statute of Limitations</heading>
       <text>A prosecution for the sexual abuse of a child where the victim was under eighteen (18) years of age at the time the offense was committed must be commenced in Tribal Court within seven (7) years after the commission of the offense. If the victim failed to report the offense within this limitation period, the limitation is three (3) years after the offense is reported to law enforcement authorities. If the victim was under the age of fifteen at the time of the commission of the abuse, the seven-year limitation does not begin to run until the victim has reached the age of fifteen. If the defendant leaves the jurisdiction of the Tribal Court after the offense has been committed, the only applicable limitation is that the complaint must be filed within seven (7) years of the act or seven (7) years of when the victim turns fifteen (15) years of age. No time during which the defendant is not an inhabitant of, or usually resident within this tribal jurisdiction, is part of the limitation.</text>
       <annotations>
-        <annotation type="Prior Codifications">§5.07.220 was formerly codified as 5.0721</annotation>
+        <annotation type="Prior Codifications">§5.07.210 was formerly codified as 5.0721</annotation>
       </annotations>
     </section>
   </container>
@@ -2165,7 +2165,7 @@
     <prefix>Chapter</prefix>
     <section>
       <num>5.08.010</num>
-      <heading>Permanent P1Anning</heading>
+      <heading>Permanent Planning</heading>
       <text>Is based on the premise that each child has a need and right to a permanent home. In accordance with the Indian Child Welfare Act of 1978, the primary goal of permanency planning is the maintenance of the family and reunification of the biological family. Permanent planning shall begin with the efforts of the social worker and Court in their initial contacts with the family. Every effort is made to provide services to the family and child with the goal of keeping the family intact.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.08.010 was formerly codified as 5.0801</annotation>
