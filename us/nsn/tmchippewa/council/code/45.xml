@@ -481,7 +481,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The term "QUALIFIED INDIVIDUAL WITH A DISABILITY" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the   essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.</text>
+        <text>The term "QUALIFIED INDIVIDUAL WITH A DISABILITY" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§45.04.010 was formerly codified as 45.0201</annotation>
@@ -498,7 +498,7 @@
     <section>
       <num>45.04.030</num>
       <heading>Enforcement</heading>
-      <text>The remedies, procedures, and rights set forth in section 505 of the Rehabilitation Act of 1973 (29 U.S.C. 794a) shall be the remedies, procedures, and rights <cite path="45">this title</cite> provides to any person alleging discrimination on the basis of disability in violation of section 202.</text>
+      <text>The remedies, procedures, and rights set forth in section 505 of the Rehabilitation Act of 1973 (29 U.S.C. 794a) shall be the remedies, procedures, and rights <cite path="45">this title</cite> provides to any person alleging discrimination on the basis of disability in violation of <cite path="§45.04.020">Section 45.04.020</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§45.04.030 was formerly codified as 45.0203</annotation>
       </annotations>
@@ -512,11 +512,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Relationship to Other Regulations. Except for "program accessibility, existing facilities," and "communications", regulations under subsection 1 shall be consistent with this Act and with the coordination regulations under part 42 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794). With respect to "program accessibility, existing facilities", and "communications", such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under such section 504.</text>
+        <text>Relationship to Other Regulations. Except for "program accessibility, existing facilities," and "communications", regulations under subsection 1 shall be consistent with this Act and with the coordination regulations under part 42 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794). With respect to "program accessibility, existing facilities", and "communications", such regulations shall be consistent with regulations and analysis as in part 39 of <cite path="28">Title 28</cite> of the Code of Federal Regulations, applicable to federally conducted activities under such section 504.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Standards. Regulations under subsection 1 shall include standards applicable to facilities and vehicles covered by this subtitle, other than facilities, stations, rail passenger cars, and vehicles covered by subtitle B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 504(a) of this Act.</text>
+        <text>Standards. Regulations under subsection (a) shall include standards applicable to facilities and vehicles covered by this subtitle, other than facilities, stations, rail passenger cars, and vehicles covered by subtitle B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 504(a) of this Act.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§45.04.040 was formerly codified as 45.0204</annotation>
@@ -531,7 +531,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Exception. Section 204 shall become effective on the date of enactment of this Act.</text>
+        <text>Exception. <cite path="§45.04.040">Section 45.04.040</cite> shall become effective on the date of enactment of this Act.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§45.04.050 was formerly codified as 45.0205</annotation>
@@ -617,7 +617,7 @@
         <text>Specific prohibitions.</text>
         <para>
           <num>(1)</num>
-          <text>Discrimination. For purposes of subsection a in <cite path="§45.05.020">this section</cite>, discrimination includes</text>
+          <text>Discrimination. For purposes of subsection (a) in <cite path="§45.05.020">this section</cite>, discrimination includes</text>
           <para>
             <num>(A)</num>
             <text>the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;</text>
@@ -636,7 +636,7 @@
           </para>
           <para>
             <num>(E)</num>
-            <text>where an entity can demonstrate that the  removal of a barrier under clause (iv) is not readily achievable, a failure to make such goods, services, facilities, privileges, advantages, or accommodations available through alternative methods if  such methods are readily achievable.</text>
+            <text>where an entity can demonstrate that the removal of a barrier under clause (iv) is not readily achievable, a failure to make such goods, services, facilities, privileges, advantages, or accommodations available through alternative methods if  such methods are readily achievable.</text>
           </para>
         </para>
         <para>
@@ -644,7 +644,7 @@
           <text>Demand responsive system. - For purposes of subsection (a), discrimination includes</text>
           <para>
             <num>(A)</num>
-            <text>a failure of a private entity which operates a demand responsive system and which is not subject to section 304 to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and</text>
+            <text>a failure of a private entity which operates a demand responsive system and which is not subject to <cite path="§45.05.040">Section 45.05.040</cite> to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and</text>
           </para>
           <para>
             <num>(B)</num>
@@ -663,7 +663,7 @@
             <text>Accessibility requirements. For purposes of subsection 1, discrimination includes</text>
             <para>
               <num>(i)</num>
-              <text>the purchase or lease of an over-the-road bus which does not comply with the regulations issued under <cite path="§45.05.060">Section 45.05.060</cite>(a)(2) by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and</text>
+              <text>the purchase or lease of an over-the-road bus which does not comply with the regulations issued under <cite path="45|45.09|45.0906|(a)|(2)">section 45.0906(a)(2)</cite> by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -685,18 +685,14 @@
       <heading>New Construction and Alterations in Public Accommodations and Commercial Facilities</heading>
       <para>
         <num>(a)</num>
-        <text>Application of Term. Except as provided in subsection (b), as applied to public accommodations and commercial facilities, discrimination for purposes of <cite path="§45.05.020">Section 45.05.020</cite>(a) includes</text>
+        <text>Application of Term. Except as provided in subsection (b), as applied to public accommodations and commercial facilities, discrimination for purposes of <cite path="§45.05.020|(a)">Section 45.05.020(a)</cite> includes</text>
         <para>
           <num>(1)</num>
           <text>a failure to design and construct facilities for first occupancy later than 30 months after the date of enactment of this Act that are readily accessible to and usable by individuals with disabilities, except where an entity can demonstrate that it is structurally impracticable to meet the requirements of such subsection in accordance with standards set forth or incorporated by reference in regulations issued under <cite path="45">this title</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>with respect to a facility or part thereof that is altered by, on behalf of, or for the use of an establishment in a manner that affects or could affect the usability of the facility or part thereof, a failure to make alterations in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs. Where the entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>accessible to and usable by individuals with disabilities where such alterations to the path 01 travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General). (b) Elevator. - Subsection (a) shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</text>
+          <text>with respect to a facility or part thereof that is altered by, on behalf of, or for the use of an establishment in a manner that affects or could affect the usability of the facility or part thereof, a failure to make alterations in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs. Where the entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities where such alterations to the path 01 travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General). (b) Elevator. - Subsection (1) shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</text>
         </para>
       </para>
       <annotations>
@@ -720,37 +716,37 @@
         <para>
           <num>(2)</num>
           <text>the failure of such entity to</text>
+          <para>
+            <num>(A)</num>
+            <text>make reasonable modifications consistent with those required under <cite path="45|45.09|45.0902|(b)|(2)|(a)|(ii)">section 45.0902(b)(2)(a)(ii)</cite>;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>provide auxiliary aids and services consistent with the requirements of <cite path="§45.03.010|(a)">Section 45.03.010(a)</cite>; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>remove barriers consistent with the requirements of <cite path="45|45.09|45.0902|(b)|(2)|(a)">section 45.0902(b)(2)(a)</cite> and with the requirements of <cite path="45|45.09|45.0903|(a)|(2)">section 45.0903(a)(2)</cite>;</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>make reasonable modifications consistent with those required under <cite path="§45.05.020">Section 45.05.020</cite>(b)(2)(a)(ii);</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>provide auxiliary aids and services consistent with the requirements of <cite path="§45.05.020">Section 45.05.020</cite>(b)(2)(a)(iii); and</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>remove barriers consistent with the requirements of <cite path="§45.05.020">Section 45.05.020</cite>(b)(2)(a) and with the requirements of <cite path="§45.05.030">Section 45.05.030</cite>(a)(2);</text>
-        </para>
-        <para>
-          <num>(6)</num>
           <text>the purchase or lease by such entity of a new vehicle (other than an automobile, a van with a seating capacity of less than eight (8) passengers, including the driver, or an over-the-road bus) which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of <cite path="§45.05.040">this section</cite>, that is not .readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; except that the new vehicle need not be readily accessible to and usable by such individuals if the new vehicle is to be used solely in a demand responsive system and if the entity can demonstrate that such system, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;</text>
         </para>
         <para>
-          <num>(7)</num>
-          <text>the purchase or lease by such entity of an over-the-road bus which does not comply with the regulations issued under <cite path="§45.03.060">Section 45.03.060</cite>(a)(2); and (b) any other failure of such entity to comply with such regulations; and</text>
+          <num>(4)</num>
+          <text>the purchase or lease by such entity of an over-the-road bus which does not comply with the regulations issued under <cite path="45|45.03|45.0306|(a)|(2)">section 45.0306(a)(2)</cite>; and (b) any other failure of such entity to comply with such regulations; and</text>
         </para>
         <para>
-          <num>(8)</num>
+          <num>(5)</num>
           <text>the purchase or lease by such entity of a new van with a seating capacity of less than 8 passengers, including the driver, which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of <cite path="§45.05.040">this section</cite> that is not readily accessible to or usable by individuals with disabilities, including individuals who use wheelchairs; except that the new van need not be readily accessible to and usable by such individuals if the entity can demonstrate that the system for which the van is being purchased or leased, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;</text>
         </para>
         <para>
-          <num>(9)</num>
+          <num>(6)</num>
           <text>the purchase or lease by such entity of a new rail passenger car that is to be used to provide specified public transportation, and for which a solicitation is made-later than 30 days after the effective date of this paragraph, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; and</text>
         </para>
         <para>
-          <num>(10)</num>
+          <num>(7)</num>
           <text>the remanufacture by such entity of a rail passenger car that is to be used to provide specified public transportation so as to extend its usable life for 10 years or more, or the purchase or lease by such entity of such a rail car, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</text>
         </para>
       </para>
@@ -782,7 +778,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The degree to which such buses and service, including any service required under sections 45.0304(b)(4) and 45.0306(a)(2), are readily accessible to and usable by individuals with disabilities.</text>
+          <text>The degree to which such buses and service, including any service required under <cite path="§45.05.040|(b)|(4)">Section 45.05.040(b)(4)</cite> and <cite path="45|45.03|45.0306|(1)|(b)">section 45.0306(a)(2)</cite>, are readily accessible to and usable by individuals with disabilities.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -810,11 +806,11 @@
         <text>Interim Accessibility Standards.</text>
         <para>
           <num>(1)</num>
-          <text>Facilities. If final regulations have not been issued pursuant to <cite path="§45.05.050">this section</cite>, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under <cite path="§45.05.050">this section</cite>, shall be enforced by Tribal Employment Rights Ordinance (TERO) Title 32 and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under section 303, except that, if such final regulation have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 504(a) of this Act, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</text>
+          <text>Facilities. If final regulations have not been issued pursuant to <cite path="§45.05.050">this section</cite>, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under <cite path="§45.05.050">this section</cite>, shall be enforced by Tribal Employment Rights Ordinance (TERO) <cite path="32">Title 32</cite> and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under <cite path="§45.05.030">Section 45.05.030</cite>, except that, if such final regulation have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 504(a) of this Act, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Vehicles and rail passenger cars. If final regulations have not been issued pursuant to <cite path="§45.05.050">this section</cite>, a private (entity shall be considered to have complied with the requirements of <cite path="45">this title</cite>, if any, that l vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under <cite path="§45.07.040">Section 45.07.040</cite>(a) of <cite path="45">this title</cite>) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with <cite path="45">this title</cite> and are in effect at the time such design is substantially completed.</text>
+          <text>Vehicles and rail passenger cars. If final regulations have not been issued pursuant to <cite path="§45.05.050">this section</cite>, a private (entity shall be considered to have complied with the requirements of <cite path="45">this title</cite>, if any, that l vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under <cite path="§45.05.040|(a)">Section 45.05.040(a)</cite> of <cite path="45">this title</cite>) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with <cite path="45">this title</cite> and are in effect at the time such design is substantially completed.</text>
         </para>
       </para>
       <annotations>
@@ -833,7 +829,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Injunctive relief. In the case of violations of <strong>section </strong>302<strong>(b)(2)(A)(iv) and section </strong>45.0903<strong>(1)</strong>, injunctive relief shall include an order to alter facilities to make Such facilities readily accessible to and usable by individuals with disabilities to the extent required by <cite path="45">this title</cite>. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by <cite path="45">this title</cite>.</text>
+          <text>Injunctive relief. In the case of violations of section 302(b)(2)(A)(iv) and <cite path="§45.05.030|(a)">Section 45.05.030(a)</cite>, injunctive relief shall include an order to alter facilities to make Such facilities readily accessible to and usable by individuals with disabilities to the extent required by <cite path="45">this title</cite>. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by <cite path="45">this title</cite>.</text>
         </para>
       </para>
       <para>
@@ -949,7 +945,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Exception. Sections 45.0902(a) for purposes of <cite path="§45.05.020">Section 45.05.020</cite>(b)(2)(b) and(c)only, 45.0904(1) for the purpose of <cite path="§45.05.040|(b)">Section 45.05.040(b)</cite>(c) only, <cite path="42|42.09|42.0904|(2)">section 42.0904(2)</cite>(c), <cite path="42|42.09|42.0905">section 42.0905</cite>, and <cite path="42|42.09|42.0906">section 42.0906</cite> shall take effect on the date of the enactment of this Act.</text>
+        <text>Exception. <cite path="45|45.09|45.0902|(2)|(a)">Sections 45.0902(a)</cite> for purposes of <cite path="45|45.09|45.0902|(2)|(b)">section 45.0902(b)(2)(b)</cite> and <cite path="45|45.09|45.0902|(2)|(c)">(c)</cite> only, <cite path="§45.05.040|(a)">Section 45.05.040(a)</cite> for the purpose of <cite path="§45.05.040|(b)|(3)">Section 45.05.040(b)(3)</cite> only, <cite path="§45.05.040|(b)|(3)">Section 45.05.040(b)(3)</cite>, <cite path="§45.05.050">Section 45.05.050</cite>, and <cite path="§45.05.060">Section 45.05.060</cite> shall take effect on the date of the enactment of this Act.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§45.05.080 was formerly codified as 45.0308</annotation>
@@ -1228,7 +1224,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Remedies and Procedures. The remedies and procedures available under sections 42.0107, 42.0203, and 42.0308 of this Act shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to title I, title n and title m, respectively.</text>
+        <text>Remedies and Procedures. The remedies and procedures available under <cite path="45|45.01|45.0107">section 45.0107</cite>, <cite path="§45.04.030">Section 45.04.030</cite>, and <cite path="§45.05.080">Section 45.05.080</cite> of this Act shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to title I, title n and title m, respectively.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§45.07.030 was formerly codified as 45.0503</annotation>
@@ -1239,7 +1235,7 @@
       <heading>Regulations by the Architectural and Transportation Barriers Compliance Board</heading>
       <para>
         <num>(a)</num>
-        <text>General rule. Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall issue regulations in an accessible format to carry out sections 42.0302(b)(2)(b) and (c) and to carry out <cite path="42|42.03|42.0304">section 42.0304</cite> (other than subsection (b)(4). (2) Special rules for providing access to over-the-road buses.</text>
+        <text>General rule. Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall issue regulations in an accessible format to carry out sections 45.0902(d)(2)(b) and (c) and to carry out <cite path="§45.05.040">Section 45.05.040</cite> (other than subsection (b)(4). (2) Special rules for providing access to over-the-road buses.</text>
         <para>
           <num>(1)</num>
           <text>Interim requirements.</text>
@@ -1254,7 +1250,7 @@
         <text>Qualified Historic Properties.</text>
         <para>
           <num>(1)</num>
-          <text>In general. The supplemental guidelines issued under subsection (a) shall include pro Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of chapters 2 and 3 of <cite path="45">this title</cite>.</text>
+          <text>In general. The supplemental guidelines issued under subsection (a) shall include pro Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of <cite path="45|45.02">Chapter 45.02</cite> and <cite path="45|45.03">Chapter 45.03</cite> of <cite path="45">this title</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1289,7 +1285,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Publication of plan. The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of title 5, United States Code (commonly known as the Administrative Procedure Act).  (NOTE: the TMBCI has since adopted its own UCC, which is Title 24, and which is essentially adopting the USC.  Parts of the Tribal Administrative Procedures Act have been imputed into <cite path="45">this title</cite> as well as Title 24.)</text>
+          <text>Publication of plan. The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of <cite path="5">Title 5</cite>, United States Code (commonly known as the Administrative Procedure Act).  (NOTE: the TMBCI has since adopted its own UCC, which is <cite path="24">Title 24</cite>, and which is essentially adopting the USC.  Parts of the Tribal Administrative Procedures Act have been imputed into <cite path="45">this title</cite> as well as <cite path="24">Title 24</cite>.)</text>
         </para>
       </para>
       <para>

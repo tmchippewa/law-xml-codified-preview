@@ -195,7 +195,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To set minimum wage scale for construction employment at the beginning of each calendar year (see <cite path="32|32.01|32.014">Section 32.014</cite>), subject to prior approval of the Tribal Council.</text>
+        <text>To set minimum wage scale for construction employment at the beginning of each calendar year (see <cite path="32|32.14">Chapter 32.14</cite>), subject to prior approval of the Tribal Council.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -349,6 +349,7 @@
     </section>
     <section>
       <num>32.04.090</num>
+      <heading>_</heading>
       <text>Every prime contractor must list their subcontractors and suppliers for each contract to prevent bid shopping. Each contractor must have a valid Tribal License up to date through TERO in order for their bid to be considered.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
@@ -357,6 +358,7 @@
     </section>
     <section>
       <num>32.04.100</num>
+      <heading>_</heading>
       <text>Every employer must provide a copy of current Liability Insurance to the TERO office before a TERO license is issued.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 338-06-19"/>
@@ -395,7 +397,7 @@
     <section>
       <num>32.05.010</num>
       <heading>Fee Assessment</heading>
-      <text>Fee Assessment to Provide Tribal Revenue and Operation of the Commission Pursuant to Article 9, Sections 3 and 4 of the Turtle Mountain Band of Chippewa Indian Constitution. Fees will apply to all educational purposes and contracted purposes except computers, books, classroom desks and classroom supplies and materials. (moved from <cite path="§32.05.040">Section 32.05.040</cite>)</text>
+      <text>Fee Assessment to Provide Tribal Revenue and Operation of the Commission Pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="IX|3">Article 9, Sections 3</cite> and <cite doc="Turtle Mountain Constitution and By-laws" path="IX|4">4</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indian Constitution</cite>. Fees will apply to all educational purposes and contracted purposes except computers, books, classroom desks and classroom supplies and materials. (moved from <cite path="§32.05.040">Section 32.05.040</cite>)</text>
       <annotations>
         <annotation type="Prior Codifications">§32.05.010 was formerly codified as 32.0500</annotation>
       </annotations>

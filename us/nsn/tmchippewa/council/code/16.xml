@@ -9,6 +9,7 @@
     <prefix>Chapter</prefix>
     <section>
       <num>16.01.010</num>
+      <heading>_</heading>
       <text><strong>"Health Board official"</strong> shall mean the Turtle Mountain Health Board or its authorized representative.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.010 was formerly codified as 16.0101</annotation>
@@ -16,6 +17,7 @@
     </section>
     <section>
       <num>16.01.020</num>
+      <heading>_</heading>
       <text><strong>"Individual sewage disposal system"</strong> shall mean a sewage disposal system, other than a public or community system, which receives either human excreta or liquid waste or both from one (1) premises. Included within the scope of this definition are septic tanks, soil absorption systems, privies and chemical type toilets and such other types as may be prescribed in regulations by the Turtle Mountain Tribal Health Board, and this Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.020 was formerly codified as 16.0102</annotation>
@@ -23,6 +25,7 @@
     </section>
     <section>
       <num>16.01.030</num>
+      <heading>_</heading>
       <text><strong>"Refuse disposal system"</strong> shall mean a sanitary landfill refuse disposal system which receives all forms of refuse from one (1) premises, or from the public or community.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.030 was formerly codified as 16.0103</annotation>
@@ -30,6 +33,7 @@
     </section>
     <section>
       <num>16.01.040</num>
+      <heading>_</heading>
       <text><strong>"Refuse"</strong> as used in <cite path="16">this title</cite> is defined to be all manner of kitchen and household garbage and rubbish, all offal including both animal and vegetable matter, metal, plastic, paper and glass food containers from which food has been removed, waste paper, and all other waste matter from homes, stores or places of business of any nature and including rubbish, lumber, concrete, leaves, branches of trees, appliances, machinery, car bodies, ashes which may constitute a menace to public health or create an accident hazard or unsightly conditions.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.040 was formerly codified as 16.0104</annotation>
@@ -37,6 +41,7 @@
     </section>
     <section>
       <num>16.01.050</num>
+      <heading>_</heading>
       <text><strong>"Refuse containers"</strong> shall be made of metal, be water tight, have close-fitting covers, and adequate handles to facilitate collection. Such refuse containers shall be not less than fifteen (15) gallons nor more than thirty (30) gallons in capacity.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.050 was formerly codified as 16.0105</annotation>
@@ -44,6 +49,7 @@
     </section>
     <section>
       <num>16.01.060</num>
+      <heading>_</heading>
       <text><strong>"Permit</strong>" shall mean a written permit issued by the Health Board official permitting construction of an individual sewage disposal system, or a permit issued for the collection, transportation or disposal of refuse within the Turtle Mountain Jurisdiction.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.060 was formerly codified as 16.0106</annotation>
@@ -51,6 +57,7 @@
     </section>
     <section>
       <num>16.01.070</num>
+      <heading>_</heading>
       <text><strong>"Person"</strong> shall mean any Indian as defined by <cite path="§1.03.010|(f)">Section 1.03.010(f)</cite> of the Turtle Mountain Tribal Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.070 was formerly codified as 16.0107</annotation>
@@ -64,7 +71,7 @@
     <section>
       <num>16.02.010</num>
       <heading>Health Board to Establish Minimum Standards</heading>
-      <text>The Health Board of the Turtle Mountain Band of Chippewa Indians, in order to protect the health and safety of residents of the Turtle Mountain Jurisdiction as defined by Section 1.O50l.l of the Turtle Mountain Tribal Code and general public, is authorized and directed to promulgate the following regulations by establishing minimum standards governing the design, construction, installation and operation of individual sewage disposal systems and to protect the public health, control water pollution, and abate nuisance and odor conditions.</text>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indians, in order to protect the health and safety of residents of the Turtle Mountain Jurisdiction as defined by <cite path="§1.05.010">Section 1.05.010</cite> of the Turtle Mountain Tribal Code and general public, is authorized and directed to promulgate the following regulations by establishing minimum standards governing the design, construction, installation and operation of individual sewage disposal systems and to protect the public health, control water pollution, and abate nuisance and odor conditions.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.02.010 was formerly codified as 16.0201</annotation>
       </annotations>
@@ -263,7 +270,7 @@
     <section>
       <num>16.05.020</num>
       <heading>Owner or Occupant to Give Access</heading>
-      <text>It shall be the duty of the Indian owner or Indian occupant of a property to give the health officer free access to property at reasonable times for the purpose of making such inspections as are necessary to determine compliance with the requirements of Title 16 and regulations promulgated hereunder.</text>
+      <text>It shall be the duty of the Indian owner or Indian occupant of a property to give the health officer free access to property at reasonable times for the purpose of making such inspections as are necessary to determine compliance with the requirements of <cite path="16">this title</cite> and regulations promulgated hereunder.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.05.020 was formerly codified as 16.0502</annotation>
       </annotations>
@@ -276,8 +283,7 @@
     <section>
       <num>16.06.010</num>
       <heading>Penalties for Violation of Title 16 of This Code</heading>
-      <text>Any person who violates any provision of Title 16</text>
-      <text>of this Code, or any provision of any regulation adopted by the health board pursuant to authority granted by the Turtle Mountain Tribal Council shall be deemed guilty of an offense and upon conviction thereof shall be sentenced to pay a fine of not to exceed fifty dollars, ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
+      <text>Any person who violates any provision of <cite path="16">this title</cite> of this Code, or any provision of any regulation adopted by the health board pursuant to authority granted by the Turtle Mountain Tribal Council shall be deemed guilty of an offense and upon conviction thereof shall be sentenced to pay a fine of not to exceed fifty dollars, ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.06.010 was formerly codified as 16.0601</annotation>
       </annotations>
@@ -290,7 +296,7 @@
     <section>
       <num>16.07.010</num>
       <heading>Purpose</heading>
-      <text>To provide, within the Turtle Mountain Jurisdiction, for the sale of only unadulterated, wholesome, properly branded food; regulating the sources of food; establishing sanitation standards for food, food protection, food service personnel, food service operations, food equipment and utensils, sanitary facilities and controls, and other facilities; requiring permits for the operation of permanent and temporary food service establishments; regulating the inspection, grading, regrading and placarding of such establishments; providing for the examination and condemnation of food; and providing for the enforcement of Chapters 16.06 and 16.14 of this Code.</text>
+      <text>To provide, within the Turtle Mountain Jurisdiction, for the sale of only unadulterated, wholesome, properly branded food; regulating the sources of food; establishing sanitation standards for food, food protection, food service personnel, food service operations, food equipment and utensils, sanitary facilities and controls, and other facilities; requiring permits for the operation of permanent and temporary food service establishments; regulating the inspection, grading, regrading and placarding of such establishments; providing for the examination and condemnation of food; and providing for the enforcement of <cite path="16|16.06">Chapter 16.06</cite> and <cite path="16|16.14">Chapter 16.14</cite> of this Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.07.010 was formerly codified as 16.0701</annotation>
       </annotations>
@@ -887,7 +893,7 @@
     <section>
       <num>16.13.010</num>
       <heading>Floors, Walls and Ceilings</heading>
-      <text>The floor surfaces in kitchens, in all other rooms and areas in which food is stored or prepared and in which utensils are washed, and in walk-in refrigerators, dressing or locker rooms and toilet rooms, shall be of smooth, nonabsorbent materials, and so constructed as to be easily cleanable: Provided, that the floors of non-refrigerated, dry-food storage areas need not be nonabsorbent.	All floors shall be kept clean and in good repair. Floor drains shall be provided in all rooms where floors are subjected to flooding-type cleaning or where normal operations release or discharge water or other liquid waste on the floor. All exterior areas where food is served shall be kept clean and properly drained, and surfaces in such areas shall be finished so as to facilitate maintenance and minimize dust.</text>
+      <text>The floor surfaces in kitchens, in all other rooms and areas in which food is stored or prepared and in which utensils are washed, and in walk-in refrigerators, dressing or locker rooms and toilet rooms, shall be of smooth, nonabsorbent materials, and so constructed as to be easily cleanable: Provided, that the floors of non-refrigerated, dry-food storage areas need not be nonabsorbent. All floors shall be kept clean and in good repair. Floor drains shall be provided in all rooms where floors are subjected to flooding-type cleaning or where normal operations release or discharge water or other liquid waste on the floor. All exterior areas where food is served shall be kept clean and properly drained, and surfaces in such areas shall be finished so as to facilitate maintenance and minimize dust.</text>
       <text>The walls and ceilings of all rooms shall be kept clean and in good repair. All walls of rooms or areas in which food is prepared, or utensils or hands are washed, shall be easily cleanable, smooth, and light-colored, and shall have washable surfaces up to the highest level reached by splash or spray.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.13.010 was formerly codified as 16.1301</annotation>
@@ -933,7 +939,7 @@
     <section>
       <num>16.14.010</num>
       <heading>Compliance</heading>
-      <text>A temporary food-service establishment shall comply with all provisions of Chapters 16.06 through 16.14 of <cite path="16">this title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
+      <text>A temporary food-service establishment shall comply with all provisions of <cite path="16|16.06">Chapter 16.06</cite> through <cite path="16|16.14">this chapter</cite> of <cite path="16">this title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.14.010 was formerly codified as 16.1401</annotation>
       </annotations>
@@ -984,11 +990,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of Chapters 16.09 through 16.14 of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="§16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
+        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of <cite path="16|16.09">Chapter 16.09</cite> through <cite path="16|16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="§16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of Chapters 16.09 through 16.14 of <cite path="16">this title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
+        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of <cite path="16|16.09">Chapter 16.09</cite> through <cite path="16|16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
         <para>
           <num>(1)</num>
           <text>Set forth the specific violation found, together with the demerit score of the establishment.</text>
@@ -996,33 +1002,33 @@
         <para>
           <num>(2)</num>
           <text>Establish a specific and reasonable period of time for the correction of the violations found, in accordance with the following provisions:</text>
+          <para>
+            <num>(A)</num>
+            <text>When the demerit score of the establishment is 20 or less, all violations of 2 or 4 demerit points must be corrected by the time of the next routine inspection; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>When the demerit score of the establishment is more than 20 but not more than 40, all items of 2 or 4 demerit points must be corrected within a period of time not to exceed thirty (30) days; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>When one (l) or more 6 demerit point items are in violation, regardless of demerit score, such items must be corrected within a period of time not to exceed ten (10) days.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>When the demerit score of the establishment is more than 40, the permit is immediately suspended.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>In the case of temporary food-service establishments, violations must be corrected within a specified period of time not to exceed twenty-four (24) hours. Failure to comply with such notice shall result in immediate suspension of the permit.</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>When the demerit score of the establishment is 20 or less, all violations of 2 or 4 demerit points must be corrected by the time of the next routine inspection; or</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>When the demerit score of the establishment is more than 20 but not more than 40, all items of 2 or 4 demerit points must be corrected within a period of time not to exceed thirty (30) days; or</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>When one (l) or more 6 demerit point items are in violation, regardless of demerit score, such items must be corrected within a period of time not to exceed ten (10) days.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>When the demerit score of the establishment is more than 40, the permit is immediately suspended.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>In the case of temporary food-service establishments, violations must be corrected within a specified period of time not to exceed twenty-four (24) hours. Failure to comply with such notice shall result in immediate suspension of the permit.</text>
-        </para>
-        <para>
-          <num>(8)</num>
           <text>State that failure to comply with any' notice issued in accordance with the provisions of <cite path="16">this title</cite> may result in immediate suspension of the permit (or the establishment downgraded).</text>
         </para>
         <para>
-          <num>(9)</num>
+          <num>(4)</num>
           <text>State that an opportunity for appeal from any notice or inspection findings will be provided if a written request for a hearing is filed with the health authority within the period of time established in the notice for correction.</text>
         </para>
       </para>
@@ -1049,7 +1055,7 @@
           <num>(4)</num>
           <text>Grade C. An establishment having of more than 20 but not more than a demerit score 40.</text>
           <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (<cite path="§16.15.010|(b)">Section 16.15.010(b)</cite> or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
-          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="§16.15.020|(c)">Section 16.15.020(c)</cite>(b)(3) of <cite path="16">this title</cite>.</text>
+          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="§16.15.020|(c)|(2)|(C)">Section 16.15.020(c)(2)(C)</cite> of <cite path="16">this title</cite>.</text>
           <text>The permit holder or operator of any establishment, the grade of which has been lowered, may at any time request an inspection for the purpose of re-grading the establishment. Within ten (10) days following receipt of a request including a signed statement that the conditions responsible for the lowering of the grade have, in the applicant's opinion, been corrected, the health authority shall make an inspection and thereafter as many additional inspections as he may deem necessary to assure himself that the applicant is complying with the higher grade requirements; and, if the findings indicate compliance, shall award the higher grade.</text>
         </para>
       </para>
@@ -1060,7 +1066,7 @@
     <section>
       <num>16.15.030</num>
       <heading>Examination and Condemnation of Food</heading>
-      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="§16.15.020|(c)">Section 16.15.020(c)</cite>(d), and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
+      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="§16.15.020|(c)|(4)">Section 16.15.020(c)(4)</cite>, and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.15.030 was formerly codified as 16.1503</annotation>
       </annotations>
@@ -1117,7 +1123,7 @@
     <section>
       <num>16.16.010</num>
       <heading>Penalties for Violations</heading>
-      <text>Any Indian person who violates any provision of Chapters 16.06 through 16.14 of this Code or any provision of any regulation adopted by the Turtle Mountain Health Board pursuant to authority granted by the Turtle Mountain Tribal Code sha11 be deemed gui1ty of an offense and upon conviction thereof shall be sentenced to pay a fine or not to exceed fifty dollars ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
+      <text>Any Indian person who violates any provision of <cite path="16|16.06">Chapter 16.06</cite> through <cite path="16|16.14">Chapter 16.14</cite> of this Code or any provision of any regulation adopted by the Turtle Mountain Health Board pursuant to authority granted by the Turtle Mountain Tribal Code sha11 be deemed gui1ty of an offense and upon conviction thereof shall be sentenced to pay a fine or not to exceed fifty dollars ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.16.010 was formerly codified as 16.1601</annotation>
       </annotations>
@@ -1230,7 +1236,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>"Districts I, II, III, and IV" are those districts of the Turtle Mountain Jurisdiction as defined by the Tribal Council's Constitution and By-Laws, specifically Article V, Section 6.</text>
+        <text>"Districts I, II, III, and IV" are those districts of the Turtle Mountain Jurisdiction as defined by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Council's Constitution and By-Laws</cite>, specifically <cite doc="Turtle Mountain Constitution and By-laws" path="V|6">Article V, Section 6</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -1372,7 +1378,7 @@
     <section>
       <num>16.21.020</num>
       <heading>Special Meetings</heading>
-      <text>Special meetings of the Board shall be upon the call of the Chairman at the time and place specified. Upon failure or refusal of the Chairman to call meetings as may be necessary, a special meeting may be called upon three (3) days notice to all members signed by any four (4) members of the	Board.</text>
+      <text>Special meetings of the Board shall be upon the call of the Chairman at the time and place specified. Upon failure or refusal of the Chairman to call meetings as may be necessary, a special meeting may be called upon three (3) days notice to all members signed by any four (4) members of the Board.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.21.020 was formerly codified as 16.2102</annotation>
       </annotations>

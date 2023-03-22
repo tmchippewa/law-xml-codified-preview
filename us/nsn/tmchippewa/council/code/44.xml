@@ -10,8 +10,8 @@
     <section>
       <num>44.01.010</num>
       <heading>Authorization</heading>
-      <text>Article IX (a)(1) Of the Turtle Mountain Chippewa Constitution authorizes the Tribal Council to represent the Band and to negotiate with the Federal, State, and local governments and with private persons; and</text>
-      <text>Article IX I(10) of the Turtle Mountain Chippewa Constitution authorizes the Tribal Council to manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws.</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a)(1) Of the Turtle Mountain Chippewa Constitution</cite> authorizes the Tribal Council to represent the Band and to negotiate with the Federal, State, and local governments and with private persons; and</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|10">Article IX (c)(10) of the Turtle Mountain Chippewa Constitution</cite> authorizes the Tribal Council to manage, lease, permit or otherwise deal with Tribal Land, interest in lands and other lands or assets under tribal jurisdiction; and to purchase or otherwise acquire lands, or interest in lands within and outside the Turtle Mountain Reservation, in accordance with law; or dispose of such land, or interest in lands, as authorized by laws.</text>
       <text>Under this authority, the Turtle Mountain Band of Chippewa Tribal Council hereby enacts the following:</text>
       <annotations>
         <annotation type="Prior Codifications">§44.01.010 was formerly codified as 44.0001</annotation>
@@ -491,7 +491,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Generally, variances may be issued for new construction and substantial improvements to be erected on a lot of one-half acre to less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing items (a-k) in <cite path="§44.05.010|(c)">Section 44.05.010(c)</cite> have been fully considered.  As the lot size increases beyond the one-half acre, the technical justification required for issuing the variance increases.</text>
+        <text>Generally, variances may be issued for new construction and substantial improvements to be erected on a lot of one-half acre to less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing items (1-11) in <cite path="§44.05.010|(c)">Section 44.05.010(c)</cite> have been fully considered.  As the lot size increases beyond the one-half acre, the technical justification required for issuing the variance increases.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -624,7 +624,7 @@
     <section>
       <num>44.06.020</num>
       <heading>Specific Standards</heading>
-      <text>In all special flood hazard areas where base flood elevation data have been provided as set forth in <cite path="44.0301">Chapter 44.0301</cite>, Establishment of development permit, or <cite path="§44.04.020">Section 44.04.020</cite>, Use of Other Base Flood Data, the following provisions are required:</text>
+      <text>In all special flood hazard areas where base flood elevation data have been provided as set forth in <cite path="§44.04.010">Section 44.04.010</cite>, Establishment of development permit, or <cite path="§44.04.020">Section 44.04.020</cite>, Use of Other Base Flood Data, the following provisions are required:</text>
       <para>
         <num>(a)</num>
         <text>Residential Construction.</text>

@@ -11,9 +11,18 @@
       <num>47.01.010</num>
       <heading>Purpose of Code</heading>
       <text>The purpose of this Severance Tax Code is as follows:</text>
-      <text>To impose a tax upon the severance of non-renewable energy minerals from tribal  trust lands, tribally owned fee lands, and allotted or restricted lands  within the Territory and jurisdiction of the Tribe is defined in Article II, Section 2, Jurisdiction , of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite>;</text>
-      <text>To provide to the Tribe a source of revenue which can help sustain the economic viability of the Tribe following the severance, depletion or exhaustion of minerals from lands within  the jurisdiction of the Tribe;</text>
-      <text>To provide the Tribe a current source of revenue to help fund the delivery of services.</text>
+      <para>
+        <num>(a)</num>
+        <text>To impose a tax upon the severance of non-renewable energy minerals from tribal trust lands, tribally owned fee lands, and allotted or restricted lands  within the Territory and jurisdiction of the Tribe is defined in <cite doc="Turtle Mountain Constitution and By-laws" path="II|2">Article II, Section 2, Jurisdiction</cite>, of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite>;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To provide to the Tribe a source of revenue which can help sustain the economic viability of the Tribe following the severance, depletion or exhaustion of minerals from lands within  the jurisdiction of the Tribe;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To provide the Tribe a current source of revenue to help fund the delivery of services.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§47.01.010 was formerly codified as 47.0101</annotation>
       </annotations>
@@ -68,7 +77,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>"Territory" means the territory as defined in Article II, Jurisdiction, Section 2, of the Turtle Mountain Band of Chippewa Indians' Constitution.</text>
+        <text>"Territory" means the territory as defined in <cite doc="Turtle Mountain Constitution and By-laws" path="II|2">Article II, Jurisdiction, Section 2</cite>, of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians' Constitution</cite>.</text>
       </para>
       <para>
         <num>(m)</num>
@@ -80,7 +89,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"Transportation Costs" means reasonable, actual costs incurred by the taxpayer for moving marketable products described in <cite path="47|47.01|47.0101|(2)">Section 47.0101 (2)</cite> of this code to a point of sale or other point of final disposition that is remote from the point of initial severance, separation, treatment or measurement (generally the point approved by the Bureau of Land Management for the purposes of royalty measurement).  Not included in this definition are costs incurred by the taxpayer for the movement or removal from the production stream of products not described in <cite path="§47.02.010">Section 47.02.010</cite> or products whose value is otherwise exempted from application of this Code or for compression intended to enhance production or to meet pipeline delivery pressure requirements. When costs are incurred on a transportation system owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, and depreciation and return on undepreciated capital investment directly associated with the transportation system. The basis and method of depreciation shall not be changed once used, regardless of any changes in ownership of the system.</text>
+        <text>"Transportation Costs" means reasonable, actual costs incurred by the taxpayer for moving marketable products described in <cite path="§47.01.010|(b)">Section 47.01.010(b)</cite> of this code to a point of sale or other point of final disposition that is remote from the point of initial severance, separation, treatment or measurement (generally the point approved by the Bureau of Land Management for the purposes of royalty measurement).  Not included in this definition are costs incurred by the taxpayer for the movement or removal from the production stream of products not described in <cite path="§47.02.010">Section 47.02.010</cite> or products whose value is otherwise exempted from application of this Code or for compression intended to enhance production or to meet pipeline delivery pressure requirements. When costs are incurred on a transportation system owned either in whole or in part by the taxpayer or an entity affiliated with the taxpayer, only the following costs may be included in the calculation of deductible costs for tax purposes: operating and maintenance expenses, overhead, and depreciation and return on undepreciated capital investment directly associated with the transportation system. The basis and method of depreciation shall not be changed once used, regardless of any changes in ownership of the system.</text>
       </para>
       <para>
         <num>(p)</num>
@@ -261,7 +270,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Metering devices measuring the flow of severed substances described in <cite path="§47.02.010">Section 47.02.010</cite> shall be accurate devices based upon prevailing industry practice and acceptable to the Bureau of Land Management in the measurement of Indian lease production. No electronic flow measurement devices shall be used in metering for purposes of this Code in the absence of express prior written permission from the Tribal Council or its authorized representative. Such permission is hereby conditioned upon the operator of such metering devices maintaining a record, subject to the record retention requirements of <cite path="§47.02.060">Section 47.02.060</cite>, of all raw data acceptable to the Tribe obtained or obtainable from the electronic flow measurement device. Any request for permission to use electronic flow measurement devices shall specify the location for intended use, and pe1mission for such use as to one location shall not constitute permission for any other location. Any violation of the requirements of this subsection shall subject the violator to the penalty provisions set forth in <cite path="§47.02.110">Section 47.02.110</cite>-47.0211(4) of this Code.</text>
+        <text>Metering devices measuring the flow of severed substances described in <cite path="§47.02.010">Section 47.02.010</cite> shall be accurate devices based upon prevailing industry practice and acceptable to the Bureau of Land Management in the measurement of Indian lease production. No electronic flow measurement devices shall be used in metering for purposes of this Code in the absence of express prior written permission from the Tribal Council or its authorized representative. Such permission is hereby conditioned upon the operator of such metering devices maintaining a record, subject to the record retention requirements of <cite path="§47.02.060">Section 47.02.060</cite>, of all raw data acceptable to the Tribe obtained or obtainable from the electronic flow measurement device. Any request for permission to use electronic flow measurement devices shall specify the location for intended use, and pe1mission for such use as to one location shall not constitute permission for any other location. Any violation of the requirements of this subsection shall subject the violator to the penalty provisions set forth in <cite path="§47.02.110">Section 47.02.110</cite> – <cite path="§47.02.110|(d)">Section 47.02.110(d)</cite> of this Code.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§47.02.070 was formerly codified as 47.0207</annotation>
@@ -323,7 +332,7 @@
       <heading>Refunds</heading>
       <para>
         <num>(a)</num>
-        <text>Except as provided in Subsection (2) of <cite path="§47.02.100">this section</cite>, any person paying any tax erroneously may apply to the Tax Commissioner for a refund within two years of the date of severance. The Tax Commissioner shall refund such tax if found to have been erroneously paid. All amounts refunded under this subsection shall bear interest at the lesser of: (i) the rate described in the 1986 Internal Revenue Code at §662l (a)(2) (Supp. 1987), as amended from time to time, or (ii) the rate of return received by the Tribe on the refundable amounts while said amounts have been in the Tribe's possession. In computing amounts of erroneous overpayment, the Tax Commissioner may examine severance tax payment records to determine if any offsets exist resulting from erroneous underpayment.</text>
+        <text>Except as provided in Subsection (b) of <cite path="§47.02.100">this section</cite>, any person paying any tax erroneously may apply to the Tax Commissioner for a refund within two years of the date of severance. The Tax Commissioner shall refund such tax if found to have been erroneously paid. All amounts refunded under this subsection shall bear interest at the lesser of: (i) the rate described in the 1986 Internal Revenue Code at §662l (a)(2) (Supp. 1987), as amended from time to time, or (ii) the rate of return received by the Tribe on the refundable amounts while said amounts have been in the Tribe's possession. In computing amounts of erroneous overpayment, the Tax Commissioner may examine severance tax payment records to determine if any offsets exist resulting from erroneous underpayment.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -354,7 +363,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Any person required by this Code to file any return, report, or provide  information to the Tribe, who knowingly falsifies a report or who  knowingly provides incorrect information shall be subject to a civil penalty not to exceed One Thousand Dollars ($1,000.00), and taxpayers represented by such person may  be  subject  to  exclusion  and  removal  from within the territorial limits of the Tribe in  accordance  and in compliance  with  Title 39 of the Turtle Mountain Band of Chippewa   Indians  Tribal  Code,  as amended  or supplemented.</text>
+        <text>Any person required by this Code to file any return, report, or provide  information to the Tribe, who knowingly falsifies a report or who  knowingly provides incorrect information shall be subject to a civil penalty not to exceed One Thousand Dollars ($1,000.00), and taxpayers represented by such person may  be subject to exclusion  and  removal  from within the territorial limits of the Tribe in accordance  and in compliance  with <cite path="39">Title 39</cite> of the Turtle Mountain Band of Chippewa Indians  Tribal  Code,  as amended  or supplemented.</text>
       </para>
       <para>
         <num>(f)</num>

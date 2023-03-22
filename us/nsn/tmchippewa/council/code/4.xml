@@ -37,7 +37,7 @@
     <section>
       <num>4.01.030</num>
       <heading>Recognition of Foreign Court Orders and Judgments</heading>
-      <text>The judicial orders and judgments of other reservations, and all federal and state courts will be recognized by the Turtle Mountain Tribal Court, unless objected to. These orders or judgments shall have the same effect and are subject to the same procedures, defenses, and proceedings as judgments of the tribal court. If recognition of a judgment is objected to by a party, the tribal court must be satisfied, upon application and proof by the objecting party with respect to Subsections (1) through (5), that the following conditions are present:</text>
+      <text>The judicial orders and judgments of other reservations, and all federal and state courts will be recognized by the Turtle Mountain Tribal Court, unless objected to. These orders or judgments shall have the same effect and are subject to the same procedures, defenses, and proceedings as judgments of the tribal court. If recognition of a judgment is objected to by a party, the tribal court must be satisfied, upon application and proof by the objecting party with respect to Subsections (a) through (e), that the following conditions are present:</text>
       <para>
         <num>(a)</num>
         <text>The foreign court had personal and subject matter jurisdiction;</text>
@@ -139,7 +139,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If special circumstances allow it, items under subsection l(b) above may be exempted even if the value is greater than four thousand dollars($4000).</text>
+          <text>If special circumstances allow it, items under subsection (a)(2) above may be exempted even if the value is greater than four thousand dollars($4000).</text>
         </para>
       </para>
       <text><cite path="§4.02.020">This section</cite> shall not apply to garnishment of wages proceedings as described in <cite path="§4.05.010">Section 4.05.010</cite>.</text>
@@ -405,11 +405,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The maximum amount subject to garnishment under subsection 1 for any workweek must be reduced by thirty dollars for each dependent family member residing with the garnishment debtor. Within ten (10) days after receipt of the garnishment summons, the garnishment debtor shall provide to the employer a verified list of the names and social security numbers, if any, of the dependents who reside with the garnishment debtor. If the garnishment debtor fails to provide the list, it is conclusively presumed that the garnishment debtor claims no dependents.</text>
+        <text>The maximum amount subject to garnishment under subsection (a) for any workweek must be reduced by thirty dollars for each dependent family member residing with the garnishment debtor. Within ten (10) days after receipt of the garnishment summons, the garnishment debtor shall provide to the employer a verified list of the names and social security numbers, if any, of the dependents who reside with the garnishment debtor. If the garnishment debtor fails to provide the list, it is conclusively presumed that the garnishment debtor claims no dependents.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The restrictions of subsection (1) do not apply in the case of:</text>
+        <text>The restrictions of subsection (a) do not apply in the case of:</text>
         <para>
           <num>(1)</num>
           <text>Any order of any court for the support of any person;</text>
@@ -686,7 +686,7 @@
     <section>
       <num>4.05.110</num>
       <heading>Effect of Disclosure</heading>
-      <text>Subject to the provisions of Sections 4.0512, "Oral disclosure", and 4.0513, "Third party may intervene", the disclosure is conclusive as to all property of defendant. If the garnishee denies having any indebtedness to the defendant or having any property of the defendant in possession, the filing in court of a copy of the disclosure operates as a full discharge of the garnishee at the end of twenty (20) days from date of service of the disclosure, in the absence of further proceedings as provided for in Sections 12, "Oral disclosure", and 13, "Third party may intervene". The filing of objections to the disclosure or the filing of any motion or other proceedings operates as a stay of the discharge. The court may, upon proper showing, relieve the plaintiff from the operation of the discharge after the expiration of twenty (20) days. The garnishee may be discharged where the value of the property of defendant held or indebtedness owing to defendant is less than ten (10) dollars, and the garnishee may apply to the court to be discharged as to any property or indebtedness in excess of the amount which may be required to satisfy plaintiff's judgment.</text>
+      <text>Subject to the provisions of <cite path="§4.05.120">Section 4.05.120</cite>, "Oral disclosure", and <cite path="§4.05.130">Section 4.05.130</cite>, "Third party may intervene", the disclosure is conclusive as to all property of defendant. If the garnishee denies having any indebtedness to the defendant or having any property of the defendant in possession, the filing in court of a copy of the disclosure operates as a full discharge of the garnishee at the end of twenty (20) days from date of service of the disclosure, in the absence of further proceedings as provided for in Sections 12, "Oral disclosure", and 13, "Third party may intervene". The filing of objections to the disclosure or the filing of any motion or other proceedings operates as a stay of the discharge. The court may, upon proper showing, relieve the plaintiff from the operation of the discharge after the expiration of twenty (20) days. The garnishee may be discharged where the value of the property of defendant held or indebtedness owing to defendant is less than ten (10) dollars, and the garnishee may apply to the court to be discharged as to any property or indebtedness in excess of the amount which may be required to satisfy plaintiff's judgment.</text>
       <annotations>
         <annotation type="Prior Codifications">§4.05.110 was formerly codified as 4.0511</annotation>
       </annotations>

@@ -42,7 +42,7 @@
     <section>
       <num>40.01.050</num>
       <heading>Authority</heading>
-      <text>This Act is adopted pursuant to authority vested in the Tribal Council under the <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-laws of the Turtle Mountain Band of Chippewa Indians</cite>, Article IX (c) to manage lands or assets under Tribal Jurisdiction and  Article (a) to regulate and license activities on the Reservation The Tribe shall have full authority over enforcement of this Act and may delegate authority to Tribal Solid Waste Management Program - (SWMP) to implement provisions of this Act and to the Tribal Environmental Protection Agency Compliance Officer to enforce provisions of this Act. No part of this Act constitutes a waiver of the sovereign immunity of the Tribe.</text>
+      <text>This Act is adopted pursuant to authority vested in the Tribal Council under the <cite doc="Turtle Mountain Constitution and By-laws" path="IX|10">Constitution and By-laws of the Turtle Mountain Band of Chippewa Indians, Article IX (c)</cite> to manage lands or assets under Tribal Jurisdiction and  <cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article (a)</cite> to regulate and license activities on the Reservation The Tribe shall have full authority over enforcement of this Act and may delegate authority to Tribal Solid Waste Management Program - (SWMP) to implement provisions of this Act and to the Tribal Environmental Protection Agency Compliance Officer to enforce provisions of this Act. No part of this Act constitutes a waiver of the sovereign immunity of the Tribe.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.01.050 was formerly codified as 40.0105</annotation>
       </annotations>
@@ -58,8 +58,7 @@
     <section>
       <num>40.01.070</num>
       <heading>Jurisdiction</heading>
-      <text>The Tribal Court of the Turtle Mountain Band of Chippewa Indians has civil jurisdiction under this Act over the conduct of Tribal members and all other persons on all lands within the Reservation and on tribal lands and Tribal</text>
-      <text>Indian Service Areas outside of the Reservation boundaries to maintain the environment, natural resources, public health, safety, welfare, political integrity and economic well-being of the Tribe. This shall include:</text>
+      <text>The Tribal Court of the Turtle Mountain Band of Chippewa Indians has civil jurisdiction under this Act over the conduct of Tribal members and all other persons on all lands within the Reservation and on tribal lands and Tribal Indian Service Areas outside of the Reservation boundaries to maintain the environment, natural resources, public health, safety, welfare, political integrity and economic well-being of the Tribe. This shall include:</text>
       <para>
         <num>(a)</num>
         <text>Any person or company that has entered into a consensual agreement with the tribe or its members; or</text>
@@ -200,8 +199,7 @@
       </para>
       <para>
         <num>(t)</num>
-        <text>"CONTROLLED SUBSTANCE" means any imminently hazardous chemical substance or mixture with respect to which the U. S. EPA Administrator has taken action pursuant  to  section 7 of  the  Toxic Substances  Control Act (15</text>
-        <text>U.S.C. 2601 et seq.).</text>
+        <text>"CONTROLLED SUBSTANCE" means any imminently hazardous chemical substance or mixture with respect to which the U. S. EPA Administrator has taken action pursuant  to  section 7 of  the  Toxic Substances  Control Act (15 U.S.C. 2601 et seq.).</text>
       </para>
       <para>
         <num>(u)</num>
@@ -508,8 +506,7 @@
       </para>
       <para>
         <num>(ffff)</num>
-        <text>"SOLID WASTE" shall mean any garbage, refuse, rubbish, sludge, ashes, incinerator residue, abandoned automobiles or parts thereof, street sweepings, demolition and construction wastes and discarded commodities, other than recyclable material that has been segregated for recycling, including solid, liquid,  semi-solid  or  contained  gaseous   material</text>
-        <text>resulting from industrial, commercial, mining, and agricultural operations, and from community activities, but does not include solid or dissolved material in domestic sewage, or solid or dissolved materials in irrigation return flows or industrial discharges which are point sources subject to permits under section 402 of the Federal Water Pollution Control Act.</text>
+        <text>"SOLID WASTE" shall mean any garbage, refuse, rubbish, sludge, ashes, incinerator residue, abandoned automobiles or parts thereof, street sweepings, demolition and construction wastes and discarded commodities, other than recyclable material that has been segregated for recycling, including solid, liquid,  semi-solid  or  contained  gaseous material resulting from industrial, commercial, mining, and agricultural operations, and from community activities, but does not include solid or dissolved material in domestic sewage, or solid or dissolved materials in irrigation return flows or industrial discharges which are point sources subject to permits under section 402 of the Federal Water Pollution Control Act.</text>
       </para>
       <para>
         <num>(gggg)</num>
@@ -582,7 +579,7 @@
       <para>
         <num>(tttt)</num>
         <text>"TREATMENT" shall mean any method, technique, or process including neutralization designed to change the physical, chemical or biological character or composition of a solid or hazardous waste or leachate so as to neutralize or render such waste or leachate amendable for safe transport, amendable for safe recovery, amendable for safe storage or disposal or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of hazardous waste so as to render it non-hazardous. The term does not include resource recovery.</text>
-        <text>"TRIBAL EPA DIRECTOR" means the Turtle Mountain Tribe Environmental Protection Agency Director (TM-EPA Director).</text>
+        <text>99.	"TRIBAL EPA DIRECTOR" means the Turtle Mountain Tribe Environmental Protection Agency Director (TM-EPA Director).</text>
         <text>100."TRIBAL RESPONSE PROGRAM" means the Tribal EPA program responsible for the investigation and remediation of a release, or threat of release, of a hazardous substance, pollutant or contaminant, including controlled substances, petroleum products and mining materials in <cite path="40|40.18">Chapter 40.18</cite> of this Act, in coordination with other Tribal programs and as provided for under Section 128(a) of 42 U.S. Code 9601(CERCLA).</text>
         <text>101."TRIBE" means the Turtle Mountain Band of Chippewa, including any department or agency thereof, or any business entity owned and operated by the Tribe.</text>
         <text>102."USED OIL" means any oil that has been refined from crude oil, or any synthetic oil, that has been used and as a result of such use is contaminated by physical or chemical impurities.</text>
@@ -622,11 +619,11 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The creation  of  sustainable employment  opportunities for Tribal members;</text>
+          <text>The	creation	of	sustainable	employment	opportunities	for	Tribal members;</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>The roles of  existing  and/or  new organizations in  implementing  a Resource Recovery System.</text>
+          <text>The	roles	of	existing	and/or	new	organizations	in	implementing	a Resource Recovery System.</text>
         </para>
       </para>
       <para>
@@ -846,8 +843,7 @@
     <section>
       <num>40.05.060</num>
       <heading>Studies of Municipal Solid Waste Stream</heading>
-      <text>The Solid Waste Director, the SWMT and the Compliance Director may conduct studies of the nature, extent, and methods of reducing and controlling litter problems  on  the  Reservation  including,  but  not  limited  to,  methods of</text>
-      <text>improving public education and incentives to reduce waste generation and littering, necessary additional legislation, and improved methods of implementing existing laws.</text>
+      <text>The Solid Waste Director, the SWMT and the Compliance Director may conduct studies of the nature, extent, and methods of reducing and controlling litter problems  on  the  Reservation  including,  but  not  limited  to,  methods of improving public education and incentives to reduce waste generation and littering, necessary additional legislation, and improved methods of implementing existing laws.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.05.060 was formerly codified as 40.0506</annotation>
       </annotations>
@@ -918,7 +914,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Include a description of  the current Tribal  solid waste management program structure and any recommendations for changes and/or additions;</text>
+        <text>Include	a	description	of	the	current	Tribal	solid	waste	management program structure and any recommendations for changes and/or additions;</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1093,8 +1089,7 @@
     <section>
       <num>40.07.060</num>
       <heading>Scavenging</heading>
-      <text>Scavenging of solid waste from collection sites, containers, storage sites, transfer sites or disposal sites is prohibited on the Reservation due to the</text>
-      <text>liability of the Tribe for injury or health hazards while engaging in the act.</text>
+      <text>Scavenging of solid waste from collection sites, containers, storage sites, transfer sites or disposal sites is prohibited on the Reservation due to the liability of the Tribe for injury or health hazards while engaging in the act.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.07.060 was formerly codified as 40.0706</annotation>
       </annotations>
@@ -1158,10 +1153,7 @@
     <section>
       <num>40.07.140</num>
       <heading>Tires</heading>
-      <text>No tires may be disposed of at any location other than a facility or site approved or permitted under this Act. Tires may not be delivered to a facility or location within the boundaries of the Reservation that is not in compliance with this Act or abandoned upon any street, alley, highway, public place or private premises. Anyone hauling scrap tires to unapproved disposal sites (ravines, coulees, dumps, gravel pits, tree rows, etc.) is in violation of this Act and subject to enforcement action.  If scrap tires are taken to a</text>
-      <text>Page 17 of 71</text>
-      <text>December 2012</text>
-      <text>location which comes under enforcement action, the transporter and/or the original generator(s) may be liable for cleanup costs;</text>
+      <text>No tires may be disposed of at any location other than a facility or site approved or permitted under this Act. Tires may not be delivered to a facility or location within the boundaries of the Reservation that is not in compliance with this Act or abandoned upon any street, alley, highway, public place or private premises. Anyone hauling scrap tires to unapproved disposal sites (ravines, coulees, dumps, gravel pits, tree rows, etc.) is in violation of this Act and subject to enforcement action.  If scrap tires are taken to a location which comes under enforcement action, the transporter and/or the original generator(s) may be liable for cleanup costs;</text>
       <text>No more than 20 tires may be stored on residential property for private use. Commercial businesses, public/tribal agencies, tire dealers and maintenance facilities must comply with <cite path="§40.15.050">Section 40.15.050</cite> of this Act.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.07.140 was formerly codified as 40.0714</annotation>
@@ -1251,10 +1243,7 @@
     <section>
       <num>40.08.030</num>
       <heading>Transportation</heading>
-      <text>Persons transporting regulated quantities of hazardous waste within the Reservation must comply with the standards and requirements of 40 CFR Part</text>
-      <text>Page 18 of 71</text>
-      <text>December 2012</text>
-      <text>263 if the transportation requires a manifest under 40 CFR part 262.</text>
+      <text>Persons transporting regulated quantities of hazardous waste within the Reservation must comply with the standards and requirements of 40 CFR Part 263 if the transportation requires a manifest under 40 CFR part 262.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.08.030 was formerly codified as 40.0802</annotation>
       </annotations>
@@ -1334,11 +1323,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Major appliances (also known as "white goods") such as stoves, dish washers, refrigerators, washing machines, clothes dryers, water heaters, and scrap metal are designated as Special Wastes and may not be   collected or transported for disposal to any solid waste disposal, transfer or storage unit or facility within the boundaries of the</text>
+        <text>Major appliances (also known as "white goods") such as stoves, dish washers, refrigerators, washing machines, clothes dryers, water heaters, and scrap metal are designated as Special Wastes and may not be   collected or transported for disposal to any solid waste disposal, transfer or storage unit or facility within the boundaries of the Reservation unless such unit or facility is in full compliance with this Act and has provision for intermediate storage and recycling of these materials and all such materials are appropriately segregated for recycling. Refrigeration or air conditioning units must have the refrigerant (i.e. freon) removed by a certified technician in conformance with applicable U.S. EPA and state regulations prior to off Reservation disposal or recycling.</text>
       </para>
-      <text>Page 19 of 71</text>
-      <text>December 2012</text>
-      <text>Reservation unless such unit or facility is in full compliance with this Act and has provision for intermediate storage and recycling of these materials and all such materials are appropriately segregated for recycling. Refrigeration or air conditioning units must have the refrigerant (i.e. freon) removed by a certified technician in conformance with applicable U.S. EPA and state regulations prior to off Reservation disposal or recycling.</text>
       <para>
         <num>(d)</num>
         <text>Lead-acid batteries must be disposed of by delivery to an automotive battery retailer or wholesaler, or to a collection or recycling facility authorized under this Act or the State. No automotive battery retailer shall dispose of a used lead acid battery except by delivery to the agent of a battery wholesaler, to a battery manufacturer, to a collection or recycling facility authorized under this Act or the laws of the state or to a secondary lead smelter permitted by the U. S. Environmental Protection Agency. Each battery improperly disposed of shall constitute a separate violation.</text>
@@ -1350,9 +1336,18 @@
         <para>
           <num>(2)</num>
           <text>Post written notice which shall be at least eight and one-half (8 1/2) inches by eleven (11) inches in size and shall contain the universal recycling symbol and the following language:</text>
-          <text>"It is illegal to discard a motor vehicle battery or other lead acid battery";</text>
-          <text>"Recycle your used batteries"; and</text>
-          <text>"Tribal Acts require us to accept used motor vehicle batteries or other lead acid batteries for recycling in exchange for new batteries purchased."</text>
+          <para>
+            <num>(A)</num>
+            <text>"It is illegal to discard a motor vehicle battery or other lead acid battery";</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>"Recycle your used batteries"; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>"Tribal Acts require us to accept used motor vehicle batteries or other lead acid batteries for recycling in exchange for new batteries purchased."</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
@@ -1377,12 +1372,9 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Not currently licensed and abandoned on Tribal and/or public facilities such as roads, streets, alleys, highways, or public parking areas for more than 48 hours shall be considered junk shall be impounded and towed away at the direction of the Compliance Officer or the Tribal law enforcement department to an impoundment area. Any person claiming such vehicle shall give proof of ownership and pay any towing and storage charges. Vehicles not claimed within 30 days of</text>
+          <text>Not currently licensed and abandoned on Tribal and/or public facilities such as roads, streets, alleys, highways, or public parking areas for more than 48 hours shall be considered junk shall be impounded and towed away at the direction of the Compliance Officer or the Tribal law enforcement department to an impoundment area. Any person claiming such vehicle shall give proof of ownership and pay any towing and storage charges. Vehicles not claimed within 30 days of impoundment shall be declared abandoned, advertised, and sold at auction by the law enforcement department to pay for towing and storage charges. All remaining income from the sale of the vehicle shall be remitted to the Tribe.</text>
         </para>
       </para>
-      <text>Page 20 of 71</text>
-      <text>December 2012</text>
-      <text>impoundment shall be declared abandoned, advertised, and sold at auction by the law enforcement department to pay for towing and storage charges. All remaining income from the sale of the vehicle shall be remitted to the Tribe.</text>
       <para>
         <num>(g)</num>
         <text>Pesticide and Herbicide Wastes: Every person, commercial or industrial facility who handles surplus agricultural pesticides or herbicides and/or pesticide or herbicide containers shall:</text>
@@ -1427,7 +1419,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>endangers public health or safety,  including harboring disease vectors or insects; or</text>
+            <text>endangers public health or safety,	including harboring disease vectors or insects; or</text>
           </para>
           <para>
             <num>(C)</num>
@@ -1446,11 +1438,8 @@
       <para>
         <num>(i)</num>
         <text>Dead Animals: Dead animals must be removed in a timely manner and be managed by renderers, disposed of at a permitted solid waste landfill or at an alternative location designated by the Tribal EPA. Private commercial animal removal companies shall be used for removal and disposal of all livestock carcasses; pets shall be buried or taken to a tribally approved transfer or disposal site.</text>
-        <text>During an emergency, potentially large numbers of livestock may need to be managed as rapidly and as efficiently as possible. The Tribe may issue an emergency permit for one-time disposal events based on various practical factors during emergency conditions. The Tribal EPA, Solid Waste Director and other local, state and federal agencies will work together with  livestock  owners  to  accomplish  the  efficient     and</text>
+        <text>During an emergency, potentially large numbers of livestock may need to be managed as rapidly and as efficiently as possible. The Tribe may issue an emergency permit for one-time disposal events based on various practical factors during emergency conditions. The Tribal EPA, Solid Waste Director and other local, state and federal agencies will work together with  livestock  owners  to  accomplish  the  efficient and environmentally sound disposal of animal carcasses and related materials so as to minimize impacts to human and animal health and to water sources. Disposal under emergency permits must be restricted to dead animals and associated, generally inert waste, unless otherwise authorized.</text>
       </para>
-      <text>Page 21 of 71</text>
-      <text>December 2012</text>
-      <text>environmentally sound disposal of animal carcasses and related materials so as to minimize impacts to human and animal health and to water sources. Disposal under emergency permits must be restricted to dead animals and associated, generally inert waste, unless otherwise authorized.</text>
       <para>
         <num>(j)</num>
         <text>Asbestos and Asbestos Containing Materials: Removal, transportation and disposal of Asbestos and Asbestos Containing Materials must be conducted in compliance with the applicable requirements of this Act, the Clean Air Act (42 U.S. C. 7401-7671q) and follow U.S. Environmental Protection Agency guidelines. Asbestos and Asbestos Containing Materials must be disposed of outside of the Reservation at a state approved landfill facility. Asbestos disposal must be coordinated with the landfill owner/operator. Friable asbestos-containing material must be disposed into landfills that have agreed to accept the material and have appropriate facilities, procedures, equipment and training for managing such waste.</text>
@@ -1933,12 +1922,30 @@
       <num>40.13.080</num>
       <heading>Contents of Application: Solid Waste Transportation</heading>
       <text>Permit applications filed pursuant to <cite path="§40.13.080">this section</cite> for the transportation of solid waste shall include:</text>
-      <text>A description of the number and type of the vehicles and related mechanical and other equipment to be used by the applicant;</text>
-      <text>A site evaluation report describing the location and physical characteristics of the place or places, including uses of adjoining properties, where and the applicant will store or maintain solid waste vehicles and related equipment, if located on the Reservation;</text>
-      <text>A description of the practices, technologies and procedures that will be employed to ensure adequate protection of the environment, public health and welfare to include prevention of leakage, excessive noise, odors, and other releases or spillage and the capability to respond to any such releases;</text>
-      <text>Assurances of the manner in which the applicant will meet the financial assurance requirements established pursuant to this Act and the permit;</text>
-      <text>A description of the training program for employees in environmental concerns in managing solid waste, addressing any releases, recognizing hazardous or improper wastes and to provide such employees with needed skills for the safe operation of the transportation equipment and related facilities; and</text>
-      <text>Such other information as the Tribal Council and or the Solid Waste Director deems necessary.</text>
+      <para>
+        <num>(a)</num>
+        <text>A description of the number and type of the vehicles and related mechanical and other equipment to be used by the applicant;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A site evaluation report describing the location and physical characteristics of the place or places, including uses of adjoining properties, where and the applicant will store or maintain solid waste vehicles and related equipment, if located on the Reservation;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A description of the practices, technologies and procedures that will be employed to ensure adequate protection of the environment, public health and welfare to include prevention of leakage, excessive noise, odors, and other releases or spillage and the capability to respond to any such releases;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Assurances of the manner in which the applicant will meet the financial assurance requirements established pursuant to this Act and the permit;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A description of the training program for employees in environmental concerns in managing solid waste, addressing any releases, recognizing hazardous or improper wastes and to provide such employees with needed skills for the safe operation of the transportation equipment and related facilities; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Such other information as the Tribal Council and or the Solid Waste Director deems necessary.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.13.080 was formerly codified as 40.1308</annotation>
       </annotations>
@@ -1946,14 +1953,32 @@
     <section>
       <num>40.13.090</num>
       <heading>Financial Assurance for Solid Management Waste Facilities</heading>
-      <text>As a condition for the issuance, modification, revision, or review of a solid waste management facility permit, the owner/operator shall provide assurance of adequate financial ability to:</text>
-      <text>Respond to personal injury claims, public or private property damage claims, environmental and natural resource damage claims and response to release from the facility or equipment that may result from the construction, operation and/or closure of the facility;</text>
-      <text>Provide for the cost of closure and post-closure maintenance in an amount equal to the estimated cost of closure and thirty years of post-closure maintenance;</text>
-      <text>The evidence of financial assurance shall be in the form of a trust fund into which funds shall be deposited on an annual basis in amounts sufficient to meet closure and post-closure maintenance costs when needed, or an equivalent financial instrument or insurance or combination of such instruments acceptable to the SWMT and the Tribal Council. The SWMT shall review and approve such evidence.</text>
-      <text>The amounts that the owner/operator will deposit annually in the trust fund r other acceptable financial instrument shall ensure adequate resources for closure and post-closure maintenance.</text>
-      <text>The trust fund, or other accepted financial instrument or insurance, shall state that:</text>
-      <text>The Tribe may draw upon the trust fund, in its discretion, to monitor and maintain facility before or after closure or to take any necessary remedial or cleanup actions; and</text>
-      <text>The trust fund, insurance, or other approved financial instrument may not be closed or terminated without the written approval of the Tribe.</text>
+      <para>
+        <num>(a)</num>
+        <text>As a condition for the issuance, modification, revision, or review of a solid waste management facility permit, the owner/operator shall provide assurance of adequate financial ability to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Respond to personal injury claims, public or private property damage claims, environmental and natural resource damage claims and response to release from the facility or equipment that may result from the construction, operation and/or closure of the facility;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide for the cost of closure and post-closure maintenance in an amount equal to the estimated cost of closure and thirty years of post-closure maintenance;</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The evidence of financial assurance shall be in the form of a trust fund into which funds shall be deposited on an annual basis in amounts sufficient to meet closure and post-closure maintenance costs when needed, or an equivalent financial instrument or insurance or combination of such instruments acceptable to the SWMT and the Tribal Council. The SWMT shall review and approve such evidence.</text>
+        <text>The amounts that the owner/operator will deposit annually in the trust fund or other acceptable financial instrument shall ensure adequate resources for closure and post-closure maintenance.</text>
+        <text>The trust fund, or other accepted financial instrument or insurance, shall state that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe may draw upon the trust fund, in its discretion, to monitor and maintain facility before or after closure or to take any necessary remedial or cleanup actions; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The trust fund, insurance, or other approved financial instrument may not be closed or terminated without the written approval of the Tribe.</text>
+        </para>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.13.090 was formerly codified as 40.1309</annotation>
       </annotations>
@@ -1962,10 +1987,22 @@
       <num>40.13.100</num>
       <heading>Closure and Post-Closure for Solid Waste Facilities</heading>
       <text>The closure or post-closure of a solid waste facility shall meet the requirements and procedures of 40 CFR Part 258, this Act and the following:</text>
-      <text>The owner/operator shall develop and submit closure, and if required, post closure plans for a waste management facility. The Compliance Officer shall review closure plans and post-closure maintenance plans to determine their compliance with this Act, the permit and the requirements of 40 CFR Part 258;</text>
-      <text>The owner/operator shall certify to the Tribal Council that he has prepared an initial estimate of closure and, if appropriate, post closure maintenance costs for a period of not less than thirty (30) years after closure. The facility owner/operators shall annually calculate and revise as needed the cost estimates for closure and post-closure maintenance;</text>
-      <text>The owner/operator may distinguish between preliminary and final plans and provide that preliminary plans may require less specifically and engineering detail than final plans. Preliminary plans shall provide sufficient detail to enable the owner/operator and the Compliance Officer to estimate accurately the costs for closure and post-closure maintenance; and</text>
-      <text>All documentation relating to the preparation of the closure and post- closure maintenance plan shall be retained by the owner/operator and shall be available for inspection and copying by the Compliance Officer or the Solid Waste Director at all reasonable times upon request.</text>
+      <para>
+        <num>(a)</num>
+        <text>The owner/operator shall develop and submit closure, and if required, post closure plans for a waste management facility. The Compliance Officer shall review closure plans and post-closure maintenance plans to determine their compliance with this Act, the permit and the requirements of 40 CFR Part 258;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The owner/operator shall certify to the Tribal Council that he has prepared an initial estimate of closure and, if appropriate, post closure maintenance costs for a period of not less than thirty (30) years after closure. The facility owner/operators shall annually calculate and revise as needed the cost estimates for closure and post-closure maintenance;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The owner/operator may distinguish between preliminary and final plans and provide that preliminary plans may require less specifically and engineering detail than final plans. Preliminary plans shall provide sufficient detail to enable the owner/operator and the Compliance Officer to estimate accurately the costs for closure and post-closure maintenance; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All documentation relating to the preparation of the closure and post- closure maintenance plan shall be retained by the owner/operator and shall be available for inspection and copying by the Compliance Officer or the Solid Waste Director at all reasonable times upon request.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.13.100 was formerly codified as 40.1310</annotation>
       </annotations>
@@ -1994,9 +2031,18 @@
     <section>
       <num>40.14.020</num>
       <heading>Permit Fees</heading>
-      <text>Solid Waste Management Facility and Transportation Fees. In order to recover tribal program costs, the Solid Waste Director shall impose reasonable fees established by SWMT on each operator of a solid waste management facility or solid waste transportation service for permit issuance, operation, monitoring and enforcement. The fee may be based on the weight, volume, or type of solid waste received, handled, treated, stored or disposed of by any such operator, or on any other appropriate basis or combination thereof. The Tribal Council may waive such fees for solid waste management or collection/transportation services where such management or service is conducted pursuant to a contract agreement with the Tribe.</text>
-      <text>Special Waste Management Facility and Transportation Fees. In order to recover tribal program costs, the TM-EPA Director shall impose reasonable fees established by SWMT on each operator of a special waste management facility or special waste transportation service for permit issuance, operation, monitoring and enforcement. The fee may be based on the weight, volume, or type of special waste received, handled, treated, stored or disposed of by any such operator, or on any other appropriate basis or combination thereof.</text>
-      <text>All fees for permits required under this Act shall be posted and available as the Turtle Mountain Tribe Solid and Hazardous Waste Management Act Schedule of Fees.  The Schedule shall be public information and available from the Tribal EPA Director, Tribal Solid Waste Director or the Compliance Officer.</text>
+      <para>
+        <num>(a)</num>
+        <text>Solid Waste Management Facility and Transportation Fees. In order to recover tribal program costs, the Solid Waste Director shall impose reasonable fees established by SWMT on each operator of a solid waste management facility or solid waste transportation service for permit issuance, operation, monitoring and enforcement. The fee may be based on the weight, volume, or type of solid waste received, handled, treated, stored or disposed of by any such operator, or on any other appropriate basis or combination thereof. The Tribal Council may waive such fees for solid waste management or collection/transportation services where such management or service is conducted pursuant to a contract agreement with the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Special Waste Management Facility and Transportation Fees. In order to recover tribal program costs, the TM-EPA Director shall impose reasonable fees established by SWMT on each operator of a special waste management facility or special waste transportation service for permit issuance, operation, monitoring and enforcement. The fee may be based on the weight, volume, or type of special waste received, handled, treated, stored or disposed of by any such operator, or on any other appropriate basis or combination thereof.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All fees for permits required under this Act shall be posted and available as the Turtle Mountain Tribe Solid and Hazardous Waste Management Act Schedule of Fees.  The Schedule shall be public information and available from the Tribal EPA Director, Tribal Solid Waste Director or the Compliance Officer.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.14.020 was formerly codified as 40.1402</annotation>
       </annotations>
@@ -2077,8 +2123,14 @@
     <section>
       <num>40.15.050</num>
       <heading>Tire Storage and Hauling Permit</heading>
-      <text>Storage of tires in quantities greater than one semi-trailer load requires a formal solid waste storage permit from the Tribal EPA.</text>
-      <text>Commercial businesses or tire dealers located within the boundaries of the Reservation collecting and hauling scrap tires must have a solid waste transporter permit issued by the Tribal Solid Waste Director.</text>
+      <para>
+        <num>(a)</num>
+        <text>Storage of tires in quantities greater than one semi-trailer load requires a formal solid waste storage permit from the Tribal EPA.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Commercial businesses or tire dealers located within the boundaries of the Reservation collecting and hauling scrap tires must have a solid waste transporter permit issued by the Tribal Solid Waste Director.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.15.050 was formerly codified as 40.1505</annotation>
       </annotations>
@@ -2146,8 +2198,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Collect, organize and catalog existing information and studies available from all sources, both public and private, pertaining to the management of solid and hazardous waste and past releases of hazardous substances,</text>
-        <text>pollutants or contaminants within the exterior boundaries of the Turtle Mountain Reservation;</text>
+        <text>Collect, organize and catalog existing information and studies available from all sources, both public and private, pertaining to the management of solid and hazardous waste and past releases of hazardous substances, pollutants or contaminants within the exterior boundaries of the Turtle Mountain Reservation;</text>
       </para>
       <para>
         <num>(i)</num>
@@ -2192,7 +2243,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Enforcement of Response Measures. Enforce compliance with response or remediation measures required under Section 40.18 of this Act.</text>
+        <text>Enforcement of Response Measures. Enforce compliance with response or remediation measures required under <cite path="40|40.18">Chapter 40.18</cite> of this Act.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2279,7 +2330,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>constructs  or  operates  a solid waste facility  without a facility permit;</text>
+          <text>constructs	or	operates	a	solid	waste	facility	without	a	facility permit;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2315,11 +2366,11 @@
         <text>Cease and Desist Orders. The Compliance Officer may issue an Order to an owner/operator to cease and desist where the construction or operation of a solid waste facility <em>or </em>the transportation of solid waste is causing or threatening to cause a condition of hazard, pollution, or nuisance due to the release or migration of solid, special or hazardous waste or solid or to any person to cease and desist any improper action or activity that is in violation of this Act and:</text>
         <para>
           <num>(1)</num>
-          <text>causing,  or  threatening to  cause,  a release or  spill of  a solid, special or hazardous waste or other hazardous material; or</text>
+          <text>causing,	or	threatening	to	cause,	a release	or	spill	of	a	solid, special or hazardous waste or other hazardous material; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>causing any adverse impact  on  public  health, welfare or  the environment.</text>
+          <text>causing	any	adverse	impact	on	public	health,	welfare	or	the environment.</text>
         </para>
       </para>
       <para>
@@ -2341,8 +2392,14 @@
     <section>
       <num>40.16.070</num>
       <heading>Remedial Actions</heading>
-      <text>Imminent Threats. If any of the circumstances set forth herein above <u>pose an imminent threat </u>to public health, life or the environment, the TM-EPA Director may approve the Compliance Officer to initiate appropriate action pursuant to <cite path="§40.18.010">Section 40.18.010</cite>(a).</text>
-      <text>Other Remedial Actions. If any <em>of </em>the circumstances set forth herein above <u>do not pose an imminent threat </u>to public health or the environment, but the Compliance Officer deems it necessary for the public health and safety to perform timely clean up, abatement work or remedial work, the TM-EPA Director may approve the Compliance Officer to perform such actions pursuant to <cite path="§40.18.010">Section 40.18.010</cite>(b).</text>
+      <para>
+        <num>(a)</num>
+        <text>Imminent Threats. If any of the circumstances set forth herein above <u>pose an imminent threat </u>to public health, life or the environment, the TM-EPA Director may approve the Compliance Officer to initiate appropriate action pursuant to <cite path="§40.18.010|(a)">Section 40.18.010(a)</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Other Remedial Actions. If any <em>of </em>the circumstances set forth herein above <u>do not pose an imminent threat </u>to public health or the environment, but the Compliance Officer deems it necessary for the public health and safety to perform timely clean up, abatement work or remedial work, the TM-EPA Director may approve the Compliance Officer to perform such actions pursuant to <cite path="§40.18.010|(b)">Section 40.18.010(b)</cite>.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.16.070 was formerly codified as 40.1607</annotation>
       </annotations>
@@ -2350,8 +2407,7 @@
     <section>
       <num>40.16.080</num>
       <heading>Compliance Schedule</heading>
-      <text>The Compliance Officer shall develop a compliance schedule for any violation of a permit issued pursuant to this Act or any other violation of this Act</text>
-      <text>that cannot be corrected immediately and include such compliance schedule as part of a NOV or Order. The compliance schedule shall assure that diligent progress shall be made by the responsible person, government agency or permittee to bring the solid, special or hazardous waste management facility, transporter or other activity or situation into compliance with the minimum standards of this Act and any applicable permit within a specific period of time determined by the TM-EPA Director and the Compliance Officer. If the person, permittee, government agency, facility or transporter is not in compliance within the period specified, the Compliance Officer may assess additional fines or penalties and/or recommend to the Tribal Council that they revoke, suspend, or modify the permit until such time as violations of the minimum standards are remedied.</text>
+      <text>The Compliance Officer shall develop a compliance schedule for any violation of a permit issued pursuant to this Act or any other violation of this Act that cannot be corrected immediately and include such compliance schedule as part of a NOV or Order. The compliance schedule shall assure that diligent progress shall be made by the responsible person, government agency or permittee to bring the solid, special or hazardous waste management facility, transporter or other activity or situation into compliance with the minimum standards of this Act and any applicable permit within a specific period of time determined by the TM-EPA Director and the Compliance Officer. If the person, permittee, government agency, facility or transporter is not in compliance within the period specified, the Compliance Officer may assess additional fines or penalties and/or recommend to the Tribal Council that they revoke, suspend, or modify the permit until such time as violations of the minimum standards are remedied.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.16.080 was formerly codified as 40.1608</annotation>
       </annotations>
@@ -2375,11 +2431,7 @@
     <section>
       <num>40.16.110</num>
       <heading>Notice of Hearing</heading>
-      <text>The Statement of Charges shall be accompanied by a notice advising the person, government agency or permittee of a date for a hearing, which hearing shall be held no earlier than twenty (20) days and no later than   forty-five</text>
-      <para>
-        <num>(a)</num>
-        <text>days from the Compliance Officer's mailing or personal delivery of the Statement of Charges. The notice shall inform the person, government agency or permittee that they have the right to inspect and copy documents relative to the Statement of Charges.</text>
-      </para>
+      <text>The Statement of Charges shall be accompanied by a notice advising the person, government agency or permittee of a date for a hearing, which hearing shall be held no earlier than twenty (20) days and no later than   forty-five(45) days from the Compliance Officer's mailing or personal delivery of the Statement of Charges. The notice shall inform the person, government agency or permittee that they have the right to inspect and copy documents relative to the Statement of Charges.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.16.110 was formerly codified as 40.1611</annotation>
       </annotations>
@@ -2388,9 +2440,18 @@
       <num>40.16.120</num>
       <heading>Notice of Defense</heading>
       <text>Within fifteen (15) days after service upon the person, government agency or permittee, they may deliver to the Compliance Officer a Notice of Defense in which the they may object to the Statement of Charges upon the grounds that  it does not state acts or omission upon which the Compliance Officer may proceed or to the form of the Statement of Charges on the ground that it is  so indefinite or uncertain that the person, government agency or permittee cannot identify the acts or omissions or prepare the permittee's defense.</text>
-      <text>The Notice of Defense shall be deemed a specific denial of all parts of the Statement of Charges not expressly admitted. Failure to file a Notice of Defense shall constitute a waiver of the right to a hearing. The Statement of Charges will stand and legal action for remedy will begin.</text>
-      <text>The Notice of Defense shall be in writing signed by or on behalf of the person, government agency or permittee.</text>
-      <text>A copy of any Statement of Charges and Notice of Defense shall be sent by the Compliance Officer to the Chairman and the Tribal Council.</text>
+      <para>
+        <num>(a)</num>
+        <text>The Notice of Defense shall be deemed a specific denial of all parts of the Statement of Charges not expressly admitted. Failure to file a Notice of Defense shall constitute a waiver of the right to a hearing. The Statement of Charges will stand and legal action for remedy will begin.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Notice of Defense shall be in writing signed by or on behalf of the person, government agency or permittee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A copy of any Statement of Charges and Notice of Defense shall be sent by the Compliance Officer to the Chairman and the Tribal Council.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.16.120 was formerly codified as 40.1612</annotation>
       </annotations>
@@ -2398,8 +2459,7 @@
     <section>
       <num>40.16.130</num>
       <heading>Hearings</heading>
-      <text>All hearings shall be conducted pursuant to <cite path="22|22.11">Chapter 22.11</cite> of the Tribal Administrative Procedures Act, as amended, Title 22 of the Turtle Mountain</text>
-      <text>Tribal Act (TAPA). A Hearing Officer shall be appointed pursuant to   Chapter</text>
+      <text>All hearings shall be conducted pursuant to <cite path="22|22.11">Chapter 22.11</cite> of the Tribal Administrative Procedures Act, as amended, Title 22 of the Turtle Mountain Tribal Act (TAPA). A Hearing Officer shall be appointed pursuant to   Chapter</text>
       <para>
         <num>(a)</num>
         <text>of the TAPA for all matters subject to the requirements of this Act.</text>
@@ -2412,9 +2472,18 @@
       <num>40.16.140</num>
       <heading>Discovery</heading>
       <text>Prior to the hearing, any party, upon written request made to any other party prior to the hearing is entitled to:</text>
-      <text>Obtain the names and addresses of witnesses to the extent known to the other party, including but not limited to, those intended to be called to testify at the hearing;</text>
-      <text>Inspect and make a copy of any relevant documents in the possession or custody or under the control of the other party, including but not limited to statements made by any person pertaining to the subject matter of the proceeding, all writings pertaining to the subject matter of the proceeding, and investigative reports pertaining to the subject matter of the proceeding. Nothing in <cite path="§40.16.140">this section</cite> shall authorize the inspection or copying of any writing or thing that is privileged from disclosure by law or otherwise made confidential or protected as attorney work product or otherwise;</text>
-      <text>Before the hearing has commenced, the hearing panel shall request the participation, at the request of any party, for attendance of witness or production of documents at the hearing.</text>
+      <para>
+        <num>(a)</num>
+        <text>Obtain the names and addresses of witnesses to the extent known to the other party, including but not limited to, those intended to be called to testify at the hearing;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Inspect and make a copy of any relevant documents in the possession or custody or under the control of the other party, including but not limited to statements made by any person pertaining to the subject matter of the proceeding, all writings pertaining to the subject matter of the proceeding, and investigative reports pertaining to the subject matter of the proceeding. Nothing in <cite path="§40.16.140">this section</cite> shall authorize the inspection or copying of any writing or thing that is privileged from disclosure by law or otherwise made confidential or protected as attorney work product or otherwise;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Before the hearing has commenced, the hearing panel shall request the participation, at the request of any party, for attendance of witness or production of documents at the hearing.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§40.16.140 was formerly codified as 40.1614</annotation>
       </annotations>
@@ -2504,9 +2573,7 @@
     <section>
       <num>40.17.070</num>
       <heading>Summary of the Penalty Calculation System for Administrative and Civil Penalty Policy</heading>
-      <text>The Turtle Mountain Band of Chippewa Indians (TMBCI) Environmental Protection Agency (EPA) TMBCI/EPA penalty calculation system established under this Administrative and Civil Penalty Policy ("Policy") shall be applicable to the penalties assessed pursuant to Title 40 TMBCI Solid and Hazardous Waste Management Code (SHWMC). This policy shall be applied for all calculated penalties that are over $100.00, or where a penalty amount is not specified by Title 40 TMBCI Solid and Hazardous Waste Management Code (SHWMC) or policy (see Appendix A. for standard/specified administrative penalties or fines). Appeals of assessed administrative penalties/fines at or below $200.00, or as specified in Appendix A, is limited to the TMBCI/EPA Director or Tribal Solid Waste Management Team (TSWMT) designated for first level of appeal and may</text>
-      <text>not be appealed to Tribal Court. Under This Policy, the seriousness of the</text>
-      <text>violation and any good faith efforts to comply with applicable Tribal requirements are to be considered in assessing a penalty. This Penalty Policy consists of:</text>
+      <text>The Turtle Mountain Band of Chippewa Indians (TMBCI) Environmental Protection Agency (EPA) TMBCI/EPA penalty calculation system established under this Administrative and Civil Penalty Policy ("Policy") shall be applicable to the penalties assessed pursuant to Title 40 TMBCI Solid and Hazardous Waste Management Code (SHWMC). This policy shall be applied for all calculated penalties that are over $100.00, or where a penalty amount is not specified by Title 40 TMBCI Solid and Hazardous Waste Management Code (SHWMC) or policy (see Appendix A. for standard/specified administrative penalties or fines). Appeals of assessed administrative penalties/fines at or below $200.00, or as specified in Appendix A, is limited to the TMBCI/EPA Director or Tribal Solid Waste Management Team (TSWMT) designated for first level of appeal and may not be appealed to Tribal Court. Under This Policy, the seriousness of the violation and any good faith efforts to comply with applicable Tribal requirements are to be considered in assessing a penalty. This Penalty Policy consists of:</text>
       <para>
         <num>(a)</num>
         <text>determining a gravity-based penalty for a particular violation, from a penalty assessment matrix;</text>
@@ -2535,7 +2602,7 @@
       <text>In administrative civil penalty cases, the TMBCI/EPA will perform two separate calculations under this Policy:</text>
       <para>
         <num>(a)</num>
-        <text>to  determine an  appropriate amount  to  seek  in  the administrative complaint  and subsequent      litigation, and</text>
+        <text>to	determine	an	appropriate	amount	to	seek	in	the	administrative complaint	and	subsequent			litigation,	and</text>
         <para>
           <num>(1)</num>
           <text>to explain and document the process by which the Agency arrived at the penalty figure it has agreed to accept in settlement.</text>
@@ -2594,41 +2661,41 @@
               <td>Minor</td>
               <td>$20 to $200</td>
               <td proof="needed">
-                <p>$200 to</p>
+                <p>$200	to</p>
                 <p>$600</p>
               </td>
               <td proof="needed">
-                <p>$600 to</p>
+                <p>$600	to</p>
                 <p>$1,200</p>
               </td>
             </tr>
             <tr>
               <td>Moderate</td>
               <td proof="needed">
-                <p>$1,200 to</p>
+                <p>$1,200	to</p>
                 <p>$2,000</p>
               </td>
               <td proof="needed">
-                <p>$2,000 to</p>
+                <p>$2,000	to</p>
                 <p>$3,200</p>
               </td>
               <td proof="needed">
-                <p>$3,200 to</p>
+                <p>$3,200	to</p>
                 <p>$4,400</p>
               </td>
             </tr>
             <tr>
               <td>Major</td>
               <td proof="needed">
-                <p>$2,000 to</p>
+                <p>$2,000	to</p>
                 <p>$5,000</p>
               </td>
               <td proof="needed">
-                <p>$3,200 to</p>
+                <p>$3,200	to</p>
                 <p>$5,000</p>
               </td>
               <td proof="needed">
-                <p>$4,400 to</p>
+                <p>$4,400	to</p>
                 <p>$5,000</p>
               </td>
             </tr>
@@ -2647,7 +2714,7 @@
       <text>When adjusting the gravity-based penalty amount the following factors should be considered:</text>
       <para>
         <num>(a)</num>
-        <text>good  faith efforts to  comply/lack of  good  faith (downward or  upward adjustment);</text>
+        <text>good	faith	efforts	to	comply/lack	of	good	faith	(downward	or	upward adjustment);</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2663,7 +2730,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>environmental projects  to  be  undertaken  by  the violator  (downward adjustment; and</text>
+        <text>environmental	projects	to	be	undertaken	by	the	violator	(downward adjustment; and</text>
       </para>
       <para>
         <num>(f)</num>
@@ -2822,8 +2889,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>It is appropriate that the TMBCI/EPA have the enforcement discretion to accept in settlement a lower penalty than it has sought (in its complaint, because in settling a case the TMBCI/EPA is able to avoid the costs and</text>
-        <text>risks of litigation. Moreover, respondents must perceive that they face some significant risk of higher penalties through litigation to have appropriate incentives to agree to penalty amounts acceptable to the TMBCI/EPA in settlement.</text>
+        <text>It is appropriate that the TMBCI/EPA have the enforcement discretion to accept in settlement a lower penalty than it has sought (in its complaint, because in settling a case the TMBCI/EPA is able to avoid the costs and risks of litigation. Moreover, respondents must perceive that they face some significant risk of higher penalties through litigation to have appropriate incentives to agree to penalty amounts acceptable to the TMBCI/EPA in settlement.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.17.220 was formerly codified as 40.1722</annotation>
@@ -2954,8 +3020,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>existence,  size  and proximity of  receptor  populations (e.g.,  local residents,  fish, and   wildlife,   including threatened  or  endangered</text>
-          <text>species) and sensitive environmental media (e.g., surface waters and aquifers).</text>
+          <text>existence, size and proximity of receptor populations (e.g., local residents, fish, and wildlife, including threatened or endangered species) and sensitive environmental media (e.g., surface waters and aquifers).</text>
         </para>
         <text>In considering the risk of exposure, the emphasis is placed on the potential for harm posed by a violation rather than on whether harm actually occurred. Violators rarely have any control over whether their pollution actually causes harm. Therefore, such violators should not be rewarded with lower penalties simply because the violations did not result in actual harm.</text>
         <text>In considering this factor, the environmental sensitivity of the receptor areas or populations should be examined. The risk of exposure to a particularly sensitive environmental area, such as a wetland, a drinking water source, or the habitat of a threatened or endangered species, may be a basis for an upward adjustment of the category chosen for the potential harm (i.e., minor to moderate, moderate to major) or a selection of a higher amount in the range of the chosen penalty matrix cell.</text>
@@ -3019,10 +3084,7 @@
     <section>
       <num>40.17.340</num>
       <heading>Extent of Deviation from Requirement</heading>
-      <text>Evaluating the Extent of Deviation (Definition): The "extent of deviation" from the SHWMC and its regulatory requirements relates to the degree to which the violation renders inoperative the requirement violated. In any violation</text>
-      <text>Page 46 of 71</text>
-      <text>December 2012</text>
-      <text>situation, a range of potential noncompliance with the subject requirement exists. In other words, a violator may be substantially compliance with the provisions of the requirement or it may have totally disregarded the requirement (or a point in between). In determining the extent of the deviation, the    following    categories    should    be     used:   MAJOR: The violator deviates from requirements of the regulation to such an extent that most (or important aspects) of the requirements are not met resulting in  substantial noncompliance. MODERATE: The violator significantly deviates from the requirements of the regulation but some of the requirements are implemented as intended. MINOR: The violator deviates somewhat from the regulatory requirements but most (or all important aspects) of the requirements are met.</text>
+      <text>Evaluating the Extent of Deviation (Definition): The "extent of deviation" from the SHWMC and its regulatory requirements relates to the degree to which the violation renders inoperative the requirement violated. In any violation situation, a range of potential noncompliance with the subject requirement exists. In other words, a violator may be substantially compliance with the provisions of the requirement or it may have totally disregarded the requirement (or a point in between). In determining the extent of the deviation, the    following    categories    should    be     used:   MAJOR: The violator deviates from requirements of the regulation to such an extent that most (or important aspects) of the requirements are not met resulting in	 substantial noncompliance. MODERATE: The violator significantly deviates from the requirements of the regulation but some of the requirements are implemented as intended. MINOR: The violator deviates somewhat from the regulatory requirements but most (or all important aspects) of the requirements are met.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.17.340 was formerly codified as 40.1734</annotation>
       </annotations>
@@ -3035,7 +3097,7 @@
         <table>
           <tbody>
             <tr>
-              <td colspan="5" class="text-indent-3">Extend  of  Deviation from Requirement</td>
+              <td colspan="5" class="text-indent-3">Extend	of	Deviation	from Requirement</td>
             </tr>
             <tr>
               <td rowspan="4">Potential for Harm</td>
@@ -3048,41 +3110,41 @@
               <td>Minor</td>
               <td>$20 to $200</td>
               <td proof="needed">
-                <p>$200 to</p>
+                <p>$200	to</p>
                 <p>$600</p>
               </td>
               <td proof="needed">
-                <p>$600 to</p>
+                <p>$600	to</p>
                 <p>$1,200</p>
               </td>
             </tr>
             <tr>
               <td>Moderate</td>
               <td proof="needed">
-                <p>$1,200 to</p>
+                <p>$1,200	to</p>
                 <p>$2,000</p>
               </td>
               <td proof="needed">
-                <p>$2,000 to</p>
+                <p>$2,000	to</p>
                 <p>$3,200</p>
               </td>
               <td proof="needed">
-                <p>$3,200 to</p>
+                <p>$3,200	to</p>
                 <p>$4,400</p>
               </td>
             </tr>
             <tr>
               <td>Major</td>
               <td proof="needed">
-                <p>$2,000 to</p>
+                <p>$2,000	to</p>
                 <p>$5,000</p>
               </td>
               <td proof="needed">
-                <p>$3,200 to</p>
+                <p>$3,200	to</p>
                 <p>$5,000</p>
               </td>
               <td proof="needed">
-                <p>$4,400 to</p>
+                <p>$4,400	to</p>
                 <p>$5,000</p>
               </td>
             </tr>
@@ -3092,13 +3154,10 @@
       <text>The lowest cell (minor potential for harm/minor extent of deviation) contains a penalty range from $20 to $200. The highest cell (major potential for harm/major extent of deviation) is limited by the maximum penalty allowance of $5,000 per day for each violation.</text>
       <text>Note that all references in this Policy to matrix cells consist of the Potential for Harm factor followed by the Extent of Deviation factor (e.g., major potential for harm/moderate extent of deviation is referred to as major/moderate).</text>
       <text>The range of numbers provided in each matrix cell serves as a "fine tuning" device to allow enforcement personnel to better adapt the penalty amount to the gravity of the violation and its surrounding circumstances. Enforcement personnel should analyze and rely on case-specific factors in selecting a dollar figure from this range. Such factors include the seriousness of the violation (relative to other violations falling within the same matrix cell), the environmental sensitivity of the areas potentially threatened by the violation, efforts at remediation or the degree of cooperation evidenced by the facility (to the extent this factor is not to be accounted for in subsequent adjustments to the penalty amount), the size and sophistication of the violator, the number of days of violation, and other relevant matters.</text>
-      <text>For some continuing violations, it is possible that circumstances may change during the period of violation in some manner that could affect the Potential for Harm or Extent of Deviation determinations. Enforcement personnel may choose difficult matrix cells for different periods of the same violation.  For example, for a violation that lasts for 100 days, the circumstances during the first 50 days may warrant a penalty from the major/major cell. On day 51, if the violator takes affirmative steps to come into compliance or otherwise address the noncompliance but does not completely end the violation, the Potential for Harm or Extent of Deviation may change enough to</text>
-      <text>Page 47 of 71</text>
-      <text>December 2012</text>
-      <text>warrant a different category (i.e., moderate or minor). In such a case, enforcement personnel should calculate separate penalties for the distinct periods of violation. This adjustment only applies where actions of the violator change the circumstances; natural attenuation or other natural changes in the circumstances should not result in this type of bifurcated penalty calculation.</text>
+      <text>For some continuing violations, it is possible that circumstances may change during the period of violation in some manner that could affect the Potential for Harm or Extent of Deviation determinations. Enforcement personnel may choose difficult matrix cells for different periods of the same violation.  For example, for a violation that lasts for 100 days, the circumstances during the first 50 days may warrant a penalty from the major/major cell. On day 51, if the violator takes affirmative steps to come into compliance or otherwise address the noncompliance but does not completely end the violation, the Potential for Harm or Extent of Deviation may change enough to warrant a different category (i.e., moderate or minor). In such a case, enforcement personnel should calculate separate penalties for the distinct periods of violation. This adjustment only applies where actions of the violator change the circumstances; natural attenuation or other natural changes in the circumstances should not result in this type of bifurcated penalty calculation.</text>
       <text>When considering the sophistication of the violator, enforcement personnel may presume, in the absence of information to the contrary, that entities such as small organizations and small business do not possess the same level of sophistication as other regulated entities. This presumption should, in most circumstances, result in a lower penalty amount than would otherwise be selected for similar violations.</text>
       <annotations>
-        <annotation type="Prior Codifications">§40.17.350 was formerly codified as 40.1435</annotation>
+        <annotation type="Prior Codifications">§40.17.350 was formerly codified as 40.1735</annotation>
       </annotations>
     </section>
     <section>
@@ -3111,8 +3170,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Compression of Penalties for Related Violations: In general, penalties for multiple violations may be less likely to be appropriate where the violations are not independent or not substantially distinguishable. Where a claim derives from or merely restates another claim, a separate penalty may not be warranted. For example, if an owner/operator of a waste management facility submitted a permit application with a cover letter, signed by the manager's secretary, but failed to sign the permit application, and also thereby failed to have the appropriate responsible person sign the application, the owner/operator has violated the requirement that the application be signed by a responsible company official. The</text>
-        <text>TMBCI/EPA has the discretion to view the violations resulting from the same factual event, failure to sign the application at all, and failure to have the person legally responsible for the permit application sign the application at all, and failure to have the person resulting from the same factual event, failure to sign the application at all, and failure to have the person legally responsible for the permit application sign it, as posing one legal risk. In this situation, both sections violated should be cited in the complaint, but one penalty, rather than two, may be appropriate to pursue in litigation or obtain in settlement, depending upon the facts of a case. The fact that two separate sections were violated may be taken into account in choosing higher "potential for harm" and "extent of deviation" categories on the penalty matrix.</text>
+        <text>Compression of Penalties for Related Violations: In general, penalties for multiple violations may be less likely to be appropriate where the violations are not independent or not substantially distinguishable. Where a claim derives from or merely restates another claim, a separate penalty may not be warranted. For example, if an owner/operator of a waste management facility submitted a permit application with a cover letter, signed by the manager's secretary, but failed to sign the permit application, and also thereby failed to have the appropriate responsible person sign the application, the owner/operator has violated the requirement that the application be signed by a responsible company official. The TMBCI/EPA has the discretion to view the violations resulting from the same factual event, failure to sign the application at all, and failure to have the person legally responsible for the permit application sign the application at all, and failure to have the person resulting from the same factual event, failure to sign the application at all, and failure to have the person legally responsible for the permit application sign it, as posing one legal risk. In this situation, both sections violated should be cited in the complaint, but one penalty, rather than two, may be appropriate to pursue in litigation or obtain in settlement, depending upon the facts of a case. The fact that two separate sections were violated may be taken into account in choosing higher "potential for harm" and "extent of deviation" categories on the penalty matrix.</text>
         <text>In cases such as these where multiple violations result from a single initial transgression, assessment of a separate penalty for each distinguishable violation may produce a total penalty which is disproportionately high. Accordingly, in the specifically limited circumstances described, enforcement personnel have discretion to forego separate gravity-based and multi-day penalties for certain distinguishable violations, so long as the total penalty for all related violations is appropriate considering the gravity of the offense and is sufficient to deter similar   future   behavior   and   recoup   economic   benefit.   In deciding which penalties should be compressed (i.e., the violations for which separate penalties should not be calculated), enforcement personnel should consider the seriousness of the violation, the importance of the underlying requirement to the regulatory scheme, and the economic benefit resulting from each violation. Violations that involve substantial noncompliance or that result in economic benefit that should be recaptured, should be set forth separately in the complaint. Even where separate penalties are not calculated for distinguishable violations, all significant violations should still be cited separately in the complaint to demonstrate the magnitude and scope of the violations. [Citation 21] The recitation of all significant violations will provide further support for a penalty that is based on a risk of harm and extent of deviation for the totality of the violations.</text>
       </para>
       <para>
@@ -3147,10 +3205,7 @@
       <para>
         <num>(e)</num>
         <text>Alternatively, enforcement personnel may consider including language in the complaint stating that the penalty will include a specific, additional</text>
-        <text>per day amount until the violation is corrected. The language of the complaint should be clear that the amount chosen is based on the circumstances as they are known at the time the complaint is filed and that if the conditions change, the amount of the penalty sought may change.    For    example, the     complaint     could     state: "The violation alleged in Count 1 of this complaint is of a continuing nature and continues, to the best of the TMBCI/EPA knowledge and belief, as of the date of the filing of this complaint. In addition to the penalty proposed in paragraph of this complaint, the TMBCI/EPA is hereby assessing an additional penalty of $ _ for each day after the filing of the complaint that the violation alleged in Count 1 continues. This</text>
-        <text>additional penalty assessment is based on the same factors on which the</text>
-        <text>penalty in  paragraph   is  based.  Should  circumstances or  conditions</text>
-        <text>relating to the alleged violation change, the TMBCI/EPA reserves the right to adjust the continuing penalty amount accordingly.</text>
+        <text>per day amount until the violation is corrected. The language of the complaint should be clear that the amount chosen is based on the circumstances as they are known at the time the complaint is filed and that if the conditions change, the amount of the penalty sought may change.    For    example, the     complaint     could     state: "The violation alleged in Count 1 of this complaint is of a continuing nature and continues, to the best of the TMBCI/EPA knowledge and belief, as of the date of the filing of this complaint. In addition to the penalty proposed in paragraph of this complaint, the TMBCI/EPA is hereby assessing an additional penalty of $ _ for each day after the filing of the complaint that the violation alleged in Count 1 continues. This additional penalty assessment is based on the same factors on which the penalty in paragraph is based. Should circumstances or conditions relating to the alleged violation change, the TMBCI/EPA reserves the right to adjust the continuing penalty amount accordingly.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.17.370 was formerly codified as 40.1737</annotation>
@@ -3196,7 +3251,7 @@
       <text>In determining whether to assess multi-day penalties and what penalty amount is appropriate to select from the multi-day matrix, the Department must analyze carefully the specific facts of the case. This analysis should be conducted in the context of the Penalty Policy's broad goals of:</text>
       <para>
         <num>(a)</num>
-        <text>ensuring  fair  and consistent  penalties which reflect the seriousness (gravity) of violations;</text>
+        <text>ensuring	fair	and	consistent	penalties	which	reflect	the	seriousness (gravity) of violations;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3205,12 +3260,9 @@
       <para>
         <num>(c)</num>
         <text>deterring future non-compliance</text>
-        <text>Additional factors which may be relevant in analyzing these Policy goals in the context of a specific case include the seriousness of the violation relative to other violations falling within the same matrix cell, efforts at</text>
+        <text>Additional factors which may be relevant in analyzing these Policy goals in the context of a specific case include the seriousness of the violation relative to other violations falling within the same matrix cell, efforts at remediation or the promptness and degree of cooperation evidenced by the facility (to the extent not otherwise accounted for in the proposed penalty or settlement amount), the size and sophistication of the violator, the total number of days of violation, and other relevant considerations. All of these factors must be analyzed in light of the overriding goals of the Penalty Policy to determine the appropriate penalties in a specific case.</text>
+        <text>As discussed above, this Penalty Policy permits the TMBCI/EPA to waive or reduce multi-day penalties, when otherwise mandatory for a violation, in a "highly unusual case." Because almost all continuing "major" violations warrant multi-day penalties, it is anticipated that such a waiver will occur very infrequently. As required with the presumptive multi-day violations, when the TMBCI/EPA has determined that it will either reduce the number of days of violation or will not use the multi-day matrix for violations that fall into the mandatory category, the case-specific facts justifying the reduction or waiver must be documented in the case file.</text>
       </para>
-      <text>Page 51 of 71</text>
-      <text>December 2012</text>
-      <text>remediation or the promptness and degree of cooperation evidenced by the facility (to the extent not otherwise accounted for in the proposed penalty or settlement amount), the size and sophistication of the violator, the total number of days of violation, and other relevant considerations. All of these factors must be analyzed in light of the overriding goals of the Penalty Policy to determine the appropriate penalties in a specific case.</text>
-      <text>As discussed above, this Penalty Policy permits the TMBCI/EPA to waive or reduce multi-day penalties, when otherwise mandatory for a violation, in a "highly unusual case." Because almost all continuing "major" violations warrant multi-day penalties, it is anticipated that such a waiver will occur very infrequently. As required with the presumptive multi-day violations, when the TMBCI/EPA has determined that it will either reduce the number of days of violation or will not use the multi-day matrix for violations that fall into the mandatory category, the case-specific facts justifying the reduction or waiver must be documented in the case file.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.17.390 was formerly codified as 40.1739</annotation>
       </annotations>
@@ -3259,12 +3311,9 @@
       <para>
         <num>(b)</num>
         <text>benefit from avoided costs.</text>
-        <text>Delayed costs are expenditures which have been deferred by the violator's failure to comply with the requirements. The violator eventually will have to spend the money in order to achieve compliance. Delayed costs are either capital costs (essentially construction or equipment)  or  one-time non-</text>
+        <text>Delayed costs are expenditures which have been deferred by the violator's failure to comply with the requirements. The violator eventually will have to spend the money in order to achieve compliance. Delayed costs are either capital costs (essentially construction or equipment)  or  one-time non-depreciable costs (e.g., cleaning up a spill).</text>
+        <text>Avoided costs are expenditures which will never be incurred. Avoided costs include the usual operating and maintenance costs which would include any annual periodic costs such as leasing monitoring or testing equipment.</text>
       </para>
-      <text>Page 52 of 71</text>
-      <text>December 2012</text>
-      <text>depreciable costs (e.g., cleaning up a spill).</text>
-      <text>Avoided costs are expenditures which will never be incurred. Avoided costs include the usual operating and maintenance costs which would include any annual periodic costs such as leasing monitoring or testing equipment.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.17.420 was formerly codified as 40.1742</annotation>
       </annotations>
@@ -3295,11 +3344,8 @@
       <heading>Adjustment Factors and Effect of Settlement</heading>
       <para>
         <num>(a)</num>
-        <text>Adjustment Factors. Background: As mentioned in Section VI of this document, the seriousness of the violation is considered in determining the gravity-based penalty component. The reasons the violation was committed, the intent of the violator, and other factors related to the violator are not considered in choosing the appropriate cell from the matrix. However, any systems for calculating penalties must have enough flexibility to make adjustments that reflect legitimate differences between separate violations of the same provision. In assessing penalties, the TMBCI/EPA must take into account any good faith efforts to comply with the applicable requirements. There are several such adjustment factors to consider. These include the degree of willfulness and/or negligence, history of noncompliance, ability to pay, and other unique factors. This adjustment may also include an additional adjustment factor for environmental projects undertaken by the violator, and that are not to the</text>
+        <text>Adjustment Factors. Background: As mentioned in Section VI of this document, the seriousness of the violation is considered in determining the gravity-based penalty component. The reasons the violation was committed, the intent of the violator, and other factors related to the violator are not considered in choosing the appropriate cell from the matrix. However, any systems for calculating penalties must have enough flexibility to make adjustments that reflect legitimate differences between separate violations of the same provision. In assessing penalties, the TMBCI/EPA must take into account any good faith efforts to comply with the applicable requirements. There are several such adjustment factors to consider. These include the degree of willfulness and/or negligence, history of noncompliance, ability to pay, and other unique factors. This adjustment may also include an additional adjustment factor for environmental projects undertaken by the violator, and that are not to the direct benefit to the violator.</text>
       </para>
-      <text>Page 53 of 71</text>
-      <text>December 2012</text>
-      <text>direct benefit to the violator.</text>
       <para>
         <num>(b)</num>
         <text>Recalculation of Penalty Amount: If new information becomes available after the issuance of the proposed penalty which makes it clear that the initial calculation of the penalty is in error, enforcement personnel should adjust this figure. Enforcement personnel should document on the Penalty Computation Worksheet the basis for recalculating the gravity- based or economic benefit component of the penalty. For example, if after the issuance of the proposed penalty, information is presented which indicates that less waste is involved than was believed when the proposed penalty was issued, it may be appropriate to recalculate the gravity-based penalty component. Thus, if enforcement personnel had originally believed that the violator had improperly stored ten barrels of hazardous wastes but it was later determined that only a single container of hazardous waste was improperly stored, it may be appropriate to recalculate the "potential for harm" component of the gravity-based penalty from "major" to "moderate" or "minor." On the other hand, if enforcement personnel initially believed a violator had fully complied with a specified requirement but subsequently determine that this is not the case, it would be appropriate to amend the complaint as necessary to add a new count, and revise the total penalty amount upward to account for this previously undiscovered violation. Likewise, if new information shows that a previously known violation is more serious than initially thought, an upward revision of the penalty amount may be required. Furthermore, if the violator presented new information which established that the work performed was technically inadequate or useless (e.g., the violator drilled wells in the wrong spot or did not dig deep enough), it may be more appropriate to keep the gravity-based penalty as originally calculated an evaluate whether it would be appropriate to mitigate the penalty based on the "good faith efforts" adjustment factor. When information is presented which makes it clear that the gravity-based or economic benefit penalty component is in error, enforcement personnel may, of course, choose to formally amend the complaint to correct the original penalty component. In all instances, any recalculation of the penalty should be carefully documented on the Penalty Computation Worksheet and include a summary in the enforcement file.</text>
@@ -3311,41 +3357,38 @@
         <para>
           <num>(1)</num>
           <text>Good Faith Efforts to Comply/Lack of Good Faith.</text>
-          <text>Good faith efforts to comply with applicable requirements must be considered in assessing a penalty. The violator can manifest good faith by promptly identifying and reporting noncompliance or instituting measures to remedy the violation before the TMBCI/EPA detects the violation. Assuming self-reporting is not required by law and the violations are expeditiously corrected, a violator's admission or correction of a violation prior to detection may provide a basis    for</text>
-        </para>
-      </para>
-      <text>Page 54 of 71</text>
-      <text>December 2012</text>
-      <text>mitigation of the penalty, particularly where the violator institutes significant new measures to prevent recurrence. Lack of good faith, on the other hand, can result in an increased penalty. Likewise, claims by a violator that "it was not told" by the Tribe, the TMBCI/EPA or the Compliance Officer that it was out of compliance should not be cause for any downward adjustment of the penalty.</text>
-      <para>
-        <num>(d)</num>
-        <text>Degree of Willfulness and/or Negligence.</text>
-        <text>In cases where civil penalties are sought for "knowing" violations of the Tribal Laws/Code(s), the penalty may be adjusted upward for willfulness and/or negligence.</text>
-        <text>In assessing the degree of willfulness, and/or negligence, the following factors should be considered, as well as any others deemed appropriate:</text>
-        <para>
-          <num>(1)</num>
-          <text>how much control the violator had over the events constituting the violation;</text>
+          <text>Good faith efforts to comply with applicable requirements must be considered in assessing a penalty. The violator can manifest good faith by promptly identifying and reporting noncompliance or instituting measures to remedy the violation before the TMBCI/EPA detects the violation. Assuming self-reporting is not required by law and the violations are expeditiously corrected, a violator's admission or correction of a violation prior to detection may provide a basis for mitigation of the penalty, particularly where the violator institutes significant new measures to prevent recurrence. Lack of good faith, on the other hand, can result in an increased penalty. Likewise, claims by a violator that "it was not told" by the Tribe, the TMBCI/EPA or the Compliance Officer that it was out of compliance should not be cause for any downward adjustment of the penalty.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>the foreseeability of the events constituting a violation;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>whether the violator took reasonable precautions against the events constituting the violation;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>whether the violator knew or should have known of the hazards associated with the conduct; and</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>whether the violator knew or should have known of the requirement which was violated.</text>
-          <text>It should be noted that this last factor, lack of knowledge of the requirement, should never be used as a basis to reduce the penalty. To do so would encourage ignorance of the law. Rather, knowledge of the Tribal law/code(s) should serve only  to  enhance  the  penalty.  The amount of control which the violator had over how quickly the violation was remedied also is relevant in certain circumstances. Specifically, if correction of the environmental problem was delayed by factors which the violator can clearly show were not reasonably foreseeable and were out of his or her control and the control of his or her agents, the penalty may be reduced.</text>
+          <text>Degree of Willfulness and/or Negligence.</text>
+          <text>In cases where civil penalties are sought for "knowing" violations of the Tribal Laws/Code(s), the penalty may be adjusted upward for willfulness and/or negligence.</text>
+          <text>In assessing the degree of willfulness, and/or negligence, the following factors should be considered, as well as any others deemed appropriate:</text>
+          <para>
+            <num>(A)</num>
+            <text>how much control the violator had over the events constituting the violation;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the foreseeability of the events constituting a violation;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>whether the violator took reasonable precautions against the events constituting the violation;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>whether the violator knew or should have known of the hazards associated with the conduct; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>whether the violator knew or should have known of the requirement which was violated.</text>
+            <text>It should be noted that this last factor, lack of knowledge of the requirement, should never be used as a basis to reduce the penalty. To do so would encourage ignorance of the law. Rather, knowledge of the Tribal law/code(s) should serve only  to  enhance  the  penalty.  The amount of control which the violator had over how quickly the violation was remedied also is relevant in certain circumstances. Specifically, if correction of the environmental problem was delayed by factors which the violator can clearly show were not reasonably foreseeable and were out of his or her control and the control of his or her agents, the penalty may be reduced.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>(e)</num>
+        <num>(d)</num>
         <text>History of Noncompliance (upward adjustment only) where a party previously has violated Tribal environmental laws/code(s)at the same time or a different site, this is usually clear evidence that the party was not deterred by the previous enforcement response. Unless the current or previous violation was caused by factors entirely out of the control of the violator, this is an indication that the penalty should be adjusted upwards.</text>
         <text>Some of the factors that enforcement personnel should consider in making this determination are as follows:</text>
         <para>
@@ -3363,14 +3406,11 @@
         <para>
           <num>(4)</num>
           <text>violator's response to previous violation(s) in regard to correction of problem.</text>
-          <text>A violation generally should be considered "similar" if the TMBCI/EPA previous enforcement response should have alerted the party to a particular type of compliance problem. A previous violation of the same requirement   would   constitute    a    similar    violation. Nevertheless, a history of noncompliance can be established even in the absence of similar violations, where there is a pattern of disregard of environmental requirements contained in Tribal or another federal environmental statute. Enforcement personnel should examine multimedia compliance by the respondent and, where there are indications of a history of noncompliance, the penalty  should  be  adjusted  accordingly.     For the purpose of <cite path="§40.17.450">this section</cite>, a "previous violation" includes any act or omission for which a formal or informal enforcement response has occurred (e.g., Tribal, EPA or State notice of violation, warning letter,</text>
+          <text>A violation generally should be considered "similar" if the TMBCI/EPA previous enforcement response should have alerted the party to a particular type of compliance problem. A previous violation of the same requirement   would   constitute    a    similar    violation. Nevertheless, a history of noncompliance can be established even in the absence of similar violations, where there is a pattern of disregard of environmental requirements contained in Tribal or another federal environmental statute. Enforcement personnel should examine multimedia compliance by the respondent and, where there are indications of a history of noncompliance, the penalty  should  be  adjusted  accordingly.     For the purpose of <cite path="§40.17.450">this section</cite>, a "previous violation" includes any act or omission for which a formal or informal enforcement response has occurred (e.g., Tribal, EPA or State notice of violation, warning letter, complaint, consent agreement, final order, or consent decree). The term also includes any act or omission for which the violator has previously been given written notification or warning, however informal, that the TMBCI/EPA believes a violation exists.</text>
         </para>
       </para>
-      <text>Page 55 of 71</text>
-      <text>December 2012</text>
-      <text>complaint, consent agreement, final order, or consent decree). The term also includes any act or omission for which the violator has previously been given written notification or warning, however informal, that the TMBCI/EPA believes a violation exists.</text>
       <para>
-        <num>(f)</num>
+        <num>(e)</num>
         <text>Ability to Pay (downward adjustment only): The TMBCI/EPA generally will not assess penalties that are clearly beyond the means of the violator. Therefore, the enforcement personnel should consider the ability of a violator to pay a penalty. At the same time, it is important that the regulated community not see the violation of environmental requirements as a way of aiding a financially-troubled business.</text>
         <text>Enforcement personnel should conduct a preliminary inquiry into the financial status of the party against whom a proposed penalty is being assessed. This inquiry may include a review of publicly-available information. The ability of a violator to pay a proposed penalty is not a factor that the TMBCI/EPA must consider in assessing a penalty. However, because this is a mitigating factor set forth in this Policy, enforcement personnel should be generally aware of the financial status of the violator in the event that this is raised as an issue in settlement or hearing.</text>
         <text>The burden to demonstrate inability to pay rests on the violator, as it does with any mitigating circumstances. Thus, a person or party's inability to pay usually will be considered only if the issue is raised by the violator. If the violator fails to fully provide sufficient information, then enforcement personnel should disregard this factor in adjusting the penalty. When the TMBCI/EPA determines that a violator cannot afford the penalty as prescribed by this Policy or the cost of compliance or from carrying out remedial measures which the TMBCI/EPA deems to be more important than the deterrence effect of the penalty (e.g., payment of penalty would preclude proper clean up of a release), the following options should be considered in the order presented:</text>
@@ -3393,13 +3433,12 @@
         </para>
       </para>
       <para>
-        <num>(g)</num>
+        <num>(f)</num>
         <text>Environment Projects (downward adjustment only): Under certain circumstances the TMBCI/EPA may consider adjusting the penalty amount downward in return for an agreement by the violator to undertake an appropriate environmentally beneficial project. Such a project should not directly benefit the violator or be in response to another order or enforcement action by the Tribe, the State or a Federal agency.</text>
       </para>
       <para>
-        <num>(h)</num>
-        <text>Other Unique Factors: This Policy allows an adjustment for factors which may arise on a case-by-case basis. When developing its  settlement position, the TMBCI/EPA should evaluate every penalty with a view toward the potential for protracted litigation and attempt to ascertain the maximum civil penalty the tribal court is likely to award if the case, considering, for example, the probability of proving violations, the probability that the Tribe's legal arguments will be accepted, the opportunities which exist to establish a useful precedent or send a signal to the regulated community, the availability and potential effectiveness  of the Tribe's evidence, including witnesses, and the potential strength  of the violator's equitable and legal defenses. Where the TMBCI/EPA determines that significant litigative risks exist, it may also take into account any disproportionate resource outlay involved in litigating a case that it might avoid by entering into a settlement. Downward adjustments of</text>
-        <text>the proposed penalty for settlement purposes may be warranted depending on the TMBCI/EPA assessment of these litigation considerations. The extent of the adjustments will depend, of course, on the specific litigation considerations presented in any particular case.</text>
+        <num>(g)</num>
+        <text>Other Unique Factors: This Policy allows an adjustment for factors which may arise on a case-by-case basis. When developing its  settlement position, the TMBCI/EPA should evaluate every penalty with a view toward the potential for protracted litigation and attempt to ascertain the maximum civil penalty the tribal court is likely to award if the case, considering, for example, the probability of proving violations, the probability that the Tribe's legal arguments will be accepted, the opportunities which exist to establish a useful precedent or send a signal to the regulated community, the availability and potential effectiveness  of the Tribe's evidence, including witnesses, and the potential strength  of the violator's equitable and legal defenses. Where the TMBCI/EPA determines that significant litigative risks exist, it may also take into account any disproportionate resource outlay involved in litigating a case that it might avoid by entering into a settlement. Downward adjustments of the proposed penalty for settlement purposes may be warranted depending on the TMBCI/EPA assessment of these litigation considerations. The extent of the adjustments will depend, of course, on the specific litigation considerations presented in any particular case.</text>
         <text>In addition to litigation risks, enforcement personnel can consider, for the purposes of an expedited settlement, the cooperation of the person or party throughout the compliance evaluation and enforcement process. Enforcement personnel may reduce the gravity-based portion of the penalty by as much as 10% considering the degree of cooperation and preparedness during the inspection, provision of access to records, responsiveness and expeditious provision of supporting documentation requested by the process. In addition to creating an incentive for cooperative behavior during the activities listed above, this adjustment factor further reinforces the concept that respondents face a significant risk of higher penalties in litigation than in settlement. This adjustment factor should only be considered in settlements agreed to in principle by the parties before the filing of the prehearing exchange of information.</text>
         <text>It is important to note the difference between a penalty adjustment for cooperative attitude and for good faith efforts to comply. While self- reporting and correction of violations qualify as good faith efforts, the cooperation and attitude of the violator throughout the investigation and enforcement process should be the focus under this factor. For example, a violator may qualify for the adjustment if it voluntarily provides information prior to the TMBCI/EPA use of investigative tools such as information request well in advance of the due date and otherwise cooperates fully, a downward adjustment may be appropriate. By contrast, this factor should not be applied to those cases where the violator indicates an interest in settlement and enters into negotiations but does not demonstrate other indications of cooperation. Generally, this adjustment factor should apply to those violators who demonstrates and maintain a high degree of willingness to work with the TMBCI/EPA regarding the investigation and resolution of violations.</text>
       </para>
@@ -3420,12 +3459,12 @@
       <heading>Appendix</heading>
       <text>Standardized Penalties as specified by the Director of the TMBCI/EPA. This list of standard minor offense penalties may be added to the discretion of the Director of the TMBCI/EPA.</text>
       <text>For minor/minor first offenses:</text>
-      <text>VIOLATION Standard  Penalty/Fine</text>
-      <text>Littering (minor first offense) $25.00</text>
-      <text>Transporting, Uncovered Waste Load (Tarp) $50.00</text>
-      <text>Dumping of "White Goods"  $25.00  @ item</text>
-      <text>Dumping "Bulk Waste"  $25.00  @ item Dumping household waste (less than 1 cu. yd) $25.00</text>
-      <text>Dumping Septic Wastes $100.00</text>
+      <text>VIOLATION	Standard	Penalty/Fine</text>
+      <text>Littering (minor first offense)	$25.00</text>
+      <text>Transporting, Uncovered Waste Load (Tarp)	$50.00</text>
+      <text>Dumping of "White Goods"	$25.00	@	item</text>
+      <text>Dumping "Bulk Waste"	$25.00	@	item Dumping household waste (less than 1 cu. yd)	$25.00</text>
+      <text>Dumping Septic Wastes	$100.00</text>
       <annotations>
         <annotation type="Prior Codifications">§40.17.470 was formerly codified as 40.1747</annotation>
       </annotations>
@@ -3484,8 +3523,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Spill sites, where the TM-TRP determines that the person responsible for the spill cannot be identified, or where the department must take prompt action to prevent hazards to human health or the environment at  a site where a responsible party, or other appropriate state or federal</text>
-          <text>authority, fails to act promptly.</text>
+          <text>Spill sites, where the TM-TRP determines that the person responsible for the spill cannot be identified, or where the department must take prompt action to prevent hazards to human health or the environment at  a site where a responsible party, or other appropriate state or federal authority, fails to act promptly.</text>
         </para>
       </para>
       <para>
@@ -3538,8 +3576,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>A unit of Tribal government which acquired ownership or control through bankruptcy, abandonment or other circumstances in which the government acquires title by virtue of its function as sovereign, unless the</text>
-          <text>Tribal government agency contributed to the contamination.</text>
+          <text>A unit of Tribal government which acquired ownership or control through bankruptcy, abandonment or other circumstances in which the government acquires title by virtue of its function as sovereign, unless the Tribal government agency contributed to the contamination.</text>
         </para>
       </para>
       <para>
@@ -3623,7 +3660,7 @@
       <para>
         <num>(c)</num>
         <text>Who to Notify of a Release. The owner or operator of a facility or a vehicle believed to be the source of such a release of a hazardous substance, pollutant or contaminant must notify the TM-TRP   within</text>
-        <text>_(time)? at (phone No.)   as well as the appropriate State and federal authorities.</text>
+        <text>_(time)? at (phone No.) 	as well as the appropriate State and federal authorities.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3634,11 +3671,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Name  and address of  the facility  (or location  of  the spill or accident);</text>
+          <text>Name	and	address	of	the	facility	(or	location	of	the	spill	or accident);</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Name  of  facility/vehicle  owner contact if  different than reporting person;</text>
+          <text>Name	of	facility/vehicle	owner	contact	if	different	than reporting person;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3683,15 +3720,14 @@
       <text>Any voluntary or involuntary remedial action conducted by an owner, operator or responsible party or by the TM-TRP, shall:</text>
       <para>
         <num>(a)</num>
-        <text>Be protective of human health, safety and the environment. A remedy shall be considered to be protective of human health if it reduces risk to human receptors of acute and chronic toxic exposures to contaminants to levels that do not pose a significant risk to human health. A remedy shall be</text>
-        <text>considered to be protective of the environment if it adequately reduces risk of significant adverse impacts to ecological receptors for which habitats have been identified on or near the site. Remedies may meet this requirement through a combination of removal, treatment, monitored natural attenuation, engineering or Tribal institutional controls. Any site where a remedy is proposed that includes leaving contamination above background or risk based levels in place utilizing engineering or Tribal institutional controls must also be approved by the Tribal Council pursuant to this Act;</text>
+        <text>Be protective of human health, safety and the environment. A remedy shall be considered to be protective of human health if it reduces risk to human receptors of acute and chronic toxic exposures to contaminants to levels that do not pose a significant risk to human health. A remedy shall be considered to be protective of the environment if it adequately reduces risk of significant adverse impacts to ecological receptors for which habitats have been identified on or near the site. Remedies may meet this requirement through a combination of removal, treatment, monitored natural attenuation, engineering or Tribal institutional controls. Any site where a remedy is proposed that includes leaving contamination above background or risk based levels in place utilizing engineering or Tribal institutional controls must also be approved by the Tribal Council pursuant to this Act;</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Attain Standards Established by the Tribe. A remedy shall attain standards established under <cite path="§40.18.070">this section</cite> for air, soil, water and ground water affected by the release, unless the Tribal EPA Director sets an alternate standard. No standard set under <cite path="§40.18.070">this section</cite> for a contaminant shall be set at a level or concentration lower than the background level or concentration for that contaminant. A remedy must attain standards or alternate standards by the end of the remediation period set forth in the Remediation Agreement. A remedy shall be considered to attain Tribal standards for air, soil water and ground water if it:</text>
         <para>
           <num>(1)</num>
-          <text>Meets any applicable  media standards established under Tribal  or federal Act, law or rule or regulation; or</text>
+          <text>Meets	any	applicable	media	standards	established	under	Tribal	or federal Act, law or rule or regulation; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3777,7 +3813,7 @@
     <section>
       <num>40.18.090</num>
       <heading>Voluntary Remediation Eligibility</heading>
-      <text>Sites or  properties  that  are eligible  for voluntary remediation shall include:</text>
+      <text>Sites	or	properties	that	are	eligible	for	voluntary	remediation	shall include:</text>
       <para>
         <num>(a)</num>
         <text>Sites or properties which meet the following conditions:</text>
@@ -3884,8 +3920,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Order of the TM-TRP, Compliance Officer, Tribal Council or by any federal or state court and entered without the consent of a person who has failed</text>
-        <text>or refused to enter into, or breached the terms of, a Remediation Assessment Agreement, Remediation Agreement or reopened Remediation Agreement; or</text>
+        <text>Order of the TM-TRP, Compliance Officer, Tribal Council or by any federal or state court and entered without the consent of a person who has failed or refused to enter into, or breached the terms of, a Remediation Assessment Agreement, Remediation Agreement or reopened Remediation Agreement; or</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3935,7 +3970,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>a description of  any engineering or  proposed  Tribal  institutional controls;</text>
+          <text>a	description	of	any	engineering	or	proposed	Tribal	institutional controls;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3943,7 +3978,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>conditions  for the effective and efficient implementation  of  the Remediation Agreement.</text>
+          <text>conditions	for	the	effective	and	efficient	implementation	of	the Remediation Agreement.</text>
         </para>
       </para>
       <para>
@@ -4112,7 +4147,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Both assurances may affect TM-TRP's ability to require additional remediation at a site or property and give site owners, operators, prospective purchasers, or other responsible party or government agency certainty about the extent of their remediation liability. If a Certificate of Completion or No Further Action letter is issued the TM-TRP shall record a notice of such action in the office of with the deed for the site or property and shall file the notice in the office of the   no later than ten (10) business days after the date of issuance.</text>
+        <text>Both assurances may affect TM-TRP's ability to require additional remediation at a site or property and give site owners, operators, prospective purchasers, or other responsible party or government agency certainty about the extent of their remediation liability. If a Certificate of Completion or No Further Action letter is issued the TM-TRP shall record a notice of such action in the office of	with the deed for the site or property and shall file the notice in the office of the 	no later than ten (10) business days after the date of issuance.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4218,7 +4253,7 @@
     <section>
       <num>40.18.190</num>
       <heading>Institutional Controls</heading>
-      <text>An  institutional control area  or  site  may be  created or  modified  by  a majority vote of the Tribal Council and/or a responsible government agency. \</text>
+      <text>An	institutional	control	area	or	site	may	be	created	or	modified	by	a majority vote of the Tribal Council and/or a responsible government agency. \</text>
       <para>
         <num>(a)</num>
         <text>The Tribal EPA Director, an owner or leasee of a site or property or a government agency responsible for a site or property may propose long-term restrictions on the use of a site or property and shall petition to the Tribal Council and to the appropriate governmental entity or entities, as appropriate, for the creation of such an institutional control area to establish long-term restrictions on the use of the site or property. Such petitioner for creation or modification of an institutional control area shall:</text>
@@ -4310,7 +4345,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>If a Remediation Agreement, covenant not to sue, Certificate of Completion or No Further Action letter is reopened or terminated, the TM-TRP shall record a notice of such action in the   office of  with the deed for the site and shall file the notice in the office of the</text>
+        <text>If a Remediation Agreement, covenant not to sue, Certificate of Completion or No Further Action letter is reopened or terminated, the TM-TRP shall record a notice of such action in the   office of	with the deed for the site and shall file the notice in the office of the</text>
         <text>no later than ten (10) business days after the date    of the Remediation Agreement, covenant not to sue, certificate of completion or no further action letter is reopened or terminated.</text>
       </para>
       <annotations>

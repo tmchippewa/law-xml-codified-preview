@@ -135,7 +135,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Disqualifying drug conviction" means a conviction related to a controlled substance that is either a felony under state or federal law or equivalent to a Schedule 5 offense under Title 26 Offenses and Penalties of the Turtle Mountain Band of Chippewa Indians Tribal Code that occurred before, on or after the enactment of the 2018 Farm Bill and which disqualifies an individual from obtaining a License under <cite path="51">this title</cite> for ten (10) years following the date of the conviction.  An exception applies to a person who was lawfully growing hemp under the 2014 Farm Bill before December 20, 2018 and whose conviction also occurred before that date.</text>
+        <text>"Disqualifying drug conviction" means a conviction related to a controlled substance that is either a felony under state or federal law or equivalent to a Schedule 5 offense under <cite path="26">Title 26</cite> Offenses and Penalties of the Turtle Mountain Band of Chippewa Indians Tribal Code that occurred before, on or after the enactment of the 2018 Farm Bill and which disqualifies an individual from obtaining a License under <cite path="51">this title</cite> for ten (10) years following the date of the conviction.  An exception applies to a person who was lawfully growing hemp under the 2014 Farm Bill before December 20, 2018 and whose conviction also occurred before that date.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -167,7 +167,7 @@
       </para>
       <para>
         <num>(s)</num>
-        <text>"Jurisdiction" means the Tribe's jurisdiction as defined in Article II of the Constitution. The Tribe hereby asserts jurisdiction over any cultivation site on fee land within the Tribe's Reservation boundaries.</text>
+        <text>"Jurisdiction" means the Tribe's jurisdiction as defined in <cite doc="Turtle Mountain Constitution and By-laws" path="II">Article II of the Constitution</cite>. The Tribe hereby asserts jurisdiction over any cultivation site on fee land within the Tribe's Reservation boundaries.</text>
       </para>
       <para>
         <num>(t)</num>
@@ -699,7 +699,7 @@
         <text>The following persons shall be ineligible for a Hemp Production License:</text>
         <para>
           <num>(1)</num>
-          <text>Any Person convicted disqualifying drug conviction as defined in Section 2.01(11).</text>
+          <text>Any Person convicted disqualifying drug conviction as defined in <cite path="§51.02.010|(k)">Section 51.02.010(k)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -715,7 +715,7 @@
         <text>The following persons shall be ineligible for a Hemp Processing License:</text>
         <para>
           <num>(1)</num>
-          <text>Any Person convicted disqualifying drug conviction as defined in Section 2.01(11).</text>
+          <text>Any Person convicted disqualifying drug conviction as defined in <cite path="§51.02.010|(k)">Section 51.02.010(k)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -890,7 +890,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The Commission must report information for all non-compliant hemp materials disposed of pursuant to Section 8.06 to the USDA by the first of the month, or if the first of the month falls on a weekend or a holiday, by the first business day following the first of the month. The following information must be included in the report for all Licensee's subject to disposal:</text>
+        <text>The Commission must report information for all non-compliant hemp materials disposed of pursuant to <cite path="§51.08.060">Section 51.08.060</cite> to the USDA by the first of the month, or if the first of the month falls on a weekend or a holiday, by the first business day following the first of the month. The following information must be included in the report for all Licensee's subject to disposal:</text>
         <para>
           <num>(1)</num>
           <text>Name and address of the Licensee;</text>
@@ -1274,7 +1274,7 @@
       <heading>Hemp Processing Facility</heading>
       <para>
         <num>(a)</num>
-        <text>Hemp Processing Licensee shall ensure a hemp processing facility structure complies with all applicable provisions of the Construction Code (Title 15 et seq.) and all related regulations and guidelines promulgated by the Tribe or Commission.</text>
+        <text>Hemp Processing Licensee shall ensure a hemp processing facility structure complies with all applicable provisions of the Construction Code (<cite path="15">Title 15</cite> et seq.) and all related regulations and guidelines promulgated by the Tribe or Commission.</text>
       </para>
       <para>
         <num>(b)</num>

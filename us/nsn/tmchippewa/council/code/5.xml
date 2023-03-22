@@ -683,7 +683,7 @@
     <section>
       <num>5.01.100</num>
       <heading>Commitments and Religious Beliefs</heading>
-      <text>All commitments to institutions or for placement in family homes under <cite path="5">this title</cite> 5 shall be, as far as practicable, either to institutions or for placement in family homes of the same religious belief as that of the person so committed, or of his parents or to institutions affording opportunity for instruction in such belief.</text>
+      <text>All commitments to institutions or for placement in family homes under this <cite path="5">this title</cite> shall be, as far as practicable, either to institutions or for placement in family homes of the same religious belief as that of the person so committed, or of his parents or to institutions affording opportunity for instruction in such belief.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.01.100 was formerly codified as 5.0110</annotation>
       </annotations>
@@ -1136,7 +1136,7 @@
     <section>
       <num>5.02.110</num>
       <heading>Commitments and Judgments</heading>
-      <text>The Court shall have broad discretionary power with respect to commitments and judgments, and its authority shall include, but is not limited to, the power to commit the juvenile. If the Court shall find that the child is within the provisions of Title 9 and Title 5, it shall so decree and, by order duly entered, may proceed as follows:</text>
+      <text>The Court shall have broad discretionary power with respect to commitments and judgments, and its authority shall include, but is not limited to, the power to commit the juvenile. If the Court shall find that the child is within the provisions of <cite path="9">Title 9</cite> and <cite path="5">this title</cite>, it shall so decree and, by order duly entered, may proceed as follows:</text>
       <para>
         <num>(a)</num>
         <text>Place the child under supervision in his own home, or in the custody of a relative or other proper person, upon such terms as the Court shall determine.</text>
@@ -1365,7 +1365,7 @@
         <text>Exceptions. An alleged juvenile offender may be detained in a jailor facility used for the detention of adults only if:</text>
         <para>
           <num>(1)</num>
-          <text>A facility as described in <cite path="§5.02.220">this section</cite>, Subsection would not provide adequate in (a), (b) and (c) of (1) is not available for restraint of the minor;</text>
+          <text>A facility as described in (1), (2) and (3) of (a) is not available for restraint of the minor;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1434,7 +1434,7 @@
     <section>
       <num>5.02.250</num>
       <heading>Photos and Fingerprints; Juvenile Restrictions</heading>
-      <text>No juvenile shall be photographed or fingerprinted by law enforcement authorities unless permission is granted by the Court or unless conditions as specified in <cite path="5.0208">Chapter 5.0208</cite>, Section 10, Subsection 3 applies.</text>
+      <text>No juvenile shall be photographed or fingerprinted by law enforcement authorities unless permission is granted by the Court or unless conditions as specified in <cite path="§5.02.080|(j)|(3)">Section 5.02.080(j)(3)</cite> applies.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.02.250 was formerly codified as 5.0225</annotation>
       </annotations>
@@ -2364,7 +2364,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A child may enter an institution upon submitting written proof from a licensed physician or authorized representative of the North Dakota State Department of Health stating that he has started receiving the required immunization, or has a written consent by the child's parent or guardian for a local health service or department to administer the needed immunization without charge, or has complied" with the requirements for certificate of exemptions as provided for in Subsection 3.</text>
+        <text>A child may enter an institution upon submitting written proof from a licensed physician or authorized representative of the North Dakota State Department of Health stating that he has started receiving the required immunization, or has a written consent by the child's parent or guardian for a local health service or department to administer the needed immunization without charge, or has complied" with the requirements for certificate of exemptions as provided for in Subsection (c).</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2372,7 +2372,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The enforcement of subsections 1, 2, and 3 shall be the responsibility of the designated institution authority.</text>
+        <text>The enforcement of subsections (a), (b), and (c) shall be the responsibility of the designated institution authority.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2380,7 +2380,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>When, in the opinion of an Indian Public Health Officer, danger of an epidemic exists from any of the communicable diseases for which immunization is required under <cite path="§5.11.050">this section</cite>, the exemptions from immunization against such disease shall not be recognized and children not immunized shall be excluded from an institution listed in Subsection (1) until, in the opinion of the Health Officer, the danger of the epidemic is over. The designated institution authority shall notify those parents or guardians taking legal exception to the immunization requirements that their children are excluded from school during an epidemic as determined by the Indian Public Health Services.</text>
+        <text>When, in the opinion of an Indian Public Health Officer, danger of an epidemic exists from any of the communicable diseases for which immunization is required under <cite path="§5.11.050">this section</cite>, the exemptions from immunization against such disease shall not be recognized and children not immunized shall be excluded from an institution listed in Subsection (a) until, in the opinion of the Health Officer, the danger of the epidemic is over. The designated institution authority shall notify those parents or guardians taking legal exception to the immunization requirements that their children are excluded from school during an epidemic as determined by the Indian Public Health Services.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§5.11.050 was formerly codified as 5.1105</annotation>
@@ -2412,7 +2412,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any person found in violation of the above Section (1) or (2) shall be penalized as follows:</text>
+        <text>Any person found in violation of the above subsection (a) or (b) shall be penalized as follows:</text>
         <para>
           <num>(1)</num>
           <text>First violation:</text>
@@ -2442,15 +2442,15 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Minors guilty of Section (1) shall be monitored by their parents and along with their parents be required to attend a tobacco cessation program in the community.</text>
+        <text>Minors guilty of Section (a) shall be monitored by their parents and along with their parents be required to attend a tobacco cessation program in the community.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>It shall be a defense to Subsection (1) if the juvenile's possession or use of tobacco is related to a cultural or religious practice, including without limitation, the use or possession of tobacco during any religious or cultural ceremony, provided a child under the age of eighteen (18) be supervised by a parent, guardian, or elder.</text>
+        <text>It shall be a defense to Subsection (a) if the juvenile's possession or use of tobacco is related to a cultural or religious practice, including without limitation, the use or possession of tobacco during any religious or cultural ceremony, provided a child under the age of eighteen (18) be supervised by a parent, guardian, or elder.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Subsection (1) shall not apply to an employee under eighteen (18) years of age employed by a licensed retailer where such person under eighteen years is handling the tobacco as part of his/her employment, provided the employee is not selling to another minor and is supervised by an adult/or manager of the business/establishment.</text>
+        <text>Subsection (a) shall not apply to an employee under eighteen (18) years of age employed by a licensed retailer where such person under eighteen years is handling the tobacco as part of his/her employment, provided the employee is not selling to another minor and is supervised by an adult/or manager of the business/establishment.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§5.12.020 was formerly codified as 5.1202</annotation>
@@ -2469,11 +2469,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A person who violates Section (1) above is guilty of a misdemeanor, and upon conviction or adjudication of guilt, shall be punished by a fine not to exceed two hundred dollars ($200) and not less than twenty (20) hours nor more than forty (40) hours of community service work, or a combination of fine and community service work as determined by the court.</text>
+        <text>A person who violates subsection (1) above is guilty of a misdemeanor, and upon conviction or adjudication of guilt, shall be punished by a fine not to exceed two hundred dollars ($200) and not less than twenty (20) hours nor more than forty (40) hours of community service work, or a combination of fine and community service work as determined by the court.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>A person who commits a second or subsequent violation of Section (1) above shall be subject to the penalties prescribed in Section (2) above and shall be court ordered to undergo an assessment of alcohol and other drug problems.</text>
+        <text>A person who commits a second or subsequent violation of subsection (a) above shall be subject to the penalties prescribed in subsection (b) above and shall be court ordered to undergo an assessment of alcohol and other drug problems.</text>
         <para>
           <num>(1)</num>
           <text>The court shall order appropriate supervised treatment or education services in accordance with the clinical alcohol and other drug abuse assessment.</text>
@@ -2525,7 +2525,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Any person who fails to obey promptly an order issued under subsection (1) or who engages in further gang loitering within sight or hearing of the place at which such as order was issued during the eight-hour period following the time the order was issued, is subject to a fine and/or community service.</text>
+        <text>Any person who fails to obey promptly an order issued under subsection (a) or who engages in further gang loitering within sight or hearing of the place at which such as order was issued during the eight-hour period following the time the order was issued, is subject to a fine and/or community service.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 442-09-15"/>

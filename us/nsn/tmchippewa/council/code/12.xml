@@ -195,15 +195,15 @@
       <heading>Exclusion or Modification of Warranties</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it, the language must mention the word merchantability, and in the case of a writing must be conspicuous.</text>
+        <text>Subject to subsection (c), to exclude or modify the implied warranty of merchantability or any part of it, the language must mention the word merchantability, and in the case of a writing must be conspicuous.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Subject to subsection (3), to exclude or modify an implied warranty of fitness for a particular purpose, the exclusion must be in writing and conspicuous.</text>
+        <text>Subject to subsection (c), to exclude or modify an implied warranty of fitness for a particular purpose, the exclusion must be in writing and conspicuous.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Notwithstanding subsections (1) and (2), unless the circumstances indicate otherwise, all implied warranties are excluded by expressions such as "as is", "with all faults", or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty. When the buyer, before entering into the contract, has examined the goods or the sample or model as fully as he desired, or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought, in the circumstances, to have revealed to him.</text>
+        <text>Notwithstanding subsections (a) and (b), unless the circumstances indicate otherwise, all implied warranties are excluded by expressions such as "as is", "with all faults", or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty. When the buyer, before entering into the contract, has examined the goods or the sample or model as fully as he desired, or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought, in the circumstances, to have revealed to him.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§12.01.110 was formerly codified as 12.0111</annotation>
@@ -438,7 +438,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In any case not within Subsections(1) and (2), the risk of loss passes to the buyer upon his receipt of the goods if the seller is a merchant, otherwise the risk passes to the buyer on tender of delivery.</text>
+        <text>In any case not within Subsections(a) and (b), the risk of loss passes to the buyer upon his receipt of the goods if the seller is a merchant, otherwise the risk passes to the buyer on tender of delivery.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§12.03.050 was formerly codified as 12.0305</annotation>
@@ -543,7 +543,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>If the goods are not perishables and thus subject to Subsection (3), and the seller gives no instructions regarding the goods within a reasonable time after notification of rejection, the buyer may store the goods for the seller's account or reship them to the seller or resell them for seller's account with reimbursement according to Subsection (3). Such action is not acceptance or conversion.</text>
+        <text>If the goods are not perishables and thus subject to Subsection (c), and the seller gives no instructions regarding the goods within a reasonable time after notification of rejection, the buyer may store the goods for the seller's account or reship them to the seller or resell them for seller's account with reimbursement according to Subsection (c). Such action is not acceptance or conversion.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§12.04.010 was formerly codified as 12.0401</annotation>
@@ -683,7 +683,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Proceed under <cite path="12|12.06|12.0603">Section 12.0603</cite>;</text>
+        <text>Proceed under <cite path="§12.05.030">Section 12.05.030</cite>;</text>
       </para>
       <para>
         <num>(d)</num>
@@ -729,7 +729,7 @@
       <heading>Se11Er's Resale</heading>
       <para>
         <num>(a)</num>
-        <text>Under the conditions stated in <cite path="12|12.06|12.0601">Section 12.0601</cite> of this Code, the seller may resell the goods or the undelivered balance thereof. When the resale is made in good faith and in a commercially reasonable manner, the seller may recover the difference between the resale price and the contract price with any incidental damages acquired, but less expenses saved in consequence of the buyer's breach.</text>
+        <text>Under the conditions stated in <cite path="§12.05.010">Section 12.05.010</cite> of this Code, the seller may resell the goods or the undelivered balance thereof. When the resale is made in good faith and in a commercially reasonable manner, the seller may recover the difference between the resale price and the contract price with any incidental damages acquired, but less expenses saved in consequence of the buyer's breach.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -756,11 +756,11 @@
       <heading>Seller's Damages for Non-Acceptance or Repudiation</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to Subsection (2), the measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price, together with any incidental damages, but less expenses saved in consequence of the buyer's breach.</text>
+        <text>Subject to Subsection (b), the measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price, together with any incidental damages, but less expenses saved in consequence of the buyer's breach.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If the measure of damages provided in Subsection (1) is inadequate to put the seller in as good a position as performance would have done, then the measure of damages is the profit which the seller would have made from full performance by the buyer, together with any incidental damages incurred.</text>
+        <text>If the measure of damages provided in Subsection (a) is inadequate to put the seller in as good a position as performance would have done, then the measure of damages is the profit which the seller would have made from full performance by the buyer, together with any incidental damages incurred.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§12.05.040 was formerly codified as 12.0504</annotation>

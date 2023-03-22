@@ -25,11 +25,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Sex offender(s) who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult shall be required to register as a sex offender within the Turtle Mountain Band of Chippewa Indian Reservation in accordance with Title 42 Turtle Mountain Sex Offender Registration Code,</text>
+        <text>Sex offender(s) who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult shall be required to register as a sex offender within the Turtle Mountain Band of Chippewa Indian Reservation in accordance with <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code,</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>All Sex Offender(s) who has commit a crime that requires or would require that person to register as a sex offender under Title 42 Turtle Mountain Sex Offender Registration Code, federal laws, state laws, other Indian tribes, commonwealth, foreign country, and any other jurisdiction, including child pornography or other electronic offenses.</text>
+        <text>All Sex Offender(s) who has commit a crime that requires or would require that person to register as a sex offender under <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code, federal laws, state laws, other Indian tribes, commonwealth, foreign country, and any other jurisdiction, including child pornography or other electronic offenses.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.01.020 was formerly codified as 42.0102</annotation>
@@ -178,7 +178,7 @@
       </para>
       <para>
         <num>(cc)</num>
-        <text>"FAILURE TO PROVIDE INFORMATION" means any person who is required to provide information under Title 42, the Sex Offender Registration Code, based on any conviction.</text>
+        <text>"FAILURE TO PROVIDE INFORMATION" means any person who is required to provide information under <cite path="42">this title</cite>, the Sex Offender Registration Code, based on any conviction.</text>
       </para>
       <para>
         <num>(dd)</num>
@@ -454,11 +454,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>"Tier 2 Sex Offender" means one that has been either convicted of a "tier 2" sex offense as required in <cite path="42|42.03|42.0302">section 42.0302</cite>.</text>
+          <text>"Tier 2 Sex Offender" means one that has been either convicted of a "tier 2" sex offense as required in <cite path="§42.03.020">Section 42.03.020</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>"Tier 3 Sex Offender" means one that has been either convicted of a "tier 3" sex offense as required in <cite path="42|42.03|42.0303">section 42.0303</cite>.</text>
+          <text>"Tier 3 Sex Offender" means one that has been either convicted of a "tier 3" sex offense as required in <cite path="§42.03.030">Section 42.03.030</cite>.</text>
         </para>
       </para>
       <para>
@@ -501,8 +501,8 @@
     <section>
       <num>42.02.020</num>
       <heading>Tribal Offenses</heading>
-      <text>Any person, who commits, attempts to commit or conspires to commit any sex or sexual offense shall be charged under the appropriate Titles or Sections of Title 42 Turtle Mountain Sex Offender Registration Code and Title 26 Offenses and Penalties and any other Titles hereafter.</text>
-      <text>Relevant references to Title 26: Offenses and Penalties Sexual Offenses:</text>
+      <text>Any person, who commits, attempts to commit or conspires to commit any sex or sexual offense shall be charged under the appropriate Titles or Sections of <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code and <cite path="26">Title 26</cite> Offenses and Penalties and any other Titles hereafter.</text>
+      <text>Relevant references to <cite path="26">Title 26</cite>: Offenses and Penalties Sexual Offenses:</text>
       <para>
         <num>(a)</num>
         <text>26.1301 (Abduction),</text>
@@ -674,7 +674,7 @@
       <para>
         <num>(qq)</num>
         <text>26.1214.06 (Video voyeurism).</text>
-        <text>Relevant References to Title 39: Exclusion &amp; Removal Code:</text>
+        <text>Relevant References to <cite path="39">Title 39</cite>: Exclusion &amp; Removal Code:</text>
       </para>
       <para>
         <num>(rr)</num>
@@ -687,7 +687,7 @@
       <para>
         <num>(tt)</num>
         <text>39.0104 (Persons Subject to Exclusion and Removal),</text>
-        <text>Relevant Reference to Title 42 Turtle Mountain Sex Offender Registration Code</text>
+        <text>Relevant Reference to <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code</text>
       </para>
       <para>
         <num>(uu)</num>
@@ -1000,7 +1000,7 @@
     <section>
       <num>42.02.080</num>
       <heading>Juvenile Offenses or Adjudication</heading>
-      <text>Sex offender(s) who are the age of fourteen (14) years or older, but who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult of a sex offense as defined by this Code, shall be required to register as a sex offender within the Turtle Mountain Sex Offender Registration and Notification Department in accordance with this Turtle Mountain Sex Offender Registry Code (Title 42).</text>
+      <text>Sex offender(s) who are the age of fourteen (14) years or older, but who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult of a sex offense as defined by this Code, shall be required to register as a sex offender within the Turtle Mountain Sex Offender Registration and Notification Department in accordance with this Turtle Mountain Sex Offender Registry Code (<cite path="42">this title</cite>).</text>
       <annotations>
         <annotation type="Prior Codifications">§42.02.080 was formerly codified as 42.0208</annotation>
       </annotations>
@@ -1087,19 +1087,20 @@
       <para>
         <num>(e)</num>
         <text>Certain Military Offenses. Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Section 3.01(A),(B), or (C) shall be considered a "Tier I" offense.</text>
-        <text>
-          <strong>42.0302   </strong>
-          <strong>
-            <u>Tier II offenses.</u>
-          </strong>
-        </text>
       </para>
+      <annotations>
+        <annotation type="Prior Codifications">§42.03.010 was formerly codified as 42.0301</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>42.03.020</num>
+      <heading>Tier Ii Offenses</heading>
       <para>
-        <num>(f)</num>
+        <num>(a)</num>
         <text>Tribal Offenses Classification.  "Tier 2" offenses include offenses for which a person has been convicted by any jurisdiction, local government, or qualifying foreign country pursuant to Section 2.01, and as outlined in Section 3.01 (A), (B), (C), (D) or E. Tribal Offenses, fall within these listed requirements, shall be considered "Tier 2" offenses.</text>
       </para>
       <para>
-        <num>(g)</num>
+        <num>(b)</num>
         <text>Recidivism and Felonies.  Unless otherwise covered by Section 3.03, any sex offense that is not the first sex offense for which a person has been convicted or an attempt or conspiracy to commit such an offense and that is punishable by more than one year in jail is considered a "Tier II" offense.</text>
         <para>
           <num>(1)</num>
@@ -1108,22 +1109,22 @@
         <para>
           <num>(2)</num>
           <text>Convictions of that involve:</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Non-parent kidnapping of a minor,</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Any sexual act with another (as defined on page 9),</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Sexual contact with a minor under the age of 13.</text>
+          <para>
+            <num>(A)</num>
+            <text>Non-parent kidnapping of a minor,</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any sexual act with another (as defined on page 9),</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Sexual contact with a minor under the age of 13.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(c)</num>
         <text>Offenses Involving Minors.  A "Tier II" offense includes any sex offense against a minor for which a person has been convicted, or an attempt or conspiracy to commit such an offense that involves:</text>
         <para>
           <num>(1)</num>
@@ -1151,7 +1152,7 @@
         </para>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(d)</num>
         <text>Certain Federal Offenses. Conviction for any of the following federal offenses or an attempt or conspiracy to commit such an offense shall be considered a conviction for a "Tier II" offense:</text>
         <para>
           <num>(1)</num>
@@ -1209,25 +1210,26 @@
         </para>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(e)</num>
         <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Section 3.02(A),(B), or (C) shall be considered a "Tier II" offense.</text>
-        <text>
-          <strong>42.0303   </strong>
-          <strong>
-            <u>Tier III offenses.</u>
-          </strong>
-        </text>
       </para>
+      <annotations>
+        <annotation type="Prior Codifications">§42.03.020 was formerly codified as 42.0302</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>42.03.030</num>
+      <heading>Tier Iii Offenses</heading>
       <para>
-        <num>(k)</num>
+        <num>(a)</num>
         <text>Tribal Offenses Classification.  "Tier 3" offenses include offenses for which a person has been convicted by any jurisdiction, local government, or qualifying foreign country pursuant to Section 2.01, and as outlined in Section 3.01 (A), (B), (C), (D) or E. Tribal Offenses, fall within these listed requirements, shall be considered "Tier 3" offenses.</text>
       </para>
       <para>
-        <num>(l)</num>
+        <num>(b)</num>
         <text>Recidivism and Felonies.  Any sex offense that is punishable by one year in jail where the offender has at least one prior conviction or an attempt or conspiracy to commit such an offense for a Tier II sex offense, or has previously become a Tier II sex offender, is a "Tier III" offense.</text>
       </para>
       <para>
-        <num>(m)</num>
+        <num>(c)</num>
         <text>General Offenses.	A "Tier III" offense includes any sex offense, for which a person has been convicted, or an attempt or conspiracy to commit such an offense that involves:</text>
         <para>
           <num>(1)</num>
@@ -1247,7 +1249,7 @@
         </para>
       </para>
       <para>
-        <num>(n)</num>
+        <num>(d)</num>
         <text>Certain Federal Offenses. Conviction for any of the following federal offenses shall be considered conviction for a "Tier III" offense:</text>
         <para>
           <num>(1)</num>
@@ -1270,11 +1272,11 @@
         </para>
       </para>
       <para>
-        <num>(o)</num>
+        <num>(e)</num>
         <text>Certain Military Offenses.  Any military offense specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. §951 note) that is similar to those offenses outlined in Section 3.03(A),(B), or (C) shall be considered a "Tier III" offense.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">§42.03.010 was formerly codified as 42.0301</annotation>
+        <annotation type="Prior Codifications">§42.03.030 was formerly codified as 42.0303</annotation>
       </annotations>
     </section>
   </container>
@@ -1613,7 +1615,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>SORNA Database. The text of each provision of law mentioned in Section 42.02 shall be cross linked to the SORNA Database containing the text of relevant sex related laws for all jurisdictions.</text>
+        <text>SORNA Database. The text of each provision of law mentioned in <cite path="42|42.02">Chapter 42.02</cite> shall be cross linked to the SORNA Database containing the text of relevant sex related laws for all jurisdictions.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.04.190 was formerly codified as 42.0419</annotation>
@@ -1708,7 +1710,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Clean Record.  For purposes of <cite path="4.20">Chapter 4.20</cite>(B) a person has a clean record if:</text>
+        <text>Clean Record.  For purposes of <cite path="§42.04.230|(b)">Section 42.04.230(b)</cite> a person has a clean record if:</text>
         <para>
           <num>(1)</num>
           <text>He or she has not been convicted of any offense, for which imprisonment for more than 1 year may be imposed, [NOTE<strong>: </strong>Felonious tribal offenses do not count toward a clean record].</text>
@@ -1982,7 +1984,7 @@
     <section>
       <num>42.05.050</num>
       <heading>Failure to Register</heading>
-      <text>In the event a sex offender who is required to register due to their employment or school attendance status fails to do so or otherwise violate a registration requirement of this code, the Turtle Mountain Sex Offender Registration and Notification Department shall take all appropriate follow-up measures including those outlined in <cite path="42|42.06">Chapter 42.06</cite> and Title 26.1215. The Turtle Mountain Sex Offender Registration and Notification department shall first make an effort to determine if the sex offender is actually employed or attending school within the exterior boundaries of the Turtle Mountain Band of Chippewa Indian reservation or on property owned by the Turtle Mountain Band of Chippewa Indians in fee or trust regardless of location.</text>
+      <text>In the event a sex offender who is required to register due to their employment or school attendance status fails to do so or otherwise violate a registration requirement of this code, the Turtle Mountain Sex Offender Registration and Notification Department shall take all appropriate follow-up measures including those outlined in <cite path="42|42.06">Chapter 42.06</cite> and <cite path="26">Title 26</cite>.1215. The Turtle Mountain Sex Offender Registration and Notification department shall first make an effort to determine if the sex offender is actually employed or attending school within the exterior boundaries of the Turtle Mountain Band of Chippewa Indian reservation or on property owned by the Turtle Mountain Band of Chippewa Indians in fee or trust regardless of location.</text>
       <annotations>
         <annotation type="Prior Codifications">§42.05.050 was formerly codified as 42.0507</annotation>
       </annotations>
@@ -2823,14 +2825,14 @@
       </para>
       <para>
         <num>(nn)</num>
-        <text>Failure to Provide Information. Any person who is required to provide information under Title 42, the Sex Offender Registration Code, based on any conviction and violates that section shall be guilty of a Class 4 offense and subject up to (1) one year in jail and/or a fine of up to $5,000.00 along with court cost and fees.</text>
+        <text>Failure to Provide Information. Any person who is required to provide information under <cite path="42">this title</cite>, the Sex Offender Registration Code, based on any conviction and violates that section shall be guilty of a Class 4 offense and subject up to (1) one year in jail and/or a fine of up to $5,000.00 along with court cost and fees.</text>
       </para>
       <para>
         <num>(oo)</num>
         <text>Failure to Appear. In the event a sex offender fails to appear with the Sex Offender Registration Offender Registration and Notification Department as required by the Sex Offender Registration Code, the Turtle Mountain Sex Offender Registration Department shall immediately inform the Turtle Mountain Law Enforcement Center, and the jurisdiction that provided notification that the sex offender was to commence residency, employment or school with the Turtle Mountain Tribe, that the sex offender failed to appear for registration.</text>
         <para>
           <num>(1)</num>
-          <text>Any person who is required to appear for a scheduled appointment with the Turtle Mountain Sex Offender Registration and Notification Department, in violation of the Turtle Mountain Sex Offender Registration Code, Title 42 shall be guilty of a Class 4 offense and is subject up to (1) one year in jail and/or a fine up to $5,000.00 along with court cost and fees.</text>
+          <text>Any person who is required to appear for a scheduled appointment with the Turtle Mountain Sex Offender Registration and Notification Department, in violation of the Turtle Mountain Sex Offender Registration Code, <cite path="42">this title</cite> shall be guilty of a Class 4 offense and is subject up to (1) one year in jail and/or a fine up to $5,000.00 along with court cost and fees.</text>
         </para>
       </para>
       <para>
@@ -3145,7 +3147,7 @@
     <section>
       <num>42.12.010</num>
       <heading>Applicability</heading>
-      <text>Sex offender(s) who are the age of fourteen (14) years or older, but who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult of a sex offense as defined by this Code shall be required to register as a sex offender within the Turtle Mountain Sex Offender Registration and Notification Department in accordance with Title 42 - Turtle Mountain Sex Offender Registry Code.</text>
+      <text>Sex offender(s) who are the age of fourteen (14) years or older, but who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult of a sex offense as defined by this Code shall be required to register as a sex offender within the Turtle Mountain Sex Offender Registration and Notification Department in accordance with <cite path="42">this title</cite> - Turtle Mountain Sex Offender Registry Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§42.12.010 was formerly codified as 42.1201</annotation>
       </annotations>
@@ -3393,7 +3395,7 @@
             <text>any felony that the court finds was committed for a sexual purpose</text>
           </para>
         </para>
-        <text>All offenders who were convicted for a sex crime or sex related crime will follow all regulations rules within Title 42 - Turtle Mountain Sex Offender Registration Code.</text>
+        <text>All offenders who were convicted for a sex crime or sex related crime will follow all regulations rules within <cite path="42">this title</cite> - Turtle Mountain Sex Offender Registration Code.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.13.040 was formerly codified as 42.1304</annotation>
@@ -3500,7 +3502,7 @@
     <section>
       <num>42.13.080</num>
       <heading>Notice</heading>
-      <text>All sex offenders who violate this Code shall be punished according to the laws of the Turtle Mountain Band of Chippewa Indians under Title 42 Sex Offender Registration Code and Chapter 26 Offenses and Penalties or Title 39 Exclusion and Removal Code.</text>
+      <text>All sex offenders who violate this Code shall be punished according to the laws of the Turtle Mountain Band of Chippewa Indians under <cite path="42">this title</cite> Sex Offender Registration Code and Chapter 26 Offenses and Penalties or <cite path="39">Title 39</cite> Exclusion and Removal Code.</text>
       <text>
         <strong>
           <u>Enforcement.</u>
@@ -3585,7 +3587,7 @@
     <section>
       <num>42.15.010</num>
       <heading>Visitor(S); Sex Offender Requirements</heading>
-      <text>All sex offenders who <strong>visit </strong>within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation shall comply with the terms and conditions of Title 42 Turtle Mountain Sex Offender Registration Code; all sex offenders</text>
+      <text>All sex offenders who <strong>visit </strong>within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation shall comply with the terms and conditions of <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code; all sex offenders</text>
       <para>
         <num>(a)</num>
         <text>Shall notify the Belcourt Law Enforcement Department at (701) 477-6134 and register with the Turtle Mountain Sex Offender Registration and Notification Department [(701) 477-8375 ext.10 or 11] within <strong>one (1) day </strong>or within 24 hours of entering the Turtle Mountain Band of Chippewa Indian Reservation, and</text>

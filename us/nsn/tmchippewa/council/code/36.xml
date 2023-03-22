@@ -10,7 +10,7 @@
     <section>
       <num>36.01.010</num>
       <heading>Authority</heading>
-      <text><cite doc="Turtle Mountain Constitution and By-laws">Article IX, Section (a) of the Turtle Mountain Band of Chippewa Constitution</cite> grants the "legislature the power to govern the conduct of the members of the band and Indians from other tribes on the reservation providing for the maintenance of law and order and the administration of justice". The jurisdiction in this matter will include territory and membership found in Article II and III. TMBCI <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>-October, 2015.</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws">Article IX, Section (a) of the Turtle Mountain Band of Chippewa Constitution</cite> grants the "legislature the power to govern the conduct of the members of the band and Indians from other tribes on the reservation providing for the maintenance of law and order and the administration of justice". The jurisdiction in this matter will include territory and membership found in <cite doc="Turtle Mountain Constitution and By-laws" path="II">Article II</cite> and <cite doc="Turtle Mountain Constitution and By-laws" path="III">III</cite>. TMBCI <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>-October, 2015.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1360-10-20"/>
         <annotation type="Prior Codifications">§36.01.010 was formerly codified as 36.0100</annotation>
@@ -120,7 +120,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"<strong>RESIDENT</strong>" means any Elderly person who lives within the jurisdiction of the Turtle Mountain Band of Chippewa, pursuant to jurisdiction as defined within Articles II and III of the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>.</text>
+        <text>"<strong>RESIDENT</strong>" means any Elderly person who lives within the jurisdiction of the Turtle Mountain Band of Chippewa, pursuant to jurisdiction as defined within <cite doc="Turtle Mountain Constitution and By-laws" path="II">Articles II</cite> and <cite doc="Turtle Mountain Constitution and By-laws" path="III">III</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite>.</text>
       </para>
       <para>
         <num>(p)</num>
@@ -1052,7 +1052,7 @@
       <heading>Content of Report</heading>
       <para>
         <num>(a)</num>
-        <text>The report required by <cite path="36|36.50|36.501">section 36.501</cite> may be made in writing or orally, by telephone or in-person. A person who receives an oral report must prepare it in writing as soon as possible</text>
+        <text>The report required by <cite path="§36.05.010">Section 36.05.010</cite> may be made in writing or orally, by telephone or in-person. A person who receives an oral report must prepare it in writing as soon as possible</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1470,11 +1470,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>In the event of a violation of a protection order the arrest provision above applies and the respondent may be punished according to 36.0320 of this code.</text>
+        <text>In the event of a violation of a protection order the arrest provision above applies and the respondent may be punished according to <cite path="§36.03.200">Section 36.03.200</cite> of this code.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>A person who knowingly violates or a person who aids and abets another person to knowingly violate a Protection Order is guilty of an offense and may be punished as provided in <cite path="36.0320">Chapter 36.0320</cite>.</text>
+        <text>A person who knowingly violates or a person who aids and abets another person to knowingly violate a Protection Order is guilty of an offense and may be punished as provided in <cite path="§36.03.200">Section 36.03.200</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1482,7 +1482,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Interference with an emergency call to Law Enforcement shall be considered a violation of a Protection Order and may be punished as provided in <cite path="36.0320">Chapter 36.0320</cite>.</text>
+        <text>Interference with an emergency call to Law Enforcement shall be considered a violation of a Protection Order and may be punished as provided in <cite path="§36.03.200">Section 36.03.200</cite>.</text>
       </para>
       <para>
         <num>(h)</num>

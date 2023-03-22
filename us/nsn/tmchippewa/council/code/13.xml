@@ -218,7 +218,7 @@
         <text>Prepare and provide each polling site with ballots listing:</text>
         <para>
           <num>(1)</num>
-          <text>The names of qualified candidates for elective office in accordance with Article V, section 4(B) of the Constitution; and</text>
+          <text>The names of qualified candidates for elective office in accordance with <cite doc="Turtle Mountain Constitution and By-laws" path="V|4|(b)">Article V, section 4(B) of the Constitution</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -931,7 +931,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Notwithstanding other time provisions specified by the Turtle Mountain Administrative Procedures Act, (TAPA), Title 22 of this Code, a Notice of appeal of the election results must be filed with the Tribal Secretary within five (5) days of certification of the election results by the Tribal Secretary/Treasurer. Upon receipt of a Notice of Appeal, The Tribal Secretary/Treasurer shall immediately notify a TAPA hearing officer and transmit a copy of the Notice of Appeal to the hearing officer, who shall treat the Notice of Appeal as a TAPA petition in conformance with §22.1106 of the Tribal Code and schedule a hearing in accordance with Title 22<strong>.</strong></text>
+        <text>Notwithstanding other time provisions specified by the Turtle Mountain Administrative Procedures Act, (TAPA), <cite path="22">Title 22</cite> of this Code, a Notice of appeal of the election results must be filed with the Tribal Secretary within five (5) days of certification of the election results by the Tribal Secretary/Treasurer. Upon receipt of a Notice of Appeal, The Tribal Secretary/Treasurer shall immediately notify a TAPA hearing officer and transmit a copy of the Notice of Appeal to the hearing officer, who shall treat the Notice of Appeal as a TAPA petition in conformance with §22.1106 of the Tribal Code and schedule a hearing in accordance with <cite path="22">Title 22</cite><strong>.</strong></text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§13.11.040 was formerly codified as 13.1104</annotation>
@@ -948,7 +948,7 @@
     <section>
       <num>13.11.060</num>
       <heading>Seating of Office</heading>
-      <text>In accordance with Article VII Section 5 of the Constitution, the newly elected Tribal and Judicial officers and district representatives shall be installed in office at the first regular monthly meeting of the Tribal Council, held pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VII|1">Article VII, section 1 of the Turtle Mountain Band of Chippewa Indians Constitution</cite>, after certification of the election results has been issued by the Tribal Secretary/Treasurer provided that such meeting must be held no later than thirty (30) days following the date of the General Election. If the outgoing officers and/or district representatives fail or refuse to conduct such meeting, their duly elected replacements hereunder may convene such meeting and commence their respective duties.</text>
+      <text>In accordance with <cite doc="Turtle Mountain Constitution and By-laws" path="VII|5">Article VII Section 5 of the Constitution</cite>, the newly elected Tribal and Judicial officers and district representatives shall be installed in office at the first regular monthly meeting of the Tribal Council, held pursuant to <cite doc="Turtle Mountain Constitution and By-laws" path="VII|1">Article VII, section 1 of the Turtle Mountain Band of Chippewa Indians Constitution</cite>, after certification of the election results has been issued by the Tribal Secretary/Treasurer provided that such meeting must be held no later than thirty (30) days following the date of the General Election. If the outgoing officers and/or district representatives fail or refuse to conduct such meeting, their duly elected replacements hereunder may convene such meeting and commence their respective duties.</text>
       <annotations>
         <annotation type="Prior Codifications">§13.11.060 was formerly codified as 13.1106</annotation>
       </annotations>
@@ -1120,7 +1120,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Determining Constitutional Amendment Election. The majority of the votes cast in a constitutional amendment election shall be conclusive and binding, and the amendment shall take effect immediately or as otherwise specified on the election ballot, provided that at least twenty percent (20%) of the resident voters of the Tribe entitled to vote shall vote in such election and that the amendment is approved in accordance with Article XIII of the Constitution.</text>
+            <text>Determining Constitutional Amendment Election. The majority of the votes cast in a constitutional amendment election shall be conclusive and binding, and the amendment shall take effect immediately or as otherwise specified on the election ballot, provided that at least twenty percent (20%) of the resident voters of the Tribe entitled to vote shall vote in such election and that the amendment is approved in accordance with <cite doc="Turtle Mountain Constitution and By-laws" path="XIII">Article XIII of the Constitution</cite>.</text>
           </para>
           <para>
             <num>(C)</num>

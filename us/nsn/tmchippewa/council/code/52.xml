@@ -20,7 +20,7 @@
     <section>
       <num>52.01.020</num>
       <heading>Authority</heading>
-      <text>Article IX, Sections (a) (2-6) of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|2">Article IX, Sections (a) (2-6)</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
@@ -272,7 +272,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Constitution" means the Constitution of the Tribe.</text>
+        <text>"Constitution" means the <cite doc="Turtle Mountain Constitution and By-laws">Constitution of the Tribe</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -740,7 +740,7 @@
     <section>
       <num>52.04.080</num>
       <heading>Cooperation</heading>
-      <text>Persons subject to quarantine or isolation shall obey the Health Officer's rules and orders and must not go beyond the quarantine or isolation premises for any reason not specified in the order. Failure to obey these provisions is a Class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
+      <text>Persons subject to quarantine or isolation shall obey the Health Officer's rules and orders and must not go beyond the quarantine or isolation premises for any reason not specified in the order. Failure to obey these provisions is a Class 2 offense under <cite path="26">Title 26</cite> of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1913-10-22"/>
@@ -756,11 +756,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Unauthorized entry. A person, other than a person authorized by the state or local health officer, must not enter quarantine or isolation premises. Failure to obey this provision is a class 2 offense under Title 26 of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
+        <text>Unauthorized entry. A person, other than a person authorized by the state or local health officer, must not enter quarantine or isolation premises. Failure to obey this provision is a class 2 offense under <cite path="26">Title 26</cite> of the Tribal Code. Any non-Indian who fails to obey these provisions may be excluded or removed from the reservation.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Potential quarantine or isolation. A person entering a quarantine or isolation premises with or without authorization of the state or local health officer may be isolated or quarantined pursuant to <cite path="52|52.03|52.0309">Section 52.0309</cite>.</text>
+        <text>Potential quarantine or isolation. A person entering a quarantine or isolation premises with or without authorization of the state or local health officer may be isolated or quarantined pursuant to <cite path="§52.04.060">Section 52.04.060</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1146-08-20"/>

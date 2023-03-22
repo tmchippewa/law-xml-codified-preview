@@ -10,7 +10,7 @@
     <section>
       <num>2.01.010</num>
       <heading>Tribal Court</heading>
-      <text>The Turtle Mountain Tribal Court is created and exists by virtue of Article IX, Section 5, under (a), of the Turtle Mountain <cite doc="Turtle Mountain Constitution and By-laws">Tribal Constitution</cite> and other Tribal organizational documents.</text>
+      <text>The Turtle Mountain Tribal Court is created and exists by virtue of <cite doc="Turtle Mountain Constitution and By-laws" path="IX|5|(a)">Article IX, Section 5, under (a), of the Turtle Mountain Tribal Constitution</cite> and other Tribal organizational documents.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.01.010 was formerly codified as 2.0101</annotation>
       </annotations>
@@ -391,7 +391,7 @@
         <text>Attorney herein means state licensed attorney or advocate.</text>
         <para>
           <num>(3)</num>
-          <text>An appearance or answer by an attorney who is not admitted under Title 2 and licensed properly as set forth by the Constitution. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
+          <text>An appearance or answer by an attorney who is not admitted under <cite path="2">this title</cite> and licensed properly as set forth by the <cite doc="Turtle Mountain Constitution and By-laws">Constitution</cite>. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
         </para>
       </para>
       <para>
@@ -550,7 +550,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>When the period of time prescribed or allowed is less than 11 days, Saturdays, Sundays and holidays shall be excluded in the computation. Notwithstanding any specific rule in computing any period of time prescribed or allowed by Title 1 and 2, by any other statute governing actions and special proceedings, or by order of court, the day of the act, event or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a day the clerk of courts office is closed.</text>
+          <text>When the period of time prescribed or allowed is less than 11 days, Saturdays, Sundays and holidays shall be excluded in the computation. Notwithstanding any specific rule in computing any period of time prescribed or allowed by <cite path="1">Title 1</cite> and <cite path="2">this title</cite>, by any other statute governing actions and special proceedings, or by order of court, the day of the act, event or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a day the clerk of courts office is closed.</text>
         </para>
       </para>
       <para>
@@ -615,7 +615,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>This shall not amend or affect the restraining order provisions set forth in Title 37, "Domestic Violence."</text>
+        <text>This shall not amend or affect the restraining order provisions set forth in <cite path="37">Title 37</cite>, "Domestic Violence."</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1722-08-22"/>
@@ -789,7 +789,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Amending Pleadings. Without leave of court, the plaintiff may—as often as it wants—amend the complaint at any time before the trial on compensation. But no amendment may be made if it would result in a dismissal inconsistent with the Rules herein. The plaintiff need not serve a copy of an amendment, but must serve notice of the filing, as provided in within Title 2, on every affected party who has appeared on every affected party who has not appeared. In addition, the plaintiff must give the clerk at least one copy of each amendment for the defendants' use, and additional copies at the request of the clerk or a defendant. A defendant may appear or answer in the time and manner.</text>
+        <text>Amending Pleadings. Without leave of court, the plaintiff may—as often as it wants—amend the complaint at any time before the trial on compensation. But no amendment may be made if it would result in a dismissal inconsistent with the Rules herein. The plaintiff need not serve a copy of an amendment, but must serve notice of the filing, as provided in within <cite path="2">this title</cite>, on every affected party who has appeared on every affected party who has not appeared. In addition, the plaintiff must give the clerk at least one copy of each amendment for the defendants' use, and additional copies at the request of the clerk or a defendant. A defendant may appear or answer in the time and manner.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -1054,7 +1054,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The failure of a party to demand a jury, as required by Subsection (2) of <cite path="§2.09.010">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
+        <text>The failure of a party to demand a jury, as required by Subsection (b) of <cite path="§2.09.010">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§2.09.010 was formerly codified as 2.0901</annotation>
