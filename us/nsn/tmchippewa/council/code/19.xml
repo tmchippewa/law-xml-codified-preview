@@ -10,7 +10,7 @@
     <section>
       <num>19.01.010</num>
       <heading>Definitions</heading>
-      <text>For the purpose of <cite path="19|19.01">this chapter</cite>:</text>
+      <text>For the purpose of <cite path="19.01">this chapter</cite>:</text>
       <para>
         <num>(a)</num>
         <text>"Alcoholic beverages" shall mean any liquid suitable for drinking by human beings, which 'contains one-half (1/2) of one percent (1%) or more of alcohol by volume.</text>
@@ -64,11 +64,11 @@
       <heading>Exceptions</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="19|19.01">This chapter</cite> shall not apply to wines delivered to priests, rabbis, and ministers for sacramental use.</text>
+        <text><cite path="19.01">This chapter</cite> shall not apply to wines delivered to priests, rabbis, and ministers for sacramental use.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="19|19.01">This chapter</cite> shall not be construed to apply to the following articles, when they are unfit for beverage purposes:</text>
+        <text><cite path="19.01">This chapter</cite> shall not be construed to apply to the following articles, when they are unfit for beverage purposes:</text>
         <para>
           <num>(1)</num>
           <text>Denatured alcohol produced and used pursuant to Acts of Congress and the regulations thereunder;</text>
@@ -114,7 +114,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If the term be for more	than three (3) months and less than six (6) months, the license fee therefore shall be fifty percent 50% of the annual license fee.</text>
+          <text>If the term be for more than three (3) months and less than six (6) months, the license fee therefore shall be fifty percent 50% of the annual license fee.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -283,34 +283,38 @@
     <section>
       <num>19.01.090</num>
       <heading>Alcoholic Beverage Server Training</heading>
-      <text>A person that holds or makes application for a license or for renewal of a valid license issued by the Tribal Council pursuant to <strong><cite path="§19.01.080">Section 19.01.080</cite> License; Application for. </strong>which authorizes the sale of alcoholic beverages, as part of the application process, shall certify to the Tribal Council that the applicant's employees who, as part of the employees' responsibilities, sell, prepare, dispense, serve or otherwise deliver alcoholic beverages directly to patrons of the licensed establishment, or who manage employees who perform those functions, have successfully completed an Alcoholic Beverage Server Training program (reviewed by TERO and) recognized and approved by the Tribal Council in accordance with <cite path="19|19.01">this chapter</cite>. An applicant who participates directly in the management of the licensed establishment also is required to successfully complete a Responsible Beverage Server Training program recognized and approved by the Tribal Council.  <strong><u>Training Standards and Curriculum.</u></strong></text>
-      <text>To be recognized an approved by the Tribal Council, an <strong>Alcoholic Beverage Server Training </strong>program must include information on the following:</text>
+      <text>A person that holds or makes application for a license or for renewal of a valid license issued by the Tribal Council pursuant to <strong><cite path="§19.01.080">Section 19.01.080</cite> License; Application for, </strong>which authorizes the sale of alcoholic beverages, as part of the application process, shall certify to the Tribal Council that the applicant's employees who, as part of the employees' responsibilities, sell, prepare, dispense, serve or otherwise deliver alcoholic beverages directly to patrons of the licensed establishment, or who manage employees who perform those functions, have successfully completed an Alcoholic Beverage Server Training program (reviewed by TERO and) recognized and approved by the Tribal Council in accordance with <cite path="19.01">this chapter</cite>. An applicant who participates directly in the management of the licensed establishment also is required to successfully complete a Responsible Beverage Server Training program recognized and approved by the Tribal Council.</text>
       <para>
         <num>(a)</num>
-        <text>Alcohol as a drug and alcohol's effects on the body and behavior;</text>
+        <heading>Training Standards and Curriculum.</heading>
+        <text>To be recognized and approved by the Tribal Council, an <strong>Alcoholic Beverage Server Training </strong>program must include information on the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Alcohol as a drug and alcohol's effects on the body and behavior;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Applicable state and Tribal laws and Tribal Council or TERO licensing authority rules;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Laws related to drinking and driving;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Intervention techniques, involving methods of dealing with problem customer who has had, or is approaching the point of having consumed too much alcohol; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Carding procedures and importance of not selling or serving alcohol to any individual under twenty-one (21) years of age.</text>
+        </para>
+        <aftertext>The Tribal Council may provide additional training standards and curricula to be included within any responsible <strong>alcoholic beverage server training program</strong> as condition for recognition and approval.</aftertext>
+        <aftertext>An individual required to undergo training in accordance with <cite path="19.01">this chapter</cite>, who has within the previous three years successfully completed an <strong>Alcoholic Beverage Server Training </strong>program that satisfies the requirements of the Tribal Council, and is approved by the Tribal Council, is not required to undergo renewal training in accordance with <strong><u><cite path="§19.01.080">Section 19.01.080</cite> License; Application for</u></strong><strong>.</strong></aftertext>
       </para>
       <para>
-        <num>(b)</num>
-        <text>Applicable state and Tribal laws and Tribal Council or TERO licensing authority rules;</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Laws related to drinking and driving;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Intervention techniques, involving methods of dealing with problem customer who has had, or is approaching the point of having consumed too much alcohol; and</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Carding procedures and importance of not selling or serving alcohol to any individual under twenty-one (21) years of age.</text>
-      </para>
-      <text>The Tribal Council may provide additional training standards and curricula to be included within any responsible <strong>alcoholic beverage server training program</strong> as condition for recognition and approval.</text>
-      <text>An individual required to undergo training in accordance with <cite path="19|19.01">this chapter</cite>, who has within the previous three years successfully completed an <strong>Alcoholic Beverage Server Training </strong>program that satisfies the requirements of the Tribal Council, and is approved by the Tribal Council, is not required to undergo renewal training in accordance with <strong><u><cite path="§19.01.080">Section 19.01.080</cite> License; Application for</u></strong><strong>.</strong></text>
-      <para>
-        <num>(f)</num>
+        <num>(2)</num>
         <heading>Certification and Renewal Training.</heading>
-        <text>An individual who successfully completes an approved <strong>Alcoholic Beverage Server Training </strong>program must be certified by the instructor as having met the requirements of <cite path="19|19.01">this chapter</cite>. The course must be approved by the Tribal Council. The instructor shall provide the names of the individuals who successfully complete the approved class, as well as any additional information that is required, to the Tribal Council and TERO - the local licensing authority. The certification is valid for three years at which time the individual must undergo renewal training to retain certification that also is valid for three years. Renewal training must include the information described in <strong>Training Standards and Curriculum </strong>and any additional information as the Tribal Council may require by rule</text>
+        <text>An individual who successfully completes an approved <strong>Alcoholic Beverage Server Training </strong>program must be certified by the instructor as having met the requirements of <cite path="19.01">this chapter</cite>. The course must be approved by the Tribal Council. The instructor shall provide the names of the individuals who successfully complete the approved class, as well as any additional information that is required, to the Tribal Council and TERO - the local licensing authority. The certification is valid for three years at which time the individual must undergo renewal training to retain certification that also is valid for three years. Renewal training must include the information described in <strong>Training Standards and Curriculum </strong>and any additional information as the Tribal Council may require by rule</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1151-08-20"/>
@@ -405,7 +409,7 @@
     <section>
       <num>19.01.150</num>
       <heading>License; Transfer of</heading>
-      <text>No license under the provision of <cite path="19|19.01">this chapter</cite> shall be transferable, and any attempt to do so shall constitute a violation of the provisions of <cite path="19|19.01">this chapter</cite>.</text>
+      <text>No license under the provision of <cite path="19.01">this chapter</cite> shall be transferable, and any attempt to do so shall constitute a violation of the provisions of <cite path="19.01">this chapter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§19.01.150 was formerly codified as 19.0114</annotation>
       </annotations>
@@ -413,7 +417,7 @@
     <section>
       <num>19.01.160</num>
       <heading>License Fees; Disposition of</heading>
-      <text>All license fees collected under <cite path="19|19.01">this chapter</cite> shall be transferable to the Treasurer of the Tribal Council, and credited to the general fund of the Turtle Mountain Band of Chippewa Indians.</text>
+      <text>All license fees collected under <cite path="19.01">this chapter</cite> shall be transferable to the Treasurer of the Tribal Council, and credited to the general fund of the Turtle Mountain Band of Chippewa Indians.</text>
       <annotations>
         <annotation type="Prior Codifications">§19.01.160 was formerly codified as 19.0115</annotation>
       </annotations>
@@ -470,7 +474,7 @@
     <section>
       <num>19.01.230</num>
       <heading>Age Identification</heading>
-      <text>Before selling alcoholic beverages to any person, or before determining whether any person shall remain upon the licensed premises, a licensee, his agent or employee may require a statement in writing, signed by said person, of such person's age.   Any person who makes a false statement as to his or her age, or signs a name other than his own or her own to any such statement, shall be guilty of a violation of <cite path="19|19.01">this chapter</cite>.</text>
+      <text>Before selling alcoholic beverages to any person, or before determining whether any person shall remain upon the licensed premises, a licensee, his agent or employee may require a statement in writing, signed by said person, of such person's age.   Any person who makes a false statement as to his or her age, or signs a name other than his own or her own to any such statement, shall be guilty of a violation of <cite path="19.01">this chapter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§19.01.230 was formerly codified as 19.0122</annotation>
       </annotations>
@@ -562,7 +566,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>When the licensee ceases to possess the qualifications required of an applicant for a license as set out in <cite path="19|19.01">this chapter</cite>.</text>
+          <text>When the licensee ceases to possess the qualifications required of an applicant for a license as set out in <cite path="19.01">this chapter</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -574,7 +578,7 @@
         <text>License issued pursuant to this ordinance may, in the discretion of the Tribal Council, be either revoked or suspended for such period of time as deemed appropriate, upon the grounds:</text>
         <para>
           <num>(1)</num>
-          <text>When the licensee has been convicted of violating any of the provisions of <cite path="19|19.01">this chapter</cite>.</text>
+          <text>When the licensee has been convicted of violating any of the provisions of <cite path="19.01">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -604,7 +608,7 @@
     <section>
       <num>19.01.330</num>
       <heading>Violation of Provisions of This Chapter (Indian</heading>
-      <text>Any Indian violating any of the provisions of <cite path="19|19.01">this chapter</cite> shall be guilty of an offense, and shall be punished by a fine of not more than one hundred dollars ($100), or by confinement for not more than thirty (30) days, or by both such fine and confinement with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="19.01">this chapter</cite> shall be guilty of an offense, and shall be punished by a fine of not more than one hundred dollars ($100), or by confinement for not more than thirty (30) days, or by both such fine and confinement with costs.</text>
       <annotations>
         <annotation type="Prior Codifications">§19.01.330 was formerly codified as 19.0132</annotation>
       </annotations>
@@ -612,7 +616,7 @@
     <section>
       <num>19.01.340</num>
       <heading>Violations of Provisions of This Chapter (Non-Indian)</heading>
-      <text>Any non-Indian licensee violating any of the provisions of <cite path="19|19.01">this chapter</cite> shall be removed from the reservation pursuant to Article IX, Section 4 of the <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-laws of the Turtle Mountain Band of Chippewa Indians</cite>.</text>
+      <text>Any non-Indian licensee violating any of the provisions of <cite path="19.01">this chapter</cite> shall be removed from the reservation pursuant to Article IX, Section 4 of the <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-laws of the Turtle Mountain Band of Chippewa Indians</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§19.01.340 was formerly codified as 19.0133</annotation>
       </annotations>

@@ -131,7 +131,7 @@
     <section>
       <num>2.03.020</num>
       <heading>Statute of Limitations</heading>
-      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years  in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="§2.03.020">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
+      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="§2.03.020">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.03.020 was formerly codified as 2.0302</annotation>
       </annotations>
@@ -139,7 +139,7 @@
     <section>
       <num>2.03.030</num>
       <heading>Waiver of Limitation</heading>
-      <text>A defense of the running of the statute of limitations can be waived by the party able to assert such a defense. Such a defense must be pleaded and  proved to be effective.</text>
+      <text>A defense of the running of the statute of limitations can be waived by the party able to assert such a defense. Such a defense must be pleaded and proved to be effective.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.03.030 was formerly codified as 2.0303</annotation>
       </annotations>
@@ -388,7 +388,7 @@
           <num>(2)</num>
           <text>A natural person may appear pro se (represent himself or herself), but all other entities must appear by a licensed attorney.</text>
         </para>
-        <text>Attorney herein means state licensed attorney or advocate.</text>
+        <aftertext>Attorney herein means state licensed attorney or advocate.</aftertext>
         <para>
           <num>(3)</num>
           <text>An appearance or answer by an attorney who is not admitted under <cite path="2">this title</cite> and licensed properly as set forth by the <cite doc="Turtle Mountain Constitution and By-laws">Constitution</cite>. When an attorney is not licensed, the opposing party shall be entitled to dismissal or default upon a party's motion or complaint and is not entitled to notice of default hearing.</text>
@@ -907,7 +907,7 @@
       <text>An answer is the defendant's written statement made in reply to the complaint and must set out the defense intended to be made by the defendant as follows:</text>
       <para>
         <num>(a)</num>
-        <text>If the defendant denies all the facts alleged by the plaintiff in the complaint, he shall so state. This is termed a general denial and permits the defendant to defend or counterclaim any and all allegations made in  the complaint.</text>
+        <text>If the defendant denies all the facts alleged by the plaintiff in the complaint, he shall so state. This is termed a general denial and permits the defendant to defend or counterclaim any and all allegations made in the complaint.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -926,7 +926,7 @@
       <heading>Counterclaims</heading>
       <para>
         <num>(a)</num>
-        <text>Compulsory counterclaims. The defendant's written answer shall state as a counterclaim any claim which, at the time of the answer, the defendant has against the opposing party, if it arises out of the same act or omission that is the basis of the opposing party's claim and does not require for its adjudication the presence of third parties over whom the Court cannot acquire jurisdiction. Failure to state a compulsory counterclaim  in writing, shall bar a subsequent suit on such claim.</text>
+        <text>Compulsory counterclaims. The defendant's written answer shall state as a counterclaim any claim which, at the time of the answer, the defendant has against the opposing party, if it arises out of the same act or omission that is the basis of the opposing party's claim and does not require for its adjudication the presence of third parties over whom the Court cannot acquire jurisdiction. Failure to state a compulsory counterclaim in writing, shall bar a subsequent suit on such claim.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1007,7 +1007,7 @@
     <section>
       <num>2.08.050</num>
       <heading>Interrogatories</heading>
-      <text>Interrogatories may be served upon any party by any other party. The interrogatories shall be answered under oath. Answers to interrogatories to which objection is made shall be deferred until the objection is ruled upon  by the Court.</text>
+      <text>Interrogatories may be served upon any party by any other party. The interrogatories shall be answered under oath. Answers to interrogatories to which objection is made shall be deferred until the objection is ruled upon by the Court.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.08.050 was formerly codified as 2.0805</annotation>
       </annotations>
@@ -1071,7 +1071,7 @@
     <section>
       <num>2.09.030</num>
       <heading>Qualification of Jurors</heading>
-      <text>All enrolled Indians, who are residents of Rolette County, North Dakota, of the Turtle Mountain Band of Chippewa Indian Tribe, having the qualification  of electors and being of sound mind, and who are able to read, write and understand the English language, and not judges or clerks of any Court or licensed attorneys engaged in practice, or police officers or jailers or ministers or members of the National Guard, and not subject to any bodily infirmity amounting to disability, and who have not been convicted of any felony, and who are not subject to disability by the commission of any  offense which does or shall disqualify them and who have not been  dishonorably discharged from the Armed Services, are and shall be competent persons to serve on juries within the Turtle Mountain Jurisdiction.</text>
+      <text>All enrolled Indians, who are residents of Rolette County, North Dakota, of the Turtle Mountain Band of Chippewa Indian Tribe, having the qualification of electors and being of sound mind, and who are able to read, write and understand the English language, and not judges or clerks of any Court or licensed attorneys engaged in practice, or police officers or jailers or ministers or members of the National Guard, and not subject to any bodily infirmity amounting to disability, and who have not been convicted of any felony, and who are not subject to disability by the commission of any offense which does or shall disqualify them and who have not been dishonorably discharged from the Armed Services, are and shall be competent persons to serve on juries within the Turtle Mountain Jurisdiction.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.09.030 was formerly codified as 2.0903</annotation>
       </annotations>
@@ -1119,7 +1119,7 @@
     <section>
       <num>2.09.090</num>
       <heading>Extra Jurors</heading>
-      <text>Where an insufficient number of jurors respond when summoned, or where by challenge the number of jurors is reduced below the number required for that case, the judge shall command the police to summon and return forthwith with  a sufficient number of eligible jurors to complete the panel.</text>
+      <text>Where an insufficient number of jurors respond when summoned, or where by challenge the number of jurors is reduced below the number required for that case, the judge shall command the police to summon and return forthwith with a sufficient number of eligible jurors to complete the panel.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.09.090 was formerly codified as 2.0909</annotation>
       </annotations>
@@ -1267,7 +1267,7 @@
     <section>
       <num>2.09.170</num>
       <heading>Jury's Failure to Agree</heading>
-      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2|2.09">this chapter</cite>.</text>
+      <text>Whenever the judge shall be satisfied that the jury cannot agree on a verdict after due deliberation, he may discharge them and continue the case and if either party so demands, another jury must be selected as provided in <cite path="2.09">this chapter</cite>.</text>
       <text>The case shall be continued to such time as the Court thinks reasonable unless the parties or their attorneys agree on a longer or shorter time or unless they agree that the judge may render a decision on the evidence already before him.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.09.170 was formerly codified as 2.0917</annotation>
@@ -1458,7 +1458,7 @@
       <num>2.12.020</num>
       <heading>Board of Competency</heading>
       <text>This Board shall consist of the Chief Tribal Judge, the prosecuting attorney of the Tribe and a reputable practicing physician appointed by the Tribal Council. In the event a prosecuting attorney has not been appointed by the Tribe, the Chairman of the Tribal Council shall serve as a member of the Board.</text>
-      <text>The function of this Board shall be to determine the competency or incompetency of any Indian. In no case shall the Board act without all three members present. The Chief Tribal Judge shall be the Chairman of such Board and the prosecuting attorney shall be the clerk. In the case of the temporary absence or inability of either of such members to act, the chairman or the prosecuting attorney shall call to his aid a reputable practicing physician or licensed attorney who may act in the same capacity. The record  in such cases must show the fact of the absence.</text>
+      <text>The function of this Board shall be to determine the competency or incompetency of any Indian. In no case shall the Board act without all three members present. The Chief Tribal Judge shall be the Chairman of such Board and the prosecuting attorney shall be the clerk. In the case of the temporary absence or inability of either of such members to act, the chairman or the prosecuting attorney shall call to his aid a reputable practicing physician or licensed attorney who may act in the same capacity. The record in such cases must show the fact of the absence.</text>
       <text>Before entering upon the duties of his office, each of the persons constituting such Board shall take and subscribe an oath or affirmation to support the Constitution of the United States and of the reservation, and to discharge faithfully his official duties according to law, which oath shall be filed in the office of the Clerk of Courts of the Turtle Mountain Tribal Court.</text>
       <text>The Board shall hold the hearing in the Tribal Court room unless for good reason it shall select some other place. If it deems necessary or advisable, it may hold sessions at such times as it may fix or upon notice of the Chairman of the Board. The meeting shall not be open to the public.</text>
       <annotations>
@@ -1497,7 +1497,7 @@
     <section>
       <num>2.13.010</num>
       <heading>Tribal Court of Appeals</heading>
-      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2|2.13">this chapter</cite> in the Tribal Code.</text>
+      <text>The Tribal Court of Appeals is created by the adoption of <cite path="2.13">this chapter</cite> in the Tribal Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.13.010 was formerly codified as 2.1301</annotation>
       </annotations>
@@ -1513,7 +1513,7 @@
     <section>
       <num>2.13.030</num>
       <heading>Jurisdiction</heading>
-      <text>The jurisdiction of the Court of Appeals shall be coextensive with that of  the Tribal Court. All parties and property that are under the jurisdiction of the Tribal Court shall be within the jurisdiction of the Court of Appeals until the statutory time limit for appeal has expired. The Court of Appeals shall have power to issue any writs or orders necessary and proper to the complete exercise of its jurisdiction and to increase or decrease the award  of damages when it is found that the verdict was inadequate or excessive.</text>
+      <text>The jurisdiction of the Court of Appeals shall be coextensive with that of the Tribal Court. All parties and property that are under the jurisdiction of the Tribal Court shall be within the jurisdiction of the Court of Appeals until the statutory time limit for appeal has expired. The Court of Appeals shall have power to issue any writs or orders necessary and proper to the complete exercise of its jurisdiction and to increase or decrease the award of damages when it is found that the verdict was inadequate or excessive.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.13.030 was formerly codified as 2.1303</annotation>
       </annotations>
@@ -1529,7 +1529,7 @@
     <section>
       <num>2.13.050</num>
       <heading>New Trial</heading>
-      <text>The Tribal Court of Appeals must try the case anew based upon the papers  filed in the Tribal Court unless it appears as a matter of law from such papers that the case should be reversed and judgment entered by the  appellant. A new trial shall be granted only upon the same substantive issue or issues that were tried in Tribal Court.</text>
+      <text>The Tribal Court of Appeals must try the case anew based upon the papers filed in the Tribal Court unless it appears as a matter of law from such papers that the case should be reversed and judgment entered by the appellant. A new trial shall be granted only upon the same substantive issue or issues that were tried in Tribal Court.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.13.050 was formerly codified as 2.1305</annotation>
       </annotations>
@@ -1537,14 +1537,14 @@
     <section>
       <num>2.13.060</num>
       <heading>Permission to Appeal</heading>
-      <text>Any party aggrieved by any final judgment or other final order of the Tribal Court, shall, within thirty (30) days after the day such judgment or order  was rendered, file with the Clerk of the Court of Appeals, a request in writing asking for permission to take an appeal from such judgment or order, together with a filing fee of five dollars ($5). Such request shall set forth the reasons for the appeal, which may include but need not be limited to the following:</text>
+      <text>Any party aggrieved by any final judgment or other final order of the Tribal Court, shall, within thirty (30) days after the day such judgment or order was rendered, file with the Clerk of the Court of Appeals, a request in writing asking for permission to take an appeal from such judgment or order, together with a filing fee of five dollars ($5). Such request shall set forth the reasons for the appeal, which may include but need not be limited to the following:</text>
       <para>
         <num>(a)</num>
-        <text>Irregularity in the proceedings of the Court, jury, or adverse party or  any order of the Court or abuse of discretion by which either party was prevented from having a fair trial;</text>
+        <text>Irregularity in the proceedings of the Court, jury, or adverse party or any order of the Court or abuse of discretion by which either party was prevented from having a fair trial;</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Misconduct of the jury, and whenever anyone (1) or more of the jurors have been induced to assent to any general or special verdict or to a finding  on any question submitted to them by the Court;</text>
+        <text>Misconduct of the jury, and whenever anyone (1) or more of the jurors have been induced to assent to any general or special verdict or to a finding on any question submitted to them by the Court;</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1565,7 +1565,7 @@
       <para>
         <num>(g)</num>
         <text>Error of law occurring at the trial as in ruling on the admission of evidence or in charging the jury.</text>
-        <text>The Clerk of Court shall enter such request on the docket and forward the request, together with a copy of the docket, to the Chief Judge. The Chief Judge shall then assign the case to the presiding judge and forward the request, together with a copy of the docket, to the presiding judge. If the presiding judge thinks the reasons stated show just cause for review of the decision of the Tribal Court, he shall permit the appeal and the Chief Judge shall assign the other judges. The presiding judge of the Appellate Court shall set the case for trial at the next term of court. If there are less  than thirty (30) days between the granting of permission to appeal and the next term of court, such trial shall be set for the succeeding term of court. Within five (5) days after the date of the trial has been set, the Clerk of the Court of Appeals shall, by registered letter, give notice to all parties to the litigation in the Tribal Court of the pending appeal, the date of  trial and any orders of the judge pertaining to such appeal.</text>
+        <text>The Clerk of Court shall enter such request on the docket and forward the request, together with a copy of the docket, to the Chief Judge. The Chief Judge shall then assign the case to the presiding judge and forward the request, together with a copy of the docket, to the presiding judge. If the presiding judge thinks the reasons stated show just cause for review of the decision of the Tribal Court, he shall permit the appeal and the Chief Judge shall assign the other judges. The presiding judge of the Appellate Court shall set the case for trial at the next term of court. If there are less than thirty (30) days between the granting of permission to appeal and the next term of court, such trial shall be set for the succeeding term of court. Within five (5) days after the date of the trial has been set, the Clerk of the Court of Appeals shall, by registered letter, give notice to all parties to the litigation in the Tribal Court of the pending appeal, the date of trial and any orders of the judge pertaining to such appeal.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§2.13.060 was formerly codified as 2.1306</annotation>
@@ -1590,7 +1590,7 @@
     <section>
       <num>2.13.090</num>
       <heading>Pre-Trial Hearing</heading>
-      <text>There may be, at the Appellate Court's discretion, a pre-trial hearing  wherein the Appellate Court can meet with the petitioner and/or his counsel, and the respondent and/or his counsel for the purpose of resolving issues prior to trial. The Clerk of the Court of Appeals shall give notice to all parties who are to be present at the hearing. Such notices shall be given at least ten (10) days before the date of such hearing and shall include the time, date and place of the hearing and the reason for such hearing.</text>
+      <text>There may be, at the Appellate Court's discretion, a pre-trial hearing wherein the Appellate Court can meet with the petitioner and/or his counsel, and the respondent and/or his counsel for the purpose of resolving issues prior to trial. The Clerk of the Court of Appeals shall give notice to all parties who are to be present at the hearing. Such notices shall be given at least ten (10) days before the date of such hearing and shall include the time, date and place of the hearing and the reason for such hearing.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.13.090 was formerly codified as 2.1309</annotation>
       </annotations>
@@ -1631,7 +1631,7 @@
         <num>(f)</num>
         <text>Reasoning of the case.</text>
       </para>
-      <text>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</text>
+      <aftertext>The Clerk of the Court of Appeals shall have a copy of this memorandum entered on the docket of the Tribal Court.</aftertext>
       <annotations>
         <annotation type="Prior Codifications">§2.13.110 was formerly codified as 2.1311</annotation>
       </annotations>
@@ -1681,7 +1681,7 @@
       <num>2.14.030</num>
       <heading>Oath upon Admission</heading>
       <text>As a condition to admission, each attorney shall take the following oath:</text>
-      <text>"I	do solemnly swear (or affirm) that I will support and defend the Constitution of the United States of America against all enemies, foreign and domestic; that I will faithfully discharge all duties incumbent on me as an attorney to the best of my abilities and understanding. So help me God."</text>
+      <text>"I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States of America against all enemies, foreign and domestic; that I will faithfully discharge all duties incumbent on me as an attorney to the best of my abilities and understanding. So help me God."</text>
       <text>Each attorney, also shall agree, in writing, to represent indigent defendants in criminal cases upon assignment by the Court.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.14.030 was formerly codified as 2.1403</annotation>
@@ -1757,7 +1757,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Minor.	A person who is under the age of twenty-one (21) years.</text>
+        <text>Minor. A person who is under the age of twenty-one (21) years.</text>
       </para>
       <para>
         <num>(d)</num>

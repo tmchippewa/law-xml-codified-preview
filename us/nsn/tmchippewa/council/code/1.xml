@@ -492,7 +492,7 @@
     <section>
       <num>1.07.110</num>
       <heading>Fresh Pursuit; Defined</heading>
-      <text>As used in <cite path="§1.07.120">Section 1.07.120</cite> of this Code, the term "fresh pursuit" shall include fresh pursuit as defined by the common law, and also the pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, who has committed a felony or misdemeanor or who is reasonably suspected of having committed a supposed felony, though no felony has been actually committed, if there is reasonable ground for believing that a felony has been committed. Fresh pursuit, as the term is used in <cite path="1|1.07">this chapter</cite>, shall not necessarily imply instant pursuit, but pursuit without unreasonable delay.</text>
+      <text>As used in <cite path="§1.07.120">Section 1.07.120</cite> of this Code, the term "fresh pursuit" shall include fresh pursuit as defined by the common law, and also the pursuit of an Indian person, who is subject to the jurisdiction of the Turtle Mountain Tribal Court, who has committed a felony or misdemeanor or who is reasonably suspected of having committed a supposed felony, though no felony has been actually committed, if there is reasonable ground for believing that a felony has been committed. Fresh pursuit, as the term is used in <cite path="1.07">this chapter</cite>, shall not necessarily imply instant pursuit, but pursuit without unreasonable delay.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.07.110 was formerly codified as 1.0711</annotation>
       </annotations>
@@ -615,8 +615,8 @@
     <section>
       <num>1.09.010</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="1|1.09">this chapter</cite>, unless the context otherwise requires, "bail bond agent" means any person who has been licensed by the commissioner and appointed by an insurer, by power of attorney, to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges and receives money for the services.</text>
-      <text>As used in <cite path="1|1.09">this chapter</cite>, unless the context Otherwise requires, "Commissioner" means Tribal Employment Rights Director.</text>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context otherwise requires, "bail bond agent" means any person who has been licensed by the commissioner and appointed by an insurer, by power of attorney, to execute or countersign bail bonds for the insurer in connection with the judicial proceedings and charges and receives money for the services.</text>
+      <text>As used in <cite path="1.09">this chapter</cite>, unless the context Otherwise requires, "Commissioner" means Tribal Employment Rights Director.</text>
       <para>
         <num>(a)</num>
         <text>Bail is to obtain release of a person charged with an offense by insuring future attendance in Turtle Mountain Tribal Court through security being taken and compelling the accused to remain within the jurisdiction of the Turtle Mountain Tribal Court.</text>
@@ -648,7 +648,7 @@
     <section>
       <num>1.09.040</num>
       <heading>Bail; Eligibility for</heading>
-      <text>Any person charged with a criminal offense may be eligible for bail by the Turtle Mountain Tribal Court, at any time prior to final judgment or pending appeal to the Court of Appeals, in accordance with the provisions of <cite path="1|1.09">this chapter</cite>.  If bail is not met, the Defendant shall be confined pending the final outcome of the criminal proceedings.</text>
+      <text>Any person charged with a criminal offense may be eligible for bail by the Turtle Mountain Tribal Court, at any time prior to final judgment or pending appeal to the Court of Appeals, in accordance with the provisions of <cite path="1.09">this chapter</cite>.  If bail is not met, the Defendant shall be confined pending the final outcome of the criminal proceedings.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.09.040 was formerly codified as 1.0904</annotation>
       </annotations>
@@ -747,7 +747,7 @@
     <section>
       <num>1.09.130</num>
       <heading>Qualification and License as Bail Bond Agent; Pledge of Property as Security; Penalty</heading>
-      <text>A person may not act in the capacity of a bail bond agent or perform any of the functions, duties, or powers prescribed for a bail bond agent under <cite path="1|1.09">this chapter</cite>, unless that person is qualified and licensed as provided in <cite path="1|1.09">this chapter</cite>. However, <cite path="§1.09.130">this section</cite> does not prohibit any individual from pledging real or other property as security for a bail bond in judicial proceedings if the individual does not receive, or is not promised, money or other things of value therefore. Violation of <cite path="§1.09.130">this section</cite> is a class B misdemeanor.</text>
+      <text>A person may not act in the capacity of a bail bond agent or perform any of the functions, duties, or powers prescribed for a bail bond agent under <cite path="1.09">this chapter</cite>, unless that person is qualified and licensed as provided in <cite path="1.09">this chapter</cite>. However, <cite path="§1.09.130">this section</cite> does not prohibit any individual from pledging real or other property as security for a bail bond in judicial proceedings if the individual does not receive, or is not promised, money or other things of value therefore. Violation of <cite path="§1.09.130">this section</cite> is a class B misdemeanor.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.09.130 was formerly codified as 1.0913</annotation>
       </annotations>
@@ -757,10 +757,10 @@
       <heading>Violations; Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>The commissioner may suspend, revoke, or refuse to continue, issue, or renew any license issued under <cite path="1|1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+        <text>The commissioner may suspend, revoke, or refuse to continue, issue, or renew any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
         <para>
           <num>(1)</num>
-          <text>Recommending any particular attorney at law to handle the case in which the bail bond agent has caused a bond to be issued under <cite path="1|1.09">this chapter</cite>.</text>
+          <text>Recommending any particular attorney at law to handle the case in which the bail bond agent has caused a bond to be issued under <cite path="1.09">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -796,7 +796,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Failing to pay any forfeiture as directed by a court and as required by <cite path="1|1.09">this chapter</cite>.</text>
+          <text>Failing to pay any forfeiture as directed by a court and as required by <cite path="1.09">this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -813,7 +813,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The provisions and penalties under <cite path="§1.09.140">this section</cite> are in addition to those provided under <cite path="1|1.09">this chapter</cite>.</text>
+        <text>The provisions and penalties under <cite path="§1.09.140">this section</cite> are in addition to those provided under <cite path="1.09">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.09.140 was formerly codified as 1.0914</annotation>
@@ -822,7 +822,7 @@
     <section>
       <num>1.09.150</num>
       <heading>Access to Jails</heading>
-      <text>Every person who holds a valid bail bond agent license issued by the insurance commissioner is entitled to equal access to the jails of the judge for the purpose of making bond, subject to the provisions of <cite path="1|1.09">this chapter</cite> and the rules adopted in the manner provided by law. Jail personnel, law enforcement officers, and court personnel may not suggest, recommend, advise, or promote a particular bail bond agent. Each jail shall furnish a space convenient to the telephones in the booking area to be used to hold business cards of bail bond agents.</text>
+      <text>Every person who holds a valid bail bond agent license issued by the insurance commissioner is entitled to equal access to the jails of the judge for the purpose of making bond, subject to the provisions of <cite path="1.09">this chapter</cite> and the rules adopted in the manner provided by law. Jail personnel, law enforcement officers, and court personnel may not suggest, recommend, advise, or promote a particular bail bond agent. Each jail shall furnish a space convenient to the telephones in the booking area to be used to hold business cards of bail bond agents.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.09.150 was formerly codified as 1.0915</annotation>
       </annotations>
@@ -854,7 +854,7 @@
     <section>
       <num>1.09.190</num>
       <heading>Rules</heading>
-      <text>The commissioner may adopt reasonable rules for implementation and administration of <cite path="1|1.09">this chapter</cite>.</text>
+      <text>The commissioner may adopt reasonable rules for implementation and administration of <cite path="1.09">this chapter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.09.190 was formerly codified as 1.0919</annotation>
       </annotations>
@@ -909,7 +909,7 @@
     <section>
       <num>1.09.220</num>
       <heading>License Suspension, Revocation, or Refusal; Grounds</heading>
-      <text>The commissioner may suspend, revoke, place on probation, or refuse to continue or issue any license issued under <cite path="1|1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
+      <text>The commissioner may suspend, revoke, place on probation, or refuse to continue or issue any license issued under <cite path="1.09">this chapter</cite> if, after notice to the licensee and hearing, the commissioner finds as to the licensee any of the following conditions:</text>
       <para>
         <num>(a)</num>
         <text>A materially untrue statement in the license application.</text>
@@ -1005,7 +1005,7 @@
     <section>
       <num>1.09.230</num>
       <heading>Revocation of Nonresident License</heading>
-      <text>Notwithstanding the provisions of <cite path="§1.09.230">this section</cite>, any nonresident license issued pursuant to <cite path="1|1.09">this chapter</cite> may be suspended or revoked without notice and hearing to the licensee, and without proceeding in conformity with <cite path="1|1.09">this chapter</cite>, upon evidence in the form of a certified copy that the authority which issued the resident license to the North Dakota nonresident licensee has revoked or suspended the resident license.</text>
+      <text>Notwithstanding the provisions of <cite path="§1.09.230">this section</cite>, any nonresident license issued pursuant to <cite path="1.09">this chapter</cite> may be suspended or revoked without notice and hearing to the licensee, and without proceeding in conformity with <cite path="1.09">this chapter</cite>, upon evidence in the form of a certified copy that the authority which issued the resident license to the North Dakota nonresident licensee has revoked or suspended the resident license.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.09.230 was formerly codified as 1.0923</annotation>
       </annotations>
@@ -1035,7 +1035,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A person may not knowingly or intentionally interfere with the enforcement of the provisions of <cite path="1|1.09">this chapter</cite> or investigations of suspected or actual violations of <cite path="1|1.09">this chapter</cite>.</text>
+        <text>A person may not knowingly or intentionally interfere with the enforcement of the provisions of <cite path="1.09">this chapter</cite> or investigations of suspected or actual violations of <cite path="1.09">this chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1054,7 +1054,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any offense referred to in subsection (e)(1) of <cite path="§1.09.260">this section</cite> that is not defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.			(18 USC § 1153.)</text>
+          <text>Any offense referred to in subsection (e)(1) of <cite path="§1.09.260">this section</cite> that is not defined and punished in accordance with the laws of the State (Indian Tribe) in which such offense was committed as are in force at the time of such offense.   (18 USC § 1153.)</text>
         </para>
       </para>
       <annotations>
@@ -1288,7 +1288,7 @@
     <section>
       <num>1.11.070</num>
       <heading>Harmless Error</heading>
-      <text>Any variance from the procedures required by <cite path="1|1.11">this chapter</cite>, which does not affect substantial rights of the accused, shall be regarded as harmless error.</text>
+      <text>Any variance from the procedures required by <cite path="1.11">this chapter</cite>, which does not affect substantial rights of the accused, shall be regarded as harmless error.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.11.070 was formerly codified as 1.1107</annotation>
       </annotations>
@@ -1336,7 +1336,7 @@
     <section>
       <num>1.12.030</num>
       <heading>Future Prosecution of Complaint Dismissed Without Prejudice</heading>
-      <text>An order to dismiss the complaint, as provided for in <cite path="1|1.12">this chapter</cite>, does not bar the future prosecution for the same offense, except in the case wherein the Tribal Court has no jurisdiction over the person or the offense.</text>
+      <text>An order to dismiss the complaint, as provided for in <cite path="1.12">this chapter</cite>, does not bar the future prosecution for the same offense, except in the case wherein the Tribal Court has no jurisdiction over the person or the offense.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.12.030 was formerly codified as 1.1203</annotation>
       </annotations>
@@ -1397,7 +1397,7 @@
     <section>
       <num>1.13.030</num>
       <heading>Irregularities, Mistakes, and Omissions</heading>
-      <text>Neither a departure from the form or mode prescribed in <cite path="1|1.13">this chapter</cite> in respect to any pleading or proceedings, nor an error or mistake therein, renders a trial invalid, unless it has prejudiced the defendant.</text>
+      <text>Neither a departure from the form or mode prescribed in <cite path="1.13">this chapter</cite> in respect to any pleading or proceedings, nor an error or mistake therein, renders a trial invalid, unless it has prejudiced the defendant.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.13.030 was formerly codified as 1.1303</annotation>
       </annotations>
@@ -1496,7 +1496,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Challenge to the panel" is an objection in writing    made to all the jurors returned.</text>
+        <text>"Challenge to the panel" is an objection in writing made to all the jurors returned.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2074,7 +2074,7 @@
     <section>
       <num>1.21.010</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="1|1.21">this chapter</cite>, unless the context clearly requires a different meaning.</text>
+      <text>As used in <cite path="1.21">this chapter</cite>, unless the context clearly requires a different meaning.</text>
       <para>
         <num>(a)</num>
         <text>"Vessel" means every description of watercraft, other than a seaplane on the water, used or capable of being used as a means of transportation on water.</text>
@@ -2110,7 +2110,7 @@
     <section>
       <num>1.21.020</num>
       <heading>Operation of Unnumbered Motorboats Prohibited</heading>
-      <text>Every motorboat propelled by a motor having ten (10) horsepower or more on the waters of the Turtle Mountain Jurisdiction shall be numbered. No Indian shall operate or give permission for the operation of any motorboat on such waters unless the motorboat is numbered in accordance with <cite path="1|1.21">this chapter</cite>, or in accordance with applicable federal law, or in accordance with a federally approved numbering system of another state, and unless (1) the certificate of number awarded to such motorboat is in full force and effect, and (2) the identifying number set forth in the certificate of number is displayed on each side of the bow of such motorboat.</text>
+      <text>Every motorboat propelled by a motor having ten (10) horsepower or more on the waters of the Turtle Mountain Jurisdiction shall be numbered. No Indian shall operate or give permission for the operation of any motorboat on such waters unless the motorboat is numbered in accordance with <cite path="1.21">this chapter</cite>, or in accordance with applicable federal law, or in accordance with a federally approved numbering system of another state, and unless (1) the certificate of number awarded to such motorboat is in full force and effect, and (2) the identifying number set forth in the certificate of number is displayed on each side of the bow of such motorboat.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.020 was formerly codified as 1.2102</annotation>
       </annotations>
@@ -2120,7 +2120,7 @@
       <heading>Identification Number</heading>
       <para>
         <num>(a)</num>
-        <text>The Indian owner of each motorboat requiring numbering by the State of North Dakota shall file an application for number with the department on forms approved by it. The application shall be signed by the Indian owner of the motorboat and shall be accompanied by a fee of three dollars ($3). Upon receipt of the application in approved form, the department shall enter the same upon the records of its office and issue the Indian applicant a certificate of number stating the number awarded to the motorboat and the name and address of the owner. The Game and Fish Department shall pay all funds collected hereunder to the North Dakota State Treasurer who shall credit funds thereof to the State Game and Fish fund to pay for the costs of administering <cite path="1|1.21">this chapter</cite>. The Indian owner shall attach to each side of the bow of the motorboat the identification number in such manner as may be prescribed by rules and regulations of the department in order that it may be clearly visible. The number shall be maintained in legible condition. The certificate of number shall be available at all times for inspection on the motorboat for which issued, whenever such motorboat is in operation.</text>
+        <text>The Indian owner of each motorboat requiring numbering by the State of North Dakota shall file an application for number with the department on forms approved by it. The application shall be signed by the Indian owner of the motorboat and shall be accompanied by a fee of three dollars ($3). Upon receipt of the application in approved form, the department shall enter the same upon the records of its office and issue the Indian applicant a certificate of number stating the number awarded to the motorboat and the name and address of the owner. The Game and Fish Department shall pay all funds collected hereunder to the North Dakota State Treasurer who shall credit funds thereof to the State Game and Fish fund to pay for the costs of administering <cite path="1.21">this chapter</cite>. The Indian owner shall attach to each side of the bow of the motorboat the identification number in such manner as may be prescribed by rules and regulations of the department in order that it may be clearly visible. The number shall be maintained in legible condition. The certificate of number shall be available at all times for inspection on the motorboat for which issued, whenever such motorboat is in operation.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2132,11 +2132,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>In the event that an agency of the United States Government shall have in force an over all system of identification numbering for motorboats within the United States, the numbering system employed pursuant to <cite path="1|1.21">this chapter</cite> by the department shall be in conformity therewith.</text>
+        <text>In the event that an agency of the United States Government shall have in force an over all system of identification numbering for motorboats within the United States, the numbering system employed pursuant to <cite path="1.21">this chapter</cite> by the department shall be in conformity therewith.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>The department may award any certificate of number directly or may authorize any Indian person to act as agent for the awarding thereof. In the event that an Indian person accepts such authorization, he may be assigned a block of numbers and certificates therefore which upon award, in conformity with <cite path="1|1.21">this chapter</cite> and with any rules and regulations of the department, shall be valid as if awarded directly by the department.</text>
+        <text>The department may award any certificate of number directly or may authorize any Indian person to act as agent for the awarding thereof. In the event that an Indian person accepts such authorization, he may be assigned a block of numbers and certificates therefore which upon award, in conformity with <cite path="1.21">this chapter</cite> and with any rules and regulations of the department, shall be valid as if awarded directly by the department.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -2144,11 +2144,11 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Every certificate of number awarded pursuant to <cite path="1|1.21">this chapter</cite> shall continue in full force and effect for a period of three (3) years unless sooner terminated or discontinued in accordance with the provisions of <cite path="1|1.21">this chapter</cite>. Certificates of number may be renewed by the owner in the same manner provided for in the initial securing of the same.</text>
+        <text>Every certificate of number awarded pursuant to <cite path="1.21">this chapter</cite> shall continue in full force and effect for a period of three (3) years unless sooner terminated or discontinued in accordance with the provisions of <cite path="1.21">this chapter</cite>. Certificates of number may be renewed by the owner in the same manner provided for in the initial securing of the same.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>The department shall fix a day and month of the year on which certificates of number due to expire during the calendar year shall lapse and no longer be of any force and effect unless renewed pursuant to <cite path="1|1.21">this chapter</cite>.</text>
+        <text>The department shall fix a day and month of the year on which certificates of number due to expire during the calendar year shall lapse and no longer be of any force and effect unless renewed pursuant to <cite path="1.21">this chapter</cite>.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -2160,7 +2160,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>No number other than the number awarded to a motorboat or granted reciprocity pursuant to, <cite path="1|1.21">this chapter</cite> shall be painted, attached or otherwise displayed on either side of the bow of such motorboat.</text>
+        <text>No number other than the number awarded to a motorboat or granted reciprocity pursuant to, <cite path="1.21">this chapter</cite> shall be painted, attached or otherwise displayed on either side of the bow of such motorboat.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.21.030 was formerly codified as 1.2103</annotation>
@@ -2197,7 +2197,7 @@
     <section>
       <num>1.21.050</num>
       <heading>Exemption from Numbering Provisions of This Chapter</heading>
-      <text>A motorboat shall not be required to be numbered under <cite path="1|1.21">this chapter</cite> if it is:</text>
+      <text>A motorboat shall not be required to be numbered under <cite path="1.21">this chapter</cite> if it is:</text>
       <para>
         <num>(a)</num>
         <text>Already covered by a number in full force and effect which has been awarded to it pursuant to federal law or a federally approved numbering system of another state; provided that such boat shall not have been within this state for a period in excess of ninety (90) consecutive days.</text>
@@ -2305,7 +2305,7 @@
     <section>
       <num>1.21.130</num>
       <heading>Penalty</heading>
-      <text>Any Indian violating any of the provisions of <cite path="1|1.21">this chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred dollars ($100) or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="1.21">this chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred dollars ($100) or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.21.130 was formerly codified as 1.2113</annotation>
       </annotations>
@@ -2318,7 +2318,7 @@
     <section>
       <num>1.22.010</num>
       <heading>Definitions</heading>
-      <text>In <cite path="1|1.22">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="1.22">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
       <para>
         <num>(a)</num>
         <text>"Indian Person" means Indian as defined by <cite path="§1.03.010|(f)">Section 1.03.010(f)</cite> of this Code.</text>
@@ -2457,7 +2457,7 @@
     <section>
       <num>1.22.130</num>
       <heading>Penalties Not Otherwise_Prescribed</heading>
-      <text>Any Indian who is convicted of an offense enumerated in <cite path="1|1.22">this chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall be sentenced under <cite path="§1.22.130">this section</cite> to a fine of not more than one hundred dollars ($100) or to labor for a period not to exceed thirty (30) days or to both such fine and imprisonment, with costs.</text>
+      <text>Any Indian who is convicted of an offense enumerated in <cite path="1.22">this chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall be sentenced under <cite path="§1.22.130">this section</cite> to a fine of not more than one hundred dollars ($100) or to labor for a period not to exceed thirty (30) days or to both such fine and imprisonment, with costs.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.22.130 was formerly codified as 1.2213</annotation>
       </annotations>
@@ -2465,8 +2465,8 @@
     <section>
       <num>1.22.140</num>
       <heading>Penalties Applicable to Non-Indians</heading>
-      <text>Any non-Indian who violates any provision of <cite path="1|1.22">this chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall forfeit his Tribal fishing license and may be proceeded against for violation of Section 1165, Title 18, of the United States Code.</text>
-      <text>Should the non-Indian violate any provision of <cite path="1|1.22">this chapter</cite> which is also a violation of Title 20 of the North Dakota Century Code or any order or proclamation issued by the Governor of North Dakota pursuant thereto, may be delivered to the custody of a duly commissioned State or County law enforcement officer for prosecution under State law to the extent applicable.</text>
+      <text>Any non-Indian who violates any provision of <cite path="1.22">this chapter</cite> or regulations issued pursuant thereto, for which the penalty is not otherwise prescribed, shall forfeit his Tribal fishing license and may be proceeded against for violation of Section 1165, Title 18, of the United States Code.</text>
+      <text>Should the non-Indian violate any provision of <cite path="1.22">this chapter</cite> which is also a violation of Title 20 of the North Dakota Century Code or any order or proclamation issued by the Governor of North Dakota pursuant thereto, may be delivered to the custody of a duly commissioned State or County law enforcement officer for prosecution under State law to the extent applicable.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.22.140 was formerly codified as 1.2214</annotation>
       </annotations>
@@ -2479,7 +2479,7 @@
     <section>
       <num>1.23.010</num>
       <heading>Definitions</heading>
-      <text>In <cite path="1|1.23">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
+      <text>In <cite path="1.23">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
       <para>
         <num>(a)</num>
         <text>"Indian Person" means an Indian as defined by <cite path="§1.03.010|(f)">Section 1.03.010(f)</cite> of this Code.</text>
@@ -2502,7 +2502,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>"Register" means the act of assigning a  registration number of a snowmobile.</text>
+        <text>"Register" means the act of assigning a registration number of a snowmobile.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -2561,7 +2561,7 @@
       <heading>Rules for Operation of Snowmobiles</heading>
       <para>
         <num>(a)</num>
-        <text>No Indian person shall operate a snowmobile upon the roadway, shoulder or inside bank or slope of any road, street, or highway in Turtle Mountain Jurisdiction except as provided pursuant to <cite path="1|1.23">this chapter</cite>. No snowmobile shall be operated at any time within the right of way of any interstate highway within the Turtle Mountain Jurisdiction except for emergency purposes.</text>
+        <text>No Indian person shall operate a snowmobile upon the roadway, shoulder or inside bank or slope of any road, street, or highway in Turtle Mountain Jurisdiction except as provided pursuant to <cite path="1.23">this chapter</cite>. No snowmobile shall be operated at any time within the right of way of any interstate highway within the Turtle Mountain Jurisdiction except for emergency purposes.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2585,11 +2585,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>No snowmobile shall be operated unless it is equipped with at least one (1) headlamp, one (1) tail lamp, and brakes, all in working order, which conform to standards prescribed by rule of the highway commissioner pursuant to the authority vested in him by this Code and <cite path="1|1.23">this chapter</cite>.</text>
+        <text>No snowmobile shall be operated unless it is equipped with at least one (1) headlamp, one (1) tail lamp, and brakes, all in working order, which conform to standards prescribed by rule of the highway commissioner pursuant to the authority vested in him by this Code and <cite path="1.23">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The emergency conditions under which a snowmobile may be operated other than as provided by <cite path="1|1.23">this chapter</cite> shall be such as to render the use of an</text>
+        <text>The emergency conditions under which a snowmobile may be operated other than as provided by <cite path="1.23">this chapter</cite> shall be such as to render the use of an</text>
         <text>automobile impractical under such conditions at such period of time and location.</text>
       </para>
       <para>
@@ -2626,11 +2626,11 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>When snowmobiles are operated within the right of way of any road, street, or highway of this state pursuant to <cite path="1|1.23">this chapter</cite>, during times or conditions that warrant the use of lights, such snowmobiles shall travel in the same direction as the direction of motor vehicles traveling on the side of the roadway immediately adjacent to the side of the right of way traveled by the snowmobile.</text>
+        <text>When snowmobiles are operated within the right of way of any road, street, or highway of this state pursuant to <cite path="1.23">this chapter</cite>, during times or conditions that warrant the use of lights, such snowmobiles shall travel in the same direction as the direction of motor vehicles traveling on the side of the roadway immediately adjacent to the side of the right of way traveled by the snowmobile.</text>
       </para>
       <para>
         <num>(n)</num>
-        <text>It shall be unlawful for any Indian person to operate a snowmobile within a highway right of way as defined in Subsection 37 of <cite path="1|1.26|1.2602">Section 1.2602</cite> between April first and November first of any year.</text>
+        <text>It shall be unlawful for any Indian person to operate a snowmobile within a highway right of way as defined in Subsection 37 of <cite path="1.26|1.2602">Section 1.2602</cite> between April first and November first of any year.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.23.040 was formerly codified as 1.2304</annotation>
@@ -2699,7 +2699,7 @@
     <section>
       <num>1.23.090</num>
       <heading>Penalty</heading>
-      <text>Any Indian violating any of the provisions of <cite path="1|1.23">this chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred ($100) dollars or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
+      <text>Any Indian violating any of the provisions of <cite path="1.23">this chapter</cite> shall be guilty of a misdemeanor and shall be punished by a fine of not more than one hundred ($100) dollars or by imprisonment for not more than thirty (30) days or by both such fine and imprisonment, with costs.</text>
       <annotations>
         <annotation type="Prior Codifications">§1.23.090 was formerly codified as 1.2309</annotation>
       </annotations>

@@ -202,7 +202,7 @@
     <section>
       <num>16.04.030</num>
       <heading>Collection of Refuse</heading>
-      <text>No person, firm or corporation shall collect, transport or dispose of refuse within the Turtle Mountain Jurisdiction who does not possess a permit issued by the Turtle Mountain Tribal Health Board. Said permit shall be issued only after Tribal Health Board delegated official(s) have satisfied themselves that the applicant for permit has the necessary equipment and is capable of complying with the requirements of <cite path="16|16.04">this chapter</cite>; and that the collection vehicles and equipment proposed for use by the applicant are of such construction as to be readily cleanable and to prevent the spillage or scattering of refuse. The permit may be revoked or suspended by the Turtle Mountain Tribal Health Board for such a period of time deemed appropriate when the permittee has been convicted by the Turtle Mountain Tribal Court of violating any of the provisions of <cite path="16|16.04">this chapter</cite>.</text>
+      <text>No person, firm or corporation shall collect, transport or dispose of refuse within the Turtle Mountain Jurisdiction who does not possess a permit issued by the Turtle Mountain Tribal Health Board. Said permit shall be issued only after Tribal Health Board delegated official(s) have satisfied themselves that the applicant for permit has the necessary equipment and is capable of complying with the requirements of <cite path="16.04">this chapter</cite>; and that the collection vehicles and equipment proposed for use by the applicant are of such construction as to be readily cleanable and to prevent the spillage or scattering of refuse. The permit may be revoked or suspended by the Turtle Mountain Tribal Health Board for such a period of time deemed appropriate when the permittee has been convicted by the Turtle Mountain Tribal Court of violating any of the provisions of <cite path="16.04">this chapter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.04.030 was formerly codified as 16.0403</annotation>
       </annotations>
@@ -289,7 +289,7 @@
     <section>
       <num>16.07.010</num>
       <heading>Purpose</heading>
-      <text>To provide, within the Turtle Mountain Jurisdiction, for the sale of only unadulterated, wholesome, properly branded food; regulating the sources of food; establishing sanitation standards for food, food protection, food service personnel, food service operations, food equipment and utensils, sanitary facilities and controls, and other facilities; requiring permits for the operation of permanent and temporary food service establishments; regulating the inspection, grading, regrading and placarding of such establishments; providing for the examination and condemnation of food; and providing for the enforcement of <cite path="16|16.06">Chapter 16.06</cite> and <cite path="16|16.14">Chapter 16.14</cite> of this Code.</text>
+      <text>To provide, within the Turtle Mountain Jurisdiction, for the sale of only unadulterated, wholesome, properly branded food; regulating the sources of food; establishing sanitation standards for food, food protection, food service personnel, food service operations, food equipment and utensils, sanitary facilities and controls, and other facilities; requiring permits for the operation of permanent and temporary food service establishments; regulating the inspection, grading, regrading and placarding of such establishments; providing for the examination and condemnation of food; and providing for the enforcement of <cite path="16.06">Chapter 16.06</cite> and <cite path="16.14">Chapter 16.14</cite> of this Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.07.010 was formerly codified as 16.0701</annotation>
       </annotations>
@@ -810,7 +810,7 @@
         <num>(g)</num>
         <text>All single-service articles shall be stored, handled, and dispensed in a sanitary manner, and shall be used only once.</text>
       </para>
-      <text>Food-service establishments which do not have adequate and effective facilities for cleaning and sanitizing utensils shall use single-service articles.</text>
+      <aftertext>Food-service establishments which do not have adequate and effective facilities for cleaning and sanitizing utensils shall use single-service articles.</aftertext>
       <annotations>
         <annotation type="Prior Codifications">§16.11.020 was formerly codified as 16.1102</annotation>
       </annotations>
@@ -932,7 +932,7 @@
     <section>
       <num>16.14.010</num>
       <heading>Compliance</heading>
-      <text>A temporary food-service establishment shall comply with all provisions of <cite path="16|16.06">Chapter 16.06</cite> through <cite path="16|16.14">this chapter</cite> of <cite path="16">this title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
+      <text>A temporary food-service establishment shall comply with all provisions of <cite path="16.06">Chapter 16.06</cite> through <cite path="16.14">this chapter</cite> of <cite path="16">this title</cite>, which are applicable to its operation; Provided, that the health authority may augment such requirements when needed to assure the service of safe food, may prohibit the sale of certain potentially hazardous food and may modify specific requirements for physical facilities when in his opinion no imminent health hazard will result.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.14.010 was formerly codified as 16.1401</annotation>
       </annotations>
@@ -954,7 +954,7 @@
       <para>
         <num>(b)</num>
         <text>Suspension of permits. Permits may be suspended temporarily by the health authority for failure of the holder to comply with the requirements of his Title.</text>
-        <text>Whenever a permit holder or operator has failed to comply with any notice issued under the provisions of <cite path="16|16.15">this chapter</cite> of <cite path="16">this title</cite>, the permit holder or operator shall be notified in writing that the permit is, upon service of the notice, immediately suspended (or the establishment downgraded), and that an opportunity for a hearing will be provided if a written request for a hearing is filed with the health authority by the permit holder.</text>
+        <text>Whenever a permit holder or operator has failed to comply with any notice issued under the provisions of <cite path="16.15">this chapter</cite> of <cite path="16">this title</cite>, the permit holder or operator shall be notified in writing that the permit is, upon service of the notice, immediately suspended (or the establishment downgraded), and that an opportunity for a hearing will be provided if a written request for a hearing is filed with the health authority by the permit holder.</text>
         <text>Notwithstanding the other provisions of <cite path="16">this title</cite>, whenever the health authority finds unsanitary or other conditions in the operation of a food-service establishment which, in his judgment, constitute a substantial hazard to the public health, he may without warning, notice or hearing, issue a written notice to the permit holder or operator citing such condition, specifying the corrective action to be taken, and specifying the time period within which such action shall be taken; and if deemed necessary, such order shall state that the permit is immediately suspended, and al1 foodservice operations are to be immediately discontinued. Any person to whom such an order is issued shall comply immediately therewith, but upon written petition to the health authority, shall be afforded a hearing as soon as possible.</text>
       </para>
       <para>
@@ -983,11 +983,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of <cite path="16|16.09">Chapter 16.09</cite> through <cite path="16|16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="§16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
+        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of <cite path="16.09">Chapter 16.09</cite> through <cite path="16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="§16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of <cite path="16|16.09">Chapter 16.09</cite> through <cite path="16|16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
+        <text>Issuance of notices. Whenever the health authority makes an inspection of a food-service establishment and discovers that any of the requirements of <cite path="16.09">Chapter 16.09</cite> through <cite path="16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> have been violated, he shall notify the permit holder or operator of such violations by means of an inspection report form or other written notice. In such notification, the health authority shall:</text>
         <para>
           <num>(1)</num>
           <text>Set forth the specific violation found, together with the demerit score of the establishment.</text>
@@ -1116,7 +1116,7 @@
     <section>
       <num>16.16.010</num>
       <heading>Penalties for Violations</heading>
-      <text>Any Indian person who violates any provision of <cite path="16|16.06">Chapter 16.06</cite> through <cite path="16|16.14">Chapter 16.14</cite> of this Code or any provision of any regulation adopted by the Turtle Mountain Health Board pursuant to authority granted by the Turtle Mountain Tribal Code sha11 be deemed gui1ty of an offense and upon conviction thereof shall be sentenced to pay a fine or not to exceed fifty dollars ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
+      <text>Any Indian person who violates any provision of <cite path="16.06">Chapter 16.06</cite> through <cite path="16.14">Chapter 16.14</cite> of this Code or any provision of any regulation adopted by the Turtle Mountain Health Board pursuant to authority granted by the Turtle Mountain Tribal Code sha11 be deemed gui1ty of an offense and upon conviction thereof shall be sentenced to pay a fine or not to exceed fifty dollars ($50) or sentenced to labor for not to exceed twenty-five (25) days, or to both such fine and imprisonment with costs, and each day's failure to comply shall constitute a separate violation.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.16.010 was formerly codified as 16.1601</annotation>
       </annotations>

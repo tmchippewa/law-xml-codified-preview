@@ -78,10 +78,10 @@
         <text>Where one of the following provisions of this Code specifies the applicable law, that provision governs and a contrary agreement is effective only to the extent permitted by the law (including the conflict of laws rules) so specified:</text>
         <text>Rights of creditors against sold goods. <cite path="§24.02.020">Section 24.02.020</cite></text>
         <text>Applicability of the article on leases, <cite path="§24.09.040">Section 24.09.040</cite> and <cite path="§24.08.060">Section 24.08.060</cite>.</text>
-        <text>Applicability of the articles on bank deposits and collections, <cite path="24|24.20">Chapter 24.20</cite>.</text>
+        <text>Applicability of the articles on bank deposits and collections, <cite path="24.20">Chapter 24.20</cite>.</text>
         <text>Governing law in the Chapter on funds transfers, <cite path="§24.09.070">Section 24.09.070</cite>.</text>
-        <text>Applicability of the Chapters on investment securities, <cite path="24|24.38">Chapter 24.38</cite>.</text>
-        <text>Perfection provisions of the chapter on secured transactions, <cite path="24|24.24">Chapter 24.24</cite>.</text>
+        <text>Applicability of the Chapters on investment securities, <cite path="24.38">Chapter 24.38</cite>.</text>
+        <text>Perfection provisions of the chapter on secured transactions, <cite path="24.24">Chapter 24.24</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.01.050 was formerly codified as 24.0105</annotation>
@@ -289,7 +289,7 @@
       </para>
       <para>
         <num>(kk)</num>
-        <text>"SECURITY INTEREST" means an interest in personal property or fixtures which secures payment or performance of an obligation. The retention or reservation of title by a seller of goods notwithstanding shipment or delivery to the buyer (<cite path="§24.06.030">Section 24.06.030</cite>) is limited in effect to a reservation of a "security interest." The term also includes any interest of a buyer of accounts or chattel paper which is subject to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. The special circumstances of a secured transaction must be treated in accordance with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> of <cite path="24">this title</cite>. Whether a transaction creates a lease or security interest is determined by the facts of each case; however, a transaction creates a security interest if the consideration the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease not subject to termination by the lessee, and:</text>
+        <text>"SECURITY INTEREST" means an interest in personal property or fixtures which secures payment or performance of an obligation. The retention or reservation of title by a seller of goods notwithstanding shipment or delivery to the buyer (<cite path="§24.06.030">Section 24.06.030</cite>) is limited in effect to a reservation of a "security interest." The term also includes any interest of a buyer of accounts or chattel paper which is subject to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. The special circumstances of a secured transaction must be treated in accordance with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> of <cite path="24">this title</cite>. Whether a transaction creates a lease or security interest is determined by the facts of each case; however, a transaction creates a security interest if the consideration the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease not subject to termination by the lessee, and:</text>
         <para>
           <num>(1)</num>
           <text>the original term of the lease is equal to or greater than the remaining economic life of the goods,</text>
@@ -367,7 +367,7 @@
       </para>
       <para>
         <num>(qq)</num>
-        <text>"VALUE" Except as otherwise provided with respect to negotiable instruments and bank collections (<cite path="24|24.03|24.0333">Section 24.0333</cite>, <cite path="§24.04.280">Section 24.04.280</cite> and <cite path="§24.04.290">Section 24.04.290</cite>) a person gives "value" for rights if he or she acquires them</text>
+        <text>"VALUE" Except as otherwise provided with respect to negotiable instruments and bank collections (<cite path="24.03|24.0333">Section 24.0333</cite>, <cite path="§24.04.280">Section 24.04.280</cite> and <cite path="§24.04.290">Section 24.04.290</cite>) a person gives "value" for rights if he or she acquires them</text>
         <para>
           <num>(1)</num>
           <text>in return for a binding commitment to extend credit or for the extension of immediately available credit whether or not drawn upon and whether or not a charge-back is provided for in the event of difficulties in collection; or</text>
@@ -472,7 +472,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Subsection (a) of <cite path="§24.01.150">this section</cite> does not apply to contracts for the sale of goods (<cite path="24|24.02|24.0301">Section 24.0301</cite>) nor of securities (<cite path="24|24.08|24.0839">Section 24.0839</cite>) nor to security agreements (<cite path="§24.03.030">Section 24.03.030</cite>).</text>
+        <text>Subsection (a) of <cite path="§24.01.150">this section</cite> does not apply to contracts for the sale of goods (<cite path="24.02|24.0301">Section 24.0301</cite>) nor of securities (<cite path="24.08|24.0839">Section 24.0839</cite>) nor to security agreements (<cite path="§24.03.030">Section 24.03.030</cite>).</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.01.150 was formerly codified as 24.0115</annotation>
@@ -589,12 +589,12 @@
         <text>"CONSIGNEE." <cite path="§24.32.020|(a)|(2)">Section 24.32.020(a)(2)</cite>.</text>
         <text>"CONSIGNOR." <cite path="§24.32.020|(a)|(3)">Section 24.32.020(a)(3)</cite>.</text>
         <text>"CONSUMER GOODS." <cite path="§24.42.020">Section 24.42.020</cite></text>
-        <text>"DISHONOR." <cite path="24|24.18">Chapter 24.18</cite>.</text>
+        <text>"DISHONOR." <cite path="24.18">Chapter 24.18</cite>.</text>
         <text>"DRAFT." <cite path="§24.14.040|(g)">Section 24.14.040(g)</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>In addition, <cite path="24|24.01">Chapter 24.01</cite> contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
+        <text>In addition, <cite path="24.01">Chapter 24.01</cite> contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.02.030 was formerly codified as 24.0203</annotation>
@@ -624,7 +624,7 @@
       <heading>Definitions; Transferability, Goods, Future Goods, Lot, Commercial Unit</heading>
       <para>
         <num>(a)</num>
-        <text>"GOODS" means all things (including specially manufactured goods) which are movable at the time of identification to the contract for sale other than the money in which the price is to be paid, investment securities (<cite path="24|24.38">Chapter 24.38</cite>) and things in action. "Goods" also includes the unborn young of animals and growing crops, and other identified things attached to realty as described in the sections on goods to be severed from realty (<cite path="§24.02.070">Section 24.02.070</cite>).</text>
+        <text>"GOODS" means all things (including specially manufactured goods) which are movable at the time of identification to the contract for sale other than the money in which the price is to be paid, investment securities (<cite path="24.38">Chapter 24.38</cite>) and things in action. "Goods" also includes the unborn young of animals and growing crops, and other identified things attached to realty as described in the sections on goods to be severed from realty (<cite path="§24.02.070">Section 24.02.070</cite>).</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1258,7 +1258,7 @@
     <section>
       <num>24.04.180</num>
       <heading>Cattle, Hogs and Sheep; No Implied Warranty as to Disease</heading>
-      <text>Notwithstanding <cite path="§24.04.140">Section 24.04.140</cite>, there is no implied warranty on the                sale of cattle, hogs, or sheep that such cattle, hogs, or sheep are free from disease.</text>
+      <text>Notwithstanding <cite path="§24.04.140">Section 24.04.140</cite>, there is no implied warranty on the sale of cattle, hogs, or sheep that such cattle, hogs, or sheep are free from disease.</text>
       <annotations>
         <annotation type="Prior Codifications">§24.04.180 was formerly codified as 24.0418</annotation>
       </annotations>
@@ -1432,7 +1432,7 @@
         <text>Where in a case within Subsection (a) a bill of lading has been issued in a set of parts, unless otherwise agreed if the documents are not to be sent from abroad the buyer may demand tender of the full set; otherwise only one part of the bill of lading need be tendered. Even if the agreement expressly requires a full set</text>
         <para>
           <num>(1)</num>
-          <text>Due tender of a single part is acceptable within the provisions of <cite path="24|24.04">this chapter</cite> on cure of improper delivery (<cite path="§24.04.260">Section 24.04.260</cite>); and</text>
+          <text>Due tender of a single part is acceptable within the provisions of <cite path="24.04">this chapter</cite> on cure of improper delivery (<cite path="§24.04.260">Section 24.04.260</cite>); and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1645,7 +1645,7 @@
         <text>Nothing in this article shall be deemed to impair the rights of creditors of the seller</text>
         <para>
           <num>(1)</num>
-          <text>Under the provisions of the article on secured transactions (<cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>); or</text>
+          <text>Under the provisions of the article on secured transactions (<cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>); or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1689,7 +1689,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The rights of other purchasers of goods and of lien creditors are governed by the articles on secured transactions (<cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>) and documents of title (Chapter 7).</text>
+        <text>The rights of other purchasers of goods and of lien creditors are governed by the articles on secured transactions (<cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>) and documents of title (Chapter 7).</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.05.030 was formerly codified as 24.0503</annotation>
@@ -3141,7 +3141,7 @@
         <text>"INSTRUMENT." <cite path="§24.14.040|(d)">Section 24.14.040(d)</cite>.</text>
         <text>"MERCHANT" <cite path="§24.02.040|(a)">Section 24.02.040(a)</cite>.</text>
         <text>"MORTGAGE." <cite path="§24.42.020|(a)|(57)">Section 24.42.020(a)(57)</cite>.</text>
-        <text>"PURSUANT TO COMMITMENT" <cite path="24|24.42|24.4205|(1)|(ttt)">Section 24.4205(1)(k)</cite>.</text>
+        <text>"PURSUANT TO COMMITMENT" <cite path="24.42|24.4205|(1)|(ttt)">Section 24.4205(1)(k)</cite>.</text>
         <text>"RECEIPT" <cite path="§24.02.030|(a)|(3)">Section 24.02.030(a)(3)</cite>.</text>
         <text>"SALE." <cite path="§24.02.060|(a)">Section 24.02.060(a)</cite>.</text>
         <text>"SALE ON APPROVAL." <cite path="§24.04.280|(a)|(1)">Section 24.04.280(a)(1)</cite>.</text>
@@ -3150,7 +3150,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>In addition, <cite path="24|24.01">Chapter 24.01</cite> (commencing with <cite path="§24.01.010">Section 24.01.010</cite>) contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
+        <text>In addition, <cite path="24.01">Chapter 24.01</cite> (commencing with <cite path="§24.01.010">Section 24.01.010</cite>) contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.09.030 was formerly codified as 24.0903</annotation>
@@ -4281,7 +4281,7 @@
           <num>(2)</num>
           <text>Is not subject to cancellation, termination, modification, repudiation, excuse, or substitution without the consent of the party to whom the promise runs.</text>
         </para>
-        <text><cite path="§24.12.070">This section</cite> shall not affect the validity under any other law of a covenant in any lease contract making the lessee's promises irrevocable and independent upon the lessee's acceptance of the goods.</text>
+        <aftertext><cite path="§24.12.070">This section</cite> shall not affect the validity under any other law of a covenant in any lease contract making the lessee's promises irrevocable and independent upon the lessee's acceptance of the goods.</aftertext>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.12.070 was formerly codified as 24.1207</annotation>
@@ -5161,11 +5161,11 @@
       <heading>Subject Matter</heading>
       <para>
         <num>(a)</num>
-        <text>This article applies to negotiable instruments. It does not apply to money, to payment orders governed by <cite path="§25.05.050">Section 25.05.050</cite>, or to securities governed by <cite path="24|24.38">Chapter 24.38</cite>.</text>
+        <text>This article applies to negotiable instruments. It does not apply to money, to payment orders governed by <cite path="§25.05.050">Section 25.05.050</cite>, or to securities governed by <cite path="24.38">Chapter 24.38</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If there is conflict between <cite path="24|24.14">this chapter</cite> and <cite path="24|24.04">Chapter 24.04</cite> or <cite path="24|24.38">Chapter 24.38</cite>, <cite path="24|24.04">Chapter 24.04</cite>, <cite path="24|24.14">this chapter</cite> and <cite path="24|24.38">Chapter 24.38</cite> govern.</text>
+        <text>If there is conflict between <cite path="24.14">this chapter</cite> and <cite path="24.04">Chapter 24.04</cite> or <cite path="24.38">Chapter 24.38</cite>, <cite path="24.04">Chapter 24.04</cite>, <cite path="24.14">this chapter</cite> and <cite path="24.38">Chapter 24.38</cite> govern.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -5589,7 +5589,7 @@
     <section>
       <num>24.14.110</num>
       <heading>Place of Payment</heading>
-      <text>Except as otherwise provided for items in <cite path="24|24.04">Chapter 24.04</cite>, an instrument is payable at the place of payment stated in the instrument. If no place of payment is stated, an instrument is payable at the address of the drawee or maker stated in the instrument. If no address is stated, the place of payment is the place of business of the drawee or maker. If a drawee or maker has more than one place of business, the place of payment is any place of business of the drawee or maker chosen by the person entitled to enforce the instrument. If the drawee or maker has no place of business, the place of payment is the residence of the drawee or maker.</text>
+      <text>Except as otherwise provided for items in <cite path="24.04">Chapter 24.04</cite>, an instrument is payable at the place of payment stated in the instrument. If no place of payment is stated, an instrument is payable at the address of the drawee or maker stated in the instrument. If no address is stated, the place of payment is the place of business of the drawee or maker. If a drawee or maker has more than one place of business, the place of payment is any place of business of the drawee or maker chosen by the person entitled to enforce the instrument. If the drawee or maker has no place of business, the place of payment is the residence of the drawee or maker.</text>
       <annotations>
         <annotation type="Prior Codifications">§24.14.110 was formerly codified as 24.1411</annotation>
       </annotations>
@@ -7791,7 +7791,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>"Documentary draft" means a draft to be presented for acceptance or payment if specified documents, certificated securities (<cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>) or instructions for uncertificated securities (<cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>) or other certificates, statements, or the like are to be received by the drawee or other payor before acceptance or payment of the draft;</text>
+          <text>"Documentary draft" means a draft to be presented for acceptance or payment if specified documents, certificated securities (<cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>) or instructions for uncertificated securities (<cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>) or other certificates, statements, or the like are to be received by the drawee or other payor before acceptance or payment of the draft;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -9853,7 +9853,7 @@
     <section>
       <num>24.30.010</num>
       <heading>Short Title</heading>
-      <text><cite path="24|24.30">This chapter</cite> may be cited as the Uniform Commercial Code - Letters of Credit.</text>
+      <text><cite path="24.30">This chapter</cite> may be cited as the Uniform Commercial Code - Letters of Credit.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.30.010 was formerly codified as 24.3001</annotation>
@@ -9864,7 +9864,7 @@
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
-        <text>In <cite path="24|24.30">this chapter</cite>:</text>
+        <text>In <cite path="24.30">this chapter</cite>:</text>
         <para>
           <num>(1)</num>
           <text>"Adviser" means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or amended.</text>
@@ -9899,7 +9899,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>"Good faith" means honesty in fact in the conduct or transaction concerned. The definition of "good faith" in <cite path="§24.30.090">Section 24.30.090</cite> does not apply to <cite path="24|24.30">this chapter</cite>.</text>
+          <text>"Good faith" means honesty in fact in the conduct or transaction concerned. The definition of "good faith" in <cite path="§24.30.090">Section 24.30.090</cite> does not apply to <cite path="24.30">this chapter</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -9956,7 +9956,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Definitions in other chapters applying to <cite path="24|24.30">this chapter</cite> and the sections in which they appear are:</text>
+        <text>Definitions in other chapters applying to <cite path="24.30">this chapter</cite> and the sections in which they appear are:</text>
         <para>
           <num>(1)</num>
           <text>"Accept" or "acceptance". <cite path="§24.17.090">Section 24.17.090</cite>.</text>
@@ -9968,7 +9968,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="24|24.01">Chapter 24.01</cite> contains certain additional general definitions and principles of construction and interpretation applicable throughout <cite path="24|24.30">this chapter</cite>.</text>
+        <text><cite path="24.01">Chapter 24.01</cite> contains certain additional general definitions and principles of construction and interpretation applicable throughout <cite path="24.30">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -9980,15 +9980,15 @@
       <heading>Scope</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="24|24.30">This chapter</cite> applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit.</text>
+        <text><cite path="24.30">This chapter</cite> applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The statement of a rule in <cite path="24|24.30">this chapter</cite> does not by itself require, imply, or negate application of the same or a different rule to a situation not provided for, or to a person not specified, in <cite path="24|24.30">this chapter</cite>.</text>
+        <text>The statement of a rule in <cite path="24.30">this chapter</cite> does not by itself require, imply, or negate application of the same or a different rule to a situation not provided for, or to a person not specified, in <cite path="24.30">this chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>With the exception of this subsection, subsections (a) and (d) of <cite path="§24.30.030">this section</cite>, subdivisions (9) and (10) of subsection (a) of <cite path="§24.30.020">Section 24.30.020</cite> subsection (d) of <cite path="§24.30.060">Section 24.30.060</cite>, and subsection (d) of <cite path="§24.30.140">Section 24.30.140</cite>, and except to the extent prohibited under <cite path="§24.01.160">Section 24.01.160</cite> and subsection (d) of <cite path="§24.30.170">Section 24.30.170</cite>, the effect of <cite path="24|24.30">this chapter</cite> may be varied by agreement or by a provision stated or incorporated by reference in an undertaking. A term in an agreement or undertaking generally excusing liability or generally limiting remedies for failure to perform obligations is not sufficient to vary obligations prescribed by <cite path="24|24.30">this chapter</cite>.</text>
+        <text>With the exception of this subsection, subsections (a) and (d) of <cite path="§24.30.030">this section</cite>, subdivisions (9) and (10) of subsection (a) of <cite path="§24.30.020">Section 24.30.020</cite> subsection (d) of <cite path="§24.30.060">Section 24.30.060</cite>, and subsection (d) of <cite path="§24.30.140">Section 24.30.140</cite>, and except to the extent prohibited under <cite path="§24.01.160">Section 24.01.160</cite> and subsection (d) of <cite path="§24.30.170">Section 24.30.170</cite>, the effect of <cite path="24.30">this chapter</cite> may be varied by agreement or by a provision stated or incorporated by reference in an undertaking. A term in an agreement or undertaking generally excusing liability or generally limiting remedies for failure to perform obligations is not sufficient to vary obligations prescribed by <cite path="24.30">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -10134,7 +10134,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>An issuer that has honored a presentation as permitted or required by <cite path="24|24.30">this chapter</cite>:</text>
+        <text>An issuer that has honored a presentation as permitted or required by <cite path="24.30">this chapter</cite>:</text>
         <para>
           <num>(1)</num>
           <text>Is entitled to be reimbursed by the applicant in immediately available funds not later than the date of its payment of funds;</text>
@@ -10234,7 +10234,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The warranties in subsection 1 are in addition to warranties arising under <cite path="24|24.14">Chapter 24.14</cite> – <cite path="24|24.19">Chapter 24.19</cite>, <cite path="24|24.20">Chapter 24.20</cite> – <cite path="24|24.24">Chapter 24.24</cite>, <cite path="24|24.32">Chapter 24.32</cite> – <cite path="24|24.37">Chapter 24.37</cite>, and <cite path="24|24.38">Chapter 24.38</cite> – <cite path="24|24.48">Chapter 24.48</cite> because of the presentation or transfer of documents covered by any of those chapters.</text>
+        <text>The warranties in subsection 1 are in addition to warranties arising under <cite path="24.14">Chapter 24.14</cite> – <cite path="24.19">Chapter 24.19</cite>, <cite path="24.20">Chapter 24.20</cite> – <cite path="24.24">Chapter 24.24</cite>, <cite path="24.32">Chapter 24.32</cite> – <cite path="24.37">Chapter 24.37</cite>, and <cite path="24.38">Chapter 24.38</cite> – <cite path="24.48">Chapter 24.48</cite> because of the presentation or transfer of documents covered by any of those chapters.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -10254,7 +10254,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If an adviser or nominated person other than a confirmer breaches an obligation under <cite path="24|24.30">this chapter</cite> or an issuer breaches an obligation not covered in subsection (a) or (b), a person to whom the obligation is owed may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach. To the extent of the confirmation, a confirmer has the liability of an issuer specified in this subsection and subsections (a) and (b).</text>
+        <text>If an adviser or nominated person other than a confirmer breaches an obligation under <cite path="24.30">this chapter</cite> or an issuer breaches an obligation not covered in subsection (a) or (b), a person to whom the obligation is owed may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach. To the extent of the confirmation, a confirmer has the liability of an issuer specified in this subsection and subsections (a) and (b).</text>
       </para>
       <para>
         <num>(d)</num>
@@ -10262,11 +10262,11 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Reasonable attorney's fees and other expenses of litigation must be awarded to the prevailing party in an action in which a remedy is sought under <cite path="24|24.30">this chapter</cite>.</text>
+        <text>Reasonable attorney's fees and other expenses of litigation must be awarded to the prevailing party in an action in which a remedy is sought under <cite path="24.30">this chapter</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Damages that would otherwise be payable by a party for breach of an obligation under <cite path="24|24.30">this chapter</cite> may be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of the harm anticipated.</text>
+        <text>Damages that would otherwise be payable by a party for breach of an obligation under <cite path="24.30">this chapter</cite> may be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of the harm anticipated.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -10354,7 +10354,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Neither the rights recognized by <cite path="§24.30.140">this section</cite> between an assignee and an issuer, transferee beneficiary, or nominated person nor the issuer's or nominated person's payment of proceeds to an assignee or a third person affect the rights between the assignee and any person other than the issuer, transferee beneficiary, or nominated person. The mode of creating and perfecting a security interest in or granting an assignment of a beneficiary's rights to proceeds is governed by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or other law. Against persons other than the issuer, transferee beneficiary, or nominated person, the rights and obligations arising upon the creation of a security interest or other assignment of a beneficiary's right to proceeds and its perfection are governed by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or other law.</text>
+        <text>Neither the rights recognized by <cite path="§24.30.140">this section</cite> between an assignee and an issuer, transferee beneficiary, or nominated person nor the issuer's or nominated person's payment of proceeds to an assignee or a third person affect the rights between the assignee and any person other than the issuer, transferee beneficiary, or nominated person. The mode of creating and perfecting a security interest in or granting an assignment of a beneficiary's rights to proceeds is governed by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or other law. Against persons other than the issuer, transferee beneficiary, or nominated person, the rights and obligations arising upon the creation of a security interest or other assignment of a beneficiary's right to proceeds and its perfection are governed by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or other law.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -10364,7 +10364,7 @@
     <section>
       <num>24.30.150</num>
       <heading>Statute of Limitations</heading>
-      <text>An action to enforce a right or obligation arising under <cite path="24|24.30">this chapter</cite> must be commenced within one year after the expiration date of the relevant letter of credit or one year after the claim for relief accrues, whichever occurs later. A claim for relief accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.</text>
+      <text>An action to enforce a right or obligation arising under <cite path="24.30">this chapter</cite> must be commenced within one year after the expiration date of the relevant letter of credit or one year after the claim for relief accrues, whichever occurs later. A claim for relief accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.30.150 was formerly codified as 24.3015</annotation>
@@ -10386,7 +10386,7 @@
         <text>Except as otherwise provided in this subsection, the liability of an issuer, nominated person, or adviser is governed by any rules of custom or practice, such as the uniform customs and practice for documentary credits, to which the letter of credit, confirmation, or other undertaking is expressly made subject. If:</text>
         <para>
           <num>(1)</num>
-          <text><cite path="24|24.30">This chapter</cite> would govern the liability of an issuer, nominated person, or adviser under subsection (a) or (b);</text>
+          <text><cite path="24.30">This chapter</cite> would govern the liability of an issuer, nominated person, or adviser under subsection (a) or (b);</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10394,16 +10394,16 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>There is conflict between <cite path="24|24.30">this chapter</cite> and those rules as applied to that undertaking, those rules govern except to the extent of any conflict with the nonvariable provisions specified in subsection (c) of <cite path="§24.30.030">Section 24.30.030</cite>.</text>
+          <text>There is conflict between <cite path="24.30">this chapter</cite> and those rules as applied to that undertaking, those rules govern except to the extent of any conflict with the nonvariable provisions specified in subsection (c) of <cite path="§24.30.030">Section 24.30.030</cite>.</text>
         </para>
       </para>
       <para>
         <num>(d)</num>
-        <text>If there is conflict between <cite path="24|24.30">this chapter</cite> and <cite path="24|24.14">Chapter 24.14</cite> – <cite path="24|24.19">Chapter 24.19</cite>, <cite path="24|24.20">Chapter 24.20</cite> – <cite path="24|24.24">Chapter 24.24</cite>, <cite path="24|24.25">Chapter 24.25</cite> – <cite path="24|24.29">Chapter 24.29</cite>, or <cite path="24|24.42">Chapter 24.42</cite> - <cite path="24|24.48">Chapter 24.48</cite>, <cite path="24|24.30">this chapter</cite> governs.</text>
+        <text>If there is conflict between <cite path="24.30">this chapter</cite> and <cite path="24.14">Chapter 24.14</cite> – <cite path="24.19">Chapter 24.19</cite>, <cite path="24.20">Chapter 24.20</cite> – <cite path="24.24">Chapter 24.24</cite>, <cite path="24.25">Chapter 24.25</cite> – <cite path="24.29">Chapter 24.29</cite>, or <cite path="24.42">Chapter 24.42</cite> - <cite path="24.48">Chapter 24.48</cite>, <cite path="24.30">this chapter</cite> governs.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>The forum for settling disputes arising out of an undertaking within <cite path="24|24.30">this chapter</cite> may be chosen in the manner and with the binding effect that governing law may be chosen in accordance with subsection (a).</text>
+        <text>The forum for settling disputes arising out of an undertaking within <cite path="24.30">this chapter</cite> may be chosen in the manner and with the binding effect that governing law may be chosen in accordance with subsection (a).</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -10455,7 +10455,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>So long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection (a), the security interest continues and is subject to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, but:</text>
+        <text>So long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection (a), the security interest continues and is subject to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, but:</text>
         <para>
           <num>(1)</num>
           <text>A security agreement is not necessary to make the security interest enforceable under subdivision (3) of subsection (b) of <cite path="§24.43.030">Section 24.43.030</cite>;</text>
@@ -10487,7 +10487,7 @@
     <section>
       <num>24.32.010</num>
       <heading>Short Title</heading>
-      <text><cite path="24|24.32">This chapter</cite> shall be known and may be cited as Turtle Mountain Band of Chippewa Indians Commercial Code: Documents of Title.</text>
+      <text><cite path="24.32">This chapter</cite> shall be known and may be cited as Turtle Mountain Band of Chippewa Indians Commercial Code: Documents of Title.</text>
       <annotations>
         <annotation type="Prior Codifications">§24.32.010 was formerly codified as 24.3201</annotation>
       </annotations>
@@ -10586,7 +10586,7 @@
     <section>
       <num>24.32.050</num>
       <heading>Construction Against Negative Implication</heading>
-      <text>The omission from either <cite path="§24.32.020">Section 24.32.020</cite> or <cite path="§24.32.030">Section 24.32.030</cite> of <cite path="24|24.32">this chapter</cite> of a provision corresponding to a provision made in the other part does not imply that a corresponding rule of law is not applicable.</text>
+      <text>The omission from either <cite path="§24.32.020">Section 24.32.020</cite> or <cite path="§24.32.030">Section 24.32.030</cite> of <cite path="24.32">this chapter</cite> of a provision corresponding to a provision made in the other part does not imply that a corresponding rule of law is not applicable.</text>
       <annotations>
         <annotation type="Prior Codifications">§24.32.050 was formerly codified as 24.3205</annotation>
       </annotations>
@@ -11326,7 +11326,7 @@
     <section>
       <num>24.36.090</num>
       <heading>Receipt or Bill- When Adequate Compliance with Commercial Contract</heading>
-      <text>The question whether a document is adequate to fulfill the obligations of a contract for sale or the conditions of a credit is governed by the articles on sales (<cite path="§24.43.030">Section 24.43.030</cite>) and on letters of credit (<cite path="24|24.30">Chapter 24.30</cite>).</text>
+      <text>The question whether a document is adequate to fulfill the obligations of a contract for sale or the conditions of a credit is governed by the articles on sales (<cite path="§24.43.030">Section 24.43.030</cite>) and on letters of credit (<cite path="24.30">Chapter 24.30</cite>).</text>
       <annotations>
         <annotation type="Prior Codifications">§24.36.090 was formerly codified as 24.3609</annotation>
       </annotations>
@@ -11481,8 +11481,8 @@
         <text>"Intermediary Bank." <cite path="§24.20.050|(d)">Section 24.20.050(d)</cite>.</text>
         <text>"Issuer." <cite path="§24.39.010">Section 24.39.010</cite>.</text>
         <text>"Over issue." <cite path="§24.38.040|(b)">Section 24.38.040(b)</cite>.</text>
-        <text>"Secured Party." <cite path="24|24.42|24.4205|(1)|(xxx)">Section 24.4205(1)(l)</cite>.</text>
-        <text>"Security Agreement." <cite path="24|24.42|24.4205|(1)|(yyy)">Section 24.4205(1)(m)</cite>.</text>
+        <text>"Secured Party." <cite path="24.42|24.4205|(1)|(xxx)">Section 24.4205(1)(l)</cite>.</text>
+        <text>"Security Agreement." <cite path="24.42|24.4205|(1)|(yyy)">Section 24.4205(1)(m)</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -12639,7 +12639,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>A transfer or pledge under <cite path="§24.40.200">this section</cite> is not a registration of transfer under <cite path="24|24.41">Chapter 24.41</cite>.</text>
+        <text>A transfer or pledge under <cite path="§24.40.200">this section</cite> is not a registration of transfer under <cite path="24.41">Chapter 24.41</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -12714,7 +12714,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>any applicable law relating to the collection of taxes has been complied with. However, if spouses own stock as joint tenants with rights of survivorship and a joint tenant spouse dies, the stock ownership may be transferred to the surviving spouse without a department of revenue waiver to transfer pursuant to <cite path="24|24.10">Chapter 24.10</cite>, by mailing to the department of revenue and the issuer of the stock a certified copy of the death certificate; and</text>
+          <text>any applicable law relating to the collection of taxes has been complied with. However, if spouses own stock as joint tenants with rights of survivorship and a joint tenant spouse dies, the stock ownership may be transferred to the surviving spouse without a department of revenue waiver to transfer pursuant to <cite path="24.10">Chapter 24.10</cite>, by mailing to the department of revenue and the issuer of the stock a certified copy of the death certificate; and</text>
         </para>
         <para>
           <num>(5)</num>
@@ -13055,7 +13055,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>a notation of any liens and restrictions of the issuer and any adverse claims (as to which the issuer has a duty under <cite path="24|24.42|24.4205|(l)">Section 24.4205(l)</cite> to which the uncertificated security is or may be subject at the time of registration or a statement that there are none of those liens, restrictions, or adverse claims; and</text>
+          <text>a notation of any liens and restrictions of the issuer and any adverse claims (as to which the issuer has a duty under <cite path="24.42|24.4205|(l)">Section 24.4205(l)</cite> to which the uncertificated security is or may be subject at the time of registration or a statement that there are none of those liens, restrictions, or adverse claims; and</text>
         </para>
         <para>
           <num>(5)</num>
@@ -13194,7 +13194,7 @@
     <section>
       <num>24.42.010</num>
       <heading>Short Title</heading>
-      <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> may be cited as Uniform Commercial Code - Secured Transactions.</text>
+      <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> may be cited as Uniform Commercial Code - Secured Transactions.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.42.010 was formerly codified as 24.4201</annotation>
@@ -13205,7 +13205,7 @@
       <heading>Definitions and Index of Definitions</heading>
       <para>
         <num>(a)</num>
-        <text>In <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>:</text>
+        <text>In <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>:</text>
         <para>
           <num>(1)</num>
           <text>"Accession" means goods that are physically united with other goods in such a manner that the identity of the original goods is not lost.</text>
@@ -13331,7 +13331,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>Of which the effectiveness does not depend on the person's    possession of the personal property.</text>
+            <text>Of which the effectiveness does not depend on the person's possession of the personal property.</text>
           </para>
         </para>
         <para>
@@ -13592,7 +13592,7 @@
         </para>
         <para>
           <num>(33)</num>
-          <text>"Electronic chattel paper" means chattel paper evidenced by a record consisting   of information stored in an electronic medium.</text>
+          <text>"Electronic chattel paper" means chattel paper evidenced by a record consisting of information stored in an electronic medium.</text>
         </para>
         <para>
           <num>(34)</num>
@@ -13641,7 +13641,7 @@
         </para>
         <para>
           <num>(39)</num>
-          <text>"Filing office" means an office designated in <cite path="24|24.42|24.4272">section 24.4272</cite> as the place to file a financing statement.</text>
+          <text>"Filing office" means an office designated in <cite path="24.42|24.4272">section 24.4272</cite> as the place to file a financing statement.</text>
         </para>
         <para>
           <num>(40)</num>
@@ -13653,7 +13653,7 @@
         </para>
         <para>
           <num>(42)</num>
-          <text>"Fixture filing" means the filing of a financing statement covering goods that are   or are to become fixtures and satisfying subsections (a) and (b) of <cite path="§24.46.010">Section 24.46.010</cite>. The term includes the filing of a financing statement covering goods of a transmitting utility which are or are to become fixtures.</text>
+          <text>"Fixture filing" means the filing of a financing statement covering goods that are or are to become fixtures and satisfying subsections (a) and (b) of <cite path="§24.46.010">Section 24.46.010</cite>. The term includes the filing of a financing statement covering goods of a transmitting utility which are or are to become fixtures.</text>
         </para>
         <para>
           <num>(43)</num>
@@ -13838,7 +13838,7 @@
         </para>
         <para>
           <num>(61)</num>
-          <text>"Non-negotiable certificate of deposit" means a bank record that     contains an acknowledgment that a sum of money has been received by the issuer and a promise by the issuer to repay the sum of money other than a deposit account or negotiable instrument.</text>
+          <text>"Non-negotiable certificate of deposit" means a bank record that contains an acknowledgment that a sum of money has been received by the issuer and a promise by the issuer to repay the sum of money other than a deposit account or negotiable instrument.</text>
         </para>
         <para>
           <num>(62)</num>
@@ -14084,7 +14084,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Control" as provided under <cite path="24|24.32|24.3207">section 24.3207</cite> and the following definitions in other chapters apply to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>:</text>
+        <text>"Control" as provided under <cite path="24.32|24.3207">section 24.3207</cite> and the following definitions in other chapters apply to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>:</text>
         <para>
           <num>(1)</num>
           <text>"Applicant". <cite path="§24.30.020">Section 24.30.020</cite>,</text>
@@ -14232,7 +14232,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="24|24.01">Chapter 24.01</cite> contains general definitions and principles of construction and interpretation applicable throughout <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text><cite path="24.01">Chapter 24.01</cite> contains general definitions and principles of construction and interpretation applicable throughout <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -14513,7 +14513,7 @@
       <heading>Scope</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided in subsections (c) and (d), <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> apply to:</text>
+        <text>Except as otherwise provided in subsections (c) and (d), <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> apply to:</text>
         <para>
           <num>(1)</num>
           <text>A transaction, regardless of its form, that creates a security interest in personal property or fixtures by contract;</text>
@@ -14537,7 +14537,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as provided in subsection (a), the application of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not apply.</text>
+        <text>Except as provided in subsection (a), the application of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not apply.</text>
         <para>
           <num>(1)</num>
           <text>An unrecorded conveyance of real estate is void as against any subsequent purchaser in good faith, and for a valuable consideration, of the same real estate or any part of the same real estate, regardless of whether recorded in the form of a warranty deed or deed of quitclaim and release or the form in common use first is recorded or as against an attachment on the property or judgment, against the owner of record, before the recording of the conveyance.  The fact that the first recorded conveyance is a quitclaim deed does not affect the question of good faith of the subsequent purchaser, or be of itself notice of any unrecorded conveyance of the same real estate or any part of the same real estate.  This subsection is notice to all who claim under unrecorded instruments that prior recording of later instruments may nullify their title to or lien on affected real property.  An action affecting any title to or lien on real property may not be commenced or defense or counterclaim asserted on the ground that a recorded instrument was not entitled to be recorded.  The record of all instruments whether or not entitled to be recorded is deemed valid and sufficient as the legal record of the instruments. (NOTE: this is ND Cen Code 47-19-41, which was directly referenced in Chapter 9 of the ND UCC)</text>
@@ -14545,10 +14545,10 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not apply to the extent that:</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not apply to the extent that:</text>
         <para>
           <num>(1)</num>
-          <text>An applicable statute, regulation, or treaty of the United States preempts <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>;</text>
+          <text>An applicable statute, regulation, or treaty of the United States preempts <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -14561,7 +14561,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not apply to:</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not apply to:</text>
         <para>
           <num>(1)</num>
           <text>A landlord's lien, other than an agricultural lien;</text>
@@ -14623,7 +14623,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>Fixture filings in <cite path="24|24.45|24.4570">section 24.4570</cite>, <cite path="§24.46.010">Section 24.46.010</cite>, <cite path="§24.46.150">Section 24.46.150</cite>, and <cite path="§24.46.180">Section 24.46.180</cite>; and</text>
+            <text>Fixture filings in <cite path="24.45|24.4570">section 24.4570</cite>, <cite path="§24.46.010">Section 24.46.010</cite>, <cite path="§24.46.150">Section 24.46.150</cite>, and <cite path="§24.46.180">Section 24.46.180</cite>; and</text>
           </para>
           <para>
             <num>(D)</num>
@@ -14647,7 +14647,7 @@
     <section>
       <num>24.42.100</num>
       <heading>Security Interests Arising Under Chapter 24.02-24.08 or 24.09-24.13</heading>
-      <text>A security interest arising under <cite path="§24.05.010">Section 24.05.010</cite>, <cite path="§24.06.050">Section 24.06.050</cite>, subsection (c) of <cite path="§24.08.110">Section 24.08.110</cite>, or subsection (e) of <cite path="§24.13.080">Section 24.13.080</cite> is subject to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. However, until the debtor obtains possession of the goods:</text>
+      <text>A security interest arising under <cite path="§24.05.010">Section 24.05.010</cite>, <cite path="§24.06.050">Section 24.06.050</cite>, subsection (c) of <cite path="§24.08.110">Section 24.08.110</cite>, or subsection (e) of <cite path="§24.13.080">Section 24.13.080</cite> is subject to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. However, until the debtor obtains possession of the goods:</text>
       <para>
         <num>(a)</num>
         <text>The security interest is enforceable, even if subdivision (3) of subsection (b) of <cite path="§24.43.030">Section 24.43.030</cite> has not been satisfied;</text>
@@ -14686,7 +14686,7 @@
     <section>
       <num>24.43.020</num>
       <heading>Title to Collateral Immaterial</heading>
-      <text>Except as otherwise provided with respect to consignments or sales of accounts, chattel paper, payment intangibles, or promissory notes, the provisions of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> with regard to rights and obligations apply whether title to collateral is in the secured party or the debtor.</text>
+      <text>Except as otherwise provided with respect to consignments or sales of accounts, chattel paper, payment intangibles, or promissory notes, the provisions of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> with regard to rights and obligations apply whether title to collateral is in the secured party or the debtor.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.43.020 was formerly codified as 24.4212</annotation>
@@ -14708,7 +14708,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The debtor has rights in the collateral or the power to transfer    rights in the collateral to a secured party; and</text>
+          <text>The debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -14727,17 +14727,17 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights, electronic documents, or uncertificated certificates of deposit, and the secured party has control under <cite path="24|24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> pursuant to the debtor's security agreement.</text>
+            <text>The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights, electronic documents, or uncertificated certificates of deposit, and the secured party has control under <cite path="24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> pursuant to the debtor's security agreement.</text>
           </para>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>Subsection (b) is subject to <cite path="24|24.41|24.2110">section 24.4110</cite> on the security interest of a collecting bank, <cite path="§24.30.180">Section 24.30.180</cite> (as amended) on the security interest of a letter-of-credit issuer or nominated person, <cite path="§24.42.100">Section 24.42.100</cite> on a security interest arising under <cite path="24|24.02">Chapter 24.02</cite> – <cite path="24|24.08">Chapter 24.08</cite> or <cite path="24|24.09">Chapter 24.09</cite> – <cite path="24|24.13">Chapter 24.13</cite>, and <cite path="§24.43.060">Section 24.43.060</cite> on security interests in investment property.</text>
+        <text>Subsection (b) is subject to <cite path="24.41|24.2110">section 24.4110</cite> on the security interest of a collecting bank, <cite path="§24.30.180">Section 24.30.180</cite> (as amended) on the security interest of a letter-of-credit issuer or nominated person, <cite path="§24.42.100">Section 24.42.100</cite> on a security interest arising under <cite path="24.02">Chapter 24.02</cite> – <cite path="24.08">Chapter 24.08</cite> or <cite path="24.09">Chapter 24.09</cite> – <cite path="24.13">Chapter 24.13</cite>, and <cite path="§24.43.060">Section 24.43.060</cite> on security interests in investment property.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>A person becomes bound as debtor by a security agreement entered into by another person if, by operation of law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or by contract:</text>
+        <text>A person becomes bound as debtor by a security agreement entered into by another person if, by operation of law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or by contract:</text>
         <para>
           <num>(1)</num>
           <text>The security agreement becomes effective to create a security interest in the person's property; or</text>
@@ -14941,7 +14941,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Except as otherwise provided in subsection (d), a secured party having possession of collateral or control of collateral under <cite path="24|24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite>:</text>
+        <text>Except as otherwise provided in subsection (d), a secured party having possession of collateral or control of collateral under <cite path="24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite>:</text>
         <para>
           <num>(1)</num>
           <text>May hold as additional security any proceeds, except money or funds, received from the collateral;</text>
@@ -15142,8 +15142,8 @@
           <num>(2)</num>
           <text>If known to the recipient, providing the name and mailing address of any assignee of or successor to the recipient's interest in the obligations.</text>
         </para>
-        <text>A debtor is entitled without charge to one response to a request under <cite path="§24.43.100">this section</cite> during any six-month period. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response</text>
       </para>
+      <aftertext>A debtor is entitled without charge to one response to a request under <cite path="§24.43.100">this section</cite> during any six-month period. The secured party may require payment of a charge not exceeding twenty-five dollars for each additional response</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.43.100 was formerly codified as 24.4220</annotation>
@@ -15181,8 +15181,8 @@
           <num>(3)</num>
           <text>The effect of perfection or non-perfection and the priority of a nonpossessory security interest in the collateral.</text>
         </para>
-        <text>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in as-extracted collateral.</text>
       </para>
+      <aftertext>The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in as-extracted collateral.</aftertext>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.44.010 was formerly codified as 24.4221</annotation>
@@ -15229,7 +15229,7 @@
         <text>The following rules determine a bank's jurisdiction for purposes of this part:</text>
         <para>
           <num>(1)</num>
-          <text>If an agreement between the bank and its customer governing the deposit account or certificate of deposit expressly provides that a particular jurisdiction is the bank's jurisdiction for purposes of this part, <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, or <cite path="24">this title</cite>, that jurisdiction is the bank's jurisdiction.</text>
+          <text>If an agreement between the bank and its customer governing the deposit account or certificate of deposit expressly provides that a particular jurisdiction is the bank's jurisdiction for purposes of this part, <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, or <cite path="24">this title</cite>, that jurisdiction is the bank's jurisdiction.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -15265,11 +15265,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The local law of the issuer's jurisdiction as specified in subsection (d) of <cite path="24|24.38|24.3810">section 24.3810</cite> governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in an uncertificated security.</text>
+          <text>The local law of the issuer's jurisdiction as specified in subsection (d) of <cite path="24.38|24.3810">section 24.3810</cite> governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in an uncertificated security.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The local law of the securities intermediary's jurisdiction as specified in subsection (d) of <cite path="24|24.38|24.3810">section 24.3810</cite> governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in a security entitlement or securities account.</text>
+          <text>The local law of the securities intermediary's jurisdiction as specified in subsection (d) of <cite path="24.38|24.3810">section 24.3810</cite> governs perfection, the effect of perfection or non-perfection, and the priority of a security interest in a security entitlement or securities account.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -15281,7 +15281,7 @@
         <text>The following rules determine a commodity intermediary's jurisdiction for purposes of <cite path="§24.44.010">Section 24.44.010</cite> through <cite path="§24.44.420">Section 24.44.420</cite>:</text>
         <para>
           <num>(1)</num>
-          <text>If an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that a particular jurisdiction is the commodity intermediary's jurisdiction for purposes of <cite path="§24.44.010">Section 24.44.010</cite> through <cite path="§24.44.420">Section 24.44.420</cite>, <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, or <cite path="24">this title</cite>, that jurisdiction is the commodity intermediary's jurisdiction.</text>
+          <text>If an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that a particular jurisdiction is the commodity intermediary's jurisdiction for purposes of <cite path="§24.44.010">Section 24.44.010</cite> through <cite path="§24.44.420">Section 24.44.420</cite>, <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, or <cite path="24">this title</cite>, that jurisdiction is the commodity intermediary's jurisdiction.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -15330,7 +15330,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>For purposes of this part, an issuer's jurisdiction or nominated person's jurisdiction is the jurisdiction whose law governs the liability of the issuer or nominated person with respect to the letter-of-credit right as provided in <cite path="24|24.30|24.3026">section 24.3026</cite>.</text>
+        <text>For purposes of this part, an issuer's jurisdiction or nominated person's jurisdiction is the jurisdiction whose law governs the liability of the issuer or nominated person with respect to the letter-of-credit right as provided in <cite path="24.30|24.3026">section 24.3026</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -15438,7 +15438,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A security interest or agricultural lien is perfected continuously if it is originally perfected by one method under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> and is later perfected by another method under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, without an intermediate period when it was unperfected.</text>
+        <text>A security interest or agricultural lien is perfected continuously if it is originally perfected by one method under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> and is later perfected by another method under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, without an intermediate period when it was unperfected.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -15579,7 +15579,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If a secured party assigns a perfected security interest or agricultural lien, a filing under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> is not required to continue the perfected status of the security interest against creditors of and transferees from the original debtor.</text>
+        <text>If a secured party assigns a perfected security interest or agricultural lien, a filing under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> is not required to continue the perfected status of the security interest against creditors of and transferees from the original debtor.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -15603,11 +15603,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Compliance with the requirements of a statute, regulation, or treaty described in subsection (a) for obtaining priority over the rights of a lien creditor is equivalent to the filing of a financing statement under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. Except as otherwise provided in subsection 4 and <cite path="§24.44.130">Section 24.44.130</cite> and subsections (d) and € of <cite path="§24.44.160">Section 24.44.160</cite> for goods covered by a certificate of title, a security interest in property subject to a statute, regulation, or treaty described in subsection 1 may be perfected only by compliance with those requirements, and a security interest so perfected remains perfected notwithstanding a change in the use or transfer of possession of the collateral.</text>
+        <text>Compliance with the requirements of a statute, regulation, or treaty described in subsection (a) for obtaining priority over the rights of a lien creditor is equivalent to the filing of a financing statement under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. Except as otherwise provided in subsection 4 and <cite path="§24.44.130">Section 24.44.130</cite> and subsections (d) and € of <cite path="§24.44.160">Section 24.44.160</cite> for goods covered by a certificate of title, a security interest in property subject to a statute, regulation, or treaty described in subsection 1 may be perfected only by compliance with those requirements, and a security interest so perfected remains perfected notwithstanding a change in the use or transfer of possession of the collateral.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Except as otherwise provided in subsection (d) and subsections (d) and (e) of <cite path="§24.44.160">Section 24.44.160</cite>, duration and renewal of perfection of a security interest perfected by compliance with the requirements prescribed by a statute, regulation, or treaty described in subsection 1 are governed by the statute, regulation, or treaty. In other respects, the security interest is subject to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>Except as otherwise provided in subsection (d) and subsections (d) and (e) of <cite path="§24.44.160">Section 24.44.160</cite>, duration and renewal of perfection of a security interest perfected by compliance with the requirements prescribed by a statute, regulation, or treaty described in subsection 1 are governed by the statute, regulation, or treaty. In other respects, the security interest is subject to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -15699,7 +15699,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>After the twenty-day period specified in subsection (e), (f), or (g) expires, perfection depends upon compliance with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>After the twenty-day period specified in subsection (e), (f), or (g) expires, perfection depends upon compliance with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -15750,7 +15750,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Unless the person otherwise agrees or law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> otherwise provides, the person does not owe any duty to the secured party and is not required to confirm the acknowledgment to another person.</text>
+          <text>Unless the person otherwise agrees or law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> otherwise provides, the person does not owe any duty to the secured party and is not required to confirm the acknowledgment to another person.</text>
         </para>
       </para>
       <para>
@@ -15767,7 +15767,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>A secured party does not relinquish possession, even if a delivery under subsection (h) violates the rights of a debtor. A person to which collateral is delivered under subsection (h) does not owe any duty to the secured party and is not required to confirm the delivery to another person unless the person otherwise agrees or law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> otherwise provides.</text>
+        <text>A secured party does not relinquish possession, even if a delivery under subsection (h) violates the rights of a debtor. A person to which collateral is delivered under subsection (h) does not owe any duty to the secured party and is not required to confirm the delivery to another person unless the person otherwise agrees or law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> otherwise provides.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -15779,11 +15779,11 @@
       <heading>Perfection by Control</heading>
       <para>
         <num>(a)</num>
-        <text>A security interest in investment property, deposit accounts, uncertificated certificates of deposit, letter-of-credit rights, electronic chattel paper, or electronic documents may be perfected by control of the collateral under <cite path="24|24.32|24.3207">section 24.3207</cite>, section 24,4204, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite>.</text>
+        <text>A security interest in investment property, deposit accounts, uncertificated certificates of deposit, letter-of-credit rights, electronic chattel paper, or electronic documents may be perfected by control of the collateral under <cite path="24.32|24.3207">section 24.3207</cite>, section 24,4204, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>A security interest in deposit accounts, electronic chattel paper, letter-of-credit rights, electronic documents, or uncertificated certificates of deposit is perfected by control under <cite path="24|24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> when the secured party obtains control and remains perfected by control only while the secured party retains control.</text>
+        <text>A security interest in deposit accounts, electronic chattel paper, letter-of-credit rights, electronic documents, or uncertificated certificates of deposit is perfected by control under <cite path="24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> when the secured party obtains control and remains perfected by control only while the secured party retains control.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -15803,8 +15803,8 @@
             <num>(B)</num>
             <text>If the collateral is an uncertificated security, the issuer has registered or registers the debtor as the registered owner; or</text>
           </para>
-          <text>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder</text>
         </para>
+        <aftertext>If the collateral is a security entitlement, the debtor is or becomes the entitlement holder</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -15816,7 +15816,7 @@
       <heading>Secured Party's Rights on Disposition of Collateral and in Proceeds</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> and in subsection (b) of <cite path="§24.05.030">Section 24.05.030</cite>:</text>
+        <text>Except as otherwise provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> and in subsection (b) of <cite path="§24.05.030">Section 24.05.030</cite>:</text>
         <para>
           <num>(1)</num>
           <text>A security interest or agricultural lien continues in collateral notwithstanding sale, lease, license, exchange, or other disposition thereof unless the secured party authorized the disposition free of the security interest or agricultural lien; and</text>
@@ -15835,7 +15835,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If the proceeds are not goods, to the extent that the secured party identifies the proceeds by a method of tracing, including application of equitable principles, that is permitted under law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> with respect to commingled property of the type involved.</text>
+          <text>If the proceeds are not goods, to the extent that the secured party identifies the proceeds by a method of tracing, including application of equitable principles, that is permitted under law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> with respect to commingled property of the type involved.</text>
         </para>
       </para>
       <para>
@@ -15979,7 +15979,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A security interest that is perfected by the financing statement and which becomes perfected under the law of the other jurisdiction before the earlier of the expiration of the four-month period or the time the financing statement would have become ineffective under the law of the jurisdiction designated in subsection (a) of <cite path="24|24.24|24.2421">section 24.2421</cite> or subsection (c) of <cite path="24|24.42|24.42425">section 24.42425</cite> remains perfected thereafter. A security interest that is perfected by the financing statement but which does not become perfected under the law of the other jurisdiction before the earlier time or event becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.</text>
+          <text>A security interest that is perfected by the financing statement and which becomes perfected under the law of the other jurisdiction before the earlier of the expiration of the four-month period or the time the financing statement would have become ineffective under the law of the jurisdiction designated in subsection (a) of <cite path="24.24|24.2421">section 24.2421</cite> or subsection (c) of <cite path="24.42|24.42425">section 24.42425</cite> remains perfected thereafter. A security interest that is perfected by the financing statement but which does not become perfected under the law of the other jurisdiction before the earlier time or event becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.</text>
         </para>
       </para>
       <annotations>
@@ -16056,7 +16056,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>For purposes of determining the rights of a creditor of a consignee, law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> determines the rights and title of a consignee while goods are in the consignee's possession if, under this part, a perfected security interest held by the consignor would have priority over the rights of the creditor.</text>
+        <text>For purposes of determining the rights of a creditor of a consignee, law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> determines the rights and title of a consignee while goods are in the consignee's possession if, under this part, a perfected security interest held by the consignor would have priority over the rights of the creditor.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -16263,7 +16263,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><cite path="§24.42.100">Section 24.42.100</cite> with respect to a security interest arising under <cite path="24|24.02">Chapter 24.02</cite> – <cite path="24|24.08">Chapter 24.08</cite> or <cite path="24|24.09">Chapter 24.09</cite> – <cite path="24|24.14">Chapter 24.14</cite>.</text>
+          <text><cite path="§24.42.100">Section 24.42.100</cite> with respect to a security interest arising under <cite path="24.02">Chapter 24.02</cite> – <cite path="24.08">Chapter 24.08</cite> or <cite path="24.09">Chapter 24.09</cite> – <cite path="24.14">Chapter 24.14</cite>.</text>
         </para>
       </para>
       <para>
@@ -16484,7 +16484,7 @@
       <heading>Priority of Security Interests Created by New Debtor</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to subsection (b), a security interest that is created by a new debtor in collateral in which the new debtor has or acquired rights and perfected by a filed financing statement that would be ineffective to perfect the security interest but for the application of <cite path="§24.46.070">Section 24.46.070</cite> or of <cite path="§24.46.070">Section 24.46.070</cite>  and  subdivision (1)  of subsection (i) of <cite path="§24.44.160">Section 24.44.160</cite> is subordinate to a security interest in the same collateral which is perfected other than by such a filed financing statement.</text>
+        <text>Subject to subsection (b), a security interest that is created by a new debtor in collateral in which the new debtor has or acquired rights and perfected by a filed financing statement that would be ineffective to perfect the security interest but for the application of <cite path="§24.46.070">Section 24.46.070</cite> or of <cite path="§24.46.070">Section 24.46.070</cite>  and subdivision (1)  of subsection (i) of <cite path="§24.44.160">Section 24.44.160</cite> is subordinate to a security interest in the same collateral which is perfected other than by such a filed financing statement.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -16651,15 +16651,15 @@
       <heading>Priority of Rights of Purchasers of Instruments, Documents, and Securities Under Other Articles - Priority of Interests in Financial Assets and Security Entitlements Under Section 24.38-24.41</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not limit the rights of a holder in due course of a negotiable instrument, a holder to which a negotiable document of title has been duly negotiated-19, or a protected purchaser of a security. These holders or purchasers take priority over an earlier security interest, even if perfected, to the extent provided in <cite path="24|24.14">Chapter 24.14</cite> – <cite path="24|24.19">Chapter 24.19</cite>, <cite path="24|24.32">Chapter 24.32</cite> – <cite path="24|24.37">Chapter 24.37</cite>, and <cite path="24|24.38">Chapter 24.38</cite> – <cite path="24|24.41">Chapter 24.41</cite>.</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not limit the rights of a holder in due course of a negotiable instrument, a holder to which a negotiable document of title has been duly negotiated-19, or a protected purchaser of a security. These holders or purchasers take priority over an earlier security interest, even if perfected, to the extent provided in <cite path="24.14">Chapter 24.14</cite> – <cite path="24.19">Chapter 24.19</cite>, <cite path="24.32">Chapter 24.32</cite> – <cite path="24.37">Chapter 24.37</cite>, and <cite path="24.38">Chapter 24.38</cite> – <cite path="24.41">Chapter 24.41</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not limit the rights of or impose liability on a person to the extent that the person is protected against the assertion of a claim under chapter 41-08.</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not limit the rights of or impose liability on a person to the extent that the person is protected against the assertion of a claim under chapter 41-08.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Filing under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> does not constitute notice of a claim or defense to the holders, purchasers, or persons described in subsections (a) and (b).</text>
+        <text>Filing under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> does not constitute notice of a claim or defense to the holders, purchasers, or persons described in subsections (a) and (b).</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -16715,11 +16715,11 @@
       <heading>Priority of Security Interests in Fixtures and Crops</heading>
       <para>
         <num>(a)</num>
-        <text>A security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> may be created in goods that are fixtures or may continue in goods that become fixtures. A security interest does not exist under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> in ordinary building materials incorporated into an improvement on land.</text>
+        <text>A security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> may be created in goods that are fixtures or may continue in goods that become fixtures. A security interest does not exist under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> in ordinary building materials incorporated into an improvement on land.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not prevent creation of an encumbrance upon fixtures under real-property law.</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not prevent creation of an encumbrance upon fixtures under real-property law.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -16758,7 +16758,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Before the goods become fixtures, the security interest is perfected by any method permitted by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> and the fixtures are readily removable:</text>
+          <text>Before the goods become fixtures, the security interest is perfected by any method permitted by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> and the fixtures are readily removable:</text>
           <para>
             <num>(A)</num>
             <text>Factory or office machines;</text>
@@ -16774,7 +16774,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The conflicting interest is a lien on the real property obtained by legal or equitable proceedings after the security interest was perfected by any method permitted by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>; or</text>
+          <text>The conflicting interest is a lien on the real property obtained by legal or equitable proceedings after the security interest was perfected by any method permitted by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>; or</text>
         </para>
         <para>
           <num>(4)</num>
@@ -16927,7 +16927,7 @@
     <section>
       <num>24.44.390</num>
       <heading>Priority Subject to Subordination</heading>
-      <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not preclude subordination by agreement by a person entitled to priority.</text>
+      <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not preclude subordination by agreement by a person entitled to priority.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.44.390 was formerly codified as 24.4259</annotation>
@@ -16942,7 +16942,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as otherwise provided in subsection (c), the application of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> to a security interest in a deposit account or certificate of deposit does not affect a right of recoupment or setoff of the secured party as to a deposit account or certificate of deposit maintained with the secured party.</text>
+        <text>Except as otherwise provided in subsection (c), the application of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> to a security interest in a deposit account or certificate of deposit does not affect a right of recoupment or setoff of the secured party as to a deposit account or certificate of deposit maintained with the secured party.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -16977,7 +16977,7 @@
     <section>
       <num>24.44.420</num>
       <heading>Bank's Right to Refuse to Enter into or Disclose Existence of Control Agreement</heading>
-      <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not require a bank to enter into an agreement of the kind described in subdivision (2) of subsection (a) of <cite path="§24.42.040">Section 24.42.040</cite>, even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer.</text>
+      <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not require a bank to enter into an agreement of the kind described in subdivision (2) of subsection (a) of <cite path="§24.42.040">Section 24.42.040</cite>, even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.44.420 was formerly codified as 24.4262</annotation>
@@ -16993,7 +16993,7 @@
       <heading>Alienability of Debtor's Rights</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided in subsection (b) and <cite path="§24.45.060">Section 24.45.060</cite> through <cite path="§24.45.090">Section 24.45.090</cite>, whether a debtor's rights in collateral may be voluntarily or involuntarily transferred is governed by law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>Except as otherwise provided in subsection (b) and <cite path="§24.45.060">Section 24.45.060</cite> through <cite path="§24.45.090">Section 24.45.090</cite>, whether a debtor's rights in collateral may be voluntarily or involuntarily transferred is governed by law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -17066,11 +17066,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="§24.45.040">This section</cite> is subject to law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
+        <text><cite path="§24.45.040">This section</cite> is subject to law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>In a consumer transaction, if a record evidences the account debtor's obligation, law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> requires that the record include a statement to the effect that the account debtor's recovery against an assignee with respect to claims and defenses against the assignor may not exceed amounts paid by the account debtor under the record, and the record does not include such a statement, the extent to which a claim of an account debtor against the assignor may be asserted against an assignee is determined as if the record included such a statement.</text>
+        <text>In a consumer transaction, if a record evidences the account debtor's obligation, law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> requires that the record include a statement to the effect that the account debtor's recovery against an assignee with respect to claims and defenses against the assignor may not exceed amounts paid by the account debtor under the record, and the record does not include such a statement, the extent to which a claim of an account debtor against the assignor may be asserted against an assignee is determined as if the record included such a statement.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -17102,7 +17102,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="§24.45.050">This section</cite> is subject to law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> which establish a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
+        <text><cite path="§24.45.050">This section</cite> is subject to law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> which establish a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -17129,7 +17129,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>To the extent that an agreement between an account debtor and a seller of a payment intangible limits the account debtor's duty to pay a person other than the seller and the limitation is effective under law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>; or</text>
+          <text>To the extent that an agreement between an account debtor and a seller of a payment intangible limits the account debtor's duty to pay a person other than the seller and the limitation is effective under law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -17186,7 +17186,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text><cite path="§24.45.060">This section</cite> is subject to law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> which establish a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
+        <text><cite path="§24.45.060">This section</cite> is subject to law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> which establish a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -17266,7 +17266,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>To the extent that a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health care insurance receivable or general intangible or a rule of law, statute, or regulation described in subsection (c) would be effective under law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> but is ineffective under subsection (a) or (c), the creation, attachment, or perfection of a security interest in the promissory note, health care insurance receivable, or general intangible:</text>
+        <text>To the extent that a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health care insurance receivable or general intangible or a rule of law, statute, or regulation described in subsection (c) would be effective under law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> but is ineffective under subsection (a) or (c), the creation, attachment, or perfection of a security interest in the promissory note, health care insurance receivable, or general intangible:</text>
         <para>
           <num>(1)</num>
           <text>Is not enforceable against the person obligated on the promissory note or the account debtor;</text>
@@ -17314,7 +17314,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To the extent that a term in a letter of credit is ineffective under subsection (a) but would be effective under law other than <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or a custom or practice applicable to the letter of credit, to the transfer of a right to draw or otherwise demand performance under the letter of credit, or to the assignment of a right to proceeds of the letter of credit, the creation, attachment, or perfection of a security interest in the letter-of-credit right:</text>
+        <text>To the extent that a term in a letter of credit is ineffective under subsection (a) but would be effective under law other than <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or a custom or practice applicable to the letter of credit, to the transfer of a right to draw or otherwise demand performance under the letter of credit, or to the assignment of a right to proceeds of the letter of credit, the creation, attachment, or perfection of a security interest in the letter-of-credit right:</text>
         <para>
           <num>(1)</num>
           <text>Is not enforceable against the applicant, issuer, nominated person, or transferee beneficiary;</text>
@@ -17363,7 +17363,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as otherwise provided in subsection (b) of <cite path="24|24.42|24.4272">section 24.4272</cite>, to be sufficient, a financing statement that covers as-extracted collateral or timber to be cut, or which is filed as a fixture filing and covers goods that are or are to become fixtures, must satisfy subsection (a) and also:</text>
+        <text>Except as otherwise provided in subsection (b) of <cite path="24.42|24.4272">section 24.4272</cite>, to be sufficient, a financing statement that covers as-extracted collateral or timber to be cut, or which is filed as a fixture filing and covers goods that are or are to become fixtures, must satisfy subsection (a) and also:</text>
         <para>
           <num>(1)</num>
           <text>Indicate that it covers this type of collateral;</text>
@@ -17397,7 +17397,7 @@
           <text>The record satisfies the requirements for a financing statement in <cite path="§24.46.010">this section</cite>, but:</text>
           <para>
             <num>(A)</num>
-            <text>The record need not indicate that it is to be filed in the real    property records;</text>
+            <text>The record need not indicate that it is to be filed in the real property records;</text>
           </para>
           <para>
             <num>(B)</num>
@@ -17423,7 +17423,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Any social security number or internal revenue service taxpayer identification number submitted on a financing statement filed pursuant to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as a central indexing filing is an exempt record as defined by subsection c below and may not be disclosed as part of any search   under   <cite path="§24.46.220">Section 24.46.220</cite> or <cite path="§24.46.240">Section 24.46.240</cite> or as part of a copy of the record. A filing office or an officer or employee of the filing office may not be held civilly or criminally liable for the inadvertent disclosure of a social security or internal revenue service taxpayer identification number if the filer has placed the number in an improper field on the form prescribed by the secretary of state or the filer submitted a filing other than on the form prescribed by the secretary of state.</text>
+        <text>Any social security number or internal revenue service taxpayer identification number submitted on a financing statement filed pursuant to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as a central indexing filing is an exempt record as defined by subsection c below and may not be disclosed as part of any search under <cite path="§24.46.220">Section 24.46.220</cite> or <cite path="§24.46.240">Section 24.46.240</cite> or as part of a copy of the record. A filing office or an officer or employee of the filing office may not be held civilly or criminally liable for the inadvertent disclosure of a social security or internal revenue service taxpayer identification number if the filer has placed the number in an improper field on the form prescribed by the secretary of state or the filer submitted a filing other than on the form prescribed by the secretary of state.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -17756,7 +17756,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If the amendment relates to an initial financing statement filed or recorded in a filing office described in subdivision (1) of subsection (a) of <cite path="24|24.42|24.4272">section 24.4272</cite>, provides the information specified in subsection (b) of <cite path="§24.46.010">Section 24.46.010</cite>.</text>
+          <text>If the amendment relates to an initial financing statement filed or recorded in a filing office described in subdivision (1) of subsection (a) of <cite path="24.42|24.4272">section 24.4272</cite>, provides the information specified in subsection (b) of <cite path="§24.46.010">Section 24.46.010</cite>.</text>
         </para>
       </para>
       <para>
@@ -17915,7 +17915,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>In the case of a record filed or recorded in the filing office described in subdivision (1) of subsection (a) of <cite path="24|24.42|24.4272">section 24.4272</cite>, the record does not provide a sufficient description of the real property to which it relates;</text>
+            <text>In the case of a record filed or recorded in the filing office described in subdivision (1) of subsection (a) of <cite path="24.42|24.4272">section 24.4272</cite>, the record does not provide a sufficient description of the real property to which it relates;</text>
           </para>
         </para>
         <para>
@@ -18257,10 +18257,10 @@
     <section>
       <num>24.46.250</num>
       <heading>Rules</heading>
-      <text>The Tribe shall adopt and publish rules to implement <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. The rules must be:</text>
+      <text>The Tribe shall adopt and publish rules to implement <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. The rules must be:</text>
       <para>
         <num>(a)</num>
-        <text>Consistent with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>; and</text>
+        <text>Consistent with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>; and</text>
       </para>
       <para>
         <num>(b)</num>
@@ -18293,7 +18293,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A secured party in possession of collateral or control of collateral under <cite path="24|24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> has the rights and duties provided in <cite path="§24.43.070">Section 24.43.070</cite>.</text>
+        <text>A secured party in possession of collateral or control of collateral under <cite path="24.32|24.3207">section 24.3207</cite>, <cite path="§24.42.040">Section 24.42.040</cite>, <cite path="§24.42.050">Section 24.42.050</cite>, <cite path="§24.42.060">Section 24.42.060</cite>, or <cite path="§24.42.070">Section 24.42.070</cite> has the rights and duties provided in <cite path="§24.43.070">Section 24.43.070</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -18321,7 +18321,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>A sale pursuant to an execution is a foreclosure of the security interest or agricultural lien by judicial procedure within the meaning of <cite path="§24.47.010">this section</cite>. A secured party may purchase at the sale and thereafter hold the collateral free of any other requirements of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>A sale pursuant to an execution is a foreclosure of the security interest or agricultural lien by judicial procedure within the meaning of <cite path="§24.47.010">this section</cite>. A secured party may purchase at the sale and thereafter hold the collateral free of any other requirements of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -18386,7 +18386,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text><cite path="§24.47.230">Section 24.47.230</cite> and <cite path="§24.47.240">Section 24.47.240</cite>, which deal with the secured party's liability for failure to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text><cite path="§24.47.230">Section 24.47.230</cite> and <cite path="§24.47.240">Section 24.47.240</cite>, which deal with the secured party's liability for failure to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -18766,7 +18766,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Received a response to the request for information and sent an    authenticated notification of disposition to each secured party or other lienholder named in that response whose financing statement covered the collateral.</text>
+            <text>Received a response to the request for information and sent an authenticated notification of disposition to each secured party or other lienholder named in that response whose financing statement covered the collateral.</text>
           </para>
         </para>
       </para>
@@ -18960,7 +18960,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A transferee that acts in good faith takes free of the rights and interests described in subsection (a), even if the secured party fails to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or the requirements of any judicial proceeding.</text>
+        <text>A transferee that acts in good faith takes free of the rights and interests described in subsection (a), even if the secured party fails to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or the requirements of any judicial proceeding.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -19011,7 +19011,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Relieves the secured party of further duties under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+          <text>Relieves the secured party of further duties under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -19060,7 +19060,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A transfer of the record or legal title to collateral to a secured party under subsection (b) or otherwise is not of itself a disposition of collateral under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> and does not of itself relieve the secured party of its duties under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>A transfer of the record or legal title to collateral to a secured party under subsection (b) or otherwise is not of itself a disposition of collateral under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> and does not of itself relieve the secured party of its duties under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19216,7 +19216,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A subordinate interest is discharged or terminated under subsection (a), even if the secured party fails to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>A subordinate interest is discharged or terminated under subsection (a), even if the secured party fails to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19284,11 +19284,11 @@
       <heading>Remedies for Secured Party's Failure to Comply with Chapter</heading>
       <para>
         <num>(a)</num>
-        <text>If it is established that a secured party is not proceeding in accordance with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, a court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.</text>
+        <text>If it is established that a secured party is not proceeding in accordance with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, a court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Subject to subsections (c), (d), and (f), a person is liable for damages in the amount of any loss caused by a failure to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. Loss caused by a failure to comply with a request under <cite path="§24.43.100">Section 24.43.100</cite> may include loss resulting from the debtor's inability to obtain, or increase costs of, alternative financing.</text>
+        <text>Subject to subsections (c), (d), and (f), a person is liable for damages in the amount of any loss caused by a failure to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. Loss caused by a failure to comply with a request under <cite path="§24.43.100">Section 24.43.100</cite> may include loss resulting from the debtor's inability to obtain, or increase costs of, alternative financing.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -19436,11 +19436,11 @@
         <text>Unless a secured party knows that a person is a debtor or obligor, knows the identity of the person, and knows how to communicate with the person:</text>
         <para>
           <num>(1)</num>
-          <text>The secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>; and</text>
+          <text>The secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The secured party's failure to comply with <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> does not affect the liability of the person for a deficiency.</text>
+          <text>The secured party's failure to comply with <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> does not affect the liability of the person for a deficiency.</text>
         </para>
       </para>
       <para>
@@ -19506,23 +19506,23 @@
       <heading>Savings Clause</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided in this part, <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> apply to a transaction or lien within its scope, even if the transaction or lien was entered into or created before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>].</text>
+        <text>Except as otherwise provided in this part, <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> apply to a transaction or lien within its scope, even if the transaction or lien was entered into or created before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>].</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Except as otherwise provided in subsection (c) and <cite path="§24.48.020">Section 24.48.020</cite> through <cite path="§24.48.080">Section 24.48.080</cite>:</text>
         <para>
           <num>(1)</num>
-          <text>Transactions and liens that were not governed by the former chapter 24 and were validly entered in to or created before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>] and would be subject to <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> if they had been entered into or created after the Tribe adopted this amended <cite path="24">this title</cite>, and the rights, duties, and interests flowing from those transactions and liens remain valid after [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>]; and</text>
+          <text>Transactions and liens that were not governed by the former chapter 24 and were validly entered in to or created before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>] and would be subject to <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> if they had been entered into or created after the Tribe adopted this amended <cite path="24">this title</cite>, and the rights, duties, and interests flowing from those transactions and liens remain valid after [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>]; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The transactions and liens may be terminated, completed, consummated, and enforced as required or permitted by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> or by the law that otherwise would apply if <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> had not taken effect.</text>
+          <text>The transactions and liens may be terminated, completed, consummated, and enforced as required or permitted by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> or by the law that otherwise would apply if <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> had not taken effect.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not affect an action, case, or proceeding commenced before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>].</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not affect an action, case, or proceeding commenced before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>].</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19534,14 +19534,14 @@
       <heading>Security Interest Perfected Before Effective Date</heading>
       <para>
         <num>(a)</num>
-        <text>A security interest that is enforceable immediately before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], and would have priority over the rights of a person that becomes a lien creditor at that time is a perfected security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> if, the applicable requirements for enforceability and perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied without further action on [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>].</text>
+        <text>A security interest that is enforceable immediately before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], and would have priority over the rights of a person that becomes a lien creditor at that time is a perfected security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> if, the applicable requirements for enforceability and perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied without further action on [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>].</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as otherwise provided in <cite path="§24.48.040">Section 24.48.040</cite>, if, immediately before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], a security interest is enforceable and would have priority over the rights of a person that becomes a lien creditor at that time, but the applicable requirements for enforceability or perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are not satisfied on [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], the security interest:</text>
+        <text>Except as otherwise provided in <cite path="§24.48.040">Section 24.48.040</cite>, if, immediately before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], a security interest is enforceable and would have priority over the rights of a person that becomes a lien creditor at that time, but the applicable requirements for enforceability or perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are not satisfied on [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], the security interest:</text>
         <para>
           <num>(1)</num>
-          <text>Is a perfected security interest for one year after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect;</text>
+          <text>Is a perfected security interest for one year after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19549,7 +19549,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Remains perfected thereafter only if the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied before the year expires.</text>
+          <text>Remains perfected thereafter only if the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied before the year expires.</text>
         </para>
       </para>
       <annotations>
@@ -19560,21 +19560,21 @@
     <section>
       <num>24.48.030</num>
       <heading>Security Interest Unperfected Before Effective Date</heading>
-      <text>A security interest that is enforceable immediately before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], but which would be subordinate to the rights of a person that becomes a lien creditor at that time:</text>
+      <text>A security interest that is enforceable immediately before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], but which would be subordinate to the rights of a person that becomes a lien creditor at that time:</text>
       <para>
         <num>(a)</num>
-        <text>Remains an enforceable security interest until [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>];</text>
+        <text>Remains an enforceable security interest until [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>];</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Remains enforceable thereafter if the security interest becomes enforceable under <cite path="§24.43.030">Section 24.43.030</cite> on [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], or within one year thereafter; and</text>
+        <text>Remains enforceable thereafter if the security interest becomes enforceable under <cite path="§24.43.030">Section 24.43.030</cite> on [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], or within one year thereafter; and</text>
       </para>
       <para>
         <num>(c)</num>
         <text>Becomes perfected:</text>
         <para>
           <num>(1)</num>
-          <text>Without further action, on the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, if the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied before or at that time; or</text>
+          <text>Without further action, on the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, if the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied before or at that time; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19591,27 +19591,27 @@
       <heading>Effectiveness of Action Taken Before Effective Date</heading>
       <para>
         <num>(a)</num>
-        <text>If action, other than the filing of a financing statement, is taken before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], and the action would have resulted in priority of a security interest over the rights of a person that becomes a lien creditor had the security interest become enforceable before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], the action is effective to perfect a security interest that attaches under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> by [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>]. An attached security interest becomes unperfected on [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], unless the security interest becomes a perfected security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> before the expiration of that period.</text>
+        <text>If action, other than the filing of a financing statement, is taken before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], and the action would have resulted in priority of a security interest over the rights of a person that becomes a lien creditor had the security interest become enforceable before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], the action is effective to perfect a security interest that attaches under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> by [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>]. An attached security interest becomes unperfected on [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], unless the security interest becomes a perfected security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> before the expiration of that period.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The filing of a financing statement before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>The filing of a financing statement before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not render ineffective an effective financing statement that, before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], is filed and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in the former <cite path="§24.42.030">Section 24.42.030</cite>. However, except as otherwise provided in subsections (c) and (d) and <cite path="§24.48.050">Section 24.48.050</cite>, the financing statement ceases to be effective at the time the financing statement would have ceased to be effective under the law of the jurisdiction in which it is filed.</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not render ineffective an effective financing statement that, before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], is filed and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in the former <cite path="§24.42.030">Section 24.42.030</cite>. However, except as otherwise provided in subsections (c) and (d) and <cite path="§24.48.050">Section 24.48.050</cite>, the financing statement ceases to be effective at the time the financing statement would have ceased to be effective under the law of the jurisdiction in which it is filed.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The filing of a continuation statement after this amended chapter 24 takes effect does not continue the effectiveness of the financing statement filed before. However, upon the timely filing of a continuation statement after [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], and in accordance with the law of the jurisdiction governing perfection as provided in part 3, the effectiveness of a financing statement filed in the same office in that jurisdiction before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], continues for the period provided by the law of that jurisdiction.</text>
+        <text>The filing of a continuation statement after this amended chapter 24 takes effect does not continue the effectiveness of the financing statement filed before. However, upon the timely filing of a continuation statement after [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], and in accordance with the law of the jurisdiction governing perfection as provided in part 3, the effectiveness of a financing statement filed in the same office in that jurisdiction before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], continues for the period provided by the law of that jurisdiction.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Subdivision (2) of subsection (c) applies to a financing statement that, before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], is filed against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in the former <cite path="§24.42.030">Section 24.42.030</cite> only to the extent that part 3 provides that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.</text>
+        <text>Subdivision (2) of subsection (c) applies to a financing statement that, before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], is filed against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in the former <cite path="§24.42.030">Section 24.42.030</cite> only to the extent that part 3 provides that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>A financing statement that includes a financing statement filed before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], takes effect and a continuation statement filed after [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], is effective only to the extent that it satisfies the requirements of part 5 for an initial financing statement.</text>
+        <text>A financing statement that includes a financing statement filed before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], takes effect and a continuation statement filed after [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], is effective only to the extent that it satisfies the requirements of part 5 for an initial financing statement.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19623,10 +19623,10 @@
       <heading>When Initial Financing Statement Suffices to Continue Effectiveness of Financing Statement</heading>
       <para>
         <num>(a)</num>
-        <text>The filing of an initial financing statement in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite> continues the effectiveness of a financing statement filed before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], if:</text>
+        <text>The filing of an initial financing statement in the office specified in <cite path="24.42|24.4272">section 24.4272</cite> continues the effectiveness of a financing statement filed before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], if:</text>
         <para>
           <num>(1)</num>
-          <text>The filing of an initial financing statement in that office would be effective to perfect a security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>;</text>
+          <text>The filing of an initial financing statement in that office would be effective to perfect a security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19642,11 +19642,11 @@
         <text>The filing of an initial financing statement under subsection (a) continues the effectiveness of the pre-effective-date financing statement:</text>
         <para>
           <num>(1)</num>
-          <text>If the initial financing statement is filed before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], for the period provided in the former <cite path="§24.44.220">Section 24.44.220</cite> with respect to a financing statement; and</text>
+          <text>If the initial financing statement is filed before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], for the period provided in the former <cite path="§24.44.220">Section 24.44.220</cite> with respect to a financing statement; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the initial financing statement is filed after [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], for the period provided in <cite path="§24.46.140">Section 24.46.140</cite> with respect to an initial financing statement.</text>
+          <text>If the initial financing statement is filed after [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], for the period provided in <cite path="§24.46.140">Section 24.46.140</cite> with respect to an initial financing statement.</text>
         </para>
       </para>
       <para>
@@ -19675,26 +19675,26 @@
       <heading>Amendment of Pre-Effective-Date Financing Statement</heading>
       <para>
         <num>(a)</num>
-        <text>In <cite path="§24.48.060">this section</cite>, "pre-effective-date financing statement" means a financing statement filed before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>].</text>
+        <text>In <cite path="§24.48.060">this section</cite>, "pre-effective-date financing statement" means a financing statement filed before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>].</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>After [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in part 3. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</text>
+        <text>After [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in part 3. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Except as otherwise provided in subsection (d), if the law of Tribe governs perfection of a security interest, the information in a pre-effective-date financing statement may be amended after [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], if:</text>
+        <text>Except as otherwise provided in subsection (d), if the law of Tribe governs perfection of a security interest, the information in a pre-effective-date financing statement may be amended after [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], if:</text>
         <para>
           <num>(1)</num>
-          <text>The pre-effective-date financing statement and an amendment are filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite>;</text>
+          <text>The pre-effective-date financing statement and an amendment are filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>An amendment is filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite> concurrently with, or after the filing in that office of, an initial financing statement that satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite>; or</text>
+          <text>An amendment is filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite> concurrently with, or after the filing in that office of, an initial financing statement that satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite>; or</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>An initial financing statement that provides the information as amended and satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite> is filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite>.</text>
+          <text>An initial financing statement that provides the information as amended and satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite> is filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite>.</text>
         </para>
       </para>
       <para>
@@ -19703,7 +19703,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Regardless of whether the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed in this state may be terminated [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite> has been filed in the office specified by the law of the jurisdiction governing perfection as provided in part 3 as the office in which to file a financing statement.</text>
+        <text>Regardless of whether the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed in this state may be terminated [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection (c) of <cite path="§24.48.050">Section 24.48.050</cite> has been filed in the office specified by the law of the jurisdiction governing perfection as provided in part 3 as the office in which to file a financing statement.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19723,7 +19723,7 @@
         <text>The filing is necessary under this part:</text>
         <para>
           <num>(1)</num>
-          <text>To continue the effectiveness of a financing statement filed before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>]; or</text>
+          <text>To continue the effectiveness of a financing statement filed before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>]; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19740,11 +19740,11 @@
       <heading>Priority</heading>
       <para>
         <num>(a)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> determine the priority of conflicting claims to collateral. However, if the relative priorities of the claims were established before [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], the former chapter 24 determines priority.</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> determine the priority of conflicting claims to collateral. However, if the relative priorities of the claims were established before [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], the former chapter 24 determines priority.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>For purposes of subsection (a) of <cite path="§24.44.220">Section 24.44.220</cite>, the priority of a security interest that becomes enforceable under <cite path="§24.43.030">Section 24.43.030</cite> dates from [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], if the security interest is perfected under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> by the filing of a financing statement [the effective date of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>], which would not have been effective to perfect the security interest under the former chapter 24. This subsection does not apply to conflicting security interests each of which is perfected by the filing of such a financing statement.</text>
+        <text>For purposes of subsection (a) of <cite path="§24.44.220">Section 24.44.220</cite>, the priority of a security interest that becomes enforceable under <cite path="§24.43.030">Section 24.43.030</cite> dates from [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], if the security interest is perfected under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> by the filing of a financing statement [the effective date of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>], which would not have been effective to perfect the security interest under the former chapter 24. This subsection does not apply to conflicting security interests each of which is perfected by the filing of such a financing statement.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19756,11 +19756,11 @@
       <heading>Savings Clause</heading>
       <para>
         <num>(a)</num>
-        <text>Except as otherwise provided in <cite path="§24.48.090">this section</cite>, <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> apply to a transaction or lien within its scope, even if the transaction or lien was entered or created before this Act takes effect.</text>
+        <text>Except as otherwise provided in <cite path="§24.48.090">this section</cite>, <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> apply to a transaction or lien within its scope, even if the transaction or lien was entered or created before this Act takes effect.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>This Act does not affect an action, case, or proceeding commenced before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect.</text>
+        <text>This Act does not affect an action, case, or proceeding commenced before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19772,11 +19772,11 @@
       <heading>Security Interest Perfected Before Effective Date</heading>
       <para>
         <num>(a)</num>
-        <text>A security interest that is a perfected security interest immediately before this Act takes effect is a perfected security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> if, when <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, the applicable requirements for attachment and perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied without further action.</text>
+        <text>A security interest that is a perfected security interest immediately before this Act takes effect is a perfected security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> if, when <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, the applicable requirements for attachment and perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied without further action.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as otherwise provided in <cite path="§24.48.120">Section 24.48.120</cite>, if, immediately before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, a security interest is a perfected security interest, but the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are not satisfied when <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, the security interest remains perfected thereafter only if the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied within one year after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect.</text>
+        <text>Except as otherwise provided in <cite path="§24.48.120">Section 24.48.120</cite>, if, immediately before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, a security interest is a perfected security interest, but the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are not satisfied when <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, the security interest remains perfected thereafter only if the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied within one year after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19786,10 +19786,10 @@
     <section>
       <num>24.48.110</num>
       <heading>Security Interest Unperfected Before Effective Date</heading>
-      <text>A security interest that is an unperfected security interest immediately before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect becomes a perfected security interest:</text>
+      <text>A security interest that is an unperfected security interest immediately before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect becomes a perfected security interest:</text>
       <para>
         <num>(a)</num>
-        <text>Without further action, when <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect if the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> are satisfied before or at that time; or</text>
+        <text>Without further action, when <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect if the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> are satisfied before or at that time; or</text>
       </para>
       <para>
         <num>(b)</num>
@@ -19805,14 +19805,14 @@
       <heading>Effectiveness of Action Taken Before Effective Date</heading>
       <para>
         <num>(a)</num>
-        <text>The filing of a financing statement before this takes effect is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>The filing of a financing statement before this takes effect is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> do not render ineffective an effective financing statement that, before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, is filed and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as they existed before amendment of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. However, except as otherwise provided in subsections (c) and (d) and <cite path="§24.48.130">Section 24.48.130</cite>, the financing statement ceases to be effective:</text>
+        <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> do not render ineffective an effective financing statement that, before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, is filed and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as they existed before amendment of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. However, except as otherwise provided in subsections (c) and (d) and <cite path="§24.48.130">Section 24.48.130</cite>, the financing statement ceases to be effective:</text>
         <para>
           <num>(1)</num>
-          <text>If the financing statement is filed in this state, at the time the financing statement would have ceased to be effective had <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> not taken effect; or</text>
+          <text>If the financing statement is filed in this state, at the time the financing statement would have ceased to be effective had <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> not taken effect; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19821,15 +19821,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The filing of a continuation statement after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect does not continue the effectiveness of the financing statement filed before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect. However, upon the timely filing of a continuation statement after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, no later than is required by <cite path="§24.46.140">Section 24.46.140</cite>, and in accordance with the law of the jurisdiction governing perfection as provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>, the effectiveness of a financing statement filed in the same office in that jurisdiction before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect continues for the period provided by the law of that jurisdiction.</text>
+        <text>The filing of a continuation statement after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect does not continue the effectiveness of the financing statement filed before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect. However, upon the timely filing of a continuation statement after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, no later than is required by <cite path="§24.46.140">Section 24.46.140</cite>, and in accordance with the law of the jurisdiction governing perfection as provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>, the effectiveness of a financing statement filed in the same office in that jurisdiction before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect continues for the period provided by the law of that jurisdiction.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Paragraph (B) of subdivision (2) of subsection (b) applies to a financing statement that, before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, is filed against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as they existed before amendment, only to the extent that <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> provide that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.</text>
+        <text>Paragraph (B) of subdivision (2) of subsection (b) applies to a financing statement that, before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, is filed against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as they existed before amendment, only to the extent that <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> provide that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>A financing statement that includes a financing statement filed before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect and a continuation statement filed after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect is effective only to the extent that it satisfies the requirements of <cite path="24|24.42|24.4272">section 24.4272</cite> through <cite path="§24.46.250">Section 24.46.250</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> for an initial financing statement. A financing statement that indicates that the debtor is a decedent's estate indicates that the collateral is being administered by a personal representative within the meaning of subdivision (2) of subsection (a) of <cite path="§24.46.020">Section 24.46.020</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>. A financing statement that indicates that the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of subdivision (3) of subsection (a) of <cite path="§24.46.020">Section 24.46.020</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>.</text>
+        <text>A financing statement that includes a financing statement filed before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect and a continuation statement filed after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect is effective only to the extent that it satisfies the requirements of <cite path="24.42|24.4272">section 24.4272</cite> through <cite path="§24.46.250">Section 24.46.250</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> for an initial financing statement. A financing statement that indicates that the debtor is a decedent's estate indicates that the collateral is being administered by a personal representative within the meaning of subdivision (2) of subsection (a) of <cite path="§24.46.020">Section 24.46.020</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>. A financing statement that indicates that the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of subdivision (3) of subsection (a) of <cite path="§24.46.020">Section 24.46.020</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19841,10 +19841,10 @@
       <heading>When Initial Financing Statement Suffices to Continue Effectiveness of Financing Statement</heading>
       <para>
         <num>(a)</num>
-        <text>The filing of an initial financing statement in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite> continues the effectiveness of a financing statement filed before <cite path="24">this title</cite> takes effect if:</text>
+        <text>The filing of an initial financing statement in the office specified in <cite path="24.42|24.4272">section 24.4272</cite> continues the effectiveness of a financing statement filed before <cite path="24">this title</cite> takes effect if:</text>
         <para>
           <num>(1)</num>
-          <text>The filing of an initial financing statement in that office would be effective to perfect a security interest under <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite>;</text>
+          <text>The filing of an initial financing statement in that office would be effective to perfect a security interest under <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19860,11 +19860,11 @@
         <text>The filing of an initial financing statement under subsection 1 continues the effectiveness of the pre-effective-date financing statement:</text>
         <para>
           <num>(1)</num>
-          <text>If the initial financing statement is filed before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, for the period provided in unamended <cite path="§24.46.140">Section 24.46.140</cite> with respect to an initial financing statement; and</text>
+          <text>If the initial financing statement is filed before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, for the period provided in unamended <cite path="§24.46.140">Section 24.46.140</cite> with respect to an initial financing statement; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the initial financing statement is filed after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, for the period provided in <cite path="§24.46.140">Section 24.46.140</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> with respect to an initial financing statement.</text>
+          <text>If the initial financing statement is filed after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, for the period provided in <cite path="§24.46.140">Section 24.46.140</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> with respect to an initial financing statement.</text>
         </para>
       </para>
       <para>
@@ -19872,7 +19872,7 @@
         <text>To be effective for purposes of subsection (a), an initial financing statement must:</text>
         <para>
           <num>(1)</num>
-          <text>Satisfy the requirements of <cite path="24|24.42|24.4272">section 24.4272</cite> through <cite path="§24.46.250">Section 24.46.250</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> for an initial financing statement</text>
+          <text>Satisfy the requirements of <cite path="24.42|24.4272">section 24.4272</cite> through <cite path="§24.46.250">Section 24.46.250</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> for an initial financing statement</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19893,26 +19893,26 @@
       <heading>Amendment of Pre-Effective-Date Financing Statement</heading>
       <para>
         <num>(a)</num>
-        <text>In <cite path="§24.48.140">this section</cite>, "pre-effective-date financing statement" means a financing statement filed before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect.</text>
+        <text>In <cite path="§24.48.140">this section</cite>, "pre-effective-date financing statement" means a financing statement filed before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>After <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in this Code as amended by <cite path="24">this title</cite>. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</text>
+        <text>After <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in this Code as amended by <cite path="24">this title</cite>. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</text>
       </para>
       <para>
         <num>(c)</num>
         <text>Except as otherwise provided in subsection (d), if the law of the Tribe governs perfection of a security interest, the information in a pre-effective-date financing statement may be amended after <cite path="24">this title</cite> takes effect only if:</text>
         <para>
           <num>(1)</num>
-          <text>The pre-effective-date financing statement and an amendment are filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite>;</text>
+          <text>The pre-effective-date financing statement and an amendment are filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>An amendment is filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite> concurrently with, or after the filing in that office of, an initial financing statement that satisfies subsection (c) of <cite path="§24.48.130">Section 24.48.130</cite>; or</text>
+          <text>An amendment is filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite> concurrently with, or after the filing in that office of, an initial financing statement that satisfies subsection (c) of <cite path="§24.48.130">Section 24.48.130</cite>; or</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>An initial financing statement that provides the information as amended and satisfies subsection 3 of section 41-09-136 is filed in the office specified in <cite path="24|24.42|24.4272">section 24.4272</cite>.</text>
+          <text>An initial financing statement that provides the information as amended and satisfies subsection 3 of section 41-09-136 is filed in the office specified in <cite path="24.42|24.4272">section 24.4272</cite>.</text>
         </para>
       </para>
       <para>
@@ -19921,7 +19921,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Whether or not the law of the Tribe governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed within the Tribe's jurisdiction or in another jurisdiction that the Tribe has entered into an Agreement with may be terminated after <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection (c) of <cite path="§24.48.130">Section 24.48.130</cite> has been filed in the office specified by the law of the jurisdiction governing perfection as provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as amended by <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as the office in which to file a financing statement.</text>
+        <text>Whether or not the law of the Tribe governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed within the Tribe's jurisdiction or in another jurisdiction that the Tribe has entered into an Agreement with may be terminated after <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies subsection (c) of <cite path="§24.48.130">Section 24.48.130</cite> has been filed in the office specified by the law of the jurisdiction governing perfection as provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as amended by <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as the office in which to file a financing statement.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
@@ -19941,7 +19941,7 @@
         <text>The filing is necessary under <cite path="§24.48.090">Section 24.48.090</cite> through section 24,42139:</text>
         <para>
           <num>(1)</num>
-          <text>To continue the effectiveness of a financing statement filed before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect; or</text>
+          <text>To continue the effectiveness of a financing statement filed before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -19956,7 +19956,7 @@
     <section>
       <num>24.48.160</num>
       <heading>Priority</heading>
-      <text><cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> determine the priority of conflicting claims to collateral. However, if the relative priorities of the claims were established before <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> take effect, <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> as they existed before amendment determines priority.</text>
+      <text><cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> determine the priority of conflicting claims to collateral. However, if the relative priorities of the claims were established before <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> take effect, <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> as they existed before amendment determines priority.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1150-08-20"/>
         <annotation type="Prior Codifications">§24.48.160 was formerly codified as 24.42139</annotation>
@@ -19988,7 +19988,7 @@
       <heading>Attachment and Enforceability of Security Interest; Proceeds; Formal Requisites</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to the provisions of <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> the security interest of a collecting bank, <cite path="§24.43.020">Section 24.43.020</cite> on security interests in securities and <cite path="§24.43.030">Section 24.43.030</cite> on a security interest arising under the article on sales, a security interest is not enforceable against the debtor or third parties with respect to the collateral and does not attach unless:</text>
+        <text>Subject to the provisions of <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> the security interest of a collecting bank, <cite path="§24.43.020">Section 24.43.020</cite> on security interests in securities and <cite path="§24.43.030">Section 24.43.030</cite> on a security interest arising under the article on sales, a security interest is not enforceable against the debtor or third parties with respect to the collateral and does not attach unless:</text>
         <para>
           <num>(1)</num>
           <text>The collateral is in the possession of the secured party pursuant to agreement, or the debtor has signed a security agreement which contains a description of the collateral and in addition, when the security interest covers crops growing or to be grown or timber to be cut, a description of the land concerned; and</text>
@@ -20050,11 +20050,11 @@
       <heading>Agreement Not to Assert Defenses Against Assignee; Modification of Sales Warranties Where Security Agreement Exists</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to any statute or decision which establishes a different rule for buyers or lessees of consumer goods, an agreement by a buyer or lessee that he or she will not assert against an assignee any claim or defense which he or she may have against the seller or lessor is enforceable by an assignee who takes his or her assignment for value, in good faith and without notice of a claim or defense, except as to defenses of a type which may be asserted against a holder in due course of a negotiable instrument under the article on commercial paper (<cite path="24|24.03">Chapter 24.03</cite>). A buyer who as part of one transaction signs both a negotiable instrument and a security agreement makes such an agreement.</text>
+        <text>Subject to any statute or decision which establishes a different rule for buyers or lessees of consumer goods, an agreement by a buyer or lessee that he or she will not assert against an assignee any claim or defense which he or she may have against the seller or lessor is enforceable by an assignee who takes his or her assignment for value, in good faith and without notice of a claim or defense, except as to defenses of a type which may be asserted against a holder in due course of a negotiable instrument under the article on commercial paper (<cite path="24.03">Chapter 24.03</cite>). A buyer who as part of one transaction signs both a negotiable instrument and a security agreement makes such an agreement.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>When a seller retains a purchase money security interest in goods the article on sales (<cite path="24|24.02">Chapter 24.02</cite>) govern the sale and any disclaimer, limitation or modification of the seller's warranties.</text>
+        <text>When a seller retains a purchase money security interest in goods the article on sales (<cite path="24.02">Chapter 24.02</cite>) govern the sale and any disclaimer, limitation or modification of the seller's warranties.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.49.060 was formerly codified as 24.4306</annotation>
@@ -20223,7 +20223,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Compliance with a statute or treaty described in Subsection (c) is equivalent to the filing of a financing statement under this article, and a security interest in property subject to the statute or treaty can be perfected only by compliance therewith except as provided in <cite path="24|24.42">Chapters 24.42</cite> through <cite path="24|24.48">24.48</cite> on multiple state transactions. Duration and renewal of perfection of a security interest perfected by compliance with the statute or treaty are governed by the provisions of the statute or treaty; in other respects the security interest is subject to this article.</text>
+        <text>Compliance with a statute or treaty described in Subsection (c) is equivalent to the filing of a financing statement under this article, and a security interest in property subject to the statute or treaty can be perfected only by compliance therewith except as provided in <cite path="24.42">Chapters 24.42</cite> through <cite path="24.48">24.48</cite> on multiple state transactions. Duration and renewal of perfection of a security interest perfected by compliance with the statute or treaty are governed by the provisions of the statute or treaty; in other respects the security interest is subject to this article.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.50.020 was formerly codified as 24.4402</annotation>
@@ -20287,7 +20287,7 @@
     <section>
       <num>24.50.050</num>
       <heading>When Possession by Secured Party Perfects Security Interest Without Filing</heading>
-      <text>A security interest in letters of credit and advices of credit (<cite path="24|24.30|24.3016|(2)|(a)">Section 24.3016(2)(a)</cite>, goods, instruments (other than certificated securities), money, negotiable documents or chattel paper may be perfected by the secured party's taking possession of the collateral. If such collateral other than goods covered by a negotiable document is held by a bailee, the secured party is deemed to have possession from the time the bailee receives notification of the secured party's interest. A security interest is perfected by possession from the time possession is taken without relation back and continues only so long as possession is retained, unless otherwise specified in this article. The security interest may be otherwise perfected as provided in this article before or after the period of possession by the secured party.</text>
+      <text>A security interest in letters of credit and advices of credit (<cite path="24.30|24.3016|(2)|(a)">Section 24.3016(2)(a)</cite>, goods, instruments (other than certificated securities), money, negotiable documents or chattel paper may be perfected by the secured party's taking possession of the collateral. If such collateral other than goods covered by a negotiable document is held by a bailee, the secured party is deemed to have possession from the time the bailee receives notification of the secured party's interest. A security interest is perfected by possession from the time possession is taken without relation back and continues only so long as possession is retained, unless otherwise specified in this article. The security interest may be otherwise perfected as provided in this article before or after the period of possession by the secured party.</text>
       <annotations>
         <annotation type="Prior Codifications">§24.50.050 was formerly codified as 24.4405</annotation>
       </annotations>
@@ -20601,7 +20601,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>When under Subsections (a) or (b) and (c) a secured party has an interest in accessions which ha priority over the claims of all persons who have interests in the whole, he or she may on default subject to the provisions of <cite path="24|24.52">Chapter 24.52</cite> to remove his or her collateral from the whole but he or she must reimburse any encumbrancer or owner of the whole who is not the debtor and who has not otherwise agreed for the cost of repair of any physical injury but not for any diminution in value of the whole caused by the absence of the goods removed or by any necessity for replacing them. A person entitled to reimbursement may refuse permission to remove until the secured party gives adequate security for the performance of this obligation.</text>
+        <text>When under Subsections (a) or (b) and (c) a secured party has an interest in accessions which ha priority over the claims of all persons who have interests in the whole, he or she may on default subject to the provisions of <cite path="24.52">Chapter 24.52</cite> to remove his or her collateral from the whole but he or she must reimburse any encumbrancer or owner of the whole who is not the debtor and who has not otherwise agreed for the cost of repair of any physical injury but not for any diminution in value of the whole caused by the absence of the goods removed or by any necessity for replacing them. A person entitled to reimbursement may refuse permission to remove until the secured party gives adequate security for the performance of this obligation.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§24.50.140 was formerly codified as 24.4414</annotation>
@@ -20837,7 +20837,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>If the debtor is a transmitting utility (<cite path="§24.51.010|(e)">Section 24.51.010(e)</cite> and a filed financing statement so states, it is effective until a termination statement is filed. A real estate mortgage which is effective as a fixture filing under Subsection (f) of <cite path="24|24.45|24.4502|(6)">Section 24.4502(6)</cite> remains effective as a fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise terminates as to the real estate.</text>
+        <text>If the debtor is a transmitting utility (<cite path="§24.51.010|(e)">Section 24.51.010(e)</cite> and a filed financing statement so states, it is effective until a termination statement is filed. A real estate mortgage which is effective as a fixture filing under Subsection (f) of <cite path="24.45|24.4502|(6)">Section 24.4502(6)</cite> remains effective as a fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise terminates as to the real estate.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -20996,7 +20996,7 @@
       <heading>Secured Party's Right to Dispose of Collateral After Default; Effect of Disposition</heading>
       <para>
         <num>(a)</num>
-        <text>A secured party after default may sell, lease or otherwise dispose of any or all of the collateral in its then condition or following any commercially reasonable preparation or processing. Any sale of goods is subject to the article on sales (<cite path="24|24.02">Chapter 24.02</cite>). The proceeds of disposition shall be applied in the order following to:</text>
+        <text>A secured party after default may sell, lease or otherwise dispose of any or all of the collateral in its then condition or following any commercially reasonable preparation or processing. Any sale of goods is subject to the article on sales (<cite path="24.02">Chapter 24.02</cite>). The proceeds of disposition shall be applied in the order following to:</text>
         <para>
           <num>(1)</num>
           <text>The reasonable expenses of retaking, holding, preparing for sale or lease, selling, leasing and the like and, to the extent provided for in the agreement and not prohibited by law, the reasonable attorneys' fees and legal expenses incurred by the secured party;</text>

@@ -234,7 +234,7 @@
       </para>
       <para>
         <num>(qq)</num>
-        <text>"MISLEADING DOMAIN NAMES ON THE INTERNET" means to knowingly use a misleading   domain name on the internet, embed a source with the intent to deceive a minor into viewing material that is harmful to minors on the internet consisting of nudity, sex, or excretion, that, taken as a whole and predominantly appeals to a prurient interest of minors; is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for a minor and lacks serious literary, artistic, political or scientific value for minors.</text>
+        <text>"MISLEADING DOMAIN NAMES ON THE INTERNET" means to knowingly use a misleading domain name on the internet, embed a source with the intent to deceive a minor into viewing material that is harmful to minors on the internet consisting of nudity, sex, or excretion, that, taken as a whole and predominantly appeals to a prurient interest of minors; is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for a minor and lacks serious literary, artistic, political or scientific value for minors.</text>
       </para>
       <para>
         <num>(rr)</num>
@@ -493,7 +493,7 @@
     <section>
       <num>42.02.010</num>
       <heading>Covered Offenses</heading>
-      <text><cite path="42|42.02">This chapter</cite> covers criminal penalties located on the Turtle Mountain Band of Chippewa Indian Reservation and also includes all other Tribes, State(s), Federal, Military, Jurisdiction(s), Territories, Foreign and Juvenile or adjudication conviction.</text>
+      <text><cite path="42.02">This chapter</cite> covers criminal penalties located on the Turtle Mountain Band of Chippewa Indian Reservation and also includes all other Tribes, State(s), Federal, Military, Jurisdiction(s), Territories, Foreign and Juvenile or adjudication conviction.</text>
       <annotations>
         <annotation type="Prior Codifications">§42.02.010 was formerly codified as 42.0201</annotation>
       </annotations>
@@ -505,15 +505,15 @@
       <text>Relevant references to <cite path="26">Title 26</cite>: Offenses and Penalties Sexual Offenses:</text>
       <para>
         <num>(a)</num>
-        <text>26.1301 (Abduction),</text>
+        <text><cite path="§26.13.020">26.13.020</cite> (Abduction),</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>26.1215.05 (Absconded),</text>
+        <text><cite path="§26.12.390">26.12.390</cite> (Absconded),</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>26.1205.01 (Abusive Sexual Contact),</text>
+        <text><cite path="§26.12.230">26.12.230</cite> (Abusive Sexual Contact),</text>
       </para>
       <para>
         <num>(d)</num>
@@ -521,15 +521,15 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>26.1213.03 (Attempts to Commit Sexual Abuse),</text>
+        <text><cite path="§26.12.190">26.12.190</cite> (Attempts to Commit Sexual Abuse),</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>26.1213 (Bigamy),</text>
+        <text><cite path="§26.11.150">26.11.150</cite> (Bigamy),</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>26.1214 (Child Pornography),</text>
+        <text><cite path="§26.12.270">26.12.270</cite> (Child Pornography),</text>
       </para>
       <para>
         <num>(h)</num>
@@ -537,107 +537,107 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>26.1215.03 (Failure to Appear),</text>
+        <text><cite path="§26.12.370">26.12.370</cite> (Failure to Appear),</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>26.1215.01 (Failure to file factual statement about an alien     individual),</text>
+        <text><cite path="§26.12.350">26.12.350</cite> (Failure to file factual statement about an alien individual),</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>26.1215.02 (Failure to Provide Information),</text>
+        <text><cite path="§26.12.360">26.12.360</cite> (Failure to Provide Information),</text>
       </para>
       <para>
         <num>(l)</num>
-        <text>26.1215 (Failure to Register),</text>
+        <text><cite path="§26.12.340">26.12.340</cite> (Failure to Register),</text>
       </para>
       <para>
         <num>(m)</num>
-        <text>26.1204 (Giving Sexually Transmitted Disease [STD] to Another),</text>
+        <text><cite path="§26.12.040">26.12.040</cite> (Giving Sexually Transmitted Disease [STD] to Another),</text>
       </para>
       <para>
         <num>(n)</num>
-        <text>26.1205 (Gross Sexual Imposition),</text>
+        <text><cite path="§26.12.050">26.12.050</cite> (Gross Sexual Imposition),</text>
       </para>
       <para>
         <num>(o)</num>
-        <text>26.1213.07 (Harboring),</text>
+        <text><cite path="§26.12.030">26.12.030</cite> (Harboring),</text>
       </para>
       <para>
         <num>(p)</num>
-        <text>26.1206 (HIV and/or AIDS),</text>
+        <text><cite path="§26.12.040|(b)">26.12.040(b)</cite> (HIV and/or AIDS),</text>
       </para>
       <para>
         <num>(q)</num>
-        <text>26.1207 (Incest),</text>
+        <text><cite path="§26.12.070">26.12.070</cite> (Incest),</text>
       </para>
       <para>
         <num>(r)</num>
-        <text>26.1208 (Indecent Exposure),</text>
+        <text><cite path="§26.12.080">26.12.080</cite> (Indecent Exposure),</text>
       </para>
       <para>
         <num>(s)</num>
-        <text>26.1303 (Kidnapping),</text>
+        <text><cite path="§26.13.040">26.13.040</cite> (Kidnapping),</text>
       </para>
       <para>
         <num>(t)</num>
-        <text>26.1208.02 (Lewd Act in Public),</text>
+        <text><cite path="§26.12.100">26.12.100</cite> (Lewd Act in Public),</text>
       </para>
       <para>
         <num>(u)</num>
-        <text>26.1208.01 (Lewd Conduct),</text>
+        <text><cite path="§26.12.090">26.12.090</cite>(Lewd Conduct),</text>
       </para>
       <para>
         <num>(v)</num>
-        <text>26.1214.04 (Misleading Domain names on the Internet),</text>
+        <text><cite path="§26.12.310">26.12.310</cite> (Misleading Domain names on the Internet),</text>
       </para>
       <para>
         <num>(w)</num>
-        <text>26.1214.05 (Misleading Words or Digital Images on the Internet),</text>
+        <text><cite path="§26.12.320">26.12.320</cite> (Misleading Words or Digital Images on the Internet),</text>
       </para>
       <para>
         <num>(x)</num>
-        <text>26.1215.06 (Misuse of Registration Information),</text>
+        <text><cite path="§26.12.400">26.12.400</cite> (Misuse of Registration Information),</text>
       </para>
       <para>
         <num>(y)</num>
-        <text>26.1214.01 (Online Child Pornography),</text>
+        <text><cite path="§26.12.280">26.12.280</cite> (Online Child Pornography),</text>
       </para>
       <para>
         <num>(z)</num>
-        <text>26.1214.02 (Online Child Solicitation),</text>
+        <text><cite path="§26.12.070">26.12.070</cite> (Online Child Solicitation),</text>
       </para>
       <para>
         <num>(aa)</num>
-        <text>26.1209 (Prostitution),</text>
+        <text><cite path="§26.12.130">26.12.130</cite> (Prostitution),</text>
       </para>
       <para>
         <num>(bb)</num>
-        <text>26.1212 (Prostitution of a Child),</text>
+        <text><cite path="§26.12.250">26.12.250</cite> (Prostitution of a Child),</text>
       </para>
       <para>
         <num>(cc)</num>
-        <text>26.1215.04 (Recapture),</text>
+        <text><cite path="§26.12.380">26.12.380</cite> (Recapture),</text>
       </para>
       <para>
         <num>(dd)</num>
-        <text>26.1313 (Reckless Endangerment),</text>
+        <text><cite path="§26.13.140">26.13.140</cite> (Reckless Endangerment),</text>
       </para>
       <para>
         <num>(ee)</num>
-        <text>26.1213.06 (Selling or buying of Children),</text>
+        <text><cite path="§26.12.250">26.12.250</cite> (Selling or buying of Children),</text>
       </para>
       <para>
         <num>(ff)</num>
-        <text>26.1213.06 (Sexting),</text>
+        <text><cite path="§26.12.220">26.12.220</cite> (Sexting),</text>
       </para>
       <para>
         <num>(gg)</num>
-        <text>26.1211 (Sexual Act with an Incapacitated Person),</text>
+        <text><cite path="§26.12.150">26.12.150</cite> (Sexual Act with an Incapacitated Person),</text>
       </para>
       <para>
         <num>(hh)</num>
-        <text>26.1213.07 (Sexual Abuse),</text>
+        <text><cite path="§26.12.230">26.12.230</cite> (Sexual Abuse),</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -645,77 +645,77 @@
       </para>
       <para>
         <num>(jj)</num>
-        <text>26.1213.02 (Sexual Abuse of a Ward),</text>
+        <text><cite path="§26.12.180">26.12.180</cite> (Sexual Abuse of a Ward),</text>
       </para>
       <para>
         <num>(kk)</num>
-        <text>26.1214.07 (Sexual Battery),</text>
+        <text><cite path="§26.12.120">26.12.120</cite> (Sexual Battery),</text>
       </para>
       <para>
         <num>(ll)</num>
-        <text>26.1305 (Sexual Exploitation of Children),</text>
+        <text><cite path="§26.12.240">26.12.240</cite> (Sexual Exploitation of Children),</text>
       </para>
       <para>
         <num>(mm)</num>
-        <text>26.1208.03 (Sexual Harassment),</text>
+        <text><cite path="§26.12.110">26.12.250</cite> (Sexual Harassment),</text>
       </para>
       <para>
         <num>(nn)</num>
-        <text>26.1213.03 (Sex Trafficking of a Minor),</text>
+        <text><cite path="§26.12.200">26.12.200</cite> (Sex Trafficking of a Minor),</text>
       </para>
       <para>
         <num>(oo)</num>
-        <text>26.1214.03 (Travel with the intent to engage in illicit conduct),</text>
+        <text><cite path="§26.12.300">26.12.300</cite> (Travel with the intent to engage in illicit conduct),</text>
       </para>
       <para>
         <num>(pp)</num>
-        <text>26.1213.04 (Use of interstate facilities to transmit information about a minor),</text>
+        <text><cite path="§26.12.210">26.12.210</cite> (Use of interstate facilities to transmit information about a minor),</text>
       </para>
       <para>
         <num>(qq)</num>
-        <text>26.1214.06 (Video voyeurism).</text>
+        <text><cite path="§26.12.330">26.12.330</cite> (Video voyeurism).</text>
         <text>Relevant References to <cite path="39">Title 39</cite>: Exclusion &amp; Removal Code:</text>
       </para>
       <para>
         <num>(rr)</num>
-        <text>39.0106 (Exclusion, Removal and Other Civil Penalties),</text>
+        <text><cite path="§39.01.060">39.01.060</cite> (Exclusion, Removal and Other Civil Penalties),</text>
       </para>
       <para>
         <num>(ss)</num>
-        <text>39.0105 (Grounds for Exclusion and Removal),</text>
+        <text><cite path="§39.01.050">39.01.050</cite> (Grounds for Exclusion and Removal),</text>
       </para>
       <para>
         <num>(tt)</num>
-        <text>39.0104 (Persons Subject to Exclusion and Removal),</text>
+        <text><cite path="§39.01.040">39.01.040</cite> (Persons Subject to Exclusion and Removal),</text>
         <text>Relevant Reference to <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code</text>
       </para>
       <para>
         <num>(uu)</num>
-        <text>42.0508 (Employment/Educational Requirements),</text>
+        <text><cite path="§42.05.060">42.05.060</cite> (Employment/Educational Requirements),</text>
       </para>
       <para>
         <num>(vv)</num>
-        <text>42.0802 (Civil Action),</text>
+        <text><cite path="§42.08.020">42.08.020</cite> (Civil Action),</text>
       </para>
       <para>
         <num>(ww)</num>
-        <text>42.0802 (Civil Liability),</text>
+        <text><cite path="§42.08.030">42.08.030</cite> (Civil Liability),</text>
       </para>
       <para>
         <num>(xx)</num>
-        <text>42.0802 (Re-entering – Civil),</text>
+        <text><cite path="§42.08.030|(a)">42.08.030(a)</cite> (Re-entering – Civil),</text>
       </para>
       <para>
         <num>(yy)</num>
-        <text>42.0802 (Retroactivity – Civil),</text>
+        <text><cite path="§42.08.030|(b)">42.08.030(b)</cite> (Retroactivity – Civil),</text>
       </para>
       <para>
         <num>(zz)</num>
-        <text>42.0901 (Restrictions),</text>
+        <text><cite path="§42.09.010">42.09.010</cite> (Restrictions),</text>
       </para>
       <para>
         <num>(aaa)</num>
-        <text>42.1205 (Juvenile Civil and Criminal Penalties):</text>
+        <text><cite path="§42.12.050">42.12.050</cite> (Juvenile Civil and Criminal Penalties):</text>
         <para>
           <num>(1)</num>
           <text>Juvenile Failure to Register,</text>
@@ -735,11 +735,11 @@
       </para>
       <para>
         <num>(bbb)</num>
-        <text>42.1305 (Prohibition),</text>
+        <text><cite path="§42.13.050">42.13.050</cite> (Prohibition),</text>
       </para>
       <para>
         <num>(ccc)</num>
-        <text>42.1309(Enforcement).</text>
+        <text><cite path="§42.01.040">42.01.040</cite> (Enforcement).</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.02.020 was formerly codified as 42.0202</annotation>
@@ -752,87 +752,87 @@
       <para>
         <num>(a)</num>
         <heading>18 U.S.C.</heading>
-        <text>§1591 (sex trafficking of children),</text>
+        <text>18 U.S.C. §1591 (sex trafficking of children),</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2241 (aggravated sexual abuse),</text>
+        <text>18 U.S.C. §2241 (aggravated sexual abuse),</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2242 (sexual abuse),</text>
+        <text>18 U.S.C. §2242 (sexual abuse),</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2243 (sexual abuse of a minor or ward),</text>
+        <text>18 U.S.C. §2243 (sexual abuse of a minor or ward),</text>
       </para>
       <para>
         <num>(e)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2244 (abusive sexual contact),</text>
+        <text>18 U.S.C. §2244 (abusive sexual contact),</text>
       </para>
       <para>
         <num>(f)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2245 (offenses resulting in death),</text>
+        <text>18 U.S.C. §2245 (offenses resulting in death),</text>
       </para>
       <para>
         <num>(g)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2251 (sexual exploitation of children),</text>
+        <text>18 U.S.C. §2251 (sexual exploitation of children),</text>
       </para>
       <para>
         <num>(h)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2251A (selling or buying of children),</text>
+        <text>18 U.S.C. §2251A (selling or buying of children),</text>
       </para>
       <para>
         <num>(i)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2252 (material involving the sexual exploitation of a minor),</text>
+        <text>18 U.S.C. §2252 (material involving the sexual exploitation of a minor),</text>
       </para>
       <para>
         <num>(j)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2252A (material containing child pornography),</text>
+        <text>18 U.S.C. §2252A (material containing child pornography),</text>
       </para>
       <para>
         <num>(k)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2252B (misleading domain names on the internet),</text>
+        <text>18 U.S.C. §2252B (misleading domain names on the internet),</text>
       </para>
       <para>
         <num>(l)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2252C (misleading words or digital images on the internet),</text>
+        <text>18 U.S.C. §2252C (misleading words or digital images on the internet),</text>
       </para>
       <para>
         <num>(m)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2260 (production of sexually explicit depictions of a minor for import into the United States),</text>
+        <text>18 U.S.C. §2260 (production of sexually explicit depictions of a minor for import into the United States),</text>
       </para>
       <para>
         <num>(n)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2421 (transportation of a minor for illegal sexual activity),</text>
+        <text>18 U.S.C. §2421 (transportation of a minor for illegal sexual activity),</text>
       </para>
       <para>
         <num>(o)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2422 (Coercion and Enticement of a Minor for Illegal Sexual Activity),</text>
+        <text>18 U.S.C. §2422 (Coercion and Enticement of a Minor for Illegal Sexual Activity),</text>
       </para>
       <para>
         <num>(p)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2423 (Transportation of Minors for Illegal Sexual Activity, etc.)</text>
+        <text>18 U.S.C. §2423 (Transportation of Minors for Illegal Sexual Activity, etc.)</text>
       </para>
       <para>
         <num>(q)</num>
         <heading>18 U.S.C.</heading>
-        <text>§2424 (failure to file factual statement about an alien individual) and</text>
+        <text>18 U.S.C. §2424 (failure to file factual statement about an alien individual) and</text>
       </para>
       <para>
         <num>(r)</num>
@@ -877,11 +877,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Any sexual touching of or contact with a person's body, 	either directly or through the clothing.</text>
+        <text>Any sexual touching of or contact with a person's body,  either directly or through the clothing.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Criminal sexual conduct involving a minor (where the elements of the offenses involve physical contact with the 	victim), or the use of the internet to facilitate or 	attempt such conduct.</text>
+        <text>Criminal sexual conduct involving a minor (where the elements of the offenses involve physical contact with the victim), or the use of the internet to facilitate or attempt such conduct.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -988,8 +988,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2423(a) (transporting a minor to engage in illicit conduct).</text>
+          <text>18 U.S.C. §2423(a) (transporting a minor to engage in illicit conduct).</text>
           <text>These individuals are required to register for the period of time required by the law of the jurisdiction of conviction and shall register in all jurisdictions where they live, work or attend school.</text>
         </para>
       </para>
@@ -1030,58 +1029,47 @@
         <text>Certain Federal Offenses.  Conviction for any of the following federal offenses or an attempt or conspiracy to commit such an offense shall be considered a conviction for a "Tier I" offense:</text>
         <para>
           <num>(1)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§1801 (video voyeurism of a minor),</text>
+          <text>18 U.S.C. §1801 (video voyeurism of a minor),</text>
         </para>
         <para>
           <num>(2)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252 (receipt or possession of child pornography),</text>
+          <text>18 U.S.C. §2252 (receipt or possession of child pornography),</text>
         </para>
         <para>
           <num>(3)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252A (receipt or possession of child pornography),</text>
+          <text>18 U.S.C. §2252A (receipt or possession of child pornography),</text>
         </para>
         <para>
           <num>(4)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252B (misleading domain names on the internet),</text>
+          <text>18 U.S.C. §2252B (misleading domain names on the internet),</text>
         </para>
         <para>
           <num>(5)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252C (misleading words or digital images on the internet),</text>
+          <text>18 U.S.C. §2252C (misleading words or digital images on the internet),</text>
         </para>
         <para>
           <num>(6)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2422(a) (coercion to engage in prostitution),</text>
+          <text>18 U.S.C. §2422(a) (coercion to engage in prostitution),</text>
         </para>
         <para>
           <num>(7)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2423(b) (travel with the intent to engage in illicit conduct),</text>
+          <text>18 U.S.C. §2423(b) (travel with the intent to engage in illicit conduct),</text>
         </para>
         <para>
           <num>(8)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2423(c) (engaging in illicit conduct in foreign places),</text>
+          <text>18 U.S.C. §2423(c) (engaging in illicit conduct in foreign places),</text>
         </para>
         <para>
           <num>(9)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2423(d) (arranging, inducing procuring or facilitating the travel in interstate commerce of an adult for the purpose of engaging in illicit conduct for financial gain),</text>
+          <text>18 U.S.C. §2423(d) (arranging, inducing procuring or facilitating the travel in interstate commerce of an adult for the purpose of engaging in illicit conduct for financial gain),</text>
         </para>
         <para>
           <num>(10)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2424 (failure to file factual statement about an alien individual), or</text>
+          <text>18 U.S.C. §2424 (failure to file factual statement about an alien individual), or</text>
         </para>
         <para>
           <num>(11)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2425 (transmitting information about a minor to further criminal sexual conduct).</text>
+          <text>18 U.S.C. §2425 (transmitting information about a minor to further criminal sexual conduct).</text>
         </para>
       </para>
       <para>
@@ -1156,8 +1144,7 @@
         <text>Certain Federal Offenses. Conviction for any of the following federal offenses or an attempt or conspiracy to commit such an offense shall be considered a conviction for a "Tier II" offense:</text>
         <para>
           <num>(1)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§1591 (sex trafficking by force, fraud, or coercion),</text>
+          <text>18 U.S.C. §1591 (sex trafficking by force, fraud, or coercion),</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1165,48 +1152,39 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2244 (Abusive sexual contact, where the victim is 13 years of age or older),</text>
+          <text>18 U.S.C. §2244 (Abusive sexual contact, where the victim is 13 years of age or older),</text>
         </para>
         <para>
           <num>(4)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2251 (sexual exploitation of children),</text>
+          <text>18 U.S.C. §2251 (sexual exploitation of children),</text>
         </para>
         <para>
           <num>(5)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2251A (selling or buying of children),</text>
+          <text>18 U.S.C. §2251A (selling or buying of children),</text>
         </para>
         <para>
           <num>(6)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252 (material involving the sexual exploitation of a minor),</text>
+          <text>18 U.S.C. §2252 (material involving the sexual exploitation of a minor),</text>
         </para>
         <para>
           <num>(7)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2252A (production or distribution of material containing child pornography),</text>
+          <text>18 U.S.C. §2252A (production or distribution of material containing child pornography),</text>
         </para>
         <para>
           <num>(8)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2260 (production of sexually explicit depictions of a minor for import into the United States),</text>
+          <text>18 U.S.C. §2260 (production of sexually explicit depictions of a minor for import into the United States),</text>
         </para>
         <para>
           <num>(9)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2421 (transportation of a minor for illegal sexual activity),</text>
+          <text>18 U.S.C. §2421 (transportation of a minor for illegal sexual activity),</text>
         </para>
         <para>
           <num>(10)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2422(b) (coercing a minor to engage in prostitution),</text>
+          <text>18 U.S.C. §2422(b) (coercing a minor to engage in prostitution),</text>
         </para>
         <para>
           <num>(11)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2423(a) (transporting a minor to engage in illicit conduct).</text>
+          <text>18 U.S.C. §2423(a) (transporting a minor to engage in illicit conduct).</text>
         </para>
       </para>
       <para>
@@ -1230,7 +1208,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>General Offenses.	A "Tier III" offense includes any sex offense, for which a person has been convicted, or an attempt or conspiracy to commit such an offense that involves:</text>
+        <text>General Offenses. A "Tier III" offense includes any sex offense, for which a person has been convicted, or an attempt or conspiracy to commit such an offense that involves:</text>
         <para>
           <num>(1)</num>
           <text>Non-parental kidnapping of a minor,</text>
@@ -1253,18 +1231,15 @@
         <text>Certain Federal Offenses. Conviction for any of the following federal offenses shall be considered conviction for a "Tier III" offense:</text>
         <para>
           <num>(1)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2241 (aggravated sexual abuse),</text>
+          <text>18 U.S.C. §2241 (aggravated sexual abuse),</text>
         </para>
         <para>
           <num>(2)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2242 (sexual abuse),</text>
+          <text>18 U.S.C. §2242 (sexual abuse),</text>
         </para>
         <para>
           <num>(3)</num>
-          <heading>18 U.S.C.</heading>
-          <text>§2243 (sexual abuse of a minor or ward),</text>
+          <text>18 U.S.C. §2243 (sexual abuse of a minor or ward),</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1289,7 +1264,7 @@
       <heading>General Requirements</heading>
       <para>
         <num>(a)</num>
-        <text>Duties. A sex offender covered by this Turtle Mountain Sex Offender Registration Code who is required to register with the Turtle Mountain Sex Offender Registration and Notification Department and shall provide all of the information detailed in <cite path="42|42.04">this chapter</cite>. The Turtle Mountain Sex Offender Registration and Notification Department will obtain all of the information detailed in <cite path="42|42.04">this chapter</cite> from covered sex offenders who are required to register in accordance with this code and shall implement the policies and procedures.</text>
+        <text>Duties. A sex offender covered by this Turtle Mountain Sex Offender Registration Code who is required to register with the Turtle Mountain Sex Offender Registration and Notification Department and shall provide all of the information detailed in <cite path="42.04">this chapter</cite>. The Turtle Mountain Sex Offender Registration and Notification Department will obtain all of the information detailed in <cite path="42.04">this chapter</cite> from covered sex offenders who are required to register in accordance with this code and shall implement the policies and procedures.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1536,7 +1511,7 @@
     </section>
     <section>
       <num>42.04.140</num>
-      <heading>Address(S)</heading>
+      <heading>Address(s)</heading>
       <text>The Turtle Mountain Sex Offender Registration and Notification department shall obtain the following information related to the sex offender's residence:</text>
       <para>
         <num>(a)</num>
@@ -1615,7 +1590,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>SORNA Database. The text of each provision of law mentioned in <cite path="42|42.02">Chapter 42.02</cite> shall be cross linked to the SORNA Database containing the text of relevant sex related laws for all jurisdictions.</text>
+        <text>SORNA Database. The text of each provision of law mentioned in <cite path="42.02">Chapter 42.02</cite> shall be cross linked to the SORNA Database containing the text of relevant sex related laws for all jurisdictions.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.04.190 was formerly codified as 42.0419</annotation>
@@ -1655,7 +1630,7 @@
     </section>
     <section>
       <num>42.04.210</num>
-      <heading>Valid Passport(S) and Immigration Documents</heading>
+      <heading>Valid Passport(s) and Immigration Documents</heading>
       <text>The Turtle Mountain Sex Offender Registration and Notification department shall obtain the following information:</text>
       <para>
         <num>(a)</num>
@@ -1958,7 +1933,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Update the registry/public website to reflect the sex offender has absconded or is otherwise not  capable of being located,</text>
+          <text>Update the registry/public website to reflect the sex offender has absconded or is otherwise not capable of being located,</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1984,14 +1959,14 @@
     <section>
       <num>42.05.050</num>
       <heading>Failure to Register</heading>
-      <text>In the event a sex offender who is required to register due to their employment or school attendance status fails to do so or otherwise violate a registration requirement of this code, the Turtle Mountain Sex Offender Registration and Notification Department shall take all appropriate follow-up measures including those outlined in <cite path="42|42.06">Chapter 42.06</cite> and <cite path="26">Title 26</cite>.1215. The Turtle Mountain Sex Offender Registration and Notification department shall first make an effort to determine if the sex offender is actually employed or attending school within the exterior boundaries of the Turtle Mountain Band of Chippewa Indian reservation or on property owned by the Turtle Mountain Band of Chippewa Indians in fee or trust regardless of location.</text>
+      <text>In the event a sex offender who is required to register due to their employment or school attendance status fails to do so or otherwise violate a registration requirement of this code, the Turtle Mountain Sex Offender Registration and Notification Department shall take all appropriate follow-up measures including those outlined in <cite path="42.06">Chapter 42.06</cite> and <cite path="26">Title 26</cite>.1215. The Turtle Mountain Sex Offender Registration and Notification department shall first make an effort to determine if the sex offender is actually employed or attending school within the exterior boundaries of the Turtle Mountain Band of Chippewa Indian reservation or on property owned by the Turtle Mountain Band of Chippewa Indians in fee or trust regardless of location.</text>
       <annotations>
         <annotation type="Prior Codifications">§42.05.050 was formerly codified as 42.0507</annotation>
       </annotations>
     </section>
     <section>
       <num>42.05.060</num>
-      <heading>Employment/Educational Requirement(S)</heading>
+      <heading>Employment/Educational Requirement(s)</heading>
       <text>For the purpose of this code all sex offenders are obligated to seek employment or obtain an education unless they have reached the age of retirement or disabled.</text>
       <para>
         <num>(a)</num>
@@ -2321,7 +2296,7 @@
             <text>Marriage between first cousins of the half as well as the whole blood.</text>
           </para>
         </para>
-        <text><cite path="§42.08.010">This section</cite> applies to illegitimate as well as legitimate children and relatives.</text>
+        <aftertext><cite path="§42.08.010">This section</cite> applies to illegitimate as well as legitimate children and relatives.</aftertext>
       </para>
       <para>
         <num>(f)</num>
@@ -2329,7 +2304,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Gross Sexual Imposition. Any person who engages in a sexual act with another, or who causes another to engage in a sexual act under <cite path="§42.08.010">this section</cite> is a Class 4 offense if:</text>
+        <text>Gross Sexual Imposition. Any person who engages in a sexual act with another, or who causes another to engage in a sexual act under this subsection is a Class 4 offense if:</text>
         <para>
           <num>(1)</num>
           <text>The person compels the victim to submit by force or by threat of imminent death, serious bodily injury, kidnapping, to be inflicted on any human being;</text>
@@ -2342,7 +2317,7 @@
           <num>(3)</num>
           <text>The ability of the other person(s) to resist or consent is substantially impaired due to a mental or physical condition or because of advanced age.</text>
         </para>
-        <text>The victim is less than fourteen (14) years old. An offense under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>The victim is less than fourteen (14) years old. An offense under this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(h)</num>
@@ -2365,7 +2340,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The victim is not a voluntary companion of the actor and has not previously permitted the person sexual permission. A person need not prove physical resistance to the actor in prosecutions under <cite path="§42.08.010">this section</cite>. An offense under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+          <text>The victim is not a voluntary companion of the actor and has not previously permitted the person sexual permission. A person need not prove physical resistance to the actor in prosecutions under this subsection. An offense under this subsection shall be guilty of a Class 4 offense.</text>
         </para>
       </para>
       <para>
@@ -2374,7 +2349,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Incest. Any person who intermarries or engages in a sexual act with another person related to him/her within a degree of family in which marriages are declared incestuous and void as defined in sub<cite path="§26.12.020">Section 26.12.020</cite> knowing such other person to be within said degree of relationship, shall be guilty of a Class 4 offense.</text>
+        <text>Incest. Any person who intermarries or engages in a sexual act with another person related to him/her within a degree of family in which marriages are declared incestuous and void as defined in <cite path="§26.12.060">Section 26.12.060</cite> knowing such other person to be within said degree of relationship, shall be guilty of a Class 4 offense.</text>
       </para>
       <para>
         <num>(l)</num>
@@ -2387,14 +2362,14 @@
           <num>(2)</num>
           <text>Masturbates in a public place.</text>
         </para>
-        <text>Under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <aftertext>Under this subsection shall be guilty of a Class 3 offense.</aftertext>
       </para>
       <para>
         <num>(m)</num>
         <text>Lewd Conduct. Motives are irrelevant; ignorance of nature no defense; unknowing definition of a crime no defense; obscene publication no defense. Any person who:</text>
         <para>
           <num>(1)</num>
-          <text>makes, prints, publishes, distributes, circulates, or has in his possession for the  purpose of publication, distribution or circulation any obscene written matter, picture, model, phonograph record or other thing whatever; or</text>
+          <text>makes, prints, publishes, distributes, circulates, or has in his possession for the purpose of publication, distribution or circulation any obscene written matter, picture, model, phonograph record or other thing whatever; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2416,14 +2391,14 @@
           <num>(6)</num>
           <text>advertises or publishes an advertisement of any means, instructions, medicine, drug or article intended or represented as a method for restoring sexual virility or curing venereal diseases or diseases of the generative organs.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 2 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 2 offense.</aftertext>
       </para>
       <para>
         <num>(n)</num>
         <text>Lewd Act is Public. Any person who engages in the following:</text>
         <para>
           <num>(1)</num>
-          <text>Exposure of any portion of the human anus or genitals, including display of the male genitals in discernible turgid state, even if completely and opaquely covered; or exposure of the female breast lower than the upper edge of the areola, provide, however, that nothing in <cite path="§42.08.010">this section</cite> shall prohibit the breastfeeding of an infant or child; or</text>
+          <text>Exposure of any portion of the human anus or genitals, including display of the male genitals in discernible turgid state, even if completely and opaquely covered; or exposure of the female breast lower than the upper edge of the areola, provide, however, that nothing in this subsection shall prohibit the breastfeeding of an infant or child; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2443,7 +2418,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any person who commits a violation of <cite path="§42.08.010">this section</cite> within 500 feet of or on private or public elementary, middle, or high school property shall be guilty of a Class 4 offense.</text>
+          <text>Any person who commits a violation of this subsection within 500 feet of or on private or public elementary, middle, or high school property shall be guilty of a Class 4 offense.</text>
         </para>
       </para>
       <para>
@@ -2465,11 +2440,11 @@
           <num>(4)</num>
           <text>Making unwanted and offensive sexual advances or of sexually offensive remarks or acts, by another person.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 3 offense.</aftertext>
       </para>
       <para>
         <num>(p)</num>
-        <text>Sexual Battery. A person who commits the act of making unwanted and sexually offensive contact with an intimate body part of another person or which causes an immediate apprehension in the other person that such an act will occur. Intimate body parts include sexual organs, the anus, the groin or buttocks of any person and the breasts of a female. Sexual Battery includes situations in which the interactions defined are with a person who is incapable of giving consent or resisting due to alcohol or drugs. Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <text>Sexual Battery. A person who commits the act of making unwanted and sexually offensive contact with an intimate body part of another person or which causes an immediate apprehension in the other person that such an act will occur. Intimate body parts include sexual organs, the anus, the groin or buttocks of any person and the breasts of a female. Sexual Battery includes situations in which the interactions defined are with a person who is incapable of giving consent or resisting due to alcohol or drugs. Any person who violates this subsection shall be guilty of a Class 3 offense.</text>
       </para>
       <para>
         <num>(q)</num>
@@ -2482,11 +2457,11 @@
           <num>(2)</num>
           <text>Business in this subsection shall mean any transaction of sexual activity in exchange of funds or to transfer anything of monetary value.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 3 offense.</aftertext>
       </para>
       <para>
         <num>(r)</num>
-        <text>Facilitation of Sexual Favors. Any person, who shall knowingly promote or facilitate prostitution or causes another to become engaged in sexual activity for the purpose of prostitution as defined in <cite path="42|42.08">this chapter</cite>, shall be guilty of a Class 3 offense.</text>
+        <text>Facilitation of Sexual Favors. Any person, who shall knowingly promote or facilitate prostitution or causes another to become engaged in sexual activity for the purpose of prostitution as defined in <cite path="42.08">this chapter</cite>, shall be guilty of a Class 3 offense.</text>
       </para>
       <para>
         <num>(s)</num>
@@ -2499,7 +2474,7 @@
           <num>(2)</num>
           <text>Commits a sexual act with another who has been rendered unconscious or involuntarily drugged or who is otherwise incapable of appraising the nature of appraising the nature of the conduct or declining to participate or consent.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(t)</num>
@@ -2536,7 +2511,7 @@
           <num>(7)</num>
           <text>The victim is one whom the offender knew or should have known was physically helpless, mentally defective or mentally incapacitated. [U.S.C. 2241]</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(v)</num>
@@ -2544,7 +2519,7 @@
       </para>
       <para>
         <num>(w)</num>
-        <text>Attempt To Commit Sexual Abuse. Any person; who had the intent to cause another person to engage in a sexual act by use of force and has taken a substantial step to do so, can be convicted of attempted aggravated sexual abuse. [U.S.C. § 2241] Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <text>Attempt To Commit Sexual Abuse. Any person; who had the intent to cause another person to engage in a sexual act by use of force and has taken a substantial step to do so, can be convicted of attempted aggravated sexual abuse. [U.S.C. § 2241] Any person who violates this subsection shall be guilty of a Class 4 offense.</text>
       </para>
       <para>
         <num>(x)</num>
@@ -2557,7 +2532,7 @@
           <num>(2)</num>
           <text>Use a minor to trick, lure, coerce, promote, recruit, transport, harbor or entice another minor for the purpose of causing the minor to engage in sexual acts or sexual conduct.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(y)</num>
@@ -2582,7 +2557,7 @@
             <text>the exchange of sexually explicit text messages, including photographs, via cell phone.</text>
           </para>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(aa)</num>
@@ -2601,7 +2576,7 @@
           <para>
             <num>(C)</num>
             <text>Forcing, threatening, intimidating, entices or coercing a child or juvenile to engage in oral sex.</text>
-            <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+            <text>Any person who violates this subsection shall be guilty of a Class 4 offense.</text>
           </para>
         </para>
         <para>
@@ -2620,7 +2595,7 @@
             <text>To intentionally cause a child by threats, intimidation, enticement or coerce a child or juvenile to view any pornographic material such as videos, DVDs, magazines or photographs through any electronic device for the purpose of becoming sexually aroused for gratification of the actor, to humiliate or degrade the child.</text>
           </para>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 3 offense.</aftertext>
       </para>
       <para>
         <num>(bb)</num>
@@ -2661,7 +2636,7 @@
             <text>With the intent to promote either the engaging in sexually explicit conduct by such minor for the purpose of producing any visual depiction of such conduct or the rendering of assistance by the minor to any person to engage in sexually explicit conduct for the purpose of producing any visual depiction of such conduct. [U.S.C. 2251A]</text>
           </para>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(dd)</num>
@@ -2686,7 +2661,7 @@
           <num>(5)</num>
           <text>Secretly provides shelter, lodging, or who knowingly, attempts, or assists by providing false information, shelter, residence or protection to conceal a minor runaway.</text>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense</aftertext>
       </para>
       <para>
         <num>(ee)</num>
@@ -2699,7 +2674,7 @@
             <text>a photographic, film, video or other visual representation, whether or not it was made by electronic or mechanical means,</text>
             <para>
               <num>(i)</num>
-              <text>That shows a person who is or is depicted as being under the age of    eighteen years and is engaged in or is depicted as engaged in explicit sexual activity, or</text>
+              <text>That shows a person who is or is depicted as being under the age of eighteen years and is engaged in or is depicted as engaged in explicit sexual activity, or</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -2711,7 +2686,7 @@
             </para>
           </para>
         </para>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any person who violates this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(ff)</num>
@@ -2753,12 +2728,12 @@
           <text>The jurisdiction of this Turtle Mountain Band of Chippewa Indian Sex Offender Registration Code shall include all trust and fee simple land within the boundaries of the Turtle Mountain Indian Reservation and to all trust land located in the State of North Dakota, such other lands as may be acquired by or on behalf of said Tribe and be added thereto under the laws of the United States knowingly sells or possesses with the intent to sell any child pornography; or</text>
           <para>
             <num>(A)</num>
-            <text>Sells or possesses with the intent to sell any child pornography that has been mailed or shipped or transported in interstate or foreign commerce by any means, including any computer, or that was produced using material that have been mailed or shipped or transported in  interstate or foreign commerce by any means, including by computer;</text>
+            <text>Sells or possesses with the intent to sell any child pornography that has been mailed or shipped or transported in interstate or foreign commerce by any means, including any computer, or that was produced using material that have been mailed or shipped or transported in interstate or foreign commerce by any means, including by computer;</text>
           </para>
         </para>
         <para>
           <num>(4)</num>
-          <text>The jurisdiction of this Turtle Mountain Band of Chippewa Indian Sex Offender   Registration Code shall include all trust and fee simple land within the boundaries of the Turtle Mountain Indian Reservation and to all trust land located in the State of North Dakota, such other lands as may be acquired by or on behalf of said Tribe and be added thereto under the laws of the United States knowingly possess any book, magazine, periodical, film, videotape, computer disk or any material that contains an image of child pornography; or</text>
+          <text>The jurisdiction of this Turtle Mountain Band of Chippewa Indian Sex Offender Registration Code shall include all trust and fee simple land within the boundaries of the Turtle Mountain Indian Reservation and to all trust land located in the State of North Dakota, such other lands as may be acquired by or on behalf of said Tribe and be added thereto under the laws of the United States knowingly possess any book, magazine, periodical, film, videotape, computer disk or any material that contains an image of child pornography; or</text>
           <para>
             <num>(A)</num>
             <text>Possesses in any book, magazine, periodical, film, videotape, computer disk or any other material that contains an image of child pornography that has been mailed or shipped or transported in interstate or foreign commerce by any means , including by computer; or</text>
@@ -2780,7 +2755,7 @@
             <text>Which distribution, offer, sending or provision is accomplished using the mail or by transmitted or causing to be transmitted a wire communication in interstate or foreign commerce, including by computer for purposes of inducing or persuading a minor to participate in any activity that is illegal.</text>
           </para>
         </para>
-        <text>Any violation under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <aftertext>Any violation under this subsection shall be guilty of a Class 4 offense.</aftertext>
       </para>
       <para>
         <num>(gg)</num>
@@ -2805,7 +2780,7 @@
           <num>(3)</num>
           <text>Lacks serious literary, artistic, political, or scientific value for minors. [U.S.C. 2252B]</text>
         </para>
-        <text>Any violation under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense.</text>
+        <aftertext>Any violation under this subsection shall be guilty of a Class 3 offense.</aftertext>
       </para>
       <para>
         <num>(jj)</num>
@@ -2850,7 +2825,7 @@
           <num>(3)</num>
           <text>A sex offender will be taken back into custody due to a conviction for any crime whether or not the crime is a sex offense.</text>
         </para>
-        <text>The Turtle Mountain Law Enforcement or designee shall ensure recapture of the sex offender within the following time frames; for Tier 1 sex offenders, [1] one year; for Tier 2 sex offenders, [6] six months; and for Tier 3 sex offender, [3] three months.</text>
+        <aftertext>The Turtle Mountain Law Enforcement or designee shall ensure recapture of the sex offender within the following time frames; for Tier 1 sex offenders, [1] one year; for Tier 2 sex offenders, [6] six months; and for Tier 3 sex offender, [3] three months.</aftertext>
       </para>
       <para>
         <num>(qq)</num>
@@ -2865,7 +2840,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Sells or exchanges sex offender information for profit. Any violation under <cite path="§42.08.010">this section</cite> shall be guilty of a Class 3 offense</text>
+          <text>Sells or exchanges sex offender information for profit. Any violation under this subsection shall be guilty of a Class 3 offense</text>
         </para>
       </para>
       <para>
@@ -2999,17 +2974,17 @@
       <para>
         <num>(ww)</num>
         <text>Child Endangerment. For the purpose of this code any person who has legal care, custody or guardianship of child/children under the age of eighteen (18), who intentionally or knowingly allows a sex offender to care for said child/children and a sex offense occurs during the time the sex offender was in the care of said child/children; that guardian, parent, custody or legal care person shall be charged with: Child Endangerment.</text>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <text>Any person who violates this subsection shall be guilty of a Class 4 offense.</text>
       </para>
       <para>
         <num>(xx)</num>
         <text>Elderly Endangerment. For the purpose of this code any person who has legal care, custody or guardianship of an Elderly person, who intentionally or knowingly allows a convicted sex offender to care for said elderly person and a sex offense occurs during the time the sex offender was in care of that elderly person; that guardian, parent, custody or legal care person shall be charged with:  Elderly Endangerment.</text>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <text>Any person who violates this subsection shall be guilty of a Class 4 offense.</text>
       </para>
       <para>
         <num>(yy)</num>
         <text>Disabled/Handicap Endangerment. For the purpose of this code any person who has legal care, custody or guardianship of an Handicap/ Disabled person, who intentionally or knowingly allows a convicted sex offender to care for said Handicap/Disabled person and a sex offense occurs during the time the sex offender was in care of that Handicap/Disabled person; that guardian, parent, custody or legal care person shall be charged with: Disabled/Handicap Endangerment.</text>
-        <text>Any person who violates <cite path="§42.08.010">this section</cite> shall be guilty of a Class 4 offense.</text>
+        <text>Any person who violates this subsection shall be guilty of a Class 4 offense.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.08.010 was formerly codified as 42.0801</annotation>
@@ -3217,7 +3192,7 @@
     </section>
     <section>
       <num>42.12.050</num>
-      <heading>Juvenile Sex Offender(S)</heading>
+      <heading>Juvenile Sex Offender(s)</heading>
       <text>Who are the age of fourteen (14) years and older but who are under the age of eighteen (18) years of age who are not legally emancipated, or have not been tried and found guilty as an adult of a sex offense as defined by the Code shall be required to register as a sex offender within the jurisdiction of the Turtle Mountain Band of Chippewa Indians, or have not been tried and found guilty as an adult shall be required to register as a sex offender within the Turtle Mountain Band of Chippewa Indian Reservation in accordance with this Code.</text>
       <para>
         <num>(a)</num>
@@ -3334,7 +3309,7 @@
     </section>
     <section>
       <num>42.13.030</num>
-      <heading>Child Safety Zone(S)/Property</heading>
+      <heading>Child Safety Zone(s)/Property</heading>
       <text>All Schools, Head Starts, Daycares, parks, playgrounds, recreation centers, gymnasiums, sports fields, or sports facilities, this includes any and all property/zone(s) owned or used by any School(s) or Daycare facilities which is under the jurisdiction of any department, agency, or authority of the Turtle Mountain Band of Chippewa Indians, including, but not limited to, all trust and fee simple land within the boundaries of the Turtle Mountain Indian Reservation and extending to all trust land located in the State of North Dakota, such other lands as may be acquired by or on behalf of the Turtle Mountain Band of Chippewa Indians and be added thereto under the laws of the United States. This Code also includes any and all buildings, land, parking areas or other improvements located on the same parcel on which each of the aforementioned facilities is located, but does not include any public street, and also does not include any public sidewalk which is located on the outside boundary of a child safety zone(s). This child safety zone shall include any airway or underground accesses.</text>
       <annotations>
         <annotation type="Prior Codifications">§42.13.030 was formerly codified as 42.1303</annotation>
@@ -3395,7 +3370,7 @@
             <text>any felony that the court finds was committed for a sexual purpose</text>
           </para>
         </para>
-        <text>All offenders who were convicted for a sex crime or sex related crime will follow all regulations rules within <cite path="42">this title</cite> - Turtle Mountain Sex Offender Registration Code.</text>
+        <aftertext>All offenders who were convicted for a sex crime or sex related crime will follow all regulations rules within <cite path="42">this title</cite> - Turtle Mountain Sex Offender Registration Code.</aftertext>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§42.13.040 was formerly codified as 42.1304</annotation>
@@ -3586,7 +3561,7 @@
     <prefix>Chapter</prefix>
     <section>
       <num>42.15.010</num>
-      <heading>Visitor(S); Sex Offender Requirements</heading>
+      <heading>Visitor(s); Sex Offender Requirements</heading>
       <text>All sex offenders who <strong>visit </strong>within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation shall comply with the terms and conditions of <cite path="42">this title</cite> Turtle Mountain Sex Offender Registration Code; all sex offenders</text>
       <para>
         <num>(a)</num>
