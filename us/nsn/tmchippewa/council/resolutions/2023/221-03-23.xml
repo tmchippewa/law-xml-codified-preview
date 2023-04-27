@@ -51,40 +51,70 @@
     <text>__________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace path="§43.01.010|(d)|(2)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.010|(d)|(2)">
+  <codify:replace path="|43.01.010|(d)|(2)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.010|(d)|(2)">
     <para>
       <num>(2)</num>
       <text>All Covered Loans, Lending Operations, and Service Providers are subject to regulation by the Tribal Lending Regulatory Commission (Commission) as set forth in this Code.</text>
     </para>
   </codify:replace>
-  <codify:replace path="§43.01.020|(f)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(f)">
+  <codify:replace path="|43.01.020|(f)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(f)">
     <para>
       <num>(f)</num>
       <text>“Key Employee” means only the Chief Executive Officer, Chief Compliance Officer, Chief Finance Officer, or if such a position does not exist, any person acting in a similar capacity.</text>
     </para>
   </codify:replace>
-  <codify:replace path="§43.01.020|(r)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(r)">
+  <codify:replace path="|43.01.020|(r)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(r)">
     <para>
       <num>(r)</num>
       <text>“Tribal Lands” means all lands within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation, and any lands title to which is either held in trust by the United States for the benefit of the Tribe or a member of the Tribe, or held by the United States for the benefit of the Tribe or member of the Tribe subject to restriction by the United States against alienation and over which the Tribe exercises governmental power. Tribal Lands further include tribal digital jurisdiction and sovereign authority over the data related to their citizens, businesses, and activities online, and that the collection, use, and application is subject to Tribal Law and Policies.</text>
     </para>
   </codify:replace>
-  <codify:replace path="§43.01.030|(b)|(3)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(3)">
+  <codify:replace path="|43.01.030|(b)|(3)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(3)">
     <para>
       <num>(3)</num>
       <text>examine each Licensee annually and more frequently if the Commission considers it necessary;</text>
     </para>
   </codify:replace>
-  <codify:replace path="§43.01.030|(b)|(4)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(4)">
+  <codify:replace path="|43.01.030|(b)|(4)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(4)">
     <para>
       <num>(4)</num>
       <text>supervise the activities of Lending Operations and through supervision of Lending Operations, applicable activities of Service Providers in connection with services provided to Lending Operations, to ensure compliance with Tribal Law, this code, and applicable Tribal Consumer Protection Laws;</text>
     </para>
   </codify:replace>
-  <codify:replace path="§43.01.030|(g)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(g)">
+  <codify:replace path="|43.01.030|(g)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(g)">
     <para>
       <num>(g)</num>
       <text>Any person appointed as a Commissioner must be at least 21 years of age; show proof of a bachelor’s degree in a relevant field such as but not limited to: law, finance, accounting or business; possess at least 5 years of experience employed in leadership positions demonstrating consistent advancement in lending, finance, management, business, governmental regulation, law, accounting, and/or Tribal policy; and, in the Tribal Council’s sole opinion, the organizational abilities to effectively manage the business of the Commission and make decisions on behalf of the Commission.  No person shall serve as a Commissioner if convicted of or has entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or, in the Tribal Council’s sole discretion, has reputation, habits, or associations that could undermine the integrity of the Commission or its roles in protecting Consumers.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|43.02.010|(d)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.02.010|(d)">
+    <para>
+      <num>(d)</num>
+      <text>All Loan Products shall be Licensed and adhere to this Code and the Tribal Consumer Protection Laws. Without limiting the general application of the foregoing, the following conduct is required under this code:</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|43.02.010|(e)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.02.010|(e)">
+    <para>
+      <num>(e)</num>
+      <text>All Service Providers shall be registered with the Commission and adhere to this Code and the Tribal Consumer Protection Laws. Service Providers shall be subject to applicable sections of this code without regard to place of incorporation or headquarters location.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|43.02.010|(f)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.02.010|(f)">
+    <para>
+      <num>(f)</num>
+      <text>All Key Employees shall be registered with the Commission, may be subject to background checks and adhere to this Code and the Tribal Consumer Protection Laws. Key Employees shall be subject to applicable sections of this Code without regard to place of residence or Tribal membership.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|43.02.020|(a)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.02.020|(a)">
+    <para>
+      <num>(a)</num>
+      <text>Each Lending Operation, Key Employee, Service Provider, and Loan Product shall be licensed by the Commission. The form and content of the license application shall be determined by the commission. The Commission may promulgate rules regarding licensing, provisional, and temporary licenses, and application materials. Key Employees and Service Providers of each Lending Operation shall be registered with the Commission with the submission of each Lending Operation and Loan Product license application.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|43.03.020|(b)|(5)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.03.020|(b)|(5)">
+    <para>
+      <num>(5)</num>
+      <text>Licensees shall report to the Commission all discovered security breaches and unauthorized transfers as soon as possible, but not later than thirty (30) days after a breach or unauthorized transfer was discovered.</text>
     </para>
   </codify:replace>
 </document>
