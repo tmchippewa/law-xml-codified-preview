@@ -457,7 +457,7 @@
           <num>(6)</num>
           <text>a copy of the notification of Respondent's rights as described in <cite path="§53.04.040|(c)">Section 53.04.040(c)</cite>.</text>
         </para>
-        <text>The law enforcement officer shall orally inform the Respondent that they are being taken into custody as a result of the petition. The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</text>
+        <aftertext>The law enforcement officer shall orally inform the Respondent that they are being taken into custody as a result of the petition. The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</aftertext>
       </para>
       <para>
         <num>(e)</num>
@@ -490,7 +490,7 @@
           <num>(7)</num>
           <text>a copy of the notification of Respondent's rights as described in <cite path="§53.04.040|(c)">Section 53.04.040(c)</cite>.</text>
         </para>
-        <text>The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</text>
+        <aftertext>The Court shall also cause for a copy to be served upon the Respondent's counsel, any guardian, the Respondent's closest relative, and any person designated by the Respondent to receive notice.</aftertext>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1147-08-20"/>
@@ -614,7 +614,7 @@
           <num>(2)</num>
           <text>Order the Respondent undergo up to fourteen days in a less restrictive treatment alternative (e.g. follow medical advice, begin a treatment program, etc.).</text>
         </para>
-        <text>The Court shall order the least restrictive treatment necessary to ensure the continued well-being of the Respondent and others who are likely to be affected by the Respondent's condition.</text>
+        <aftertext>The Court shall order the least restrictive treatment necessary to ensure the continued well-being of the Respondent and others who are likely to be affected by the Respondent's condition.</aftertext>
       </para>
       <para>
         <num>(e)</num>
@@ -823,7 +823,7 @@
           <num>(8)</num>
           <text>If the patient has a legal guardian, the patient's legal guardian's opinion on involuntary medication.</text>
         </para>
-        <text>The Court may not authorize involuntary treatment with prescribed medication solely for the convenience of facility staff or for the purpose of punishment.</text>
+        <aftertext>The Court may not authorize involuntary treatment with prescribed medication solely for the convenience of facility staff or for the purpose of punishment.</aftertext>
       </para>
       <para>
         <num>(e)</num>

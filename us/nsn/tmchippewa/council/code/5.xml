@@ -1223,9 +1223,17 @@
     <section>
       <num>5.02.130</num>
       <heading>Transfer to Adult Court</heading>
-      <text>The Court may, at its discretion, allow prosecution of any delinquent juvenile fifteen (15) years or older in accordance with the laws of the Turtle Mountain Jurisdiction governing the commission of crimes within the jurisdiction of the Tribal Court. In such cases, the petition filed under this Code shall be dismissed, and or a criminal complaint shall be filed.</text>
+      <para>
+        <num>(a)</num>
+        <text>The Court may, at its discretion, allow prosecution of any delinquent juvenile fifteen (15) years or older in accordance with the laws of the Turtle Mountain Jurisdiction governing the commission of crimes within the jurisdiction of the Tribal Court. In such cases, the petition filed under this Code shall be dismissed, and or a criminal complaint shall be filed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An individual at least eighteen years of age who committed either a class 4 or class 5 offense and/or a sexual crime while a child and was not adjudicated for the offense in juvenile court may be prosecuted in adult court as an adult, unless the Tribe intentionally delayed the prosecution to avoid juvenile court jurisdiction.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§5.02.130 was formerly codified as 5.0213</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 218-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>

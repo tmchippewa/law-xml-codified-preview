@@ -367,7 +367,7 @@
         <num>(c)</num>
         <text>Each Marijuana Employee License shall include the following printed statement and the application for the license shall require the individual applicant to acknowledge in writing the following warning:</text>
       </para>
-      <text>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</text>
+      <aftertext>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</aftertext>
       <annotations>
         <annotation type="Prior Codifications">§56.03.020 was formerly codified as 56.0302</annotation>
       </annotations>
@@ -1359,8 +1359,8 @@
           <num>(3)</num>
           <text>Such other information as the Commission may require by regulation.</text>
         </para>
-        <text>Nothing in <cite path="§56.08.030">this section</cite> prohibits a cultivation facility, processing facility, or distribution facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</text>
       </para>
+      <aftertext>Nothing in <cite path="§56.08.030">this section</cite> prohibits a cultivation facility, processing facility, or distribution facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</aftertext>
       <annotations>
         <annotation type="Prior Codifications">§56.08.030 was formerly codified as 56.0803</annotation>
       </annotations>

@@ -4346,30 +4346,72 @@
     </section>
     <section>
       <num>26.13.060</num>
-      <heading>Assault</heading>
-      <text>A person commits the crime of assault if the person intentionally places another in reasonable fear of being physically injured; or who shall threaten bodily harm to another person through unlawful force or violence shall be guilty of a Class 1 offense, and may be required to furnish a satisfactory peace bond for [1] one year.</text>
+      <heading>Threat of Bodily Harm</heading>
+      <text>A person commits the crime of threat of bodily harm if the person intentionally places another in reasonable fear of being physically injured; or who shall threaten bodily harm to another person through unlawful force or violence shall be guilty of a Class One (1) offense, and may be required to furnish a satisfactory peace bond for [1] one year.</text>
       <annotations>
         <annotation type="Prior Codifications">§26.13.060 was formerly codified as 26.1304</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.13.070</num>
-      <heading>Assault and Battery</heading>
+      <heading>Simple Assault</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be unlawful and a class [2] two offense to "willfully" cause "bodily injury" to another person.</text>
+        <text>A person is guilty of an offense if that person:</text>
         <para>
           <num>(1)</num>
-          <text>Bodily injury is any impairment, including physical pain.</text>
+          <text>Willfully causes bodily injury to another human being; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Substantial bodily injury is any significant, but temporary impairment, loss, or disfigurement.</text>
+          <text>Negligently causes bodily injury to another human being by means of a firearm, destructive device, or other weapon, the use of which against a human being is likely to cause death or serious bodily injury.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The offense is:</text>
+        <para>
+          <num>(1)</num>
+          <text>A Class Four (4) Offense when the victim is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; an employee of a health care facility acting in the course and scope of employment, which the actor knows to be a fact, and the actor is an individual committed to or detained at the a health care facility; a person engaged in a judicial proceeding; or a member of a municipal or volunteer fire department or emergency medical services personnel unit or emergency department worker in the performance of the member's duties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Class Two (2) Offense, except as provided in subdivision (1).</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>As used in this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>"health care facility" means an office or institution providing health care services or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions, including a hospital; clinic; ambulatory surgery center; outpatient care facility; weight control clinic; nursing home; basic care or assisted living facility; laboratory; or office of any medical licensed professional per any state of the United States, or any individual who is included within a specialty and subspecialty of those fields. The term includes a waiting room, hallway, private room, semiprivate room, ward, and any mobile or temporary facility.</text>
         </para>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
         <annotation type="Prior Codifications">§26.13.070 was formerly codified as 26.1305</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.13.075</num>
+      <heading>Assault</heading>
+      <text>A person is guilty of a Class Three (3) Offense, if that person:</text>
+      <para>
+        <num>(a)</num>
+        <text>Willfully causes substantial bodily injury to another human being; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Negligently causes substantial bodily injury to another human being by means of a firearm, destructive device, or other weapon, the use of which against a human being is likely to cause death or serious bodily injury.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The person is guilty of a Class Four (4) Offense if the person violates Subsection (a) and the victim is under twelve years of age.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4377,23 +4419,44 @@
       <heading>Aggravated Assault</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be unlawful and a Class [3] three offense to "willfully" commit an act that's done intentionally, knowingly, or recklessly to injure another person.</text>
+        <text>Except as provided in subsection (b), a person is guilty of a Class Four (4) Offense if that person:</text>
         <para>
           <num>(1)</num>
-          <text>willfully causing serious injury to another person</text>
+          <text>Willfully causes serious bodily injury to another human being;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>knowingly causing bodily injury or substantial bodily injury to another person with a weapon under circumstances that indicate an intention to inflict serious injury</text>
+          <text>Knowingly causes bodily injury or substantial bodily injury to another human being with a dangerous weapon or other weapon, the possession of which under the circumstances indicates an intent or readiness to inflict serious bodily injury;</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>causing bodily injury or substantial bodily injury while attempting to inflict serious bodily injury.</text>
+          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or </text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fires a firearm or hurls a destructive device at another human being. </text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The person is guilty of a Class Five (5) if the person violates Subsection (a) and the victim:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is under twelve years of age;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Suffers permanent loss or impairment of the function of a bodily member or organ.</text>
         </para>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
         <annotation type="Prior Codifications">§26.13.080 was formerly codified as 26.1305.01</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4401,7 +4464,7 @@
       <heading>Assault Resulting in Serious Bodily Injury</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be unlawful to assault another person and inflict serious bodily injury and a Class [4] four offense.</text>
+        <text>It shall be unlawful to assault another person and inflict serious bodily injury and a Class Five (5) offense.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4411,28 +4474,55 @@
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 5619-04-94"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
         <annotation type="Prior Codifications">§26.13.090 was formerly codified as 26.1305.02</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.13.100</num>
-      <heading>Assault Resulting in Serious Bodily Injury or with a Dangerous Weapon</heading>
-      <text>It shall be unlawful and a class [4] four offense to assault another person with a deadly weapon or negligently causes serious bodily injury by means of a firearm, destructive device or another weapon of which would likely cause death or serious and emitting any noxious liquid, gas, or substance bodily injury.</text>
+      <heading>Assault Resulting in Serious Bodily Injury with a Dangerous Weapon, Destructive Device, or Firearm</heading>
+      <text>It shall be unlawful and a class Five (5) offense to assault another person with a dangerous weapon or negligently causes serious bodily injury by means of a firearm, destructive device or another weapon of which would likely cause death or serious bodily injury, and emitting any noxious liquid, gas, or substance bodily injury.</text>
       <para>
         <num>(a)</num>
-        <text>any switchblade or gravity knife, machete, scimitar, stiletto, sword, or dagger; any throwing star, nunchaku, or other martial arts weapon, any billy club, blackjack, sap, bludgeon, cudgel, metal knuckles, or sand club; any slingshot; any bow and arrow, crossbow, or spear; any stun gun; and any projector of a bomb or any object containing or capable of producing and emitting any noxious liquids, gas, or substance.</text>
+        <text>Any dangerous weapon and destructive device including, but not limited to; any switchblade or gravity knife, machete, scimitar, stiletto, sword, or dagger; any throwing star, nunchaku, or other martial arts weapon, any billy club, blackjack, sap, bludgeon, cudgel, metal knuckles, or sand club; any slingshot; any bow and arrow, crossbow, or spear; any stun gun; and any projector of a bomb or any object containing or capable of producing and emitting any noxious liquids, gas, or substance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or “zipgun”/homemade firearm.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The lists above are not exhaustive.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
         <annotation type="Prior Codifications">§26.13.100 was formerly codified as 26.1306</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.13.110</num>
-      <heading>Assault by Pointing a Gun</heading>
-      <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, unless defending oneself, either in fun or otherwise, whether a BB or pellet gun, long gun, shotgun or pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol and shall be a Class [3] three offense.</text>
+      <heading>Threat of Assault with a Dangerous Weapon, Destructive Device, or Firearm</heading>
+      <text>It shall be unlawful and a Class Three (3) Offense to threaten assault of another person with a dangerous weapon, destructive device or firearm.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any dangerous weapon and destructive device including, but not limited to; any switchblade or gravity knife, machete, scimitar, stiletto, sword, or dagger; any throwing star, nunchaku, or other martial arts weapon, any billy club, blackjack, sap, bludgeon, cudgel, metal knuckles, or sand club; any slingshot; any bow and arrow, crossbow, or spear; any stun gun; and any projector of a bomb or any object containing or capable of producing and emitting any noxious liquids, gas, or substa.nce</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or “zipgun”/homemade firearm.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The lists above are not exhaustive.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Subsection (a) does not apply if an individual is defending oneself or others.</text>
+      </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1246-06-18"/>
         <annotation type="Prior Codifications">§26.13.110 was formerly codified as 26.1306.01</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>

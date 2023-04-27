@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 221-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>221-03-23</num>
+  <heading>Resolution Number TMBC 221-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2023-03-23</effective>
+    <citations>
+      <citation type="res" url="./adopted/221-03-23.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 221-03-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-23</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-Laws</cite> approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe is proposing revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>, Credit Transaction Code to provide for changes for the lending title for better protection for the Tribe and the borrowers; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe, by Resolution No. TMBC 113-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>, Credit Transaction Code, and no comments were made; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving revisions to the Tribal code, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>, Credit Transactions Code, as published in the comment period notice; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly to insert amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of March, 2023</em></strong> that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> - Representatives Blaine "Slugger" Davis, Ron Trottier Sr., Craig Lunday, Kenneth Malaterre, Elmer Davis Jr. and Chad Counts; two (2) absent- Representatives Lynn Gourneau and Jon Jon Keplin; none (0) opposed; with the Chairman not voting.</text>
+    <text>__________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW/Dated this ___ day of ___________, 20__</text>
+    <text>(  ) VETOED/Dated this ____ day of ______________, 20__</text>
+    <text>__________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="§43.01.010|(d)|(2)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.010|(d)|(2)">
+    <para>
+      <num>(2)</num>
+      <text>All Covered Loans, Lending Operations, and Service Providers are subject to regulation by the Tribal Lending Regulatory Commission (Commission) as set forth in this Code.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="§43.01.020|(f)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(f)">
+    <para>
+      <num>(f)</num>
+      <text>“Key Employee” means only the Chief Executive Officer, Chief Compliance Officer, Chief Finance Officer, or if such a position does not exist, any person acting in a similar capacity.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="§43.01.020|(r)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.020|(r)">
+    <para>
+      <num>(r)</num>
+      <text>“Tribal Lands” means all lands within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation, and any lands title to which is either held in trust by the United States for the benefit of the Tribe or a member of the Tribe, or held by the United States for the benefit of the Tribe or member of the Tribe subject to restriction by the United States against alienation and over which the Tribe exercises governmental power. Tribal Lands further include tribal digital jurisdiction and sovereign authority over the data related to their citizens, businesses, and activities online, and that the collection, use, and application is subject to Tribal Law and Policies.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="§43.01.030|(b)|(3)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(3)">
+    <para>
+      <num>(3)</num>
+      <text>examine each Licensee annually and more frequently if the Commission considers it necessary;</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="§43.01.030|(b)|(4)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(b)|(4)">
+    <para>
+      <num>(4)</num>
+      <text>supervise the activities of Lending Operations and through supervision of Lending Operations, applicable activities of Service Providers in connection with services provided to Lending Operations, to ensure compliance with Tribal Law, this code, and applicable Tribal Consumer Protection Laws;</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="§43.01.030|(g)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.01.030|(g)">
+    <para>
+      <num>(g)</num>
+      <text>Any person appointed as a Commissioner must be at least 21 years of age; show proof of a bachelor’s degree in a relevant field such as but not limited to: law, finance, accounting or business; possess at least 5 years of experience employed in leadership positions demonstrating consistent advancement in lending, finance, management, business, governmental regulation, law, accounting, and/or Tribal policy; and, in the Tribal Council’s sole opinion, the organizational abilities to effectively manage the business of the Commission and make decisions on behalf of the Commission.  No person shall serve as a Commissioner if convicted of or has entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or, in the Tribal Council’s sole discretion, has reputation, habits, or associations that could undermine the integrity of the Commission or its roles in protecting Consumers.</text>
+    </para>
+  </codify:replace>
+</document>

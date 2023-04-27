@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 220-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>220-03-23</num>
+  <heading>Resolution Number TMBC 220-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2023-03-23</effective>
+    <citations>
+      <citation type="res" url="./adopted/220-03-23.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 220-03-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-23</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-Laws</cite> approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposes revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="37">Title 37</cite> to provide for changes to the Domestic Violence Title to differentiate between crimes of violence and crimes of abuse to ensure the charges are specific because the federal court system ruled our provisions too vague to attach jeopardy; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe, by Resolution No. TMBC 112-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="37">Title 37</cite> of the Domestic Violence Code, and no comments were made; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving revisions to the Tribal Code, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="37">Title 37</cite> Domestic Violence as published in the comment period notice; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly to insert amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="37">Title 37</cite>, Domestic Violence.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of March, 2023</em></strong> that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> - Representatives Blaine "Slugger" Davis, Kenneth Malaterre, Craig Lunday, Ron Trottier Sr., Elmer Davis Jr. and Chad Counts; two (2) absent- Representatives Lynn Gourneau and Jon Jon Keplin; none (0) opposed; with the Chairman not voting.</text>
+    <text>__________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW/Dated this ___ day of ___________, 20__</text>
+    <text>(  ) VETOED/Dated this ____ day of ______________, 20__</text>
+    <text>__________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="|37.01.030" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|37.01.030">
+    <section>
+      <num>37.01.030</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"ABUSE" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>Intentionally, recklessly or negligently causing or attempting to cause physical harm or mental anguish to another person; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Threatening or placing another person in reasonable fear or apprehension of imminent physical injury.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"SEXUAL ASSAULT" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any unwelcome sexual contact;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Causing another person to involuntarily engage in sexual activity by force; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Causing another person to involuntarily engage in sexual activity by threat of force or duress.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"ADVOCATE" means an employee of, or volunteer for a program for victims of domestic violence, who:</text>
+        <para>
+          <num>(1)</num>
+          <text>Renders advocacy, counseling or assistance to victims of domestic violence;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Supervises the employees or volunteers of the program;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Administers the program; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Works under the direction of a supervisor of the program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"COUNSELING" means services provided by authorized agencies that provide services for, but not limited to, domestic violence, domestic violence evaluations, alcohol and drug rehabilitation, parenting and mental health education.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"COURT" means the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"DOMESTIC VIOLENCE" means physical harm, bodily injury, assault, sexual assault or the infliction of reasonable fear of bodily injury between family or household members. All crimes involving violence, assault, physical abuse, sexual abuse or others enumerated in the Tribal Mountain Tribal Code and set forth in 37.200 (1) “Domestic Assault” and or 37.200.1 “Domestic Abuse” committed against or between family or household members may be charged as domestic violence and may be punished as provided in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="37.03">Chapter 37.03</cite> of the Turtle Mountain Domestic Violence Code.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"DOMESTIC VIOLENCE SHELTER" means a location that provides emergency housing on a 24-hour basis for victims of sexual assault, domestic violence or both. Confidentiality and protection of the location is encouraged.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"FAMILY OR HOUSEHOLD MEMBER" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>a spouse;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a former spouse;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>domestic partner (as defined in subsection (i)); </text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>any persons who have a parent-child or grandparent-child relationship, whether by blood, marriage, or adoption;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>any minor children, by blood, marriage, or adoption, of a parent who is in a relationship that is described in (1) – (5) of this subsection;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>any persons who are siblings by blood, marriage, or adoption;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>any persons who are related by blood, marriage, or adoption within the first degree (cousin, aunt, uncle);</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>any persons who are related by blood, marriage, or adoption and the victim is an elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>any persons who are presently residing together or who have resided together in the past, including emancipated minors; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>any persons who have a child in common, regardless of whether they are or have been married or have lived together at any time.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"DOMESTIC PARTNER" means adults or minors who are in a dating relationship (sexual or nonsexual), have been in a dating relationship (sexual or nonsexual) in the past, are engaged in a sexual relationship or who have been engaged in a sexual relationship. This shall include those persons involved in same sex relationships.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"MANDATORY ARREST" means if there is probable cause to believe a person has committed an offense of domestic violence as defined by <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.01.030">this section</cite>, a police officer SHALL arrest, with or without a warrant. The victim need not sign a complaint for an arrest to occur. Even if it is against the expressed wishes of the victim, the police officer shall arrest.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"MENTAL ANGUISH" means causing a person psychological or emotional damage by any type of physical or verbal communication or contact including, but not limited to, physical or verbal threats, verbal abuse, physical abuse, harassment, stalking or any contact that is detrimental to the psychological and mental well-being of that person or any other family or household member.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"PHYSICAL HARM" means the impairment of physical condition which includes, but shall not be limited to, any skin bruising, pressure sores, bleeding, failure to thrive, malnutrition, dehydration, burns, fracture of any bone, subdural hematoma, soft tissue swelling, injury to any internal organ or any physical condition which imperils health or welfare.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"PERPETRATOR" means a person who is alleged to have committed or has been convicted of committing an act of abuse or domestic violence.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"POLICE OFFICER," "officer," or "police" means any law enforcement officer having legal jurisdiction.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"PRIMARY AGGRESSOR" means the person(s) who has caused or has threatened to cause significant physical or emotional harm to another in his family or household, as compared to other party(s) involved. This is regardless of which party was the first aggressor. In determining whether one person is a primary aggressor, consideration shall include but is not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Prior history of domestic violence;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The relative severity of the injuries inflicted on each person;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The likelihood of future injury to each person;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether one of the persons acted in self-defense; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Relative ability to inflict harm between the parties involved.</text>
+        </para>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"PROGRAM OF INTERVENTION FOR PERPETRATORS" means a specialized domestic violence offenders' program that accepts court orders and voluntary participants and also:</text>
+        <para>
+          <num>(1)</num>
+          <text>Offers intake, orientation and placement in a domestic violence class.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Offers a minimum of fifteen (15) hours of education classes.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Offers other programs designed to provide information and interventions to stop violence against Native women.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Utilizes historical and cultural information in educating perpetrators of domestic violence regarding responsible Native behavior in the family, community and nation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Makes available and integrates the specialized function, knowledge and expertise of elders, medicine and traditional people.</text>
+        </para>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"PROGRAM FOR VICTIMS OF DOMESTIC VIOLENCE" means a specialized program for victims of domestic violence and their children whose primary purpose is to provide advocacy and related services that include but are not limited to advocacy, shelter, crisis intervention, supportive services, referral, and makes available the specialized knowledge and expertise of elders, medicine and traditional people.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"PROTECTION ORDER" means a court order granted for the protection of victims of domestic violence.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"SAFETY PLAN" means a written or oral outline of actions to be taken by a victim of domestic violence to secure protection and support after an assessment of the dangerousness of the situation has been made.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"TRIBE" means the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"TURTLE MOUNTAIN INDIAN RESERVATION" means all land within the exterior boundaries of the Turtle Mountain Indian Reservation and all trust land outside of the exterior boundaries of the Turtle Mountain Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"VICTIM" means family or household member(s) who have been subjected to domestic violence.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|37.02.010" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|37.02.010">
+    <section>
+      <num>37.02.010</num>
+      <heading>Crimes Involving "Domestic Violence."</heading>
+      <para>
+        <num>(a)</num>
+        <text>Domestic Assault is any act committed against a spouse or intimate partner, or against a child of or in the care of the person committing the domestic assault and shall be punished as enumerated in section 37.0300. Such domestic assaults include but are not limited to the crimes defined in the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Homicide Offenses, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.10">Chapter 26.10</cite> of the Turtle Mountain Tribal Code; </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sexual Offenses, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.12">Chapter 26.12</cite> of the Turtle Mountain Tribal Code;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Assault Offenses (Assault, Assault and Battery, Aggravated Assault, and Assault Resulting in Serious Bodily Injury), as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.060">Section 26.13.060</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.070">Section 26.13.070</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.075">Section 26.13.075</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.080">Section 26.13.080</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.090">Section 26.13.090</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.100">Section 26.13.100</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.110">Section 26.13.110</cite> of the Turtle Mountain Tribal Code; and or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>d.  Kidnapping and abduction, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.020">Section 26.13.020</cite> and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.040">Section 26.13.040</cite> of the Turtle Mountain Tribal Code</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="37.02" after="37.02.010" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|37.02.015">
+    <section>
+      <num>37.02.015</num>
+      <heading>Crimes involving “Domestic Abuse”</heading>
+      <text>Domestic Abuse is any act committed against a spouse or intimate partner, or against a child of or in the care of the person committing the domestic violence. Such domestic abuse includes but are not limited to the crimes defined in the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Weapons Law Violations, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.19">Chapter 26.19</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Terrorizing, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.240">Section 26.13.240</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Threats and Intimidation, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.160">Section 26.13.160</cite> in the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Arson, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.20">Chapter 26.20</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.20.050">Section 26.20.050</cite>;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Breaking and Entering, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16">Chapter 26.16</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16.010|(b)">Section 26.16.010(b)</cite> in the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Stalking, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.250">Section 26.13.250</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Disorderly Conduct, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.120">Section 26.13.120</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Harassment, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13">Chapter 26.13</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.13.220">Section 26.13.220</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Destruction of Property (Criminal Damage to Property), as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.15">Chapter 26.15</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.15.030">Section 26.15.0303</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Trespass, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16">Chapter 26.16</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16.010">Section 26.16.010</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16.020">Section 26.16.020</cite>, and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.16.030">Section 26.16.030</cite> of the Turtle Mountain Tribal Code;</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Burglary, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.14">Chapter 26.14</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.14.020">Section 26.14.020</cite> of the Turtle Mountain Tribal Code; and or</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Criminal damage to property or unauthorized use of a motor vehicle, as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.15">Chapter 26.15</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.15.030">Section 26.15.030</cite> and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.14">Chapter 26.14</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26.14.110">Section 26.14.110</cite>.</text>
+      </para>
+    </section>
+  </codify:insert>
+  <codify:replace path="|37.03.010" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|37.03.010">
+    <section>
+      <num>37.03.010</num>
+      <heading>Criminal Penalties</heading>
+      <para>
+        <num>(a)</num>
+        <text>First Offense:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who commits an act of domestic assault or domestic abuse shall be deemed guilty of the offense of domestic violence. A person convicted of a first offense of domestic violence shall be imprisoned for a term of not less than ten (10) days nor more that one (1) year and shall be fined an amount not less than One Hundred Dollars ($100.00) nor more than Five Thousand Dollars ($5000.00). Mandatory counseling as well as restitution shall be part of sentencing as provided in Section 37.0304 of the Turtle Mountain Domestic Violence Code.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Court may suspend imposition of fines and imprisonment for the first offense and place defendant on probation for not less than three (3) months nor more than one (1) year. When a sentence is suspended, there must be complete and total compliance with the orders of the Court requiring completion of the domestic violence program and counseling as ordered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Second Offense: A person convicted of a second offense of Domestic Assault or Domestic Abuse within a five (5) year period shall be imprisoned for a term of not less than thirty (30) days nor more than one (1) year and fined an amount not less than five hundred dollars ($500.00) nor more than Five Thousand Dollars ($5,000.00). Mandatory counseling as well as restitution shall be part of sentencing as provided in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.03.050">Section 37.03.050</cite> of the Turtle Mountain Domestic Violence Code. Said sentencing shall be in accordance with <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.03.010|(d)">Section 37.03.010(d)</cite> below.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Third and Subsequent Offenses: A person convicted of a third or subsequent offense of Domestic Assault or Domestic Abuse within a five (5) year period of the last conviction shall be imprisoned for a term of not less than ninety (90) days nor more than one (1) year and fined an amount not less than one thousand dollars ($1,000.00) nor more than Five Thousand Dollars ($5.000.00). Mandatory counseling shall be part of sentencing as provided in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.03.050">Section 37.03.050</cite> of the Turtle Mountain Domestic Violence Code. Said sentencing shall be in accordance with <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.03.010|(d)">Section 37.03.010(d)</cite> below.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For second and subsequent convictions: Upon complete and total compliance with the orders of the Court requiring completion of the Domestic Assault or Domestic Abuse program and/or counseling as ordered, the Court may suspend up to half of the imposition of fines and/or imprisonment for Domestic Assault or Domestic Abuse offense(s).  However, if the Court suspends half of the imposition of fines and/or imprisonment under <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="§37.03.010">this section</cite>, the perpetrator must be placed on probation for not less than one (1) year. Failure to comply with terms of probation shall result in the completion of the original sentence.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In cases involving the failure to comply with the Court's orders of counseling, the violation of a protection order, the commission of any crime during the protection order period or the violation of any other condition of sentencing, the Court shall find the person in contempt and shall impose all or part of the suspended sentence for the original offense and again require the perpetrator to complete the entire counseling program upon release from jail.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Prosecution for the offense of Domestic Assault or Domestic Abuse shall not preclude prosecution for any other offense arising from the same circumstances.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Person convicted of Domestic Assault or Domestic Abuse shall not be released from custody for community service.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>A person convicted of Domestic Assault or Domestic Abuse shall not be released from custody to attend funeral or wake services unless said services are for a member of the person's immediate family and shall be at the discretion and condition of the Turtle Mountain Tribal Court.  Immediate family shall mean husband, wife, son, daughter, brother, sister, father, mother, aunt, uncle or grandparent.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>A person convicted of Domestic Assault or Domestic Abuse shall not be released from custody for holidays.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>A person convicted of Domestic Assault or Domestic Abuse may be released for employment at the discretion and condition of the Turtle Mountain Tribal Court.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Allowance against any sentence for a term of imprisonment shall be given by the Court to a defendant for all time spent in custody as a result of the criminal charge for which the sentence was imposed or as a result of the conduct on which such charge was based. "Time spent in custody" shall include time spent in custody, in a jail or in a mental institution for the offense charged, whether that time is spent prior to trial, during trial, pending sentence or pending appeal.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>A person found guilty of the crime of Domestic Assault or Domestic Abuse may also be ordered to pay the reasonable costs of the person's prosecution.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>

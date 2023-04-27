@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>219-03-23</num>
+  <heading>Resolution Number TMBC 219-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2023-03-23</effective>
+    <citations>
+      <citation type="res" url="./adopted/219-03-23.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 219-03-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-23</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-Laws</cite> approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe is proposing revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, Offenses and Penalties, to provide clarity to some provisions and add provisions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe, by Resolution No. TMBC 111-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, Offenses and Penalties Code, and no comments were made; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving revisions to the Tribal code, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>, Offenses and Penalties Code, as published in the comment period notice; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly to insert amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of March, 2023</em></strong> that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> - Representatives Ron Trottier Sr., Elmer Davis Jr., Craig Lunday, Kenneth Malaterre, Blaine "Slugger" Davis and Chad Counts; two (2) absent- Representatives Lynn Gourneau and Jon Jon Keplin; none (0) opposed; with the Chairman not voting.</text>
+    <text>__________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW/Dated this ___ day of ___________, 20__</text>
+    <text>(  ) VETOED/Dated this ____ day of ______________, 20__</text>
+    <text>__________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="|26.13.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.060">
+    <section>
+      <num>26.13.060</num>
+      <heading>Threat of Bodily Harm</heading>
+      <text>A person commits the crime of threat of bodily harm if the person intentionally places another in reasonable fear of being physically injured; or who shall threaten bodily harm to another person through unlawful force or violence shall be guilty of a Class One (1) offense, and may be required to furnish a satisfactory peace bond for [1] one year.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="|26.13.070" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.070">
+    <section>
+      <num>26.13.070</num>
+      <heading>Simple Assault</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person is guilty of an offense if that person:</text>
+        <para>
+          <num>(1)</num>
+          <text>Willfully causes bodily injury to another human being; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Negligently causes bodily injury to another human being by means of a firearm, destructive device, or other weapon, the use of which against a human being is likely to cause death or serious bodily injury.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The offense is:</text>
+        <para>
+          <num>(1)</num>
+          <text>A Class Four (4) Offense when the victim is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; an employee of a health care facility acting in the course and scope of employment, which the actor knows to be a fact, and the actor is an individual committed to or detained at the a health care facility; a person engaged in a judicial proceeding; or a member of a municipal or volunteer fire department or emergency medical services personnel unit or emergency department worker in the performance of the member's duties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Class Two (2) Offense, except as provided in subdivision (1).</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>As used in this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>"health care facility" means an office or institution providing health care services or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions, including a hospital; clinic; ambulatory surgery center; outpatient care facility; weight control clinic; nursing home; basic care or assisted living facility; laboratory; or office of any medical licensed professional per any state of the United States, or any individual who is included within a specialty and subspecialty of those fields. The term includes a waiting room, hallway, private room, semiprivate room, ward, and any mobile or temporary facility.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="26.13" after="|26.13.070" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.075">
+    <section>
+      <num>26.13.075</num>
+      <heading>Assault</heading>
+      <text>A person is guilty of a Class Three (3) Offense, if that person:</text>
+      <para>
+        <num>(a)</num>
+        <text>Willfully causes substantial bodily injury to another human being; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Negligently causes substantial bodily injury to another human being by means of a firearm, destructive device, or other weapon, the use of which against a human being is likely to cause death or serious bodily injury.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The person is guilty of a Class Four (4) Offense if the person violates Subsection (a) and the victim is under twelve years of age.</text>
+      </para>
+    </section>
+  </codify:insert>
+  <codify:replace path="|26.13.080" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.080">
+    <section>
+      <num>26.13.080</num>
+      <heading>Aggravated Assault</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided in subsection (b), a person is guilty of a Class Four (4) Offense if that person:</text>
+        <para>
+          <num>(1)</num>
+          <text>Willfully causes serious bodily injury to another human being;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Knowingly causes bodily injury or substantial bodily injury to another human being with a dangerous weapon or other weapon, the possession of which under the circumstances indicates an intent or readiness to inflict serious bodily injury;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or </text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fires a firearm or hurls a destructive device at another human being. </text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The person is guilty of a Class Five (5) if the person violates Subsection (a) and the victim:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is under twelve years of age;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Suffers permanent loss or impairment of the function of a bodily member or organ.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|26.13.090" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.090">
+    <section>
+      <num>26.13.090</num>
+      <heading>Assault Resulting in Serious Bodily Injury</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be unlawful to assault another person and inflict serious bodily injury and a Class Five (5) offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An assault that causes serious injury that creates a substantial risk of death, or that causes serious permanent disfigurement, coma, a permanent or protracted condition that causes extreme pain, or permanent or protracted loss or impairment of the function of any bodily member or organ, or that results in prolonged hospitalization.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|26.13.100" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.100">
+    <section>
+      <num>26.13.100</num>
+      <heading>Assault Resulting in Serious Bodily Injury with a Dangerous Weapon, Destructive Device, or Firearm</heading>
+      <text>It shall be unlawful and a class Five (5) offense to assault another person with a dangerous weapon or negligently causes serious bodily injury by means of a firearm, destructive device or another weapon of which would likely cause death or serious bodily injury, and emitting any noxious liquid, gas, or substance bodily injury.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any dangerous weapon and destructive device including, but not limited to; any switchblade or gravity knife, machete, scimitar, stiletto, sword, or dagger; any throwing star, nunchaku, or other martial arts weapon, any billy club, blackjack, sap, bludgeon, cudgel, metal knuckles, or sand club; any slingshot; any bow and arrow, crossbow, or spear; any stun gun; and any projector of a bomb or any object containing or capable of producing and emitting any noxious liquids, gas, or substance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or “zipgun”/homemade firearm.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The lists above are not exhaustive.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|26.13.110" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.13.110">
+    <section>
+      <num>26.13.110</num>
+      <heading>Threat of Assault with a Dangerous Weapon, Destructive Device, or Firearm</heading>
+      <text>It shall be unlawful and a Class Three (3) Offense to threaten assault of another person with a dangerous weapon, destructive device or firearm.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any dangerous weapon and destructive device including, but not limited to; any switchblade or gravity knife, machete, scimitar, stiletto, sword, or dagger; any throwing star, nunchaku, or other martial arts weapon, any billy club, blackjack, sap, bludgeon, cudgel, metal knuckles, or sand club; any slingshot; any bow and arrow, crossbow, or spear; any stun gun; and any projector of a bomb or any object containing or capable of producing and emitting any noxious liquids, gas, or substa.nce</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or “zipgun”/homemade firearm.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The lists above are not exhaustive.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Subsection (a) does not apply if an individual is defending oneself or others.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>
