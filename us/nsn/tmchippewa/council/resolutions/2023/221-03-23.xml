@@ -117,4 +117,10 @@
       <text>Licensees shall report to the Commission all discovered security breaches and unauthorized transfers as soon as possible, but not later than thirty (30) days after a breach or unauthorized transfer was discovered.</text>
     </para>
   </codify:replace>
+  <codify:insert path="|43.03.030|(a)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|43.03.030|(a)|(6)">
+    <para>
+      <num>(6)</num>
+      <text>No Person shall attempt to, or collect on, a Covered Loan beyond four (4) years from the date of charge-off as recorded by the Lending Operation. This limitation period applies to all Covered Loans, retroactively and prospectively, regardless of who owns the Covered Loans or attempts to, or collects on, the Covered Loans.</text>
+    </para>
+  </codify:insert>
 </document>

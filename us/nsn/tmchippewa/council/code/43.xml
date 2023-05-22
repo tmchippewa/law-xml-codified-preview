@@ -760,6 +760,10 @@
           <num>(5)</num>
           <text>No Person shall offer a Loan Product that does not comply with this Code and Tribal Consumer Protection Law.</text>
         </para>
+        <para>
+          <num>(6)</num>
+          <text>No Person shall attempt to, or collect on, a Covered Loan beyond four (4) years from the date of charge-off as recorded by the Lending Operation. This limitation period applies to all Covered Loans, retroactively and prospectively, regardless of who owns the Covered Loans or attempts to, or collects on, the Covered Loans.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
@@ -783,6 +787,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§43.03.030 was formerly codified as 43.0303</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 221-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
   </container>
