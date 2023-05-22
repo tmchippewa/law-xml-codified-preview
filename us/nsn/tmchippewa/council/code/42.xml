@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>42</num>
   <heading>Sex Offender Registration Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.01.010</num>
       <heading>Title</heading>
@@ -487,9 +487,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.02</num>
     <heading>Covered Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.02.010</num>
       <heading>Covered Offenses</heading>
@@ -517,7 +517,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>26.1213.01 (Aggravated Sexual Abuse of a Minor),</text>
+        <text><cite path="§26.12.170">26.12.170</cite> (Aggravated Sexual Abuse of a Juvenile),</text>
       </para>
       <para>
         <num>(e)</num>
@@ -1006,9 +1006,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.03</num>
     <heading>Tiered Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.03.010</num>
       <heading>Tier I Offenses</heading>
@@ -1256,9 +1256,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.04</num>
     <heading>Required Information</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.04.010</num>
       <heading>General Requirements</heading>
@@ -1751,9 +1751,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.05</num>
     <heading>Registration</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.05.010</num>
       <heading>When Registration Is Required</heading>
@@ -1982,9 +1982,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.06</num>
     <heading>Verification and Appearance Requirements</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.06.010</num>
       <heading>Frequency</heading>
@@ -2061,9 +2061,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.07</num>
     <heading>Public Sex Offender: Registry Website</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.07.010</num>
       <heading>Website</heading>
@@ -2223,9 +2223,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.08</num>
     <heading>Crimes and Civil Sanctions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.08.010</num>
       <heading>Criminal Offenses</heading>
@@ -3047,9 +3047,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.09</num>
     <heading>Restrictions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.09.010</num>
       <heading>Restrictions</heading>
@@ -3069,9 +3069,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.10</num>
     <heading>Immunity</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.10.010</num>
       <heading>No Waiver of Immunity</heading>
@@ -3090,9 +3090,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.11</num>
     <heading>Exemptions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.11.010</num>
       <heading>Exemptions</heading>
@@ -3116,9 +3116,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.12</num>
     <heading>Juvenile Offenders</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.12.010</num>
       <heading>Applicability</heading>
@@ -3288,9 +3288,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.13</num>
     <heading>Schools</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.13.010</num>
       <heading>School</heading>
@@ -3502,9 +3502,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.14</num>
     <heading>Turtle Mountain Housing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.14.010</num>
       <heading>Housing Policies</heading>
@@ -3556,9 +3556,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.15</num>
     <heading>Visitors</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.15.010</num>
       <heading>Visitor(s); Sex Offender Requirements</heading>
@@ -3821,9 +3821,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>42.16</num>
     <heading>Appendix: Legislative History</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>42.16.010</num>
       <heading>Legislative History</heading>

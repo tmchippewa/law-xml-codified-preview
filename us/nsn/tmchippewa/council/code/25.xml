@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>25</num>
   <heading>Gaming Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.01</num>
     <heading>Gaming Commission &amp; General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.01.010</num>
       <heading>Gaming Commission Established</heading>
@@ -841,9 +841,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.02</num>
     <heading>Background Checks and Licensing of Employees and Vendors.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.02.010</num>
       <heading>Requirement of a Licensing and Background Check for Class II and Class III Gaming</heading>
@@ -1480,9 +1480,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.03</num>
     <heading>Class II</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.03.010</num>
       <heading>Purpose</heading>
@@ -1708,9 +1708,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.04</num>
     <heading>Class III (Casino-Type) Gaming</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.04.010</num>
       <heading>Purpose</heading>
@@ -1776,9 +1776,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.05</num>
     <heading>Vendor Licensing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.05.010</num>
       <heading>Licenses for Vendors</heading>
@@ -1944,9 +1944,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.06</num>
     <heading>Fair Hearing Procedures</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.06.010</num>
       <heading>Practice and Procedures for Commission Hearings</heading>
@@ -2323,9 +2323,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>25.07</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>25.07.010</num>
       <heading>Definitions</heading>

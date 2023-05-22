@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>32</num>
   <heading>Tribal Employment Rights Ordinance</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.01</num>
     <heading>General Provisions and Purpose</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.01.010</num>
       <heading>Name</heading>
@@ -25,9 +25,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.02</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.02.010</num>
       <heading>Definitions</heading>
@@ -134,9 +134,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.03</num>
     <heading>Turtle Mountain Chippewa Tribal Employment Rights Commission.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.03.010</num>
       <heading>Appointment</heading>
@@ -260,9 +260,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.04</num>
     <heading>Turtle Mountain Chippewa Tribal Employment Rights Program</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.04.010</num>
       <heading>Coverage</heading>
@@ -389,9 +389,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.05</num>
     <heading>Fee Assessment</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.05.010</num>
       <heading>Fee Assessment</heading>
@@ -428,9 +428,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.06</num>
     <heading>Compliance by Unions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.06.010</num>
       <heading>Notice</heading>
@@ -497,9 +497,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.07</num>
     <heading>Complaints and Hearings</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.07.010</num>
       <heading>Notice</heading>
@@ -591,9 +591,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.08</num>
     <heading>Penalties for Violation</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.08.010</num>
       <heading>Penalties for Violation</heading>
@@ -648,9 +648,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.09</num>
     <heading>Appeals</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.09.010</num>
       <heading>Appeals</heading>
@@ -661,9 +661,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.10</num>
     <heading>Tribal Training Program</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.10.010</num>
       <heading>Tribal Training Program</heading>
@@ -674,9 +674,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.11</num>
     <heading>Publication of Ordinance</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.11.010</num>
       <heading>Publication of Ordinance</heading>
@@ -689,9 +689,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.12</num>
     <heading>Compliance Plan</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.12.010</num>
       <heading>Compliance Plan</heading>
@@ -702,9 +702,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.13</num>
     <heading>Reporting and On-Site Inspection</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.13.010</num>
       <heading>Reporting and On-Site Inspection</heading>
@@ -715,9 +715,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.14</num>
     <heading>Tribal Minimum Wage Scale</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.14.010</num>
       <heading>Tribal Minimum Wage Scale</heading>
@@ -867,9 +867,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.15</num>
     <heading>Severeability</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.15.010</num>
       <heading>Severability</heading>
@@ -880,9 +880,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.16</num>
     <heading>Relation to Federal Indian Preference Requirements</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.16.010</num>
       <heading>Relation to Federal Indian Preference Requirements</heading>
@@ -893,9 +893,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.17</num>
     <heading>Special Tero Rules for Large Tribal Construction Projects</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.17.010</num>
       <heading>Special Tero Rules for Large Tribal Construction Projects</heading>
@@ -922,9 +922,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>32.18</num>
     <heading>Effective Date</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>32.18.010</num>
       <heading>Effective Date</heading>

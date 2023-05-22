@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>33</num>
   <heading>Motor Vehicle Registration and Title Ordinance</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.01</num>
     <heading>Establishment of Division of Motor Vehicles; Findings and Purpose</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.01.010</num>
       <heading>Authority; Establishment of Division of Motor Vehicles</heading>
@@ -49,9 +49,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.02</num>
     <heading>General</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.02.010</num>
       <heading>Definitions</heading>
@@ -161,9 +161,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.03</num>
     <heading>Registration</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.03.010</num>
       <heading>Vehicle Registration Required; Exemption</heading>
@@ -465,9 +465,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.04</num>
     <heading>Certificate of Title</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.04.010</num>
       <heading>When Certificate of Title Is Required</heading>
@@ -701,9 +701,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.05</num>
     <heading>Transfer of Title</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.05.010</num>
       <heading>Transfer of Interest in a Vehicle</heading>
@@ -789,9 +789,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.06</num>
     <heading>Decisions of Director; Appeals; Judicial Review</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.06.010</num>
       <heading>Notice Required; Content</heading>
@@ -909,9 +909,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.07</num>
     <heading>Reciprocal Powers, Agreements and Plans</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.07.010</num>
       <heading>Reciprocity Powers</heading>
@@ -925,9 +925,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.08</num>
     <heading>Enforcement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.08.010</num>
       <heading>Purpose</heading>
@@ -962,9 +962,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>33.09</num>
     <heading>Inconsistent Laws and Ordinances; Effective Date</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>33.09.010</num>
       <heading>Inconsistent Laws and Ordinances</heading>

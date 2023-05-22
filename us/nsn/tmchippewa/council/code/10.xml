@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>10</num>
   <heading>Animal and Rabies Control</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>10.01</num>
     <heading>Definitions and General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>10.01.010</num>
       <heading>Animal Defined</heading>
@@ -228,9 +228,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>10.02</num>
     <heading>Registration of Dogs</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>10.02.010</num>
       <heading>Dogs to Be Registered</heading>
@@ -281,9 +281,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>10.03</num>
     <heading>Impoundment and Destruction of Dogs</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>10.03.010</num>
       <heading>Dogs to Be Seized and Impounded; Notification of Owner; Unclaimed Dogs</heading>
@@ -342,9 +342,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>10.04</num>
     <heading>Control of Rabies Infected Domestic Animals</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>10.04.010</num>
       <heading>Care and Control of Dog or Animal Known to Have Bitten a Person</heading>
@@ -387,9 +387,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>10.05</num>
     <heading>Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>10.05.010</num>
       <heading>Penalties for Violation of This Title 10</heading>

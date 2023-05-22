@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>11</num>
   <heading>Wills</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.01</num>
     <heading>Succession; Descent; Wills</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.01.010</num>
       <heading>Succession Defined</heading>
@@ -146,9 +146,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.02</num>
     <heading>Wills: Execution and Revocation</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.02.010</num>
       <heading>How Wills Must Be Executed and Attested</heading>
@@ -343,9 +343,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.03</num>
     <heading>Wills: Interpretation</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.03.010</num>
       <heading>Intention of Testator Governs</heading>
@@ -541,9 +541,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.04</num>
     <heading>Wills: General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.04.010</num>
       <heading>Legacies Classified</heading>
@@ -659,9 +659,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.05</num>
     <heading>Disposition of Property of Decedent Willfully Killed</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.05.010</num>
       <heading>Definition of Terms</heading>
@@ -726,9 +726,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.06</num>
     <heading>Simultaneous Death Law</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.06.010</num>
       <heading>No Sufficient Evidence of Survivorship</heading>
@@ -771,9 +771,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>11.07</num>
     <heading>Probate Procedure</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>11.07.010</num>
       <heading>Power of Court as to Estates</heading>

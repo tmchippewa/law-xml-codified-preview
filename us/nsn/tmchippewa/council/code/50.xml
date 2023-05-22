@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>50</num>
   <heading>Government Organizations</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.01</num>
     <heading>Office of Tribal Prosecutor</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.01.010</num>
       <heading>Creation of the Tribal Prosecutor's Office of the Turtle Mountain Band of Chippewa Indians</heading>
@@ -181,9 +181,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.02</num>
     <heading>Office of Human Resources</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.02.010</num>
       <heading>Authority</heading>
@@ -367,9 +367,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.03</num>
     <heading>Early Childhood Services</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.03.010</num>
       <heading>Creation</heading>
@@ -1156,9 +1156,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.04</num>
     <heading>Clerk of Court Office</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.04.010</num>
       <heading>Creation of the Clerk of Court</heading>
@@ -1441,9 +1441,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.05</num>
     <heading>Probation and Parole Offices</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.05.010</num>
       <heading>Creation of the Probation and Parole</heading>
@@ -1892,9 +1892,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.06</num>
     <heading>Division of Law Enforcement-the Law Enforcement Act of 2017</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.06.010</num>
       <heading>Establishment of a Tribal Police Force</heading>
@@ -2452,9 +2452,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.07</num>
     <heading>Authorization of Fire and Rescue Department &amp; Fire Safety Regulations</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.07.010</num>
       <heading>Purpose and Authority</heading>
@@ -5483,9 +5483,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>50.08</num>
     <heading>Division of Conservation Law Enforcement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>50.08.010</num>
       <heading>Division of Conservation Law Enforcement</heading>

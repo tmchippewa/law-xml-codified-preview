@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>13</num>
   <heading>Tribal Elections</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.01</num>
     <heading>General Purpose Statement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.01.010</num>
       <heading>Purpose</heading>
@@ -17,9 +17,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.02</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.02.010</num>
       <heading>In This Title, the Following Terms Shall Be Defined as Follows:</heading>
@@ -82,9 +82,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.03</num>
     <heading>Voter Qualification</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.03.010</num>
       <heading>Voter Qualification</heading>
@@ -103,9 +103,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.04</num>
     <heading>Election Officials</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.04.010</num>
       <heading>Election Board</heading>
@@ -190,9 +190,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.05</num>
     <heading>Duties of Election Officials</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.05.010</num>
       <heading>Election Board Duties Before the Election</heading>
@@ -450,9 +450,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.06</num>
     <heading>Letter of Intent</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.06.010</num>
       <heading>Letter of Intent Form</heading>
@@ -482,9 +482,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.07</num>
     <heading>Qualifications of Candidates for Legislative and Judicial Office</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.07.010</num>
       <heading>Qualifications. Tribal Council</heading>
@@ -647,9 +647,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.08</num>
     <heading>Ballots</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.08.010</num>
       <heading>Names on Ballot</heading>
@@ -676,9 +676,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.09</num>
     <heading>Absentee Ballots</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.09.010</num>
       <heading>Request of Absentee Ballot</heading>
@@ -728,9 +728,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.10</num>
     <heading>Notice and Conduct of Elections</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.10.010</num>
       <heading>General Election Date; Primary Election Dates</heading>
@@ -884,9 +884,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.11</num>
     <heading>Determining Election Winner</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.11.010</num>
       <heading>Determination of Election</heading>
@@ -955,9 +955,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.12</num>
     <heading>Recall, Referendum and Constitutional Amendments</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.12.010</num>
       <heading>Purpose</heading>
@@ -1209,9 +1209,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>13.13</num>
     <heading>Removal of Tribal Officers and Representatives</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>13.13.010</num>
       <heading>Purpose</heading>

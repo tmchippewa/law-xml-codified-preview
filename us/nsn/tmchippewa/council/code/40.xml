@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>40</num>
   <heading>Solid and Hazardous Waste Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.01</num>
     <heading>General</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.01.010</num>
       <heading>Short Title</heading>
@@ -105,9 +105,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.02</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.02.010</num>
       <heading>Definitions</heading>
@@ -591,9 +591,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.03</num>
     <heading>Resource Recovery and Reuse Program</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.03.010</num>
       <heading>Policy and Programs for Resource Recovery and Reuse</heading>
@@ -636,9 +636,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.04</num>
     <heading>Responsibilities of Property Owners and Residents</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.04.010</num>
       <heading>Responsibilities</heading>
@@ -661,9 +661,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.05</num>
     <heading>Responsibilities of Property Owners and Residents</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.05.010</num>
       <heading>The Solid Waste Management Team (Swmt)</heading>
@@ -885,9 +885,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.06</num>
     <heading>Tribal Integrated Solid Waste Management Program</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.06.010</num>
       <heading>Tribal Integrated Solid Waste Management Plan (Iswmp)</heading>
@@ -1043,9 +1043,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.07</num>
     <heading>Prohibited Practices and Activities</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.07.010</num>
       <heading>Open Burning</heading>
@@ -1193,9 +1193,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.08</num>
     <heading>Management and Transportation of Hazardous Wastes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.08.010</num>
       <heading>General</heading>
@@ -1297,9 +1297,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.09</num>
     <heading>Management of Special and Industrial Wastes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.09.010</num>
       <heading>Designation of Special and Industrial Wastes</heading>
@@ -1463,9 +1463,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.10</num>
     <heading>Solid Waste Storage</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.10.010</num>
       <heading>Containers</heading>
@@ -1504,9 +1504,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.11</num>
     <heading>Collection, Transfer and Disposal</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.11.010</num>
       <heading>Collection Schedule</heading>
@@ -1606,9 +1606,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.12</num>
     <heading>Solid Waste Permits: General</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.12.010</num>
       <heading>Application Submittal; Filing Fee</heading>
@@ -1819,9 +1819,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.13</num>
     <heading>Solid Waste Management Facility, Collection And/Or Transportation Permits</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.13.010</num>
       <heading>Application for Permit</heading>
@@ -2017,9 +2017,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.14</num>
     <heading>Solid Waste Fees and Taxes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.14.010</num>
       <heading>Revenues and Taxes</heading>
@@ -2085,9 +2085,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.15</num>
     <heading>Special Waste Management Permits</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.15.010</num>
       <heading>Special Waste Management Permits</heading>
@@ -2153,9 +2153,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.16</num>
     <heading>Enforcement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.16.010</num>
       <heading>Enforcement Agent</heading>
@@ -2506,9 +2506,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.17</num>
     <heading>Violations: Criminal and Civil Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.17.010</num>
       <heading>Fines and Penalties</heading>
@@ -3471,9 +3471,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.18</num>
     <heading>Tribal Response and Remedial Action Program</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.18.010</num>
       <heading>Remedial Actions by Turtle Mountain Tribal Response Program (Tm-Trp)</heading>
@@ -4396,9 +4396,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>40.19</num>
     <heading>Limitations</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>40.19.010</num>
       <heading>Appropriations</heading>

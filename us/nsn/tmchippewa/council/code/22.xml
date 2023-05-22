@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>22</num>
   <heading>Administrative Procedures Act</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.01.010</num>
       <heading>Policy and Purpose</heading>
@@ -33,9 +33,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.02</num>
     <heading>Findings</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.02.010</num>
       <heading>Findings</heading>
@@ -58,9 +58,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.03</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.03.010</num>
       <heading>Definitions</heading>
@@ -170,9 +170,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.04</num>
     <heading>Information and Privacy</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.04.010</num>
       <heading>Public Information</heading>
@@ -346,9 +346,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.05</num>
     <heading>Rulemaking</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.05.010</num>
       <heading>Roles of Agencies and of the Tribal Council</heading>
@@ -445,9 +445,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.06</num>
     <heading>Requisites for Validity</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.06.010</num>
       <heading>Written and Oral Submission</heading>
@@ -469,9 +469,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.07</num>
     <heading>Petition for Adoption</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.07.010</num>
       <heading>Amendment, or Repeal of a Rule</heading>
@@ -482,9 +482,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.08</num>
     <heading>Filing and Dissemination</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.08.010</num>
       <heading>Filing; Maintainingg Permanent Records; Payment of Reasonable Costs</heading>
@@ -502,9 +502,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.09</num>
     <heading>Tribal Council Review of a Rule</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.09.010</num>
       <heading>Recommended by an Affected Agency</heading>
@@ -546,9 +546,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.10</num>
     <heading>Hearing Officers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.10.010</num>
       <heading>Appointment of Hearing Officer; Term</heading>
@@ -700,9 +700,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.11</num>
     <heading>Adjudications</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.11.010</num>
       <heading>Application</heading>
@@ -1066,9 +1066,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>22.12</num>
     <heading>Severability</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>22.12.010</num>
       <heading>Severability</heading>

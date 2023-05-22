@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>3</num>
   <heading>Evidence</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>3.01</num>
     <heading>Privileges</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>3.01.010</num>
       <heading>Self-Incrimination</heading>
@@ -117,9 +117,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>3.02</num>
     <heading>Qualifications, Examination, Credibility of Witnesses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>3.02.010</num>
       <heading>Qualifications of Witnesses</heading>
@@ -342,9 +342,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>3.03</num>
     <heading>Hearsay</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>3.03.010</num>
       <heading>Definition</heading>

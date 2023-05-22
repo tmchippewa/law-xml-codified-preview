@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>2</num>
   <heading>Judicial Procedure, Civil</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.01</num>
     <heading>Creation and Jurisdiction</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.01.010</num>
       <heading>Tribal Court</heading>
@@ -80,9 +80,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.02</num>
     <heading>Actions, Decisions, Enforcement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.02.010</num>
       <heading>Form of Complaint</heading>
@@ -117,9 +117,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.03</num>
     <heading>Commencement of Actions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.03.010</num>
       <heading>General Limitations</heading>
@@ -154,9 +154,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.04</num>
     <heading>Commencing Civil Actions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.04.010</num>
       <heading>Civil Case</heading>
@@ -347,9 +347,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.05</num>
     <heading>Appearance, Defaults, Postponements</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.05.010</num>
       <heading>General Appearance</heading>
@@ -860,9 +860,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.06</num>
     <heading>Venue</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.06.010</num>
       <heading>Location of Action</heading>
@@ -873,9 +873,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.07</num>
     <heading>Pleadings</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.07.010</num>
       <heading>Definition</heading>
@@ -953,9 +953,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.08</num>
     <heading>Subpoena and Discovery Procedure</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.08.010</num>
       <heading>Subpoenas and Orders Issued</heading>
@@ -1038,9 +1038,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.09</num>
     <heading>Jury Trials</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.09.010</num>
       <heading>Jury Trial; Right Time for Request</heading>
@@ -1283,9 +1283,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.10</num>
     <heading>Contempt of Court</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.10.010</num>
       <heading>Reasons for Charge</heading>
@@ -1356,9 +1356,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.11</num>
     <heading>Dockets</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.11.010</num>
       <heading>Material Entered on Docket</heading>
@@ -1442,9 +1442,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.12</num>
     <heading>Competency</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.12.010</num>
       <heading>Plea of Incompetency</heading>
@@ -1491,9 +1491,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.13</num>
     <heading>Appeals</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.13.010</num>
       <heading>Tribal Court of Appeals</heading>
@@ -1638,9 +1638,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.14</num>
     <heading>Attorneys</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.14.010</num>
       <heading>Qualifications to Admission</heading>
@@ -1741,9 +1741,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>2.15</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>2.15.010</num>
       <heading>Definitions</heading>

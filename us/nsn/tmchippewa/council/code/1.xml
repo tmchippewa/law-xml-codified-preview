@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>1</num>
   <heading>Criminal Procedure</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.01</num>
     <heading>Purpose Statement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.01.010</num>
       <text>The purpose of <cite path="1">this title</cite> is to regulate the formal steps in an action or other judicial proceeding, and includes the judicial process for enforcing rights and duties recognized by substantive law and for justly administering redress for infraction of them<strong><em>.</em></strong></text>
@@ -16,9 +16,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.02</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.02.010</num>
       <heading>Applicability of Code Provisions Restricted: Offenses Committed Before Adoption</heading>
@@ -68,9 +68,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.03</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.03.010</num>
       <heading>Definitions</heading>
@@ -132,9 +132,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.04</num>
     <heading>Statute of Limitations</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.04.010</num>
       <heading>Statute of Limitations</heading>
@@ -169,9 +169,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.05</num>
     <heading>Creation, Jurisdiction and Powers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.05.010</num>
       <heading>Judicial Powers</heading>
@@ -333,9 +333,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.06</num>
     <heading>Commencement of Criminal Proceeding</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.06.010</num>
       <heading>Commencement of Criminal Action</heading>
@@ -361,7 +361,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>the names of the person(s), government, or business(es), complained of, if the defendant(s) name is known, and if not, then such name(s) as may be given by the complainant; </text>
+        <text>the names of the person(s), government, or business(es), complained of, if the defendant(s) name is known, and if not, then such name(s) as may be given by the complainant;</text>
       </para>
       <para>
         <num>(c)</num>
@@ -401,7 +401,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The Prosecutor has a duty to verify that each complaint and report meets the requirements of the Tribal Court, before filing it with the Clerk of Court. </text>
+        <text>The Prosecutor has a duty to verify that each complaint and report meets the requirements of the Tribal Court, before filing it with the Clerk of Court.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§1.06.040 was formerly codified as 1.0604</annotation>
@@ -410,9 +410,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.07</num>
     <heading>Arrest, Extradition and Fresh Pursuit</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.07.010</num>
       <heading>Arrest Defined; Persons Qualified to Make; Aid May Be Required</heading>
@@ -541,9 +541,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.08</num>
     <heading>Search and Seizure</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.08.010</num>
       <heading>Definition</heading>
@@ -634,9 +634,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.09</num>
     <heading>Bail</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.09.010</num>
       <heading>Definitions</heading>
@@ -1134,9 +1134,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.10</num>
     <heading>Arraignment</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.10.010</num>
       <heading>Definition</heading>
@@ -1179,9 +1179,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.11</num>
     <heading>Pleas</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.11.010</num>
       <heading>Pleas</heading>
@@ -1320,9 +1320,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.12</num>
     <heading>Pre-Trial Motions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.12.010</num>
       <heading>Definitions</heading>
@@ -1400,9 +1400,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.13</num>
     <heading>Trial, General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.13.010</num>
       <heading>Definition</heading>
@@ -1509,9 +1509,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.14</num>
     <heading>Formation of the Jury</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.14.010</num>
       <heading>Definitions</heading>
@@ -1706,9 +1706,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.15</num>
     <heading>Jury Trial Procedure</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.15.010</num>
       <heading>Order of Procedure</heading>
@@ -1803,9 +1803,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.16</num>
     <heading>Submission to the Jury and Verdict</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.16.010</num>
       <heading>Deliberation</heading>
@@ -1858,9 +1858,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.17</num>
     <heading>Judgment</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.17.010</num>
       <heading>Definition</heading>
@@ -1958,9 +1958,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.18</num>
     <heading>New Trial</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.18.010</num>
       <heading>Definition</heading>
@@ -2023,9 +2023,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.19</num>
     <heading>Re-Opening Case</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.19.010</num>
       <heading>Re-Opening of a Case</heading>
@@ -2036,9 +2036,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.20</num>
     <heading>Criminal Appeals</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.20.010</num>
       <heading>Court of Last Resort</heading>
@@ -2093,9 +2093,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.21</num>
     <heading>Boating Regulations and Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.21.010</num>
       <heading>Definitions</heading>
@@ -2337,9 +2337,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.22</num>
     <heading>Fishing Regulations and Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.22.010</num>
       <heading>Definitions</heading>
@@ -2498,9 +2498,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>1.23</num>
     <heading>Regulation and Registration of Snowmobiles</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>1.23.010</num>
       <heading>Definitions</heading>

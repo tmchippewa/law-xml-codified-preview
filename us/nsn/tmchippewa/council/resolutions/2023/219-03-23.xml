@@ -132,11 +132,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or </text>
+          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Fires a firearm or hurls a destructive device at another human being. </text>
+          <text>Fires a firearm or hurls a destructive device at another human being.</text>
         </para>
       </para>
       <para>
@@ -148,7 +148,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or </text>
+          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -182,7 +182,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or “zipgun”/homemade firearm.</text>
+        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or "zipgun"/homemade firearm.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -201,7 +201,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or “zipgun”/homemade firearm.</text>
+        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or "zipgun"/homemade firearm.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -210,6 +210,20 @@
       <para>
         <num>(d)</num>
         <text>Subsection (a) does not apply if an individual is defending oneself or others.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|26.17.050" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|26.17.050">
+    <section>
+      <num>26.17.050</num>
+      <heading>Unlawful Ingesting a Controlled Substance - Penalty</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person may knowingly ingest a controlled drug or substance or have a controlled drug or substance or be in an altered state into his or her body unless the substance was obtained directly or pursuant to a valid prescription or order from a practitioner, while acting in the course of a medical practitioner's professional practice. Violation of this section is class four (4) Offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Law Enforcement Official may request a warrant for urine, breath, blood, or hair upon probable cause that an individual has ingested or is under the influence of a controlled substance, failure to comply with said warrant shall be prima facie evidence of unlawful ingestion of a controlled substance. Probable cause shall be but not limited to, an individual with involuntary muscle spasms, involuntary face movement, elevated response to light, increased agitation, dilated eyes, jittery, paranoia, profuse sweating, and or an inability to control appendages. An individual is not required to illustrate all the symptoms of having ingested a controlled substance or being under the influence, in order for there to be probable cause for a warrant.</text>
       </para>
     </section>
   </codify:replace>

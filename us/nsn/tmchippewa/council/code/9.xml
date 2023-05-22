@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>9</num>
   <heading>Domestic Relations</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.01</num>
     <heading>Spouses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.01.010</num>
       <heading>Mutual Obligations; Contracts Between Spouses</heading>
@@ -105,9 +105,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.02</num>
     <heading>Parent Grandparent and Child</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.02.010</num>
       <heading>Presumption of Legitimacy; Legitimation by Marriage of</heading>
@@ -274,9 +274,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.03</num>
     <heading>Termination of Parental Rights of a Child</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.03.010</num>
       <heading>Relinquishment of Parental Rights</heading>
@@ -577,9 +577,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.04</num>
     <heading>Adoption</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.04.010</num>
       <heading>Definitions</heading>
@@ -1898,9 +1898,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.05</num>
     <heading>Bastardy; Illegitimacy Law</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.05.010</num>
       <heading>Obligation of Parents</heading>
@@ -2119,9 +2119,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.06</num>
     <heading>Guardian and Ward</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.06.010</num>
       <heading>Definitions; Guardian; Ward</heading>
@@ -2399,9 +2399,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.07</num>
     <heading>Marriage</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.07.010</num>
       <heading>Validity of Marriage</heading>
@@ -2623,9 +2623,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.08</num>
     <heading>Dissolution</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.08.010</num>
       <heading>Application of Rules of Judicial Civil Procedure, Title 2 to Proceedings Under This Act</heading>
@@ -3625,9 +3625,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>9.09</num>
     <heading>Custody</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>9.09.010</num>
       <heading>Jurisdiction; Commencement of Proceeding</heading>

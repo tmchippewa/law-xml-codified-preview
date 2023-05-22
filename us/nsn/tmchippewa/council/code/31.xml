@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>31</num>
   <heading>Zoning of Shorelands</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.01</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.01.010</num>
       <heading>Definitions as Used in This Ordinance</heading>
@@ -36,9 +36,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.02</num>
     <heading>Purpose</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.02.010</num>
       <text>It is the purpose of <cite path="31.02">this chapter</cite> to promote the public health, safety, convenience and general welfare; to encourage planned and orderly shoreland development; to recognize the needs of agriculture, forestry, industry and business in future growth; to encourage the protection of groundwater resources; to preserve wetlands; to conserve soil, water and forest resources; to protect the beauty and amenities of the landscape; to provide healthy surroundings for family life; and to promote the efficient and economical use of Tribal funds.</text>
@@ -48,9 +48,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.03</num>
     <heading>Tribal Zoning Agency</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.03.010</num>
       <text>The Council shall create a planning and zoning committee as a Tribal Council agency consisting wholly of persons who are not members of the Council, designated the Tribal Zoning Agency, authorized to act in all matters pertaining to shoreland planning and zoning.</text>
@@ -95,9 +95,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.04</num>
     <heading>Tribal Zoning Agency Authority</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.04.010</num>
       <text>To accomplish the purpose of <cite path="§31.04.010">this section</cite>, the Tribal Zoning Agency shall be authorized to act in all matters pertaining to planning and zoning of all shorelands located within the Turtle Mountain Reservation.</text>
@@ -121,9 +121,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.05</num>
     <heading>Shorelands Preservation Plan</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.05.010</num>
       <text>The Tribal Zoning Agency shall direct the preparation of a shoreland development plan for the physical development of shorelands within the Turtle Mountain Reservation.</text>
@@ -161,9 +161,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.06</num>
     <heading>Extent of Authority</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.06.010</num>
       <text>For purposes of promoting the public health, safety and general welfare the Council may by ordinance establish districts of such number, shape, and area, and adopt regulations for each district as the Council considers best suited to carry out the purposes of this ordinance.</text>
@@ -228,9 +228,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.07</num>
     <heading>Formation of Zoning Ordinances</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.07.010</num>
       <text>When the Tribal Zoning Agency has completed a draft of the proposed zoning ordinance, the Tribal Zoning Agency shall hold a public hearing thereon, following publication in an appropriate newspaper. After such hearing the Tribal Zoning Agency may make such revisions in the draft as it considers necessary, or it may submit the draft without revision to the Council with recommendations for adoption.</text>
@@ -265,9 +265,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.08</num>
     <heading>Zoning Variances</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.08.010</num>
       <text>Any persons proposing to erect a structure not in conformity to this ordinance or to use an existing structure for a purpose not permitted. by this ordinance may apply to the Tribal Zoning Agency in writing for a variance by stating the nature of the proposed structure, which shall be posted in a public place, together with notification of when (and where interested persons may appeal before the Tribal Zoning Agency to present objections.</text>
@@ -299,9 +299,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.09</num>
     <heading>Nonconforming Uses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.09.010</num>
       <text>An ordinance enacted under <cite path="31">this title</cite> may not prohibit the continuation of the lawful use of any building or premises for any trade or industry for which such building or premises is used at the time that the ordinances take effect, but the alteration of, or addition to, or repair in excess of 50% of its assessed value of any existing building or structure for the purpose of carrying on any prohibited trade or new industry within the district where such buildings or structures are located, may be prohibited. The continuance of the nonconforming use of a temporary structure may be prohibited. If the nonconforming use is discontinued for a period of 12 months, any future use of the building and premises shall conform to the ordinance.</text>
@@ -311,9 +311,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>31.10</num>
     <heading>Procedure for Enforcement of Shoreland Zoning Ordinance</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>31.10.010</num>
       <text>The Council shall prescribe rules, regulations and administrative procedures and provide such administrative personnel as it considers necessary for the enforcement of <cite path="§31.10.010">this section</cite> and all ordinances enacted in pursuance thereof. The rules and regulations authorized by <cite path="31">this title</cite> shall be prescribed by ordinances which shall be declared to be for the purpose of promoting the public health, safety and general welfare.</text>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>26</num>
   <heading>Offenses and Penalties</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.01</num>
     <heading>General Purposes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.01.010</num>
       <heading>The General Purposes</heading>
@@ -55,9 +55,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.02</num>
     <heading>Proof and Presumptions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.02.010</num>
       <heading>An Accused Is Presumed Innocent Until Proven Guilty</heading>
@@ -124,9 +124,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.03</num>
     <heading>General &amp; Sex Crime Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.03.010</num>
       <heading>Definitions</heading>
@@ -961,9 +961,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.04</num>
     <heading>Requirements of Cu1Pabi1Ity</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.04.010</num>
       <heading>Purposes of Engagement</heading>
@@ -1030,9 +1030,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.05</num>
     <heading>Justification, Excuse, Defenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.05.010</num>
       <heading>Ignorance of Law</heading>
@@ -1243,9 +1243,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.06</num>
     <heading>Sentence and Penalties and Classification of Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.06.010</num>
       <heading>Classification of Offenses</heading>
@@ -1422,13 +1422,13 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.07</num>
     <heading>Parole, Probation, Pardon Parole</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Part</prefix>
       <num>A</num>
       <heading>Parole</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.010</num>
         <heading>Eligibility of Parole</heading>
@@ -1459,9 +1459,9 @@
       </section>
     </container>
     <container>
+      <prefix>Part</prefix>
       <num>B</num>
       <heading>Probation</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.040</num>
         <heading>Conditions of Probation</heading>
@@ -1513,9 +1513,9 @@
       </section>
     </container>
     <container>
+      <prefix>Part</prefix>
       <num>C</num>
       <heading>Pardon</heading>
-      <prefix>Part</prefix>
       <section>
         <num>26.07.070</num>
         <heading>Standards for Pardon Board</heading>
@@ -1882,9 +1882,9 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.08</num>
     <heading>Prevention of Crime</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.08.010</num>
       <heading>Reserved/Open #</heading>
@@ -1911,9 +1911,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.09</num>
     <heading>Attempt and Accomplice</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.09.010</num>
       <heading>Criminal Attempt</heading>
@@ -1989,9 +1989,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.10</num>
     <heading>Homicide</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.10.010</num>
       <heading>Homicide in the First Degree</heading>
@@ -2146,9 +2146,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.11</num>
     <heading>Offenses Against Turtle Mountain Band of Chippewa Indians or Any Agency, Organization Thereof</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.11.010</num>
       <heading>Criminal Conspiracy</heading>
@@ -3340,9 +3340,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.12</num>
     <heading>Sexual Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.12.010</num>
       <heading>General Provision</heading>
@@ -4249,9 +4249,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.13</num>
     <heading>Public Violence</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.13.010</num>
       <heading>Mutual Combat</heading>
@@ -4430,11 +4430,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or </text>
+          <text>Causes bodily injury or substantial bodily injury to another human being while attempting to inflict serious bodily injury on any human being; or</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Fires a firearm or hurls a destructive device at another human being. </text>
+          <text>Fires a firearm or hurls a destructive device at another human being.</text>
         </para>
       </para>
       <para>
@@ -4446,7 +4446,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or </text>
+          <text>Is a peace officer or correctional institution employee acting in an official capacity, which the actor knows to be a fact; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -4487,7 +4487,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or “zipgun”/homemade firearm.</text>
+        <text>Any firearm including, but not limited to; long gun (rifle), shotgun, pistol, or "zipgun"/homemade firearm.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4509,7 +4509,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or “zipgun”/homemade firearm.</text>
+        <text>It shall be unlawful and a Class [3] three offense to point any gun or pistol at any person, either in fun or otherwise, whether a BB or pellet gun, long gun (rifle), shotgun, pistol loaded or not loaded, whether a replica pistol that imitates a genuine gun or pistol, or "zipgun"/homemade firearm.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4935,9 +4935,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.14</num>
     <heading>Profitable Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.14.010</num>
       <heading>Bribery</heading>
@@ -5357,9 +5357,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.15</num>
     <heading>Destruction of Public and Private Property</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.15.010</num>
       <heading>Cutting Green Timber Without a Permit</heading>
@@ -5408,9 +5408,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.16</num>
     <heading>Trespassing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.16.010</num>
       <heading>Forcible Entry or Detainer of Lands, Buildings or Other Possessions</heading>
@@ -5501,9 +5501,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.17</num>
     <heading>Drug and Alcohol Related Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.17.010</num>
       <heading>Unlawful Ingestion of Marijuana</heading>
@@ -5573,32 +5573,20 @@
     </section>
     <section>
       <num>26.17.050</num>
-      <heading>Unlawful Ingestion of Controlled Substances</heading>
-      <text>If a law enforcement officer has probable cause to believe a person has illegally ingested a controlled substance, a urinalysis drug test or blood test can be requested from the law enforcement officer person. A refusal to submit to a urinalysis or blood test may constitute an admission of ingestion.  A person may request a blood test but will be responsible for all costs associated with the hospital.</text>
+      <heading>Unlawful Ingesting a Controlled Substance - Penalty</heading>
       <para>
         <num>(a)</num>
-        <text>Ingestion Crime. It is unlawful for any person, who has not been prescribed a controlled substance, to ingest any amount of one or more mixtures from the Controlled Substance List (26.1702) from Schedule V will be charged with a Class [3] three offense.</text>
+        <text>No person may knowingly ingest a controlled drug or substance or have a controlled drug or substance or be in an altered state into his or her body unless the substance was obtained directly or pursuant to a valid prescription or order from a practitioner, while acting in the course of a medical practitioner's professional practice. Violation of this section is class four (4) Offense.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Ingestion Crime.  It is unlawful for any person, who has not been prescribed a controlled substance, to ingest any amount of one or more mixtures from the Controlled Substance List (26.1702) from Schedule IV will be charged with a Class [4] four offense.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Ingestion Crime.  It is unlawful for any person, who has not been prescribed a controlled substance, to ingest any amount of one or more mixtures from the Controlled Substance List (26.1702) from Schedule III will be charged with a Class [4] four offense.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Ingestion Crime.  It is unlawful for any person, who has not been prescribed a controlled substance, to ingest any amount of one or more mixtures from the Controlled Substance List (26.1702) from Schedule II will be charged with a Class [4] four Offense.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Ingestion Crime. It is unlawful for any person, who has not been prescribed a controlled substance, to ingest any amount of one or more mixtures from the Controlled Substance List (26.1702) from Schedule I will be charged with a Class [4] four offense.</text>
+        <text>Law Enforcement Official may request a warrant for urine, breath, blood, or hair upon probable cause that an individual has ingested or is under the influence of a controlled substance, failure to comply with said warrant shall be prima facie evidence of unlawful ingestion of a controlled substance. Probable cause shall be but not limited to, an individual with involuntary muscle spasms, involuntary face movement, elevated response to light, increased agitation, dilated eyes, jittery, paranoia, profuse sweating, and or an inability to control appendages. An individual is not required to illustrate all the symptoms of having ingested a controlled substance or being under the influence, in order for there to be probable cause for a warrant.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 13-12-08"/>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 741-05-10"/>
         <annotation type="Prior Codifications">§26.17.050 was formerly codified as 26.1701.04</annotation>
+        <annotation app="2023-03-23" doc="Turtle Mountain Band of Chippewa Indians Res. No. 219-03-23" eff="2023-03-23" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6041,9 +6029,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.18</num>
     <heading>Forfeiture Code for Criminal Forfeitures.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.18.010</num>
       <heading>Seizures and Forfeitures Related to Drugs</heading>
@@ -6255,9 +6243,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.19</num>
     <heading>Weapon Offenses.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.19.010</num>
       <heading>General Penalty</heading>
@@ -6776,9 +6764,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.20</num>
     <heading>Fires, Regulation and Penalties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.20.010</num>
       <heading>Setting Fires; Unlawful Use of Fire</heading>
@@ -7456,9 +7444,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>26.21</num>
     <heading>Crimes Against Children</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>26.21.010</num>
       <heading>Physical Abuse of a Child</heading>
@@ -7987,7 +7975,7 @@
     </section>
     <section>
       <num>26.21.140</num>
-      <heading>948.095Sexual Assault of a Child by a School Staff Person or a Person Who Works or Volunteers with Children</heading>
+      <heading>Sexual Assault of a Child by a School Staff Person or a Person Who Works or Volunteers with Children</heading>
       <para>
         <num>(a)</num>
         <text>In <cite path="§26.21.140">this section</cite>:</text>
@@ -8013,7 +8001,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The student or is less than 21 years of age</text>
+          <text>The student is less than 21 years of age</text>
         </para>
       </para>
       <para>

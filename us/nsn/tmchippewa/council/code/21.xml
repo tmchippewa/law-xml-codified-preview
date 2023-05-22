@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>21</num>
   <heading>Turtle Mountain Tribal Utility Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.01</num>
     <heading>Findings, Purpose and Scope</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.01.010</num>
       <heading>Findings</heading>
@@ -104,9 +104,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.02</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.02.010</num>
       <heading>Definitions</heading>
@@ -170,9 +170,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.03</num>
     <heading>Tribal Utility Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.03.010</num>
       <heading>Creation of Commission</heading>
@@ -318,9 +318,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.04</num>
     <heading>Powers and Duties of Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.04.010</num>
       <heading>Jurisdiction and Powers of Commission</heading>
@@ -606,9 +606,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.05</num>
     <heading>Duties of Public Utilities</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.05.010</num>
       <heading>Utility to Provide Adequate Service</heading>
@@ -699,9 +699,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.06</num>
     <heading>Electric Utility Franchises</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.06.010</num>
       <heading>Definitions</heading>
@@ -810,9 +810,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>21.07</num>
     <heading>Electric Utility Rates and Tariffs</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>21.07.010</num>
       <heading>Changes in Tariff Rates; Notice to Commission</heading>

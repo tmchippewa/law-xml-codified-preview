@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>30</num>
   <heading>Water Act</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.01</num>
     <heading>Turtle Mountain Chippewa Water Act</heading>
-    <prefix>Chapter</prefix>
     <text>"The water spirits are in all water everywhere. Our Creation story states that when Gitchi Manitou breathed life into the water, he placed the water spirits there to help protect it. We are being repeatedly warned about the damage we are inflicting on the water. By banning fracking, the Turtle Mountain Reservation is doing their part to be good stewards of the water." – Bob Shimek, Chippewa leader living on the White Earth Reservation</text>
     <section>
       <num>30.01.010</num>
@@ -202,9 +202,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.02</num>
     <heading>Establishment of Water Management Organization; Tribal Water Resource Commission and Tribal Water Administrator</heading>
-    <prefix>Chapter</prefix>
     <text>"We must protect this water. We are told by the elders that someday it will be the only safe drinking water." – Frank Monette, TMBCI Tribal Member, statement to his children in the 1960's about the Holy Spring.</text>
     <section>
       <num>30.02.010</num>
@@ -431,9 +431,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.03</num>
     <heading>Water Management</heading>
-    <prefix>Chapter</prefix>
     <text>"The Turtle Mountain Chippewa Tribal Council listened to the people and unanimously decided to ban hydraulic fracturing on November 22, 2011.  This ban was the greatest gift the Council could have ever given to the next seven generations.  Water has now been recognized as our greatest asset, not money."  – Cedar Gillette</text>
     <section>
       <num>30.03.010</num>
@@ -861,9 +861,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.04</num>
     <heading>Permit Systems</heading>
-    <prefix>Chapter</prefix>
     <text>"Access to fresh, clean water is one of our most basic human rights granted to us from the Creator, and is an 'inherent' right handed down to us throughout the generations from our Anishinabe ancestors from time immemorial.  These inherent rights woven throughout the fabric of Anishinabe culture and life ways, and, told to us through our oral history and legends, our songs and our art are what make us a 'Tribe'. These gifts were acknowledged by our people long before the Europeans came to Turtle Island, and long before we were forced into giving up our traditional homelands under duress, and into making treaties, now considered to be the Supreme Law of the Land.  We have a duty, a responsibility to protect this sacred connection to Water, not only for ourselves, but for our future generations to come.   Our survival as a Tribe depends on conserving and protecting our Water."  Deborah LaVallie</text>
     <section>
       <num>30.04.010</num>
@@ -1185,9 +1185,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.05</num>
     <heading>Enforcement</heading>
-    <prefix>Chapter</prefix>
     <text>"Ojibwa women are responsible for caring for the water. Our men are responsible for caring for the fire. But, we need each other to support what we do." – Debbie Gourneau, TMBCI teacher.</text>
     <section>
       <num>30.05.010</num>
@@ -1210,9 +1210,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.06</num>
     <heading>Responsibility</heading>
-    <prefix>Chapter</prefix>
     <text>"We are guided by visions and dreams, but most of all we are guided by our spirits and spirit helpers." – Josephine Mandamin, Leader of the Chippewa Women Water Walkers who walked around the perimeter of the Great Lakes over a collective period of five years.</text>
     <section>
       <num>30.06.010</num>
@@ -1232,9 +1232,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>30.07</num>
     <heading>Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>30.07.010</num>
       <heading>Funding</heading>

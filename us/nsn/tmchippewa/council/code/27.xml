@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>27</num>
   <heading>Leasehold Mortgage of Tribal Trust Land</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.01</num>
     <heading>General Purpose Statement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.01.010</num>
       <heading>Purpose</heading>
@@ -17,9 +17,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.02</num>
     <heading>Definitions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.02.010</num>
       <heading>Definitions</heading>
@@ -137,9 +137,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.03</num>
     <heading>Priority</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.03.010</num>
       <heading>Priority</heading>
@@ -150,9 +150,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.04</num>
     <heading>Recording</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.04.010</num>
       <heading>Recording</heading>
@@ -163,9 +163,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.05</num>
     <heading>Leasehold Mortgage Foreclosure Proceedings</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.05.010</num>
       <heading>Leasehold Mortgage Foreclosure Proceedings</heading>
@@ -264,9 +264,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.06</num>
     <heading>Leasehold Mortgage Eviction Procedures</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.06.010</num>
       <heading>Jurisdiction</heading>
@@ -455,9 +455,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>27.07</num>
     <heading>Limited Waiver of Immunity</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>27.07.010</num>
       <heading>Limited Waiver of Immunity</heading>

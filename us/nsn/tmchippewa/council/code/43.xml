@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>43</num>
   <heading>Tribal Lending Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>43.01</num>
     <heading>Establishment of the Tribal Lending Code and Lending Regulatory Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>43.01.010</num>
       <heading>Title &amp; Purpose</heading>
@@ -93,7 +93,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>“Key Employee” means only the Chief Executive Officer, Chief Compliance Officer, Chief Finance Officer, or if such a position does not exist, any person acting in a similar capacity.</text>
+        <text>"Key Employee" means only the Chief Executive Officer, Chief Compliance Officer, Chief Finance Officer, or if such a position does not exist, any person acting in a similar capacity.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -189,7 +189,7 @@
       </para>
       <para>
         <num>(r)</num>
-        <text>“Tribal Lands” means all lands within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation, and any lands title to which is either held in trust by the United States for the benefit of the Tribe or a member of the Tribe, or held by the United States for the benefit of the Tribe or member of the Tribe subject to restriction by the United States against alienation and over which the Tribe exercises governmental power. Tribal Lands further include tribal digital jurisdiction and sovereign authority over the data related to their citizens, businesses, and activities online, and that the collection, use, and application is subject to Tribal Law and Policies.</text>
+        <text>"Tribal Lands" means all lands within the jurisdiction of the Turtle Mountain Band of Chippewa Indian Reservation, and any lands title to which is either held in trust by the United States for the benefit of the Tribe or a member of the Tribe, or held by the United States for the benefit of the Tribe or member of the Tribe subject to restriction by the United States against alienation and over which the Tribe exercises governmental power. Tribal Lands further include tribal digital jurisdiction and sovereign authority over the data related to their citizens, businesses, and activities online, and that the collection, use, and application is subject to Tribal Law and Policies.</text>
       </para>
       <para>
         <num>(s)</num>
@@ -269,7 +269,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Any person appointed as a Commissioner must be at least 21 years of age; show proof of a bachelor’s degree in a relevant field such as but not limited to: law, finance, accounting or business; possess at least 5 years of experience employed in leadership positions demonstrating consistent advancement in lending, finance, management, business, governmental regulation, law, accounting, and/or Tribal policy; and, in the Tribal Council’s sole opinion, the organizational abilities to effectively manage the business of the Commission and make decisions on behalf of the Commission.  No person shall serve as a Commissioner if convicted of or has entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or, in the Tribal Council’s sole discretion, has reputation, habits, or associations that could undermine the integrity of the Commission or its roles in protecting Consumers.</text>
+        <text>Any person appointed as a Commissioner must be at least 21 years of age; show proof of a bachelor's degree in a relevant field such as but not limited to: law, finance, accounting or business; possess at least 5 years of experience employed in leadership positions demonstrating consistent advancement in lending, finance, management, business, governmental regulation, law, accounting, and/or Tribal policy; and, in the Tribal Council's sole opinion, the organizational abilities to effectively manage the business of the Commission and make decisions on behalf of the Commission.  No person shall serve as a Commissioner if convicted of or has entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or, in the Tribal Council's sole discretion, has reputation, habits, or associations that could undermine the integrity of the Commission or its roles in protecting Consumers.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -302,9 +302,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>43.02</num>
     <heading>Issuance of Licenses &amp; Regulation of Licensees</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>43.02.010</num>
       <heading>Lending Operations, Loans, and Loan Products; Use of Revenues</heading>
@@ -479,9 +479,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>43.03</num>
     <heading>Substantive Laws and Prohibited Acts</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>43.03.010</num>
       <heading>Debt Collections</heading>
@@ -787,9 +787,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>43.04</num>
     <heading>Enforcement Powers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>43.04.010</num>
       <heading>Notice of Violation</heading>
@@ -952,9 +952,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>43.05</num>
     <heading>Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>43.05.010</num>
       <heading>Savings Provision</heading>

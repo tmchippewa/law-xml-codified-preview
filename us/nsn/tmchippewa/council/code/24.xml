@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>24</num>
   <heading>Commercial Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.01.010</num>
       <heading>Short Title; Construction, Application and Subject Matter or the Act</heading>
@@ -511,9 +511,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.02</num>
     <heading>Sales</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.02.010</num>
       <heading>Short Title; General Construct and Subject Matter</heading>
@@ -694,9 +694,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.03</num>
     <heading>Form, Formation and Readjustment of Contract</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.03.010</num>
       <heading>Formal Requirements; Statute of Frauds</heading>
@@ -908,9 +908,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.04</num>
     <heading>General Obligation and Construction of Contract</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.04.010</num>
       <heading>General Obligation of Parties</heading>
@@ -1586,9 +1586,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.05</num>
     <heading>Title, Creditors, and Good Faith Purchases</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.05.010</num>
       <heading>Passing of Title; Reservation for Security; Limited Application of This Section</heading>
@@ -1697,9 +1697,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.06</num>
     <heading>Performance</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.06.010</num>
       <heading>Insurable Interest in Goods; Manner of Identification of Goods</heading>
@@ -2047,9 +2047,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.07</num>
     <heading>Breach, Repudiation, and Excuse</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.07.010</num>
       <heading>Buyer's Rights on Improper Delivery</heading>
@@ -2413,9 +2413,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.08</num>
     <heading>Remedies</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.08.010</num>
       <heading>Remedies for Breach of Collateral Contracts Not Impaired</heading>
@@ -2946,9 +2946,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.09</num>
     <heading>Leases of Goods</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.09.010</num>
       <heading>Short Title</heading>
@@ -3259,9 +3259,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.10</num>
     <heading>Formation and Construction of Lease Contract</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.10.010</num>
       <heading>Statute of Frauds</heading>
@@ -3743,9 +3743,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.11</num>
     <heading>Effect of Lease Contract</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.11.010</num>
       <heading>Enforceability of Lease Contract</heading>
@@ -4121,9 +4121,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.12</num>
     <heading>Performance of Lease Contract: Repudiated, Substituted, and Excused</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.12.010</num>
       <heading>Insecurity: Adequate Assurance of Performance</heading>
@@ -4289,9 +4289,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.13</num>
     <heading>Default</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.13.010</num>
       <heading>Default Procedure</heading>
@@ -5145,9 +5145,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.14</num>
     <heading>Negotiable Instruments</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.14.010</num>
       <heading>Short Title</heading>
@@ -5763,9 +5763,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.15</num>
     <heading>Negotiation, Transfer, and Endorsement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.15.010</num>
       <heading>Negotiation</heading>
@@ -5962,9 +5962,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.16</num>
     <heading>Enforcement of Instruments</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.16.010</num>
       <heading>Person Entitled to Enforce Instrument</heading>
@@ -6525,9 +6525,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.17</num>
     <heading>Liability of Parties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.17.010</num>
       <heading>Signature</heading>
@@ -7286,9 +7286,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.18</num>
     <heading>Dishonor</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.18.010</num>
       <heading>Presentment</heading>
@@ -7534,9 +7534,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.19</num>
     <heading>Discharge and Payment</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.19.010</num>
       <heading>Discharge and Effect of Discharge</heading>
@@ -7710,9 +7710,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.20</num>
     <heading>Bank Deposits and Collections</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.20.010</num>
       <heading>Short Title</heading>
@@ -7974,9 +7974,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.21</num>
     <heading>Collection of Items: Depositary and Collecting Banks</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.21.010</num>
       <heading>Status of Collecting Bank as Agent and Provisional Status of Credits; Applicability of Article; Item Endorsed "Pay Any Bank"</heading>
@@ -8475,9 +8475,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.22</num>
     <heading>Collection of Items: Payor Banks</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.22.010</num>
       <heading>Deferred Posting Recovery of Payment by Return of Items Time of Dishonor Return of Items by Payor Bank</heading>
@@ -8577,9 +8577,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.23</num>
     <heading>Relationship Between Payor Bank and Its Customer</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.23.010</num>
       <heading>When Bank May Charge Customer's Account</heading>
@@ -8733,9 +8733,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.24</num>
     <heading>Collection of Documentary Drafts</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.24.010</num>
       <heading>Handling of Documentary Drafts; Duty to Send for Presentment and to Notify Customer of Dishonor</heading>
@@ -8792,9 +8792,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.25</num>
     <heading>Funds Transfers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.25.010</num>
       <heading>Short Title</heading>
@@ -8999,9 +8999,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.26</num>
     <heading>Issue and Acceptance of Payment Order.</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.26.010</num>
       <heading>Security Procedure</heading>
@@ -9386,9 +9386,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.27</num>
     <heading>Execution of Sender's Payment Order by Receiving Bank</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.27.010</num>
       <heading>Execution and Execution Date</heading>
@@ -9499,9 +9499,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.28</num>
     <heading>Payment</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.28.010</num>
       <heading>Payment Date</heading>
@@ -9671,9 +9671,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.29</num>
     <heading>Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.29.010</num>
       <heading>Variation by Agreement and Effect of Funds-Transfer System Rule</heading>
@@ -9847,9 +9847,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.30</num>
     <heading>Letters of Credit</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.30.010</num>
       <heading>Short Title</heading>
@@ -10476,14 +10476,14 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.31</num>
     <heading>[Reserved]</heading>
-    <prefix>Chapter</prefix>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.32</num>
     <heading>Warehouse Receipts, Bills of Lading and Other Documents of Title</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.32.010</num>
       <heading>Short Title</heading>
@@ -10593,9 +10593,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.33</num>
     <heading>Warehouse Receipts; Special Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.33.010</num>
       <heading>Who May Issue a Warehouse Receipt; Storage Under Government Bond</heading>
@@ -10843,9 +10843,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.34</num>
     <heading>Bills of Lading: Special Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.34.010</num>
       <heading>Liability for Nonreceipt or Misdescription; "Said to Contain"; "Shipper's Load and Count"; Improper Handling</heading>
@@ -11052,9 +11052,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.35</num>
     <heading>Warehouse Receipts and Bills of Lading: General Obligations</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.35.010</num>
       <heading>Irregularities in Issue of Receipt or Bill or Conduct of Issuer</heading>
@@ -11148,9 +11148,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.36</num>
     <heading>Warehouse Receipts and Bills of Lading: Negotiation of Transfer</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.36.010</num>
       <heading>Form of Negotiation and Requirements Of" Due Negotiation."</heading>
@@ -11333,9 +11333,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.37</num>
     <heading>Warehouse Receipts and Bills of Lading: Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.37.010</num>
       <heading>Lost or Missing Documents</heading>
@@ -11369,9 +11369,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.38</num>
     <heading>Investment Securities</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.38.010</num>
       <heading>Short Title</heading>
@@ -11630,9 +11630,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.39</num>
     <heading>Issue; Issuer</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.39.010</num>
       <heading>"Issuer."</heading>
@@ -11909,9 +11909,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.40</num>
     <heading>Transfer</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.40.010</num>
       <heading>Rights Acquired by Purchaser</heading>
@@ -12691,9 +12691,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.41</num>
     <heading>Registration</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.41.010</num>
       <heading>Duty of Issuer to Register Transfer, Pledge, or Release</heading>
@@ -13188,9 +13188,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.42</num>
     <heading>Secured Transactions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.42.010</num>
       <heading>Short Title</heading>
@@ -14671,9 +14671,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.43</num>
     <heading>Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.43.010</num>
       <heading>General Effectiveness of Security Agreement</heading>
@@ -15151,9 +15151,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.44</num>
     <heading>Perfection and Priority</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.44.010</num>
       <heading>Law Governing Perfection and Priority of Security Interests</heading>
@@ -16985,9 +16985,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.45</num>
     <heading>Rights of Third Parties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.45.010</num>
       <heading>Alienability of Debtor's Rights</heading>
@@ -17331,9 +17331,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.46</num>
     <heading>Filing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.46.010</num>
       <heading>Contents of Financing Statement - Record of Mortgage as Financing Statement - Time of Filing Financing Statement - Amending Financing Statement</heading>
@@ -18273,9 +18273,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.47</num>
     <heading>Default</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.47.010</num>
       <heading>Rights After Default - Judicial Enforcement - Consignor or Buyer of Accounts, Chattel Paper, Payment Intangibles, or Promissory Notes</heading>
@@ -19498,9 +19498,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.48</num>
     <heading>Transition</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.48.010</num>
       <heading>Savings Clause</heading>
@@ -19964,9 +19964,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.49</num>
     <heading>Validity of Security Agreement and Rights of Parties</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.49.010</num>
       <heading>General Validity of Security Agreement</heading>
@@ -20124,9 +20124,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.50</num>
     <heading>Rights of Third Parties; Perfected and Un Perfected Security Interests; Rules of Priority</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.50.010</num>
       <heading>Persons Who Take Priority over Unperfected Security Interests; "Lien Creditor."</heading>
@@ -20679,9 +20679,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.51</num>
     <heading>Filing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.51.010</num>
       <heading>Place of Filing; Erroneous Filing; Removal of Collateral</heading>
@@ -20918,9 +20918,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>24.52</num>
     <heading>Default</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>24.52.010</num>
       <heading>Default; Procedure When Security Agreement Covers Both Real and Personal Property</heading>

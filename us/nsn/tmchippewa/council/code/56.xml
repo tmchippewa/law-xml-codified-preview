@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>56</num>
   <heading>Medical Marijuana Control Act</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.01.010</num>
       <heading>Short Title</heading>
@@ -188,9 +188,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.02</num>
     <heading>Prohibited Acts and Affirmative Defenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.02.010</num>
       <heading>Exemption from Prosecution for Certain Acts</heading>
@@ -274,9 +274,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.03</num>
     <heading>Licensing</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.03.010</num>
       <heading>Marijuana Businesses; Operating Fee</heading>
@@ -506,9 +506,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.04</num>
     <heading>Cultivating Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.04.010</num>
       <heading>Cultivation Facility Operating Procedures</heading>
@@ -692,9 +692,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.05</num>
     <heading>Processing Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.05.010</num>
       <heading>Processing Facility Operating Procedures</heading>
@@ -981,9 +981,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.06</num>
     <heading>Distributing Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.06.010</num>
       <heading>Distribution Facility Operating Procedures</heading>
@@ -1217,9 +1217,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.07</num>
     <heading>Transportation of Marijuana</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.07.010</num>
       <heading>Transportation</heading>
@@ -1291,9 +1291,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.08</num>
     <heading>Security, Site Management and Inventory Control</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.08.010</num>
       <heading>Security and Site Management</heading>
@@ -1390,9 +1390,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.09</num>
     <heading>Marijuana Control Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.09.010</num>
       <heading>Commission Establishment; Duration; Attributes</heading>
@@ -1584,14 +1584,14 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.10</num>
     <heading>Marijuana and Hemp Research and Development</heading>
-    <prefix>Chapter</prefix>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>56.11</num>
     <heading>Miscellaneous Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>56.11.010</num>
       <heading>Severability</heading>

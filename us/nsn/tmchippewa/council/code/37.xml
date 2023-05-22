@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>37</num>
   <heading>Domestic Violence</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.01.010</num>
       <heading>Policy and Purpose</heading>
@@ -96,7 +96,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>"DOMESTIC VIOLENCE" means physical harm, bodily injury, assault, sexual assault or the infliction of reasonable fear of bodily injury between family or household members. All crimes involving violence, assault, physical abuse, sexual abuse or others enumerated in the Tribal Mountain Tribal Code and set forth in 37.200 (1) “Domestic Assault” and or 37.200.1 “Domestic Abuse” committed against or between family or household members may be charged as domestic violence and may be punished as provided in <cite path="37.03">Chapter 37.03</cite> of the Turtle Mountain Domestic Violence Code.</text>
+        <text>"DOMESTIC VIOLENCE" means physical harm, bodily injury, assault, sexual assault or the infliction of reasonable fear of bodily injury between family or household members. All crimes involving violence, assault, physical abuse, sexual abuse or others enumerated in the Tribal Mountain Tribal Code and set forth in 37.200 (1) "Domestic Assault" and or 37.200.1 "Domestic Abuse" committed against or between family or household members may be charged as domestic violence and may be punished as provided in <cite path="37.03">Chapter 37.03</cite> of the Turtle Mountain Domestic Violence Code.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -115,7 +115,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>domestic partner (as defined in subsection (i)); </text>
+          <text>domestic partner (as defined in subsection (i));</text>
         </para>
         <para>
           <num>(4)</num>
@@ -265,9 +265,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.02</num>
     <heading>Domestic Violence Crimes</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.02.010</num>
       <heading>Crimes Involving "Domestic Violence."</heading>
@@ -276,7 +276,7 @@
         <text>Domestic Assault is any act committed against a spouse or intimate partner, or against a child of or in the care of the person committing the domestic assault and shall be punished as enumerated in section 37.0300. Such domestic assaults include but are not limited to the crimes defined in the following:</text>
         <para>
           <num>(1)</num>
-          <text>Homicide Offenses, as defined in <cite path="26">Title 26</cite>, <cite path="26.10">Chapter 26.10</cite> of the Turtle Mountain Tribal Code; </text>
+          <text>Homicide Offenses, as defined in <cite path="26">Title 26</cite>, <cite path="26.10">Chapter 26.10</cite> of the Turtle Mountain Tribal Code;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -288,7 +288,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>d.  Kidnapping and abduction, as defined in <cite path="26">Title 26</cite>, <cite path="26.13">Chapter 26.13</cite>, <cite path="26.13.020">Section 26.13.020</cite> and <cite path="26.13.040">Section 26.13.040</cite> of the Turtle Mountain Tribal Code</text>
+          <text>Kidnapping and abduction, as defined in <cite path="26">Title 26</cite>, <cite path="26.13">Chapter 26.13</cite>, <cite path="26.13.020">Section 26.13.020</cite> and <cite path="26.13.040">Section 26.13.040</cite> of the Turtle Mountain Tribal Code</text>
         </para>
       </para>
       <annotations>
@@ -298,7 +298,7 @@
     </section>
     <section>
       <num>37.02.015</num>
-      <heading>Crimes involving “Domestic Abuse”</heading>
+      <heading>Crimes Involving "Domestic Abuse"</heading>
       <text>Domestic Abuse is any act committed against a spouse or intimate partner, or against a child of or in the care of the person committing the domestic violence. Such domestic abuse includes but are not limited to the crimes defined in the following:</text>
       <para>
         <num>(a)</num>
@@ -540,9 +540,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.03</num>
     <heading>Criminal and Civil Penalties; Other Sanctions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.03.010</num>
       <heading>Criminal Penalties</heading>
@@ -884,9 +884,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.04</num>
     <heading>Duties of Tribal Officials</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.04.010</num>
       <heading>Duties of Police Officers</heading>
@@ -1165,9 +1165,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.05</num>
     <heading>Civil Protection Orders</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.05.010</num>
       <heading>Jurisdiction for Civil Protection Orders</heading>
@@ -1530,9 +1530,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>37.06</num>
     <heading>Domestic Violence Leave Act</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>37.06.010</num>
       <heading>Policy and Purpose</heading>

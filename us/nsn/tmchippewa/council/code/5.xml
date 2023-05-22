@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>5</num>
   <heading>Children's Code</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.01</num>
     <heading>General Provisions</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.01.010</num>
       <heading>Purpose</heading>
@@ -722,9 +722,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.02</num>
     <heading>Juvenile Court</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.02.010</num>
       <heading>Definition</heading>
@@ -1614,9 +1614,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.03</num>
     <heading>Appeal</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.03.010</num>
       <heading>Procedure of Appeals</heading>
@@ -1659,9 +1659,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.04</num>
     <heading>Indian Child Welfare Act of 1978</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.04.010</num>
       <heading>Transfer from State Courts</heading>
@@ -1773,9 +1773,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.05</num>
     <heading>Probation Officer</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.05.010</num>
       <heading>Appointment of Probation Officers</heading>
@@ -1838,9 +1838,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.06</num>
     <heading>Delinquency Prevention Commission</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.06.010</num>
       <heading>Establishment, Support and Maintenance; Composition</heading>
@@ -1859,9 +1859,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.07</num>
     <heading>Reporting Child Abuse and Neglect</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.07.010</num>
       <heading>Purpose</heading>
@@ -2168,9 +2168,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.08</num>
     <heading>Permanent Planning</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.08.010</num>
       <heading>Permanent Planning</heading>
@@ -2305,19 +2305,19 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.09</num>
     <heading>Reserved</heading>
-    <prefix>Chapter</prefix>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.10</num>
     <heading>Reserved</heading>
-    <prefix>Chapter</prefix>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.11</num>
     <heading>Education and Health</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.11.010</num>
       <heading>Compulsory Attendance</heading>
@@ -2404,9 +2404,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>5.12</num>
     <heading>Juvenile Offenses</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>5.12.010</num>
       <heading>Curfew</heading>

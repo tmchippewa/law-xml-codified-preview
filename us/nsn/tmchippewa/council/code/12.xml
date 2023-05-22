@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
   <num>12</num>
   <heading>Sales</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>12.01</num>
     <heading>General Obligation and Construction of Contract</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>12.01.010</num>
       <heading>Formation of Contract for Sale; in General</heading>
@@ -242,9 +242,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>12.02</num>
     <heading>Title, Creditors, and Good Faith Purchasers</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>12.02.010</num>
       <heading>Passing of Title</heading>
@@ -322,9 +322,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>12.03</num>
     <heading>Performance</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>12.03.010</num>
       <heading>Buyer's Interest in Goods; Manner of Identification of Goods</heading>
@@ -523,9 +523,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>12.04</num>
     <heading>Breach, Repudiation and Excuse</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>12.04.010</num>
       <heading>Manner and Effect of Rightful Rejection</heading>
@@ -666,9 +666,9 @@
     </section>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>12.05</num>
     <heading>Remedies</heading>
-    <prefix>Chapter</prefix>
     <section>
       <num>12.05.010</num>
       <heading>Seller's Remedies in General</heading>
