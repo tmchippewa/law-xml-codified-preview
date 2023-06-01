@@ -12,13 +12,13 @@
       <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
-    <history-start>0000-01-01</history-start>
+    <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="09e7b2485abe436f1eeeae3e49fc6a7164a147d1"/>
+        <repository name="tmchippewa/law-xml" commit="1fe2f378fd297ee89502584574c84d281fad6248"/>
       </repositories>
       <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-05-22</build-date>
+      <build-date>2023-06-01</build-date>
       <codified-date>2023-03-23</codified-date>
     </build>
   </meta>

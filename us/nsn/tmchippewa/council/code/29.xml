@@ -1,0 +1,1846 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>29</num>
+  <heading>Corporations</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>29.01.010</num>
+      <heading>Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|3">Article IX, Section (a)(3)</cite> of the Constitution delegates to the Tribal Council the authority to regulate and license where permitted by law all business conducted upon the reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|5">Article IX, Section (a)(5)</cite> of the Constitution delegates to the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.020</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="29">This Title</cite> establishes Turtle Mountain Band of Chippewa Law for the establishment and operation of Limited Liability Companies, (LLC).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><cite path="29">This Title</cite> establishes an organizational structure for Individual Private citizens to organize within the Tribe's jurisdiction as a Limited Liability Company for businesses and to enjoy the benefits of such organization.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><cite path="29">This Title</cite> establishes an organization structure for the Turtle Mountain Band of Chippewa Indians to organize businesses as Limited Liability Companies and to enjoy the benefits of such organization.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.030</num>
+      <heading>Applicability</heading>
+      <text>The provisions of this Act shall apply to all limited liability companies (LLC) organized hereunder or which elect to accept the provisions of this Act. Preexisting LLC's shall be deemed to be in valid existence and allowed a ninety (90) day grace period from the date of the adoption of this Act to amend or conform their articles of organization in order to comply with the provisions herein.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.040</num>
+      <heading>Rules of Construction</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is the policy of this Act to give maximum effect to the principle of freedom of contract and to the enforceability of articles of operation and other agreements.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless displaced by particular provision of this Act, the principles of law and equity supplement this Act.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.050</num>
+      <heading>Definitions</heading>
+      <text>Terms used in this Act have the following meaning:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Articles of Operation" means an agreement in writing among all of the members as to the conduct of the business of a limited liability company and its relationships with its members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Articles of Organization" means the articles filed pursuant to <cite path="29">this Title</cite> and those articles as amended or restated.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Corporation" means a "domestic corporation" for profit organized under the TMBCI's <cite path="29">Title 29</cite> and a foreign corporation formed under the laws of any other jurisdiction.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Court" means the TMBCI Tribal Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Distribution" means a direct or indirect transfer by a limited liability company of money or other property to or for the benefit of its members in respect of their interests.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Entity" includes an individual, a general partnership, limited partnership, a domestic or foreign limited liability company, a trust, an estate, an association, a corporation, or any other legal or commercial entity and the TMBCI.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Foreign business Organization" refers to limited liability companies, corporations, and/or limited partnerships organized under the laws of a jurisdiction other than the TMBCI.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Individual Private Citizen. "Individual Private Citizen is an enrolled member of the Turtle Mountain Band of Chippewa Indians at least 18 years of age with a residence within the Territory of the Tribe.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Limited Liability Company" or "Domestic Limited Liability Company" means an organization formed under this Act, except as provided for in the <cite path="29.07.010">"Merger" Section</cite> of <cite path="29">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Limited Liability Company Interest" or "Interest in the Limited Liability Company" or "Member's Interest" means a member's rights in the limited liability company, including rights to distributions, profits and losses, and to participate in management, as specified in the Articles of Operation.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"LLC" means a limited liability company.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Majority in Interest" means members contributing more than fifty percent (50%) of the value of total capital contributions to the limited liability company excluding any interest which is not to be counted as voting on a matter as described elsewhere in <cite path="29">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Manager" or "Managers" means the entity or entities designated to manage the company and this is not necessarily determined by percentage of ownership in the company.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Member" means a person who has been admitted to membership in a limited liability company and who has not dissociated from the limited liability company.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"TMBCI" means the Turtle Mountain Band of Chippewa Indians Tribe as organized under its Constitution.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Organizer(s)" means the entity(ies) which signs and delivers the articles of organization for filing to the TMBCI's Secretary/Treasurer.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"State" includes a state, territory, or possession of the United States and the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Trust Land" means land held in trust by the United States for the benefit of TMBCI or its members.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.060</num>
+      <heading>Name</heading>
+      <para>
+        <num>(a)</num>
+        <text>The name of a limited liability company as set forth in its articles of organization must contain the words "limited liability company" or end with the abbreviation "L.L.C." or "LLC." The name may not contain language stating or implying that the limited liability company is organized for any purpose other than that permitted under <cite path="29.01.090">"Nature of Business" Section</cite> of <cite path="29">this Title</cite> which is below.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The name of a domestic LLC shall be distinguishable from any LLC or corporation previously organized under the laws of the TMBCI.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.070</num>
+      <heading>Registered Office and Registered Agent</heading>
+      <text>A limited liabilities company's registered agent is the company's agent for service of process, notice, or demand required or permitted by law to be served on the company under the laws of the TMBCI.</text>
+      <para>
+        <num>(a)</num>
+        <text>Each LLC shall continuously maintain a registered office and a registered agent. The registered office may, but need not, be the same as any of its places of business.</text>
+        <para>
+          <num>(1)</num>
+          <text>The agent may be the same person then serving in a designated office of the TMBCI rather than a specified person if the TMBCI is a Member in the LLC of which the TMBCI's officer is the appointed agent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>. For a Tribal LLC it must be a member not the organization itself to ensure service.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An LLC may change its registered office or registered agent, or both, by including the name of its registered agent and the street address of its registered office, as changed in articles of amendment to its articles of organization or in articles of merger.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The registered agent of an LLC may resign as registered agent by delivering to the Tribe's Secretary/Treasurer for filing a written statement of registration with TMBCI and the appointment by the LLC of another registered agent.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Service upon a tribally owned LLC requires that the registered agent be served along with the Secretary/Treasurer of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.080</num>
+      <heading>Tmbci as Member of an Llc</heading>
+      <para>
+        <num>(a)</num>
+        <text>The TMBCI may form or become a member of an LLC formed under <cite path="29">this Title</cite> only upon approval of such action by resolution of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If TMBCI is a member of any LLC formed under <cite path="29">this Title</cite>, any action which TMBCI is required or permitted to take with respect to any vote, approval, consent, appointment, direction, or other matter shall be taken as stated by a resolution of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In no event shall any manager not member of an LLC in which TMBCI is a member, bind TMBCI in any manner; provided that TMBCI's interest as a member may be bound by manager or member actions as stated in <cite path="29">this Title</cite> and the Articles of Operation of the LLC.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing contained in <cite path="29">this Title</cite> shall be construed as creating any liability or waiving of sovereign immunity of TMBCI in any manner; provided that the assets of the LLC in which the TMBCI holds an interest may be subject to liabilities and claims unless otherwise provided herein. In no event shall any action taken by the Tribal Council concerning the exercise of any right or privilege or discharge of any duty with respect to an interest in an LLC be construed as a waiver of immunity or creation of a liability on the part of TMBCI separate and apart from its interests as a member of the LLC.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the TMBCI is the sole member of an LLC formed under <cite path="29">this Title</cite>, that LLC shall possess the TMBCI's sovereign immunity from suit except to the extent otherwise provided in its Articles of Operation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.090</num>
+      <heading>Nature of Business</heading>
+      <text>A limited liability company may be organized under <cite path="29">this Title</cite> for any lawful purpose. Unless otherwise provided in article of operation, an LLC organized and existing under this Act has the same powers as an individual to do all things necessary and convenient to carry out its business, including but not limited to all of the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Sue and be sued, complain, and defend in its name; provided that if an LLC is wholly owned by TMBCI, it shall be entitled to and shall enjoy TMBCI's sovereign immunity from suit unless the articles of organization otherwise provide.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Purchase, take, receive, lease, or otherwise acquire and own, hold, improve, use, and otherwise deal in or with real, or personal property or any legal or equitable interest in real or personal property, wherever situated.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Sell, convey, mortgage, pledge, create a security interest in, lease, exchange, or otherwise dispose of all or any part of its property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Lend money, property, and services to, and otherwise assist, its members and managers, if any.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Purchase, take, receive, subscribe for, or otherwise acquire and own, hold, vote, use, employ, sell, mortgage, lend, pledge, or otherwise dispose of and deal in and with shares or other interests in, or obligations of, any other enterprise or entity.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Make contracts and guarantees; incur liabilities; borrow money; issue notes, bonds, and other obligations; and secure any of its obligations by mortgage or pledge of all or part of its property, franchises, and income.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Lend money, invest and reinvest its funds, and receive and hold real or personal property as security for repayment.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Conduct its business, locate offices, and exercise the powers granted by <cite path="29">this Title</cite> inside or outside of TMBCI's trust lands.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Elect or appoint managers, agents, and employees, define their duties, and fix their compensation.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Make donations to and otherwise devote its resources for the public welfare or for charitable, scientific, educational, humanitarian, philanthropic, or religious purposes.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Indemnify a member, manager, employee, officer or agent, or any other person.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Transact any lawful business that the members or the managers find to be in aid of governmental policy.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Make payments or donations, or do any other act not prohibited by law, that furthers the business of the LLC.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Provide benefits or payments to members, managers, employees, and agents of the LLC, and to their estates, families, dependents or beneficiaries in recognition of the past services of the members, managers, employees, and agents of the LLC.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Pay pensions and establish pension plans, pension trusts, profit-sharing plans, and benefit or incentive plans for any or all of its current or former members, managers, employees, and agents.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.100</num>
+      <heading>Documents</heading>
+      <para>
+        <num>(a)</num>
+        <text>Execution of Documents.</text>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in <cite path="29">this Title</cite>, any document required or permitted by <cite path="29">this Title</cite> herein to be delivered for filing to the Tribe's Secretary/Treasurer shall be executed by any of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any manager, if management of the LLC is vested in a manager or managers, or by a member, if management of the LLC is reserved to the members.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All organizers of the LLC if the LLC has not been organized. Name and address of each organizer shall be provided.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The name of the drafter of the document including his or her address and contact information.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The person executing the document shall sign it and state beneath or opposite the signature the person's name and capacity in which the person signs.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person executing the document may do so as an attorney-in-fact. Powers of attorney relating to the executing of the document need not be shown to nor filed with the Tribe's Secretary/Treasurer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Filing.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon receipt of a document for filing under <cite path="29">this Title</cite>, the Legislative Secretary shall ensure it meets the requirements herein and then shall stamp or otherwise endorse the date and time of receipt of the original, the duplicate copy, and, upon request, any additional copy received.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the Tribe's Secretary/Treasurer refuses to file a request, the Secretary shall return it to the person tendering the document for filing within five (5) business days after the date on which the document is received by the Tribe's Secretary/Treasurer for filing, together with a brief written explanation of the reason for refusal.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any document accepted by the Tribe's Secretary/Treasurer shall be effective at the time of receipt unless a delayed effective date and/or time not more than ninety (90) days after receipt by the Secretary is specified in the document.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fees. The Tribe's Secretary/Treasurer shall impose a $25.00 filing fee for each document filed and an annual $25.00 renewal fee during the life of the LLC.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Certificate of Status. Any person may obtain from the Tribe's Secretary/Treasurer, upon request, a certificate of status for either a domestic or a foreign LLC.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.110</num>
+      <heading>Execution by Judicial Act</heading>
+      <text>Any person who is adversely affected by the failure or refusal of any person to execute and file any articles or other document to be filed under <cite path="29">this Title</cite> may petition the TMBCI's Tribal Court to direct the execution and filing of the articles or other document.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.01.120</num>
+      <heading>Interstate Application</heading>
+      <text>An LLC may conduct its business, carry on its operations and have and exercise the powers granted by this Act, in any sovereign Indian TMBCI, any state, territory, district or possession of the United States, or in any foreign jurisdiction.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.02</num>
+    <heading>Articles of Organization and Dealing with LLC</heading>
+    <section>
+      <num>29.02.010</num>
+      <heading>Articles of Organization</heading>
+      <para>
+        <num>(a)</num>
+        <text>One or more persons may organize a limited liability company by signing and delivering articles of organization to the Tribe's Secretary/Treasurer for filing. The organizer(s) need not be members of the LLC at the time of organization or thereafter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A limited liability company shall have one or more members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The articles of organization shall contain all of and only the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A statement that the LLC is organized under <cite path="29">this Title</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A name for the LLC that satisfies the provisions of <cite path="29">this Title</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The street address of the registered office and the name of the registered agent at that office.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If management of the LLC is vested in one or more managers, a statement to that effect.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The name and address of each person organizing the LLC.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Whether the LLC is wholly owned by the TMBCI.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If wholly owned by the TMBCI, whether the LLC is to enjoy the TMBCI's sovereign immunity and the scope of any waiver of that immunity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribe's Secretary/Treasurer shall assign each article of organization an identification number.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Amendment. An LLC may amend its articles of organization at any time by delivering an amendment, with fee filing fee, for filing to the Tribe's Secretary/Treasurer.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Effect of Delivery or Filing.</text>
+        <para>
+          <num>(1)</num>
+          <text>An LLC is formed when the articles of organization become effective under <cite path="29.01.110">Section 29.01.110</cite> upon filing and approval execution by the Secretary/Treasurer.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe's Secretary/Treasurer's filing of the articles of organization is conclusive proof that the LLC is organized and formed under <cite path="29">this Title</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.020</num>
+      <heading>Agency Power of Members and Managers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided in paragraph b, below:</text>
+        <para>
+          <num>(1)</num>
+          <text>Each member is an agent of the LLC, but not of the other members or any of them, for the purpose of its business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The act of any member, including the execution in the name of the LLC of any instrument for apparently carrying on in the ordinary course of business the business of the LLC, binds the LLC in the particular matter, unless the person with whom the member is dealing has knowledge that the member has no authority to act in this matter.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the TMBCI is a Member, the TMBCI's authority shall be exercised only by a duly adopted resolution of the Tribal Council.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If management of the LLC is vested in one or more managers:</text>
+        <para>
+          <num>(1)</num>
+          <text>No member, solely by being a member, is an agent of the LLC or of the other members or any of them.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each manager is an agent of the LLC, but not of the members or any of them, for the purpose of its business.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The act of any manager, including the execution in the name of the LLC of any instrument for apparently carrying on the ordinary course of business of the LLC, binds the LLC unless the manager has, in fact, no authority to act for the LLC in the particular matter, and the person with whom the manager is dealing has knowledge that the manager has no authority to act in the matter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No act of a member or, if management of the LLC is vested in one or more managers, of a manager that is not apparently for the carrying on in the ordinary course of business the business of the LLC shall bind the LLC unless in fact authorized at the of the transaction or at any other time.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.030</num>
+      <heading>Admissions of Members and Managers</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided in paragraph b, below, an admission or representation made by any member concerning the business of an LLC within the scope of the member's actual authority as provided in  <cite path="29.02.020">"Agency Power of Members and Managers" Section</cite> herein may be used as evidence against the LLC in any legal proceeding.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If management of the LLC is vested in one or more managers:</text>
+        <para>
+          <num>(1)</num>
+          <text>An admission or representation made by a manager concerning the business of an LLC within the scope of the manager's authority as provided under <cite path="29.02.020">"Agency Power of Members and Managers" Section</cite> may be used as evidence against the LLC in any legal proceeding.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The admission or representation of any member, acting solely in the member's capacity as a member, is not evidence against the LLC in any legal proceeding.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.040</num>
+      <heading>Knowledge of or Notice to Member or Manager</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided in paragraph b, below, notice to any member of any matter relating to the business of an LLC, and the knowledge of a member acting in the particular matter, acquired while a member or known by the person at the time of becoming a member, and the knowledge of any member who reasonably could and should have communicated it to the acting member, operate as notice to or knowledge of the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If management of the LLC is vested in one or more managers:</text>
+        <para>
+          <num>(1)</num>
+          <text>Notice to any manager of any matter relating to the business of the LLC, and the knowledge of the manager acting in the particular matter acquired while a manager or known by the person at the time of becoming a manager and the knowledge of any other manager who reasonably could and should have communicated it to the acting manager, operate as notice to or knowledge of the LLC.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Notice to or knowledge of any member while the member is acting solely in the capacity of a member is not notice to or knowledge of the LLC.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.050</num>
+      <heading>Liability of Members to Third Parties</heading>
+      <text>The debts, obligations, and liabilities of an LLC, whether arising in contract, tort, or otherwise, shall be solely the debts, obligations, and liabilities of the LLC. Except as otherwise specifically provided in this Act, a member or manager of an LLC is not personally liable for any debt, obligation, or liability of an LLC, as defined in the Articles of Operation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.060</num>
+      <heading>Parties to Action</heading>
+      <text>A member of an LLC is not a proper party to a proceeding by or against an LLC solely by reason of being a member of the LLC, except if any of the following exist.</text>
+      <para>
+        <num>(a)</num>
+        <text>The object of the proceeding is to enforce a member's right against or liability to the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The action is brought by a member under the <cite path="29.02.070">"Authority to Sue" Section</cite> herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.02.070</num>
+      <heading>Authority to Sue</heading>
+      <text>Unless otherwise provided in articles of operation an action on behalf of an LLC may be brought in the name of the LLC by:</text>
+      <para>
+        <num>(a)</num>
+        <text>One or more members of the LLC, if authorized by a majority in interest of members, excluding the vote of any member who has an interest in the outcome of the action that is adverse to the interest of the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>One or more managers of an LLC if the management of the LLC is vested in one or more managers, or if the managers are authorized to sue by a majority in interest if members.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.03</num>
+    <heading>Members, Managers &amp; Finance</heading>
+    <section>
+      <num>29.03.010</num>
+      <heading>Management</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless the articles of organization vest management in one or more managers, management of the LLC shall be vested in the members subject to any provision in articles of operation or <cite path="29">this Title</cite> restricting or enlarging the management rights and duties of any member or group of members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the articles of organization vest management in one or more managers, management of the business or affairs of the LLC shall be invested in the manager or managers subject to any provisions in articles of operation or <cite path="29">this Title</cite> restricting or enlarging the management rights and duties of any manager or group of managers.  Unless otherwise provided in articles of operation, the manager or managers:</text>
+        <para>
+          <num>(1)</num>
+          <text>Shall be designated, appointed, elected, removed, or replaced by a vote of a majority in interest of the members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Need not be members of the LLC nor individuals.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Unless earlier removed or earlier resigned, shall not hold office until a successor is elected and qualified.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.020</num>
+      <heading>Duties</heading>
+      <text>Unless otherwise provided in articles of operation:</text>
+      <para>
+        <num>(a)</num>
+        <text>No member or manager shall act or fail to act in a manner that constitutes any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A willful failure to deal fairly with the LLC or its members in connection with a matter in which the member or manager has a material conflict of interest.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A violation of criminal law, unless the member or manager had reasonable cause to believe that the person's conduct was lawful or no reasonable cause to believe that the conduct was unlawful.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A transaction from which the member or manager derived an improper personal profit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Willful misconduct.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every member and manager shall account to the LLC and hold as trustee for it any improper personal profit derived by that member or manager without the consent of a majority of the disinterested members or managers, or other persons participating in the management of the LLC, from any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A transaction connected with the organization, conduct, or winding up of the LLC.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A use by a member or manager of the property of an LLC, including confidential or proprietary information or other matters entrusted to the person as a result of the person's status as member or manager.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Articles of Operation may impose duties on its members and managers that are in addition to, but not in abrogation of, those provided in paragraph a, above.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.030</num>
+      <heading>Limitation of Liability and Indemnification</heading>
+      <text>In <cite path="§29.03.030">this Section</cite>, "expenses" mean expenses of defending a lawsuit, including attorney's fees, and any civil judgment or penalty, or settlement payment in lieu thereof, paid in connection with a lawsuit against a member or manager in such capacity.</text>
+      <para>
+        <num>(a)</num>
+        <text>An LLC shall indemnify or allow expenses to each member and each manager for all reasonable expenses incurred with respect to a proceeding if that member or manager was a party to the proceeding in the capacity of a member or manager.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Articles of Operation may alter or provide additional rights to indemnification or allowance of expenses to members and managers.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Notwithstanding paragraphs a and b, above, an LLC may not indemnify a member or manager unless it is determined that the member or manager did not breach or fail to perform a duty to the LLC as provided herein.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Unless otherwise provided in articles of operation:</text>
+        <para>
+          <num>(1)</num>
+          <text>A member or manager shall be conclusively presumed not to have breached or failed to perform a duty to the LLC to the extent that the member or manager has been successful on the merits or otherwise in the defense of the proceeding.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In situations not described in paragraph (1), above, the determination of whether member or manager has breached or failed to perform a duty to the LLC shall be made by the vote of a majority in interest of the members, excluding any member who is a party to the same or related proceeding unless all members are parties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.040</num>
+      <heading>Voting</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise provided in articles of operation or <cite path="§29.03.040">this Section</cite>, and subject to paragraph b, below, an affirmative vote, approval, or consent as follows shall be required to decide any matter connected with the business of an LLC.</text>
+        <para>
+          <num>(1)</num>
+          <text>If management of an LLC is reserved to the members, an affirmative vote, approval, or consent by majority in interest of members.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the management of an LLC is vested in one or more managers, the affirmative, vote, consent, or approval of more than fifty percent (50%) of the managers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation or this Act, the affirmative vote, approval, or consent of all members shall be required to do any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Amend the articles of organization.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue an interest in an LLC to any person.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Adopt, amend, or revoke articles of operation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Allow an LLC to accept any additional contribution from a member.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Allow a partial redemption of an interest in an LLC under the <cite path="29.04.030">"Distribution upon Partial Redemption" Section</cite> herein.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Value contributions of members under the <cite path="29.03.080">"Contributions" Section</cite> within <cite path="29">this Title</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Authorize a manager, member, or other person to do any act on behalf of the LLC that contravenes the articles of operation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless otherwise provided in articles of operation if any member is precluded from voting with respect to a given matter, the value of the contribution represented by the interest in the LLC with respect to which the member would otherwise have been entitled to vote shall be excluded from the total contributions made to the LLC for purposes of determining the fifty percent (50%) threshold under the definition of the "Limited Liability Company Interest" within this Act for that matter.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Unless otherwise provided in articles of operation or <cite path="§29.03.040">this Section</cite>, if all or part of an interest in the LLC is assigned under <cite path="29.05.040">"Assignment of LLC Interest" section</cite> of this Code, the assigning member shall be considered the owner of the assigned interest for purposes of determining the 50% threshold under the definition of the "Limited Liability Company Interest" within this Act until the assignee of the interest in the LLC becomes a member under <cite path="29.05.060">"Right of Assignee to Become a Member" section</cite> herein.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.050</num>
+      <heading>Records and Information</heading>
+      <para>
+        <num>(a)</num>
+        <text>An LLC shall keep at its principal place of business all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A list, in alphabetical order, of each past and present member and, if applicable, manager;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A copy of the articles of organization and all amendments to the articles, together with executed copies of any powers of attorney under which any articles were executed; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A record of all matters referred to in this Act as maintained in such records which are not otherwise specified in the articles of operation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Upon reasonable request, a member may, at the member's own expense, inspect and copy during ordinary business hours any LLC record unless otherwise provided in articles of operation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Members or, if the management of the LLC is vested in one or more managers, managers shall provide true and full information of all things affecting the members to any member or to the legal representative of any member upon reasonable request of the member or the legal representative.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Failure of an LLC to keep or maintain any of the records of information required under <cite path="§29.03.050">this Section</cite> shall not be grounds for imposing liability on any person for the debts and obligations of the LLC.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.060</num>
+      <heading>Admission of Members</heading>
+      <para>
+        <num>(a)</num>
+        <text>In connection with the formation of an LLC, a person acquiring LLC interest is admitted as a member upon formation unless the articles of operation otherwise provides.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>After the formation of an LLC, a person acquiring an LLC interest is admitted as a member of the LLC as specified in the articles of operation or, if not so specified, by a majority in interest of members.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.070</num>
+      <heading>Dissociation</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person ceases to be a member of an LLC upon the occurrence of and at the same time of any of the following events:</text>
+        <para>
+          <num>(1)</num>
+          <text>The member withdraws by voluntary act.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The member is removed as a member in accordance with articles of operation or this Act.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Unless otherwise provided in articles of organization or by the written consent of all members at the time of the event, the member does any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>Makes an assignment for the benefit of the creditors.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Files a voluntary petition in bankruptcy.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Becomes the subject of an order for relief under the federal bankruptcy laws or state or tribal insolvency laws.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Fails to gain dismissal of any federal bankruptcy or state or tribal insolvency proceeding within 120 days of commencement of an involuntary proceeding.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Unless provided in articles of operation or by the written consent of all members, if the member is an individual:</text>
+          <para>
+            <num>(A)</num>
+            <text>The member's death.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The entry of an order by a court of competent jurisdiction adjudicating the member incompetent to manage the member's person or estate.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Unless otherwise provided in articles of operation or by written agreement or by the written consent of all members at the time, if the member is a trust, corporation, partnership, or limited liability company upon liquidation, dissolution, or termination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The members may provide in articles of operation for other events the occurrence of which result in a person ceasing to be a member of the LLC.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless articles of operation provide that a member does not have the power to withdraw by voluntary act from an LLC, the member may do so at any time by giving written notice to the other members or as provided in articles of operation. If the member has the power to withdraw but the withdrawal is a breach of the articles of operation, the LLC may offset the damages against the amount otherwise distributable to the member, in addition to pursuing any remedies provided for in articles of operation or otherwise available under applicable law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.080</num>
+      <heading>Contributions</heading>
+      <para>
+        <num>(a)</num>
+        <text>A member's contributions to an LLC may consist of cash, property, or services rendered, or promissory notes or other written obligations to provide cash or property or to perform services.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The value of a member's contribution shall be determined in the manner provided in articles of operation. If the articles of operation does not fix a value to a contribution, the value of a contribution shall be approved by a majority in interest of the members, shall be properly reflected in the records and information kept by the LLC under the <cite path="29.03.050">"Records and Information" section</cite> of <cite path="29">this Title</cite>, paragraph a. The value of contributions so determined shall be binding and conclusive on the LLC and its members.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.090</num>
+      <heading>Liability for Contribution</heading>
+      <para>
+        <num>(a)</num>
+        <text>An obligation of a member to provide cash or property or to perform services as a contribution to an LLC is not enforceable unless specified in a writing signed by the member.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation, a member is obligated to an LLC to perform any enforceable promise to provide cash or property or to perform services, even if the member is unable to perform because death, disability, or any other reason. If a member does not provide cash, property, or services as promised, the member is obligated at the option of the LLC to provide cash equal to that portion of the value of the stated contribution that has not been fulfilled.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless otherwise provided in articles of operation, a member's obligation to provide cash or property or perform services as a contribution to the LLC may be compromised only by the written consent of all of the members.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.03.100</num>
+      <heading>Allocation of Profits and Losses</heading>
+      <text>The profits and losses of an LLC shall be allocated among the members in the manner provided in articles of operation. If the members do not enter into articles of operation or the articles of operation does not so provide, profits and losses shall be allocated on the basis of value of the contributions made by each member.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.04</num>
+    <heading>Non-Liquidating Distributions</heading>
+    <section>
+      <num>29.04.010</num>
+      <heading>Interim Distributions</heading>
+      <text>Except as provided in <cite path="29">this Title</cite>, a member is entitled to receive distributions from an LLC before the member's dissociation from the LLC and before its dissolution and winding up to the extent and at the times or upon the events specified in articles of organization, or to the extent and at the times determined by the members or managers.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.020</num>
+      <heading>Allocation of Distributions</heading>
+      <text>Distributions of cash or other assets of an LLC shall be allocated among the members as provided in articles of operation, or if the articles of operation does not provide, on the basis of the value of the contributions made by each member.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.030</num>
+      <heading>Distribution upon Partial Redemption</heading>
+      <text>Except as provided in <cite path="29">this Title</cite>, upon the distribution in partial liquidation of a member's interest, the redeeming member is entitled to receive the amount to which the member is entitled under articles of operation and, if not otherwise provided in articles of operation, the fair value of the redeemed interest based on the member's right to share in distributions from the LLC.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.040</num>
+      <heading>Distribution upon Dissociation</heading>
+      <text>Except as otherwise provided in <cite path="29.04">this Chapter</cite>, upon an event of dissociation under the <cite path="29.03.070">"Dissociation" Section</cite> of <cite path="29">this Title</cite> that does not cause dissolution of the LLC, a dissociating member is entitled to receive any distribution to which member is entitled under articles of operation and, if not otherwise provided in articles of operation the fair value of the member's interest in the LLC based on the member's rights to share in distributions from the LLC.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.050</num>
+      <heading>Distribution in Kind</heading>
+      <text>Unless otherwise provided in articles of operation:</text>
+      <para>
+        <num>(a)</num>
+        <text>A member may not demand and receive any distribution from an LLC in any form other than cash.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A member may not be compelled to accept a distribution of any asset in kind except for a liquidating distribution made proportionately.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.060</num>
+      <heading>Right to Distribution</heading>
+      <text>At the time that a member becomes entitled to receive a distribution from an LLC, the member has the status of and is entitled to all remedies available to a creditor of the LLC with respect to the distribution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.070</num>
+      <heading>Limitations of Distributions</heading>
+      <para>
+        <num>(a)</num>
+        <text>An LLC may not declare or make a distribution to any of its members, if after giving effect to the distribution, any of the following would occur.</text>
+        <para>
+          <num>(1)</num>
+          <text>The LLC would be unable to pay its debts as they become due in the usual course of business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The fair market value of the LLC's total assets would be less than the sum of its total liabilities plus, unless articles of operation provides otherwise, the amount that would be needed for the preferential rights upon dissolution of members, if any.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An LLC may base a determination that a distribution is not prohibited by paragraph a, above, on any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Financial statements and other financial data prepared on the basis of accounting practices and principles that are reasonable under the circumstances.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A fair market valuation or other method that is reasonable under the circumstances.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An LLC's indebtedness to a member incurred by reason of a distribution made in accordance with <cite path="§29.04.070">this section</cite> is at parity with the LLC's indebtedness to its general unsecured creditors, except to the extent subordinated by written agreement. <cite path="§29.04.070">This Section</cite> does not affect the validity or priority of a security interest in an LLC's property that is created to secure the indebtedness to the member.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.04.080</num>
+      <heading>Liability for Wrongful Distribution</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided in paragraph b, below, other than the TMBCI, or manager who votes or assents to a distribution in violation of <cite path="29.04.070">"Limitations of Distributions" Section</cite> of <cite path="29">this Title</cite> or of articles of operation is personally liable to the LLC for the amount of the excess distribution, subject to contribution from all other managers or members participating in such action.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A proceeding under <cite path="§29.04.080">this Section</cite> is barred unless it is brought within two (2) years after the date on which the effect of the distribution was measured under <cite path="29.04.010">"Interim Distributions" Section</cite> of <cite path="29">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.05</num>
+    <heading>Ownership and Transfer of Property</heading>
+    <section>
+      <num>29.05.010</num>
+      <heading>Ownership of LLC Property</heading>
+      <para>
+        <num>(a)</num>
+        <text>All property originally transferred to or acquired by an LLC is property of the LLC and not the members individually.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Property acquired with LLC funds is presumed to be LLC property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Property may be acquired, held, and conveyed in the name of the LLC.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.020</num>
+      <heading>Transfer of Property</heading>
+      <text>The property of an LLC may be transferred by an instrument of transfer executed by any member in the name of the LLC, unless management is vested in managers, in which case the document of transfer shall be executed by a manager, subject to any limitation that may be imposed by the articles of operation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.030</num>
+      <heading>Nature of Interest</heading>
+      <text>An LLC interest is personal property.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.040</num>
+      <heading>Assignment of LLC Interest</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise provided in articles of operation:</text>
+        <para>
+          <num>(1)</num>
+          <text>An LLC interest is assignable in whole or in part.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An assignment of an LLC interest entitles the assignee to receive only the distributions and to share in the allocations of profits and losses to which the assignee would be entitled with respect to the assigned interest.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An assignment or an LLC interest does not dissolve the LLC.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Unless and until the assignee becomes a member of the LLC under the <cite path="29.04.080">"Liability for Wrongful Distribution" Section</cite> of <cite path="29">this Title</cite>, the assignment of an LLC interest does not entitle the assignee to participate in the management or exercise rights of a member.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Unless and until the assignee of an LLC interest becomes and member of the LLC under the <cite path="29.05.060">"Right of Assignee to Become a Member" Section</cite>, the assignor continues to be a member.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The assignor of an LLC interest is not released from any personal liability arising under this Act as a member of the LLC solely as a result of the assignment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation, the granting of a security interest, lien, or other encumbrance in or against any or all of a member's LLC interest is not assignable and shall not cause the member to cease to have the power to exercise any rights or powers of a member.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.050</num>
+      <heading>Rights of Judgment Creditor</heading>
+      <text>On application to a court of competent jurisdiction, including a court other than the TMBCI's Trial Court having valid jurisdiction over the member by any judgment creditor of a member, the court may charge the LLC interest of any member other than the TMBCI with payment of the unsatisfied amount of the judgment. To the extent so charged, the judgment creditor has only the rights of an assignee of the member's LLC interest. <cite path="§29.05.050">This Section</cite> does not deprive any member of the benefit of any exemption laws applicable to the LLC interest. In no event shall the TMBCI's interest be attachable in abrogation of its sovereign immunity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.060</num>
+      <heading>Right of Assignee to Become a Member</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise provided in articles of operation, an assignee of an LLC interest may become a member only if the other members unanimously consent.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An assignee of an LLC interest who becomes a member has, to the extent assigned, the rights and powers and is subject to the restrictions and liabilities of the assignor under Articles of Operation and <cite path="29">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless otherwise provided in articles of operation, an assignor of an LLC interest is not released from any liability to the LLC without the written consent of all the members, whether or not the assignee becomes a member.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.05.070</num>
+      <heading>Powers of Legal Representative</heading>
+      <text>If a member who is an individual dies or a court of competent jurisdiction adjudges the member to be incompetent to manage his or her person or property, the member's personal representative, administrator, guardian, conservator, trustee, or other legal representative shall have all the rights of an assignee of the member's interest. If a member is a corporation, trust, partnership, limited liability company, or other entity and is dissolved or terminated, the powers of that member may be exercised by its legal representative or successor.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.06</num>
+    <heading>Dissolution</heading>
+    <section>
+      <num>29.06.010</num>
+      <heading>Dissolution</heading>
+      <text>A limited liability company is dissolved and its affairs shall be wound up upon the happening of the first of the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>The occurrence of events specified in Articles of Operation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The written consent of all members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An event of dissociation of a member, unless otherwise provided in Articles of Operation or continuation is consented to by all remaining members.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Entry of a decree of judicial dissolution under the <cite path="29.06.020">"Judicial Dissolution" Section</cite> of <cite path="29">this Title</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.020</num>
+      <heading>Judicial Dissolution</heading>
+      <text>In a proceeding by or for a member, the Court may order dissolution of an LLC if any of the following is established.</text>
+      <para>
+        <num>(a)</num>
+        <text>That it is not reasonably practicable to carry on the business of the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>That the LLC is not acting in conformity with articles of operation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>That one or more managers are acting or will act in a manner that is illegal, oppressive, or fraudulent.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>That one or more members in control of the LLC are acting or will act in a manner that is illegal, oppressive, or fraudulent.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>That LLC assets are being misapplied or wasted.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.030</num>
+      <heading>Winding Up</heading>
+      <text>A dissolved LLC continues its legal existence but may not carry on any business except that which is appropriate to wind up and liquidate its business.</text>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise provided in articles of operation:</text>
+        <para>
+          <num>(1)</num>
+          <text>The business of the LLC may be wound up by any of the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>The members or managers who have authority to manage the LLC before dissolution.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In a judicial dissolution, the person(s) designated by the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The persons winding up the business of the LLC may do all of the following in the name of and on behalf of the LLC:</text>
+          <para>
+            <num>(A)</num>
+            <text>Collect its assets.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Prosecute and defend suits.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Take any action necessary to settle and close the business of the LLC.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Dispose of and transfer the property of the LLC.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Discharge or make provision for discharging the liabilities of the LLC.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Distribute to the members any remaining assets of the LLC.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Dissolution of an LLC does not do any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Transfer title to the LLC's property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prevent transfer of all or part of a member's interest.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prevent commencement of a civil, criminal, administrative, or investigatory proceeding by or against the LLC.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Abate or suspend a civil, criminal, administrative, or investigatory proceeding pending by or against the LLC at the time of dissolution.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Terminate the authority of the registered agent of the LLC.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Alter the limited liability of a member.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.040</num>
+      <heading>Distribution of Assets</heading>
+      <text>Upon the winding up an LLC, the assets shall be distributed in the following order:</text>
+      <para>
+        <num>(a)</num>
+        <text>To creditors, including to the extent permitted by law, members, and former members in satisfaction of liabilities of the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation, to members and former members in satisfaction of liabilities for distributions under Chapter V of <cite path="29">this Title</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Unless otherwise provided in articles of operation, to members and former members first for the return of their contributions in proportion to their respective values and, thereafter, in proportion to their respective rights to share in distributions from the LLC before dissolution.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.050</num>
+      <heading>Articles of Dissolution</heading>
+      <text>After the dissolution of an LLC under the <cite path="29.06.010">"Dissolution" Section</cite> of <cite path="29">this Title</cite>, the LLC may file Articles of Dissolution with the Tribe's Secretary/Treasurer that includes the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>The name of the LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The date of filing of its articles of organization.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The statutory grounds under the <cite path="29.06.010">"Dissolution" Section</cite> of <cite path="29">this Title</cite> for dissolution.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The delayed effective date of the articles of dissolution under paragraph 10b, if applicable.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.060</num>
+      <heading>Known Claims Against Dissolved LLC</heading>
+      <para>
+        <num>(a)</num>
+        <text>A dissolved LLC may notify its known claimants in writing of the dissolution and specify a procedure for making claims.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A claim against the LLC is barred if:</text>
+        <para>
+          <num>(1)</num>
+          <text>A claimant who was given written notice under paragraph a, above, does not deliver the claim, in writing, to the LLC by the deadline specified in the notice.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A claimant whose claim is rejected by the LLC does not commence a proceeding to enforce the claim within ninety (90) days after receipt of the rejection notice.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.06.070</num>
+      <heading>Unknown or Contingent Claims</heading>
+      <text>A claim not barred under the <cite path="29.06.060">"Known Claims against Dissolved LLC" Section</cite> of <cite path="29">this Title</cite> may be enforced:</text>
+      <para>
+        <num>(a)</num>
+        <text>Against the dissolved LLC, to the extent of its undistributed assets.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the dissolved LLC's assets have been distributed in liquidation, against a member of the LLC, other than the TMBCI, to the extent of the member's proportionate share of the claim or of the assets of the LLC distributed to the member in liquidation, whichever is less, but a member's total liability for all claims under <cite path="§29.06.070">this Section</cite> may not exceed the total value of assets at the time distributed to the member.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29.07</num>
+    <heading>Merger</heading>
+    <section>
+      <num>29.07.010</num>
+      <heading>Merger</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless the context required otherwise, in <cite path="29.07">this Chapter</cite>, LLC includes a domestic LLC and a foreign LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation one or more LLC's may merge with or into one or more LLC's or one or more other foreign LLC's provided in the plan of merger.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Interests in an LLC that is a party to a merger may be exchanged for or converted into cash, property, obligations, or interest in the surviving LLC.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.07.020</num>
+      <heading>Approval of Merger</heading>
+      <para>
+        <num>(a)</num>
+        <text>Unless otherwise provided in articles of operation an LLC that is a party to a proposed merger shall approve the plan of merger by an affirmative vote of a majority in interest of members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Unless otherwise provided in articles of operation the manager or managers of an LLC may not approve a merger without also obtaining the approval of the LLC's members under paragraph a, above.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each foreign LLC that is a party to a proposed merger shall approve the merger in the manner and by the vote required by the laws applicable to the foreign LLC.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each LLC that is a party to the merger shall have any rights to abandon the merger that is provided for in the plan of merger or in the laws applicable to the LLC.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Upon approval of a merger, the LLC shall notify each member of the approval and of the effective date of the merger.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.07.030</num>
+      <heading>Plan of Merger</heading>
+      <text>Each LLC that is a party to a proposed merger shall enter into a written plan of merger to be approved by the members or managers of the LLC by affirmative vote.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.07.040</num>
+      <heading>Articles of Merger</heading>
+      <para>
+        <num>(a)</num>
+        <text>The surviving LLC shall deliver to the Tribe's Secretary/Treasurer articles of merger, executed by each party to the plan of merger, that include all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name and state or jurisdiction of organization for each LLC that is to merge.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The plan of merger.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name of the surviving or resulting LLC.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A statement as to whether the management of the surviving LLC will be reserved to its members or vested in one or more managers.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The delayed effective date of the merger under <cite path="29.06.060">"Document" Section</cite> of <cite path="29">this Title</cite>, paragraph "(b)(3)," if applicable.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A statement whether the TMBCI is the sole member.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If the TMBCI is sole member, a statement as to whether the LLC enjoys the TMBCI's sovereign immunity.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A statement that the plan of merger was approved pursuant to <cite path="29">this Title</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A merger takes effect upon the effective date of the articles of merger.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.07.050</num>
+      <heading>Effects of Merger</heading>
+      <text>A merger has the following effects:</text>
+      <para>
+        <num>(a)</num>
+        <text>The LLC's that are parties to the plan of merger become a single entity, which shall be the entity designated in the plan of merger as the surviving LLC.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each party to the plan of merger, except the surviving LLC, ceases to exist.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The surviving LLC possesses all of the rights, privileges, immunities, and powers of each merged LLC and is subject to all of the restrictions, disabilities, and duties of each merged LLC.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All property and all debts, including contributions, and each interest belonging to or owed to each of the parties to the merger are vested in the surviving LLC without further act.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Title to all real estate and any interest in real estate, vested in any party to the merger, does not revert and is not in any way impaired because of the merger.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The surviving LLC has all the liabilities and obligations of each of the parties to the plan of merger and any claim existing or action or proceedings pending by or against any merged LLC may be prosecuted as if the merger had not taken place, or the surviving LLC may be substituted in the action.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The rights of creditors and any liens on the property of any party to the plan of merger survive the merger.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The interests in an LLC that are to be converted or exchanged into interest, cash, obligations, or other property under the terms of the plan of merger are converted and the former interest holders are entitled only to the rights provided in the plan of merger of the rights otherwise provided by law.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Articles of Organization of the surviving LLC are amended to the extent provided in the Articles of Merger.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>29.07.070</num>
+      <heading>Right to Object</heading>
+      <text>Unless otherwise provided in articles of operation, upon receipt of the notice required by <cite path="29.07.020">"Approval of a Merger" Section</cite> of <cite path="29">this Title</cite>, paragraph e, a member who did not vote in favor of the merger may, within twenty (20) days after the date of the notice, voluntarily disassociate from the LLC under the <cite path="29.03.070">"Dissociation" Section</cite> of <cite path="29">this Title</cite>, paragraph c and receive fair value for the member's LLC interest under the <cite path="29.04.040">"Distribution Upon Dissociation" Section</cite> of <cite path="29">this Title</cite>.</text>
+      <text>
+        <strong>APPENDICES:</strong>
+      </text>
+      <text>A – Articles of Organization for an LLC Where the TMBCI Tribe is the Sole Member</text>
+      <text>B – Articles of Operation for an LLC Where the TMBCI Tribe is the Sole Member</text>
+      <text>Appendix A (Articles of Organization)</text>
+      <text class="center">
+        <strong>ARTICLES OF ORGANIZATION</strong>
+      </text>
+      <text class="center">
+        <strong>Limited Liability Company</strong>
+      </text>
+      <text><strong>Article 1. </strong>Name of Limited Liability Company:</text>
+      <text><strong>Article 2. </strong>Street Address of the Initial Registered Office:</text>
+      <text><strong>Article 3. </strong>Name of the Initial Registered Agent at the above Registered Office:</text>
+      <text><strong>Article 4. </strong>Management of the Limited Liability Company shall be vested in:</text>
+      <text><strong>( )</strong> a manager or managers</text>
+      <text>OR</text>
+      <text><strong>( )</strong> its member(s).</text>
+      <text><strong>Article 5. </strong>( Name of LLC ) is wholly owned by the TMBCI.</text>
+      <text><strong>Article 6. </strong>( Name of LLC ) shall not possess the TMBCI's sovereign immunity from suit, and may sue and be sued.</text>
+      <text><strong>Article 7. </strong>Formation of this Limited Liability Company has been authorized by TMBCI Resolution _______.</text>
+      <text><strong>Article 8. </strong>Executed on ___(date)________.</text>
+      <text>Name and complete address of organizer(s):</text>
+      <text>_____________________</text>
+      <text>_____________________</text>
+      <text>_____________________</text>
+      <text>_____________________</text>
+      <text>(Signature(s) of Organizer(s))</text>
+      <text>This document was drafted by ___________.</text>
+      <text>Contact information of the drafter.</text>
+      <text class="center">Appendix B (Articles of Operation)</text>
+      <text class="center">
+        <strong>ARTICLES OF OPERATION</strong>
+      </text>
+      <text class="center">
+        <strong>for</strong>
+      </text>
+      <text class="center">
+        <strong>(Name of LLC)</strong>
+      </text>
+      <text>A TMBCI Limited Liability Company</text>
+      <text>These Articles of Operation are adopted by the Tribal Council of the TMBCI Tribe</text>
+      <text>("TMBCI") as of _____ (date)_______.</text>
+      <text>
+        <strong>RECITALS</strong>
+      </text>
+      <text>The Tribal Council acknowledges the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Council, on behalf of the TMBCI, desires to form a TMBCI limited liability company for the purpose of carrying on a for-profit _(type)__ business.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Council acting for the TMBCI desires to set forth in writing the terms by which the Company will be organized and operated.</text>
+        <text class="center">
+          <strong>ARTICLE I</strong>
+        </text>
+        <text>
+          <strong>DEFINITIONS, NAME AND TERM</strong>
+        </text>
+      </para>
+      <para>
+        <num>1.1.</num>
+        <text>Definitions. In addition to the terms defined elsewhere in these Articles the following definitions shall apply:</text>
+      </para>
+      <para>
+        <num>a.</num>
+        <text>"Act" means the TMBCI <em>Limited Liability Company Act </em>(<cite path="29.01">29.01</cite> <em>et seq</em>.), as amended from time to time, and any successor to such statute.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>"Articles" mean these Articles of Organization of the _______ LLC dated as of ________, as amended from time to time.</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>"Articles of Organization" mean the Articles of Organization of the Company filed with the Tribe's Secretary/Treasurer, as amended from time to time.</text>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>"Board" means the Board of Managers of the Company acting pursuant to the authority conferred upon them by these Articles.</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>"Cash Flow" means all cash receipts of the Company during any year, other than capital contributions of the TMBCI, less the sum payments of principal and interest on indebtedness of the Company (including working capital loans), all cash expenditures made in connection with the Company's business including, without limitation, capital expenditures, and all payments to Reserves to the extent such payments and expenditures are made from such cash receipts. Cash Flow shall be determined separately for each fiscal year.</text>
+      </para>
+      <para>
+        <num>f.</num>
+        <text>"Chairman" means the duly elected Chairman of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>g.</num>
+        <text>"Company" means the ____________ LLC, a TMBCI limited liability company.</text>
+      </para>
+      <para>
+        <num>h.</num>
+        <text>"Fiscal Year" means the Company's fiscal year, which shall be July 1 to June 30.</text>
+      </para>
+      <para>
+        <num>i.</num>
+        <text>"Tribal Council" means the Tribal Council of the TMBCI Tribe.</text>
+      </para>
+      <para>
+        <num>j.</num>
+        <text>"Manager(s)" means one or more of the persons appointed to manage the Company under Article III.</text>
+      </para>
+      <para>
+        <num>l.</num>
+        <text>"Member" means the TMBCI as the sole Member of the Company.</text>
+      </para>
+      <para>
+        <num>m.</num>
+        <text>"TMBCI" means the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>o.</num>
+        <text>"Profits and Losses" mean the income or loss of the Company determined in accordance with Generally Accepted Accounting Principles.</text>
+      </para>
+      <para>
+        <num>p.</num>
+        <text>"Reserves" mean, with respect to any fiscal year, any funds set aside or amount allocated during such year to reserves for Company expenses, both ordinary and capital, liabilities and operations, subject to the approval of the Tribal Council if the amount set aside in such reserves exceeds $100,000 during any fiscal year of the Company.</text>
+      </para>
+      <para>
+        <num>1.2.</num>
+        <heading>Formation</heading>
+        <text><strong>Effective</strong> ___________, pursuant to TMBC Resolution ____,</text>
+        <text>___(name)___ organized the Company by executing and filing the Articles of</text>
+        <text>Organization with the Tribe's Secretary/Treasurer pursuant to the TMBCI's <em>Limited Liability</em></text>
+        <text><em>Company Act</em>.</text>
+      </para>
+      <para>
+        <num>1.3.</num>
+        <heading>Name and Principal Place of Business</heading>
+        <text>The name of the Company is the ______</text>
+        <text>LLC. The principal place of business of the Company is ________________ or such other place as the Board designates from time to time.</text>
+      </para>
+      <para>
+        <num>1.4.</num>
+        <heading>Registered Office and Registered Agent</heading>
+        <text>The Company's registered office is</text>
+        <text>_____________ and its registered agent at such address is the TMBCI's Chief Executive Officer or the Director. The Company may change its registered office and/or registered agent from time to time as provided under the Title.</text>
+      </para>
+      <para>
+        <num>1.5.</num>
+        <text>Term. The term of the Company shall be perpetual, or until the Company is dissolved or merged in accordance with the provisions of these Articles and/or the Title.</text>
+        <text class="center">
+          <strong>ARTICLE II</strong>
+        </text>
+        <text class="center">
+          <strong>BUSINESS OF THE COMPANY</strong>
+        </text>
+      </para>
+      <para>
+        <num>2.1.</num>
+        <text>The business of the Company shall be:</text>
+        <para>
+          <num>a.</num>
+          <text>To (i) provide all manner and form of __________ services, (ii) undertake and carry out ________________, and similar management and supervision, and (iii) dealing in _____________;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>To accomplish any lawful purpose which shall at any time appear conducive or expedient for the protection or benefit of the Company and its assets;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>To exercise all the powers necessary to or reasonably connected with the Company's business, which may be legally exercised by limited liability companies under the Title; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>To engage in all activities necessary, customary, convenient, or incident to any of the foregoing.</text>
+          <text class="center">
+            <strong>ARTICLE III</strong>
+          </text>
+          <text class="center">
+            <strong>MANAGERS</strong>
+          </text>
+        </para>
+      </para>
+      <para>
+        <num>3.1.</num>
+        <heading>Authority of Managers</heading>
+        <text>Except as otherwise provided in these Articles and subject to the consent or approval of the Tribal Council with respect to those matters requiring such consent or approval under the terms of these Articles, the management of the Company shall be vested in the Board of Managers appointed in accordance with Section 3.5. The Managers shall exercise their management authority over the Company as provided in these Articles.</text>
+      </para>
+      <para>
+        <num>3.2.</num>
+        <heading>Roles of Individual Managers</heading>
+        <para>
+          <num>a.</num>
+          <text>In addition to their collective management responsibility, which shall be exercised as described in Section 3.3 of these Articles, each Manager shall possess the particular authority and discharge the specific responsibilities as the Board may delegate to the individual Manager.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The authority and responsibility delegated among the Managers may include: (i) developing strategic plans; (ii) developing business plans and projections; (iii) formulating marketing programs; (iv) scheduling and supervision of the Company's work crews; (v) purchasing materials and supplies required to perform the Company's contracts; (vi) bidding individual work projects for the Company; (vii) keeping all financial and business records of the Company; (viii) making any and all filings and registrations required by jurisdictions outside of the TMBCI in which the Company operates; (ix) preparing reports and other communications with the TMBCI; and (x) taking such other administrative action as shall be required to operate the Company.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The Board shall choose a Chairperson and Chief Executive from among the Managers. The Chairperson shall have voting authority over all matters coming before the Board.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The Managers may delegate their responsibilities to officers or other personnel of the Company, but shall continue to be responsible for the discharge of the delegated authority. The Managers may serve as officers in addition to their positions as Managers.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.3.</num>
+        <heading>Manager Meetings</heading>
+        <text>The Managers shall meet at least monthly, and at the request of any of them, to (i) discuss their individual activities and responsibilities; (ii) by majority vote, to authorize major business actions, subject to Legislative consent or approval where specifically required by these Articles; (iii) adopt projections and business plans; and (iv) review and monitor achievement of goals and objectives described in the Company's business plans and projections.</text>
+      </para>
+      <para>
+        <num>3.4.</num>
+        <heading>Business Plans and Projections</heading>
+        <para>
+          <num>a.</num>
+          <text>At least sixty (60) days before the commencement of each fiscal year of the Company, the Managers shall submit to the Chairman and the Tribal Council's Development</text>
+          <text>Committee, (i) a three (3) year strategic business plan; (ii) an operating business plan for the coming fiscal year; and (iii) financial projections for the coming fiscal year. After considering any comments on the proposed business plans and projections from the</text>
+          <text>Chairman and the Development Committee, the business plans and projections will be finalized and shall be a guide and measure of Company performance for the following fiscal year. The Managers shall provide a quarterly report to the Chairman and Development Committee within thirty (30) days of the close of each fiscal quarter of the</text>
+          <text>Company comparing actual and projected results of operations, analyzing the performance of the business plan, and stating reasons for any material variance between actual and projected performance.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>At least each fiscal quarter, the Board shall meet with the Chief Executive Officer or Director, if he or she is not on the Board, and such other Executive Directors of the TMBCI as the Chairman shall designate to discuss the Company's operations and other matters of mutual interest and concern.</text>
+          <text><strong>Appointment and Replacement of Managers</strong>.  The Managers of the Company shall be appointed by the Tribal Council, following consultation on such appointments with the Chairman of the TMBCI. The Chief Executive Officer or Director shall receive consideration for appointment as a Manager to coordinate the functions and operations of the Company with the Tribe, but shall not be required to be appointed a Manager. Any Manager may be removed at any time by the Tribal Council, with or without cause, provided that a successor to such manager is appointed in accordance with <cite path="§29.07.070">this Section</cite>. Managers shall not serve for s specified term, and shall remain in office until they resign or are replaced. The initial number of Managers of the Company shall be three (3). Only such persons who have the experience and background to effectively manage the business and the affairs of the Company shall be appointed to the Board. The initial Managers of the Company are:</text>
+          <text>_______________</text>
+          <text>_______________</text>
+          <text>_______________</text>
+          <text class="center">
+            <strong>ARTICLE IV</strong>
+          </text>
+          <text class="center">
+            <strong>CAPITAL</strong>
+          </text>
+        </para>
+      </para>
+      <para>
+        <num>4.1.</num>
+        <heading>Initial Contributions to Capital by Members</heading>
+        <text>On the date hereof, the TMBCI has contributed $_____ in cash and property to the Company. The property transferred is listed on an inventory, which has been approved by the Tribal Council and accepted by the Board of Managers acting on behalf of the Company.</text>
+      </para>
+      <para>
+        <num>4.2.</num>
+        <heading>No Further Liability</heading>
+        <text>The TMBCI shall not be required to make any additional capital contributions, and the TMBCI shall have no liability to creditors of the Company.</text>
+      </para>
+      <para>
+        <num>4.3.</num>
+        <heading>Working Capital Contributions and Loans</heading>
+        <text>It is intended that the Company will operate separately from the TMBCI and will not require continuing financial support from the TMBCI. However, it may be necessary to obtain funding for working capital and/or capital acquisitions by the Company. If independent financing facilities are not available to the Company, the TMBCI may provide such funding through loans or capital contributions on such terms and conditions as shall be agreed between the Managers on behalf of the Company and Tribal Council on behalf of the TMBCI.</text>
+        <text class="center">
+          <strong>ARTICLE V</strong>
+        </text>
+        <text class="center">
+          <strong>PROFITS AND LOSSES, DISTRIBUTIONS, CAPITAL ACCOUNTS</strong>
+        </text>
+      </para>
+      <para>
+        <num>5.1.</num>
+        <heading>Profits and Losses</heading>
+        <text>All Profits and Losses shall be allocated to the TMBCI as the sole Member.</text>
+      </para>
+      <para>
+        <num>5.2.</num>
+        <heading>Distributions Prior to Dissolution</heading>
+        <text>All Cash Flow shall be distributed to the TMBCI, at least quarterly unless otherwise approved by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>5.3.</num>
+        <heading>Distribution upon Dissolution and Winding Up</heading>
+        <text>Upon dissolution and winding up of the Company, the assets of the Company after payment of the debts and obligations of the Company and the funding of any Reserves shall be distributed to the TMBCI.</text>
+        <text class="center">
+          <strong>ARTICLE VI</strong>
+        </text>
+        <text class="center">
+          <strong>COMPENSATION TO MANAGERS, EMPLOYMENT POLICIES AND</strong>
+        </text>
+        <text class="center">
+          <strong>BENEFITS</strong>
+        </text>
+      </para>
+      <para>
+        <num>6.1.</num>
+        <heading>Generally</heading>
+        <text>Managers shall be entitled to reasonable and competitive compensation for services rendered to the Company, but only to the extent approved in advance by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>6.2.</num>
+        <heading>Reimbursement of Expenses</heading>
+        <text>The Company shall reimburse the Managers and other employees for all out-of-pocket expenses they incur or have incurred on behalf of the Company or in connection with the business of the Company pursuant to policies approved in advance by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>6.3.</num>
+        <heading>Employment Policies and Benefits</heading>
+        <text>The Company shall operate in accordance with such personnel policies and procedures and employee compensation and benefit plans as may be formulated by the managers and approved by the Tribal Council, as the same may be amended from time to time.</text>
+        <text class="center">
+          <strong>ARTICLE VII</strong>
+        </text>
+        <text class="center">
+          <strong>MANAGEMENT</strong>
+        </text>
+      </para>
+      <para>
+        <num>7.1.</num>
+        <heading>Management</heading>
+        <para>
+          <num>a.</num>
+          <text>The business and affairs of the Company shall be managed by its Managers acting as set forth in this Article and in Article III subject to approval and consent of the Tribal Council on those matters specified herein. Decisions relating to the business and affairs of the Company, other than those that are clearly routine or incidental to the day-to-day conduct of the Company's business, shall be made by majority vote of the Managers. The Managers are hereby authorized to take any action and make any decision with their areas of authority delegated to them by the Board pursuant to Section 3.2 that is clearly routine or incidental to the day-to-day conduct of the Company's business. The following types of actions and decisions are not incidental to the day-today conduct of the Company's business and require the consent or approval of the Tribal Council: (i) selling, disposing of, or leasing the non-inventory assets of the Company having an aggregate value in excess of $50,000; (ii) acquiring any real or personal property with a value in excess of $50,000 other than building materials and supplies obtained in the ordinary course of the Company's business; (iii) incurring debt in excess of $100,000; (iv) making any distributions other than ordinary quarterly distributions to the TMBCI; (v) mortgaging, pledging, or otherwise encumbering any assets of the Company; (vi) amending the Articles of Organization; (vii) taking or authorizing any act on behalf of the Company that contravenes these Articles; (viii) taking or authorizing any such act which would make it impossible to carry on the ordinary business of the Company; or (ix) taking or authorizing any other action or making any other decision requiring the consent or approval of the Tribal Council as set forth in these Articles.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The Managers shall manage and control the business of the Company in accordance with generally accepted business standards and the provisions of Article III of these Articles, and shall devote such time to the Company's business as shall be reasonably necessary.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The Managers shall not be liable, responsible, or accountable in damages or otherwise to the Company for any acts performed or omitted by them in good faith except for acts or omissions which constitute gross negligence or willful misconduct. The Managers shall be indemnified and held harmless by the Company, to the extent of the  assets, against obligations and liabilities arising or resulting from or incidental to the management of the Company's affairs, provided that no Manager shall be entitled to indemnification hereunder for acts or omissions constituting gross negligence or willful misconduct. Any such indemnification shall only be from the assets of the Company.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.2.</num>
+        <heading>Restrictions on Powers of Managers</heading>
+        <text>No Manager, attorney-in-fact, employee, or agent of the Company shall have any power or authority to bind the Company in any way, to pledge its credit, to make distributions, or to render it pecuniary liable for any purpose unless authorized to act with respect to such matter in accordance with this Article and Article III.</text>
+      </para>
+      <para>
+        <num>7.3.</num>
+        <heading>Meetings</heading>
+        <text>No annual meeting of the Member is required by these Articles. Special meetings of the sole Member, for any purpose or purposes, unless otherwise prescribed by the Act, may be called at any time by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>7.4.</num>
+        <heading>Informal Action</heading>
+        <text>The Managers may take any and all actions which they are required or permitted to take concerning the conduct of the business of the Company without a meeting if the action is evidenced by one or more written consents describing the action take and signed by all of the managers.</text>
+      </para>
+      <para>
+        <num>7.5.</num>
+        <heading>Administrative and Professional Services</heading>
+        <text>As an entity separate from the TMBCI, the Company shall either contract with independent professionals for accounting, legal, and other services which the Company may require; or may contract with the TMBCI to obtain such services from the TMBCI's Departments, including but not limited to Accounting, Management Information Systems, and other departments on such terms as shall be agreed between the Managers on behalf of the Company and Tribal Council on behalf of the TMBCI.</text>
+        <text class="center">
+          <strong>ARTICLE VIII</strong>
+        </text>
+        <text class="center">
+          <strong>ACCOUNTING AND BANK ACCOUNTS</strong>
+        </text>
+      </para>
+      <para>
+        <num>8.1.</num>
+        <heading>Books</heading>
+        <text>The Company shall maintain books and records which shall be kept at the principal office of the Company or such other place designated by the Tribal Council. The TMBCI as sole Member shall have access to and the right to inspect and copy such books and records at any time.</text>
+      </para>
+      <para>
+        <num>8.2.</num>
+        <heading>Accounting and Reports</heading>
+        <text>Within sixty (60) days after the end of each fiscal year, the Managers shall deliver to the TMBCI, (i) an audited balance sheet as of the end of such fiscal year and (ii) an audited statement of income for such fiscal year, both of which shall be prepared in accordance with Generally Accepted Accounting Principles.</text>
+      </para>
+      <para>
+        <num>8.3.</num>
+        <heading>Bank Accounts</heading>
+        <text>The Company shall open and maintain bank accounts in which only funds of the Company shall be deposited. The funds in such accounts shall be disbursed solely for the business of the Company. Withdrawals from any Company bank account shall be made only upon the signature of such person or persons as the Managers may designate from time to time.</text>
+      </para>
+      <para>
+        <num>8.4.</num>
+        <heading>Method of Accounting</heading>
+        <text>The books and records of the Company shall be maintained on the accrual method of accounting in accordance with Generally Accepted Accounting Principles.</text>
+        <text class="center">
+          <strong>ARTICLE IX</strong>
+        </text>
+        <text class="center">
+          <strong>DISSOLUTION AND WINDING UP</strong>
+        </text>
+      </para>
+      <para>
+        <num>9.1.</num>
+        <heading>Dissolution</heading>
+        <text>The Company shall dissolve on the happening of any of the following events:</text>
+        <para>
+          <num>a.</num>
+          <text>Written direction of the Tribal Council to dissolve the Company; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>By decree of judicial dissolution of the TMBCI Tribal Court pursuant to <cite path="29">Title 29</cite>.1100 et seq.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.2.</num>
+        <heading>Procedure for Dissolution and Winding Up</heading>
+        <text>Upon the dissolution of the Company, a balance sheet shall be prepared by the Company's accountant and furnished to the TMBCI within a reasonable time after dissolution. The Managers shall proceed with reasonable promptness to wind up the business of the Company. If the Managers are directed by the Tribal Council to sell Company assets, they shall not be required to do so promptly but shall have discretion to determine the time and manner in which the sale shall be made, giving due regard to general financial and economic conditions.</text>
+      </para>
+      <para>
+        <num>9.3.</num>
+        <heading>Articles of Dissolution</heading>
+        <text>Upon completion of winding up, liquidation, and distribution of assets, the Managers shall file Articles of Dissolution and thereafter the Company shall cease to exist.</text>
+        <text class="center">
+          <strong>ARTICLE X</strong>
+        </text>
+        <text class="center">
+          <strong>MISCELLANEOUS</strong>
+        </text>
+      </para>
+      <para>
+        <num>10.1.</num>
+        <heading>Notices</heading>
+        <text>All notices shall be in writing and deemed given when deposited in the United States Mail, first class postage paid, addressed to the party at his/her then recorded address reflected in the records of the Company.</text>
+      </para>
+      <para>
+        <num>10.2.</num>
+        <heading>Entire Operating Document</heading>
+        <text>These Articles contain the entire statement of the terms and conditions upon which the Company shall be organized and operated and supersedes any prior acts or statements with respect thereto.</text>
+      </para>
+      <para>
+        <num>10.3.</num>
+        <heading>Variations and Pronouns</heading>
+        <text>Each pronoun shall include any gender or number thereof as the identity of its antecedent may require.</text>
+      </para>
+      <para>
+        <num>10.4.</num>
+        <heading>Successors in Interest</heading>
+        <text>Except as otherwise provided, all provisions of these Articles shall be binding upon, inure to the benefit of and be enforceable by and against the respective heirs, executors, administrators, personal representatives, successors, and assigns of any of the parties affected.</text>
+      </para>
+      <para>
+        <num>10.5.</num>
+        <heading>Execution of Additional Documents</heading>
+        <text>The Managers are authorized to execute and deliver such instruments necessary to comply with any laws, rules, or regulations relating to the formation of the Company or the conduct of business by the Company in any jurisdiction outside of the TMBCI.</text>
+      </para>
+      <para>
+        <num>10.6.</num>
+        <text>Jurisdiction. The Tribal Court of the TMBCI shall possess exclusive jurisdiction over all matters and controversies regarding the interpretation and implementation of these Articles which may arise.</text>
+      </para>
+      <para>
+        <num>10.7.</num>
+        <heading>Counterparts</heading>
+        <text>These Articles may be executed in several counterparts by the Chairman/Vice Chairman of the Tribe and each executed counterpart shall be considered an original of these Articles.</text>
+      </para>
+      <para>
+        <num>10.8.</num>
+        <heading>Captions</heading>
+        <text>The captions at the beginning of the several articles, sections, and subsections of these Articles are not part of the context, but are merely labels to assist in the locating and reading of those sections and subsections and shall be ignored in construing these Articles.</text>
+      </para>
+      <para>
+        <num>10.9.</num>
+        <heading>Governing Law</heading>
+        <text>These Articles shall be governed exclusively by its terms and by the laws of the TMBCI and specifically the Title.</text>
+      </para>
+      <para>
+        <num>10.10.</num>
+        <heading>Severability</heading>
+        <text>If any provision of these Articles shall be invalid, illegal, or unenforceable, the remainder of these Articles shall be enforceable to the fullest extent permitted by law. In addition, any provision of these Articles, which is construed to cause the Company to be taxed as a corporation under the federal tax law shall be repealed, limited, or construed in a manner which will allow the Company to qualify as an entity which is not treated as separate from its owner, the TMBCI, for federal tax purposes.</text>
+      </para>
+      <para>
+        <num>10.11.</num>
+        <heading>Creditors</heading>
+        <text>None of the provisions of these Articles shall be for the benefit of or enforceable by any creditors of the Company.</text>
+        <text class="center">
+          <strong>ARTICLE XI</strong>
+        </text>
+        <text class="center">
+          <strong>AMENDMENTS</strong>
+        </text>
+      </para>
+      <para>
+        <num>11.1.</num>
+        <heading>Amendment</heading>
+        <text>These Articles may be amended only by the written action of the Tribal Council.</text>
+        <text>APPROVED: __________________________</text>
+        <text>(Chairman/Vice Chairman)</text>
+        <text>State of North Dakota</text>
+        <text>County of Rolette</text>
+        <text>These Articles were signed and sworn before me in Belcourt on _____.</text>
+        <text>________________________________________</text>
+        <text>(Notary Public)</text>
+        <text>My commission expires on __________________.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>
