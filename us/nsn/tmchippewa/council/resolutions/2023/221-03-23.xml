@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 221-03-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <num>221-03-23</num>
-  <heading>Resolution Number TMBC 221-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <heading>Resolution Number TMBC221-03-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
   <meta>
     <effective>2023-03-23</effective>
     <citations>
@@ -30,7 +30,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe, by Resolution No. TMBC 113-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>, Credit Transaction Code, and no comments were made; now</text>
+      <text>the Tribe, by Resolution No. TMBC113-02-23, approved a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite>, Credit Transaction Code, and no comments were made; now</text>
     </recital>
     <recital>
       <conjunction>THEREFORE BE IT RESOLVED</conjunction>
