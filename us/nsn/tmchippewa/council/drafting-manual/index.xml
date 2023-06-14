@@ -52,7 +52,7 @@
         <num>(5)</num>
         <text>Page numbers shall be at the top of all pages starting on page 2, Times New Roman, 12 point, .50 margin from the top, left &amp; right, as follows:</text>
         <include>
-          <text>Resolution No. TMBC #-MM-YY</text>
+          <text>Resolution No. TMBC#-MM-YY</text>
           <text>Page #</text>
         </include>
       </para>
@@ -108,7 +108,7 @@
         <para>
           <num>(C)</num>
           <heading>Tribal Council Resolution:</heading>
-          <text>"Resolution No. TMBC #-MM-YY" or "this Resolution" (as applicable);</text>
+          <text>"Resolution No. TMBC#-MM-YY" or "this Resolution" (as applicable);</text>
         </para>
       </para>
     </para>
@@ -266,7 +266,7 @@
       <text>Banner and Title.</text>
       <text>The banner and title shall be in the following form:</text>
       <include>
-        <text class="center">RESOLUTION NUMBER TMBC #-MM-YY OF THE DULY ELECTED AND CERTIFIED GOVERNING BODY OF THE TURTLE MOUNTAIN BAND OF CHIPPEWA INDIANS</text>
+        <text class="center">RESOLUTION NUMBER TMBC#-MM-YY OF THE DULY ELECTED AND CERTIFIED GOVERNING BODY OF THE TURTLE MOUNTAIN BAND OF CHIPPEWA INDIANS</text>
       </include>
     </para>
     <para>
