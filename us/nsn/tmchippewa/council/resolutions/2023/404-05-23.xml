@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 404-05-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>404-05-23</num>
+  <heading>Resolution Number TMBC404-05-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2023-06-04</effective>
+    <citations>
+      <citation type="res" url="./adopted/404-05-23.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 404-05-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-25</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-Laws</cite> approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959, and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and Local governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposes amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Title 25</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="|25.02.130">Section 25.0213</cite> (Gaming Code) striking number 8c which states: "Play in tournaments when the casino contributes prize money"; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Title 25</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="|25.02.130">Section 25.0213</cite> striking number 8c which states: "Play in tournaments when the casino contributes prize money" of the Gaming Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that Title 25 of the Tribal Code will be codified accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>eight (8)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>25<sup>th</sup> day of May, 2023</em></strong>  that the foregoing resolution was adopted by an affirmative vote of all <strong><em>seven (7) in favor</em></strong> – Reps. Elmer Davis Jr., Chad Counts, Kenneth Malaterre, Jon Jon Keplin, Ron Trottier Sr. and Lynn Gourneau; one (1) absent- Rep. Blaine "Slugger" Davis; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2023</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2023</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="|25.02.130" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.02.130">
+    <section>
+      <num>25.02.130</num>
+      <heading>Limitations on Licensee</heading>
+      <para>
+        <num>(a)</num>
+        <text>Licensees may not participate in contracts with the facility in which he or she is licensed for employment;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Licensees may not engage in banked gaming in the facility in which he or she is licensed in.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Restricted Employees:  The gaming departments listed below have restrictions on employee gambling as described:</text>
+        <para>
+          <num>(1)</num>
+          <text>Table games:  Manager and Assistant Manager are not allowed to play Table Games.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Poker:  Manager and Assistant Manager of the Poker Department are not allowed to play Poker.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Slot machines:  Slot Department employees, with the exception of Slot Attendants, are not allowed to play slot machines.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Simulcast:  Simulcast employees are not allowed to participate in any type of betting in this area.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Bingo:  Bingo employees, including Snack Shack employees are not allowed to play Bingo.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Pulltabs:  No Pulltab employee and no Main Bank employee is allowed to play Pull Tabs sold within the Casino.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The support departments listed below have restrictions on employee gambling as described:</text>
+        <para>
+          <num>(1)</num>
+          <text>Drop Department:  Drop department employees are not allowed to play slot machines:</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Accounting Department:  The following restrictions apply in the Accounting Department.</text>
+          <para>
+            <num>(A)</num>
+            <text>Slot Auditor and Assistant Slot Auditor are not allowed to play slot machines.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Table Games/Poker Auditor are not allowed to play Table Games or Poker.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Simulcast Auditor is not allowed to play/bet in Simulcast.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Bingo Auditor is not allowed to play Bingo.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Employee Gambling Policy. The following is the policy of the Turtle Mountain Chippewa authorizing employees to play games of chance.</text>
+        <para>
+          <num>(1)</num>
+          <text>Purpose.  The purpose of <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="|25.02.130">this section</cite> is to set forth Employee Gambling Policies that uphold the integrity of the gaming operation.  Employee gambling is defined as playing slot machines, table games (including poker, simulcast, and bingo and any other gaming activity that may be added in the future.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Three Factors:  In general there are three factors when considering prohibition, restriction, and allowance of employee gambling.  All three factors are indicators that gambling by these employees should be prohibited or restricted because of the appearance of impropriety if these employees win jackpots and/or promotional prizes:</text>
+          <para>
+            <num>(A)</num>
+            <text>Management level of the individual concerned.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Possession or access to proprietary and insider knowledge of slot machine percentages or detailed knowledge of any other gaming activity (such as gaming department managers) or employees who design and conduct promotions.</text>
+            <text>Note:  Employees with proprietary and inside knowledge of gaming activities are required and expected to communicate this information on a need-to-know basis only.)</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Regulatory and compliance employees (whether tribal or gaming operation.)</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Prohibited Employees:  The employees listed below are prohibited from Gambling in the Sky Dancer Casino and Grand Treasure Casino if the are employed within the facility :y Dancer Casino:</text>
+        <para>
+          <num>(1)</num>
+          <text>General Manager</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Assistant General Manager</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Comptroller</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Comptroller Assistant (General Ledger Accountant)</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Marketing Director</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Player Development Personnel</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>MIS employees</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Surveillance employees</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Casino Compliance Officer</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>TGRA employees General rules on Employee Gambling.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Employees shall not:</text>
+        <para>
+          <num>(1)</num>
+          <text>Participate in any promotion;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Play progressive slot machines that Sky Dancer contributes to; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Possess a Players Club card.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Employees will be allowed to gamble before or after their scheduled shift; however, no employee will be allowed to gamble while in uniform or to wear a jacket that covers the uniform.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>This policy has flexibility in its design.  In evaluating whether a new position should be prohibited or restricted from gambling, the Three Factors section shall give guidance on this issue.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>

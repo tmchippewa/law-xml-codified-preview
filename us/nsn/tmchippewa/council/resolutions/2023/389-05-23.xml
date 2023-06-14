@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 389-05-23">
+  <num>389-05-23</num>
+  <heading>Resolution Number TMBC389-05-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2023-06-22</effective>
+    <citations>
+      <citation type="res" url="./adopted/389-05-23.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 389-05-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-23</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band of Indians acting under a revised Constitution and bylaws approved by the Secretary of the Interior on June 16, 1959, and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposed revisions to Title 10-Rabies Control to provide clarity to some provisions and add provisions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposes to move Title 10-Rabies Control to Title 35-Fish and Game, and making it a part of Title 35; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>to put the proposed amendments to Title 10 and the moving of Title 10 to Title 35 out for public comment.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>23<sup>rd</sup> day of May, 2023</em></strong>  that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> – Representatives Chad Counts, Elmer Davis Jr., Kenneth Malaterre, Jon Jon Keplin, Ron Trottier Sr. and Lynn Gourneau; two (2) absent- Representatives Blaine "Slugger" Davis and Craig Lunday; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2023</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2023</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+</document>

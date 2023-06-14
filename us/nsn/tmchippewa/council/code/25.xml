@@ -1382,7 +1382,7 @@
         <text>Employee Gambling Policy. The following is the policy of the Turtle Mountain Chippewa authorizing employees to play games of chance.</text>
         <para>
           <num>(1)</num>
-          <text>Purpose.  The purpose of <cite path="§25.02.130">this section</cite> is to set forth Employee Gambling Policies that uphold the integrity of the gaming operation.  Employee gambling is defined as playing slot machines, table games (including poker, simulcast, and bingo and any other gaming activity that may be added in the future.</text>
+          <text>Purpose.  The purpose of <cite path="|25.02.130">this section</cite> is to set forth Employee Gambling Policies that uphold the integrity of the gaming operation.  Employee gambling is defined as playing slot machines, table games (including poker, simulcast, and bingo and any other gaming activity that may be added in the future.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1455,14 +1455,10 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Play progressive slot machines that Sky Dancer contributes to;</text>
+          <text>Play progressive slot machines that Sky Dancer contributes to; and</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Play in tournaments when the casino contributes to the prize money; and</text>
-        </para>
-        <para>
-          <num>(4)</num>
           <text>Possess a Players Club card.</text>
         </para>
       </para>
@@ -1476,6 +1472,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§25.02.130 was formerly codified as 25.0213</annotation>
+        <annotation app="2023-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 404-05-23" eff="2023-06-04" path="" type="History"/>
       </annotations>
     </section>
   </container>
