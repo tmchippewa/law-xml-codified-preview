@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23">
+  <num>443-06-23</num>
+  <heading>Resolution Number TMBC443-06-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2023-08-01</effective>
+    <citations>
+      <citation type="res" url="./adopted/443-06-23.pdf">Turtle Mountain Band of Chippewa Res. No. 443-06-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-06-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band of Indians acting under a revised Constitution and bylaws approved by the Secretary of the Interior on June 16, 1959, and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for the convenience of community members and governmental operations, and to enhance economic opportunity and investment, the Tribe desires to publish its ordinances and other laws of general applicability on the Internet; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has worked with Open Law Library ("OLL") to recodify the Tribe's ordinances and publish them in a new electronic tribal law library at https://law.tmchippewa.com; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL is a 501 (c)(3) non-profit with the mission to help governments make all their official laws freely and openly accessible to the public in human and computer readable formats, and OLL develops and maintains software systems for the performance of this mission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL's software is capable of ensuring that the published code is:</text>
+      <para>
+        <num>(a)</num>
+        <text>Preservable- All published laws will be maintained in a manner that meets or exceeds all requirements for level 2 preservation as specified by the National Digital Stewardship Alliance,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authenticatable- All published laws will be authenticatable as the official laws of the Tribe. Authentication will use Open Law Library certificates, and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Accessible- All published laws will be available to the public through OLL or the Tribe indefinitely.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe, as part of establishing its new online Turtle Mountain Law Library, intends to recodify its ordinances as the Turtle Mountain Band of Chippewa Indians Tribal Code. This codification includes reorganizing and renumbering ordinances and codes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe wishes to make the Turtle Mountain Band of Chippewa Indians Tribal Code the official version of the Tribe's ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Recodification</text>
+    <para>
+      <num>(a)</num>
+      <text>The Council hereby codifies its current ordinances as the Turtle Mountain Band of Chippewa Indians Tribal Code.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>As part of this recodification, the Tribal Council authorizes administrative corrections to replace inaccurate citations and references within the individual ordinances and codes, update renumbering within and between ordinances, correct typos, and make other similar minor changes that do not change the substantive content of the ordinances and codes that are part of the Turtle Mountain Band of Chippewa Indians Tribal Code. All such corrections are included as Attachment 1.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Official Version</text>
+    <include>
+      <text>The electronic version of the Turtle Mountain Band of Chippewa Indians Tribal Code, which is published online using OLL software and which is part of the Turtle Mountain Law Library, shall be the official version of such code. Additionally, this Turtle Mountain Band of Chippewa Indians Tribal Code shall be in the public domain.</text>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Enactment and Effective Date</text>
+    <include>
+      <text>The Tribal Council hereby enacts the Turtle Mountain Band of Chippewa Indians Tribal Code, which shall become effective on August 1, 2023.</text>
+    </include>
+  </section>
+  <procedural-data>
+    <text class="center">Certification</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>six (6)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>15<sup>th</sup> day of June, 2023</em></strong>  that the foregoing resolution was adopted by an affirmative vote of <strong><em>five (5) in favor</em></strong> – Representatives Craig Lunday, Blaine "Slugger" Davis, Jon Jon Keplin, Elmer Davis Jr., and Chad Counts; three (3) absent- Representatives  Kenneth Malaterre, Ron Trottier Sr., and Lynn Gourneau; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2023</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2023</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+</document>
