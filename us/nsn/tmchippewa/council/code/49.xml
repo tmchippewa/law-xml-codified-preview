@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>49</num>
+  <heading>Land and Property</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>49.01</num>
+    <heading>Land, Property Ownership and Land Records and Title Recording Office</heading>
+    <section>
+      <num>49.01.010</num>
+      <heading>Establishment</heading>
+      <text>There is hereby established within the Department of Real Property an Office of
+        Land and Property Ownership Records.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.010 was formerly codified as 49.0101</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.020</num>
+      <heading>Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>The purpose of this law shall be to preserve, advance and protect the sovereign authority of the tribe to protect its territory, to protect property ownership interests held by individual tribal members and all persons, to provide certainty to holders of secured interests to land and real property, and to facilitate transfer and conveyances of property ownership interest.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The purpose of establishing the Land Records and Title Recording Office shall be to ensure proper maintenance of all public records regarding land and real property ownership, including governing documents such as the relevant Code provisions, all related governing resolutions, and relevant regulations. The purpose of the Office shall also be to record private writings representing property ownership interests, including patents, deeds, lease agreements, probate records, and writings representing securitized interests in land or property, regarding all property or land ownership interests, including fee or trust ownership, secured interests, leaseholds, leasehold mortgages, or any encumbrances, including easements, rights of way, servitudes, or mineral estates.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The purpose of this law and of the Office shall also be to provide orderly transfers or conveyances of property interests to and from the tribe and individual persons, and between individual persons. </text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.020 was formerly codified as 49.0102</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.030</num>
+      <heading>Authority</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Turtle Mountain Band of Chippewa Indians ('Tribe') acts under a Constitution adopted by the People in 1959.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In <cite doc="Turtle Mountain Constitution and By-laws" path="IX|10">Article IX (a) Section 10 of the Constitution</cite> the People authorize the Council to establish laws regarding the management, lease, permit, or disposition of Tribe-held land, interest in lands, and other real assets under tribal jurisdiction, and to purchase or otherwise acquire territory or land or interests in lands within or outside the existing Territory.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|11">Article IX (a) Section 11 of the Turtle Mountain Constitution and By-laws</cite> empowers the Tribal Council with the authority to engage in any business that will further the economic well-being of the members of the tribe, or to undertake any programs or projects designed for the economic advancement of the people.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|14">Article IX (a) Section 14 of the Turtle Mountain Constitution and By-laws</cite> empowers the Tribal Council with the authority to make and perform contracts and agreements of every description, not inconsistent with law or the provisions of this Constitution and By-laws, provided that any contract shall be subject to the approval of the Secretary, or his authorized representative.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.030 was formerly codified as 49.0103</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.040</num>
+      <heading>Duties and Responsibilities</heading>
+      <text>The duties and the responsibilities of the Land Records and Title Recording Office shall be to:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Office shall maintain all public records regarding land and real property ownership, including governing documents such as the relevant Code provisions, all related governing resolutions, and relevant regulations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Office shall all record private writings representing property ownership interests, including patents, deeds, lease agreements, probate records and writings representing securitized interests in land or property, regarding all property or land ownership interests, including fee or trust ownership, secured interests, leaseholds, leasehold mortgages, or any encumbrances, including easements, rights of way, servitudes, or mineral estates.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Record or cause to be recorded in suitable books to be kept in his or her office, correctly and legibly all deeds, mortgages, instruments, and writings authorized by law to be recorded in his or her office and left with him or her for that purpose, provided the documents have plainly printed or typewritten on the document the names of the grantors, grantees, witnesses, and notary.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Record or file or cause to be recorded or filed all plats and certified survey maps that are authorized to be accepted for recording or filing in his or her office.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Maintain a chronological index of such recordings.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Create a numeric system for the orderly recording of such documents.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>State upon the record of any conveyance of real estate the real estate transfer fee paid.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Maintain electronic records on digital media and other recording systems.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Keep safely and maintain the documents, images of recorded documents and indexes mentioned.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Endorse upon each instrument or writing received by the register for record a certificate of the date and ti.me when it was received, specifying the day, hour and minute of reception, which shall be evidence of such facts. Instruments shall be recorded in the order in which they are received.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Endorse plainly on each instrument a number consecutive to the number assigned to the immediately previous recorded or filed instrument, such that all number are unique for each instrument within a group of public records that are kept together as a unit and relate to a particular subject.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Safely keep and return to the party entitled thereto, on demand within a reasonable time, every instrument that is left with the register for record not required by law to be kept in the Land Records and Title Recording Office.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Make and deliver to any person, on demand and upon payment of the required fees, a certified copy, with the register's official seal affixed, of any record, paper, file, map or plat in the Land Records and Title Recording Office.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Record all documents pertaining to security interests, as defined by the Turtle Mountain Band of Chippewa Indians Code.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Keep those chattel documents in consecutive numerical arrangement, for the inspection of all persons, endorsing on each document the document number and the date and time of reception.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>Upon the recording of a financing statement or other document evidencing the creation of a security interest in a specified parcel of land or real estate.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>Upon the filing of an assignment, continuation statement, termination statement, foreclosure affidavit, extension, or release pertaining to a filed financing statement or other chattel security document, index the document in the real estate records.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>Record and index any marital property agreements affecting land and real estate or titled property.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>Maintain financial records regarding fees collected and forwarded to the Tribal Treasury for the Land Records and Title Recording Office.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>Reject any documents that are non-conforming and request a cure of the recording.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>Redact any social security numbers on any filed forms or documents filed with the office, and shall not have any liability for the recording of a document with an individual's social security number for wrongful disclosure by the document drafter.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>Receive fees for recording, copying, blank forms, and mailing any instruments, papers, titles, chattel, or security interest documentation. Fees required shall be paid at the time of filing or requesting of copies and mailing.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>Prescribe forms for use within the Land Records and Title Recording Office.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>Maintain the history of all real estate, land and title of trust land with the territory and jurisdiction of the Turtle Mountain Band of Chippewa Indians.</text>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.040 was formerly codified as 49.0104</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.050</num>
+      <heading>Real Estate Records Index</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Land Records and Title Recording Office shall maintain an index for the real estate record series that contains at least all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Number of the instrument that is consecutive and unique within the record series.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Time and date of the instrument's acceptance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Name of the grantor.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Name of the grantee.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Description of the land.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Name of the instrument.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The document number, and if given on the instrument, the volume and page where the instrument is recorded or filed.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>To whom the instrument is delivered, unless the document is kept on file.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The amount of fees received.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The index shall be accessible and searchable by at least all of the following means:</text>
+        <para>
+          <num>(1)</num>
+          <text>Name of the grantor.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Name of the grantee.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Document number, or volume and page where the instrument is recorded or filed.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>By tract of land parcel if the county has a tract index.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In the case of assignments, satisfactions and partial releases of mortgages, and subordination of mortgages, the index shall also contain the document number or volume and page of the original mortgage instrument whenever that original mortgage instrument is referenced on the document.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>With regard to affidavits of corrections of filed documents, the Land Records and Title Recording Office shall include at least one of the following notations on the filed document:</text>
+        <para>
+          <num>(1)</num>
+          <text>The document number of the affidavit of correction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The volume and page number where the affidavit of correction is filed, and the date when the affidavit is filed.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.050 was formerly codified as 49.0105</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.060</num>
+      <heading>Record of Encumbrances</heading>
+      <text>The Land Records and Title Recording Office shall file or record, and index in the real estate records index, every encumbrance, writ of attachment or certified copy of such a writ and certificate of real estate attached, every certificate of sale of real estate, and every notice of the pendency of an action affecting real estate, which may be filed or recorded in the office.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.060 was formerly codified as 49.0106</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.070</num>
+      <heading>Rules and Regulation</heading>
+      <text>Land Records and Title Recording Office may adopt rules and regulations to effectuate the purpose of this code. Any regulations must have a notice and comment period.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.070 was formerly codified as 49.0107</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.080</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Code, or the application thereof, is held invalid, the remainder of this Code, or other applications of such provision, shall not be affected.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.080 was formerly codified as 49.0108</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.090</num>
+      <heading>Sovereign Immunity</heading>
+      <text>This Act shall not be construed to waive the sovereign immunity in any Court from monetary damage claims, or to waive any other immunity or privilege of the Turtle Mountain Tribe.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.090 was formerly codified as 49.0109</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.100</num>
+      <heading>Applicability</heading>
+      <text>This law shall apply to the Turtle Mountain Natural Resource Commission, the Department, and all programs dealing with the Natural Resources of the Tribe, and all persons and activities within the territory are subject to the jurisdiction of the Tribe.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.100 was formerly codified as 49.0110</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.110</num>
+      <heading>Effective Date</heading>
+      <text>This title shall be effective upon enactment.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.110 was formerly codified as 49.0111</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>49.01.120</num>
+      <heading>Budgeting of Funds</heading>
+      <text>There is hereby authorized to be budgeted and expended one hundred sixty ($160,000) thousand dollars for carrying out this Act.</text>
+      <annotations>
+        <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 776-05-16"/>
+        <annotation type="Prior Codifications">§49.01.120 was formerly codified as 49.0112</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

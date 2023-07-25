@@ -18,8 +18,8 @@
       <repositories>
         <repository name="tmchippewa/law-xml" commit="7fb626da15f43c3e5a3cf397fe312edd233fbb6a"/>
       </repositories>
-      <platform version="2.12.0" reproducible="false"/>
-      <build-date>2023-07-20</build-date>
+      <platform version="2.11.0" reproducible="false"/>
+      <build-date>2023-07-25</build-date>
       <codified-date>2023-06-22</codified-date>
     </build>
   </meta>
