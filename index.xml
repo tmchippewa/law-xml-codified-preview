@@ -16,10 +16,10 @@
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="7fb626da15f43c3e5a3cf397fe312edd233fbb6a"/>
+        <repository name="tmchippewa/law-xml" commit="9992fafcb3205a3f8440e91cb4e213699b164109"/>
       </repositories>
-      <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-07-25</build-date>
+      <platform version="2.12.3" reproducible="false"/>
+      <build-date>2023-07-31</build-date>
       <codified-date>2023-08-01</codified-date>
     </build>
   </meta>
