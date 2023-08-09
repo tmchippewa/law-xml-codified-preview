@@ -12,7 +12,7 @@
   </text>
   <text>To find where a new section is located, type the old section number into the box below.</text>
   <text>
-    <table class="filterable-table">
+    <table>
       <thead>
         <tr>
           <th>Old Section</th>
@@ -23,7 +23,7 @@
         <tr>
           <td>1.0101</td>
           <td>
-            <cite path="§1.01.010" xref="False">§1.01.010</cite>
+            <cite path="|1.01.010" xref="False">§1.01.010</cite>
           </td>
         </tr>
         <tr>
