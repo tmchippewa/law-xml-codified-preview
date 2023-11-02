@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>616-08-23</num>
+  <heading>Resolution Number TMBC616-08-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2023-08-25</effective>
+    <citations>
+      <citation type="res" url="./adopted/616-08-23.pdf">Turtle Mountain Band of Chippewa Res. No. 616-08-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-08-24</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band of Indians acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and bylaws</cite> approved by the Secretary of the Interior on June 16, 1959, and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there is a need to amend Title 25 of the Tribal Gaming Code to comply with the Tribal
+        procedures for board appointments; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe placed the proposed amendments out for a thirty (30) day comment period to amend <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Title 25</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Section 25.0101</cite> Gaming Commission established (b) as follows; striking three and replacing two; (c) to read: The remaining members presenting each of the 4 voting districts to a two-year term ending in December of each even numbered year end;(d)striking three and replacing it with two and no comments were received; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>to approve the proposed amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Title 25</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="25">Section 25.0101</cite> of the Gaming Code as noticed and will codify Title 25 of the Tribal Code accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">Certification</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>24<sup>th</sup> day of August, 2023</em></strong> that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> – Representatives Elmer Davis Jr., Ron Trottier Sr., Craig Lunday, Kenneth Malaterre, Jon Jon Keplin and Chad Counts; two (2) absent-Representatives Lynn Gourneau and Blaine "Slugger" Davis; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2023</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2023</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="|25.01.010|(a)|(2)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(2)">
+    <para>
+      <num>(2)</num>
+      <text>Within ninety (90) days of approval of this Restated <cite path="25" doc="Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23">Title 25</cite> by the Indian Gaming Commission pursuant to the Indian Gaming Regulatory Act (IGRA), the Tribal Council shall appoint the initial chairman to a two (2)-year term ending in December of 2021; and</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|25.01.010|(a)|(3)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(3)">
+    <para>
+      <num>(3)</num>
+      <text>The remaining members to a two-year term ending in December of each even numbered year end; and</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="|25.01.010|(a)|(4)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(4)">
+    <para>
+      <num>(4)</num>
+      <text>Thereafter, the Tribal Council shall appoint by resolution, the chairman and associate Commissioners to terms of two (2) years.</text>
+    </para>
+  </codify:replace>
+</document>

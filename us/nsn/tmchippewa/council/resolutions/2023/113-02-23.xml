@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 113-02-23">
+  <num>113-02-23</num>
+  <heading>Resolution Number TMBC113-02-23 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2023-02-23</effective>
+    <citations>
+      <citation type="res" url="./adopted/113-02-23.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 113-02-23</citation>
+    </citations>
+    <history>
+      <adopted>2023-02-23</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised <cite doc="Turtle Mountain Constitution and By-laws">Constitution and By-Laws</cite> approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX(a) Section 1 of the Turtle Mountain Constitution and By-Laws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposes revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite> to provide for changes to the Lending Title to provide better protection for the tribe and the borrowers; and no</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving a 30 day public comment period for proposed revisions to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="43">Title 43</cite> of the Credit Transaction Code.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9)</em></strong> members of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>7<sup>th</sup> day of February, 2023,</em></strong> that the foregoing resolution was adopted by an affirmative vote of all <strong><em>six (6) in favor</em></strong>-Reps. Lynn Gourneau, Ron Trottier, Kenneth Malaterre, Craig Lunday, Jon Jon Keplin, and Chad Counts; one (1) absent- Rep. Blaine “Slugger” Davis none (0) opposed; with the Vice-Chairman not voting.</text>
+    <text>__________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW/Dated this ___ day of ___________, 2023</text>
+    <text>(  ) VETOED/Dated this ____ day of ______________, 2023</text>
+    <text>__________________________</text>
+    <text>Elmer Davis Jr., Vice-Chairman</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+</document>

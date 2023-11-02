@@ -16,11 +16,11 @@
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="29e9fd183d6ea668db3287d29c4fda005fa392d7"/>
+        <repository name="tmchippewa/law-xml" commit="bbc1def96362476a716d112c94a71ffbc7a4f9e5"/>
       </repositories>
-      <platform version="2.12.4" reproducible="false"/>
-      <build-date>2023-08-11</build-date>
-      <codified-date>2023-08-01</codified-date>
+      <platform version="2.12.7" reproducible="false"/>
+      <build-date>2023-11-02</build-date>
+      <codified-date>2023-08-25</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/tmchippewa/council/constitution/index.xml"/>
