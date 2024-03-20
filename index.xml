@@ -16,17 +16,18 @@
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="eb84913204b9b548f89d93dc287ef7589a9df8bb"/>
+        <repository name="tmchippewa/law-xml" commit="a2b2e69a0403af62330085c7ecbcf1d36c65df90"/>
       </repositories>
       <platform version="2.12.7" reproducible="false"/>
-      <build-date>2024-01-25</build-date>
-      <codified-date>2023-08-25</codified-date>
+      <build-date>2024-03-20</build-date>
+      <codified-date>2024-01-09</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/tmchippewa/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/tmchippewa/council/code/index.xml"/>
   <collection name="us/nsn/tmchippewa/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/tmchippewa/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/tmchippewa/council/resolutions/2021/index.xml"/>
