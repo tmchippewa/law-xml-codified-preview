@@ -3,8 +3,8 @@
   <heading>Turtle Mountain Band of Chippewa Indians Tribal Code</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2023-08-25">
-      <doc id="Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23" type="resolution"/>
+    <recency through="2023-10-03">
+      <doc id="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
@@ -70,5 +70,370 @@
   <xi:include href="./61.xml"/>
   <xi:include href="./62.xml"/>
   <xi:include href="./63.xml"/>
+  <container>
+    <prefix>Title</prefix>
+    <num>64</num>
+    <heading>Missing and Murdered Persons (Children and Adults) Law</heading>
+    <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.01</num>
+      <heading>Purpose</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.01.010</num>
+        <heading>Purpose</heading>
+        <text>The Turtle Mountain Band of Chippewa establishes a Missing and Murdered Person's Law to aid in searches, advocate, and coordinate services for Missing and Murdered Indigenous Peoples and the families of missing and murdered relatives.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.02</num>
+      <heading>Definitions</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.02.010</num>
+        <heading>Definitions</heading>
+        <text>The terms used below shall the following meanings:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Missing Child" means any person under the age of 18 years whose whereabouts are unknown to the person's parents or guardians as defined under 34 U.S.C.A. § 11292.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Missing Adult" means any person identified as missing, certified, or known to be mentally incompetent and whose whereabouts are unknown to his or her custodial parent, guardian, or responsible party, or who disappeared under circumstances that would indicate the person did not disappear voluntarily or may be in danger.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"DNA" means deoxyribonucleic acid from a human biological specimen.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Endangered" means that a law enforcement official has received sufficient evidence that the missing person is at risk of physical injury or death. The following circumstances indicate that a missing person is at risk of physical injury or death:</text>
+          <text>
+            <ul>
+              <li>the person is missing as a result of a confirmed abduction or under circumstances that indicate that the person's disappearance was not voluntary;</li>
+              <li>the person is missing under known dangerous circumstances;</li>
+              <li>the person is missing more than 30 days;</li>
+              <li>the person is under the age of 21 and at least one other factor in this paragraph is applicable;</li>
+              <li>there is evidence the person needs medical attention or prescription medication such that it will have a serious adverse effect on the person's health if the person does not receive the needed care or medication;</li>
+              <li>the person does not have a pattern of running away or disappearing;</li>
+              <li>the person is mentally impaired;</li>
+              <li>there is evidence that the person may have been abducted by a noncustodial parent;</li>
+              <li>the person has been the subject of past threats or acts of violence;</li>
+              <li>there is evidence the person is lost in the wilderness, backcountry, or outdoors, where survival is precarious and immediate and effective investigation and search and rescue efforts are critical; or</li>
+              <li>any other factor that the TMBCI Law Enforcement Agency deems to indicate that the person may be at risk of physical injury or death, including a determination by another law enforcement agency that the person is missing and endangered.</li>
+            </ul>
+          </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Health care facility" means the office of a dentist or physician, or another medical facility, that has identifying data.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Identifying data" means dental or skeletal X-rays or both, and related information, previously created in the course of providing dental or medical care to an adult or child who has now been reported as missing.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Missing" means the status of a person after a law enforcement agency has received a report of a missing person, has conducted a preliminary investigation, and determined that the person cannot be located.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"NCIC" means National Crime Information Center.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"AMBER Alert" means "America's Missing: Broadcast Emergency Response," a nationwide public broadcast system used to notify the public about abducted children 17 years or younger that meet the criteria set under 34 U.S.C.A. §§  20501-2.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Silver Alert" means a public notification system used to locate an individual identified as a disabled adult, vulnerable elderly adult, or a minor who has a developmental disability, reported to law enforcement as missing. Under North Dakota law, the criteria for a Silver Alert are established under N.D.C.C. §§ 50.25.2-01; 12.1-31-07; 25-01.2-01.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Ashanti Alert" means a public notification system used to locate an individual aged 17-64 years old who has been identified as missing, has a mental or physical disability or is missing under the circumstances that indicate the disappearance was not voluntary or the missing person may be in danger. The criteria for an Ashanti Alert are established under 34 U.S.C.A. § 21904.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"TMBCI" means Turtle Mountain Band of Chippewa Indians Tribe as organized under its Constitution.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"LEA" means the Turtle Mountain Band of Chippewa Indians Law Enforcement Agency, which includes Tribal and the United States Department of the Interior, Bureau of Indian Affairs police.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"TMBCI jurisdiction" means all lands on the Turtle Mountain Indian Reservation, all public domain allotments, and to such other lands in Indian Country as defined in 18 U.S.C. § 1151(a), (b) and (c) as may be acquired by or on behalf of said Tribe and be added thereto under the laws of the United States, including all lands, air, skies above, surface and subsurface water, minerals, natural resources and any other interests therein.</text>
+        </para>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.03</num>
+      <heading>Establishment</heading>
+      <text>The Turtle Mountain Band of Chippewa Indians (TMBCI) Chief of Police, hereinafter referred to as the Chief of Police, shall maintain a TMBCI missing and murdered person program within the TMBCI Law Enforcement Agency (LEA) to enable documented information about missing and murdered TMBCI persons to be entered into the National Crime Information Center (NCIC) database.  The TMBCI LEA shall enter all TMBCI missing persons within two hours of the receipt of the initial report into the following:</text>
+      <text>
+        <ul>
+          <li>NCIC database</li>
+          <li>State law enforcement system</li>
+          <li>NamUs databases, and</li>
+          <li>ND Missing Person database</li>
+        </ul>
+      </text>
+      <text>The TMBCI LEA shall verify and update such records with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days, no later than 30 days after the original entry of the record into the NCIC database, State law enforcement system, and the NamUs databases.</text>
+      <text>The TMBCI LEA shall notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution.</text>
+      <text>The TMBCI LEA shall accept a report of a missing child even if custody has not been formally established. Reporting parties shall be encouraged to obtain legal custody as soon as possible; however, since the safety of the missing child(ren) is paramount, a case will be opened when it can be shown the child has been removed, without explanation, from his or her usual place of residence. If custody has not been established by the Court, law enforcement's only responsibility is to ensure the child is safe.</text>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.03.010</num>
+        <heading>Computer equipment and programs</heading>
+        <text>The Chief of Police shall provide the necessary computer hardware and computer programs to enter, modify, and cancel information on missing and murdered persons in the NCIC database. These programs must provide for search and retrieval of information using the following identifiers: physical description, name, and date of birth, name and Social Security number, name and driver's license number, vehicle license number, and vehicle identification number.</text>
+        <text>The Chief of Police shall also provide a system for tribal, regional, statewide, multistate, and nationwide broadcasts of information on missing and murdered persons. These broadcasts shall be made by tribal law enforcement agencies where possible or, in the case of statewide or nationwide broadcasts, by the North Dakota Agency of Emergency Services (NDDES) upon request of the local LEA.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.03.020</num>
+        <heading>Authority to enter or retrieve information.</heading>
+        <text>Only the TMBCI LEA, or other law enforcement agency with appropriate jurisdiction, may enter missing and murdered person information into the NCIC computer or retrieve information from the NCIC database.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.03.030</num>
+        <heading>Statistical data</heading>
+        <text>The Chief of Police shall annually compile and make available statistical information on the number of missing and murdered persons entered into the NCIC database and information on the number of missing persons located.  An annual report shall be submitted to the Turtle Mountain Band of Chippewa Chairperson and Tribal Council before the end of each calendar year.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.03.040</num>
+        <heading>Rules</heading>
+        <text>The Chief of Police may adopt rules in conformance with this Title to provide for the orderly collection and entry of missing and murdered person's information and requests for the retrieval of missing and murdered person's information.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.03.050</num>
+        <heading>Cooperation with other agencies.</heading>
+        <text>The Chief of Police shall cooperate with other tribes, counties, states, and federal agencies, including but not limited to the Bureau of Indian Affairs, the Federal Bureau of Investigation, the United States Marshal's Service, and other federal agencies with law enforcement responsibilities, in the exchange of information on missing and murdered persons.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.04</num>
+      <heading>Missing Person Report; Duties of the Chief of Police and Law Enforcement Agency</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.04.010</num>
+        <heading>Initial Report, entry of information, and initial response and investigation.</heading>
+        <text>The Turtle Mountain Band of Chippewa (TMBCI) Law Enforcement Agency (LEA) shall accept without delay any report of a missing person. The TMBCI LEA shall not refuse to accept a missing person report on the basis that:</text>
+        <text>
+          <ul>
+            <li>the missing person is an adult;</li>
+            <li>the circumstances do not indicate foul play;</li>
+            <li>the person has been missing for a short amount of time;</li>
+            <li>the person has been missing for a long amount of time;</li>
+            <li>there is no indication that the missing person was in the jurisdiction served by the TMBCI Law Enforcement Agency at the time of the disappearance;</li>
+            <li>the circumstances suggest that the disappearance may be voluntary;</li>
+            <li>the reporting person does not have personal knowledge of the facts;</li>
+            <li>the reporting person cannot provide all of the information requested by the TMBCI Law Enforcement Agency;</li>
+            <li>the reporting person lacks a familial or other relationship with the missing person; or</li>
+            <li>for any other reason, except in cases where the TMBCI Law Enforcement Agency has direct knowledge that the person is, in fact, not missing and the whereabouts and welfare of the person are known at the time the report is being made.</li>
+          </ul>
+        </text>
+        <text>The TMBCI LEA shall accept missing person reports in person. Reports may also be accepted by telephone, in writing, or other electronic means to the extent that the reporting is consistent with the Agency's policies or practices.</text>
+        <text>Upon receiving a report of a person believed to be missing, a TMBCI Law Enforcement Officer shall conduct a preliminary investigation to determine whether the person is missing. If the person is initially determined to be missing and endangered, and their location is not secured, the officer shall immediately consult the Chief of Police, or designee, in recognition of the fact that the first two hours are critical.</text>
+        <text>If the person is determined to be missing, the TMBCI LEA shall enter identifying and descriptive information about the person into the National Crime Information Center (NCIC) data system within the first two hours of receipt of the initial report. If the missing person is between the ages of 18-64 years old and meets applicable criteria, identifying and descriptive information shall be provided to the federal government's Ashanti Alert system within the first two hours of receipt of the initial report. If the missing person is a child or an elder, identifying and descriptive information will also be provided to the state AMBER or Silver Alert systems within the first two hours of receipt of the initial report.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.04.020</num>
+        <heading>Investigation.</heading>
+        <text>When a TMBCI Law Enforcement Investigator receives a report from a TMBCI Law Enforcement Officer via the Chief of Police indicating that a person is missing, the Investigator will lead the TMBCI LEA in conducting the investigation, offering resources, and assisting the Officer in implementing the investigation policy with particular attention to the need for immediate action. The TMBCI LEA shall promptly notify all appropriate law enforcement agencies in the state and, if deemed appropriate, law enforcement agencies in adjacent states or jurisdictions of any information that may aid in the prompt location and safe return of a missing person.</text>
+        <text>
+          <ul>
+            <li>The TMBCI LEA shall not be required to obtain written authorization before it releases publicly any photograph that would aid in the investigation or identification of the missing person.</li>
+          </ul>
+        </text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.05</num>
+      <heading>Additional Information</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.05.010</num>
+        <heading>Additional Information</heading>
+        <text>
+          <ul>
+            <li>Any additional information or materials received by the TMBCI LEA, that do not violate NCIC regulations regarding information and/or materials that are appropriate for entering into the NCIC, shall be entered into the NCIC database as soon as possible.</li>
+            <li>If the person identified in the missing person report remains missing for 30 days, and the additional information and materials specified below have not been received, the TMBCI Law Enforcement Agency shall attempt to obtain:
+            <ul><li>DNA samples from family members and, if possible, from the missing person along with any needed documentation, including consent forms, required for the use of federal DNA databases;</li><li>dental information and x-rays, and an authorization to release dental information or x-rays of the missing person;</li><li>any additional photographs of the missing person that may aid the investigation or identification; and</li><li>fingerprints</li></ul>
+          </li>
+            <li>Nothing in this section shall be construed to prevent the TMBCI LEA from obtaining any of the materials identified in this section before the 30th day following the filing of the missing person report.</li>
+          </ul>
+        </text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.06</num>
+      <heading>Missing Child Cases</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.06.010</num>
+        <heading>Missing Child Cases</heading>
+        <text>Consistent with 34 U.S.C.A. § 41307, the TMBCI LEA shall report each case involving a missing child under the age of 21 years old to the National Center for Missing and Exploited Children (NCMEC). The TMBCI LEA shall enter the information into the NCIC and NamUs databases.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.07</num>
+      <heading>Missing Person Bulletin</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.07.010</num>
+        <heading>Public Data</heading>
+        <text>The information in the missing person bulletin is public data defined by TMTC Title 60 Public Records Access Law. The information shall include, at a minimum:</text>
+        <text>
+          <ul>
+            <li>the name, date of birth, sex, race, height, weight, eye color, and hair color of the person;</li>
+            <li>a recent photograph of the person, if available;</li>
+            <li>the date and location of the last known contact with the person; and</li>
+            <li>the NCIC category under which the person is reported missing.</li>
+          </ul>
+        </text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.07.020</num>
+        <heading>Bulletin</heading>
+        <text>If the person is determined to be missing, the Chief of Police shall immediately cause activation of the AMBER alert or similar bulletin.</text>
+        <text>Any identifying information on missing persons entered into the NCIC database, regarding cases that are still active at the time the missing person's bulletin is compiled, may be included in the bulletin.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.07.030</num>
+        <heading>Photograph</heading>
+        <text>Local agencies shall obtain the most recent photograph available of the missing person and forward those photographs to the Chief of Police. The Chief of Police shall include these photographs in the bulletins as they become available.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.07.040</num>
+        <heading>Distribution</heading>
+        <text>The Chief of Police shall distribute a missing person bulletin to local law enforcement agencies, county attorneys, and in the case of missing children, to public and nonpublic schools. The Chief of Police shall distribute missing person information to computer systems as he/she considers appropriate. The Chief of Police shall also make this information accessible to other parties involved in efforts to locate missing persons and to other persons as he/she considers appropriate.</text>
+        <text>The TMBCI Missing and Murdered Indigenous People's (MMIP) Chapter Board of Directors, a working group, or a Board appointed committee shall comply with existing laws and regulations regarding the limitations on confidential investigation reports, including medical information or case information identified as confidential. Only documents that are not subject to confidentiality shall be provided to the Board of Directors.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>64.07.050</num>
+        <heading>Included with mailing</heading>
+        <text>Tribal elected officials and local agencies may enclose in their mailing any information regarding missing persons obtained from law enforcement agencies or any organization recognized as a nonprofit, tax-exempt organization under state or federal law with an ongoing missing and murdered person program. Elected officials and directors of tribal agencies are urged to enclose missing person information in mailings when it will not increase postage costs and is otherwise considered appropriate.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.08</num>
+      <heading>Training</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.08.010</num>
+        <heading>Training</heading>
+        <text>The Chief of Police shall adopt standards for training appropriate personnel concerning the investigation of missing persons cases.</text>
+        <text>The Chief of Police shall provide technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center (NCIC) and other national crime information databases consistent with the NCIC requirements for access and use of the system.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.09</num>
+      <heading>Standardized Reports and Procedures</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.09.010</num>
+        <heading>Standardized Reports and Procedures</heading>
+        <text>
+          <ul>
+            <li>The Chief of Police will enforce standardized policies and procedures for documenting and reporting missing person cases. Reports and procedures shall include:
+            <ul><li>a standardized form for use by all law enforcement personnel when taking a missing person report;</li><li>a standardized form used by law enforcement personnel to present to healthcare facilities for the purpose of seeking to identify data to further an active missing person investigation, and</li><li>a policy that incorporates standard processes, procedures, and information to be provided to interested persons regarding developments in a missing person case.</li></ul>
+          </li>
+            <li>As determined by a tribal nonprofit organization formed to assist in locating missing persons, a working group shall convene to review, and if needed update and revise policies and procedures, at a minimum every two years. The working group shall include interested members of the public and representatives of the TMBCI Peace Officers, Investigators, Chief of Police, County Sheriffs or designated county officials, and representative(s) from the nonprofit organization formed to assist in locating missing persons.</li>
+          </ul>
+        </text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.10</num>
+      <heading>Jurisdiction for Missing Report</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.10.010</num>
+        <heading>Jurisdiction for Missing Report</heading>
+        <text>Jurisdictional conflicts are to be avoided when a person is reported missing. If a missing person either resides in or was last seen in the TMBCI's jurisdiction, the TMBCI LEA will immediately initiate the required reporting process. If a person resides in the TMBCI's jurisdiction and was last seen in another jurisdiction, and upon confirmation that the law enforcement agency covering that jurisdiction chooses not to take a missing-person report, the TMBCI LEA will assume reporting and investigative responsibility.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>64.11</num>
+      <heading>Location of a Missing Person</heading>
+      <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+      <section>
+        <num>64.11.010</num>
+        <heading>Location of a Missing Person</heading>
+        <text>As soon as is practically possible after a missing person is located or returned, the TMBCI LEA shall cancel the entry from the NCIC database.</text>
+        <text>In the event a missing person is found and identified as murdered, the TMBCI LEA shall enter the information into the FBI's National Incident-Based Reporting System (NIBRS) and other appropriate criminal databases. If the information is entered into a federal criminal database, the party's Tribal affiliation shall be included.</text>
+        <annotations>
+          <annotation app="2023-10-03" doc="Turtle Mountain Band of Chippewa Indians Res. No. 713-09-23" eff="2023-10-03" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
   <xi:include href="./attachments/index.xml"/>
 </document>
