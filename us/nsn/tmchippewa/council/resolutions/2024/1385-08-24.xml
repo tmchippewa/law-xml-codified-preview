@@ -1,0 +1,1218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24">
+  <num>1385-08-24</num>
+  <heading>Resolution Number TMBC1385-08-24 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2024-08-05</effective>
+    <citations>
+      <citation type="res" url="./adopted/1385-08-24.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 1385-08-24</citation>
+    </citations>
+    <history>
+      <adopted>2024-08-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|5">Article IX (a) Section 5</cite> of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and Bylaws</cite> the Tribal Council enacted Title 57, the Agriculture Code that establishes the Agriculture Commission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="57.04.070">Title 57.04.070</cite>, Powers and Duties of the Commission, provides that the Commission is authorized and required to promulgate regulations governing agriculture, both public and private, within the territory and otherwise subject to the jurisdiction of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the duly appointed Agriculture Commission pursuant to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="57.04.070">Title 57.04.070</cite>, promulgated Marijuana Rules and Regulations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council directs Mitch Davis to work with Tribal staff to establish the 30-day comment period, with adequate notice of the proposed Marijuana Rules and Regulations to be published in the Turtle Mountain Times and on the Tribe's Facebook page; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>notice of 30-day comment period on the proposed Marijuana Rules and Regulations published in the Turtle Mountain Times and on the Tribe's Facebook page was completed, and no comments were received; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving the promulgated Marijuana Rules and Regulations as presented to the public.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Turtle Mountain Tribal Code will be codified accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>1st day of August, 2024</em></strong>that the foregoing resolution was adopted by an affirmative vote of <strong><em>six (6) in favor</em></strong> – Reps. Elmer Davis Jr., Chad Counts, Lynn Gourneau, Blaine "Slugger" Davis, Ron Trottier Sr. and Craig Lunday; <strong>two (2) absent</strong>- Reps. Kenneth Malaterre and Jon Jon Keplin; <strong>none (0)</strong> opposed; with the Tribal Chairman not voting.</text>
+    <text>____________________________</text>
+    <text>Jolene A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this ____day of _____________, 2024</text>
+    <text>(   ) VETOED/Dated this _____day of ______________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <attachment id="law">
+    <heading>MARIJUANA RULES &amp; REGULATIONS</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>1</num>
+      <heading>Purpose</heading>
+      <section>
+        <num>101</num>
+        <heading>Purpose</heading>
+        <text>Tribal oversight and regulation is essential to protect public health and welfare, and to protect the interests of the Tribe and of residents and visitors to the Turtle Mountain Band of Chippewa (the "Tribe").  The Tribe has the legal authority to license and regulate any marijuana activity within the jurisdiction of the Tribe.</text>
+      </section>
+      <section>
+        <num>102</num>
+        <heading>Agriculture Commission</heading>
+        <text>Subject to the powers outlined in the Agricultural Code, and Title 56, Medical Marijuana Control Act, the Agriculture Commission shall promulgate these rules and regulations to effectuate the safety of marijuana on the Tribe's lands.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2</num>
+      <heading>Definitions</heading>
+      <section>
+        <num>103</num>
+        <heading>Definitions</heading>
+        <text>In this Ordinance, except as otherwise specifically provided or the context otherwise requires, the following terms and expressions shall have the following meanings:</text>
+        <para>
+          <num>A.</num>
+          <text>"Activation Time" means the amount of time it is likely to take for an individual to begin to feel the effects of ingesting or inhaling a marijuana item.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>"Batch" means all marijuana product of the same variety that has been processed together and exposed to substantially similar conditions throughout processing.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>"Employee" means a person performing work or service for compensation.</text>
+          <para>
+            <num>1.</num>
+            <text>"Employee" does not include individuals providing trade or professional services who are not normally engaged in the operation of a marijuana business.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>"Final Form" means the form a marijuana product is in when it is available for sale by a marijuana sales location. For marijuana products intended for inhalation, the marijuana concentrate in the cigarette or vaping device.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>"Immature Plant" means a nonflowering marijuana plant that is no taller than 8 inches from the growing or cultivating medium and no wider than 8 inches produced from a cutting, clipping, tissue culture, or seedling that is in a growing or cultivating medium or in a growing or cultivating container.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>"Limited Access Area" means a building, room, or other contiguous area of a marijuana business where marijuana is grown, cultivated, stored, weighed, packaged, sold, or processed for sale and that is under the control of the licensee</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>"Marijuana" means all parts of the plant of the genus cannabis, growing or not; the seeds of the plant; the resin extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant or its seeds or resin, including marijuana concentrate and marijuana-infused products. For purposes of this ordinance marijuana does not include:</text>
+          <para>
+            <num>1.</num>
+            <text>the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks, except the resin extracted from those stalks, fiber, oil, or cake, or any sterilized seed of the plant that is incapable of germination;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>industrial hemp; or</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>any other ingredient combined with marijuana to prepare topical or oral administrations, food, drink, or other products.</text>
+          </para>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>"Marijuana Concentrate" means the resin extracted from any part of the plant of the genus cannabis.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>"Marijuana Customer" means an adult  nineteen (19) years of age or older.</text>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>"Marijuana Establishment" means a location at which a licensee is licensed to operate a marijuana grower, marijuana retailer, marijuana secure transporter, or any other type of marijuana-related business licensed to operate by the Marijuana Commission under this Ordinance.</text>
+        </para>
+        <para>
+          <num>K.</num>
+          <text>"Marijuana Grower" means a person licensed to cultivate marijuana and sell or otherwise transfer marijuana to marijuana establishments.</text>
+        </para>
+        <para>
+          <num>L.</num>
+          <text>"Marijuana-Infused Products" means a topical formulation, tincture, beverage, edible substance, or similar product containing marijuana and other ingredients and that is intended for human consumption.</text>
+        </para>
+        <para>
+          <num>M.</num>
+          <text>"Marijuana Plant" means a living plant of the species Cannabis sativa capable of producing its own food through food synthesis and is in a grow medium.</text>
+        </para>
+        <para>
+          <num>N.</num>
+          <text>"Marijuana Processor" means a person licensed to obtain marijuana from marijuana establishments; process and package marijuana; and sell or otherwise transfer marijuana to marijuana establishments.</text>
+        </para>
+        <para>
+          <num>O.</num>
+          <text>"Marijuana Product" means marijuana, marijuana concentrate, marijuana­ infused products or marijuana edibles.</text>
+        </para>
+        <para>
+          <num>P.</num>
+          <text>"Marijuana Retailer" means a person licensed to obtain marijuana from marijuana establishments and to sell or otherwise transfer marijuana to marijuana establishments and to individuals who are nineteen (19)  years of age or older.</text>
+        </para>
+        <para>
+          <num>Q.</num>
+          <text>"Marijuana Secured Transporter" means a person licensed to obtain marijuana from marijuana establishments in order to transport marijuana to marijuana establishments.</text>
+        </para>
+        <para>
+          <num>R.</num>
+          <text>"Package Tag" means a tag supplied through the tribal monitoring system for the purpose of identifying a package containing marijuana product.</text>
+        </para>
+        <para>
+          <num>S.</num>
+          <text>"Seed" means the fertilized, ungerminated, matured ovule, containing an embryo or rudimentary plant, of a marijuana plant that is flowering.</text>
+        </para>
+        <para>
+          <num>T.</num>
+          <text>"Seedling" means a marijuana plant that has germinated and has not flowered and is not harvestable.</text>
+        </para>
+        <para>
+          <num>U.</num>
+          <text>"Tissue Culture" means plant tissue of the species Cannabis sativa L. that is intend for cell propagation.</text>
+        </para>
+        <para>
+          <num>V.</num>
+          <text>"Tribal Monitoring System" means an internet-based database established, implemented, and maintained directly or indirectly by the Agriculture Commission that is available to licensees, tribal law enforcement agencies, and other authorized agencies or departments by the Agriculture Commission on a 24-hour basis for all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Tracking marijuana transfer and transportation by licensees, including transferee, date, quantity, and price.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Verifying in a commercially reasonable time that a transfer will not exceed the limit that the marijuana customer is authorized to receive under this ordinance or any subsequent rules.</text>
+          </para>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>3</num>
+      <heading>Licenses</heading>
+      <section>
+        <num>104</num>
+        <heading>Grower License</heading>
+        <text>A marijuana grower license authorizes the marijuana grower to grow not more than:</text>
+        <para>
+          <num>A.</num>
+          <text>Except as otherwise provided in this Ordinance, a marijuana grower license authorizes the sale of marijuana plants only by means of a marijuana secure transporter.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A marijuana grower license authorizes the sale or transfer of seeds, seedlings, tissue cultures, or immature plants to a licensed marijuana grower from another licensed marijuana grower without using a marijuana secure transporter.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A marijuana grower license authorizes a marijuana grower to transfer marijuana without using a marijuana secure transporter to a marijuana processor or marijuana retailer if both of the following are met:</text>
+          <para>
+            <num>1.</num>
+            <text>The marijuana processor or marijuana retailer occupies the same location as the marijuana grower, and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the marijuana is transferred using only private real property without accessing public roadways.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The marijuana grower must enter each transfer into the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A marijuana grower license authorizes sale of marijuana, other than seeds, seedlings, tissue cultures, immature plants, and cuttings, to a marijuana processor or marijuana retailer.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>A marijuana grower license authorizes the marijuana grower to transfer marijuana only by means of a marijuana secure transporter.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>A marijuana grower must enter all transactions, current inventory, and other information into the tribal monitoring system as required in this Ordinance.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>A marijuana grower may accept the transfer of marijuana seeds, tissue cultures, and clones at any time from another grower licensed under the North Dakota Medical Marijuana Law,  or  another Tribal Entity, this Ordinance, or all.</text>
+        </para>
+      </section>
+      <section>
+        <num>105</num>
+        <heading>Processor License</heading>
+        <text>A marijuana processor license authorizes purchase or transfer of marijuana or marijuana-infused products from a licensed marijuana establishment and sale or transfer of marijuana-infused products or marijuana to only a licensed marijuana establishment.</text>
+        <para>
+          <num>A.</num>
+          <text>Marijuana processor license authorizes a marijuana processor to transfer marijuana only by means of a marijuana secure transporter.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A marijuana processor license authorizes a marijuana processor to transfer marijuana without using a marijuana secure transporter to a marijuana grower, marijuana processor, or marijuana retailer if both of the following are met:</text>
+          <para>
+            <num>1.</num>
+            <text>The marijuana grower, marijuana processor, or marijuana retailer occupies the same location as the marijuana processor;and</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>the marijuana is transferred using only private real property without accessing public roadways.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The marijuana processor must enter each transfer into the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A marijuana processor must enter all transactions, current inventory, and other information into the tribal monitoring system as required in this Ordinance.</text>
+        </para>
+      </section>
+      <section>
+        <num>106</num>
+        <heading>Retailer License</heading>
+        <text>A marijuana retailer license authorizes the purchase or transfer of marijuana or marijuana-infused products from only a tribally- licensed marijuana establishment and sale or transfer to only a tribally-licensed marijuana establishment or an individual nineteen (19)years of age or older.</text>
+        <para>
+          <num>A.</num>
+          <text>Except as otherwise provided in this Ordinance, all transfers of marijuana to a marijuana retailer from a separate marijuana establishment must be by means of a marijuana secure transporter.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A transfer of marijuana to a marijuana retailer from a marijuana establishment that occupies the same location as the marijuana retailer does not require a marijuana secure transporter if the marijuana is transferred to the marijuana retailer using only private real property without accessing public roadways.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A marijuana retailer license authorizes the marijuana retailer to transfer marijuana to or from a marijuana safety compliance facility for testing by means of a marijuana secure transporter or as provided in this Ordinance.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A marijuana retailer shall comply with all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Sell or transfer marijuana to an individual nineteen (19) years of age or older only after it has been tested in accordance with this Ordinance and bears the label required for retail sale.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Enter all transactions, current inventory, and other information into the tribal monitoring system as required in this Ordinance.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Before selling or transferring marijuana to an individual nineteen (19) years of age or older, verify the individual appears to be nineteen (19) years of age or older by means of government-issued photographic identification containing a date of birth and that the sale or transfer will not exceed the single transaction limit in this Ordinance.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The transferred marijuana product must be entered and tracked in the tribal monitoring system as required in this Ordinance and any requirements published by the Agriculture Commission.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>107</num>
+        <heading>Secure Transporter License</heading>
+        <text>A secure transporter license authorizes the licensee to store and transport marijuana and money associated with the purchase or sale of marijuana between marijuana establishments for a fee upon request of a person with legal custody of that marijuana or money.</text>
+        <para>
+          <num>A.</num>
+          <text>A marijuana secure transporter shall enter all transactions, current inventory, and other information into the tribal monitoring system as required in these rules.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A marijuana secure transporter shall comply with all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Each driver transporting marijuana must have a chauffeur's license issued by a State or Tribal government.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Each vehicle must be operated with a 2-person crew with at least 1 individual remaining with the vehicle at all times during the transportation of marijuana.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>A route plan and manifest must be entered into the tribal monitoring system, and a copy must be carried in the transporting vehicle and presented to a compliance officer and/or law enforcement officer upon request.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The marijuana must be transported in 1 or more sealed containers and not be accessible while in transit.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>A secure transporting vehicle must not bear markings or other indication that it is carrying marijuana or a marijuana-infused product.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>A secure transport vehicle may be stored at a location that is not the primary place of business of the secure transporter if the vehicle does not contain marijuana products and the address of storage is reported to the Agriculture Commission in the licensee's staffing plan.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>A marijuana secure transporter is subject to administrative inspection by a compliance officer and/or a Tribal law enforcement officer at the direction of the Agriculture Commission at any point during the transportation of marijuana to determine compliance with these rules and regulation.</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>Unless otherwise sooner suspended or revoked, a secure transporter license shall expire three (3) years following its issuance. A person may re-apply for a secure transporter license for subsequent periods of three (3) years.</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>Application for a secure transporter license or renewal shall be accompanied by a nonrefundable license fee, as established by law by the Council or adopted by the Commission from time to time. The initial license fee shall be $40.</text>
+          </para>
+          <para>
+            <num>10.</num>
+            <text>All license fees shall be remitted to the Commission, which shall keep accurate records of all such receipts, and which shall be deposited into the Tribe general account for use by the Commission, Judiciary, or drug-related law enforcement.</text>
+          </para>
+          <para>
+            <num>11.</num>
+            <text>The license fee shall not include fingerprinting, photographing or background check costs and shall be in addition to any other actual costs or fees imposed by the Commission.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>108</num>
+        <heading>Fees</heading>
+        <text>The Agriculture Commission, until these Regulations are amended, will comply with   the fee structure set forth in Title 56, Medical Marijuana Control Act, which   provides:</text>
+        <para>
+          <num>1.</num>
+          <text>Every Marijuana Business will pay a yearly  operating fee equal to 3% of its total income from all sources derived from licensed activities as a marijuana business.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Every Grow/Cultivation Operation will pay a fee determined by the number of square feet as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>License Types</th>
+                  <th>Application Fees (Indoor/Outdoor)</th>
+                  <th>Annual License Fee (Indoor/Outdoor)</th>
+                </tr>
+                <tr>
+                  <th>Indoor or Outdoor Cultivator</th>
+                  <th/>
+                  <th/>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Tier 1: Up to 1,000 square feet</td>
+                  <td>$100(I)/$50(O)</td>
+                  <td>$1,250(I)/$625(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 2: 1,001 to 2,000 sq. ft.</td>
+                  <td>$200(I)/$100(O)</td>
+                  <td>$2,500(I)/$1,250(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 3: 2,001 to 3,000 sq. ft.</td>
+                  <td>$300(I)/$150(O)</td>
+                  <td>$5,000(I)/$2,500(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 4: 3,001 to 4,000 sq. ft.</td>
+                  <td>$400(I)/$200(O)</td>
+                  <td>$7,500(I)/$3,750(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 5: 4,001 to 5,000 sq. ft.</td>
+                  <td>$500(I)/$250(O)</td>
+                  <td>$10,000(I)/$5,000(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 6: 5,001 to 10,000 sq. ft.</td>
+                  <td>$600(I)/$300(O)</td>
+                  <td>$12,500(I)/$6,250(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 7: 10,001 to 20,000 sq. ft.</td>
+                  <td>$700(I)/$350(O)</td>
+                  <td>$15,000(I)/$7,500(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 8: 20,001 to 30,000 sq. ft.</td>
+                  <td>$800(I)/$400(O)</td>
+                  <td>$17,500(I)/$8,750(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 9: 30,001 to 40,000 sq. ft.</td>
+                  <td>$900(I)/$450(O)</td>
+                  <td>$20,000(I)/$10,000(O)</td>
+                </tr>
+                <tr>
+                  <td>Tier 10: 40,001 to 50,000 sq. ft.</td>
+                  <td>$1,000(I)/$500(O)</td>
+                  <td>$22,500(I)/$12,500(O)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Craft Cannabis Cooperative</strong>
+                  </td>
+                  <td>Total fees for its canopy. If more than 3 locations, add $500(I)/$250(O) per additional</td>
+                  <td>Total fees for its canopy. If more than 3 locations, add $2500(I)/$1,250(O) per additional</td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Processing/Manufacturing</strong>
+                  </td>
+                  <td>$1,000</td>
+                  <td>$5,000</td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong>Retail</strong>
+                  </td>
+                  <td>$1,000</td>
+                  <td>$5,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4</num>
+      <heading>Marijuana Sale or Transfer</heading>
+      <section>
+        <num>109</num>
+        <heading>Tracking</heading>
+        <text>All marijuana products sold or transferred between marijuana businesses must have the tracking identification numbers that are assigned by the tribal monitoring system affixed, tagged, or labeled and recorded, and any other information required by the Agriculture Commission and this Ordinance.</text>
+        <para>
+          <num>A.</num>
+          <text>To ensure access to safe sources of marijuana products, the Agriculture Commission, if alerted in the tribal monitoring system, may place an administrative hold on marijuana products, recall marijuana products, issue safety warnings, and require a marijuana business to provide information material or notifications to a marijuana customer at the point of sale.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A marijuana business shall not sell or transfer marijuana product that has been placed or administrative hold, recalled, or ordered to be destroyed.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A marijuana business must verify in the tribal monitoring system, prior to any sale or transfer, that the marijuana product has not been placed on an administrative hold, recalled, or ordered to be destroyed.</text>
+        </para>
+      </section>
+      <section>
+        <num>110</num>
+        <heading>Tracking Requirements</heading>
+        <text>Before a marijuana plant is sold or transferred, a package tag must be affixed to the plant or plant container and enclosed with a tamper proof seal that includes all of the following information:</text>
+        <para>
+          <num>A.</num>
+          <text>Name of the business, licensee number, and the RFID package tag assigned by the tribal monitoring system that is visible. This includes:</text>
+          <para>
+            <num>1.</num>
+            <text>Name of the strain.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Date of harvest, if applicable.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Universal symbol, if applicable.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>111</num>
+        <heading>Label and Package Requirements</heading>
+        <text>Before a marijuana product is sold or transferred to or by a marijuana retail location, the container, bag, or product holding the marijuana product must be sealed and labeled with all of the following information:</text>
+        <para>
+          <num>A.</num>
+          <text>The name and the license number of the processor, including business or trade name, and tag and source number as assigned by the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The name and the marijuana license number of the licensee that packaged the product, including business or trade name, if different from the processor of the marijuana product. This includes:</text>
+          <para>
+            <num>1.</num>
+            <text>The unique identification number for the package or the harvest, if applicable.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Date of harvest, if applicable.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Name of strain, if applicable.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Net weight in United States customary and metric units.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Concentration of Tetrahydrocannabinol (THC) and cannabidiol (CBD) as reported by the laboratory after potency testing along with a statement that the actual value may vary from the reported value by 10%.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Activation time expressed in words or through a pictogram if it is a marijuana infused product or marijuana edible.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>Name of the laboratory that performed any test, and any test analysis date.</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>A warning that states all the following: "It is illegal to drive a motor vehicle while under the influence of marijuana." "National Poison Control Center 1-800-222-1222."</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>For all other products being sold by a licensee "For use by individuals nineteen (19)  years of age or older or registered qualifying patients only. Keep out of reach of children."</text>
+        </para>
+      </section>
+      <section>
+        <num>112</num>
+        <heading>Sale or Transfer</heading>
+        <text>A marijuana retail location may sell or transfer marijuana or a marijuana product to a marijuana customer if all of the following are met:</text>
+        <para>
+          <num>A.</num>
+          <text>The marijuana product has not been placed on administrative hold, recalled, or ordered to be destroyed.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The licensee confirms that the marijuana customer presented his or her valid driver's license or government-issued identification card that bears a photographic image and proof that the individual is nineteen (19) years of age or older.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The licensee determines the completed transfer or sale will not exceed the purchasing limit prescribed in this Ordinance.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any marijuana product that is sold or transferred under this rule has been tested in accordance with this Ordinance and is labeled and packaged for sale or transfer in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A marijuana retail location shall enter all transactions, current inventory, and other information required by this Ordinance in the tribal monitoring system in compliance with this Ordinance. The marijuana retail location shall maintain appropriate records of all sales or transfers under this Ordinance and make them available to the Agriculture Commission upon request.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>A marijuana retailer is not required to retain information from customers other than the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Payment method.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Amount of payment.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Time of sale and date of transaction.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>A list of goods and product quantity.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>A valid medical card and valid state or tribal issued ID.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Other product descriptors.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>113</num>
+        <heading>Purchasing Requirements</heading>
+        <text>A marijuana retailer is prohibited from making a sale or transferring marijuana to an adult nineteen (19) years of age or older in a single transaction that exceeds 1 ounce, except that not more than 14 grams of marijuana may be in the form of marijuana concentrate.</text>
+        <para>
+          <num>A.</num>
+          <text>A marijuana retail location may sell no more than 3 immature plants to a marijuana customer per transaction.</text>
+        </para>
+      </section>
+      <section>
+        <num>114</num>
+        <heading>Advertising Requirements</heading>
+        <text>A marijuana product may only be advertised or marketed in a way that complies with the following:</text>
+        <para>
+          <num>A.</num>
+          <text>Marijuana product must not be advertised in a way that is deceptive, false, or misleading. A person shall not make any deceptive, false, or misleading assertions or statements on any marijuana product, sign, or document provided.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Marijuana product marketing, advertising, packaging, and labeling must not contain any claim related to health or health benefits, unless a qualified health claim has received and complies with a Letter of Enforcement Discretion issued by the United States Food and Drug Administration (FDA), or the health claim has been approved under the significant scientific agreement standard by the FDA</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A marijuana product must be marketed or advertised as "marijuana" for use only by individuals nineteen (19) years of age or older.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A marijuana product must not be marketed or advertised to individuals under nineteen (19)  years of age. Sponsorships targeting individuals under nineteen (19)years of age are prohibited.</text>
+        </para>
+      </section>
+      <section>
+        <num>115</num>
+        <heading>Internal Samples</heading>
+        <text>A grower, processor, marijuana retail location, or marijuana microbusiness may provide internal product samples directly to its employees for the purpose of ensuring product quality and making determinations about whether to sell the marijuana product.</text>
+        <para>
+          <num>A.</num>
+          <text>Internal product samples may not be transferred or sold to another licensee or consumer.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any internal product sample provided under this rule must be recorded in the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A grower is limited to providing a total of 3.5 grams  of internal product samples to each of their employees in a 30-day period.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A processor is limited to providing a total of 2 grams of marijuana concentrate and marijuana infused products with a total THC content of 2000 mgs of internal product samples to each of their employees in a 30- day period.</text>
+        </para>
+      </section>
+      <section>
+        <num>116</num>
+        <heading>Product Development</heading>
+        <text>A grower or processor may engage in product development. No other marijuana business may engage in product development.</text>
+        <para>
+          <num>A.</num>
+          <text>A grower may designate marijuana plants for product development. Any marijuana plants designated for product development count towards the authorized total amount of marijuana plants for a grower and must be tracked in the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A processor may designate marijuana concentrate, infused products or edible marijuana products for product development. Any marijuana concentrates designated for product development must be tracked in the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A licensee engaged in product development may submit their product development inventory to a laboratory for research and development testing in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Disciplinary action shall not be taken against a licensee for failed research and development test results on their product development inventory.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A licensee authorized under this rule to engage in product development may transfer its product development inventory to its employees for consumption. A licensee shall have product development inventory tested before transfer to its employees. The licensee shall not transfer or sell product development inventory to their employees until after test results in the tribal monitoring system indicate a passed test. Any product development inventory that is not properly transferred to an employee must be destroyed pursuant to this Ordinance.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>The inventory designated for product development may not be consumed or used on the premises of the licensee.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>A licensee shall not transfer or sell inventory designated for product development to a marijuana retail location, or to a marijuana customer, until after test results in the tribal monitoring system indicate a passed test.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>A licensee authorized under this rule to engage in product development may also engage in a research study with a college, university, or hospital approved by the United States Food and Drug Administration and sponsored by a non-profit organization or researcher within an academic institution researching marijuana. A licensee's participation in a research study must be approved by the Agriculture Commission and the TNRG.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5</num>
+      <heading>Sampling and Testing</heading>
+      <section>
+        <num>117</num>
+        <heading>Identification and Testing</heading>
+        <text>A grower shall uniquely identify each immature plant batch with a single plant tag and record the information in the tribal monitoring system. Each immature plant batch must consist of no more than 100 immature plants.</text>
+        <para>
+          <num>A.</num>
+          <text>A grower shall tag each individual plant that is greater than 8 inches in height from the growing or cultivating medium or more than 8 inches in width with an individual plant tag and record the identification information in the tribal monitoring system.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A grower shall separate the plants as the plants go through different growth stages and ensure that the plant tag is always identified with the plant throughout the growth span so that all plants can be easily identified and inspected. A grower shall ensure that identification information is recorded in the tribal monitoring system in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>After a tagged plant is harvested, it is part of a harvest batch so that a sample of the harvest batch can be tested by a licensed laboratory. A grower shall quarantine a harvest batch from other plants or batches that have test results pending. A harvest batch must be easily distinguishable from other harvest batches until the batch is broken down into packages.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Before the marijuana product leaves the grower a sample of the harvest batch must be tested by a licensed laboratory. All test results must indicate passed in the tribal monitoring system before the marijuana is packaged. A marijuana product from harvest batches must not be transferred or sold until tested, packaged, and tagged. A marijuana product from a harvest batch that fails safety testing may only be sold or transferred under the remediation protocol.</text>
+          <para>
+            <num>1.</num>
+            <text>In the event the marijuana product is encompassed in one facility and does not leave the actual facility for processing, marijuana product then shall only be tested before sale to a consumer.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>After test results show a passed test and the harvest batch is packaged, the grower shall destroy the individual plant tags. Each package must have a package tag attached. A grower shall ensure this information is placed in the tribal monitoring system in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>A grower shall not transfer or sell any marijuana product that has not been packaged with a package tag attached and recorded in the tribal monitoring system in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>After a processor receives or purchases a package in the tribal monitoring system, and the processor proceeds to process the marijuana product in accordance with this Ordinance, the processor shall give the marijuana product a new package tag anytime the marijuana product changes form or is incorporated into something else.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>After a package is created by a processor of the marijuana product in its final form, the processor shall have the sample tested. The processor shall not transfer or sell a marijuana product to a marijuana retail location until after test results entered into the tribal monitoring system indicate a passed test.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>A marijuana retail location may sell or transfer marijuana product only to a marijuana customer under both of the following conditions:</text>
+          <para>
+            <num>1.</num>
+            <text>The marijuana product has received passing test results in the tribal monitoring system.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The marijuana product bears the label required for retail sale, under this Ordinance.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>118</num>
+        <heading>Testing Requirements</heading>
+        <text>All product sold, cultivated, or grown must pass a safety test from a tribally licensed or State of North Dakota licensed laboratory. A laboratory shall conduct the required safety tests specified in subdivisions:</text>
+        <para>
+          <num>A.</num>
+          <text>Potency analysis performed just as the marijuana product is without any corrective factor taken for moisture content that includes concentrations of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Tetrahydrocannabinol (THC).</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Tetrahydrocannabinol acid (THC-A).</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Cannabidiol (CBD).</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Cannabidiol acid (CBD-A).</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Additional cannabinoids, which may be tested with approval from the Marijuana Commission</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Foreign matter inspection.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Microbial screening.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Chemical residue testing that includes all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Pesticides.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Fungicides.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Insecticides.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Heavy metals testing as required in this rule.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Residual solvents.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Water activity.</text>
+        </para>
+      </section>
+      <section>
+        <num>119</num>
+        <heading>Failed Product</heading>
+        <text>A sample provided to a laboratory pursuant to this Ordinance that does not pass the required safety tests, the marijuana business that provided the sample shall dispose of the entire batch from which the sample was taken and document the disposal of the sample using the tribal monitoring system pursuant to this Ordinance. The commission may publish a remediation protocol including, but not limited to, the sale or transfer marijuana product after a failed safety test as provided in this ordinance.</text>
+        <para>
+          <num>A.</num>
+          <text>A failed marijuana product must pass two (2) separate tests with new samples consecutively to be eligible to proceed to sale or transfer.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6</num>
+      <heading>Marijuana Infused Products</heading>
+      <section>
+        <num>120</num>
+        <heading>Requirements for Marijuana-Infused and Edible Products</heading>
+        <text>A processor shall package and properly label marijuana-infused products before sale or transfer. Marijuana-infused products processed under these rules must be homogenous. The allowable variation for weight and THC and CBD concentrations between the actual results and the intended serving is to be + or -15%.</text>
+        <para>
+          <num>A.</num>
+          <text>A processor or retailer of marijuana-infused products shall list and record the THC concentration and CBD concentration of marijuana-infused products in the tribal monitoring system and indicate the THC concentration and CBD concentration on the label along with the tag identification as required under these rules.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Marijuana-infused products that are part of a product recall issued in the tribal monitoring system, or by the Agriculture Commission, if applicable, are subject to all of the following requirements:</text>
+          <para>
+            <num>1.</num>
+            <text>Must be immediately pulled from production by the processor or retailer of the marijuana-infused product.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Must be immediately removed from the sales area of a marijuana retail location.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Must not be sold or transferred.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Marijuana-infused products must be stored and secured as prescribed under these rules.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>All non-marijuana inactive ingredients must be clearly listed on the product label. Inactive ingredients must be approved by the FDA for the intended use, and the concentration must be less than the maximum concentration listed in the FDA Inactive Ingredient database for the intended use.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>A processor and/or retailer shall label all marijuana-infused product with all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>The name of the marijuana-infused product.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The ingredients of the marijuana-infused product, in descending order of predominance by weight.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The net weight or net volume of the product.</text>
+          </para>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>For an edible marijuana product, the marijuana processor and/or retailer shall comply with subdivision (a) to (d) of <cite path="§104" proof="needed">this Section</cite> and all of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Allergen labeling as specified by the Food and Drug Administration (FDA), Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA), 21 USC 343.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>If any health or nutritional claim is made, appropriate labeling as specified by the federal regulations regarding Food Labeling, 21 CFR part 101.</text>
+          </para>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>A processor and/or retailer of edible marijuana product shall comply with all the following to ensure safe preparation:</text>
+          <para>
+            <num>1.</num>
+            <text>Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventative</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Controls for Human Food, 21 CFR part 117. Any potentially hazardous ingredients used to process shelf-stable edible marijuana products must be stored at 40 degrees Fahrenheit, 4.4 degrees Celsius, or below.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Current Good Manufacturing Practice in Manufacturing, Packaging, or Holding Human Food, 21 CFR part 110. A marijuana business shall ensure that any handling of marijuana product is compliant.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Keep formulation records for all marijuana products. These records at a minimum must include the recipe, any additional processing in order to be shelf stable, and test results for any ingredients used.</text>
+          </para>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Provide annual employee training for all employees on safe food handling and demonstrate an employee's completion of this training by providing proof of food handler certification that includes documentation of employee food handler training, including, but not limited to, allergens and proper sanitation and safe food handling techniques. Any course taken pursuant to this rule must be conducted for not less than 2 hours and cover all of the following subjects:</text>
+          <para>
+            <num>1.</num>
+            <text>Causes of foodborne illness, highly susceptible populations, and worker illness.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Personal hygiene and food handling practices.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Approved sources of food.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Potentially hazardous foods and food temperatures.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Sanitization and chemical use.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Emergency procedures, including, but not limited to, fire, flood, and sewer backup.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>Have an employee who is certified as a Food Protection Manager.</text>
+          </para>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>To ensure compliance with the safe preparation standards under this subrule, comply with 1 or more of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>The FDA food safety modernization act, 21 USC 2201 to 2252.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The International Organization for Standardization (ISO), ISO 22000/ISO/TS 22002-1 adopted by reference pursuant to R 420.402.</text>
+          </para>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>If requested as provided in this subdivision, provide to the Agriculture Commission documentation to verify certifications and compliance with these rules. The Agriculture Commission may request in writing documentation to verify certifications and compliance with these rules.</text>
+        </para>
+        <para>
+          <num>K.</num>
+          <text>A processor and/or retailer of edible marijuana product shall comply with all the following:</text>
+          <para>
+            <num>1.</num>
+            <text>Edible marijuana product packages shall not be in a shape or labeled in a manner that would appeal to minors aged nineteen (19) years or younger. Edible marijuana products shall not be associated with or have cartoons, caricatures, toys, designs, shapes, labels, or packaging that would appeal to minors.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Edible marijuana products shall not be easily confused with commercially sold candy. The use of the word candy or candies on the packaging or labeling is prohibited. Edible marijuana products shall not be in the distinct shape of a human, animal, or fruit, or a shape that bears the likeness or contains characteristics of a realistic or fictional human, animal, or fruit, including artistic, caricature, or cartoon renderings. Edible marijuana products that are geometric shapes and simply fruit flavored are permissible.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>An edible marijuana product must be in opaque, child-resistant packages or containers that meet the effectiveness specifications outlined in 16 CFR 1700.15. An edible marijuana product containing more than one serving must be in a resealable package or container that meets the effectiveness specifications outlined in 16 CFR 1700.15.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>A processor shall not produce an edible marijuana product that requires time and temperature control for safety. The Agriculture Commission may publish validation guidance for shelf stable edible marijuana product. The Agriculture Commission may request to review the validation study for a shelf stable edible marijuana product. The end product must be a shelf stable edible marijuana product and state the following information.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>A product expiration date, upon which the marijuana product is no longer fit for consumption. Once a label with an expiration date has been affixed to a marijuana product, a licensee shall not alter that expiration date or affix a new label with a later expiration date.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Any other information requested by the Agriculture Commission that is not inconsistent with the acts and these rules.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>121</num>
+        <heading>Maximum Thc Concentration for Marijuana-Infused Products</heading>
+        <text>A marijuana retail location shall not sell or transfer marijuana-infused products that exceed the maximum THC concentrations established by the Agriculture Commission by more than 15%. For the purposes of maximum THC concentrations for marijuana-infused products, the Agriculture Commission shall publish a list of maximum THC concentrations and serving size limits.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>7</num>
+      <heading>Marijuana Consumption, Tasting, &amp; Events</heading>
+      <section>
+        <num>122</num>
+        <heading>Event License</heading>
+        <text>A temporary marijuana event license shall be granted to any marijuana establishment that holds a retail, grow, or processing license issued by the Agriculture Commission.</text>
+        <para>
+          <num>A.</num>
+          <text>The temporary license shall only be issued for a single day or up to seven consecutive days.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>To receive a temporary license, a licensed operation must submit an application to the Agriculture Commission not less than 30 calendar days before the first day of the marijuana event.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A marijuana event can only occur on lands over which the Tribe has jurisdiction as defined by the Constitution and Bylaws of the Turtle Mountain Band of Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The application must include information such, but not limited to:</text>
+          <para>
+            <num>1.</num>
+            <text>The name of the license holder;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The address of the location where the temporary marijuana event will be held;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>A diagram of the physical layout of the temporary marijuana event;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The dates and hours of operation for which the temporary marijuana event license is being sought.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Contact information for the applicant's designated primary contact person regarding the temporary marijuana event license, including the name, title, address, phone number, and email address of the individual.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Contact information for a designated contact person or persons who shall be onsite at the event, and reachable by telephone at all times that the event is occurring.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>A list of all employees that will be providing onsite sales of marijuana products at the temporary marijuana event. If the list of employees participating in the temporary marijuana event changes after the application is submitted or after the temporary marijuana event license is issued, the applicant shall submit an updated list and an updated diagram to the Agriculture Commission not less than 72 hours before the event. Licensees not on the list submitted to the Agriculture Commission shall not participate in the temporary marijuana event.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The licensed marijuana event organizer shall hire or contract for licensed security personnel to provide security services at the licensed temporary marijuana event. All security personnel hired or contracted for by the licensee shall be at least nineteen (19)  years of age, and present on the licensed event premises at all times marijuana products are available for sale or marijuana consumption is allowed on the licensed event premises. The security personnel shall not engage in the consumption of marijuana products before or during the event.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>A licensed marijuana event organizer shall maintain a clearly legible sign, not less than 7" x 11" in size reading, "No Persons Under nineteen (19) Allowed" at or near each public entrance to any area where the sale or consumption of marijuana products is allowed. The lettering of the sign shall be not less than 1 inch in height.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>The marijuana event organizer licensee shall ensure that access to the event is restricted to persons nineteen (19) years of age or older and ensure that marijuana sales or consumption is not visible from any public place or non­-age-restricted area.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Only persons age nineteen (19) or older may purchase and consume marijuana products at a temporary marijuana event. Prior to selling marijuana products to a customer, the licensee making the sale shall confirm, using valid identification as specified in the Michigan regulation and taxation of marijuana act and these rules, the age and identity of the customer.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Except small amounts of products used for display, all marijuana products for sale at a temporary marijuana event must be stored in a secure, locked container that is not accessible to the public. Marijuana products being stored by a licensee at a temporary marijuana event must not be left unattended.</text>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>All marijuana products made available for sale at a temporary marijuana event by a licensee must comply with all rules and regulations of the Agriculture Commission.</text>
+        </para>
+        <para>
+          <num>K.</num>
+          <text>The Agriculture Commission may require the marijuana event organizer and all participants to cease operations without delay if in the opinion of the Agriculture Commission or law enforcement it is necessary to protect the immediate public health and safety of the people of this state. Upon notification from the Agriculture Commission that the event is to cease operations, the marijuana event organizer shall immediately stop the event and all participants shall be removed from the premises within the time frame provided by the Agriculture Commission.</text>
+        </para>
+      </section>
+      <section>
+        <num>123</num>
+        <heading>On Site Consumption and Tasting</heading>
+        <text>Any marijuana establishment that holds a retail license is authorized to allow customers and visitors to taste marijuana infused and edible products.</text>
+        <text>The marijuana establishment must ensure:</text>
+        <para>
+          <num>A.</num>
+          <text>Any product consumed is less than 15% THC as a whole.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Only one serving or sample size is served per customer.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A responsible operations plan is in place that includes a detailed explanation of how employees will monitor and prevent over-intoxication, underage access to the designated consumption establishment, and any other potential criminal activity on the premises.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>A marijuana product destruction and waste management plan is in place that meets the requirements of these rules, as applicable, for destroying and disposing of marijuana waste left at the marijuana establishment.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>8</num>
+      <heading>Marijuana Employees</heading>
+      <section>
+        <num>124</num>
+        <heading>Licensure</heading>
+        <text>Consistent with Title 56, all employees of a Marijuana business shall be required to obtain from the Agriculture Commission a Marijuana Employee License. The application shall include the following information:</text>
+        <para>
+          <num>1.</num>
+          <text>The name, address, telephone number, email address, social security number and date of birth of the applicant.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Proof that applicant is at least  nineteen (19) years of age.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A current photograph of applicant.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Current and previous five (5) years business and employment positions held, ownership interests in those businesses, business and residence addresses, and driver license number.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>A complete set of the applicant's fingerprints and written permission of the applicant authorizing the Commission or its designee to forward the fingerprints to the Federal Bureau of Investigation for its report.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The names, telephone numbers, email address and current physical address of at least three (3) references, including at least one (1) professional reference.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Written permission of the applicant authorizing the Commission or its designee to seek verification of the information contained within the application.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>A statement in writing that the applicant pledges to not dispense or otherwise divert Marijuana to any person or entity that is not allowed to lawfully possess Marijuana;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Any other information the Commission deems relevant.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>A licensee shall conduct a criminal history background check on any prospective employee before hiring that individual. A licensee shall keep records of the results of the criminal history background checks for the duration of the employee's employment with the licensee. A licensee shall record confirmation of criminal history background checks and make the confirmation available for inspection upon request by the Agriculture Commission. A licensee shall comply with all of the following:</text>
+          <text>
+            <ul proof="needed">
+              <li>Have a policy in place that requires employees to report any new or pending criminal charges or convictions. If an employee is charged with or convicted of a controlled substance related felony or any other felony, the licensee shall immediately report the charge or conviction to the Agriculture Commission. If an employee of a licensee is convicted of an offense involving distribution of a controlled substance to a minor, the licensee shall immediately report the conviction to the Agriculture Commission. The Agriculture Commission shall maintain a list of excluded employees.</li>
+              <li>Enter in the tribal monitoring system an employee's information and level of tribal monitoring system access within 7 business days of hiring for the system to assign an employee identification number. The licensee shall update in the tribal monitoring system employee information and changes in status or access within 7 business days.</li>
+              <li>Remove an employee's access and permissions to the marijuana business within 7 business days after the employee's employment with the licensee is terminated.</li>
+              <li>Train employees and have an employee training manual that includes, but is not limited to, employee safety procedures, employee guidelines, security protocol, and educational training, including, but not limited to, marijuana product information, dosage and purchasing limits if applicable, and educational materials. Copies of these items must be maintained and made available to the Agriculture Commission upon request.</li>
+              <li>Include in the employee training manual a responsible operations plan. A responsible operations plan must include a detailed explanation of how employees will monitor and prevent over intoxication, underage access to the establishment, the illegal sale or distribution of marijuana or marijuana products within the establishment, and any other potential criminal activity on the premises, as applicable. Copies of these items must be maintained and made available to the Agriculture Commission upon request.</li>
+              <li>Establish point of sale or transfer procedures for employees at marijuana retail locations performing any transfers or sales to marijuana customers. The point of sale or transfer procedures must include, but are not limited to, training in dosage, marijuana product information, health or educational materials, point of sale training, purchasing limits, cannabidiol (CBD) and tetrahydrocannabinol (THC) information, serving size, and consumption information, including any warnings. Copies of these items must be maintained and made available to the Agriculture Commission upon request.</li>
+              <li>Ensure that employees handle marijuana product in compliance with current good manufacturing practice in manufacturing, packing, or holding human food, 21 CFR part 110, as specified in this Ordinance.</li>
+              <li>Not allow a person under nineteen (19) years of age to volunteer or work for the marijuana establishment.</li>
+              <li>Not employ any individual who has been convicted of an offense involving distribution of a controlled substance to a minor.</li>
+            </ul>
+          </text>
+        </para>
+        <para>
+          <num>11.</num>
+          <heading>WARNING:</heading>
+          <text>Each Marijuana Employee License shall include the following printed statement and the application for the license shall require the individual applicant to acknowledge in writing the following warning:</text>
+          <text>CAUTION: Federal and tribal laws on the cultivation of Marijuana and possession of Marijuana and Marijuana products may differ. In the absence of a federal license, federal law prohibits the cultivation and possession of Marijuana and Marijuana products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture.</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>Term, Renewals and Fees:</text>
+          <para>
+            <num>a.</num>
+            <text>Unless otherwise sooner suspended or revoked, a Marijuana Employee License shall expire three (3) years following its issuance. A person may re-apply for a Marijuana Employee License for subsequent periods of three (3) years.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Application for a Marijuana Employee License or renewal shall be accompanied by a nonrefundable license fee, as established by law by the Council or adopted by the Commission from time to time. The initial license fee shall be $40.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>All license fees shall be remitted to the Commission, which shall keep accurate records of all such receipts, and which shall be deposited into the Tribe general account for use by the Commission, Judiciary, or drug-related law enforcement.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>The license fee shall not include fingerprinting, photographing or background check costs and shall be in addition to any other actual costs or fees imposed by the Commission.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>125</num>
+        <heading>Authorized Individuals</heading>
+        <text>If an individual is present at a marijuana business or in a marijuana transporter vehicle who is not identified as a licensee or an employee of the licensee in the tribal monitoring system or is in violation of this Ordinance, the Agriculture Commission may take any action permitted under the acts and these rules. This does not apply to authorized escorted visitors at a marijuana business.</text>
+      </section>
+      <section>
+        <num>126</num>
+        <heading>Investigation</heading>
+        <text>Employee records are subject to inspection or examination by the Agriculture Commission to determine compliance with the acts and these rules.</text>
+      </section>
+      <section>
+        <num>127</num>
+        <heading>Employee Defined</heading>
+        <text>Employee includes, but is not limited to, hourly employees, contract employees, trainees, or any other person given any type of employee credentials or authorized access to the marijuana business. Trade or professional services provided by individuals not normally engaged in the operation of a marijuana business, except for those individuals required to have employee credentials under this rule, must be reasonably monitored, logged in as a visitor and escorted through any limited access areas.</text>
+      </section>
+      <section>
+        <num>128</num>
+        <heading>Authorized Visitors</heading>
+        <text>Nothing in this rule prohibits a licensee from allowing visitors into the marijuana business, if the visitors are reasonably monitored, logged in as a visitor, and escorted through any limited access areas. Visitors that are not employees or individuals providing trade or professional services are prohibited where hazardous materials are used, handled, or stored in the marijuana business.</text>
+      </section>
+    </container>
+  </attachment>
+</document>

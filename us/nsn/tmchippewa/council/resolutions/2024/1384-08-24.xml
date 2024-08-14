@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 1384-08-24">
+  <num>1384-08-24</num>
+  <heading>Resolution Number TMBC1384-08-24 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2024-08-05</effective>
+    <citations>
+      <citation type="res" url="./adopted/1384-08-24.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 1384-08-24</citation>
+    </citations>
+    <history>
+      <adopted>2024-08-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16th, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposes revisions to Title 50 of the Turtle Mountain Tribal Code to change verbiage to Title 50, section 50.0211., 1. "The Manager shall be appointed and confirmed by the Tribal Council" to "The HR Director shall be hired and confirmed by the Tribal Council through resolution", 2. "The Manager shall be a full-time employee and paid compensation commensurate with his or her skills, education, experience and responsibilities and within the standards of compensation established by the Tribal Council" to "The HR Director shall be a full-time employee and paid compensation commensurate with his or her skills, education, experience and responsibilities and within the standards of compensation established by the Tribal Council" The Manager shall be responsible for operating within the annually appropriated budget for the department; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the tribe approved to put the 30-day comment out to the public for any additional feedback for proposed changes to Title 50 and no comments were received; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving amendments to Title 50 as presented to the public; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that Turtle Mountain Tribal Code will be codified accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>seven (7)</em></strong> constituting a quorum were present at a meeting duly called, convened and held on the <strong><em>1st day of August, 2024</em></strong> that the foregoing resolution was adopted by an affirmative vote of <strong><em>five (5) in favor</em></strong> – Reps. Ron Trottier Sr., Lynn Gourneau, Blaine "Slugger" Davis, Elmer Davis Jr. and Chad Counts; <strong>two (2) absent</strong>- Reps. Kenneth Malaterre and Jon Jon Keplin; <strong>one (1)</strong> opposed- Rep. Craig Lunday; with the Tribal Chairman not voting.</text>
+    <text>____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this ____day of _____________, 2024</text>
+    <text>(   ) VETOED/Dated this _____day of ______________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="50.02.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|50.02.060">
+    <section>
+      <num>50.02.060</num>
+      <heading>Manager of the Human Resources Department</heading>
+      <para>
+        <num>(a)</num>
+        <text>The HR Director shall be hired and confirmed by the Tribal Council through resolution.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The HR Director shall be a full-time employee and paid compensation commensurate with his or her skills, education, experience, and responsibilities and within the standards of compensation established by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Manager shall be responsible for operating within the annually appropriated budget for the Department.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>
