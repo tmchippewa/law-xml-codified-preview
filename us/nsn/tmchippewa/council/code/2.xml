@@ -23,7 +23,7 @@
         <text>The Tribal Court shall have general jurisdiction in all civil actions to the extent permitted by the <cite doc="Turtle Mountain Constitution and By-laws">Tribal constitution</cite> and by the laws of the United States. Such jurisdiction shall include, but not be limited to, jurisdiction over the following:</text>
         <para>
           <num>(1)</num>
-          <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in <cite path="§2.01.020|(c)">Section 2.01.020(c)</cite> of this Code; and</text>
+          <text>Business transaction conducted within the territorial jurisdiction of the Tribal Court as defined in <cite path="|2.01.020|(c)">Section 2.01.020(c)</cite> of this Code; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -68,7 +68,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The territorial jurisdiction of the Court extends to all territory within the exterior boundaries of the Turtle Mountain Jurisdiction as defined by <cite path="§1.05.020">Section 1.05.020</cite> of this Code unless otherwise provided.</text>
+        <text>The territorial jurisdiction of the Court extends to all territory within the exterior boundaries of the Turtle Mountain Jurisdiction as defined by <cite path="|1.05.020">Section 1.05.020</cite> of this Code unless otherwise provided.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -131,7 +131,7 @@
     <section>
       <num>2.03.020</num>
       <heading>Statute of Limitations</heading>
-      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="§2.03.020">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
+      <text>All civil actions shall be commenced within six (6) years from the time the cause of action accrued in the case of contracts and within three (3) years in the case of torts, unless a different time is prescribed by law. An action shall be deemed to have been commenced for the purposes of <cite path="|2.03.020">this section</cite> when the defendant or defendants have been served with summons or when a written complaint has been filed. The statute of limitations does not run against a minor, incompetent, or person serving in the Armed Forces of the United States, nor does the period run against persons absent from the jurisdiction for the purpose of avoiding process.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.03.020 was formerly codified as 2.0302</annotation>
       </annotations>
@@ -254,7 +254,7 @@
       <heading>Service of Summons and Complaint</heading>
       <para>
         <num>(a)</num>
-        <text>A copy of the summons, together with a copy of the complaint as required under <cite path="§2.04.020">Section 2.04.020</cite> may be served by certified mail, return receipt requested, or may be served personally upon an individual defendant. Service may be made by leaving a copy of the summons and complaint at the defendant's usual abode with a resident of the household above the age of fourteen (14) years, if the defendant cannot be conveniently found.</text>
+        <text>A copy of the summons, together with a copy of the complaint as required under <cite path="|2.04.020">Section 2.04.020</cite> may be served by certified mail, return receipt requested, or may be served personally upon an individual defendant. Service may be made by leaving a copy of the summons and complaint at the defendant's usual abode with a resident of the household above the age of fourteen (14) years, if the defendant cannot be conveniently found.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1054,7 +1054,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The failure of a party to demand a jury, as required by Subsection (b) of <cite path="§2.09.010">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
+        <text>The failure of a party to demand a jury, as required by Subsection (b) of <cite path="|2.09.010">this section</cite>, constitutes a waiver by him of a trial by jury.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§2.09.010 was formerly codified as 2.0901</annotation>
@@ -1103,7 +1103,7 @@
     <section>
       <num>2.09.070</num>
       <heading>Jury Panel</heading>
-      <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in <cite path="§2.09.060">Section 2.09.060</cite> shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
+      <text>Within two (2) days after the receipt of the order of the Tribal Court Judge directing a jury to be summoned, the Clerk shall notify the parties or their attorneys that a drawing of a jury panel for the trial will take place at the Clerk's office. The tickets with the names corresponding to those on the list as provided in <cite path="|2.09.060">Section 2.09.060</cite> shall be placed in the jury wheel or drawing box, be thoroughly mixed, and shall be drawn one (1) at a time by the jury selectors in rotation, until twenty-four (24) names have been drawn. From this list of names, the defendant or his attorney shall strike one (1) name and then the plaintiff or his attorney shall strike one (1) name and so on alternately until twelve (12) names remain. If either party neglects or refuses to aid in the striking of the jury, the clerk shall strike on his behalf.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.09.070 was formerly codified as 2.0907</annotation>
       </annotations>
@@ -1111,7 +1111,7 @@
     <section>
       <num>2.09.080</num>
       <heading>Summons</heading>
-      <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in <cite path="§2.04.050">Section 2.04.050</cite> of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
+      <text>The clerk shall issue a summons, at least eight (8) days before trial, to the jurors not struck. The summons shall be served in the same manner as other summons in <cite path="|2.04.050">Section 2.04.050</cite> of this Code. If the summons be returned not served, then the clerk shall issue a new summons for any person on the roll of eligible jurors except those stricken by the parties. Such summons must be served at least five (5) days before the time set for trial.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.09.080 was formerly codified as 2.0908</annotation>
       </annotations>
@@ -1173,7 +1173,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A lack of the qualifications set out in <cite path="§2.09.030">Section 2.09.030</cite> of this Code;</text>
+          <text>A lack of the qualifications set out in <cite path="|2.09.030">Section 2.09.030</cite> of this Code;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1448,7 +1448,7 @@
     <section>
       <num>2.12.010</num>
       <heading>Plea of Incompetency</heading>
-      <text>When incompetency, as defined in <cite path="§2.15.010|(d)">Section 2.15.010(d)</cite> is an issue, such competency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
+      <text>When incompetency, as defined in <cite path="|2.15.010|(d)">Section 2.15.010(d)</cite> is an issue, such competency or incompetency shall be determined by a Competency Board. Actions shall be commenced as in other civil suits.</text>
       <text>Upon the filing of a complaint, the Chief Tribal Judge shall order a hearing by the Board.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.12.010 was formerly codified as 2.1201</annotation>
@@ -1644,37 +1644,50 @@
     <section>
       <num>2.14.010</num>
       <heading>Qualifications to Admission</heading>
-      <text>No person may practice as an attorney before the Tribal Court or the Tribal Court of Appeals unless admitted to practice and enrolled as an attorney of the Tribal Court upon written application. Any attorney-at-law, who is a member in good standing of the bar of any state or federal court, shall be eligible for admission to practice before the Tribal Court. Any Indian of the reservation shall be admitted to practice before the court upon application accompanied by proof satisfactory to the Court:</text>
       <para>
         <num>(a)</num>
-        <text>that he is at least twenty-one (2l) years of age;</text>
+        <text>No person may practice as an attorney before the Tribal Court or the Tribal Court of Appeals unless admitted to practice and enrolled as an attorney of the Tribal Court upon written application. Any attorney-at-law, who is a member in good standing of the bar of any state or federal court, shall be eligible for admission to practice before the Tribal Court.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>that he is a person of good moral character and integrity;</text>
+        <text>Any Indian of the reservation shall be admitted to practice as an advocate before the court upon application accompanied by proof satisfactory to the court:</text>
+        <para>
+          <num>(1)</num>
+          <text>that he is at least twenty-one (21) years of age;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>that he is a person of good moral character and integrity;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>that he has successfully completed at least two (2) years of high school work or its equivalent;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>that he has never been convicted of a felony for which he has not received a pardon or restoration of civil rights;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>that he is not a member of the Tribal Council, an employee of the Tribe or of the United States.</text>
+        </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>that he has successfully completed at least two (2) years of high school work or its equivalent;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>that he has never been convicted of a felony for which he has not received a pardon or restoration of civil rights;</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>that he is not a member of the Tribal Council, an employee of the Tribe or of the United States.</text>
+        <text>The Judicial Board shall review applications for admission and issue or deny licenses based upon the criteria listed above. Such authority shall not infringe upon the Court's authority enumerated herein.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§2.14.010 was formerly codified as 2.1401</annotation>
+        <annotation app="2024-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" eff="2024-06-04" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>2.14.020</num>
       <heading>Filing Fee</heading>
-      <text>A filing fee of five dollars ($5) shall accompany each application for admission to the bar.</text>
+      <text>A filing fee shall accompany each application for admission to the bar which shall be set by the regulating body.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.14.020 was formerly codified as 2.1402</annotation>
+        <annotation app="2024-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" eff="2024-06-04" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1698,45 +1711,62 @@
     <section>
       <num>2.14.050</num>
       <heading>Disbarment</heading>
-      <text>The Tribal Court or the Tribal Court of Appeals may disbar an attorney from practice before the Court, or impose suspension from practice for such time as the Court deems appropriate on any of the following grounds:</text>
       <para>
         <num>(a)</num>
-        <text>False swearing;</text>
+        <text>The Tribal Court, the Tribal Court of Appeals may disbar an attorney or advocate from practice before the Court, or impose suspension from practice for such time as the Court deems appropriate on any of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>False swearing;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conviction of a felony;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disbarment by a federal or state court;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Conduct unbecoming an officer of the court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Failure to act as counsel for a defendant upon assignment of the Court.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Conviction of a felony;</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Disbarment by a federal or state court;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Conduct unbecoming an officer of the court;</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Failure to act as counsel for a defendant upon assignment of the Court.</text>
+        <text>The Judicial Board may disbar an advocate or attorney after complaint by a party with standing, and investigation, and a hearing.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§2.14.050 was formerly codified as 2.1405</annotation>
+        <annotation app="2024-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" eff="2024-06-04" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>2.14.060</num>
       <heading>Prosecuting Attorneys and Defense Attorneys</heading>
-      <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment for six (6) months or more and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorneys' roll. Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorneys' roll or outside the Attorneys' roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorney's roll.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorney's roll or outside the Attorney's roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§2.14.060 was formerly codified as 2.1406</annotation>
+        <annotation app="2024-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" eff="2024-06-04" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <num>2.14.070</num>
-      <heading>Council Members Shall Not Practice as Attorneys</heading>
+      <heading>Council Members Shall Not Practice as Attorneys or Advocates before the Turtle Mountain Court System</heading>
       <text>No member of the Tribal Council shall practice before the Tribal Court or the Tribal Court of Appeals during his term of office.</text>
       <annotations>
         <annotation type="Prior Codifications">§2.14.070 was formerly codified as 2.1407</annotation>
+        <annotation app="2024-06-04" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" eff="2024-06-04" path="" type="History"/>
       </annotations>
     </section>
   </container>

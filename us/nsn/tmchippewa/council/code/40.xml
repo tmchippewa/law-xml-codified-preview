@@ -746,7 +746,7 @@
       <text>The Compliance Officer is hereby designated as the responsible agent to ensure compliance with and enforcement of this Act and any permits or Orders issued pursuant to this Act and will be housed in the Tribal EPA Office. The Compliance Officer or his duties shall not be housed within the SWMP. Unresolved compliance issues can be appealed to the Hearing Officer as provided for in the TAPA. The duties of the Compliance Officer shall include:</text>
       <para>
         <num>(a)</num>
-        <text>Monitoring, inspecting and ensuring entities and persons covered by this Act are in compliance to include the management handling, treatment, storage, transfer and disposal of solid, special and hazardous waste and the investigation, assessment and remediation of releases or contamination to include the duties under <cite path="§40.16.030">Section 40.16.030</cite> and:</text>
+        <text>Monitoring, inspecting and ensuring entities and persons covered by this Act are in compliance to include the management handling, treatment, storage, transfer and disposal of solid, special and hazardous waste and the investigation, assessment and remediation of releases or contamination to include the duties under <cite path="|40.16.030">Section 40.16.030</cite> and:</text>
         <para>
           <num>(1)</num>
           <text>Obtain any information, including records and reports, from any owner or operator necessary to determine whether the owner or operator is in compliance with this Act;</text>
@@ -1049,7 +1049,7 @@
     <section>
       <num>40.07.010</num>
       <heading>Open Burning</heading>
-      <text>There shall be no open burning of solid waste on the Reservation without a permit from the Tribal EPA pursuant to <cite path="§40.15.030">Section 40.15.030</cite>. The Compliance Officer will coordinate the approval of burning permits with the Police Department and Fire Department.</text>
+      <text>There shall be no open burning of solid waste on the Reservation without a permit from the Tribal EPA pursuant to <cite path="|40.15.030">Section 40.15.030</cite>. The Compliance Officer will coordinate the approval of burning permits with the Police Department and Fire Department.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.07.010 was formerly codified as 40.0701</annotation>
       </annotations>
@@ -1145,7 +1145,7 @@
     <section>
       <num>40.07.130</num>
       <heading>Wrecked, Junked or Unserviceable Vehicles</heading>
-      <text>It shall be unlawful for any person(s) to store within the villages and communities any wrecked, junked, unregistered or unserviceable vehicles. It shall be unlawful to store outside of the designated villages and communities more than 4 wrecked, junked, unregistered or unserviceable vehicles except as provided for under <cite path="40.09">Chapter 40.09</cite> and <cite path="§40.15.040">Section 40.15.040</cite> of this Act.</text>
+      <text>It shall be unlawful for any person(s) to store within the villages and communities any wrecked, junked, unregistered or unserviceable vehicles. It shall be unlawful to store outside of the designated villages and communities more than 4 wrecked, junked, unregistered or unserviceable vehicles except as provided for under <cite path="40.09">Chapter 40.09</cite> and <cite path="|40.15.040">Section 40.15.040</cite> of this Act.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.07.130 was formerly codified as 40.0713</annotation>
       </annotations>
@@ -1154,7 +1154,7 @@
       <num>40.07.140</num>
       <heading>Tires</heading>
       <text>No tires may be disposed of at any location other than a facility or site approved or permitted under this Act. Tires may not be delivered to a facility or location within the boundaries of the Reservation that is not in compliance with this Act or abandoned upon any street, alley, highway, public place or private premises. Anyone hauling scrap tires to unapproved disposal sites (ravines, coulees, dumps, gravel pits, tree rows, etc.) is in violation of this Act and subject to enforcement action.  If scrap tires are taken to a location which comes under enforcement action, the transporter and/or the original generator(s) may be liable for cleanup costs;</text>
-      <text>No more than 20 tires may be stored on residential property for private use. Commercial businesses, public/tribal agencies, tire dealers and maintenance facilities must comply with <cite path="§40.15.050">Section 40.15.050</cite> of this Act.</text>
+      <text>No more than 20 tires may be stored on residential property for private use. Commercial businesses, public/tribal agencies, tire dealers and maintenance facilities must comply with <cite path="|40.15.050">Section 40.15.050</cite> of this Act.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.07.140 was formerly codified as 40.0714</annotation>
       </annotations>
@@ -1368,7 +1368,7 @@
         <text>Wrecked, Junked or Unserviceable Vehicles (cars and trucks) that are:</text>
         <para>
           <num>(1)</num>
-          <text>accumulated in a quantity of more than 4 on a single property shall be considered to be a commercial salvage operation and subject all applicable requirements and fees for such an operation in <cite path="§40.15.040">Section 40.15.040</cite>;</text>
+          <text>accumulated in a quantity of more than 4 on a single property shall be considered to be a commercial salvage operation and subject all applicable requirements and fees for such an operation in <cite path="|40.15.040">Section 40.15.040</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1384,7 +1384,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A farmer or rancher within the Reservation boundaries disposing of waste pesticides from his own use which are hazardous wastes is not required to comply with <cite path="§40.09.020">this section</cite> for those wastes provided he triple rinses each emptied pesticide container in accordance with 40 CFR 261.7(b)(3) and disposes of the pesticide residues on his own farm or ranch in a manner consistent with the disposal instructions on the pesticide label and does not endanger human health or the environment.</text>
+          <text>A farmer or rancher within the Reservation boundaries disposing of waste pesticides from his own use which are hazardous wastes is not required to comply with <cite path="|40.09.020">this section</cite> for those wastes provided he triple rinses each emptied pesticide container in accordance with 40 CFR 261.7(b)(3) and disposes of the pesticide residues on his own farm or ranch in a manner consistent with the disposal instructions on the pesticide label and does not endanger human health or the environment.</text>
         </para>
       </para>
       <para>
@@ -1412,7 +1412,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Storage of larger quantities of tires requires a formal solid waste storage permit from the Tribal EPA pursuant to <cite path="§40.15.060">Section 40.15.060</cite>. Individuals or businesses accepting scrap tires are subject to enforcement action if the activity:</text>
+          <text>Storage of larger quantities of tires requires a formal solid waste storage permit from the Tribal EPA pursuant to <cite path="|40.15.060">Section 40.15.060</cite>. Individuals or businesses accepting scrap tires are subject to enforcement action if the activity:</text>
           <para>
             <num>(A)</num>
             <text>creates a nuisance;</text>
@@ -1451,7 +1451,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>Construction and Demolition Wastes. All construction or demolition wastes and debris must be properly disposed in accordance with this Act. Prime contractors are required to obtain a Tribal EPA permit, per <cite path="§40.15.020">Section 40.15.020</cite> of this Act, prior to beginning any construction or demolition work on the Reservation.</text>
+        <text>Construction and Demolition Wastes. All construction or demolition wastes and debris must be properly disposed in accordance with this Act. Prime contractors are required to obtain a Tribal EPA permit, per <cite path="|40.15.020">Section 40.15.020</cite> of this Act, prior to beginning any construction or demolition work on the Reservation.</text>
       </para>
       <para>
         <num>(m)</num>
@@ -1575,7 +1575,7 @@
     <section>
       <num>40.11.090</num>
       <heading>Animal Carcasses</heading>
-      <text>Animal carcasses or parts of animal carcasses shall be disposed of pursuant to <cite path="§40.07.080">Section 40.07.080</cite>.</text>
+      <text>Animal carcasses or parts of animal carcasses shall be disposed of pursuant to <cite path="|40.07.080">Section 40.07.080</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.11.090 was formerly codified as 40.1109</annotation>
       </annotations>
@@ -1849,7 +1849,7 @@
     <section>
       <num>40.13.040</num>
       <heading>Contents of Application: Solid Waste Management Facilities</heading>
-      <text>Permit applications filed pursuant to <cite path="§40.13.040">this section</cite> for the storage, accumulation, transfer, treatment or other management of solid waste shall include:</text>
+      <text>Permit applications filed pursuant to <cite path="|40.13.040">this section</cite> for the storage, accumulation, transfer, treatment or other management of solid waste shall include:</text>
       <para>
         <num>(a)</num>
         <text>A description of the facilities, mechanical and other equipment, holding tanks, vehicles, and locations and means of temporary solid waste storage or accumulation used or to be used by the applicant;</text>
@@ -1908,7 +1908,7 @@
       <text>As a condition for the issuance of a solid waste collection and/or transportation permit, the Solid Waste Director shall:</text>
       <para>
         <num>(a)</num>
-        <text>Require every vehicle operated by the transporter to be conspicuously marked or placarded to identify the solid waste transported and its principal hazard. Any such vehicle shall be marked in a like manner with the full name or legally registered trade names or names of the transporter and the number of the Tribal solid waste collection and/or transportation permit(s) issued pursuant to <cite path="§40.13.070">this section</cite>;</text>
+        <text>Require every vehicle operated by the transporter to be conspicuously marked or placarded to identify the solid waste transported and its principal hazard. Any such vehicle shall be marked in a like manner with the full name or legally registered trade names or names of the transporter and the number of the Tribal solid waste collection and/or transportation permit(s) issued pursuant to <cite path="|40.13.070">this section</cite>;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1921,7 +1921,7 @@
     <section>
       <num>40.13.080</num>
       <heading>Contents of Application: Solid Waste Transportation</heading>
-      <text>Permit applications filed pursuant to <cite path="§40.13.080">this section</cite> for the transportation of solid waste shall include:</text>
+      <text>Permit applications filed pursuant to <cite path="|40.13.080">this section</cite> for the transportation of solid waste shall include:</text>
       <para>
         <num>(a)</num>
         <text>A description of the number and type of the vehicles and related mechanical and other equipment to be used by the applicant;</text>
@@ -2091,7 +2091,7 @@
     <section>
       <num>40.15.010</num>
       <heading>Special Waste Management Permits</heading>
-      <text>All permits required in <cite path="§40.15.010">this section</cite> for the management or disposal of special waste, as designated by this Act, shall be applied for and obtained from the Tribal EPA and shall comply with the permit application and issuance requirements of <cite path="40.12">Chapter 40.12</cite>. All fees for the issuance of such permits shall be remitted to the Tribal EPA.</text>
+      <text>All permits required in <cite path="|40.15.010">this section</cite> for the management or disposal of special waste, as designated by this Act, shall be applied for and obtained from the Tribal EPA and shall comply with the permit application and issuance requirements of <cite path="40.12">Chapter 40.12</cite>. All fees for the issuance of such permits shall be remitted to the Tribal EPA.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.15.010 was formerly codified as 40.1501</annotation>
       </annotations>
@@ -2099,7 +2099,7 @@
     <section>
       <num>40.15.020</num>
       <heading>Construction and Demolition Wastes Permit</heading>
-      <text>Prime contractors are required to obtain a Tribal EPA permit, per <cite path="§40.14.030">Section 40.14.030</cite> of this Act, prior to beginning any construction or demolition work on the Reservation. The permit fee shall be payable to the Tribal EPA and shall be for the sum of 1% of the total contract cost. Failure to obtain a permit will result in delay of the startup of the construction or demolition project. If a construction project begins without a Tribal EPA permit, the construction site will be closed down and penalties/fines along with interest will be assessed according to the number of days the construction project was in operation without a permit. Any false information given on such permit application can result in the Turtle Mountain Tribe EPA and other environmental departments denying permits on any projects within the Reservation Boundaries for that Prime contractor for a period of two years. Such permit application shall be provided in the format designated by the Tribal EPA.</text>
+      <text>Prime contractors are required to obtain a Tribal EPA permit, per <cite path="|40.14.030">Section 40.14.030</cite> of this Act, prior to beginning any construction or demolition work on the Reservation. The permit fee shall be payable to the Tribal EPA and shall be for the sum of 1% of the total contract cost. Failure to obtain a permit will result in delay of the startup of the construction or demolition project. If a construction project begins without a Tribal EPA permit, the construction site will be closed down and penalties/fines along with interest will be assessed according to the number of days the construction project was in operation without a permit. Any false information given on such permit application can result in the Turtle Mountain Tribe EPA and other environmental departments denying permits on any projects within the Reservation Boundaries for that Prime contractor for a period of two years. Such permit application shall be provided in the format designated by the Tribal EPA.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.15.020 was formerly codified as 40.1502</annotation>
       </annotations>
@@ -2394,11 +2394,11 @@
       <heading>Remedial Actions</heading>
       <para>
         <num>(a)</num>
-        <text>Imminent Threats. If any of the circumstances set forth herein above <u>pose an imminent threat </u>to public health, life or the environment, the TM-EPA Director may approve the Compliance Officer to initiate appropriate action pursuant to <cite path="§40.18.010|(a)">Section 40.18.010(a)</cite>.</text>
+        <text>Imminent Threats. If any of the circumstances set forth herein above <u>pose an imminent threat </u>to public health, life or the environment, the TM-EPA Director may approve the Compliance Officer to initiate appropriate action pursuant to <cite path="|40.18.010|(a)">Section 40.18.010(a)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Other Remedial Actions. If any <em>of </em>the circumstances set forth herein above <u>do not pose an imminent threat </u>to public health or the environment, but the Compliance Officer deems it necessary for the public health and safety to perform timely clean up, abatement work or remedial work, the TM-EPA Director may approve the Compliance Officer to perform such actions pursuant to <cite path="§40.18.010|(b)">Section 40.18.010(b)</cite>.</text>
+        <text>Other Remedial Actions. If any <em>of </em>the circumstances set forth herein above <u>do not pose an imminent threat </u>to public health or the environment, but the Compliance Officer deems it necessary for the public health and safety to perform timely clean up, abatement work or remedial work, the TM-EPA Director may approve the Compliance Officer to perform such actions pursuant to <cite path="|40.18.010|(b)">Section 40.18.010(b)</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.16.070 was formerly codified as 40.1607</annotation>
@@ -2478,7 +2478,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Inspect and make a copy of any relevant documents in the possession or custody or under the control of the other party, including but not limited to statements made by any person pertaining to the subject matter of the proceeding, all writings pertaining to the subject matter of the proceeding, and investigative reports pertaining to the subject matter of the proceeding. Nothing in <cite path="§40.16.140">this section</cite> shall authorize the inspection or copying of any writing or thing that is privileged from disclosure by law or otherwise made confidential or protected as attorney work product or otherwise;</text>
+        <text>Inspect and make a copy of any relevant documents in the possession or custody or under the control of the other party, including but not limited to statements made by any person pertaining to the subject matter of the proceeding, all writings pertaining to the subject matter of the proceeding, and investigative reports pertaining to the subject matter of the proceeding. Nothing in <cite path="|40.16.140">this section</cite> shall authorize the inspection or copying of any writing or thing that is privileged from disclosure by law or otherwise made confidential or protected as attorney work product or otherwise;</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2549,7 +2549,7 @@
     <section>
       <num>40.17.040</num>
       <heading>Penalties in Addition to Others</heading>
-      <text>Penalties under <cite path="§40.17.040">this section</cite> are in addition to and do not supersede or limit any other remedies, civil or criminal.</text>
+      <text>Penalties under <cite path="|40.17.040">this section</cite> are in addition to and do not supersede or limit any other remedies, civil or criminal.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.17.040 was formerly codified as 40.1704</annotation>
       </annotations>
@@ -3303,7 +3303,7 @@
     <section>
       <num>40.17.420</num>
       <heading>Economic Benefit from Delayed Costs and Avoided Costs</heading>
-      <text><cite path="§40.17.420">This section</cite> discusses two types of economic benefit from noncompliance in determining the economic benefit component:</text>
+      <text><cite path="|40.17.420">This section</cite> discusses two types of economic benefit from noncompliance in determining the economic benefit component:</text>
       <para>
         <num>(a)</num>
         <text>benefit from delayed costs; and</text>
@@ -3406,7 +3406,7 @@
         <para>
           <num>(4)</num>
           <text>violator's response to previous violation(s) in regard to correction of problem.</text>
-          <text>A violation generally should be considered "similar" if the TMBCI/EPA previous enforcement response should have alerted the party to a particular type of compliance problem. A previous violation of the same requirement would constitute a similar violation. Nevertheless, a history of noncompliance can be established even in the absence of similar violations, where there is a pattern of disregard of environmental requirements contained in Tribal or another federal environmental statute. Enforcement personnel should examine multimedia compliance by the respondent and, where there are indications of a history of noncompliance, the penalty should be adjusted accordingly.     For the purpose of <cite path="§40.17.450">this section</cite>, a "previous violation" includes any act or omission for which a formal or informal enforcement response has occurred (e.g., Tribal, EPA or State notice of violation, warning letter, complaint, consent agreement, final order, or consent decree). The term also includes any act or omission for which the violator has previously been given written notification or warning, however informal, that the TMBCI/EPA believes a violation exists.</text>
+          <text>A violation generally should be considered "similar" if the TMBCI/EPA previous enforcement response should have alerted the party to a particular type of compliance problem. A previous violation of the same requirement would constitute a similar violation. Nevertheless, a history of noncompliance can be established even in the absence of similar violations, where there is a pattern of disregard of environmental requirements contained in Tribal or another federal environmental statute. Enforcement personnel should examine multimedia compliance by the respondent and, where there are indications of a history of noncompliance, the penalty should be adjusted accordingly.     For the purpose of <cite path="|40.17.450">this section</cite>, a "previous violation" includes any act or omission for which a formal or informal enforcement response has occurred (e.g., Tribal, EPA or State notice of violation, warning letter, complaint, consent agreement, final order, or consent decree). The term also includes any act or omission for which the violator has previously been given written notification or warning, however informal, that the TMBCI/EPA believes a violation exists.</text>
         </para>
       </para>
       <para>
@@ -3500,7 +3500,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Remediation by TM-TRP at Orphan Sites. The Tribal EPA may expend funds, subject to approval of the Tribal Council, for the purpose of remediation of orphan sites and the performance of any other activity as defined in <cite path="§40.18.010">this section</cite>. Such activities may include conducting site evaluations and testing, evaluating remedial measures, selecting remediation requirements, and constructing, installing, maintaining and operating systems to remedy contamination in accordance with a remediation work plan prescribed by the Tribal EPA Director (the TM-EPA Director) for the orphan site. The liability of the TM-TRP and the Tribes to fulfill the requirements of <cite path="§40.18.010">this section</cite> is limited to the amount of funds available for such actions. As used in <cite path="§40.18.010">this section</cite>, orphan sites means:</text>
+        <text>Remediation by TM-TRP at Orphan Sites. The Tribal EPA may expend funds, subject to approval of the Tribal Council, for the purpose of remediation of orphan sites and the performance of any other activity as defined in <cite path="|40.18.010">this section</cite>. Such activities may include conducting site evaluations and testing, evaluating remedial measures, selecting remediation requirements, and constructing, installing, maintaining and operating systems to remedy contamination in accordance with a remediation work plan prescribed by the Tribal EPA Director (the TM-EPA Director) for the orphan site. The liability of the TM-TRP and the Tribes to fulfill the requirements of <cite path="|40.18.010">this section</cite> is limited to the amount of funds available for such actions. As used in <cite path="|40.18.010">this section</cite>, orphan sites means:</text>
         <para>
           <num>(1)</num>
           <text>Sites where the Tribal EPA Director determines that there is no viable party that is responsible for causing or contributing to the contamination present at the site;</text>
@@ -3518,7 +3518,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>Does not constitute an imminent or substantial endangerment to human health or the environment which is being addressed by the holder of the no further action letter pursuant to a reopening of the no further action letter under <cite path="§40.18.010">this section</cite>; or</text>
+            <text>Does not constitute an imminent or substantial endangerment to human health or the environment which is being addressed by the holder of the no further action letter pursuant to a reopening of the no further action letter under <cite path="|40.18.010">this section</cite>; or</text>
           </para>
         </para>
         <para>
@@ -3557,7 +3557,7 @@
       <text>Whenever the TM-TRP determines that the operation of a solid waste management facility or the collection or transportation of solid waste is causing or threatening to cause a release of a hazardous substance, contaminant or pollutant or a condition of hazard, pollution, or nuisance due to the migration of hazardous or solid waste, or for any other reason, TM-TRP may require the operator of the solid waste facility or the solid waste transporter to take corrective action necessary to abate any hazard, pollution, or nuisance or to protect public health and safety and the environment the owner or operator of the property or business may be held liable for all damages and costs associated with the assessment, investigation, cleanup, abatement, or remedial actions caused by such release or threat or release. However, an "innocent land owner", as defined below, is not liable for investigation, monitoring, remediation or other response action, or relates costs, regarding contamination attributable to a release, discharge or migration of contaminants on his property.</text>
       <para>
         <num>(a)</num>
-        <text>Innocent Land Owner. For the purposes of <cite path="§40.18.030">this section</cite> "Innocent land owner" means a person who did not cause or contribute to the source of contamination and who is one (1) of the following:</text>
+        <text>Innocent Land Owner. For the purposes of <cite path="|40.18.030">this section</cite> "Innocent land owner" means a person who did not cause or contribute to the source of contamination and who is one (1) of the following:</text>
         <para>
           <num>(1)</num>
           <text>An owner of real property that has become contaminated as a result of a release or migration of contaminants from a source not located on or at the real property;</text>
@@ -3581,7 +3581,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To be eligible for immunity under <cite path="§40.18.030">this section</cite>, such "innocent land owner" shall:</text>
+        <text>To be eligible for immunity under <cite path="|40.18.030">this section</cite>, such "innocent land owner" shall:</text>
         <para>
           <num>(1)</num>
           <text>Grant to the TM-TRP or to a person designated by the TM-TRP, reasonable access to the land for purposes of investigation, monitoring or remediation;</text>
@@ -3602,7 +3602,7 @@
       <para>
         <num>(c)</num>
         <text>Any person who knowingly transfers, conveys or obtains an interest in land to avoid liability for contamination, remediation or compliance with any provision of this Act shall not be an innocent owner.</text>
-        <text>Notwithstanding the provisions of <cite path="§40.18.030">this section</cite>, an innocent land owner who undertakes a cleanup of his property must comply with all applicable provisions of this Act.</text>
+        <text>Notwithstanding the provisions of <cite path="|40.18.030">this section</cite>, an innocent land owner who undertakes a cleanup of his property must comply with all applicable provisions of this Act.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.18.030 was formerly codified as 40.1803</annotation>
@@ -3611,7 +3611,7 @@
     <section>
       <num>40.18.040</num>
       <heading>Recovery of Expenditure of Tribal Funds</heading>
-      <text>In any case under <cite path="§40.18.040">this section</cite> where the TM-TRP expends funds to investigate, assess, remediate or contain contamination resulting from a spill or a release, and where the TM-TRP has identified a responsible party, and the responsible party is not an "innocent Land owner", the responsible party shall reimburse the TM-TRP. If a release of a hazardous substance, pollutant or contaminant is assessed, remediated, the effects thereof abated, or other necessary remedial action is taken by the TM-TRP as described above, the person or persons who committed or allowed the improper disposal, action or release shall be liable to TM-TRP for the reasonable costs actually incurred in cleaning up any solid waste, hazardous waste or hazardous material,  abating the effects thereof, monitoring , implementing engineering controls or taking other remedial action. The amount of such costs shall be recoverable in a civil action in the Tribal Court, together with the costs of suit incurred by TM-TRP in recovering such monies. A judgment ordering the payment of these costs to TM-TRP will bear interest at the rate of fifteen percent (15%) a year or at the rate of interest allowable on judgments under XXXXXX law, whichever is greater. TM-TRP shall reimburse the Tribes to the extent of the latter's contribution.</text>
+      <text>In any case under <cite path="|40.18.040">this section</cite> where the TM-TRP expends funds to investigate, assess, remediate or contain contamination resulting from a spill or a release, and where the TM-TRP has identified a responsible party, and the responsible party is not an "innocent Land owner", the responsible party shall reimburse the TM-TRP. If a release of a hazardous substance, pollutant or contaminant is assessed, remediated, the effects thereof abated, or other necessary remedial action is taken by the TM-TRP as described above, the person or persons who committed or allowed the improper disposal, action or release shall be liable to TM-TRP for the reasonable costs actually incurred in cleaning up any solid waste, hazardous waste or hazardous material,  abating the effects thereof, monitoring , implementing engineering controls or taking other remedial action. The amount of such costs shall be recoverable in a civil action in the Tribal Court, together with the costs of suit incurred by TM-TRP in recovering such monies. A judgment ordering the payment of these costs to TM-TRP will bear interest at the rate of fifteen percent (15%) a year or at the rate of interest allowable on judgments under XXXXXX law, whichever is greater. TM-TRP shall reimburse the Tribes to the extent of the latter's contribution.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.18.040 was formerly codified as 40.1804</annotation>
       </annotations>
@@ -3619,7 +3619,7 @@
     <section>
       <num>40.18.050</num>
       <heading>Remedial Action and Enforcement Orders</heading>
-      <text>Whenever TM-TRP determines that a person or responsible party is causing, has caused or is threatening to cause a condition of hazard, pollution, or nuisance due to the release or migration of a hazardous substance, pollutant or contaminant TM-TRP may issue an Order, pursuant to <cite path="40.16">Chapter 40.16</cite> of this Act, to take emergency action, cease or desist and/or require the person or responsible party to take corrective or remedial action necessary to abate any hazard, pollution, or nuisance or to protect public health and safety and the environment.  Any person shall, upon order of TM-TRP, cease and desist any improper action, remediate a release of a hazardous substance, pollutant or contaminant, abate the effects thereof, and take any other remedial action directed by TM-TRP pursuant to <cite path="§40.18.050">this section</cite>.</text>
+      <text>Whenever TM-TRP determines that a person or responsible party is causing, has caused or is threatening to cause a condition of hazard, pollution, or nuisance due to the release or migration of a hazardous substance, pollutant or contaminant TM-TRP may issue an Order, pursuant to <cite path="40.16">Chapter 40.16</cite> of this Act, to take emergency action, cease or desist and/or require the person or responsible party to take corrective or remedial action necessary to abate any hazard, pollution, or nuisance or to protect public health and safety and the environment.  Any person shall, upon order of TM-TRP, cease and desist any improper action, remediate a release of a hazardous substance, pollutant or contaminant, abate the effects thereof, and take any other remedial action directed by TM-TRP pursuant to <cite path="|40.18.050">this section</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.18.050 was formerly codified as 40.1805</annotation>
       </annotations>
@@ -3627,10 +3627,10 @@
     <section>
       <num>40.18.060</num>
       <heading>Accidental Release or Spill</heading>
-      <text>In the event of an accidental release or spill of a hazardous substance, pollutant or contaminant to the air, land or waters or groundwater of the Reservation resulting in a potential threat to the public health, welfare or the environment within the boundaries of the Reservation the persons causing the release or the originating facility's or vehicle's owner or operator must implement the requirements of <cite path="§40.18.060">this section</cite> to include:</text>
+      <text>In the event of an accidental release or spill of a hazardous substance, pollutant or contaminant to the air, land or waters or groundwater of the Reservation resulting in a potential threat to the public health, welfare or the environment within the boundaries of the Reservation the persons causing the release or the originating facility's or vehicle's owner or operator must implement the requirements of <cite path="|40.18.060">this section</cite> to include:</text>
       <para>
         <num>(a)</num>
-        <text>Timely and Appropriate Action. The persons causing the release or the originating facility or vehicle owner or operator must take timely and appropriate action to include notification of appropriate officials and government agencies as specified below. Failure to take timely and appropriate action, as directed by <cite path="§40.18.060">this section</cite> and the Compliance Officer may result in enforcement action pursuant to this Act and other Tribal Acts and/or referral to appropriate state or federal agencies.</text>
+        <text>Timely and Appropriate Action. The persons causing the release or the originating facility or vehicle owner or operator must take timely and appropriate action to include notification of appropriate officials and government agencies as specified below. Failure to take timely and appropriate action, as directed by <cite path="|40.18.060">this section</cite> and the Compliance Officer may result in enforcement action pursuant to this Act and other Tribal Acts and/or referral to appropriate state or federal agencies.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3724,7 +3724,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Attain Standards Established by the Tribe. A remedy shall attain standards established under <cite path="§40.18.070">this section</cite> for air, soil, water and ground water affected by the release, unless the Tribal EPA Director sets an alternate standard. No standard set under <cite path="§40.18.070">this section</cite> for a contaminant shall be set at a level or concentration lower than the background level or concentration for that contaminant. A remedy must attain standards or alternate standards by the end of the remediation period set forth in the Remediation Agreement. A remedy shall be considered to attain Tribal standards for air, soil water and ground water if it:</text>
+        <text>Attain Standards Established by the Tribe. A remedy shall attain standards established under <cite path="|40.18.070">this section</cite> for air, soil, water and ground water affected by the release, unless the Tribal EPA Director sets an alternate standard. No standard set under <cite path="|40.18.070">this section</cite> for a contaminant shall be set at a level or concentration lower than the background level or concentration for that contaminant. A remedy must attain standards or alternate standards by the end of the remediation period set forth in the Remediation Agreement. A remedy shall be considered to attain Tribal standards for air, soil water and ground water if it:</text>
         <para>
           <num>(1)</num>
           <text>Meets any applicable media standards established under Tribal or federal Act, law or rule or regulation; or</text>
@@ -3736,14 +3736,14 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Meet Site-Specific, Risk-Based Standards. The exposure factors to be used by the Tribal EPA Director to establish site-specific, risk-based standards under <cite path="§40.18.070">this section</cite> for hazardous substances, pollutants or contaminants in groundwater shall assume that groundwater may be used as a drinking water source, provided that no standard set under <cite path="§40.18.070">this section</cite> for a contaminant shall be set at a level or concentration lower than the background level or concentration for that contaminant. For substances that may adversely impact water quality, the exposure factors to be used by the Tribal EPA Director shall assume uses consistent with the class of use prior to contamination of the groundwater;</text>
+        <text>Meet Site-Specific, Risk-Based Standards. The exposure factors to be used by the Tribal EPA Director to establish site-specific, risk-based standards under <cite path="|40.18.070">this section</cite> for hazardous substances, pollutants or contaminants in groundwater shall assume that groundwater may be used as a drinking water source, provided that no standard set under <cite path="|40.18.070">this section</cite> for a contaminant shall be set at a level or concentration lower than the background level or concentration for that contaminant. For substances that may adversely impact water quality, the exposure factors to be used by the Tribal EPA Director shall assume uses consistent with the class of use prior to contamination of the groundwater;</text>
       </para>
       <para>
         <num>(d)</num>
         <text>Maintain Source Control. The remedy shall control any sources of releases so as to reduce or eliminate, to the extent technically practicable, further releases as required to protect human health and the environment.  A remedy shall be considered to control sources of releases if it controls the release of contaminants from sources to any media in concentrations that:</text>
         <para>
           <num>(1)</num>
-          <text>exceed applicable standards set by the Tribal EPA Director under <cite path="§40.18.070">this section</cite>, or the soil standards under <cite path="§40.18.070">this section</cite>; and</text>
+          <text>exceed applicable standards set by the Tribal EPA Director under <cite path="|40.18.070">this section</cite>, or the soil standards under <cite path="|40.18.070">this section</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3761,7 +3761,7 @@
     <section>
       <num>40.18.080</num>
       <heading>Remedy Selection</heading>
-      <text>The Tribal EPA Director shall choose a remedy, or combination of remedies, from among those remedies which meet the requirements of <cite path="§40.18.080">this section</cite>, as applicable. In choosing a remedy, the Tribal EPA Director shall consider:</text>
+      <text>The Tribal EPA Director shall choose a remedy, or combination of remedies, from among those remedies which meet the requirements of <cite path="|40.18.080">this section</cite>, as applicable. In choosing a remedy, the Tribal EPA Director shall consider:</text>
       <para>
         <num>(a)</num>
         <text>The extent to which the remedy will be reliable and effective for the long term. For remedies that include engineering or Tribal institutional controls, the TM-EPA Director shall consider the expected life cycle performance of any engineering controls, monitoring systems and institutional controls;</text>
@@ -3776,7 +3776,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The time required for each remedy to attain standards for air, soil water and ground water specified in <cite path="§40.18.080">this section</cite>, as applicable. A remedy involving monitored natural attenuation may be considered whether or not the TM-EPA Director has made a determination of technical impracticability. Monitored natural attenuation shall be deemed effective if there is evidence that natural attenuation is occurring and will be completed within a reasonable time period;</text>
+        <text>The time required for each remedy to attain standards for air, soil water and ground water specified in <cite path="|40.18.080">this section</cite>, as applicable. A remedy involving monitored natural attenuation may be considered whether or not the TM-EPA Director has made a determination of technical impracticability. Monitored natural attenuation shall be deemed effective if there is evidence that natural attenuation is occurring and will be completed within a reasonable time period;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -3843,7 +3843,7 @@
         <text>Site or properties that are not eligible to be voluntary remediation sites shall include:</text>
         <para>
           <num>(1)</num>
-          <text>A site for which remediation is not voluntary under <cite path="§40.18.090">this section</cite>;</text>
+          <text>A site for which remediation is not voluntary under <cite path="|40.18.090">this section</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3873,22 +3873,22 @@
     <section>
       <num>40.18.100</num>
       <heading>Voluntary Remediation Requirements</heading>
-      <text>Consistent with the policy and purpose of this Act, <cite path="§40.18.100">this section</cite> shall provide incentive to a responsible party, owner or operator to voluntarily remediate eligible sites. All voluntary remediation for eligible sites shall be performed in accordance with this Act and all remediation requirements shall be contained in a Remediation Agreement issued by the TM-TRP. The following requirements and procedures are necessary for voluntary remediation of eligible sites or properties under this Act:</text>
+      <text>Consistent with the policy and purpose of this Act, <cite path="|40.18.100">this section</cite> shall provide incentive to a responsible party, owner or operator to voluntarily remediate eligible sites. All voluntary remediation for eligible sites shall be performed in accordance with this Act and all remediation requirements shall be contained in a Remediation Agreement issued by the TM-TRP. The following requirements and procedures are necessary for voluntary remediation of eligible sites or properties under this Act:</text>
       <para>
         <num>(a)</num>
         <text>The remediation shall not conduct un-permitted releases of hazardous substances, pollutants or contaminants to the environment of the Reservation;</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Except as provided in <cite path="§40.18.100">this section</cite>, no additional remediation requirements may be imposed by the TM-TRP under this Act for remediation of any site or property subject to a Remediation Agreement issued by the TM-TRP, unless the Remediation Agreement has been reopened or terminated pursuant to this Act;</text>
+        <text>Except as provided in <cite path="|40.18.100">this section</cite>, no additional remediation requirements may be imposed by the TM-TRP under this Act for remediation of any site or property subject to a Remediation Agreement issued by the TM-TRP, unless the Remediation Agreement has been reopened or terminated pursuant to this Act;</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing in <cite path="§40.18.100">this section</cite> shall prohibit the imposition of remediation requirements to address the release of a contaminant which may occur after a Remediation Agreement has been entered into or a no further action letter has been issued;</text>
+        <text>Nothing in <cite path="|40.18.100">this section</cite> shall prohibit the imposition of remediation requirements to address the release of a contaminant which may occur after a Remediation Agreement has been entered into or a no further action letter has been issued;</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Remediation authorized by the TM-TRP under <cite path="§40.18.100">this section</cite> shall not be deemed a prohibited act under this Act, or of any rules or regulations promulgated thereunder;</text>
+        <text>Remediation authorized by the TM-TRP under <cite path="|40.18.100">this section</cite> shall not be deemed a prohibited act under this Act, or of any rules or regulations promulgated thereunder;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -3896,7 +3896,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Nothing in <cite path="§40.18.100">this section</cite> shall limit the TM-EPA Director's authority to order any person to abate any condition that poses an imminent or substantial endangerment to human health or the environment, or the TM-EPA Director's authority to issue emergency orders or take emergency action.</text>
+        <text>Nothing in <cite path="|40.18.100">this section</cite> shall limit the TM-EPA Director's authority to order any person to abate any condition that poses an imminent or substantial endangerment to human health or the environment, or the TM-EPA Director's authority to issue emergency orders or take emergency action.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.18.100 was formerly codified as 40.1810</annotation>
@@ -3905,7 +3905,7 @@
     <section>
       <num>40.18.110</num>
       <heading>Application for Participation in the Voluntary Remediation Program</heading>
-      <text>To participate in the TM-TRP voluntary remediation program an applicant identified as the owner, operator or other responsible party must submit an application to the Tribal EPA Director of the TM-TRP that provides a location and description of the site. The application shall also describe the site- specific conditions which the applicant believes satisfy one (1) or more of the above eligibility criteria of <cite path="§40.18.110">this section</cite>. No later than forty-five (45) days after receipt of the application, the TM-TRP shall give written notice to the applicant containing the TM-EPA Director's determination of the site eligibility for participation in the voluntary remediation program.</text>
+      <text>To participate in the TM-TRP voluntary remediation program an applicant identified as the owner, operator or other responsible party must submit an application to the Tribal EPA Director of the TM-TRP that provides a location and description of the site. The application shall also describe the site- specific conditions which the applicant believes satisfy one (1) or more of the above eligibility criteria of <cite path="|40.18.110">this section</cite>. No later than forty-five (45) days after receipt of the application, the TM-TRP shall give written notice to the applicant containing the TM-EPA Director's determination of the site eligibility for participation in the voluntary remediation program.</text>
       <annotations>
         <annotation type="Prior Codifications">§40.18.110 was formerly codified as 40.1811</annotation>
       </annotations>
@@ -3924,7 +3924,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Administrative or judicial order to which the United States Environmental Protection Agency is a party, which is issued after the effective date of this Act, on a site or property that has been determined not to be eligible under <cite path="§40.18.120">this section</cite>.</text>
+        <text>Administrative or judicial order to which the United States Environmental Protection Agency is a party, which is issued after the effective date of this Act, on a site or property that has been determined not to be eligible under <cite path="|40.18.120">this section</cite>.</text>
         <text>Sites or properties that are not eligible for voluntary remediation are subject to all other applicable requirements of this Act.</text>
       </para>
       <annotations>
@@ -3988,8 +3988,8 @@
       <para>
         <num>(c)</num>
         <text>Re-openers or termination clauses determined appropriate by the TM-EPA Director.</text>
-        <text>The TM-EPA Director may enter into a Remediation Agreement for any site or property subject to a prior administrative or judicial order or permit which contains remedial requirements. However, no Remediation Agreement for any such site or property shall be effective until the previous order or permit has been modified to incorporate the terms of the Remediation Agreement. Modifications to Orders or permits under <cite path="§40.18.140">this section</cite> shall be made using the procedures specified in the prior Order or permit.</text>
-        <text>Entry into a Remediation Agreement under <cite path="§40.18.140">this section</cite> shall not affect the duty of the site owner or operator to comply with any prior order or permit.</text>
+        <text>The TM-EPA Director may enter into a Remediation Agreement for any site or property subject to a prior administrative or judicial order or permit which contains remedial requirements. However, no Remediation Agreement for any such site or property shall be effective until the previous order or permit has been modified to incorporate the terms of the Remediation Agreement. Modifications to Orders or permits under <cite path="|40.18.140">this section</cite> shall be made using the procedures specified in the prior Order or permit.</text>
+        <text>Entry into a Remediation Agreement under <cite path="|40.18.140">this section</cite> shall not affect the duty of the site owner or operator to comply with any prior order or permit.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.18.140 was formerly codified as 40.1814</annotation>
@@ -3998,7 +3998,7 @@
     <section>
       <num>40.18.150</num>
       <heading>Public Notification</heading>
-      <text>The residents of the Turtle Mountain Reservation shall be notified of remedial actions planned and conducted under <cite path="§40.18.150">this section</cite>.</text>
+      <text>The residents of the Turtle Mountain Reservation shall be notified of remedial actions planned and conducted under <cite path="|40.18.150">this section</cite>.</text>
       <para>
         <num>(a)</num>
         <text>The TM-TRP shall notify the affected public of all confirmed releases requiring a response plan for soil, water and/or groundwater remediation, and upon request, provide or make available to the interested public information concerning the nature of the release and any corrective actions planned or taken</text>
@@ -4023,7 +4023,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>provide a summary of the criterion which makes the site eligible for participation in the TM-TRP voluntary remediation program under <cite path="§40.18.150">this section</cite>; and</text>
+            <text>provide a summary of the criterion which makes the site eligible for participation in the TM-TRP voluntary remediation program under <cite path="|40.18.150">this section</cite>; and</text>
           </para>
           <para>
             <num>(C)</num>
@@ -4047,7 +4047,7 @@
       <num>40.18.160</num>
       <heading>Public Participation</heading>
       <text>For any Remedial Action the TM-EPA Director shall implement a public participation plan. In implementing the plan, the TM-EPA Director shall consult with and consider the public participation needs of interested parties, including but not limited to all known adjacent property owners of record of land, responsible tribal or federal government agencies and local public interest groups.</text>
-      <text>In determining whether there is significant public interest, the TM-EPA Director shall consider whether there have been responses to the notices required under <cite path="§40.18.160">this section</cite> by:</text>
+      <text>In determining whether there is significant public interest, the TM-EPA Director shall consider whether there have been responses to the notices required under <cite path="|40.18.160">this section</cite> by:</text>
       <para>
         <num>(a)</num>
         <text>At least five (5) individuals;</text>
@@ -4227,7 +4227,7 @@
         <text>No Further Action Letter (NFA). If the TM-EPA Director determines that no further remediation is required on a property or site; the TM-TRP may, upon request, issue a No Further Action (NFA) Letter to a responsible party, person or government agency and/or a prospective purchaser or leasee to document that a response action is complete pursuant to this Act and any Tribal Order or permit requiring such action, and that no further action may be required. The NFA letter may provide site owners, operators, prospective purchasers, or other responsible party or government agency certainty about the extent of their remediation liability. The letter may state that, at the time the letter is issued, all remediation requirements necessary to protect human health and the environment have been successfully completed and that TM-TRP currently has no plans to further evaluate the site or to impose additional remediation requirements.  Special conditions and/or re-openers may be included in the NFA letter when:</text>
         <para>
           <num>(1)</num>
-          <text>The property or site requires engineering or institutional controls or other use restrictions to meet the standards in <cite path="§40.18.180">this section</cite>; or</text>
+          <text>The property or site requires engineering or institutional controls or other use restrictions to meet the standards in <cite path="|40.18.180">this section</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4243,7 +4243,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The TM-TRP determines that the monitored natural attenuation remedy is not effective in meeting the standards for a No Further Action letter under <cite path="§40.18.180">this section</cite>.</text>
+          <text>The TM-TRP determines that the monitored natural attenuation remedy is not effective in meeting the standards for a No Further Action letter under <cite path="|40.18.180">this section</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -4259,7 +4259,7 @@
         <text>The Tribal EPA Director, an owner or leasee of a site or property or a government agency responsible for a site or property may propose long-term restrictions on the use of a site or property and shall petition to the Tribal Council and to the appropriate governmental entity or entities, as appropriate, for the creation of such an institutional control area to establish long-term restrictions on the use of the site or property. Such petitioner for creation or modification of an institutional control area shall:</text>
         <para>
           <num>(1)</num>
-          <text>Provide data, information, reports and any other information required in a Remediation Assessment Agreement and/or Remediation Agreement under <cite path="§40.18.190">this section</cite>;</text>
+          <text>Provide data, information, reports and any other information required in a Remediation Assessment Agreement and/or Remediation Agreement under <cite path="|40.18.190">this section</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4277,11 +4277,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The Tribal Council may, on a vote taken within one hundred eighty (180) days after the petition is received, condition its vote approving the petition upon the determination by the Tribal EPA Director that a remedy can be selected that meets the requirements of <cite path="§40.18.190">this section</cite> and is consistent with petition.</text>
+        <text>The Tribal Council may, on a vote taken within one hundred eighty (180) days after the petition is received, condition its vote approving the petition upon the determination by the Tribal EPA Director that a remedy can be selected that meets the requirements of <cite path="|40.18.190">this section</cite> and is consistent with petition.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>The Tribal EPA or the Compliance Officer may request an institutional control be placed on a property or site but shall not have the authority to require a Tribal or governmental entity to adopt any restriction applicable to a site as part of a remediation or response action or a Remediation Agreement. Before a voluntary remediation applicant and the TM-TRP may enter into a Remediation Agreement that includes long-term restrictions on the use of a site or property, the owner or leasee of the site or property must obtain an institutional control designation for the site as provided for in <cite path="§40.18.190">this section</cite>.</text>
+        <text>The Tribal EPA or the Compliance Officer may request an institutional control be placed on a property or site but shall not have the authority to require a Tribal or governmental entity to adopt any restriction applicable to a site as part of a remediation or response action or a Remediation Agreement. Before a voluntary remediation applicant and the TM-TRP may enter into a Remediation Agreement that includes long-term restrictions on the use of a site or property, the owner or leasee of the site or property must obtain an institutional control designation for the site as provided for in <cite path="|40.18.190">this section</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -4297,7 +4297,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Nothing in <cite path="§40.18.190">this section</cite> shall contravene or limit the authority of any Tribal, county, city or government agency to regulate and control the property under their jurisdiction.</text>
+        <text>Nothing in <cite path="|40.18.190">this section</cite> shall contravene or limit the authority of any Tribal, county, city or government agency to regulate and control the property under their jurisdiction.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.18.190 was formerly codified as 40.1819</annotation>
@@ -4328,7 +4328,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The monitored natural attenuation remedy is not effective in meeting the standards under <cite path="§40.18.200">this section</cite>.</text>
+          <text>The monitored natural attenuation remedy is not effective in meeting the standards under <cite path="|40.18.200">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -4357,7 +4357,7 @@
       <heading>Disputes and Appeals</heading>
       <para>
         <num>(a)</num>
-        <text>If a person and the TM-EPA Director or Compliance Officer is unable after good faith efforts to resolve a dispute arising under <cite path="§40.18.210">this section</cite> pursuant to the provisions of an agreement, the person may request a hearing to appeal the TM-EPA Director's or Compliance Officer's decision.</text>
+        <text>If a person and the TM-EPA Director or Compliance Officer is unable after good faith efforts to resolve a dispute arising under <cite path="|40.18.210">this section</cite> pursuant to the provisions of an agreement, the person may request a hearing to appeal the TM-EPA Director's or Compliance Officer's decision.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4380,7 +4380,7 @@
       <heading>Fees, Notices and Appeal</heading>
       <para>
         <num>(a)</num>
-        <text>The TM-TRP shall implement a fee system and schedule of fees, subject to the approval of the Tribal Council, which are applicable to the applicant for a Remediation Assessment Agreement, Remediation Agreement, Certificates of Completion or No Further Action letter authorized under <cite path="§40.18.230">this section</cite>.  Fees shall cover all reasonable direct and indirect costs of the Tribal EPA Director's, the TM-TRP's and Compliance Officer's participation in any activity authorized by <cite path="§40.18.230">this section</cite>.</text>
+        <text>The TM-TRP shall implement a fee system and schedule of fees, subject to the approval of the Tribal Council, which are applicable to the applicant for a Remediation Assessment Agreement, Remediation Agreement, Certificates of Completion or No Further Action letter authorized under <cite path="|40.18.230">this section</cite>.  Fees shall cover all reasonable direct and indirect costs of the Tribal EPA Director's, the TM-TRP's and Compliance Officer's participation in any activity authorized by <cite path="|40.18.230">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4388,7 +4388,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The applicant for the Remediation Assessment Agreements, Remediation Agreements, Certificates of Completion and No Further Action letters authorized under <cite path="§40.18.230">this section</cite> may appeal the assessment to the Tribal Council within thirty (30) days of receipt of the notice.</text>
+        <text>The applicant for the Remediation Assessment Agreements, Remediation Agreements, Certificates of Completion and No Further Action letters authorized under <cite path="|40.18.230">this section</cite> may appeal the assessment to the Tribal Council within thirty (30) days of receipt of the notice.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§40.18.230 was formerly codified as 40.1823</annotation>

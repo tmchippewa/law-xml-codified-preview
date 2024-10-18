@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>1277-05-24</num>
+  <heading>Resolution Number TMBC1277-05-24 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2024-06-04</effective>
+    <citations>
+      <citation type="res" url="./adopted/1277-05-24.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24</citation>
+    </citations>
+    <history>
+      <adopted>2024-05-30</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959, and amendments approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State, and local government and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|6">Article IX (a) Section 6</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>the Tribe is proposing revision to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="2">Title 2</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="2.14">Section 2.14</cite> to provide for the adoption of revisions to how attorneys and advocates are licensed and to be consistent with the adoption of <cite doc="Turtle Mountain Constitution and By-laws" path="XIV">Article XIV of the Constitution</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>approved a 30-day comment period by the adoption of Resolution No. TMBC1046-03-24 for the proposed amendments and no comments were received; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving revisions to the Turtle Mountain Band of Chippew Indians <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="2">Title 2</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="2.14">Section 2.14</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly to insert amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="2">Title 2</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of nine (9) members of whom six (6) constituting a quorum were present at a meeting duly called, convened and held on the 30<sup>th</sup> day of May, 2024 that the foregoing resolution was adopted by an affirmative vote of five (5) in favor - Representatives Ron Trottier Sr., Blaine "Slugger"  Davis, Craig Lunday, Jon Jon Keplin and Elmer Davis Jr.; three (3) absent - Representatives Kenneth Malaterre, Lynn Gourneau and Chad Counts; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW / Dated the ____th day of ___________, 2024</text>
+    <text>(  ) VETOED / Dated this ____th day of ____________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="2.14.010" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.010">
+    <section>
+      <num>2.14.010</num>
+      <heading>Qualifications to Admission</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person may practice as an attorney before the Tribal Court or the Tribal Court of Appeals unless admitted to practice and enrolled as an attorney of the Tribal Court upon written application. Any attorney-at-law, who is a member in good standing of the bar of any state or federal court, shall be eligible for admission to practice before the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any Indian of the reservation shall be admitted to practice as an advocate before the court upon application accompanied by proof satisfactory to the court:</text>
+        <para>
+          <num>(1)</num>
+          <text>that he is at least twenty-one (21) years of age;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>that he is a person of good moral character and integrity;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>that he has successfully completed at least two (2) years of high school work or its equivalent;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>that he has never been convicted of a felony for which he has not received a pardon or restoration of civil rights;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>that he is not a member of the Tribal Council, an employee of the Tribe or of the United States.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Judicial Board shall review applications for admission and issue or deny licenses based upon the criteria listed above. Such authority shall not infringe upon the Court's authority enumerated herein.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2.14.020" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.020">
+    <section>
+      <num>2.14.020</num>
+      <heading>Filing Fee</heading>
+      <text>A filing fee shall accompany each application for admission to the bar which shall be set by the regulating body.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="2.14.050" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.050">
+    <section>
+      <num>2.14.050</num>
+      <heading>Disbarment</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Court, the Tribal Court of Appeals may disbar an attorney or advocate from practice before the Court, or impose suspension from practice for such time as the Court deems appropriate on any of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>False swearing;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conviction of a felony;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disbarment by a federal or state court;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Conduct unbecoming an officer of the court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Failure to act as counsel for a defendant upon assignment of the Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Judicial Board may disbar an advocate or attorney after complaint by a party with standing, and investigation, and a hearing.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2.14.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.060">
+    <section>
+      <num>2.14.060</num>
+      <heading>Prosecuting Attorneys and Defense Attorneys</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any, indigent defendant who pleads "not guilty" to an offense, or combination of offenses, punishable by imprisonment and is unable to secure an attorney for his defense, shall be entitled to be represented by an attorney appointed by the Court from the Attorney's roll.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where a defendant is represented by an attorney, the Court, in its discretion, may appoint a prosecuting attorney from the Attorney's roll or outside the Attorney's roll. The prosecuting attorney so appointed shall be compensated for his services at a rate equal to the fee or compensation paid to prosecutors by the county in which the Court sits.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="2.14.070" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.070">
+    <section>
+      <num>2.14.070</num>
+      <heading>Council Members Shall Not Practice as Attorneys or Advocates before the Turtle Mountain Court System</heading>
+      <text>No member of the Tribal Council shall practice before the Tribal Court or the Tribal Court of Appeals during his term of office.</text>
+    </section>
+  </codify:replace>
+</document>

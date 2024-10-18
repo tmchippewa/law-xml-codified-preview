@@ -699,7 +699,7 @@
     <section>
       <num>5.01.120</num>
       <heading>Inspection of Jailor Detention Center; Notice of Findings; Report of Custodian</heading>
-      <text>The judge of the Juvenile Court of the Turtle Mountain Jurisdiction, at least bi-annually, shall inspect any jailor detention center, which in the preceding calendar year, was used for the confinement of any juvenile. The judge shall note in the record of the Court whether the jailor detention center is a suitable place of confinement for juveniles. The custodian of each jailor detention center shall make such reports as may be required by the Juvenile Court to effectuate the purposes of <cite path="§5.01.120">this section</cite>.</text>
+      <text>The judge of the Juvenile Court of the Turtle Mountain Jurisdiction, at least bi-annually, shall inspect any jailor detention center, which in the preceding calendar year, was used for the confinement of any juvenile. The judge shall note in the record of the Court whether the jailor detention center is a suitable place of confinement for juveniles. The custodian of each jailor detention center shall make such reports as may be required by the Juvenile Court to effectuate the purposes of <cite path="|5.01.120">this section</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.01.120 was formerly codified as 5.0112</annotation>
       </annotations>
@@ -788,7 +788,7 @@
     <section>
       <num>5.02.030</num>
       <heading>Contempt of Court</heading>
-      <text>Any willful disobedience or interference with any lawful order of the Juvenile Court constitutes a contempt of court and shall be punished as provided by <cite path="§2.10.040">Section 2.10.040</cite> of the Turtle Mountain Tribal Code.</text>
+      <text>Any willful disobedience or interference with any lawful order of the Juvenile Court constitutes a contempt of court and shall be punished as provided by <cite path="|2.10.040">Section 2.10.040</cite> of the Turtle Mountain Tribal Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.02.030 was formerly codified as 5.0203</annotation>
       </annotations>
@@ -895,7 +895,7 @@
         <text>Manner of Service; By whom served.</text>
         <para>
           <num>(1)</num>
-          <text>Service of summons or process and the petition shall be made by process server as appointed by the Court.</text>
+          <text>Service of summons or process and the petition shall be made by process server, who is at least 18 years of age and not a party to nor interested in the action.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -927,6 +927,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§5.02.050 was formerly codified as 5.0205</annotation>
+        <annotation app="2024-05-06" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24" eff="2024-05-06" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1069,7 +1070,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Unless otherwise authorized by <cite path="§5.02.080">this section</cite>, information about the juvenile record may not be released when the request for information is related to an application for employment, license, bonding, or any civil right or privilege.</text>
+          <text>Unless otherwise authorized by <cite path="|5.02.080">this section</cite>, information about the juvenile record may not be released when the request for information is related to an application for employment, license, bonding, or any civil right or privilege.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1434,7 +1435,7 @@
     <section>
       <num>5.02.240</num>
       <heading>Juvenile Detention; Hearing Limitation</heading>
-      <text>Any juvenile arrested for a violation of law must have a hearing within forty-eight (48) hours to decide if further detention is warranted. If further detention is warranted, the Court may impose commitments and judgments under <cite path="§5.02.110">Section 5.02.110</cite> of this Code. If further detention is not warranted, the child must be released immediately.</text>
+      <text>Any juvenile arrested for a violation of law must have a hearing within forty-eight (48) hours to decide if further detention is warranted. If further detention is warranted, the Court may impose commitments and judgments under <cite path="|5.02.110">Section 5.02.110</cite> of this Code. If further detention is not warranted, the child must be released immediately.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.02.240 was formerly codified as 5.0224</annotation>
       </annotations>
@@ -1442,7 +1443,7 @@
     <section>
       <num>5.02.250</num>
       <heading>Photos and Fingerprints; Juvenile Restrictions</heading>
-      <text>No juvenile shall be photographed or fingerprinted by law enforcement authorities unless permission is granted by the Court or unless conditions as specified in <cite path="§5.02.080|(j)|(3)">Section 5.02.080(j)(3)</cite> applies.</text>
+      <text>No juvenile shall be photographed or fingerprinted by law enforcement authorities unless permission is granted by the Court or unless conditions as specified in <cite path="|5.02.080|(j)|(3)">Section 5.02.080(j)(3)</cite> applies.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.02.250 was formerly codified as 5.0225</annotation>
       </annotations>
@@ -1665,7 +1666,7 @@
     <section>
       <num>5.04.010</num>
       <heading>Transfer from State Courts</heading>
-      <text>The Turtle Mountain Tribal Court may accept or decline State Court transfers of child custody proceedings. The purpose of <cite path="§5.04.010">this section</cite> is to provide for the speedy and effective procedures for the processing of referrals under the Indian Child Welfare Act of 1978 from State or Tribal Court in order to best protect the interest of children of the Turtle Mountain Tribe and the interests of the Tribe. It is intended that the Tribe will investigate cases referred to them and will act to transfer to the Tribal Court those cases in which transfer is in the best interests of the child. The procedures found in <cite path="§5.04.010">this section</cite> are aimed at producing a thoughtful and wise decision in the matter of transfers.</text>
+      <text>The Turtle Mountain Tribal Court may accept or decline State Court transfers of child custody proceedings. The purpose of <cite path="|5.04.010">this section</cite> is to provide for the speedy and effective procedures for the processing of referrals under the Indian Child Welfare Act of 1978 from State or Tribal Court in order to best protect the interest of children of the Turtle Mountain Tribe and the interests of the Tribe. It is intended that the Tribe will investigate cases referred to them and will act to transfer to the Tribal Court those cases in which transfer is in the best interests of the child. The procedures found in <cite path="|5.04.010">this section</cite> are aimed at producing a thoughtful and wise decision in the matter of transfers.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.04.010 was formerly codified as 5.0401</annotation>
       </annotations>
@@ -1766,7 +1767,7 @@
     <section>
       <num>5.04.060</num>
       <heading>Proceedings upon Transfer</heading>
-      <text>When transfer of a case has been made by a referral court, the Chief Judge of the Tribal Court shall immediately notify Social Services or a probation officer, and a petition under <cite path="§5.02.040">Section 5.02.040</cite> of this Code shall be filed at the earliest practicable date.</text>
+      <text>When transfer of a case has been made by a referral court, the Chief Judge of the Tribal Court shall immediately notify Social Services or a probation officer, and a petition under <cite path="|5.02.040">Section 5.02.040</cite> of this Code shall be filed at the earliest practicable date.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.04.060 was formerly codified as 5.0406</annotation>
       </annotations>
@@ -1937,7 +1938,7 @@
     <section>
       <num>5.07.050</num>
       <heading>Confidentiality of Reporter; Immunity from Legal Liability</heading>
-      <text>Any person, other than the alleged perpetrator, acting in good faith in the making of a report of child abuse or neglect, or in providing protective services under this Code, is held immune from any liability, civil or criminal, that otherwise might result. For the purposes of <cite path="§5.07.050">this section</cite>, the good faith of any person mandated to report cases of child abuse or neglect shall be presumed. Any information regarding the source of the child abuse or neglect report shall be kept confidential and identity of the reporter shall not be disclosed.</text>
+      <text>Any person, other than the alleged perpetrator, acting in good faith in the making of a report of child abuse or neglect, or in providing protective services under this Code, is held immune from any liability, civil or criminal, that otherwise might result. For the purposes of <cite path="|5.07.050">this section</cite>, the good faith of any person mandated to report cases of child abuse or neglect shall be presumed. Any information regarding the source of the child abuse or neglect report shall be kept confidential and identity of the reporter shall not be disclosed.</text>
       <text>An individual who willfully makes a false report or provides information they know or should have known to be false is liable in a civil action for treble damages including exemplary damages.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.07.050 was formerly codified as 5.0705</annotation>
@@ -2096,7 +2097,7 @@
     <section>
       <num>5.07.130</num>
       <heading>Cooperation Required</heading>
-      <text>All law and order officials, Tribal Court, and appropriate social service and health agencies, schools, and others shall cooperate in fulfillment of the purposes of <cite path="§5.07.130">this section</cite> of the Code.</text>
+      <text>All law and order officials, Tribal Court, and appropriate social service and health agencies, schools, and others shall cooperate in fulfillment of the purposes of <cite path="|5.07.130">this section</cite> of the Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.07.130 was formerly codified as 5.0713</annotation>
       </annotations>
@@ -2145,7 +2146,7 @@
       <num>5.07.190</num>
       <heading>Photographs and X-Rays</heading>
       <text>Any person or official required by this Code to report known or suspected child abuse, neglect, or deprivation, may cause to be taken color photographs of the areas of injury visible on a child who is the subject of a report and, if indicated by medical consultations, cause to be performed a radiological examination of the child without the consent of the child's parents or guardian.</text>
-      <text>All photographs taken pursuant to <cite path="§5.07.190">this section</cite> of the Code shall be taken by or under the direction of law enforcement officials upon the request of any person or official required to report under <cite path="5.07">this chapter</cite>. All photographs or x-rays taken, or copies of them, shall be made available to the Tribal Court at the time of the Court hearing.</text>
+      <text>All photographs taken pursuant to <cite path="|5.07.190">this section</cite> of the Code shall be taken by or under the direction of law enforcement officials upon the request of any person or official required to report under <cite path="5.07">this chapter</cite>. All photographs or x-rays taken, or copies of them, shall be made available to the Tribal Court at the time of the Court hearing.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.07.190 was formerly codified as 5.0719</annotation>
       </annotations>
@@ -2321,7 +2322,7 @@
     <section>
       <num>5.11.010</num>
       <heading>Compulsory Attendance</heading>
-      <text>Every parent, guardian, or other person who resides within the Turtle Mountain Tribe's Jurisdiction and has custody and control over any educable child of an age of seven (7) years to eighteen (18) who does not fall under the provision of <cite path="§5.11.020">Section 5.11.020</cite> shall send or take such child to school each year during the entire time school is in session. Schools included within the Tribes Jurisdiction: Dunseith Day School, Ojibwa Indian School, St. Ann's Catholic School and all of Turtle Mountain School(s), Middle School and Elementary School.</text>
+      <text>Every parent, guardian, or other person who resides within the Turtle Mountain Tribe's Jurisdiction and has custody and control over any educable child of an age of seven (7) years to eighteen (18) who does not fall under the provision of <cite path="|5.11.020">Section 5.11.020</cite> shall send or take such child to school each year during the entire time school is in session. Schools included within the Tribes Jurisdiction: Dunseith Day School, Ojibwa Indian School, St. Ann's Catholic School and all of Turtle Mountain School(s), Middle School and Elementary School.</text>
       <annotations>
         <annotation type="Prior Codifications">§5.11.010 was formerly codified as 5.1101</annotation>
       </annotations>
@@ -2376,7 +2377,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any minor child, through his parent or guardian, may submit to the institution authorities, either a certificate from a licensed physician stating that the physical condition of the child is such that immunization would endanger the life or health of the child, or a certificate signed by his parent or guardian whose beliefs are opposed to such immunization. The minor child shall then be exempt from the provisions of <cite path="§5.11.050">this section</cite>.</text>
+        <text>Any minor child, through his parent or guardian, may submit to the institution authorities, either a certificate from a licensed physician stating that the physical condition of the child is such that immunization would endanger the life or health of the child, or a certificate signed by his parent or guardian whose beliefs are opposed to such immunization. The minor child shall then be exempt from the provisions of <cite path="|5.11.050">this section</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2384,11 +2385,11 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The immunizations required and the procedure for their administration, as prescribed by the North Dakota State Department of Health, shall conform to recognized standard medical practices in North Dakota. Indian Public Health Services shall administer the provisions of <cite path="§5.11.050">this section</cite> and shall promulgate rules and regulations.</text>
+        <text>The immunizations required and the procedure for their administration, as prescribed by the North Dakota State Department of Health, shall conform to recognized standard medical practices in North Dakota. Indian Public Health Services shall administer the provisions of <cite path="|5.11.050">this section</cite> and shall promulgate rules and regulations.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>When, in the opinion of an Indian Public Health Officer, danger of an epidemic exists from any of the communicable diseases for which immunization is required under <cite path="§5.11.050">this section</cite>, the exemptions from immunization against such disease shall not be recognized and children not immunized shall be excluded from an institution listed in Subsection (a) until, in the opinion of the Health Officer, the danger of the epidemic is over. The designated institution authority shall notify those parents or guardians taking legal exception to the immunization requirements that their children are excluded from school during an epidemic as determined by the Indian Public Health Services.</text>
+        <text>When, in the opinion of an Indian Public Health Officer, danger of an epidemic exists from any of the communicable diseases for which immunization is required under <cite path="|5.11.050">this section</cite>, the exemptions from immunization against such disease shall not be recognized and children not immunized shall be excluded from an institution listed in Subsection (a) until, in the opinion of the Health Officer, the danger of the epidemic is over. The designated institution authority shall notify those parents or guardians taking legal exception to the immunization requirements that their children are excluded from school during an epidemic as determined by the Indian Public Health Services.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§5.11.050 was formerly codified as 5.1105</annotation>

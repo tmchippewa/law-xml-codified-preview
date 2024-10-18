@@ -11,16 +11,16 @@
       <html-bulk>https://github.com/tmchippewa/law-html</html-bulk>
       <static-assets>https://github.com/tmchippewa/law-static-assets</static-assets>
       <law-git>https://github.com/tmchippewa/law.git</law-git>
-      <html/>
+      <html>https://law.tmchippewa.com</html>
     </canonical-urls>
     <history-start>2023-03-22</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="tmchippewa/law-xml" commit="8ece13b6657a58ed58631517c2acd3a12e12a68b"/>
+        <repository name="tmchippewa/law-xml" commit="4029dd07277d4e5a2b8062177d20083848c116d5"/>
       </repositories>
-      <platform version="2.12.7" reproducible="false"/>
-      <build-date>2024-08-14</build-date>
-      <codified-date>2024-08-05</codified-date>
+      <platform version="2.14.9" reproducible="false"/>
+      <build-date>2024-10-18</build-date>
+      <codified-date>2024-09-25</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/tmchippewa/council/constitution/index.xml"/>

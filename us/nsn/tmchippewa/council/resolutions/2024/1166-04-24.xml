@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24">
+  <num>1166-04-24</num>
+  <heading>Resolution Number TMBC1166-04-24 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2024-05-06</effective>
+    <citations>
+      <citation type="res" url="./adopted/1166-04-24.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24</citation>
+    </citations>
+    <history>
+      <adopted>2024-04-25</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959 and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and By-Laws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe is proposing revision to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5">Title 5 Children's Code</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02">Chapter 5.02</cite> <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02.050">Section 5.02.050</cite> Summons; Content and Service Thereof to add language for the process server to be at least 18 years of age and not a party to nor interested in the action with a strikethrough of <s>as appointed by the Court</s>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>approved a 30-day comment period by the adoption of Resolution No. TMBC1042-03-24 for the proposed amendments and no comments were received; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving revisions to the Turtle Mountain Band of Chippewa Indians Children's Code <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5">Title 5</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02">Chapter 5.023</cite> <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02.050">Section 5.02.050</cite></text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly to insert amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5">Title 5</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of nine (9) members of whom nine (9) constituting a quorum were present at a meeting duly called, convened and held on the 25<sup>th</sup> day of April, 2024 that the foregoing resolution was adopted by an affirmative vote of eight (8) in favor- Representatives Elmer Davis Jr., Blaine "Slugger"  Davis, Craig Lunday, Kenneth Malaterre, Jon Jon Keplin, Ron Trottier Sr., Lynn Gourneau and Chad Counts; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2024</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02.050|(d)|(1)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|5.02.050|(d)|(1)">
+    <para>
+      <num>(1)</num>
+      <text>Service of summons or process and the petition shall be made by process server, who is at least 18 years of age and not a party to nor interested in the action.</text>
+    </para>
+  </codify:replace>
+</document>

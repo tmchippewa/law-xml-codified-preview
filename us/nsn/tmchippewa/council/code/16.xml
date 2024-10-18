@@ -51,7 +51,7 @@
     </section>
     <section>
       <num>16.01.070</num>
-      <text><strong>"Person"</strong> shall mean any Indian as defined by <cite path="§1.03.010|(f)">Section 1.03.010(f)</cite> of the Turtle Mountain Tribal Code.</text>
+      <text><strong>"Person"</strong> shall mean any Indian as defined by <cite path="|1.03.010|(f)">Section 1.03.010(f)</cite> of the Turtle Mountain Tribal Code.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.01.070 was formerly codified as 16.0107</annotation>
       </annotations>
@@ -64,7 +64,7 @@
     <section>
       <num>16.02.010</num>
       <heading>Health Board to Establish Minimum Standards</heading>
-      <text>The Health Board of the Turtle Mountain Band of Chippewa Indians, in order to protect the health and safety of residents of the Turtle Mountain Jurisdiction as defined by <cite path="§1.05.010">Section 1.05.010</cite> of the Turtle Mountain Tribal Code and general public, is authorized and directed to promulgate the following regulations by establishing minimum standards governing the design, construction, installation and operation of individual sewage disposal systems and to protect the public health, control water pollution, and abate nuisance and odor conditions.</text>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indians, in order to protect the health and safety of residents of the Turtle Mountain Jurisdiction as defined by <cite path="|1.05.010">Section 1.05.010</cite> of the Turtle Mountain Tribal Code and general public, is authorized and directed to promulgate the following regulations by establishing minimum standards governing the design, construction, installation and operation of individual sewage disposal systems and to protect the public health, control water pollution, and abate nuisance and odor conditions.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.02.010 was formerly codified as 16.0201</annotation>
       </annotations>
@@ -186,7 +186,7 @@
     <section>
       <num>16.04.010</num>
       <heading>Health Board to Promulgate Regulations for Refuse Systems</heading>
-      <text>The Health Board of the Turtle Mountain Band of Chippewa Indian Tribe or its authorized representative, in order to protect the health and safety of the residents of the Turtle Mountain Jurisdiction as defined by <cite path="§1.05.020">Section 1.05.020</cite> of the Turtle Mountain Tribal Code of 1968, and general public, is authorized and directed to promulgate the following regulations establishing minimum standards governing design construction and installation of individual, public or community sanitary landfill refuse, systems to protect the public health, control water pollution and abate nuisance and odor conditions.</text>
+      <text>The Health Board of the Turtle Mountain Band of Chippewa Indian Tribe or its authorized representative, in order to protect the health and safety of the residents of the Turtle Mountain Jurisdiction as defined by <cite path="|1.05.020">Section 1.05.020</cite> of the Turtle Mountain Tribal Code of 1968, and general public, is authorized and directed to promulgate the following regulations establishing minimum standards governing design construction and installation of individual, public or community sanitary landfill refuse, systems to protect the public health, control water pollution and abate nuisance and odor conditions.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.04.010 was formerly codified as 16.0401</annotation>
       </annotations>
@@ -210,7 +210,7 @@
     <section>
       <num>16.04.040</num>
       <heading>Storage of Refuse</heading>
-      <text>Each property owner or occupant of any building or premises located within a community of the Turtle Mountain Jurisdiction used for business purposes, shall store all refuse in covered metal containers, refuse as defined by <cite path="§16.01.050">Section 16.01.050</cite> of this Code, on a concrete platform or elevated rack at least eighteen (18) inches above ground level. In the case of residential property, refuse cans shall be placed on racks or stands not less than twelve (12) inches or more than sixteen (16) inches, which are so designed to prevent access thereto by dogs, rats, flies, and vermin. In either event, such cans shall be conveniently located and readily accessible to refuse collectors at all times.</text>
+      <text>Each property owner or occupant of any building or premises located within a community of the Turtle Mountain Jurisdiction used for business purposes, shall store all refuse in covered metal containers, refuse as defined by <cite path="|16.01.050">Section 16.01.050</cite> of this Code, on a concrete platform or elevated rack at least eighteen (18) inches above ground level. In the case of residential property, refuse cans shall be placed on racks or stands not less than twelve (12) inches or more than sixteen (16) inches, which are so designed to prevent access thereto by dogs, rats, flies, and vermin. In either event, such cans shall be conveniently located and readily accessible to refuse collectors at all times.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.04.040 was formerly codified as 16.0404</annotation>
       </annotations>
@@ -226,7 +226,7 @@
     <section>
       <num>16.04.060</num>
       <heading>Require Services of Waste Collection and Disposal Utility</heading>
-      <text>Al permanent Indian residents living in the Turtle Mountain Jurisdiction shall dispose of all refuse, barnyard waste or other waste material as defined in <cite path="§16.01.040">Section 16.01.040</cite> of this Code, by methods approved by the health board or its authorized representative.</text>
+      <text>Al permanent Indian residents living in the Turtle Mountain Jurisdiction shall dispose of all refuse, barnyard waste or other waste material as defined in <cite path="|16.01.040">Section 16.01.040</cite> of this Code, by methods approved by the health board or its authorized representative.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.04.060 was formerly codified as 16.0406</annotation>
       </annotations>
@@ -242,7 +242,7 @@
     <section>
       <num>16.04.080</num>
       <heading>Throwing of Refuse in Streets, Roads and Highways, Etc. Prohibited</heading>
-      <text>It shall be unlawful for any Indian person, firm, corporation or corporations to throw, place, or deposit or permit to be thrown, placed, or deposited, any refuse defined in <cite path="§16.01.040">Section 16.01.040</cite> of this Code, hereof upon the ground within any community of the Turtle Mountain Jurisdiction or on the Turtle Mountain Jurisdiction area, except in places hereinafter provided.</text>
+      <text>It shall be unlawful for any Indian person, firm, corporation or corporations to throw, place, or deposit or permit to be thrown, placed, or deposited, any refuse defined in <cite path="|16.01.040">Section 16.01.040</cite> of this Code, hereof upon the ground within any community of the Turtle Mountain Jurisdiction or on the Turtle Mountain Jurisdiction area, except in places hereinafter provided.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.04.080 was formerly codified as 16.0408</annotation>
       </annotations>
@@ -516,7 +516,7 @@
         <text>Bakery, Products:</text>
         <para>
           <num>(1)</num>
-          <text>All bakery products shall have been prepared in the food-service establishment or in a food-processing establishment: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations. All cream-filled and custard filled pastries shall have been prepared and handled in accordance with the requirements of <cite path="§16.09.020">Section 16.09.020</cite> of this Code.</text>
+          <text>All bakery products shall have been prepared in the food-service establishment or in a food-processing establishment: Provided, that the health authority may accept other sources which are in his opinion satisfactory and which are in compliance with applicable State and local laws and regulations. All cream-filled and custard filled pastries shall have been prepared and handled in accordance with the requirements of <cite path="|16.09.020">Section 16.09.020</cite> of this Code.</text>
         </para>
       </para>
       <para>
@@ -967,7 +967,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Hearings. The hearings provided for in <cite path="§16.15.010">this section</cite> shall be conducted by the health authority at a time and place designated by him. Based upon the record of such hearing, the health authority shall make a finding and shall sustain, modify, or rescind any official notice or order considered in the hearing. A written report of the hearing decision shall be furnished to the permit holder by the health authority.</text>
+        <text>Hearings. The hearings provided for in <cite path="|16.15.010">this section</cite> shall be conducted by the health authority at a time and place designated by him. Based upon the record of such hearing, the health authority shall make a finding and shall sustain, modify, or rescind any official notice or order considered in the hearing. A written report of the hearing decision shall be furnished to the permit holder by the health authority.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§16.15.010 was formerly codified as 16.1501</annotation>
@@ -983,7 +983,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of <cite path="16.09">Chapter 16.09</cite> through <cite path="16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="§16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
+        <text>Inspection records; demerit values; demerit scores. Whenever the health authority makes an inspection of a food-service establishment, he shall record his findings on an inspection report form provided for this purpose, and shall furnish the original of such inspection report form to the permit holder or operator. Such form shall summarize the requirements of <cite path="16.09">Chapter 16.09</cite> through <cite path="16.14">Chapter 16.14</cite> of <cite path="16">this title</cite> and shall set forth demerit point values for each such requirement, in accordance with PHS Form 4006, which is a part of <cite path="|16.15.020">this section</cite>. Upon completion of an inspection, the health authority shall total the demerit point values for all requirements in violation, such total becoming the demerit score for the establishment.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1027,7 +1027,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Service of notices. Notices provided for under <cite path="§16.15.020">this section</cite> shall be deemed to have been properly served when the original of the inspection report form or other notice has been delivered personally to the permit holder or person in charge, or such notice has been sent by registered or certified mail, return receipt requested, to the last known address of the permit holder. A copy of such notice shall be filed with the records of the health authority.</text>
+        <text>Service of notices. Notices provided for under <cite path="|16.15.020">this section</cite> shall be deemed to have been properly served when the original of the inspection report form or other notice has been delivered personally to the permit holder or person in charge, or such notice has been sent by registered or certified mail, return receipt requested, to the last known address of the permit holder. A copy of such notice shall be filed with the records of the health authority.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -1047,8 +1047,8 @@
         <para>
           <num>(4)</num>
           <text>Grade C. An establishment having of more than 20 but not more than a demerit score 40.</text>
-          <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (<cite path="§16.15.010|(b)">Section 16.15.010(b)</cite> or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
-          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="§16.15.020|(c)|(2)|(C)">Section 16.15.020(c)(2)(C)</cite> of <cite path="16">this title</cite>.</text>
+          <text>Notwithstanding the grade criteria established above, whenever a second consecutive violation of any item of 2 or 4 demerit points is discovered, the permit may be suspended (<cite path="|16.15.010|(b)">Section 16.15.010(b)</cite> or in lieu thereof, the establishment shall be downgraded to the next lower grade.</text>
+          <text>Immediately following each inspection, the health authority shall post the appropriate grade based upon the inspection findings and shall issue an appropriate notice in accordance with <cite path="|16.15.020|(c)|(2)|(C)">Section 16.15.020(c)(2)(C)</cite> of <cite path="16">this title</cite>.</text>
           <text>The permit holder or operator of any establishment, the grade of which has been lowered, may at any time request an inspection for the purpose of re-grading the establishment. Within ten (10) days following receipt of a request including a signed statement that the conditions responsible for the lowering of the grade have, in the applicant's opinion, been corrected, the health authority shall make an inspection and thereafter as many additional inspections as he may deem necessary to assure himself that the applicant is complying with the higher grade requirements; and, if the findings indicate compliance, shall award the higher grade.</text>
         </para>
       </para>
@@ -1059,7 +1059,7 @@
     <section>
       <num>16.15.030</num>
       <heading>Examination and Condemnation of Food</heading>
-      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="§16.15.020|(c)|(4)">Section 16.15.020(c)(4)</cite>, and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
+      <text>Food may be examined or sampled by the health authority as often as may be necessary to determine freedom from adulteration or misbranding. The health authority may, upon written notice to the owner or person in charge, place a hold order on any food which he determines or has probable cause to believe to be unwholesome or otherwise adulterated, or misbranded. Under a hold order, food shall be permitted to be suitably stored. It shall be unlawful for any person to remove or alter a hold order, notice or tag placed on food by the health authority, and neither such food nor the containers thereof shall be relabeled, repacked, reprocessed, altered, disposed of, or destroyed without permission of the health authority, except on order by a court of competent jurisdiction. After the owner or person in charge has had a hearing as provided for in <cite path="|16.15.020|(c)|(4)">Section 16.15.020(c)(4)</cite>, and on the basis of evidence produced at such hearing, or on the basis of his examination in the event a written request for a hearing is not received within ten (10) days, the health authority may vacate the hold order, or may by written order direct the owner or person in charge of the food which was placed under the hold order to denature or destroy such food or to bring it into compliance with the provisions of this ordinance; Provided, that such order of the health authority to denature or destroy such food or bring it into compliance with the provisions of <cite path="16">this title</cite> shall be stayed if the order is appealed to a court of competent jurisdiction within three (3) days.</text>
       <annotations>
         <annotation type="Prior Codifications">§16.15.030 was formerly codified as 16.1503</annotation>
       </annotations>
@@ -1237,7 +1237,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>The term "Turtle Mountain Jurisdiction" shall mean the same as specifically defined in <cite path="§1.05.020">Section 1.05.020</cite> of The Turtle Mountain Tribal Code.</text>
+        <text>The term "Turtle Mountain Jurisdiction" shall mean the same as specifically defined in <cite path="|1.05.020">Section 1.05.020</cite> of The Turtle Mountain Tribal Code.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§16.18.010 was formerly codified as 16.1801</annotation>
