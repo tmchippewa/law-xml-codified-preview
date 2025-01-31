@@ -1341,17 +1341,41 @@
     <section>
       <num>38.02.060</num>
       <heading>Reckless Driving; Aggravated Reckless Driving; Penalty</heading>
-      <text>Any person shall be guilty of reckless driving if he drives a vehicle:</text>
       <para>
         <num>(a)</num>
-        <text>Recklessly in disregard of the rights or safety of others; or</text>
+        <text>Any person shall be guilty of reckless driving if he or she drives a vehicle:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recklessly in disregard of the rights or safety of others; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Without due caution and circumspection and circumspection and at a speed or in a manner so as to endanger or be likely to endanger any person or the property of another.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person found guilty of reckless driving shall be subject to a penalty of a Class 3 offense as defined in <cite path="26">Title 26</cite>.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Without due caution and circumspection and circumspection and at a speed or in a manner so as to endanger or be likely to endanger any person or the property of another.</text>
+        <text>Any person shall be guilty of aggravated reckless driving if he or she drives a vehicle:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recklessly in disregard of the rights or safety of others and causes injury to property or person; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Without due caution and circumspection and circumspection and at a speed or in a manger as to endanger or be likely to endanger any person or the property of another and cause injury to property or person.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person found guilty of aggravated reckless driving shall be subject to a penalty of a Class 4 offense as defined in <cite path="26">Title 26</cite>.</text>
+        </para>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§38.02.060 was formerly codified as 38.0206</annotation>
+        <annotation app="2024-10-01" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24" eff="2024-10-01" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1787,7 +1811,7 @@
     <section>
       <num>38.02.280</num>
       <heading>Fleeing or Attempting to Elude a Peace Officer</heading>
-      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop, is guilty of a class A misdemeanor. A signal complies with <cite path="|38.02.280">this section</cite> if the signal is perceptible to the driver and:</text>
+      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop. A signal complies with <cite path="38.02.280" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24">this section</cite> if the signal is perceptible to the driver and:</text>
       <para>
         <num>(a)</num>
         <text>If given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the stopping vehicle is appropriately marked showing it to be an official police vehicle; or</text>
@@ -1798,6 +1822,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§38.02.280 was formerly codified as 38.0228</annotation>
+        <annotation app="2024-10-01" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24" eff="2024-10-01" path="" type="History"/>
       </annotations>
     </section>
     <section>

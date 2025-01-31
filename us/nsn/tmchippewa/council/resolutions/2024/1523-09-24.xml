@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24">
+  <num>1523-09-24</num>
+  <heading>Resolution Number TMBC1523-09-24 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2024-10-01</effective>
+    <citations>
+      <citation type="res" url="./adopted/1523-09-24.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24</citation>
+    </citations>
+    <history>
+      <adopted>2024-09-26</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959, and amendments approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with Federal, State, and Local Governments and with private persons; and </text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="VII|1">Article VII Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe placed out for public comment, proposed amendments to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38">Title 38</cite>, the Tribal Traffic Code, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060">38.0206</cite> and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280">38.0228</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>two provisions of the traffic code do not clearly state penalties for the offenses, specifically <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060">38.0206</cite> and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280">38.0228</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060">38.0206</cite> of the traffic code do not clearly differentiate between reckless driving and aggravated reckless driving; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>no comments were received on the aforementioned proposed amendments to the Tribal Traffic Code <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38">Title 38</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving amendments to the Tribal Traffic Code, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38">Title 38</cite>, <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060">Sections 38.0206</cite> and <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280">38.0228</cite>; now</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Code will be codified accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of <strong><em>nine (9) members</em></strong> of whom <strong><em>nine (9)</em></strong> constituting a quorum were present at the meeting duly called and held on the <strong><em>26<sup>th</sup> day of September 2024,</em></strong> that the foregoing resolution was adopteded by an affirmative vote of all <strong><em>eight (8) in favor</em></strong> – Representatives Elmer Davis Jr., Lynn Gourneau, Kenneth Malaterre, Jon Jon Keplin, Ron eight Tro in ttier favor Sr., Chad Counts, Elmer Davis Jr., Lynn Gourneau, Craig Lunday and Blaine "Slugger" Davis; none (0) absent; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW / Dated the ____th day of ___________, 2024</text>
+    <text>(  ) VETOED / Dated this ____th day of ____________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|38.02.060">
+    <section>
+      <num>38.02.060</num>
+      <heading>Reckless Driving; Aggravated Reckless Driving; Penalty</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person shall be guilty of reckless driving if he or she drives a vehicle:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recklessly in disregard of the rights or safety of others; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Without due caution and circumspection and circumspection and at a speed or in a manner so as to endanger or be likely to endanger any person or the property of another.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person found guilty of reckless driving shall be subject to a penalty of a Class 3 offense as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person shall be guilty of aggravated reckless driving if he or she drives a vehicle:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recklessly in disregard of the rights or safety of others and causes injury to property or person; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Without due caution and circumspection and circumspection and at a speed or in a manger as to endanger or be likely to endanger any person or the property of another and cause injury to property or person.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person found guilty of aggravated reckless driving shall be subject to a penalty of a Class 4 offense as defined in <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="26">Title 26</cite>.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|38.02.280">
+    <section>
+      <num>38.02.280</num>
+      <heading>Fleeing or Attempting to Elude a Peace Officer</heading>
+      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop. A signal complies with <cite path="38.02.280" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24">this section</cite> if the signal is perceptible to the driver and:</text>
+      <para>
+        <num>(a)</num>
+        <text>If given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the stopping vehicle is appropriately marked showing it to be an official police vehicle; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If not given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the officer is in uniform and prominently displays the officer's badge of office.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>
