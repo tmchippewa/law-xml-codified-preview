@@ -47,7 +47,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:repeal path="10" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|10.01.010"/>
+  <codify:repeal path="10" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|10.01.010|annos"/>
   <codify:insert path="35" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|35.07">
     <container>
       <prefix>Chapter</prefix>
