@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25" codify:doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
+  <num>512-07-25</num>
+  <heading>Resolution Number TMBC512-07-25 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</heading>
+  <meta>
+    <effective>2025-07-31</effective>
+    <citations>
+      <citation type="res" url="./adopted/512-07-25.pdf">Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25</citation>
+    </citations>
+    <history>
+      <adopted>2025-07-24</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band acting under a revised Constitution and By-Laws approved by the Secretary of the Interior on June 16<sup>th</sup>, 1959 and amendments thereto approved; and </text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and By-Laws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State, and Local Governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX|1">Article IX (a) Section 1</cite> of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise. Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>the Tribe is proposing to amend <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="19">Title 19</cite>, Alcoholic Beverage Controls to remove the word “tap” referring to the fees for Specialty Licenses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>by the adoption of TMBC335-04-25, the proposed amendment to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="19">Title 19</cite> was placed out for public comment and no comments were received; and</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving the amendment to <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="19.01.050|(e)">Title 19.01.050 (e)</cite> to remove the word “tap” when referring to the fees for Specialty License; class of: (e) Specialty license at an annual fee of four hundred dollars ($400) for beer, and five hundred dollars ($500) per year to sell beer and wine; now</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="19">Title 19</cite> of the Tribal Code will be codified accordingly.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of nine (9) members of whom seven (7) constituting a quorum were present at a meeting duly called, convened and held on the 24<sup>th</sup> day of July, 2025 that the foregoing resolution was adopted by an affirmative vote of six (6) in favor - Representatives Craig Lunday, Ron Trottier Sr., Chad Counts, Blaine “Slugger” Davis, Kenneth Malaterre and Lynn Gourneau; two (2) absent- Reps. Jon Jon Keplin and Elmer Davis Jr.; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean Morin, Tribal Secretary</text>
+    <text>(  ) SIGNED INTO LAW / Dated the ____th day of ___________, 2024</text>
+    <text>(  ) VETOED / Dated this ____th day of ____________, 2024</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+  <codify:replace path="19.01.050|(e)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|19.01.050|(e)">
+    <para>
+      <num>(e)</num>
+      <text>Specialty license at an annual fee of four hundred dollars ($400) for beer, and five hundred dollars ($500) per year to sell beer and wine.</text>
+    </para>
+  </codify:replace>
+</document>

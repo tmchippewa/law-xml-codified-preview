@@ -2,16 +2,16 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Turtle Mountain Band of Chippewa Indians Tribal Code">
   <prefix>Title</prefix>
   <num>10</num>
-  <reason>Repealed</reason>
   <heading>Animal and Rabies Control</heading>
+  <reason>Repealed</reason>
   <container>
     <prefix>Chapter</prefix>
     <num>10.01</num>
     <heading>Definitions and General Provisions</heading>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.010</num>
       <heading>Animal Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.010 was formerly codified as 10.0101</annotation>
@@ -19,9 +19,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.020</num>
       <heading>Dog and Puppy Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1413-08-18"/>
@@ -30,9 +30,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.030</num>
       <heading>Owner Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.030 was formerly codified as 10.0103</annotation>
@@ -40,9 +40,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.040</num>
       <heading>At Large Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.040 was formerly codified as 10.0104</annotation>
@@ -50,9 +50,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.050</num>
       <heading>Restrained Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.050 was formerly codified as 10.0105</annotation>
@@ -60,9 +60,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.060</num>
       <heading>Stray Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.060 was formerly codified as 10.0106</annotation>
@@ -70,9 +70,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.070</num>
       <heading>Rabies Vaccination Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.070 was formerly codified as 10.0107</annotation>
@@ -80,9 +80,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.080</num>
       <heading>Service Unit Director Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.080 was formerly codified as 10.0108</annotation>
@@ -90,9 +90,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.090</num>
       <heading>Dog Pound Defined</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.090 was formerly codified as 10.0109</annotation>
@@ -100,9 +100,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.01.100</num>
       <heading>Keeping of Pit Bull, Rottweiler and Doberman Pinscher Dogs Within the Boundaries of the Turtle Mountain Indian Reservation</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.01.100 was formerly codified as 10.0110</annotation>
@@ -115,9 +115,9 @@
     <num>10.02</num>
     <heading>Registration of Dogs</heading>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.010</num>
       <heading>Dogs to Be Registered</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.010 was formerly codified as 10.0201</annotation>
@@ -125,9 +125,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.020</num>
       <heading>Rabies Certificate of Vaccination Required</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.020 was formerly codified as 10.0202</annotation>
@@ -135,9 +135,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.030</num>
       <heading>Information Required on Certificate of Registration; Registration, Tags Issued and Disposition of Fees</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.030 was formerly codified as 10.0203</annotation>
@@ -145,9 +145,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.040</num>
       <heading>Expiration of Registration Certificate and Tags</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.040 was formerly codified as 10.0204</annotation>
@@ -155,9 +155,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.050</num>
       <heading>Attaching Registration Tag Without Proper Registering</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.050 was formerly codified as 10.0205</annotation>
@@ -165,9 +165,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.02.060</num>
       <heading>Refusal or Failure to Register or Pay Impoundment Fee</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.02.060 was formerly codified as 10.0206</annotation>
@@ -180,9 +180,9 @@
     <num>10.03</num>
     <heading>Impoundment and Destruction of Dogs</heading>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.03.010</num>
       <heading>Dogs to Be Seized and Impounded; Notification of Owner; Unclaimed Dogs</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1413-08-18"/>
@@ -191,9 +191,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.03.020</num>
       <heading>Requirement Before Release; Disposition of Service Fees</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.03.020 was formerly codified as 10.0302</annotation>
@@ -201,9 +201,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.03.030</num>
       <heading>Dogs to Be Destroyed in Humane and Sanitary Manner</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.03.030 was formerly codified as 10.0303</annotation>
@@ -211,9 +211,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.03.040</num>
       <heading>Designating Tribal Employees and Law Enforcement to Be Authorized to Destroy Any Unclaimed Dog</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.03.040 was formerly codified as 10.0304</annotation>
@@ -226,9 +226,9 @@
     <num>10.04</num>
     <heading>Control of Rabies Infected Domestic Animals</heading>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.04.010</num>
       <heading>Care and Control of Dog or Animal Known to Have Bitten a Person</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.04.010 was formerly codified as 10.0401</annotation>
@@ -236,9 +236,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.04.020</num>
       <heading>Failure of Owner to Confine Dog or Other Animal</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.04.020 was formerly codified as 10.0402</annotation>
@@ -246,9 +246,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.04.030</num>
       <heading>Quarantine of Animals; Authority to Establish Period and Location</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.04.030 was formerly codified as 10.0403</annotation>
@@ -256,9 +256,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.04.040</num>
       <heading>Animals to Be Confined; Responsibility of Owners</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.04.040 was formerly codified as 10.0404</annotation>
@@ -266,9 +266,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.04.050</num>
       <heading>Requirement for Vaccination of Animals</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.04.050 was formerly codified as 10.0405</annotation>
@@ -281,9 +281,9 @@
     <num>10.05</num>
     <heading>Penalties</heading>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>10.05.010</num>
       <heading>Penalties for Violation of This Title 10</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">§10.05.010 was formerly codified as 10.0501</annotation>
