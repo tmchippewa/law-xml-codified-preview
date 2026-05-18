@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Turtle Mountain Band of Chippewa Indians Res.No. 851-01-26">
+  <num>851-01-26</num>
+  <heading>Resolution Number Tmbc851-01-26 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa</heading>
+  <meta>
+    <effective>2026-01-14</effective>
+    <citations>
+      <citation type="res" url="./adopted/851-01-26.pdf">Turtle Mountain Band of Chippewa Indians Res.No. 851-01-26</citation>
+    </citations>
+    <history>
+      <adopted>2026-01-14</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Turtle Mountain Band of Chippewa Indians, hereinafter referred to as the Tribe, is an unincorporated Band of Indians acting under a revised Constitution and bylaws approved by the Secretary of the Interior on June 16, 1959, and amendments thereto approved; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Article IX (a) Section 1 of the <cite doc="Turtle Mountain Constitution and By-laws" proof="needed">Turtle Mountain Constitution and Bylaws</cite> empowers the Tribal Council with the authority to represent the Band and to negotiate with the Federal, State and local governments and with private persons; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Turtle Mountain Constitution and By-laws" path="VII|1" proof="needed">Article VII Section 1 of the Turtle Mountain Constitution and Bylaws</cite> requires a 30-day comment period prior to the adoption of any ordinances or amendments to the Tribal Code, whether proposed by resolution or otherwise.  Adoption must occur through a roll call vote of the Tribal Council at a publicly held meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe adopted <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="29">Title 29</cite> Corporate Code to the Turtle Mountain Tribal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe proposed to amend <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="29">Title 29</cite>, with inclusion of the proposed LLC Act to strengthen economic legal infrastructure and a comment period was held at that time; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribe is approving the amendment to the Turtle Mountain Tribal Code <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="29">Title 29</cite>, the Corporate Code with the inclusion of the proposed LLC Act; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that <cite doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="29">Title 29</cite> as amended, will be codified in its final revised version.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned Tribal Secretary of the Turtle Mountain Band of Chippewa Indians, do hereby certify that the Tribal Council is composed of nine (9) members of whom eight (8) constituting a quorum were present at a meeting duly called, convened and held on the 6th day of January, 2026 that the foregoing resolution was adopted by an affirmative vote of seven (7) in favor – Representatives Lynn Gourneau, Blaine "Slugger" Davis, Craig Lunday, Jon Jon Keplin, Ron Trottier Sr., Elmer Davis Jr. and Chad Counts; one (1) absent-Rep. Kenneth Malaterre; none (0) opposed; with the Tribal Chairman not voting.</text>
+    <text>_____________________________</text>
+    <text>Jolean A. Morin, Tribal Secretary</text>
+    <text>(   ) SIGNED INTO LAW/Dated this____day of _____________, 2026</text>
+    <text>(   ) VETOED/Dated this_____day of ______________, 2026</text>
+    <text>_____________________________</text>
+    <text>Jamie Azure, Tribal Chairman</text>
+  </procedural-data>
+</document>
